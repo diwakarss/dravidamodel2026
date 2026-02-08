@@ -15,8 +15,8 @@
   "type": "Water/Sanitation",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": "150 MLD capacity; 24 Aquifer Storage and Recovery (ASR) wells"
+    "crore": 1516.82,
+    "notes": "150 MLD capacity desalination plant Phase 2. RO process with DAF and UF pre-treatment. Commissioned Feb 2024"
   },
   "timeline": {
     "startYear": 2021,

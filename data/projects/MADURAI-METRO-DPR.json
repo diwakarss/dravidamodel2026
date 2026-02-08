@@ -15,8 +15,8 @@
   "type": "Public Transport",
   "status": "Ongoing",
   "budget": {
-    "crore": null,
-    "notes": "DPR by Aarvee Associates"
+    "crore": 11368.0,
+    "notes": "DPR estimated cost for 31 km with 27 stations (26 km elevated, 5 km underground). Project submitted Dec 2024, rejected Nov 2025 - doesn't meet population criteria"
   },
   "timeline": {
     "startYear": 2021,

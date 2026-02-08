@@ -15,8 +15,8 @@
   "type": "Education/Health",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": "1000 low-cost pharmacies across 38 districts"
+    "crore": 300.0,
+    "notes": "1,000 pharmacies: ₹3L per SHG unit. 75% discount on medicines. Inaugurated Feb 24, 2025 by CM Stalin"
   },
   "timeline": {
     "startYear": 2024,

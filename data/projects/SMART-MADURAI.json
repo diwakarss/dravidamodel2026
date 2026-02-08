@@ -15,8 +15,8 @@
   "type": "Other",
   "status": "Ongoing",
   "budget": {
-    "crore": null,
-    "notes": "7/14 projects completed"
+    "crore": 1000.0,
+    "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
   },
   "timeline": {
     "startYear": 2021,

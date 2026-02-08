@@ -15,8 +15,8 @@
   "type": "Roads/Highways",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": null
+    "crore": 146.41,
+    "notes": "Chennai's longest unidirectional flyover, 2.03 km connecting Tambaram and Velachery. Inaugurated May 13, 2022 by CM Stalin"
   },
   "timeline": {
     "startYear": 2021,

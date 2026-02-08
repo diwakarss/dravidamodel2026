@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "generated": "2026-02-08",
   "totalProjects": 150,
-  "checksum": "8ec3a7cfcaede609247fcf3727f4be7f400ded409734e081b619d71919779969",
+  "checksum": "325c52626937fd67cacf316ceaaa2daee22f9f1fbba371c0371ff1fed2c3021e",
   "projects": [
     {
       "id": "CMRL-P2-C3",
@@ -561,8 +561,8 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": "500 buses: 320 AC (MTC), 100 non-AC (Madurai), 80 (Coimbatore incl 20 AC)"
+        "crore": 560.0,
+        "notes": "500 buses: 320 AC (MTC), 100 non-AC (Madurai), 80 (Coimbatore incl 20 AC). Estimated proportional to MTC's ₹697cr for 625 buses"
       },
       "timeline": {
         "startYear": 2021,
@@ -1664,8 +1664,8 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "100% completion achieved"
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1707,8 +1707,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": "7/14 projects completed"
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1793,8 +1793,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1836,8 +1836,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1879,8 +1879,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1922,8 +1922,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1965,8 +1965,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -2008,8 +2008,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 1000.0,
+        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -2352,8 +2352,8 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 80.74,
+        "notes": "Completed Sept 2020"
       },
       "timeline": {
         "startYear": 2021,
@@ -2395,8 +2395,8 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 55.0,
+        "notes": "Three-way paths on either side. Completed Sept 2020"
       },
       "timeline": {
         "startYear": 2021,
@@ -2438,8 +2438,8 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 146.41,
+        "notes": "Chennai's longest unidirectional flyover, 2.03 km connecting Tambaram and Velachery. Inaugurated May 13, 2022 by CM Stalin"
       },
       "timeline": {
         "startYear": 2021,
@@ -2524,8 +2524,8 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": "DPR by Aarvee Associates"
+        "crore": 11368.0,
+        "notes": "DPR estimated cost for 31 km with 27 stations (26 km elevated, 5 km underground). Project submitted Dec 2024, rejected Nov 2025 - doesn't meet population criteria"
       },
       "timeline": {
         "startYear": 2021,
@@ -3971,8 +3971,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": "Mini IT park 50000-1 lakh sq ft"
+        "crore": 37.0,
+        "notes": "Mini TIDEL Park, foundation laid by CM"
       },
       "timeline": {
         "startYear": 2021,
@@ -4237,8 +4237,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "1000 low-cost pharmacies across 38 districts"
+        "crore": 300.0,
+        "notes": "1,000 pharmacies: ₹3L per SHG unit. 75% discount on medicines. Inaugurated Feb 24, 2025 by CM Stalin"
       },
       "timeline": {
         "startYear": 2024,
@@ -4327,8 +4327,8 @@
       "type": "Water/Sanitation",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "150 MLD capacity; 24 Aquifer Storage and Recovery (ASR) wells"
+        "crore": 1516.82,
+        "notes": "150 MLD capacity desalination plant Phase 2. RO process with DAF and UF pre-treatment. Commissioned Feb 2024"
       },
       "timeline": {
         "startYear": 2021,

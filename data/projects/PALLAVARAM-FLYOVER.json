@@ -15,8 +15,8 @@
   "type": "Roads/Highways",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": null
+    "crore": 80.74,
+    "notes": "Completed Sept 2020"
   },
   "timeline": {
     "startYear": 2021,

@@ -15,8 +15,8 @@
   "type": "Public Transport",
   "status": "Ongoing",
   "budget": {
-    "crore": null,
-    "notes": "500 buses: 320 AC (MTC), 100 non-AC (Madurai), 80 (Coimbatore incl 20 AC)"
+    "crore": 560.0,
+    "notes": "500 buses: 320 AC (MTC), 100 non-AC (Madurai), 80 (Coimbatore incl 20 AC). Estimated proportional to MTC's ₹697cr for 625 buses"
   },
   "timeline": {
     "startYear": 2021,

@@ -15,8 +15,8 @@
   "type": "Roads/Highways",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": null
+    "crore": 55.0,
+    "notes": "Three-way paths on either side. Completed Sept 2020"
   },
   "timeline": {
     "startYear": 2021,
