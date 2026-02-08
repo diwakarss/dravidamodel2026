@@ -1,0 +1,43 @@
+{
+  "id": "FIRE-STATIONS-2021-JAN",
+  "name": {
+    "en": "6 Fire Stations (January 2021)",
+    "ta": "6 தீயணைப்பு நிலையங்கள் (ஜனவரி 2021)"
+  },
+  "location": {
+    "district": "Multiple (6 locations)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "6 fire stations across Tamil Nadu"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2021,
+    "completionNotes": "Inaugurated virtually January 18 2021"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The Hindu - Fire Stations 2021",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/"
+    },
+    {
+      "title": "DTNext - Fire Infrastructure",
+      "url": "https://www.dtnext.in/"
+    }
+  ],
+  "notes": null
+}

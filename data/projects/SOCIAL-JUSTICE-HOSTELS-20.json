@@ -1,0 +1,43 @@
+{
+  "id": "SOCIAL-JUSTICE-HOSTELS-20",
+  "name": {
+    "en": "20 Social Justice Hostels (Adi Dravidar Welfare)",
+    "ta": "20 சமூக நீதி விடுதிகள் (ஆதி திராவிடர் நலன்)"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 137.31,
+    "notes": "20 hostels for marginalized communities"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated by CM Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The News Mill - Welfare Projects",
+      "url": "https://thenewsmill.com/2025/10/tamil-nadu-cm-stalin-inaugurates-multiple-welfare-development-projects/"
+    },
+    {
+      "title": "Build Watch News - Infrastructure",
+      "url": "https://buildwatchnews.com/cm-stalin-1320-crore-infrastructure-projects-tamil-nadu/"
+    }
+  ],
+  "notes": null
+}

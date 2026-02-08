@@ -1,0 +1,47 @@
+{
+  "id": "KALAIGNAR-LIBRARY-MADURAI",
+  "name": {
+    "en": "Kalaignar Centenary Library - Madurai",
+    "ta": "கலைஞர் நூற்றாண்டு நூலகம் - மதுரை"
+  },
+  "location": {
+    "district": "Madurai",
+    "city": "Madurai",
+    "coordinates": {
+      "latitude": 9.9195,
+      "longitude": 78.1193
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 150.0,
+    "notes": "Six-storey building commemorating M Karunanidhi's birth centenary"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2023,
+    "completionNotes": "Inaugurated July 15 2023"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Frontlist - Kalaignar Library Details",
+      "url": "https://www.frontlist.in/the-kalaignar-centenary-library-in-madurai-tamil-nadu-will-have-a-collection-of-over-33-lakh-books"
+    },
+    {
+      "title": "Republic World - CM Stalin Inaugurates Library",
+      "url": "https://www.republicworld.com/india/tamil-nadu-cm-stalin-inaugurates-kalaignar-centenary-library-in-madurai-articleshow"
+    },
+    {
+      "title": "TNPSC Thervupettagam - Library Info",
+      "url": "https://www.tnpscthervupettagam.com/currentaffairs-detail/kalaignar-centenary-library"
+    }
+  ],
+  "notes": "Specific location in Madurai city"
+}

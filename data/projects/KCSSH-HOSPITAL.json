@@ -1,0 +1,47 @@
+{
+  "id": "KCSSH-HOSPITAL",
+  "name": {
+    "en": "Kalaignar Centenary Super Specialty Hospital",
+    "ta": "கலைஞர் நூற்றாண்டு சிறப்பு மருத்துவமனை"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0,
+      "longitude": 80.2
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 230.0,
+    "notes": "1000-bed super specialty hospital on 6 lakh sq ft"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2023,
+    "completionNotes": "Inaugurated June 15 2023; completed 3 months ahead"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - KCSSH Inauguration",
+      "url": "https://www.dtnext.in/stalin-inaugurates-kalaignar-centenary-super-speciality-hospital-in-guindy"
+    },
+    {
+      "title": "Wikipedia - KCSSH",
+      "url": "https://en.wikipedia.org/wiki/Kalaignar_Centenary_Super_Specialty_Hospital"
+    },
+    {
+      "title": "Oneindia - KCSSH Details",
+      "url": "https://www.oneindia.com/chennai/cm-stalin-inaugurated-kalaignar-centenary-super-speciality-hospital-chennai-3573076.html"
+    }
+  ],
+  "notes": "7-floor facility. Free advanced medical services. Fulfilling Karunanidhi's last wish (2010 will). Completed in 15 months"
+}

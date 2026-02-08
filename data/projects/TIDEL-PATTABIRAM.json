@@ -1,0 +1,43 @@
+{
+  "id": "TIDEL-PATTABIRAM",
+  "name": {
+    "en": "TIDEL Park - Pattabiram (North Chennai)",
+    "ta": "TIDEL பூங்கா - பட்டாபிராம்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.13,
+      "longitude": 80.165
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "IT park complex in north Chennai suburb"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Opened 2024"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DevDiscourse - North Chennai TIDEL",
+      "url": "https://www.devdiscourse.com/article/science-environment/3167433-north-chennais-tidel-park-transforming-the-it-landscape"
+    },
+    {
+      "title": "TIDEL Park Official",
+      "url": "https://www.tidelpark.com/"
+    }
+  ],
+  "notes": null
+}

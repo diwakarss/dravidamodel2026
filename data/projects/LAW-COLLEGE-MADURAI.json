@@ -1,0 +1,43 @@
+{
+  "id": "LAW-COLLEGE-MADURAI",
+  "name": {
+    "en": "Government Law College Academic Block - Madurai",
+    "ta": "அரசு சட்டக் கல்லூரி கல்வி கட்டிடம் - மதுரை"
+  },
+  "location": {
+    "district": "Madurai",
+    "city": "Madurai",
+    "coordinates": {
+      "latitude": 9.9252,
+      "longitude": 78.1198
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 48.2,
+    "notes": "Academic and administrative blocks"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated October 2025"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The News Mill - CM Stalin Projects",
+      "url": "https://thenewsmill.com/2025/10/tamil-nadu-cm-mk-stalin-inaugurates-projects-worth-rs-737-88-crore-provides-welfare-assistance-worth-rs-4268-crore/"
+    },
+    {
+      "title": "Business Standard - Projects Oct 2025",
+      "url": "https://www.business-standard.com/india-news/cm-stalin-inaugurates-projects-worth-737-88-cr-announces-4-268-cr-aid-125100300293_1.html"
+    }
+  ],
+  "notes": null
+}

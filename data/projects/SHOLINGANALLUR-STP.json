@@ -1,0 +1,43 @@
+{
+  "id": "SHOLINGANALLUR-STP",
+  "name": {
+    "en": "Sholinganallur Sewage Treatment Plant (36 MLD)",
+    "ta": "ஷோலிங்கநல்லூர் கழிவுநீர் சுத்திகரிப்பு ஆலை"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 12.901,
+      "longitude": 80.2279
+    }
+  },
+  "type": "Water/Sanitation",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "36 MLD capacity STP"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Operational"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "CMWSSB - Sewage Projects",
+      "url": "https://www.chennaimetrowater.tn.gov.in/"
+    },
+    {
+      "title": "The Hindu - Chennai Water Infrastructure",
+      "url": "https://www.thehindu.com/"
+    }
+  ],
+  "notes": null
+}

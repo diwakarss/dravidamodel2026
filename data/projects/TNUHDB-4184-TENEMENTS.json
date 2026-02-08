@@ -1,0 +1,43 @@
+{
+  "id": "TNUHDB-4184-TENEMENTS",
+  "name": {
+    "en": "TNUHDB 4184 Apartments (9 districts)",
+    "ta": "TNUHDB 4184 குடியிருப்புகள் (9 மாவட்டங்கள்)"
+  },
+  "location": {
+    "district": "Multiple (9 districts)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 541.32,
+    "notes": "4184 multi-story apartments, 9 districts"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2023,
+    "completionNotes": "Inaugurated by CM Stalin November 2023"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "News Today - 4200 Tenements",
+      "url": "https://newstodaynet.com/2023/11/21/stalin-inaugurates-4200-tenements-built-by-tnuhdb/"
+    },
+    {
+      "title": "DTNext - Housing Projects",
+      "url": "https://www.dtnext.in/news/tamilnadu/cm-stalin-inaugurates-tnuhdb-tnhb-housing-projects-worth-rs-900-crore-796228"
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "TN-HEALTH-INFRA",
+  "name": {
+    "en": "Tamil Nadu Public Health Infrastructure Base",
+    "ta": "தமிழ்நாடு பொது சுகாதார உள்கட்டமைப்பு"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Education/Health",
+  "status": "Ongoing",
+  "budget": {
+    "crore": null,
+    "notes": null
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Health & Family Welfare Department TN",
+      "url": "https://tnhealth.tn.gov.in/"
+    },
+    {
+      "title": "Wikipedia - TN Health Department",
+      "url": "https://en.wikipedia.org/wiki/Department_of_Health_and_Family_Welfare_(Tamil_Nadu)"
+    }
+  ],
+  "notes": null
+}

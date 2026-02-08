@@ -1,0 +1,43 @@
+{
+  "id": "ITI-KANGEYAM-NEW",
+  "name": {
+    "en": "New Industrial Training Institute - Kangeyam Tiruppur",
+    "ta": "புதிய தொழிற் பயிற்சி நிறுவனம் - காங்கேயம்"
+  },
+  "location": {
+    "district": "Tiruppur",
+    "city": "Tiruppur",
+    "coordinates": {
+      "latitude": 11.1085,
+      "longitude": 77.3411
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 152.0,
+    "notes": "New ITI with 4 trades"
+  },
+  "timeline": {
+    "startYear": 2025,
+    "completionYear": null,
+    "completionNotes": "Budgeted 2025-26"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - Budget 2025-26 ITI Plans",
+      "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-budget-2025-26-coimbatore-tirupur-gets-major-infrastructure-and-industrial-boost-826890"
+    },
+    {
+      "title": "Usthadian - Budget Highlights",
+      "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
+    }
+  ],
+  "notes": null
+}

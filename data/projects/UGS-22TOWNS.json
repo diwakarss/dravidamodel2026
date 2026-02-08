@@ -1,0 +1,47 @@
+{
+  "id": "UGS-22TOWNS",
+  "name": {
+    "en": "Underground Sewerage Schemes in 22 Towns",
+    "ta": "22 நகரங்களில் நிலத்தடி கழிவுநீர் திட்டங்கள்"
+  },
+  "location": {
+    "district": "Multiple (22 towns)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Water/Sanitation",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 1035.51,
+    "notes": "TNUDP-III project"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TWAD Board - UGS Schemes",
+      "url": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes"
+    },
+    {
+      "title": "TN Urban Tree - UGS Scheme",
+      "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
+    },
+    {
+      "title": "ADB - Tamil Nadu Urban Investment Program",
+      "url": "https://ewsdata.rightsindevelopment.org/files/documents/05/ADB-49107-005_Sx495G1.pdf"
+    }
+  ],
+  "notes": "22 towns statewide. Representative coordinate at Chennai"
+}

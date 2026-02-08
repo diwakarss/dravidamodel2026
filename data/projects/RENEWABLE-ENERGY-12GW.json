@@ -1,0 +1,47 @@
+{
+  "id": "RENEWABLE-ENERGY-12GW",
+  "name": {
+    "en": "Tamil Nadu Renewable Energy Expansion - 12 GW",
+    "ta": "தமிழ்நாடு புதுப்பிக்கத்தக்க எரிசக்தி விரிவாக்கம் - 12 GW"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Power/Utilities",
+  "status": "Ongoing",
+  "budget": {
+    "crore": null,
+    "notes": "12,000 MW target: 10,000 MW solar + 2,000 MW wind"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Part of 50% renewable energy by 2030 goal"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "BlackRidge Research - 12 GW Renewable Expansion",
+      "url": "https://www.blackridgeresearch.com/news-releases/tamil-nadu-announces-12-gw-renewable-energy-expansion-south-asian-energy-corridor"
+    },
+    {
+      "title": "Down to Earth - Energy Storage Offshore Wind",
+      "url": "https://www.downtoearth.org.in/energy/energy-storage-offshore-wind-now-central-to-tamil-nadus-clean-power-future"
+    },
+    {
+      "title": "Usthadian - TN Renewable Energy Power",
+      "url": "https://www.usthadian.com/tamil-nadus-expanding-renewable-energy-power/"
+    }
+  ],
+  "notes": "Statewide renewable energy program. Representative coordinate at Chennai"
+}

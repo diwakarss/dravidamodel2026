@@ -1,0 +1,43 @@
+{
+  "id": "MINI-STADIUMS-66",
+  "name": {
+    "en": "66 Mini Stadiums (District-wise)",
+    "ta": "66 சிறு மைதானங்கள்"
+  },
+  "location": {
+    "district": "Multiple (7 districts)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 69.0,
+    "notes": "Multi-sport mini stadiums"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "66 completed; 8 opened for public use"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DevDiscourse - Mini Stadium Project",
+      "url": "https://www.devdiscourse.com/article/sports-games/3723873-tamil-nadus-mini-stadium-project-takes-off-a-sporting-revolution"
+    },
+    {
+      "title": "DTNext - Stadium Projects",
+      "url": "https://www.dtnext.in/"
+    }
+  ],
+  "notes": null
+}

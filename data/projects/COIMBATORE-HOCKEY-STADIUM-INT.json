@@ -1,0 +1,43 @@
+{
+  "id": "COIMBATORE-HOCKEY-STADIUM-INT",
+  "name": {
+    "en": "Coimbatore International Hockey Stadium",
+    "ta": "கோயம்புத்தூர் சர்வதேச ஹாக்கி மைதானம்"
+  },
+  "location": {
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "coordinates": {
+      "latitude": 11.0168,
+      "longitude": 76.9558
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 9.67,
+    "notes": "International standard hockey stadium"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated by Deputy CM Udhayanidhi Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "News Today - Coimbatore Hockey Stadium",
+      "url": "https://newstodaynet.com/2025/12/30/udhayanidhi-inaugurates-hockey-stadium-in-kovai/"
+    },
+    {
+      "title": "DevDiscourse - Sports Infrastructure",
+      "url": "https://www.devdiscourse.com/article/sports-games/3702287-tamil-nadus-sports-renaissance-inaugurations-to-inspire-champions"
+    }
+  ],
+  "notes": null
+}

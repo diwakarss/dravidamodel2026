@@ -1,0 +1,47 @@
+{
+  "id": "MUDHALVAR-PADAIPPAGAM",
+  "name": {
+    "en": "Mudhalvar Padaippagam Coworking Space - Kolathur",
+    "ta": "முதல்வர் படைப்பகம் - கோலாத்தூர்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.1352,
+      "longitude": 80.2103
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "Government coworking space for startups and students"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated November 4 2024; 32000+ users in 6 months"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The Hindu - Mudhalvar Padaippagam",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/stalin-inaugurates-coworking-space-in-kolathur/article68828363.ece"
+    },
+    {
+      "title": "Deccan Herald - Coworking Space Success",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/mudhalvar-padaippagam-offers-budget-friendly-work-and-study-spaces-in-tamil-nadus-kolathur-3558151"
+    },
+    {
+      "title": "The Flex Insights - 32K Users",
+      "url": "https://theflexinsights.com/chennai-govt-coworking-space-success/"
+    }
+  ],
+  "notes": "India's first govt coworking space. 38 desks 3 conference rooms. ₹50 for 6 hours. High-speed internet AC cafeteria"
+}

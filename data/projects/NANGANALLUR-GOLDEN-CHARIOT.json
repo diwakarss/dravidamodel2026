@@ -1,0 +1,43 @@
+{
+  "id": "NANGANALLUR-GOLDEN-CHARIOT",
+  "name": {
+    "en": "Nanganallur Anjaneyar Temple Golden Chariot",
+    "ta": "நங்கநல்லூர் அஞ்சனேயர் கோவில் தங்க தேர்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 12.98,
+      "longitude": 80.19
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 9.0,
+    "notes": "₹9cr golden chariot"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Completion target January 2026"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "NewKerala - Golden Chariot",
+      "url": "https://www.newkerala.com/news/o/rs-425-cr-sanctioned-restoration-ancient-temples-says-tn-168"
+    },
+    {
+      "title": "Swarajya - Temple Infrastructure",
+      "url": "https://swarajyamag.com/news-brief/rs-218-crore-infra-projects-launched-across-26-tamil-nadu-temples-under-hrce-33-works-inaugurated"
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NEMMELI-DESAL-P2",
+  "name": {
+    "en": "Nemmeli Desalination Plant Phase 2 (150 MLD)",
+    "ta": "நெம்மேலி நீர்ப்போக்கு நீக்கு ஆலை கட்டம் 2"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 12.85,
+      "longitude": 80.23
+    }
+  },
+  "type": "Water/Sanitation",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "150 MLD capacity; 24 Aquifer Storage and Recovery (ASR) wells"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated February 13 2024"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "EconomyNext - Nemmeli Phase 2 Inauguration",
+      "url": "https://economynext.com/tamil-nadu-cm-stalin-inaugurates-nemmeli-desalination-plant-phase-2-150409.html"
+    },
+    {
+      "title": "Republic World - Desalination Plant",
+      "url": "https://www.republicworld.com/india/tamil-nadu-desalination-plant-nemmeli/"
+    },
+    {
+      "title": "Water Technology - Nemmeli Plant",
+      "url": "https://www.water-technology.net/projects/nemmeli-desalination-plant/"
+    }
+  ],
+  "notes": "Supplies 200 MLD total to south Chennai. ASR well technology for sustainable water storage"
+}

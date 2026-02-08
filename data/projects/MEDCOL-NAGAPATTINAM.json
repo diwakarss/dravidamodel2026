@@ -1,0 +1,43 @@
+{
+  "id": "MEDCOL-NAGAPATTINAM",
+  "name": {
+    "en": "Government Medical College - Nagapattinam",
+    "ta": "அரசு மருத்துவக் கல்லூரி - நாகப்பட்டினம்"
+  },
+  "location": {
+    "district": "Nagapattinam",
+    "city": "Nagapattinam",
+    "coordinates": {
+      "latitude": 10.7658,
+      "longitude": 79.8448
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 4000.0,
+    "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+  },
+  "timeline": {
+    "startYear": 2019,
+    "completionYear": 2022,
+    "completionNotes": "Inaugurated by PM Modi January 2022"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "PMO - 11 Medical Colleges Inauguration",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/"
+    },
+    {
+      "title": "Swarajya - TN Gets 11 Medical Colleges",
+      "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
+    }
+  ],
+  "notes": null
+}

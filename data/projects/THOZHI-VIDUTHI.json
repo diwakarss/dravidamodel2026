@@ -1,0 +1,43 @@
+{
+  "id": "THOZHI-VIDUTHI",
+  "name": {
+    "en": "Thozhiyar Viduthi Working Women Hostels (10 districts)",
+    "ta": "தோழியர் விடுதி - உழைக்கும் பெண்கள் விடுதிகள்"
+  },
+  "location": {
+    "district": "Multiple (10 districts)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 72.0,
+    "notes": "Hostels for working women in 10 districts"
+  },
+  "timeline": {
+    "startYear": 2022,
+    "completionYear": null,
+    "completionNotes": "Announced International Women's Day; implementation ongoing"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "ProKerala - Working Women Hostels",
+      "url": "https://www.prokerala.com/news/articles/a1614378.html"
+    },
+    {
+      "title": "Daily Pioneer - Women Ecosystem",
+      "url": "https://dailypioneer.com/news/tn-will-continue-to-create-ecosystem-for-women-to-study-stalin"
+    }
+  ],
+  "notes": null
+}

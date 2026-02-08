@@ -1,0 +1,47 @@
+{
+  "id": "KCBT-KILAMBAKKAM",
+  "name": {
+    "en": "Kalaignar Centenary Bus Terminus (KCBT) - Kilambakkam",
+    "ta": "கலைஞர் நூற்றாண்டு பேருந்து நிலையம் - கிளாம்பாக்கம்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 12.7392,
+      "longitude": 80.0788
+    }
+  },
+  "type": "Public Transport",
+  "status": "Completed",
+  "budget": {
+    "crore": 393.74,
+    "notes": "Asia's largest bus station"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2023,
+    "completionNotes": "Inaugurated December 30 2023"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Wikipedia - Kilambakkam Bus Terminus",
+      "url": "https://en.wikipedia.org/wiki/Kilambakkam_bus_terminus%2C_Chennai"
+    },
+    {
+      "title": "The South First - Stalin Inaugurates Terminus",
+      "url": "https://thesouthfirst.com/tamilnadu/tn-cm-stalin-inaugurates-kilambakkam-bus-terminus-near-chennai/"
+    },
+    {
+      "title": "Chennai Realties - New Hub Guide",
+      "url": "https://www.chennairealties.in/proposed-new-bus-terminus-at-vandalur/"
+    }
+  ],
+  "notes": "Specific location at Kilambakkam southern Chennai"
+}

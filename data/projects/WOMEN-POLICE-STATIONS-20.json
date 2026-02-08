@@ -1,0 +1,43 @@
+{
+  "id": "WOMEN-POLICE-STATIONS-20",
+  "name": {
+    "en": "20 Women Police Stations",
+    "ta": "20 பெண்கள் காவல் நிலையங்கள்"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "Dedicated women police stations"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "BW Police World - Women Police Stations",
+      "url": "https://www.bwpoliceworld.com/article/twenty-women-police-stations-inaugurated-in-tamil-nadu-433005"
+    },
+    {
+      "title": "TNPSC - Police Announcements",
+      "url": "https://www.tnpscthervupettagam.com/currentaffairs-detail/tamil-nadu-police-department-announcements-2025"
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SCHOOL-INFRA-ANBAZHAGAN",
+  "name": {
+    "en": "Perasiriyar Anbazhagan School Development Scheme",
+    "ta": "பேராசிரியர் அன்பழகன் பள்ளி மேம்பாட்டுத் திட்டம்"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Education/Health",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 1000.0,
+    "notes": "Comprehensive school infrastructure improvement"
+  },
+  "timeline": {
+    "startYear": 2025,
+    "completionYear": null,
+    "completionNotes": "Budgeted 2025-26"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The News Minute - School Infrastructure",
+      "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-budget-2025-rs-55261-crore-allocated-for-education-department"
+    },
+    {
+      "title": "Usthadian - Anbazhagan Scheme",
+      "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
+    }
+  ],
+  "notes": null
+}

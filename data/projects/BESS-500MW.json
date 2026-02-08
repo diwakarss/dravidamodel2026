@@ -1,0 +1,43 @@
+{
+  "id": "BESS-500MW",
+  "name": {
+    "en": "Battery Energy Storage System - 500 MW/1000 MWh",
+    "ta": "பேட்டரி ஆற்றல் சேமிப்பு அமைப்பு - 500 MW"
+  },
+  "location": {
+    "district": "Multiple",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Power/Utilities",
+  "status": "Ongoing",
+  "budget": {
+    "crore": null,
+    "notes": null
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Commercial operation by December 2026"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "SolarQuarter - NLC India BESS Tender",
+      "url": "https://solarquarter.com/2026/01/05/nlc-india-issues-global-tender-for-250-mw-500-mwh-battery-energy-storage-system-in-tamil-nadu/"
+    },
+    {
+      "title": "Down to Earth - Energy Storage",
+      "url": "https://www.downtoearth.org.in/energy/energy-storage-offshore-wind-now-central-to-tamil-nadus-clean-power-future"
+    }
+  ],
+  "notes": null
+}

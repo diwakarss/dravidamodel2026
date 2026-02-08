@@ -1,0 +1,43 @@
+{
+  "id": "TRICHY-TRUCK-TERMINAL",
+  "name": {
+    "en": "Trichy Integrated Truck Terminal - Panjapur",
+    "ta": "திருச்சி ஒருங்கிணைந்த லாரி நிலையம் - பஞ்சாபூர்"
+  },
+  "location": {
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "coordinates": {
+      "latitude": 10.7905,
+      "longitude": 78.7047
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 129.0,
+    "notes": null
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Opened by CM Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "BuildWatch News - Trichy Transit Hubs",
+      "url": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/"
+    },
+    {
+      "title": "DTNext - Bus Terminal Modernization",
+      "url": "https://www.dtnext.in/amp/news/chennai/ambattur-chengalpattu-among-key-bus-termini-getting-ready-for-inauguration-846841"
+    }
+  ],
+  "notes": null
+}

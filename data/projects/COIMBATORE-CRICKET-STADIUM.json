@@ -1,0 +1,43 @@
+{
+  "id": "COIMBATORE-CRICKET-STADIUM",
+  "name": {
+    "en": "Coimbatore Cricket Stadium (Planned)",
+    "ta": "கோயம்புத்தூர் கிரிக்கெட் மைதானம்"
+  },
+  "location": {
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "coordinates": {
+      "latitude": 11.0168,
+      "longitude": 76.9558
+    }
+  },
+  "type": "Other",
+  "status": "Planned",
+  "budget": {
+    "crore": null,
+    "notes": "India's largest cricket stadium"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "CricTracker - Coimbatore Stadium Plans",
+      "url": "https://www.crictracker.com/cricket-news/tamil-nadu-government-to-build-biggest-cricket-stadium-in-coimbatore-4967-8602/"
+    },
+    {
+      "title": "ETV Bharat - TN Sporting Revolution",
+      "url": "https://www.etvbharat.com/en/!sports/tamil-nadus-sporting-revolution-how-sdat-is-building-indias-next-generation-of-champions-enn25091311761"
+    }
+  ],
+  "notes": null
+}

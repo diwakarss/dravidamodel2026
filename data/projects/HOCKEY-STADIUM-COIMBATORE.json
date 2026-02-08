@@ -1,0 +1,43 @@
+{
+  "id": "HOCKEY-STADIUM-COIMBATORE",
+  "name": {
+    "en": "New Hockey Stadium - Coimbatore",
+    "ta": "புதிய ஹாக்கி மைதானம் - கோயம்புத்தூர்"
+  },
+  "location": {
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "coordinates": {
+      "latitude": 11.0168,
+      "longitude": 76.9558
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "State commitment to hockey"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": "Inaugurated by Deputy CM Udhayanidhi Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "NewKerala - Hockey Stadium Inauguration",
+      "url": "https://www.newkerala.com/news/o/tamil-nadu-deputy-chief-minister-udhayanidhi-stalin-inaugurates-608"
+    },
+    {
+      "title": "DMK Achievements - Sports",
+      "url": "https://www.dmk.in/en/achievements/"
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "TNUHDB-3268-TENEMENTS",
+  "name": {
+    "en": "TNUHDB 3268 Tenements (12 locations)",
+    "ta": "TNUHDB 3268 வீடுகள் (12 இடங்கள்)"
+  },
+  "location": {
+    "district": "Multiple (12 locations)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 426.0,
+    "notes": "3268 tenements across 12 locations"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2023,
+    "completionNotes": "Inaugurated virtually by CM Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Constro Facilitator - 3268 Tenements",
+      "url": "https://constrofacilitator.com/tamil-nadu-cm-inaugurates-over-3200-tenements-of-tnuhdb/"
+    },
+    {
+      "title": "Prop News Time - Housing Project",
+      "url": "https://www.propnewstime.com/getdetailsStories/MTE5OTE=/cm-stalin-inaugurates-3-268-new-tenements-boosting-affordable-housing-across-tamil-nadu"
+    },
+    {
+      "title": "DTNext - Housing Inauguration",
+      "url": "https://www.dtnext.in/news/tamilnadu/cm-stalin-inaugurates-tnuhdb-tnhb-housing-projects-worth-rs-900-crore-796228"
+    }
+  ],
+  "notes": "12 locations: 5 in Chennai + 2 each Coimbatore/Erode + 1 each Kanyakumari/Thanjavur/Trichy"
+}

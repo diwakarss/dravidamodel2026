@@ -1,0 +1,43 @@
+{
+  "id": "TIDEL-PARK-FLYOVER",
+  "name": {
+    "en": "U-Shaped Flyover at Tidel Park Junction",
+    "ta": "திடெல் பார்க் சந்தி U-வடிவ மேம்பாலம்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0636,
+      "longitude": 80.2795
+    }
+  },
+  "type": "Roads/Highways",
+  "status": "Completed",
+  "budget": {
+    "crore": 27.5,
+    "notes": "₹27.5cr project"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2023,
+    "completionNotes": "Operational"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TN Road Infrastructure Major Push",
+      "url": "https://www.dtnext.in/news/tamilnadu/tn-road-infra-gets-major-push-chennai-sees-multiple-upgrades-837958"
+    },
+    {
+      "title": "DMK Achievements",
+      "url": "https://www.dmk.in/en/achievements/"
+    }
+  ],
+  "notes": null
+}

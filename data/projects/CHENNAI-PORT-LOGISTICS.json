@@ -1,0 +1,43 @@
+{
+  "id": "CHENNAI-PORT-LOGISTICS",
+  "name": {
+    "en": "Multi-Modal Logistics Park Mappedu",
+    "ta": "பல்நோக்கு சரக்கு போக்குவரத்து பூங்கா மாப்பேடு"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 1424.0,
+    "notes": "₹1424cr project"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Phase 1 ready February 2026"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Chennai Port Authority - Projects",
+      "url": "https://www.chennaiport.gov.in/"
+    },
+    {
+      "title": "TOI - Mappedu Logistics Park",
+      "url": "https://timesofindia.indiatimes.com/"
+    }
+  ],
+  "notes": "NHLML"
+}

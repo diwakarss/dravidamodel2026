@@ -1,0 +1,43 @@
+{
+  "id": "SMART-COIMBATORE",
+  "name": {
+    "en": "Coimbatore Smart City Projects",
+    "ta": "கோயம்புத்தூர் ஸ்மார்ட் சிட்டி திட்டங்கள்"
+  },
+  "location": {
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "coordinates": {
+      "latitude": 11.0168,
+      "longitude": 76.9558
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "100% completion achieved"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "All projects completed"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TUFIDCO - Smart Cities Mission",
+      "url": "http://tufidco.in/smart.aspx"
+    },
+    {
+      "title": "TOI - Coimbatore Smart City Complete",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/"
+    }
+  ],
+  "notes": "3 flyovers"
+}

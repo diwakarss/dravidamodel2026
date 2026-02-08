@@ -1,0 +1,47 @@
+{
+  "id": "TAMBARAM-GH-NEW-BUILDING",
+  "name": {
+    "en": "Tambaram Government General Hospital New Building",
+    "ta": "தாம்பரம் அரசு பொது மருத்துவமனை புதிய கட்டிடம்"
+  },
+  "location": {
+    "district": "Chengalpet",
+    "city": "Tambaram",
+    "coordinates": {
+      "latitude": 12.9229,
+      "longitude": 80.1275
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 115.0,
+    "notes": "6-story 400-bed hospital"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated by CM Stalin August 9 2025"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Chengalpattu District Website",
+      "url": "https://chengalpattu.nic.in/the-honble-chief-minister-of-tamil-nadu-inaugurated-the-new-government-general-hospital-building-at-tambaram-and-distributed-patta-to-the-beneficiaries-09-08-2025/"
+    },
+    {
+      "title": "Assam Tribune - Tambaram Hospital",
+      "url": "https://assamtribune.com/national/at-tambaram-sanatorium-cm-stalin-opens-a-rs-115-crore-government-hospital-and-gives-20021-people-home-plots-1587823"
+    },
+    {
+      "title": "OB News - Hospital Inauguration",
+      "url": "https://t-en-yd.obnews.co/Flow/News/id/11518129.html?val=0a294bf034dcd23cd1a62673bb498f03&ch=oppo"
+    }
+  ],
+  "notes": "State-of-the-art medical facilities. Tambaram Sanatorium location. Already captured in earlier batch - budget confirmed"
+}

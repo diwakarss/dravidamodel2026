@@ -1,0 +1,43 @@
+{
+  "id": "ITI-PERUR-NEW",
+  "name": {
+    "en": "New Industrial Training Institute - Perur Coimbatore",
+    "ta": "புதிய தொழிற் பயிற்சி நிறுவனம் - பெரூர்"
+  },
+  "location": {
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "coordinates": {
+      "latitude": 11.0168,
+      "longitude": 76.9558
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 148.0,
+    "notes": "New ITI with multiple trades"
+  },
+  "timeline": {
+    "startYear": 2025,
+    "completionYear": null,
+    "completionNotes": "Budgeted 2025-26"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - Budget 2025-26 Industrial Boost",
+      "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-budget-2025-26-coimbatore-tirupur-gets-major-infrastructure-and-industrial-boost-826890"
+    },
+    {
+      "title": "Usthadian - TN Budget 2025",
+      "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
+    }
+  ],
+  "notes": null
+}

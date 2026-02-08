@@ -1,0 +1,43 @@
+{
+  "id": "ADB-WATER-10CITIES",
+  "name": {
+    "en": "ADB Climate-Resilient Urban Water and Sanitation ($500M)",
+    "ta": "ADB காலநிலை நெகிழ்வுத்தன்மை நகர்ப்புற நீர் மற்றும் சுகாதார திட்டம்"
+  },
+  "location": {
+    "district": "Multiple (10+ cities)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Water/Sanitation",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 4182.0,
+    "notes": "$500 million multitranche facility (~₹4,182 crore at current rates)"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "MFF availability period extends to June 30 2026"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "ADB Press Release - Water Sanitation Facility",
+      "url": "https://www.adb.org/news/adb-500-million-facility-develop-climate-resilient-urban-water-and-sanitation-services-indias"
+    },
+    {
+      "title": "TWAD Board - Water Supply Schemes",
+      "url": "https://www.twadboard.tn.gov.in/content/urban-water-supply-schemes"
+    }
+  ],
+  "notes": null
+}

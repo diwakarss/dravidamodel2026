@@ -1,0 +1,47 @@
+{
+  "id": "SEMMOZHI-POONGA-CBE",
+  "name": {
+    "en": "Semmozhi Poonga Botanical Park - Coimbatore",
+    "ta": "செம்மொழி பூங்கா - கோயம்புத்தூர்"
+  },
+  "location": {
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "coordinates": {
+      "latitude": 11.0168,
+      "longitude": 76.9558
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 208.5,
+    "notes": "45-acre botanical park on former Central Prison grounds"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated Nov 25 2025; opened to public"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - Semmozhi Poonga Inauguration",
+      "url": "https://www.dtnext.in/news/tamilnadu/mk-stalin-inaugurates-semmozhi-poonga-in-coimbatore-854417"
+    },
+    {
+      "title": "News9 - Semmozhi Poonga Details",
+      "url": "https://www.news9live.com/state/tamil-nadu/coimbatores-grand-rs-208-5-crore-semmozhi-park-opens-to-public-from-december-11-all-details-2910702"
+    },
+    {
+      "title": "NewKerala - Semmozhi Poonga",
+      "url": "https://www.newkerala.com/news/o/stalin-inaugurates-rs-208-crore-botanical-park-spread-across-406"
+    }
+  ],
+  "notes": "2000+ plant species 23 themed gardens 2km walking tracks QR-coded plant info. Karunanidhi's 2010 vision. Herbal Rose Fragrant Desert Water Bamboo Star gardens"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MUDHALVAR-MARUNDHAGAM",
+  "name": {
+    "en": "Mudhalvar Marundhagam - 1000 Pharmacies",
+    "ta": "முதல்வர் மருந்தகம் - 1000 மருந்தகங்கள்"
+  },
+  "location": {
+    "district": "Multiple (38 districts)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "1000 low-cost pharmacies across 38 districts"
+  },
+  "timeline": {
+    "startYear": 2024,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated February 24 2025; ₹3 lakh loan per pharmacy"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "ETV Bharat - 1000 Pharmacies Launch",
+      "url": "https://www.etvbharat.com/en/!state/cm-stalin-launches-pharmacies-across-tamil-nadu-enn25022406226"
+    },
+    {
+      "title": "Deccan Herald - Mudhalvar Marundhagam",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/with-eye-on-polls-next-year-tamil-nadu-cm-stalin-launches-1000-low-cost-pharmacies-mudhalvar-marundhagam-3419188"
+    },
+    {
+      "title": "The South First - Pharmacy Program",
+      "url": "https://thesouthfirst.com/tamilnadu/stalins-mudhalvar-marundhagam-trumps-modis-jan-aushadhi-kendras-in-tamil-nadu/"
+    }
+  ],
+  "notes": "Generic medicines at 75% discount. BP/diabetes tablets ₹4. Allopathy Ayurveda Siddha Unani. Cooperative societies + private entrepreneurs. Cheaper than Jan Aushadhi"
+}

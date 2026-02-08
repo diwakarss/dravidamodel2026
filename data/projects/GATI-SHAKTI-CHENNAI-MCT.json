@@ -1,0 +1,43 @@
+{
+  "id": "GATI-SHAKTI-CHENNAI-MCT",
+  "name": {
+    "en": "Gati Shakti Multi Modal Cargo Terminal - Chennai",
+    "ta": "கதி சக்தி பல்முக சரக்கு முனையம் - சென்னை"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.13,
+      "longitude": 80.21
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "Multi-modal cargo terminal"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated December 4 2024"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - Cargo Terminal Chennai",
+      "url": "https://www.dtnext.in/amp/news/chennai/second-gati-shakti-multi-modal-cargo-terminal-inaugurated-in-chennai-division-on-dec-4-855445"
+    },
+    {
+      "title": "Get Transport - Sical Terminal",
+      "url": "https://gettransport.com/articles/sical-logistics-gati-shakti-cargo-terminal"
+    }
+  ],
+  "notes": null
+}

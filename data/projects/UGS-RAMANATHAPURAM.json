@@ -1,0 +1,43 @@
+{
+  "id": "UGS-RAMANATHAPURAM",
+  "name": {
+    "en": "Underground Sewerage Scheme - Ramanathapuram",
+    "ta": "நிலத்தடி கழிவுநீர் திட்டம் - ராமநாதபுரம்"
+  },
+  "location": {
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "coordinates": {
+      "latitude": 9.3639,
+      "longitude": 78.8377
+    }
+  },
+  "type": "Water/Sanitation",
+  "status": "Completed",
+  "budget": {
+    "crore": 1035.51,
+    "notes": "TNUDP-III project"
+  },
+  "timeline": {
+    "startYear": 2019,
+    "completionYear": 2023,
+    "completionNotes": "Completed and operationalized"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TWAD Board - UGS Schemes",
+      "url": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes"
+    },
+    {
+      "title": "TN Urban Tree - UGS Scheme",
+      "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "INNER-RING-ROAD-BRIDGE",
+  "name": {
+    "en": "Inner Ring Road Bridge Widening",
+    "ta": "உள் வளைய சாலை பாலம் விரிவாக்கம்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.06,
+      "longitude": 80.24
+    }
+  },
+  "type": "Roads/Highways",
+  "status": "Completed",
+  "budget": {
+    "crore": 139.17,
+    "notes": "₹139.17cr project"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Completed and operational"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TN Road Infrastructure Major Push",
+      "url": "https://www.dtnext.in/news/tamilnadu/tn-road-infra-gets-major-push-chennai-sees-multiple-upgrades-837958"
+    },
+    {
+      "title": "DMK Achievements",
+      "url": "https://www.dmk.in/en/achievements/"
+    }
+  ],
+  "notes": null
+}
