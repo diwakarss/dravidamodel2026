@@ -1,0 +1,43 @@
+{
+  "id": "AGARAM-MUSEUM",
+  "name": {
+    "en": "Agaram - Museum of Languages",
+    "ta": "அகரம் - மொழிகளின் அருங்காட்சியகம்"
+  },
+  "location": {
+    "district": "Madurai",
+    "city": "Madurai",
+    "coordinates": {
+      "latitude": 9.9252,
+      "longitude": 78.1198
+    }
+  },
+  "type": "Other",
+  "status": "Planned",
+  "budget": {
+    "crore": null,
+    "notes": "Tamil language continuity education"
+  },
+  "timeline": {
+    "startYear": 2025,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TNPSC Budget 2025-26",
+      "url": "https://www.tnpscthervupettagam.com/articles-detail/tamil-nadu-budget-2025-2026-part-%E2%80%93-01"
+    },
+    {
+      "title": "The South First - Library Movement",
+      "url": "https://thesouthfirst.com/featured/dravidian-movement-and-democratising-knowledge-tamil-nadus-library-movement/"
+    }
+  ],
+  "notes": null
+}

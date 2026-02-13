@@ -1,0 +1,43 @@
+{
+  "id": "SIPCOT-INDUSTRIAL-PARKS-11",
+  "name": {
+    "en": "11 New SIPCOT Industrial Parks",
+    "ta": "11 புதிய SIPCOT தொழிற்சாலை பூங்காக்கள்"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": null,
+    "notes": "Each park ~13500 acres; 200000 jobs target"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "India Briefing - TN Industrial Parks SEZ",
+      "url": "https://www.india-briefing.com/news/tamil-nadu-industrial-parks-sezs-dta-under-sipcot-a-brief-for-investors-27024.html/"
+    },
+    {
+      "title": "ELCOT - IT Parks SEZs",
+      "url": "https://elcot.in/information-technology-parks-sezs"
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ITI-AMBATTUR-UPGRADE",
+  "name": {
+    "en": "ITI Ambattur Upgradation to Technology Center",
+    "ta": "ITI அம்பத்தூர் தொழில்நுட்ப மைய மேம்படுத்தல்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.1143,
+      "longitude": 80.1548
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 120.0,
+    "notes": "Tamil Nadu World Innovation and Skill Training Hub (TN-WISH). Skill training for ITI/polytechnic trainers. Part of 71 ITI upgrade with Tata Tech"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated by CM Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Mastercam India - ITI Upgradation",
+      "url": "https://mastercamindia.com/mastercam-india-proud-partners-of-tn-iti-upgradation-project-inaugurated-by-hon-chief-minister-of-tamil-nadu-thiru-m-k-stalin/"
+    },
+    {
+      "title": "Tata Technologies - 71 ITIs Transformation",
+      "url": "https://www.tatatechnologies.com/in/newsroom/tata-technologies-collaborates-with-the-government-of-tamil-nadu-to-transform-71-state-industrial-training-institutes-itis-into-technology-centers/"
+    }
+  ],
+  "notes": null
+}

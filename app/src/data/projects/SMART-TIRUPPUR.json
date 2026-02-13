@@ -1,0 +1,43 @@
+{
+  "id": "SMART-TIRUPPUR",
+  "name": {
+    "en": "Tiruppur Smart City Projects",
+    "ta": "திருப்பூர் ஸ்மார்ட் சிட்டி திட்டங்கள்"
+  },
+  "location": {
+    "district": "Tiruppur",
+    "city": "Tiruppur",
+    "coordinates": {
+      "latitude": 11.1085,
+      "longitude": 77.3411
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 1000.0,
+    "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Ongoing projects"
+  },
+  "media": {
+    "photoUrl": "http://tufidco.in/smart.aspx",
+    "photoCaption": "Tiruppur Smart City projects - TUFIDCO official website",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TUFIDCO - Smart Cities Mission",
+      "url": "http://tufidco.in/smart.aspx"
+    },
+    {
+      "title": "Grokipedia - List of Smart Cities TN",
+      "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
+    }
+  ],
+  "notes": null
+}

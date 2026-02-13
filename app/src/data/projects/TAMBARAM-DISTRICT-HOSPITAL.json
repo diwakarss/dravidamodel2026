@@ -1,0 +1,43 @@
+{
+  "id": "TAMBARAM-DISTRICT-HOSPITAL",
+  "name": {
+    "en": "Tambaram Government Hospital Expansion",
+    "ta": "தாம்பரம் அரசு மருத்துவமனை விரிவாக்கம்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 12.9229,
+      "longitude": 80.1275
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 115.0,
+    "notes": "₹115cr hospital expansion"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - Health Infrastructure TN",
+      "url": "https://www.dtnext.in/"
+    },
+    {
+      "title": "The Hindu - District Hospitals",
+      "url": "https://www.thehindu.com/"
+    }
+  ],
+  "notes": null
+}

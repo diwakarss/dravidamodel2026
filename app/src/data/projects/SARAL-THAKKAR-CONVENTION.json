@@ -1,0 +1,43 @@
+{
+  "id": "SARAL-THAKKAR-CONVENTION",
+  "name": {
+    "en": "Saral Thakkar Convention Centre - Tirunelveli",
+    "ta": "சரல் தக்கர் மாநாட்டு மையம் - திருநெல்வேலி"
+  },
+  "location": {
+    "district": "Tirunelveli",
+    "city": "Tirunelveli",
+    "coordinates": {
+      "latitude": 8.7139,
+      "longitude": 77.7567
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "CSI Diocese convention centre"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated by CM Stalin December 2025"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The News Mill - Convention Centre Inauguration",
+      "url": "https://thenewsmill.com/2025/12/christmas-shows-hope-guides-toward-peace-tamil-nadu-cm-stalin-inaugurates-saral-thakkar-convention-centre-in-tirunelveli/"
+    },
+    {
+      "title": "Wikipedia - MK Stalin",
+      "url": "https://en.wikipedia.org/wiki/M._K._Stalin"
+    }
+  ],
+  "notes": null
+}

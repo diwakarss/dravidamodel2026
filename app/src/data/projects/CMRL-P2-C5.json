@@ -1,0 +1,47 @@
+{
+  "id": "CMRL-P2-C5",
+  "name": {
+    "en": "Chennai Metro Phase II - Corridor 5 (Madhavaram to Sholinganallur)",
+    "ta": "சென்னை மெட்ரோ இரண்டாம் கட்டம் - வழித்தடம் 5 (மாதவரம் முதல் ஷோலிங்கநல்லூர் வரை)"
+  },
+  "location": {
+    "district": "Multiple (Chennai)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 12.99,
+      "longitude": 80.22
+    }
+  },
+  "type": "Public Transport",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 63246.0,
+    "notes": "Phase II total ₹63246 crore for all 3 corridors"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Madhavaram-Retteri stretch expected by mid-2026"
+  },
+  "media": {
+    "photoUrl": "https://chennaimetrorail.org/photo-gallery/",
+    "photoCaption": "Chennai Metro Phase II Corridor 5 construction progress - official CMRL gallery",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Chennai Metro Rail Limited - Project Status",
+      "url": "https://chennaimetrorail.org/project-status-2/"
+    },
+    {
+      "title": "PMO Cabinet Approval Press Release",
+      "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-chennai-metro-rail-project-phase-ii-comprising-three-corridors-i-madhavaram-to-sipcot-ii-light-house-to-poonamallee-bypass-and-iii-madhavaram-to-sholinganallur/"
+    },
+    {
+      "title": "Swarajya - Corridor 5 Progress",
+      "url": "https://swarajyamag.com/infrastructure/chennai-metro-phase-ii-progress-accelerates-for-corridor-5-to-be-ready-before-2026"
+    }
+  ],
+  "notes": "47.0 km with 45 stations. Coordinate at southern Chennai midpoint"
+}

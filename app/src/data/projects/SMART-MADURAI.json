@@ -1,0 +1,43 @@
+{
+  "id": "SMART-MADURAI",
+  "name": {
+    "en": "Madurai Smart City Projects",
+    "ta": "மதுரை ஸ்மார்ட் சிட்டி திட்டங்கள்"
+  },
+  "location": {
+    "district": "Madurai",
+    "city": "Madurai",
+    "coordinates": {
+      "latitude": 9.9252,
+      "longitude": 78.1198
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 1000.0,
+    "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Ongoing projects underway"
+  },
+  "media": {
+    "photoUrl": "http://tufidco.in/smart.aspx",
+    "photoCaption": "Madurai Smart City projects - TUFIDCO official website",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TUFIDCO - Smart Cities Mission",
+      "url": "http://tufidco.in/smart.aspx"
+    },
+    {
+      "title": "The Hindu - Madurai Smart City",
+      "url": "https://www.thehindu.com/news/cities/Madurai/"
+    }
+  ],
+  "notes": "Fruit Market (₹12cr)"
+}

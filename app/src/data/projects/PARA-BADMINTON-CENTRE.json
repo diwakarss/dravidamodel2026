@@ -1,0 +1,43 @@
+{
+  "id": "PARA-BADMINTON-CENTRE",
+  "name": {
+    "en": "Para Badminton High Performance Centre",
+    "ta": "பாரா பேட்மிண்டன் உயர்ந்த செயல்திறன் மையம்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 0.5,
+    "notes": "High performance centre for para athletes"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated by Deputy CM Udhayanidhi Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DevDiscourse - Sports Infrastructure",
+      "url": "https://www.devdiscourse.com/article/sports-games/3702287-tamil-nadus-sports-renaissance-inaugurations-to-inspire-champions"
+    },
+    {
+      "title": "News Today - Sports Facilities",
+      "url": "https://newstodaynet.com/"
+    }
+  ],
+  "notes": null
+}

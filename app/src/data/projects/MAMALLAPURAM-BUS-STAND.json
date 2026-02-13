@@ -1,0 +1,43 @@
+{
+  "id": "MAMALLAPURAM-BUS-STAND",
+  "name": {
+    "en": "Mamallapuram Bus Stand Modernization",
+    "ta": "மாமல்லபுரம் பேருந்து நிலைய நவீனமயமாக்கல்"
+  },
+  "location": {
+    "district": "Chengalpet",
+    "city": "Mamallapuram",
+    "coordinates": {
+      "latitude": 12.6269,
+      "longitude": 80.1927
+    }
+  },
+  "type": "Public Transport",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 90.5,
+    "notes": "₹90.5cr bus stand upgrade"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": "Under construction"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - Bus Terminal Modernization",
+      "url": "https://www.dtnext.in/amp/news/chennai/ambattur-chengalpattu-among-key-bus-termini-getting-ready-for-inauguration-846841"
+    },
+    {
+      "title": "News9 - Chennai Bus Terminals",
+      "url": "https://www.news9live.com/state/tamil-nadu/chennais-public-transport-overhaul-new-bus-stands-ppp-model-and-rs-414-crore-project-2890086/amp"
+    }
+  ],
+  "notes": null
+}

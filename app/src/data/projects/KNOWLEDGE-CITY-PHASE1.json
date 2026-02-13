@@ -1,0 +1,43 @@
+{
+  "id": "KNOWLEDGE-CITY-PHASE1",
+  "name": {
+    "en": "Tamil Nadu Knowledge City Phase 1 - Thiruvallur",
+    "ta": "தமிழ்நாடு அறிவியல் நகரம் கட்டம் 1"
+  },
+  "location": {
+    "district": "Tiruvallur",
+    "city": "Thiruvallur",
+    "coordinates": {
+      "latitude": 13.1444,
+      "longitude": 79.9077
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": null,
+    "notes": "167.27 hectares (413.15 acres)"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": "Planning and development phase"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "News on Projects - Knowledge City",
+      "url": "https://www.newsonprojects.com/state?state=14&industry=2"
+    },
+    {
+      "title": "TIDCO - Ongoing Projects",
+      "url": "https://tidco.com/ongoingprojects.php"
+    }
+  ],
+  "notes": null
+}

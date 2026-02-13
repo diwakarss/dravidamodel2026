@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+/* Tamil Nadu Infrastructure Showcase - Design Tokens */
+@theme inline {
+  /* Primary - Navy */
+  --color-navy-950: #0a1628;
+  --color-navy-900: #0f2744;
+  --color-navy-800: #1a3a5c;
+  --color-navy-700: #264d73;
+  --color-navy-600: #33618a;
+  --color-navy-500: #4a7ca8;
+  --color-navy-400: #6b9bc4;
+  --color-navy-300: #94b8d8;
+  --color-navy-200: #bdd4eb;
+  --color-navy-100: #e0ecf6;
+
+  /* Neutral - Warm Slate */
+  --color-slate-950: #1a1d23;
+  --color-slate-900: #282d36;
+  --color-slate-800: #3d444f;
+  --color-slate-700: #525b68;
+  --color-slate-600: #6b7685;
+  --color-slate-500: #8a95a5;
+  --color-slate-400: #a8b2c1;
+  --color-slate-300: #c5cdd8;
+  --color-slate-200: #dfe4eb;
+  --color-slate-100: #eef1f5;
+  --color-slate-50: #f7f8fa;
+
+  /* Accent - Teal */
+  --color-teal-700: #0f766e;
+  --color-teal-600: #0d9488;
+  --color-teal-500: #14b8a6;
+  --color-teal-400: #2dd4bf;
+  --color-teal-300: #5eead4;
+  --color-teal-200: #99f6e4;
+  --color-teal-100: #ccfbf1;
+
+  /* Status Colors */
+  --color-status-completed: #16a34a;
+  --color-status-completed-bg: #dcfce7;
+  --color-status-ongoing: #2563eb;
+  --color-status-ongoing-bg: #dbeafe;
+  --color-status-planned: #6b7280;
+  --color-status-planned-bg: #f3f4f6;
+
+  /* Fonts */
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-tamil: var(--font-noto-tamil), sans-serif;
+  --font-body: var(--font-source-sans), system-ui, sans-serif;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(10, 22, 40, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(10, 22, 40, 0.07), 0 2px 4px -1px rgba(10, 22, 40, 0.04);
+  --shadow-lg: 0 10px 15px -3px rgba(10, 22, 40, 0.08), 0 4px 6px -2px rgba(10, 22, 40, 0.04);
+  --shadow-elevated: 0 20px 25px -5px rgba(10, 22, 40, 0.1), 0 10px 10px -5px rgba(10, 22, 40, 0.04);
+
+  /* Border Radius */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+}
+
+/* Base styles */
+body {
+  background: var(--color-slate-50);
+  color: var(--color-slate-900);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Tamil text styling */
+[lang="ta"] {
+  line-height: 1.6;
+}
+
+.font-tamil {
+  font-family: var(--font-tamil);
+  line-height: 1.5;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}

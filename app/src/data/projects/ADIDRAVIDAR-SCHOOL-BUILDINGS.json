@@ -1,0 +1,43 @@
+{
+  "id": "ADIDRAVIDAR-SCHOOL-BUILDINGS",
+  "name": {
+    "en": "39 Adi Dravidar Welfare School Buildings",
+    "ta": "39 ஆதி திராவிடர் நல பள்ளி கட்டிடங்கள்"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 39.29,
+    "notes": "Classroom buildings in 39 schools"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated by CM Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The News Mill - School Infrastructure",
+      "url": "https://thenewsmill.com/2025/10/tamil-nadu-cm-stalin-inaugurates-multiple-welfare-development-projects/"
+    },
+    {
+      "title": "Build Watch News - Education Projects",
+      "url": "https://buildwatchnews.com/cm-stalin-1320-crore-infrastructure-projects-tamil-nadu/"
+    }
+  ],
+  "notes": null
+}

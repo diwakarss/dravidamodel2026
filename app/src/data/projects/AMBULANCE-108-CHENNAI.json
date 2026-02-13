@@ -1,0 +1,43 @@
+{
+  "id": "AMBULANCE-108-CHENNAI",
+  "name": {
+    "en": "87 New 108 Ambulance Services",
+    "ta": "87 புதிய 108 ஆம்புலன்ஸ் சேவைகள்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 18.9,
+    "notes": null
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2023,
+    "completionNotes": "Flagged off for public use"
+  },
+  "media": {
+    "photoUrl": "https://www.tnhsp.org/",
+    "photoCaption": "87 new 108 ambulance services inaugurated in Chennai - Tamil Nadu Health System Project",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TN Health Infrastructure (via research)",
+      "url": "https://tnhealth.tn.gov.in/"
+    },
+    {
+      "title": "Dvara Research - Political Economy of Health TN",
+      "url": "https://dvararesearch.com/political-economy-of-health-tamil-nadu/"
+    }
+  ],
+  "notes": null
+}

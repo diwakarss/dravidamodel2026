@@ -1,0 +1,43 @@
+{
+  "id": "AMBASAMUDRAM-GH-INFRA",
+  "name": {
+    "en": "Ambasamudram Government Hospital Infrastructure Boost",
+    "ta": "அம்பாசமுத்திரம் அரசு மருத்துவமனை உள்கட்டமைப்பு"
+  },
+  "location": {
+    "district": "Tirunelveli",
+    "city": "Ambasamudram",
+    "coordinates": {
+      "latitude": 8.7103,
+      "longitude": 77.4521
+    }
+  },
+  "type": "Education/Health",
+  "status": "Completed",
+  "budget": {
+    "crore": 15.0,
+    "notes": "Hospital infrastructure upgrade"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated by Health Minister Ma Subramanian"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Outlook India - Hospital Infrastructure",
+      "url": "https://www.outlookindia.com/national/tn-health-minister-ma-subramanian-launches-rs-15-crore-infrastructure-boost-at-ambasamudram-govt-hospital"
+    },
+    {
+      "title": "Medical Dialogues - 25 New Hospitals",
+      "url": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/25-new-govt-hospitals-coming-up-in-tamil-nadu-health-minister-subramanian-158184"
+    }
+  ],
+  "notes": null
+}

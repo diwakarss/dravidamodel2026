@@ -1,0 +1,43 @@
+{
+  "id": "SAFEXPRESS-LOGISTICS-PARK",
+  "name": {
+    "en": "Safexpress Logistics Park - Chennai",
+    "ta": "Safexpress சரக்கு போக்குவரத்து பூங்கா - சென்னை"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": null,
+    "notes": "Tamil Nadu's largest logistics park"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Cargo Insights - Safexpress Park",
+      "url": "https://cargoinsights.co/safexpress-unveils-tamil-nadus-largest-logistics-park-in-chennai/"
+    },
+    {
+      "title": "India Briefing - TN Logistics",
+      "url": "https://www.india-briefing.com/news/tamil-nadus-new-logistics-policy-aligns-with-indias-infrastructure-masterplan-27546.html/"
+    }
+  ],
+  "notes": null
+}

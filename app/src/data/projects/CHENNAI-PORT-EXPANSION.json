@@ -1,0 +1,43 @@
+{
+  "id": "CHENNAI-PORT-EXPANSION",
+  "name": {
+    "en": "Chennai Port Authority Expansion",
+    "ta": "சென்னை துறைமுக ஆணையம் விரிவாக்கம்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 42000.0,
+    "notes": "₹42000cr investment tranche"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": "https://www.chennaiport.gov.in/",
+    "photoCaption": "Chennai Port Authority expansion - ₹42,000 crore investment tranche",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Chennai Port Authority - Annual Report",
+      "url": "https://www.chennaiport.gov.in/"
+    },
+    {
+      "title": "Economic Times - Port Expansion",
+      "url": "https://economictimes.indiatimes.com/"
+    }
+  ],
+  "notes": "modern terminals"
+}

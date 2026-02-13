@@ -1,0 +1,30 @@
+{
+  "HomePage": {
+    "title": "Tamil Nadu Infrastructure Showcase",
+    "subtitle": "Tracking 150+ government infrastructure projects with transparent, verifiable sourcing.",
+    "badge": "2021-2026"
+  },
+  "Common": {
+    "projects": "Projects",
+    "districts": "Districts",
+    "sources": "Sources",
+    "about": "About",
+    "dataNotAvailable": "Data not available"
+  },
+  "Stats": {
+    "totalProjects": "Total Projects",
+    "totalInvestment": "Total Investment",
+    "districts": "Districts",
+    "completed": "Completed"
+  },
+  "Status": {
+    "completed": "Completed",
+    "ongoing": "Ongoing",
+    "planned": "Planned"
+  },
+  "Filters": {
+    "all": "All",
+    "byStatus": "Filter by Status",
+    "byType": "Filter by Type"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "TRICHY-BUS-TERMINUS",
+  "name": {
+    "en": "Trichy Integrated Bus Terminus - Panjapur",
+    "ta": "திருச்சி ஒருங்கிணைந்த பேருந்து நிலையம் - பஞ்சாபூர்"
+  },
+  "location": {
+    "district": "Tiruchirappalli",
+    "city": "Tiruchirappalli",
+    "coordinates": {
+      "latitude": 10.7905,
+      "longitude": 78.7047
+    }
+  },
+  "type": "Public Transport",
+  "status": "Completed",
+  "budget": {
+    "crore": 393.0,
+    "notes": null
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Opened by CM Stalin"
+  },
+  "media": {
+    "photoUrl": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/",
+    "photoCaption": "Trichy Integrated Bus Terminus - ₹393 crore, inaugurated May 2025 by CM Stalin alongside truck terminal",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "BuildWatch News - Trichy Transit Hubs",
+      "url": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/"
+    },
+    {
+      "title": "DTNext - Bus Terminal Modernization",
+      "url": "https://www.dtnext.in/amp/news/chennai/ambattur-chengalpattu-among-key-bus-termini-getting-ready-for-inauguration-846841"
+    }
+  ],
+  "notes": null
+}

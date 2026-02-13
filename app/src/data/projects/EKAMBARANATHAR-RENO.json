@@ -1,0 +1,47 @@
+{
+  "id": "EKAMBARANATHAR-RENO",
+  "name": {
+    "en": "Ekambaranathar Temple Renovation - Kancheepuram",
+    "ta": "ஏகாம்பரநாதர் கோயில் புதுப்பித்தல் - காஞ்சிபுரம்"
+  },
+  "location": {
+    "district": "Kancheepuram",
+    "city": "Kancheepuram",
+    "coordinates": {
+      "latitude": 12.8342,
+      "longitude": 79.7036
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 29.0,
+    "notes": "₹29cr restoration (₹12.75cr state + ₹8.99cr welfare fund + ₹6.84cr temple funds + ₹0.41cr donors)"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": "Restoration works in progress"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "NewKerala - Temple Restoration Plan",
+      "url": "https://www.newkerala.com/news/o/rs-425-cr-sanctioned-restoration-ancient-temples-says-tn-168"
+    },
+    {
+      "title": "Swarajya - Temple Infrastructure",
+      "url": "https://swarajyamag.com/news-brief/rs-218-crore-infra-projects-launched-across-26-tamil-nadu-temples-under-hrce-33-works-inaugurated"
+    },
+    {
+      "title": "DTNext - Temple Renovation Budget",
+      "url": "https://www.dtnext.in/news/tamilnadu/tn-govt-to-renovate-ancient-temples-at-rs-125-cr-in-fiscal-year-2025-2026-826901"
+    }
+  ],
+  "notes": "Ancient 1000+ year temple. Part of HR&CE renovation program"
+}

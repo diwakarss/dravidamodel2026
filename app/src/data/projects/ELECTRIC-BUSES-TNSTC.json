@@ -1,0 +1,43 @@
+{
+  "id": "ELECTRIC-BUSES-TNSTC",
+  "name": {
+    "en": "Electric Bus Procurement - TNSTC (500 buses)",
+    "ta": "மின்சார பேருந்து கொள்முதல் - TNSTC"
+  },
+  "location": {
+    "district": "Multiple (Madurai-Coimbatore)",
+    "city": "Madurai",
+    "coordinates": {
+      "latitude": 9.9252,
+      "longitude": 78.1198
+    }
+  },
+  "type": "Public Transport",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 560.0,
+    "notes": "500 buses: 320 AC (MTC), 100 non-AC (Madurai), 80 (Coimbatore incl 20 AC). Estimated proportional to MTC's ₹697cr for 625 buses"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - 500 Electric Low-Floor Buses",
+      "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-to-buy-500-electric-low-floor-buses-mtc-to-get-320-ac-ones-814854"
+    },
+    {
+      "title": "EQ Mag - 640 E-Buses 260 Charging Points",
+      "url": "https://www.eqmagpro.com/tamil-nadu-to-buy-640-e-buses-set-up-260-charging-points/"
+    }
+  ],
+  "notes": null
+}

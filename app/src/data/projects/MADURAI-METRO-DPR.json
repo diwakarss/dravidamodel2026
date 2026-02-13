@@ -1,0 +1,43 @@
+{
+  "id": "MADURAI-METRO-DPR",
+  "name": {
+    "en": "Madurai Metro Rapid Transit System (DPR Phase)",
+    "ta": "மதுரை மெட்ரோ விரைவு போக்குவரத்து அமைப்பு"
+  },
+  "location": {
+    "district": "Madurai",
+    "city": "Madurai",
+    "coordinates": {
+      "latitude": 9.9252,
+      "longitude": 78.1198
+    }
+  },
+  "type": "Public Transport",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 11368.0,
+    "notes": "DPR estimated cost for 31 km with 27 stations (26 km elevated, 5 km underground). Project submitted Dec 2024, rejected Nov 2025 - doesn't meet population criteria"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2027,
+    "completionNotes": "DPR completed July 2023; construction target end 2024; operations December 2027"
+  },
+  "media": {
+    "photoUrl": "https://chennaimetrorail.org/photo-gallery/detailed-project-report-dpr-for-madurai-mass-rapid-transit-system/",
+    "photoCaption": "Madurai Metro DPR visualization - CMRL official gallery",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Madurai Smart City - Metro DPR",
+      "url": "https://www.smartcities.gov.in/"
+    },
+    {
+      "title": "The Hindu - Madurai Metro",
+      "url": "https://www.thehindu.com/news/cities/Madurai/"
+    }
+  ],
+  "notes": "construction phase underway"
+}

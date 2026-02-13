@@ -1,0 +1,43 @@
+{
+  "id": "SALEM-MILK-POWDER",
+  "name": {
+    "en": "Salem Milk Powder Plant Upgrade",
+    "ta": "சேலம் பால் தூள் ஆலை மேம்படுத்தல்"
+  },
+  "location": {
+    "district": "Salem",
+    "city": "Salem",
+    "coordinates": {
+      "latitude": 11.6643,
+      "longitude": 78.146
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 60.0,
+    "notes": "₹60cr powder plant upgrade"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Target February 2026"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The Hindu - Aavin Infrastructure",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/"
+    },
+    {
+      "title": "DTNext - Dairy Projects",
+      "url": "https://www.dtnext.in/"
+    }
+  ],
+  "notes": null
+}

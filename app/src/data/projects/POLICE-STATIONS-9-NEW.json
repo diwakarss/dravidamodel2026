@@ -1,0 +1,43 @@
+{
+  "id": "POLICE-STATIONS-9-NEW",
+  "name": {
+    "en": "9 New Police Stations + 3 Subdivisions",
+    "ta": "9 புதிய காவல் நிலையங்கள் + 3 உட்பிரிவுகள்"
+  },
+  "location": {
+    "district": "Multiple (Statewide)",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 22.08,
+    "notes": "Police stations and staff quarters"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated virtually by CM Stalin"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "DTNext - Police Infrastructure",
+      "url": "https://www.dtnext.in/news/chennai/chennai-cm-stalin-inaugurates-stations-quarters-for-police-personnel"
+    },
+    {
+      "title": "ProKerala - 72 Police Stations",
+      "url": "https://www.prokerala.com/news/articles/a1619697.html"
+    }
+  ],
+  "notes": null
+}

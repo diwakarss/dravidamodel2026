@@ -1,0 +1,43 @@
+{
+  "id": "NOYYAL-MUSEUM",
+  "name": {
+    "en": "Noyyal Museum - Kodumanal Excavations",
+    "ta": "நொய்யல் அருங்காட்சியகம் - கொடுமணல் அகழ்வாராய்ச்சி"
+  },
+  "location": {
+    "district": "Erode",
+    "city": "Erode",
+    "coordinates": {
+      "latitude": 11.341,
+      "longitude": 77.7172
+    }
+  },
+  "type": "Other",
+  "status": "Planned",
+  "budget": {
+    "crore": 22.0,
+    "notes": "Focus on Kodumanal excavations"
+  },
+  "timeline": {
+    "startYear": 2025,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TNPSC Budget 2025-26",
+      "url": "https://www.tnpscthervupettagam.com/articles-detail/tamil-nadu-budget-2025-2026-part-%E2%80%93-01"
+    },
+    {
+      "title": "Insights on India - TN Budget Museums",
+      "url": "https://www.insightsonindia.com/2026/02/07/tn-urban-greening-policy-2026/"
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "TINDIVANAM-FOOD-PARK",
+  "name": {
+    "en": "Tindivanam Mega Food Park",
+    "ta": "திண்டிவனம் பெரிய உணவு பூங்கா"
+  },
+  "location": {
+    "district": "Villupuram",
+    "city": "Tindivanam",
+    "coordinates": {
+      "latitude": 12.2333,
+      "longitude": 79.65
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 120.0,
+    "notes": "Mega food processing park"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2025,
+    "completionNotes": "Inaugurated October 2025"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "The News Mill - CM Stalin Projects",
+      "url": "https://thenewsmill.com/2025/10/tamil-nadu-cm-mk-stalin-inaugurates-projects-worth-rs-737-88-crore-provides-welfare-assistance-worth-rs-4268-crore/"
+    },
+    {
+      "title": "Business Standard - Food Parks",
+      "url": "https://www.business-standard.com/india-news/cm-stalin-inaugurates-projects-worth-737-88-cr-announces-4-268-cr-aid-125100300293_1.html"
+    }
+  ],
+  "notes": null
+}

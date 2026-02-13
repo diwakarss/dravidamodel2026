@@ -1,0 +1,43 @@
+{
+  "id": "PORUR-WETLAND-SPONGE-PARK",
+  "name": {
+    "en": "Chennai First Wetland Sponge Park - Porur",
+    "ta": "சென்னை முதல் ஈரநில ஸ்பாஞ்ச் பூங்கா - போரூர்"
+  },
+  "location": {
+    "district": "Chennai",
+    "city": "Chennai",
+    "coordinates": {
+      "latitude": 13.035,
+      "longitude": 80.1564
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 12.6,
+    "notes": "Dr. M.S. Swaminathan Wetland Eco Park. 16 acres. Part of ₹88cr for 7 sponge parks. Inaugurated March 2025 by CM Stalin. 85+ native species"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated by CM Stalin"
+  },
+  "media": {
+    "photoUrl": "https://www.livechennai.com/detailnews.asp?catid=56&newsid=73802&nav=n",
+    "photoCaption": "Dr. M.S. Swaminathan Wetland Sponge Park inauguration by CM Stalin, March 2025",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "Live Chennai - Wetland Sponge Park",
+      "url": "https://www.livechennai.com/detailnews.asp?newsid=73802"
+    },
+    {
+      "title": "Tamil Nadu Budget - Climate Parks",
+      "url": "https://sabareesh1303.medium.com/tamil-nadu-budget-2025-26-does-it-walk-the-climate-talk-ccd6c832cbab"
+    }
+  ],
+  "notes": null
+}

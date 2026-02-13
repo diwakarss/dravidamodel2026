@@ -1,0 +1,43 @@
+{
+  "id": "NAAVAAI-MUSEUM",
+  "name": {
+    "en": "Naavaai Museum - Pandyas Maritime Trade",
+    "ta": "நாவாய் அருங்காட்சியகம் - பாண்டியர் கடல் வணிகம்"
+  },
+  "location": {
+    "district": "Ramanathapuram",
+    "city": "Ramanathapuram",
+    "coordinates": {
+      "latitude": 9.3639,
+      "longitude": 78.8377
+    }
+  },
+  "type": "Other",
+  "status": "Planned",
+  "budget": {
+    "crore": 21.0,
+    "notes": "Highlighting Pandyas maritime excellence"
+  },
+  "timeline": {
+    "startYear": 2025,
+    "completionYear": null,
+    "completionNotes": null
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TNPSC Budget 2025-26",
+      "url": "https://www.tnpscthervupettagam.com/articles-detail/tamil-nadu-budget-2025-2026-part-%E2%80%93-01"
+    },
+    {
+      "title": "DMK Achievements",
+      "url": "https://www.dmk.in/en/achievements/"
+    }
+  ],
+  "notes": null
+}

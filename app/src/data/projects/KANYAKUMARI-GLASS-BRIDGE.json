@@ -1,0 +1,47 @@
+{
+  "id": "KANYAKUMARI-GLASS-BRIDGE",
+  "name": {
+    "en": "Kanyakumari Glass Bridge (India's First Glass Bridge Over Sea)",
+    "ta": "கன்னியாகுமரி கண்ணாடி பாலம்"
+  },
+  "location": {
+    "district": "Kanyakumari",
+    "city": "Kanyakumari",
+    "coordinates": {
+      "latitude": 8.078,
+      "longitude": 77.5515
+    }
+  },
+  "type": "Other",
+  "status": "Completed",
+  "budget": {
+    "crore": 37.0,
+    "notes": "77-meter glass bridge connecting monuments"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2024,
+    "completionNotes": "Inaugurated by CM Stalin December 30 2024"
+  },
+  "media": {
+    "photoUrl": null,
+    "photoCaption": null,
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "ETV Bharat - Glass Bridge Inauguration",
+      "url": "https://www.etvbharat.com/en/!bharat/tamil-nadu-cm-stalin-inaugurates-glass-bridge-connecting-vivekananda-memorial-and-thiruvalluvar-statue-enn24123006070"
+    },
+    {
+      "title": "Swarajya - India's First Glass Bridge",
+      "url": "https://swarajyamag.com/news-brief/tamil-nadu-indias-first-glass-bridge-inaugurated-in-kanyakumari-connects-thiruvalluvar-statue-to-vivekananda-rock"
+    },
+    {
+      "title": "Wikipedia - Kanyakumari Glass Bridge",
+      "url": "https://en.wikipedia.org/wiki/Kanyakumari_Glass_bridge"
+    }
+  ],
+  "notes": "India's first glass bridge over sea. Connects Vivekananda Memorial and Thiruvalluvar statue. 10m breadth, 77m span. Transparent glass surface with sea views"
+}

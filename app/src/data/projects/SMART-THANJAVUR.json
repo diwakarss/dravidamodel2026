@@ -1,0 +1,43 @@
+{
+  "id": "SMART-THANJAVUR",
+  "name": {
+    "en": "Thanjavur Smart City Projects",
+    "ta": "தஞ்சாவூர் ஸ்மார்ட் சிட்டி திட்டங்கள்"
+  },
+  "location": {
+    "district": "Thanjavur",
+    "city": "Thanjavur",
+    "coordinates": {
+      "latitude": 10.787,
+      "longitude": 79.1378
+    }
+  },
+  "type": "Other",
+  "status": "Ongoing",
+  "budget": {
+    "crore": 1000.0,
+    "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": 2026,
+    "completionNotes": "Ongoing projects"
+  },
+  "media": {
+    "photoUrl": "http://tufidco.in/smart.aspx",
+    "photoCaption": "Thanjavur Smart City projects - TUFIDCO official website",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TUFIDCO - Smart Cities Mission",
+      "url": "http://tufidco.in/smart.aspx"
+    },
+    {
+      "title": "Grokipedia - List of Smart Cities TN",
+      "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
+    }
+  ],
+  "notes": null
+}

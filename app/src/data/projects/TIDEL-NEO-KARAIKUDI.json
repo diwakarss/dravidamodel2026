@@ -1,0 +1,43 @@
+{
+  "id": "TIDEL-NEO-KARAIKUDI",
+  "name": {
+    "en": "TIDEL Neo IT Park - Karaikudi",
+    "ta": "TIDEL நியோ - காரைக்குடி"
+  },
+  "location": {
+    "district": "Sivaganga",
+    "city": "Karaikudi",
+    "coordinates": {
+      "latitude": 10.0663,
+      "longitude": 78.7807
+    }
+  },
+  "type": "Other",
+  "status": "Planned",
+  "budget": {
+    "crore": 28.0,
+    "notes": "G+2 Mini IT Park, 50,000 sq.ft., 5 acres. Inaugurated Jan 31, 2026 by CM Stalin. Creates 600+ jobs"
+  },
+  "timeline": {
+    "startYear": 2021,
+    "completionYear": null,
+    "completionNotes": "Planning phase"
+  },
+  "media": {
+    "photoUrl": "https://www.tidelpark.com/blog/tidel-neo-karaikudi-igniting-the-it-spark-in-the-heart-of-chettinad.html",
+    "photoCaption": "TIDEL Neo Karaikudi mini IT Park - official TIDEL Park website",
+    "cmPhotoInitiation": null,
+    "cmPhotoCompletion": null
+  },
+  "sources": [
+    {
+      "title": "TIDEL Park - Karaikudi",
+      "url": "https://www.tidelpark.com/blog/tidel-neo-karaikudi-igniting-the-it-spark-in-the-heart-of-chettinad.html"
+    },
+    {
+      "title": "TIDEL Park Official",
+      "url": "https://www.tidelpark.com/"
+    }
+  ],
+  "notes": null
+}
