@@ -45,7 +45,7 @@ export default async function SourcesPage({
 
   return (
     <>
-      <Header locale={locale} />
+      <Header locale={locale} showTabs={false} />
       <main id="main-content" className="min-h-screen bg-slate-50 py-8">
         <Container>
           <div className="mb-8">

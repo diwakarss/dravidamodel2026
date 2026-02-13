@@ -15,8 +15,8 @@
   "type": "Power/Utilities",
   "status": "Ongoing",
   "budget": {
-    "crore": null,
-    "notes": null
+    "crore": 1850.0,
+    "notes": "500 MW pumped storage project with four 125 MW units. TANGEDCO project. Commissioning by 2026-27"
   },
   "timeline": {
     "startYear": 2021,

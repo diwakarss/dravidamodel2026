@@ -15,8 +15,8 @@
   "type": "Roads/Highways",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": null
+    "crore": 206.0,
+    "notes": "Railway overbridge connecting Tambaram eastern bypass. Cost escalated from ₹86cr due to 20-year delay. Opened after 23-year delay"
   },
   "timeline": {
     "startYear": 2021,
@@ -24,8 +24,8 @@
     "completionNotes": "Completed and operational"
   },
   "media": {
-    "photoUrl": null,
-    "photoCaption": null,
+    "photoUrl": "https://www.india.com/tamil-nadu/perungalathur-flyover-in-chennai-opens-after-23-year-delay-but-kamaraj-nagar-residents-not-happy-heres-why-7134511/",
+    "photoCaption": "Perungalathur railway overbridge - opened August 1, 2024 after 23-year delay",
     "cmPhotoInitiation": null,
     "cmPhotoCompletion": null
   },

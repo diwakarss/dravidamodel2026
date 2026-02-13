@@ -13,7 +13,7 @@ export default async function ProjectsPage({
 
   return (
     <>
-      <Header locale={locale} />
+      <Header locale={locale} showTabs={false} />
       <ProjectsPageContent locale={locale} />
       <Footer locale={locale} />
     </>

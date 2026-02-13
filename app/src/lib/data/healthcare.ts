@@ -1,0 +1,468 @@
+// Tamil Nadu Healthcare Schemes Data (2021-2026)
+// Source: Research February 2026
+
+export interface HealthcareScheme {
+  id: string;
+  name: { en: string; ta: string };
+  description: { en: string; ta: string };
+  launchYear?: string;
+  beneficiaries: {
+    count: string;
+    description: { en: string; ta: string };
+  };
+  budget?: {
+    amount: string;
+    year?: string;
+    details?: string;
+  };
+  coverage: string;
+  highlights?: { en: string; ta: string }[];
+  icon: string;
+}
+
+export const healthcareSchemes: HealthcareScheme[] = [
+  {
+    id: "cmchis",
+    name: {
+      en: "Chief Minister's Health Insurance (CMCHIS)",
+      ta: "முதலமைச்சர் மருத்துவக் காப்பீடு",
+    },
+    description: {
+      en: "State-wide health insurance providing cashless treatment up to ₹5 lakh per family annually.",
+      ta: "குடும்பத்திற்கு ஆண்டுக்கு ₹5 லட்சம் வரை பணமில்லா சிகிச்சை வழங்கும் மாநில சுகாதார காப்பீடு.",
+    },
+    launchYear: "2009 (Expanded)",
+    beneficiaries: {
+      count: "1.5+ crore families",
+      description: {
+        en: "60% of TN population covered",
+        ta: "தமிழ்நாட்டின் 60% மக்கள்",
+      },
+    },
+    budget: {
+      amount: "₹2,000+ crore",
+      year: "Annual",
+      details: "United India Insurance (2022-2027)",
+    },
+    coverage: "1,700+ hospitals (800 govt + 900 private)",
+    highlights: [
+      { en: "1,090 medical procedures covered", ta: "1,090 மருத்துவ செயல்முறைகள்" },
+      { en: "Income limit: ₹1.2 lakh/year", ta: "வருமான வரம்பு: ₹1.2 லட்சம்/ஆண்டு" },
+      { en: "Merged with PMJAY for wider coverage", ta: "PMJAY உடன் இணைக்கப்பட்டது" },
+    ],
+    icon: "🏥",
+  },
+  {
+    id: "makkalai-thedi",
+    name: {
+      en: "Makkalai Thedi Maruthuvam",
+      ta: "மக்களைத் தேடி மருத்துவம்",
+    },
+    description: {
+      en: "Doorstep healthcare bringing NCD screening and free medicines directly to homes.",
+      ta: "வீடுகளுக்கே NCD பரிசோதனை மற்றும் இலவச மருந்துகளை கொண்டு செல்லும் திட்டம்.",
+    },
+    launchYear: "August 5, 2021",
+    beneficiaries: {
+      count: "2+ crore people",
+      description: {
+        en: "Adults 30+ screened",
+        ta: "30+ வயது பெரியவர்கள்",
+      },
+    },
+    budget: {
+      amount: "₹243 crore",
+      year: "2024-25",
+      details: "Initial: ₹258 crore (2021)",
+    },
+    coverage: "385 rural blocks, 21 corporations, all districts",
+    highlights: [
+      { en: "1.13 crore hypertension patients treated", ta: "1.13 கோடி உயர் இரத்த அழுத்த நோயாளிகள்" },
+      { en: "54 lakh diabetes patients under care", ta: "54 லட்சம் நீரிழிவு நோயாளிகள்" },
+      { en: "UN IATF Award 2024 winner", ta: "UN IATF விருது 2024 வென்றது" },
+    ],
+    icon: "🏠",
+  },
+  {
+    id: "hpv-vaccine",
+    name: {
+      en: "Free HPV Cervical Cancer Vaccination",
+      ta: "இலவச HPV கர்ப்பப்பை வாய் புற்றுநோய் தடுப்பூசி",
+    },
+    description: {
+      en: "First state in India to provide free HPV vaccination to prevent cervical cancer.",
+      ta: "கர்ப்பப்பை வாய் புற்றுநோயைத் தடுக்க இலவச HPV தடுப்பூசி வழங்கும் இந்தியாவின் முதல் மாநிலம்.",
+    },
+    launchYear: "January 2026",
+    beneficiaries: {
+      count: "3.38 lakh girls",
+      description: {
+        en: "Girls aged 9-14 years",
+        ta: "9-14 வயது பெண்கள்",
+      },
+    },
+    budget: {
+      amount: "₹38 crore",
+      year: "2025-26",
+      details: "Private cost: ₹2,000/dose",
+    },
+    coverage: "Starting with 4 high-incidence districts, expanding statewide",
+    highlights: [
+      { en: "First state with free HPV program", ta: "இலவச HPV திட்டத்துடன் முதல் மாநிலம்" },
+      { en: "Govt & aided school students", ta: "அரசு & உதவி பெறும் பள்ளி மாணவிகள்" },
+      { en: "Aims to eliminate cervical cancer", ta: "கர்ப்பப்பை புற்றுநோயை ஒழிக்க இலக்கு" },
+    ],
+    icon: "💉",
+  },
+  {
+    id: "innuyir-kaappom",
+    name: {
+      en: "Innuyir Kaappom - Nammai Kaakkum 48",
+      ta: "இன்னுயிர் காப்போம் - நம்மைக் காக்கும் 48",
+    },
+    description: {
+      en: "Free emergency treatment for road accident victims in first 48 hours.",
+      ta: "சாலை விபத்து பாதிக்கப்பட்டவர்களுக்கு முதல் 48 மணி நேரத்தில் இலவச அவசர சிகிச்சை.",
+    },
+    launchYear: "2021",
+    beneficiaries: {
+      count: "3.43 lakh victims",
+      description: {
+        en: "Road accident patients",
+        ta: "சாலை விபத்து நோயாளிகள்",
+      },
+    },
+    budget: {
+      amount: "₹302 crore",
+      year: "Total spent",
+      details: "Coverage: ₹2 lakh/accident (2024-25)",
+    },
+    coverage: "723 hospitals (250 govt + 473 private)",
+    highlights: [
+      { en: "81 life-saving procedures covered", ta: "81 உயிர் காக்கும் செயல்முறைகள்" },
+      { en: "No documentation needed at admission", ta: "சேர்க்கையின் போது ஆவணங்கள் தேவையில்லை" },
+      { en: "24/7 across Tamil Nadu", ta: "தமிழ்நாடு முழுவதும் 24/7" },
+    ],
+    icon: "🚗",
+  },
+  {
+    id: "ambulance-108",
+    name: {
+      en: "108 Emergency Ambulance Service",
+      ta: "108 அவசர ஊர்தி சேவை",
+    },
+    description: {
+      en: "24x7 free emergency ambulance service with advanced life support.",
+      ta: "மேம்பட்ட உயிர் ஆதரவுடன் 24x7 இலவச அவசர ஆம்புலன்ஸ் சேவை.",
+    },
+    launchYear: "Ongoing expansion",
+    beneficiaries: {
+      count: "19+ lakh/year",
+      description: {
+        en: "Emergency patients served",
+        ta: "அவசர நோயாளிகளுக்கு சேவை",
+      },
+    },
+    budget: {
+      amount: "₹18.9 crore",
+      year: "2024",
+      details: "For 87 new ambulances",
+    },
+    coverage: "1,353 ambulances statewide",
+    highlights: [
+      { en: "Response time: 14:48 mins (improved)", ta: "பதில் நேரம்: 14:48 நிமிடங்கள்" },
+      { en: "Neonatal & bike ambulances included", ta: "புதுப் பிறப்பு & பைக் ஆம்புலன்ஸ்கள்" },
+      { en: "50 ambulances in Chennai alone", ta: "சென்னையில் மட்டும் 50 ஆம்புலன்ஸ்கள்" },
+    ],
+    icon: "🚑",
+  },
+  {
+    id: "medical-colleges",
+    name: {
+      en: "New Medical Colleges",
+      ta: "புதிய மருத்துவக் கல்லூரிகள்",
+    },
+    description: {
+      en: "11 new government medical colleges in underserved districts.",
+      ta: "பின்தங்கிய மாவட்டங்களில் 11 புதிய அரசு மருத்துவக் கல்லூரிகள்.",
+    },
+    launchYear: "October 2021",
+    beneficiaries: {
+      count: "1,450 seats/year",
+      description: {
+        en: "New MBBS seats added",
+        ta: "புதிய MBBS இடங்கள்",
+      },
+    },
+    budget: {
+      amount: "₹1,000+ crore",
+      details: "Infrastructure investment",
+    },
+    coverage: "11 districts: Ariyalur, Dindigul, Krishnagiri, etc.",
+    highlights: [
+      { en: "Total MBBS seats now: 12,050+", ta: "மொத்த MBBS இடங்கள்: 12,050+" },
+      { en: "Each with attached hospital", ta: "ஒவ்வொன்றும் இணைக்கப்பட்ட மருத்துவமனையுடன்" },
+      { en: "Focus on rural healthcare access", ta: "கிராமப்புற சுகாதார அணுகலில் கவனம்" },
+    ],
+    icon: "🎓",
+  },
+  {
+    id: "muthulakshmi-reddy",
+    name: {
+      en: "Dr. Muthulakshmi Reddy Maternity Benefit",
+      ta: "டாக்டர் முத்துலட்சுமி ரெட்டி மகப்பேறு நிதி உதவி",
+    },
+    description: {
+      en: "Cash assistance and nutritional support for pregnant women from vulnerable families.",
+      ta: "பாதிக்கப்படக்கூடிய குடும்பங்களைச் சேர்ந்த கர்ப்பிணிப் பெண்களுக்கு பண உதவி மற்றும் ஊட்டச்சத்து ஆதரவு.",
+    },
+    launchYear: "1987 (Enhanced)",
+    beneficiaries: {
+      count: "Lakhs of mothers",
+      description: {
+        en: "SC/ST/BPL pregnant women",
+        ta: "SC/ST/BPL கர்ப்பிணிகள்",
+      },
+    },
+    budget: {
+      amount: "₹18,000/mother",
+      details: "₹14,000 cash + ₹4,000 nutrition kits",
+    },
+    coverage: "All eligible pregnant women aged 18-55",
+    highlights: [
+      { en: "Enhanced from ₹12,000 to ₹18,000", ta: "₹12,000 இல் இருந்து ₹18,000 ஆக உயர்வு" },
+      { en: "3 installments (reduced from 5)", ta: "3 தவணைகள் (5 இல் இருந்து குறைப்பு)" },
+      { en: "2 nutritional kits worth ₹2,000 each", ta: "₹2,000 மதிப்புள்ள 2 ஊட்டச்சத்து கிட்கள்" },
+    ],
+    icon: "🤰",
+  },
+  {
+    id: "nalam-kaakkum",
+    name: {
+      en: "Nalam Kaakkum Stalin Scheme",
+      ta: "நலம் காக்கும் ஸ்டாலின் திட்டம்",
+    },
+    description: {
+      en: "Medical camps providing free screening and treatment across all districts.",
+      ta: "அனைத்து மாவட்டங்களிலும் இலவச பரிசோதனை மற்றும் சிகிச்சை வழங்கும் மருத்துவ முகாம்கள்.",
+    },
+    launchYear: "August 2, 2025",
+    beneficiaries: {
+      count: "16.16 lakh people",
+      description: {
+        en: "Through 1,256 camps",
+        ta: "1,256 முகாம்கள் மூலம்",
+      },
+    },
+    budget: {
+      amount: "State-funded",
+      details: "Free diagnostics included",
+    },
+    coverage: "All 38 districts of Tamil Nadu",
+    highlights: [
+      { en: "BP, diabetes, mental health screening", ta: "BP, நீரிழிவு, மனநல பரிசோதனை" },
+      { en: "Free X-ray, ECG, ECHO tests", ta: "இலவச X-ray, ECG, ECHO சோதனைகள்" },
+      { en: "Cardiac and maternal care", ta: "இதய மற்றும் தாய்வழி கவனிப்பு" },
+    ],
+    icon: "🩺",
+  },
+  {
+    id: "organ-donation",
+    name: {
+      en: "TRANSTAN Organ Donation Program",
+      ta: "TRANSTAN உறுப்பு தான திட்டம்",
+    },
+    description: {
+      en: "India's #1 state for deceased organ donation with 7x national average.",
+      ta: "இறந்தவர் உறுப்பு தானத்தில் இந்தியாவின் #1 மாநிலம், தேசிய சராசரியை விட 7 மடங்கு.",
+    },
+    launchYear: "2014 (Leading state)",
+    beneficiaries: {
+      count: "7,200+ organs",
+      description: {
+        en: "From ~2,000 donors (16 yrs)",
+        ta: "~2,000 தானம் செய்தவர்களிடமிருந்து",
+      },
+    },
+    budget: {
+      amount: "State-funded",
+      details: "Green corridor infrastructure",
+    },
+    coverage: "All major hospitals with transplant facilities",
+    highlights: [
+      { en: "Best State Award - 6 consecutive years", ta: "சிறந்த மாநில விருது - 6 தொடர் ஆண்டுகள்" },
+      { en: "2024: 268 donors, 1,500 organs", ta: "2024: 268 தானம், 1,500 உறுப்புகள்" },
+      { en: "First state with mandatory brain death cert", ta: "கட்டாய மூளை இறப்பு சான்று முதல் மாநிலம்" },
+    ],
+    icon: "❤️",
+  },
+  {
+    id: "mental-health",
+    name: {
+      en: "Mental Health & Suicide Prevention",
+      ta: "மனநலம் & தற்கொலை தடுப்பு",
+    },
+    description: {
+      en: "Comprehensive mental health services with highest DMHP coverage in India.",
+      ta: "இந்தியாவில் அதிகபட்ச DMHP கவரேஜுடன் விரிவான மனநல சேவைகள்.",
+    },
+    launchYear: "1997 (Expanded 2021-26)",
+    beneficiaries: {
+      count: "All 32 districts",
+      description: {
+        en: "Highest DMHP coverage",
+        ta: "அதிகபட்ச DMHP கவரேஜ்",
+      },
+    },
+    budget: {
+      amount: "Part of health budget",
+      details: "DMHP + State initiatives",
+    },
+    coverage: "District Mental Health Programme in all districts",
+    highlights: [
+      { en: "104 & 14416 helplines active", ta: "104 & 14416 ஹெல்ப்லைன்கள் செயலில்" },
+      { en: "10 emergency care centres (50 beds each)", ta: "10 அவசர சிகிச்சை மையங்கள்" },
+      { en: "18-month counseling for suicide attempters", ta: "தற்கொலை முயற்சியாளர்களுக்கு 18 மாத ஆலோசனை" },
+    ],
+    icon: "🧠",
+  },
+  {
+    id: "dialysis",
+    name: {
+      en: "Free Dialysis Program",
+      ta: "இலவச டயாலிசிஸ் திட்டம்",
+    },
+    description: {
+      en: "Free hemodialysis and peritoneal dialysis for kidney patients.",
+      ta: "சிறுநீரக நோயாளிகளுக்கு இலவச ஹீமோடயாலிசிஸ் மற்றும் பெரிட்டோனியல் டயாலிசிஸ்.",
+    },
+    launchYear: "2016 (PMNDP)",
+    beneficiaries: {
+      count: "Thousands/year",
+      description: {
+        en: "Kidney disease patients",
+        ta: "சிறுநீரக நோயாளிகள்",
+      },
+    },
+    budget: {
+      amount: "Free under CMCHIS",
+      details: "PPP model",
+    },
+    coverage: "Government hospitals across all districts",
+    highlights: [
+      { en: "Home delivery of PD bags via MTM", ta: "MTM மூலம் PD பைகள் வீட்டிற்கே வழங்கல்" },
+      { en: "Hemodialysis & Peritoneal options", ta: "ஹீமோடயாலிசிஸ் & பெரிட்டோனியல் விருப்பங்கள்" },
+      { en: "Public-Private Partnership", ta: "பொது-தனியார் கூட்டாண்மை" },
+    ],
+    icon: "🫘",
+  },
+  {
+    id: "palliative-care",
+    name: {
+      en: "Palliative Care Network",
+      ta: "நோய்த்தணிப்பு கவனிப்பு வலையமைப்பு",
+    },
+    description: {
+      en: "371 palliative care centers providing end-of-life care and pain management.",
+      ta: "இறுதி நிலை கவனிப்பு மற்றும் வலி மேலாண்மை வழங்கும் 371 நோய்த்தணிப்பு மையங்கள்.",
+    },
+    beneficiaries: {
+      count: "371 centers",
+      description: {
+        en: "Govt + private network",
+        ta: "அரசு + தனியார் வலையமைப்பு",
+      },
+    },
+    budget: {
+      amount: "Part of health budget",
+    },
+    coverage: "32 HQ hospitals + 281 community + 58 private",
+    highlights: [
+      { en: "Doorstep care through MTM", ta: "MTM மூலம் வீட்டு கவனிப்பு" },
+      { en: "Pain management services", ta: "வலி மேலாண்மை சேவைகள்" },
+      { en: "Integrated with primary healthcare", ta: "அடிப்படை சுகாதாரத்துடன் ஒருங்கிணைப்பு" },
+    ],
+    icon: "🤲",
+  },
+  {
+    id: "telemedicine",
+    name: {
+      en: "e-Sanjeevani Telemedicine",
+      ta: "இ-சஞ்சீவனி தொலைமருத்துவம்",
+    },
+    description: {
+      en: "Digital healthcare consultations reaching remote populations.",
+      ta: "தொலைதூர மக்களை சென்றடையும் டிஜிட்டல் சுகாதார ஆலோசனைகள்.",
+    },
+    beneficiaries: {
+      count: "18.5+ lakh consults",
+      description: {
+        en: "Top 5 state nationally",
+        ta: "தேசிய அளவில் முதல் 5 மாநிலம்",
+      },
+    },
+    budget: {
+      amount: "Union + State funded",
+    },
+    coverage: "All PHCs and mobile units",
+    highlights: [
+      { en: "~70% of national teleconsultations", ta: "தேசிய தொலை ஆலோசனையில் ~70%" },
+      { en: "Mobile ops for non-IT populations", ta: "IT அல்லாத மக்களுக்கு மொபைல் சேவை" },
+      { en: "Specialist consultations available", ta: "நிபுணர் ஆலோசனைகள் கிடைக்கும்" },
+    ],
+    icon: "📱",
+  },
+  {
+    id: "health-infrastructure",
+    name: {
+      en: "Hospital Infrastructure Upgrade",
+      ta: "மருத்துவமனை உள்கட்டமைப்பு மேம்பாடு",
+    },
+    description: {
+      en: "Major upgrades to district hospitals and new PHC establishments.",
+      ta: "மாவட்ட மருத்துவமனைகள் மற்றும் புதிய PHC அமைப்புகளுக்கான பெரிய மேம்பாடுகள்.",
+    },
+    launchYear: "2021-2026",
+    beneficiaries: {
+      count: "118 new PHCs",
+      description: {
+        en: "Plus district hospital upgrades",
+        ta: "மேலும் மாவட்ட மருத்துவமனை மேம்பாடுகள்",
+      },
+    },
+    budget: {
+      amount: "₹1,078 crore",
+      year: "2025-26",
+      details: "19 district hospital upgrades",
+    },
+    coverage: "All 38 districts",
+    highlights: [
+      { en: "₹360 cr projects inaugurated (Feb 2026)", ta: "₹360 கோடி திட்டங்கள் (பிப். 2026)" },
+      { en: "₹135 cr Trichy Govt Hospital upgrade", ta: "₹135 கோடி திருச்சி அரசு மருத்துவமனை" },
+      { en: "24x7 PHC services expanded", ta: "24x7 PHC சேவைகள் விரிவாக்கம்" },
+    ],
+    icon: "🏗️",
+  },
+];
+
+export const healthcareStats = {
+  totalBudget: "₹21,906 crore (2025-26)",
+  insuranceCoverage: "1.5+ crore families",
+  ambulances: 1353,
+  medicalColleges: 11,
+  doorstepReach: "2+ crore people",
+  hospitalsInNetwork: 1700,
+  organDonations2024: 268,
+  palliativeCenters: 371,
+};
+
+export function getHealthcareStats() {
+  return {
+    totalSchemes: healthcareSchemes.length,
+    familiesCovered: 15000000,
+    ambulanceFleet: 1353,
+    newMedicalColleges: 11,
+    doorstepBeneficiaries: 20000000,
+    hospitalsNetwork: 1700,
+  };
+}

@@ -20,7 +20,7 @@ export default async function ComponentsPage({
 
   return (
     <>
-      <Header locale={locale} />
+      <Header locale={locale} showTabs={false} />
       <main className="py-8 bg-slate-50 min-h-screen">
         <Container>
           <h1 className="font-display text-3xl font-bold text-navy-900 mb-8">

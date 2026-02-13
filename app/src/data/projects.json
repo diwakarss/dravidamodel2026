@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "generated": "2026-02-08",
+  "generated": "2026-02-13",
   "totalProjects": 150,
-  "checksum": "b9df5b7ea5099b319d6458862a5739e28f36780b1a35b5ae0b99480d8129f052",
+  "checksum": "e9bf4a98fa6074a524d9511278d049adbd31cbdc7faeef2a4155c598516f5d83",
   "projects": [
     {
       "id": "CMRL-P2-C3",
@@ -21,7 +21,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 63246.0,
+        "crore": 63246,
         "notes": "Phase II total ₹63246 crore for all 3 corridors"
       },
       "timeline": {
@@ -30,8 +30,8 @@
         "completionNotes": "Phased opening from 2026 onwards"
       },
       "media": {
-        "photoUrl": "https://chennaimetrorail.org/photo-gallery/",
-        "photoCaption": "Chennai Metro Phase II construction progress - official CMRL gallery",
+        "photoUrl": "/images/projects/cmrl-p2-c3.jpg",
+        "photoCaption": "Chennai Metro Phase II construction - historic U-girder installation",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -49,7 +49,8 @@
           "url": "https://themetrorailguy.com/chennai-metro-phase-2-information-map/"
         }
       ],
-      "notes": "Joint Central-State project (Cabinet approved by PMO). 45.8 km with 50 stations (28 underground and 19 at grade/elevated)"
+      "notes": "Joint Union-State project (Cabinet approved by PMO). 45.8 km with 50 stations (28 underground and 19 at grade/elevated)",
+      "subType": "Metro & Rail"
     },
     {
       "id": "CMRL-P2-C4",
@@ -68,7 +69,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 63246.0,
+        "crore": 63246,
         "notes": "Phase II total ₹63246 crore for all 3 corridors"
       },
       "timeline": {
@@ -77,7 +78,7 @@
         "completionNotes": "Poonamallee-Porur stretch opening Jan 2026; Kodambakkam Power House by June 2026"
       },
       "media": {
-        "photoUrl": "https://chennaimetrorail.org/photo-gallery/",
+        "photoUrl": "/images/projects/cmrl-p2-c3.jpg",
         "photoCaption": "Chennai Metro Phase II Corridor 4 construction progress - official CMRL gallery",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
@@ -96,7 +97,8 @@
           "url": "https://swarajyamag.com/news-brief/chennai-metro-phase-ii-poonamalleeporur-services-to-begin-with-six-minute-peak-hour-frequency-in-2026"
         }
       ],
-      "notes": "26.1 km with 27 stations. Coordinate at Lighthouse Marina Beach"
+      "notes": "26.1 km with 27 stations. Coordinate at Lighthouse Marina Beach",
+      "subType": "Metro & Rail"
     },
     {
       "id": "CMRL-P2-C5",
@@ -115,7 +117,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 63246.0,
+        "crore": 63246,
         "notes": "Phase II total ₹63246 crore for all 3 corridors"
       },
       "timeline": {
@@ -124,7 +126,7 @@
         "completionNotes": "Madhavaram-Retteri stretch expected by mid-2026"
       },
       "media": {
-        "photoUrl": "https://chennaimetrorail.org/photo-gallery/",
+        "photoUrl": "/images/projects/cmrl-p2-c3.jpg",
         "photoCaption": "Chennai Metro Phase II Corridor 5 construction progress - official CMRL gallery",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
@@ -143,7 +145,8 @@
           "url": "https://swarajyamag.com/infrastructure/chennai-metro-phase-ii-progress-accelerates-for-corridor-5-to-be-ready-before-2026"
         }
       ],
-      "notes": "47.0 km with 45 stations. Coordinate at southern Chennai midpoint"
+      "notes": "47.0 km with 45 stations. Coordinate at southern Chennai midpoint",
+      "subType": "Metro & Rail"
     },
     {
       "id": "UGS-22TOWNS",
@@ -190,7 +193,8 @@
           "url": "https://ewsdata.rightsindevelopment.org/files/documents/05/ADB-49107-005_Sx495G1.pdf"
         }
       ],
-      "notes": "22 towns statewide. Representative coordinate at Chennai"
+      "notes": "22 towns statewide. Representative coordinate at Chennai",
+      "subType": "Water & Sanitation"
     },
     {
       "id": "ADB-WATER-10CITIES",
@@ -209,7 +213,7 @@
       "type": "Water/Sanitation",
       "status": "Ongoing",
       "budget": {
-        "crore": 4182.0,
+        "crore": 4182,
         "notes": "$500 million multitranche facility (~₹4,182 crore at current rates)"
       },
       "timeline": {
@@ -233,7 +237,8 @@
           "url": "https://www.twadboard.tn.gov.in/content/urban-water-supply-schemes"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "TNUHP-TERTIARY",
@@ -276,7 +281,8 @@
           "url": "https://tnhsp.org/pages/view/Projects_TNUHP"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "TN-HEALTH-INFRA",
@@ -319,7 +325,8 @@
           "url": "https://en.wikipedia.org/wiki/Department_of_Health_and_Family_Welfare_(Tamil_Nadu)"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "AMBULANCE-108-CHENNAI",
@@ -362,7 +369,8 @@
           "url": "https://dvararesearch.com/political-economy-of-health-tamil-nadu/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "CM-ROADS-PROGRAM",
@@ -381,7 +389,7 @@
       "type": "Roads/Highways",
       "status": "Ongoing",
       "budget": {
-        "crore": 17000.0,
+        "crore": 17000,
         "notes": "Over ₹17000 crore committed for roads and bridges"
       },
       "timeline": {
@@ -409,7 +417,8 @@
           "url": "https://community.verified.realestate/article/tamil-nadus-road-revolution-a-%E2%82%B917000-crore-boost-to-statewide-connectivity/"
         }
       ],
-      "notes": "Statewide program: 2100 km roads, 996 bridges. Representative coordinate at Chennai"
+      "notes": "Statewide program: 2100 km roads, 996 bridges. Representative coordinate at Chennai",
+      "subType": "Roads & Bridges"
     },
     {
       "id": "CHENNAI-FLYOVERS",
@@ -437,8 +446,8 @@
         "completionNotes": "Multiple flyovers completed and ongoing"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "/images/projects/chennai-flyovers.png",
+        "photoCaption": "Chennai T Nagar steel flyover under construction",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -452,7 +461,8 @@
           "url": "https://www.dmk.in/en/achievements/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "MAMALLAPURAM-PORT-EXPRESSWAY",
@@ -471,7 +481,7 @@
       "type": "Roads/Highways",
       "status": "Ongoing",
       "budget": {
-        "crore": 12301.0,
+        "crore": 12301,
         "notes": "Tamil Nadu's first 10-lane road"
       },
       "timeline": {
@@ -495,7 +505,8 @@
           "url": "https://www.nationalheraldindia.com/national/budget-boosts-for-infrastructure-and-industry-in-tamil-nadu-west-bengal-ahead-of-assembly-elections"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "ELECTRIC-BUSES-MTC",
@@ -514,7 +525,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 697.0,
+        "crore": 697,
         "notes": "625 low-floor e-buses"
       },
       "timeline": {
@@ -523,8 +534,8 @@
         "completionNotes": "Full deployment by February 2026"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "/images/projects/electric-buses-mtc.png",
+        "photoCaption": "Chennai MTC electric buses - 120 deployed in 2025",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -542,7 +553,8 @@
           "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-kfw-funded-electric-bus-plan-reaches-final-stages-834075"
         }
       ],
-      "notes": "Chennai MTC fleet"
+      "notes": "Chennai MTC fleet",
+      "subType": "Bus & Transport"
     },
     {
       "id": "ELECTRIC-BUSES-TNSTC",
@@ -561,7 +573,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 560.0,
+        "crore": 560,
         "notes": "500 buses: 320 AC (MTC), 100 non-AC (Madurai), 80 (Coimbatore incl 20 AC). Estimated proportional to MTC's ₹697cr for 625 buses"
       },
       "timeline": {
@@ -585,7 +597,8 @@
           "url": "https://www.eqmagpro.com/tamil-nadu-to-buy-640-e-buses-set-up-260-charging-points/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "JAL-JEEVAN-MISSION-TN",
@@ -605,7 +618,7 @@
       "status": "Ongoing",
       "budget": {
         "crore": 3691.21,
-        "notes": "Central grant increased from ₹921.99cr (2020-21) to ₹3691.21cr (2021-22). Total assured ₹8428.17cr for 2021-22"
+        "notes": "Union grant increased from ₹921.99cr (2020-21) to ₹3691.21cr (2021-22). Total assured ₹8428.17cr for 2021-22"
       },
       "timeline": {
         "startYear": 2021,
@@ -620,7 +633,7 @@
       },
       "sources": [
         {
-          "title": "PIB - Central Grant to TN for JJM",
+          "title": "PIB - Union Grant to TN for JJM",
           "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1727218"
         },
         {
@@ -632,7 +645,8 @@
           "url": "https://spc.tn.gov.in/jal-jeevan-mission/"
         }
       ],
-      "notes": "Statewide rural water supply. Representative coordinate at Chennai"
+      "notes": "Statewide rural water supply. Representative coordinate at Chennai",
+      "subType": "Water & Sanitation"
     },
     {
       "id": "SMART-CITIES-TN",
@@ -651,8 +665,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 14688.0,
-        "notes": "Central govt approved ₹14688 crore total (₹4942cr central assistance)"
+        "crore": 14688,
+        "notes": "Union govt approved ₹14688 crore total (₹4942cr Union assistance)"
       },
       "timeline": {
         "startYear": 2021,
@@ -679,7 +693,8 @@
           "url": "https://en.wikipedia.org/wiki/List_of_AMRUT_Smart_cities_in_Tamil_Nadu"
         }
       ],
-      "notes": "11 cities: Chennai Coimbatore Madurai Thanjavur Salem Vellore Tiruppur Thoothukudi Tirunelveli Erode. Representative coordinate at Chennai"
+      "notes": "11 cities: Chennai Coimbatore Madurai Thanjavur Salem Vellore Tiruppur Thoothukudi Tirunelveli Erode. Representative coordinate at Chennai",
+      "subType": "Urban Development"
     },
     {
       "id": "RENEWABLE-ENERGY-12GW",
@@ -726,7 +741,8 @@
           "url": "https://www.usthadian.com/tamil-nadus-expanding-renewable-energy-power/"
         }
       ],
-      "notes": "Statewide renewable energy program. Representative coordinate at Chennai"
+      "notes": "Statewide renewable energy program. Representative coordinate at Chennai",
+      "subType": "Power & Energy"
     },
     {
       "id": "BESS-500MW",
@@ -769,7 +785,8 @@
           "url": "https://www.downtoearth.org.in/energy/energy-storage-offshore-wind-now-central-to-tamil-nadus-clean-power-future"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Power & Energy"
     },
     {
       "id": "PUMPED-STORAGE-KUNDAH",
@@ -788,7 +805,7 @@
       "type": "Power/Utilities",
       "status": "Ongoing",
       "budget": {
-        "crore": 1850.0,
+        "crore": 1850,
         "notes": "500 MW pumped storage project with four 125 MW units. TANGEDCO project. Commissioning by 2026-27"
       },
       "timeline": {
@@ -812,7 +829,8 @@
           "url": "https://investingintamilnadu.com/DIGIGOV/TN-pages/individual-sector.jsp?pagedisp=static&sector=focus_renewable_energy"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Power & Energy"
     },
     {
       "id": "TANTRANSCO-TRANSMISSION",
@@ -831,7 +849,7 @@
       "type": "Power/Utilities",
       "status": "Ongoing",
       "budget": {
-        "crore": 4500.0,
+        "crore": 4500,
         "notes": "TBCB model (tariff-based competitive bidding)"
       },
       "timeline": {
@@ -855,7 +873,8 @@
           "url": "https://www.dtnext.in/amp/news/tamilnadu/1580-mw-power-contracts-finalised-to-meet-growing-demand-in-tamil-nadu-852200"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Power & Energy"
     },
     {
       "id": "KALAIGNAR-LIBRARY-MADURAI",
@@ -874,7 +893,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 150.0,
+        "crore": 150,
         "notes": "Six-storey building commemorating M Karunanidhi's birth centenary"
       },
       "timeline": {
@@ -883,8 +902,8 @@
         "completionNotes": "Inaugurated July 15 2023"
       },
       "media": {
-        "photoUrl": "https://www.dtnext.in/news/tamilnadu/stalin-inaugurates-kalaignar-centenary-library-at-madurai-724508",
-        "photoCaption": "Kalaignar Centenary Library Madurai - ₹120.75 crore, 6-storey, 3.5 lakh books, inaugurated July 15, 2023 by CM Stalin",
+        "photoUrl": "/images/projects/kalaignar-library-madurai.jpg",
+        "photoCaption": "Kalaignar Centenary Library Madurai - 8-floor, 3.5 lakh books, inaugurated July 2023",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -902,7 +921,8 @@
           "url": "https://www.tnpscthervupettagam.com/currentaffairs-detail/kalaignar-centenary-library"
         }
       ],
-      "notes": "Specific location in Madurai city"
+      "notes": "Specific location in Madurai city",
+      "subType": "Education"
     },
     {
       "id": "KCBT-KILAMBAKKAM",
@@ -930,8 +950,8 @@
         "completionNotes": "Inaugurated December 30 2023"
       },
       "media": {
-        "photoUrl": "https://www.livechennai.com/detailnews.asp?newsid=69700",
-        "photoCaption": "Kalaignar Centenary Bus Terminus Kilambakkam - ₹325 crore, 215 bus bays, inaugurated December 30, 2023 by CM Stalin",
+        "photoUrl": "/images/projects/kcbt-kilambakkam.jpg",
+        "photoCaption": "Kalaignar Centenary Bus Terminus Kilambakkam - inaugurated December 30, 2023 by CM Stalin",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -949,7 +969,8 @@
           "url": "https://www.chennairealties.in/proposed-new-bus-terminus-at-vandalur/"
         }
       ],
-      "notes": "Specific location at Kilambakkam southern Chennai"
+      "notes": "Specific location at Kilambakkam southern Chennai",
+      "subType": "Bus & Transport"
     },
     {
       "id": "TRICHY-BUS-TERMINUS",
@@ -968,7 +989,7 @@
       "type": "Public Transport",
       "status": "Completed",
       "budget": {
-        "crore": 393.0,
+        "crore": 393,
         "notes": null
       },
       "timeline": {
@@ -977,8 +998,8 @@
         "completionNotes": "Opened by CM Stalin"
       },
       "media": {
-        "photoUrl": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/",
-        "photoCaption": "Trichy Integrated Bus Terminus - ₹393 crore, inaugurated May 2025 by CM Stalin alongside truck terminal",
+        "photoUrl": "/images/projects/trichy-bus-terminus.jpg",
+        "photoCaption": "Trichy Integrated Bus Terminus - inaugurated May 2025 by CM Stalin",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -992,7 +1013,8 @@
           "url": "https://www.dtnext.in/amp/news/chennai/ambattur-chengalpattu-among-key-bus-termini-getting-ready-for-inauguration-846841"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "TRICHY-TRUCK-TERMINAL",
@@ -1011,7 +1033,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 129.0,
+        "crore": 129,
         "notes": null
       },
       "timeline": {
@@ -1035,7 +1057,8 @@
           "url": "https://www.dtnext.in/amp/news/chennai/ambattur-chengalpattu-among-key-bus-termini-getting-ready-for-inauguration-846841"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "CHENNAI-BUS-TERMINALS-PPP",
@@ -1078,7 +1101,8 @@
           "url": "https://www.news9live.com/state/tamil-nadu/chennais-public-transport-overhaul-new-bus-stands-ppp-model-and-rs-414-crore-project-2890086/amp"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "MEDICAL-COLLEGES-11",
@@ -1097,8 +1121,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "₹2145cr central govt + rest TN govt; 1450 MBBS seats annually"
+        "crore": 4000,
+        "notes": "₹2145cr Union govt + rest TN govt; 1450 MBBS seats annually"
       },
       "timeline": {
         "startYear": 2019,
@@ -1125,7 +1149,8 @@
           "url": "https://www.tnpscthervupettagam.com/currentaffairs-detail/11-new-medical-colleges-in-tamil-nadu"
         }
       ],
-      "notes": "11 districts: Ariyalur Dindigul Kallakurichi Krishnagiri Nagapattinam Namakkal Ramanathapuram Nilgiris Tiruppur Tiruvallur Virudhunagar. Representative coordinate"
+      "notes": "11 districts: Ariyalur Dindigul Kallakurichi Krishnagiri Nagapattinam Namakkal Ramanathapuram Nilgiris Tiruppur Tiruvallur Virudhunagar. Representative coordinate",
+      "subType": "Healthcare"
     },
     {
       "id": "NOYYAL-MUSEUM",
@@ -1144,7 +1169,7 @@
       "type": "Other",
       "status": "Planned",
       "budget": {
-        "crore": 22.0,
+        "crore": 22,
         "notes": "Focus on Kodumanal excavations"
       },
       "timeline": {
@@ -1168,7 +1193,8 @@
           "url": "https://www.insightsonindia.com/2026/02/07/tn-urban-greening-policy-2026/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Museums & Culture"
     },
     {
       "id": "NAAVAAI-MUSEUM",
@@ -1187,7 +1213,7 @@
       "type": "Other",
       "status": "Planned",
       "budget": {
-        "crore": 21.0,
+        "crore": 21,
         "notes": "Highlighting Pandyas maritime excellence"
       },
       "timeline": {
@@ -1211,7 +1237,8 @@
           "url": "https://www.dmk.in/en/achievements/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Museums & Culture"
     },
     {
       "id": "AGARAM-MUSEUM",
@@ -1254,7 +1281,8 @@
           "url": "https://thesouthfirst.com/featured/dravidian-movement-and-democratising-knowledge-tamil-nadus-library-movement/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Museums & Culture"
     },
     {
       "id": "INDUS-VALLEY-GALLERY",
@@ -1273,7 +1301,7 @@
       "type": "Other",
       "status": "Planned",
       "budget": {
-        "crore": 40.0,
+        "crore": 40,
         "notes": "Centenary of Indus Valley Civilization discovery + traditional architectural gallery"
       },
       "timeline": {
@@ -1297,7 +1325,8 @@
           "url": "https://www.dmk.in/en/achievements/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Museums & Culture"
     },
     {
       "id": "STATUES-MEMORIALS-63",
@@ -1340,7 +1369,8 @@
           "url": "https://www.dmk.in/en/achievements/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Museums & Culture"
     },
     {
       "id": "TN-URBAN-GREENING-POLICY",
@@ -1387,7 +1417,8 @@
           "url": "https://www.gktoday.in/tamil-nadu-launches-urban-greening-policy-under-green-tn-mission/"
         }
       ],
-      "notes": "Statewide policy. Representative coordinate at Chennai"
+      "notes": "Statewide policy. Representative coordinate at Chennai",
+      "subType": "Urban Development"
     },
     {
       "id": "CHIDAMBARAM-STADIUM-UPGRADE",
@@ -1430,7 +1461,8 @@
           "url": "https://www.business-standard.com/cricket/icc-t20-world-cup/t20-wc-chidambaram-stadium-gears-up-after-outfield-drainage-revamp-126020700682_1.html"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Sports & Recreation"
     },
     {
       "id": "HOCKEY-STADIUM-COIMBATORE",
@@ -1473,7 +1505,8 @@
           "url": "https://www.dmk.in/en/achievements/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Sports & Recreation"
     },
     {
       "id": "COIMBATORE-CRICKET-STADIUM",
@@ -1492,7 +1525,7 @@
       "type": "Other",
       "status": "Planned",
       "budget": {
-        "crore": 500.0,
+        "crore": 500,
         "notes": "30 acres, 30,000 capacity, inspired by Optus Stadium Perth. Blueprint being prepared for CM approval. Expected completion 2027"
       },
       "timeline": {
@@ -1516,7 +1549,8 @@
           "url": "https://www.etvbharat.com/en/!sports/tamil-nadus-sporting-revolution-how-sdat-is-building-indias-next-generation-of-champions-enn25091311761"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Sports & Recreation"
     },
     {
       "id": "SIPCOT-INDUSTRIAL-PARKS-11",
@@ -1559,7 +1593,8 @@
           "url": "https://elcot.in/information-technology-parks-sezs"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "IT & Tech Parks"
     },
     {
       "id": "KNOWLEDGE-CITY-THIRUVALLUR",
@@ -1602,7 +1637,8 @@
           "url": "https://www.newsonprojects.com/news/tamil-nadus-ambitious-vision-establishing-a-1424-acre-global-knowledge-hub-near-chennai"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-CHENNAI",
@@ -1621,7 +1657,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 3444.0,
+        "crore": 3444,
         "notes": "46 projects (45 completed)"
       },
       "timeline": {
@@ -1645,7 +1681,8 @@
           "url": "https://www.thehindu.com/news/cities/chennai/"
         }
       ],
-      "notes": "15 temple tanks"
+      "notes": "15 temple tanks",
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-COIMBATORE",
@@ -1664,8 +1701,8 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1688,7 +1725,8 @@
           "url": "https://timesofindia.indiatimes.com/city/coimbatore/"
         }
       ],
-      "notes": "3 flyovers"
+      "notes": "3 flyovers",
+      "subType": "Roads & Bridges"
     },
     {
       "id": "SMART-MADURAI",
@@ -1707,8 +1745,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1731,7 +1769,8 @@
           "url": "https://www.thehindu.com/news/cities/Madurai/"
         }
       ],
-      "notes": "Fruit Market (₹12cr)"
+      "notes": "Fruit Market (₹12cr)",
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-SALEM",
@@ -1750,7 +1789,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 944.0,
+        "crore": 944,
         "notes": "₹944cr outlay"
       },
       "timeline": {
@@ -1774,7 +1813,8 @@
           "url": "https://www.dtnext.in/news/tamilnadu/"
         }
       ],
-      "notes": "LED lamps (₹37.54cr)"
+      "notes": "LED lamps (₹37.54cr)",
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-THANJAVUR",
@@ -1793,8 +1833,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1817,7 +1857,8 @@
           "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-VELLORE",
@@ -1836,8 +1877,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1860,7 +1901,8 @@
           "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-TIRUPPUR",
@@ -1879,8 +1921,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1903,7 +1945,8 @@
           "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-THOOTHUKUDI",
@@ -1922,8 +1965,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1946,7 +1989,8 @@
           "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-TIRUNELVELI",
@@ -1965,8 +2009,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -1989,7 +2033,8 @@
           "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-ERODE",
@@ -2008,8 +2053,8 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
-        "notes": "Smart Cities Mission allocation: ₹490cr central + ₹500cr state/ULB (50-50 split)"
+        "crore": 1000,
+        "notes": "Smart Cities Mission allocation: ₹490cr Union + ₹500cr state/ULB (50-50 split)"
       },
       "timeline": {
         "startYear": 2021,
@@ -2032,7 +2077,8 @@
           "url": "https://grokipedia.com/page/list_of_amrut_smart_cities_in_tamil_nadu"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "CHENNAI-PORT-LOGISTICS",
@@ -2051,7 +2097,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1424.0,
+        "crore": 1424,
         "notes": "₹1424cr project"
       },
       "timeline": {
@@ -2075,7 +2121,8 @@
           "url": "https://timesofindia.indiatimes.com/"
         }
       ],
-      "notes": "NHLML"
+      "notes": "NHLML",
+      "subType": "Ports & Logistics"
     },
     {
       "id": "CHENNAI-PORT-EXPANSION",
@@ -2094,7 +2141,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 42000.0,
+        "crore": 42000,
         "notes": "₹42000cr investment tranche"
       },
       "timeline": {
@@ -2118,7 +2165,8 @@
           "url": "https://economictimes.indiatimes.com/"
         }
       ],
-      "notes": "modern terminals"
+      "notes": "modern terminals",
+      "subType": "Bus & Transport"
     },
     {
       "id": "TIDEL-PARK-FLYOVER",
@@ -2161,7 +2209,8 @@
           "url": "https://www.dmk.in/en/achievements/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "VELACHERY-FLYOVER",
@@ -2180,7 +2229,7 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": 108.0,
+        "crore": 108,
         "notes": "Double-decker flyover at Vijayanagar Junction. Taramani-Velachery bypass connection. Completed by PWD"
       },
       "timeline": {
@@ -2204,7 +2253,8 @@
           "url": "https://www.dtnext.in/news/chennai/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "KOYAMBEDU-FLYOVER",
@@ -2247,7 +2297,8 @@
           "url": "https://www.dtnext.in/news/chennai/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "PERUNGALATHUR-FLYOVER",
@@ -2266,7 +2317,7 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": 206.0,
+        "crore": 206,
         "notes": "Railway overbridge connecting Tambaram eastern bypass. Cost escalated from ₹86cr due to 20-year delay. Opened after 23-year delay"
       },
       "timeline": {
@@ -2290,7 +2341,8 @@
           "url": "https://www.dtnext.in/news/chennai/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "MADIPAKKAM-UNDERPASS",
@@ -2333,7 +2385,8 @@
           "url": "https://www.dtnext.in/news/chennai/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "PALLAVARAM-FLYOVER",
@@ -2376,7 +2429,8 @@
           "url": "https://www.dtnext.in/news/chennai/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "VANDALUR-FLYOVER",
@@ -2395,7 +2449,7 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": 55.0,
+        "crore": 55,
         "notes": "Three-way paths on either side. Completed Sept 2020"
       },
       "timeline": {
@@ -2419,7 +2473,8 @@
           "url": "https://www.dtnext.in/news/chennai/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "MEDAVAKKAM-FLYOVERS",
@@ -2462,7 +2517,8 @@
           "url": "https://www.dtnext.in/news/chennai/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "INNER-RING-ROAD-BRIDGE",
@@ -2505,7 +2561,8 @@
           "url": "https://www.dmk.in/en/achievements/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Roads & Bridges"
     },
     {
       "id": "MADURAI-METRO-DPR",
@@ -2524,7 +2581,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 11368.0,
+        "crore": 11368,
         "notes": "DPR estimated cost for 31 km with 27 stations (26 km elevated, 5 km underground). Project submitted Dec 2024, rejected Nov 2025 - doesn't meet population criteria"
       },
       "timeline": {
@@ -2548,7 +2605,8 @@
           "url": "https://www.thehindu.com/news/cities/Madurai/"
         }
       ],
-      "notes": "construction phase underway"
+      "notes": "construction phase underway",
+      "subType": "Metro & Rail"
     },
     {
       "id": "UGS-UDHAGAMANDALAM",
@@ -2591,7 +2649,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-CHINNAMANUR",
@@ -2634,7 +2693,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-NAMAKKAL",
@@ -2677,7 +2737,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-DHARMAPURI",
@@ -2720,7 +2781,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-PERAMBALUR",
@@ -2763,7 +2825,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-THIRUVANNAMALAI",
@@ -2806,7 +2869,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-KANCHEEPURAM",
@@ -2849,7 +2913,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-RAMANATHAPURAM",
@@ -2892,7 +2957,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-TIRUVARUR",
@@ -2935,7 +3001,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "UGS-CUDDALORE",
@@ -2978,7 +3045,8 @@
           "url": "https://www.tnurbantree.tn.gov.in/under-ground-drainage-scheme/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "MEDCOL-ARIYALUR",
@@ -2997,8 +3065,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3021,7 +3089,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "MEDCOL-DINDIGUL",
@@ -3040,8 +3109,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3064,7 +3133,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "MEDCOL-KALLAKURICHI",
@@ -3083,8 +3153,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3107,7 +3177,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "MEDCOL-KRISHNAGIRI",
@@ -3126,8 +3197,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3150,7 +3221,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "MEDCOL-NAGAPATTINAM",
@@ -3169,8 +3241,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3193,7 +3265,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "MEDCOL-NAMAKKAL",
@@ -3212,8 +3285,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3236,7 +3309,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "MEDCOL-RAMANATHAPURAM",
@@ -3255,8 +3329,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3279,7 +3353,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "MEDCOL-TIRUPPUR",
@@ -3298,8 +3373,8 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 4000.0,
-        "notes": "Part of 11-college program; ₹2145cr central + rest TN govt"
+        "crore": 4000,
+        "notes": "Part of 11-college program; ₹2145cr Union + rest TN govt"
       },
       "timeline": {
         "startYear": 2019,
@@ -3322,7 +3397,8 @@
           "url": "https://swarajyamag.com/news-brief/thanks-to-central-government-tamil-nadu-gets-11-new-medical-colleges-inauguration-today"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "KEEZHADI-MUSEUM",
@@ -3369,7 +3445,8 @@
           "url": "https://www.tnpscthervupettagam.com/currentaffairs-detail/keezhadi-museum"
         }
       ],
-      "notes": "15000 artefacts from 6th century Vaigai civilization. 2 acres with VR exhibition and touch screens"
+      "notes": "15000 artefacts from 6th century Vaigai civilization. 2 acres with VR exhibition and touch screens",
+      "subType": "Museums & Culture"
     },
     {
       "id": "PORUNAI-MUSEUM",
@@ -3416,7 +3493,8 @@
           "url": "https://www.dtnext.in/news/tamilnadu/porunai-museum-doors-open-for-visitors-from-dec-23"
         }
       ],
-      "notes": "Showcases artefacts from Sivagalai Adichanallur Thulukkarpatti Korkai. Tamiraparani river basin heritage"
+      "notes": "Showcases artefacts from Sivagalai Adichanallur Thulukkarpatti Korkai. Tamiraparani river basin heritage",
+      "subType": "Museums & Culture"
     },
     {
       "id": "JALLIKATTU-STADIUM",
@@ -3463,7 +3541,8 @@
           "url": "https://theprint.in/india/dmk-marks-kalaignars-centenary-celebrations-with-opening-of-tamil-nadus-1st-jallikattu-stadium/1937647/"
         }
       ],
-      "notes": "3-tier gallery with 5000 capacity. VIP seating museum bull shed veterinary dispensary. IPL-style league venue"
+      "notes": "3-tier gallery with 5000 capacity. VIP seating museum bull shed veterinary dispensary. IPL-style league venue",
+      "subType": "Sports & Recreation"
     },
     {
       "id": "VALLUVAR-KOTTAM-RENO",
@@ -3482,7 +3561,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 80.0,
+        "crore": 80,
         "notes": "Monument renovation with modern amenities"
       },
       "timeline": {
@@ -3510,7 +3589,8 @@
           "url": "https://www.prokerala.com/news/articles/a1645872.html"
         }
       ],
-      "notes": "1600-seat AC auditorium (20000 sq ft Ayyan Valluvar Cultural Hall). Musical fountain light/sound shows. Underground 162-car parking 3336 sq ft food court. Karunanidhi's 1970s project revived"
+      "notes": "1600-seat AC auditorium (20000 sq ft Ayyan Valluvar Cultural Hall). Musical fountain light/sound shows. Underground 162-car parking 3336 sq ft food court. Karunanidhi's 1970s project revived",
+      "subType": "Museums & Culture"
     },
     {
       "id": "SEMMOZHI-POONGA-CBE",
@@ -3557,7 +3637,8 @@
           "url": "https://www.newkerala.com/news/o/stalin-inaugurates-rs-208-crore-botanical-park-spread-across-406"
         }
       ],
-      "notes": "2000+ plant species 23 themed gardens 2km walking tracks QR-coded plant info. Karunanidhi's 2010 vision. Herbal Rose Fragrant Desert Water Bamboo Star gardens"
+      "notes": "2000+ plant species 23 themed gardens 2km walking tracks QR-coded plant info. Karunanidhi's 2010 vision. Herbal Rose Fragrant Desert Water Bamboo Star gardens",
+      "subType": "Water & Sanitation"
     },
     {
       "id": "KCSSH-HOSPITAL",
@@ -3569,14 +3650,14 @@
         "district": "Chennai",
         "city": "Chennai",
         "coordinates": {
-          "latitude": 13.0,
+          "latitude": 13,
           "longitude": 80.2
         }
       },
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 230.0,
+        "crore": 230,
         "notes": "1000-bed super specialty hospital on 6 lakh sq ft"
       },
       "timeline": {
@@ -3604,7 +3685,8 @@
           "url": "https://www.oneindia.com/chennai/cm-stalin-inaugurated-kalaignar-centenary-super-speciality-hospital-chennai-3573076.html"
         }
       ],
-      "notes": "7-floor facility. Free advanced medical services. Fulfilling Karunanidhi's last wish (2010 will). Completed in 15 months"
+      "notes": "7-floor facility. Free advanced medical services. Fulfilling Karunanidhi's last wish (2010 will). Completed in 15 months",
+      "subType": "Healthcare"
     },
     {
       "id": "QUEEN-MARY-HOSTEL",
@@ -3623,7 +3705,7 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 42.0,
+        "crore": 42,
         "notes": "Modern hostel for 455 girls"
       },
       "timeline": {
@@ -3647,7 +3729,8 @@
           "url": "https://www.constructionworld.in/policy-updates-and-economic-news/cm-stalin-unveils-key-infrastructure-projects-in-tamil-nadu/51668"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "LAW-COLLEGE-MADURAI",
@@ -3690,7 +3773,8 @@
           "url": "https://www.business-standard.com/india-news/cm-stalin-inaugurates-projects-worth-737-88-cr-announces-4-268-cr-aid-125100300293_1.html"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "TINDIVANAM-FOOD-PARK",
@@ -3709,7 +3793,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 120.0,
+        "crore": 120,
         "notes": "Mega food processing park"
       },
       "timeline": {
@@ -3733,7 +3817,8 @@
           "url": "https://www.business-standard.com/india-news/cm-stalin-inaugurates-projects-worth-737-88-cr-announces-4-268-cr-aid-125100300293_1.html"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "THENI-FOOD-PARK",
@@ -3752,7 +3837,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 70.0,
+        "crore": 70,
         "notes": "Mega food processing park"
       },
       "timeline": {
@@ -3776,7 +3861,8 @@
           "url": "https://www.business-standard.com/india-news/cm-stalin-inaugurates-projects-worth-737-88-cr-announces-4-268-cr-aid-125100300293_1.html"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "TNUHDB-HOUSING-4978",
@@ -3819,7 +3905,8 @@
           "url": "https://www.business-standard.com/india-news/cm-stalin-inaugurates-projects-worth-737-88-cr-announces-4-268-cr-aid-125100300293_1.html"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "MUDHALVAR-PADAIPPAGAM",
@@ -3866,7 +3953,8 @@
           "url": "https://theflexinsights.com/chennai-govt-coworking-space-success/"
         }
       ],
-      "notes": "India's first govt coworking space. 38 desks 3 conference rooms. ₹50 for 6 hours. High-speed internet AC cafeteria"
+      "notes": "India's first govt coworking space. 38 desks 3 conference rooms. ₹50 for 6 hours. High-speed internet AC cafeteria",
+      "subType": "Urban Development"
     },
     {
       "id": "THOZHI-VIDUTHI",
@@ -3885,7 +3973,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 72.0,
+        "crore": 72,
         "notes": "Hostels for working women in 10 districts"
       },
       "timeline": {
@@ -3909,7 +3997,8 @@
           "url": "https://dailypioneer.com/news/tn-will-continue-to-create-ecosystem-for-women-to-study-stalin"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "TIDEL-NEO-RASIPURAM",
@@ -3952,7 +4041,8 @@
           "url": "https://www.tidelpark.com/en/tidel-neo"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "IT & Tech Parks"
     },
     {
       "id": "TIDEL-NEO-TIRUVANNAMALAI",
@@ -3971,7 +4061,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 37.0,
+        "crore": 37,
         "notes": "Mini TIDEL Park, foundation laid by CM"
       },
       "timeline": {
@@ -3995,7 +4085,8 @@
           "url": "https://www.tidelpark.com/en/tidel-neo"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "IT & Tech Parks"
     },
     {
       "id": "TIDEL-NEO-TIRUPPUR",
@@ -4038,7 +4129,8 @@
           "url": "https://www.tidelpark.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "IT & Tech Parks"
     },
     {
       "id": "TIDEL-NEO-KARAIKUDI",
@@ -4057,7 +4149,7 @@
       "type": "Other",
       "status": "Planned",
       "budget": {
-        "crore": 28.0,
+        "crore": 28,
         "notes": "G+2 Mini IT Park, 50,000 sq.ft., 5 acres. Inaugurated Jan 31, 2026 by CM Stalin. Creates 600+ jobs"
       },
       "timeline": {
@@ -4081,7 +4173,8 @@
           "url": "https://www.tidelpark.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "IT & Tech Parks"
     },
     {
       "id": "TIDEL-PATTABIRAM",
@@ -4100,7 +4193,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 330.0,
+        "crore": 330,
         "notes": "21-storey TIDEL Park, 5.57 lakh sq.ft. Inaugurated Nov 22, 2024. Third largest in state, creates 6,000 jobs"
       },
       "timeline": {
@@ -4124,7 +4217,8 @@
           "url": "https://www.tidelpark.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "IT & Tech Parks"
     },
     {
       "id": "VINFAST-EV-PLANT",
@@ -4171,7 +4265,8 @@
           "url": "https://www.tribuneindia.com/news/business/tamil-nadus-fourth-auto-cluster-takes-shape-with-vinfast-ev-plant/"
         }
       ],
-      "notes": "India's first EV battery plant. Vietnam giant. 50000 units Year 1. Tamil Nadu's 4th auto cluster"
+      "notes": "India's first EV battery plant. Vietnam giant. 50000 units Year 1. Tamil Nadu's 4th auto cluster",
+      "subType": "Urban Development"
     },
     {
       "id": "THOOTHUKUDI-FURNITURE-PARK",
@@ -4190,7 +4285,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
+        "crore": 1000,
         "notes": "1156 acres furniture manufacturing park"
       },
       "timeline": {
@@ -4218,7 +4313,8 @@
           "url": "https://www.smec.com/in/project/thoothukudi-international-furniture-park/"
         }
       ],
-      "notes": "India's first large-scale furniture park. ₹4500cr investment target. 3.5 lakh jobs. Furniture panel sawmill export skill development"
+      "notes": "India's first large-scale furniture park. ₹4500cr investment target. 3.5 lakh jobs. Furniture panel sawmill export skill development",
+      "subType": "Ports & Logistics"
     },
     {
       "id": "MUDHALVAR-MARUNDHAGAM",
@@ -4237,7 +4333,7 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 300.0,
+        "crore": 300,
         "notes": "1,000 pharmacies: ₹3L per SHG unit. 75% discount on medicines. Inaugurated Feb 24, 2025 by CM Stalin"
       },
       "timeline": {
@@ -4265,7 +4361,8 @@
           "url": "https://thesouthfirst.com/tamilnadu/stalins-mudhalvar-marundhagam-trumps-modis-jan-aushadhi-kendras-in-tamil-nadu/"
         }
       ],
-      "notes": "Generic medicines at 75% discount. BP/diabetes tablets ₹4. Allopathy Ayurveda Siddha Unani. Cooperative societies + private entrepreneurs. Cheaper than Jan Aushadhi"
+      "notes": "Generic medicines at 75% discount. BP/diabetes tablets ₹4. Allopathy Ayurveda Siddha Unani. Cooperative societies + private entrepreneurs. Cheaper than Jan Aushadhi",
+      "subType": "Healthcare"
     },
     {
       "id": "KNOWLEDGE-CITY-PHASE1",
@@ -4308,7 +4405,8 @@
           "url": "https://tidco.com/ongoingprojects.php"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "NEMMELI-DESAL-P2",
@@ -4336,8 +4434,8 @@
         "completionNotes": "Inaugurated February 13 2024"
       },
       "media": {
-        "photoUrl": "https://indianinfrastructure.com/2024/02/27/nemmeli-water-desalination-plant-gets-inaugurated/",
-        "photoCaption": "Nemmeli Seawater Desalination Plant Phase 2, February 24, 2024",
+        "photoUrl": "/images/projects/nemmeli-desalination.jpg",
+        "photoCaption": "Nemmeli Seawater Desalination Plant - 150 MLD capacity",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -4355,7 +4453,8 @@
           "url": "https://www.water-technology.net/projects/nemmeli-desalination-plant/"
         }
       ],
-      "notes": "Supplies 200 MLD total to south Chennai. ASR well technology for sustainable water storage"
+      "notes": "Supplies 200 MLD total to south Chennai. ASR well technology for sustainable water storage",
+      "subType": "Water & Sanitation"
     },
     {
       "id": "PERUR-DESAL",
@@ -4374,7 +4473,7 @@
       "type": "Water/Sanitation",
       "status": "Ongoing",
       "budget": {
-        "crore": 4276.0,
+        "crore": 4276,
         "notes": "₹4276cr project; 400 MLD capacity"
       },
       "timeline": {
@@ -4402,7 +4501,8 @@
           "url": "https://economictimes.indiatimes.com/"
         }
       ],
-      "notes": "India's third largest desalination plant. Coimbatore water security"
+      "notes": "India's third largest desalination plant. Coimbatore water security",
+      "subType": "Water & Sanitation"
     },
     {
       "id": "AMBATTUR-BUS-TERMINUS",
@@ -4445,7 +4545,8 @@
           "url": "https://www.news9live.com/state/tamil-nadu/chennais-public-transport-overhaul-new-bus-stands-ppp-model-and-rs-414-crore-project-2890086/amp"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "CHENGALPATTU-BUS-TERMINUS",
@@ -4464,7 +4565,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 97.0,
+        "crore": 97,
         "notes": "₹97cr modernization project"
       },
       "timeline": {
@@ -4488,7 +4589,8 @@
           "url": "https://www.news9live.com/state/tamil-nadu/chennais-public-transport-overhaul-new-bus-stands-ppp-model-and-rs-414-crore-project-2890086/amp"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "KUTHAMBAKKAM-BUS-TERMINUS",
@@ -4507,7 +4609,7 @@
       "type": "Public Transport",
       "status": "Ongoing",
       "budget": {
-        "crore": 414.0,
+        "crore": 414,
         "notes": "₹414cr new terminus"
       },
       "timeline": {
@@ -4531,7 +4633,8 @@
           "url": "https://www.news9live.com/state/tamil-nadu/chennais-public-transport-overhaul-new-bus-stands-ppp-model-and-rs-414-crore-project-2890086/amp"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "MAMALLAPURAM-BUS-STAND",
@@ -4574,7 +4677,8 @@
           "url": "https://www.news9live.com/state/tamil-nadu/chennais-public-transport-overhaul-new-bus-stands-ppp-model-and-rs-414-crore-project-2890086/amp"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "NILGIRIS-MEDCOL-HOSPITAL",
@@ -4617,7 +4721,8 @@
           "url": "https://www.dtnext.in/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "TAMBARAM-DISTRICT-HOSPITAL",
@@ -4636,7 +4741,7 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 115.0,
+        "crore": 115,
         "notes": "₹115cr hospital expansion"
       },
       "timeline": {
@@ -4660,7 +4765,8 @@
           "url": "https://www.thehindu.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "NAMAKKAL-DAIRY",
@@ -4679,7 +4785,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 90.0,
+        "crore": 90,
         "notes": "₹90cr dairy infrastructure"
       },
       "timeline": {
@@ -4703,7 +4809,8 @@
           "url": "https://www.dtnext.in/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SALEM-MILK-POWDER",
@@ -4722,7 +4829,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 60.0,
+        "crore": 60,
         "notes": "₹60cr powder plant upgrade"
       },
       "timeline": {
@@ -4746,7 +4853,8 @@
           "url": "https://www.dtnext.in/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "PERAMBALUR-MILK-POWDER",
@@ -4765,7 +4873,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 150.0,
+        "crore": 150,
         "notes": "₹150cr powder plant"
       },
       "timeline": {
@@ -4789,7 +4897,8 @@
           "url": "https://www.dtnext.in/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "FIRE-STATIONS-2021-JAN",
@@ -4832,7 +4941,8 @@
           "url": "https://www.dtnext.in/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "FIRE-STATIONS-2021-AUG",
@@ -4875,7 +4985,8 @@
           "url": "https://www.dtnext.in/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SHOLINGANALLUR-STP",
@@ -4918,7 +5029,8 @@
           "url": "https://www.thehindu.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "KODUNGAIYUR-STP-UPGRADE",
@@ -4961,7 +5073,8 @@
           "url": "https://www.thehindu.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Water & Sanitation"
     },
     {
       "id": "EKAMBARANATHAR-RENO",
@@ -4980,7 +5093,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 29.0,
+        "crore": 29,
         "notes": "₹29cr restoration (₹12.75cr state + ₹8.99cr welfare fund + ₹6.84cr temple funds + ₹0.41cr donors)"
       },
       "timeline": {
@@ -5008,7 +5121,8 @@
           "url": "https://www.dtnext.in/news/tamilnadu/tn-govt-to-renovate-ancient-temples-at-rs-125-cr-in-fiscal-year-2025-2026-826901"
         }
       ],
-      "notes": "Ancient 1000+ year temple. Part of HR&CE renovation program"
+      "notes": "Ancient 1000+ year temple. Part of HR&CE renovation program",
+      "subType": "Urban Development"
     },
     {
       "id": "NANGANALLUR-GOLDEN-CHARIOT",
@@ -5027,7 +5141,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 9.0,
+        "crore": 9,
         "notes": "₹9cr golden chariot"
       },
       "timeline": {
@@ -5051,7 +5165,8 @@
           "url": "https://swarajyamag.com/news-brief/rs-218-crore-infra-projects-launched-across-26-tamil-nadu-temples-under-hrce-33-works-inaugurated"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SATCHIYAPURAM-ROB",
@@ -5070,7 +5185,7 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": 62.0,
+        "crore": 62,
         "notes": "Railway overbridge Sivakasi. Southern Railway. Eases traffic bottlenecks. Inaugurated Nov 2025 by CM Stalin"
       },
       "timeline": {
@@ -5098,7 +5213,8 @@
           "url": "https://aninews.in/news/national/general-news/sivakasi-residents-celebrate-as-tamil-nadu-cm-inaugurates-long-awaited-satchiyapuram-road-overbridge20251112105552/"
         }
       ],
-      "notes": "Decades-old demand fulfilled. Eases traffic congestion at railway crossing"
+      "notes": "Decades-old demand fulfilled. Eases traffic congestion at railway crossing",
+      "subType": "Metro & Rail"
     },
     {
       "id": "TNUHDB-3268-TENEMENTS",
@@ -5117,7 +5233,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 426.0,
+        "crore": 426,
         "notes": "3268 tenements across 12 locations"
       },
       "timeline": {
@@ -5145,7 +5261,8 @@
           "url": "https://www.dtnext.in/news/tamilnadu/cm-stalin-inaugurates-tnuhdb-tnhb-housing-projects-worth-rs-900-crore-796228"
         }
       ],
-      "notes": "12 locations: 5 in Chennai + 2 each Coimbatore/Erode + 1 each Kanyakumari/Thanjavur/Trichy"
+      "notes": "12 locations: 5 in Chennai + 2 each Coimbatore/Erode + 1 each Kanyakumari/Thanjavur/Trichy",
+      "subType": "Urban Development"
     },
     {
       "id": "TNUHDB-4184-TENEMENTS",
@@ -5188,7 +5305,8 @@
           "url": "https://www.dtnext.in/news/tamilnadu/cm-stalin-inaugurates-tnuhdb-tnhb-housing-projects-worth-rs-900-crore-796228"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "CENTRAL-POLY-HOSTEL",
@@ -5207,7 +5325,7 @@
       "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
-        "crore": 25.0,
+        "crore": 25,
         "notes": "Hostel buildings for polytechnic students"
       },
       "timeline": {
@@ -5231,7 +5349,8 @@
           "url": "https://www.tnpscthervupettagam.com/articles-detail/recent-tamil-nadu-government-schemes-part-05?cat=gk-articles"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "SOCIAL-JUSTICE-HOSTELS-20",
@@ -5274,7 +5393,8 @@
           "url": "https://buildwatchnews.com/cm-stalin-1320-crore-infrastructure-projects-tamil-nadu/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "ADIDRAVIDAR-SCHOOL-BUILDINGS",
@@ -5317,7 +5437,8 @@
           "url": "https://buildwatchnews.com/cm-stalin-1320-crore-infrastructure-projects-tamil-nadu/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "NAVALUR-ECO-PARK",
@@ -5336,7 +5457,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 30.0,
+        "crore": 30,
         "notes": "Environmental knowledge centre and recreational park"
       },
       "timeline": {
@@ -5360,7 +5481,8 @@
           "url": "https://www.dtnext.in/news/chennai/cm-stalin-inaugurates-navalur-eco-park-at-sipcot-campus"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "IT & Tech Parks"
     },
     {
       "id": "PORUR-WETLAND-SPONGE-PARK",
@@ -5403,7 +5525,8 @@
           "url": "https://sabareesh1303.medium.com/tamil-nadu-budget-2025-26-does-it-walk-the-climate-talk-ccd6c832cbab"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "OOTY-ECO-PARK",
@@ -5422,7 +5545,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 70.0,
+        "crore": 70,
         "notes": "52-acre eco park for eco-tourism"
       },
       "timeline": {
@@ -5446,7 +5569,8 @@
           "url": "https://sabareesh1303.medium.com/tamil-nadu-budget-2025-26-does-it-walk-the-climate-talk-ccd6c832cbab"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "KANYAKUMARI-GLASS-BRIDGE",
@@ -5465,7 +5589,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 37.0,
+        "crore": 37,
         "notes": "77-meter glass bridge connecting monuments"
       },
       "timeline": {
@@ -5493,7 +5617,8 @@
           "url": "https://en.wikipedia.org/wiki/Kanyakumari_Glass_bridge"
         }
       ],
-      "notes": "India's first glass bridge over sea. Connects Vivekananda Memorial and Thiruvalluvar statue. 10m breadth, 77m span. Transparent glass surface with sea views"
+      "notes": "India's first glass bridge over sea. Connects Vivekananda Memorial and Thiruvalluvar statue. 10m breadth, 77m span. Transparent glass surface with sea views",
+      "subType": "Roads & Bridges"
     },
     {
       "id": "MADURAI-HOCKEY-STADIUM",
@@ -5512,7 +5637,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 20.0,
+        "crore": 20,
         "notes": "International standard hockey stadium"
       },
       "timeline": {
@@ -5521,8 +5646,8 @@
         "completionNotes": "Inaugurated by Deputy CM Udhayanidhi Stalin November 2025"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "/images/projects/hockey-stadium-madurai.jpg",
+        "photoCaption": "Madurai International Hockey Stadium - FIH Junior World Cup 2025 venue",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -5540,7 +5665,8 @@
           "url": "https://menafn.com/1110382943/Madurais-International-Hockey-Stadium-Inaugurated-Ahead-Of-Mens-Junior-World-Cup-2025"
         }
       ],
-      "notes": "1756 spectator capacity. Grandstands administrative blocks player rooms lounges. Hosted Men's Junior World Cup 2025"
+      "notes": "1756 spectator capacity. Grandstands administrative blocks player rooms lounges. Hosted Men's Junior World Cup 2025",
+      "subType": "Sports & Recreation"
     },
     {
       "id": "COIMBATORE-HOCKEY-STADIUM-INT",
@@ -5583,7 +5709,8 @@
           "url": "https://www.devdiscourse.com/article/sports-games/3702287-tamil-nadus-sports-renaissance-inaugurations-to-inspire-champions"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Sports & Recreation"
     },
     {
       "id": "HOME-OF-CHESS-ACADEMY",
@@ -5626,7 +5753,8 @@
           "url": "https://newstodaynet.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Sports & Recreation"
     },
     {
       "id": "PARA-BADMINTON-CENTRE",
@@ -5669,7 +5797,8 @@
           "url": "https://newstodaynet.com/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "MINI-STADIUMS-66",
@@ -5688,7 +5817,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 69.0,
+        "crore": 69,
         "notes": "Multi-sport mini stadiums"
       },
       "timeline": {
@@ -5712,7 +5841,8 @@
           "url": "https://www.dtnext.in/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Sports & Recreation"
     },
     {
       "id": "ITI-AMBATTUR-UPGRADE",
@@ -5731,7 +5861,7 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": 120.0,
+        "crore": 120,
         "notes": "Tamil Nadu World Innovation and Skill Training Hub (TN-WISH). Skill training for ITI/polytechnic trainers. Part of 71 ITI upgrade with Tata Tech"
       },
       "timeline": {
@@ -5755,7 +5885,8 @@
           "url": "https://www.tatatechnologies.com/in/newsroom/tata-technologies-collaborates-with-the-government-of-tamil-nadu-to-transform-71-state-industrial-training-institutes-itis-into-technology-centers/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "ITI-PERUR-NEW",
@@ -5774,7 +5905,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 148.0,
+        "crore": 148,
         "notes": "New ITI with multiple trades"
       },
       "timeline": {
@@ -5798,7 +5929,8 @@
           "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Metro & Rail"
     },
     {
       "id": "ITI-KANGEYAM-NEW",
@@ -5817,7 +5949,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 152.0,
+        "crore": 152,
         "notes": "New ITI with 4 trades"
       },
       "timeline": {
@@ -5841,7 +5973,8 @@
           "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Metro & Rail"
     },
     {
       "id": "POLICE-STATIONS-9-NEW",
@@ -5884,7 +6017,8 @@
           "url": "https://www.prokerala.com/news/articles/a1619697.html"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "WOMEN-POLICE-STATIONS-20",
@@ -5927,7 +6061,8 @@
           "url": "https://www.tnpscthervupettagam.com/currentaffairs-detail/tamil-nadu-police-department-announcements-2025"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SMART-CLASSROOMS-2676",
@@ -5946,7 +6081,7 @@
       "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
-        "crore": 65.0,
+        "crore": 65,
         "notes": "Smart classroom infrastructure"
       },
       "timeline": {
@@ -5970,7 +6105,8 @@
           "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "COMPUTER-LABS-2000",
@@ -5989,7 +6125,7 @@
       "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
-        "crore": 160.0,
+        "crore": 160,
         "notes": "Computer lab modernization"
       },
       "timeline": {
@@ -6013,7 +6149,8 @@
           "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-budget-2025-rs-55261-crore-allocated-for-education-department"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "HI-TECH-LABS-880",
@@ -6032,7 +6169,7 @@
       "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
-        "crore": 56.0,
+        "crore": 56,
         "notes": "Hi-tech science lab upgrades"
       },
       "timeline": {
@@ -6056,7 +6193,8 @@
           "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "STUDENT-HOSTELS-3CITIES",
@@ -6075,7 +6213,7 @@
       "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
-        "crore": 275.0,
+        "crore": 275,
         "notes": "High-capacity student hostels"
       },
       "timeline": {
@@ -6099,7 +6237,8 @@
           "url": "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-budget-2025-rs-55261-crore-allocated-for-education-department"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "SCHOOL-INFRA-ANBAZHAGAN",
@@ -6118,7 +6257,7 @@
       "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
-        "crore": 1000.0,
+        "crore": 1000,
         "notes": "Comprehensive school infrastructure improvement"
       },
       "timeline": {
@@ -6142,7 +6281,8 @@
           "url": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Education"
     },
     {
       "id": "TAMBARAM-GH-NEW-BUILDING",
@@ -6161,7 +6301,7 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 115.0,
+        "crore": 115,
         "notes": "6-story 400-bed hospital"
       },
       "timeline": {
@@ -6189,7 +6329,8 @@
           "url": "https://t-en-yd.obnews.co/Flow/News/id/11518129.html?val=0a294bf034dcd23cd1a62673bb498f03&ch=oppo"
         }
       ],
-      "notes": "State-of-the-art medical facilities. Tambaram Sanatorium location. Already captured in earlier batch - budget confirmed"
+      "notes": "State-of-the-art medical facilities. Tambaram Sanatorium location. Already captured in earlier batch - budget confirmed",
+      "subType": "Healthcare"
     },
     {
       "id": "TIRUCHENGODE-GH-UPGRADE",
@@ -6208,7 +6349,7 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 23.0,
+        "crore": 23,
         "notes": "Hospital capacity upgrade 160→225 beds"
       },
       "timeline": {
@@ -6232,7 +6373,8 @@
           "url": "https://newsonprojects.com/state?state=14&industry=144"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "AMBASAMUDRAM-GH-INFRA",
@@ -6251,7 +6393,7 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 15.0,
+        "crore": 15,
         "notes": "Hospital infrastructure upgrade"
       },
       "timeline": {
@@ -6275,7 +6417,8 @@
           "url": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/25-new-govt-hospitals-coming-up-in-tamil-nadu-health-minister-subramanian-158184"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "VALLIYUR-DH-NEW",
@@ -6294,7 +6437,7 @@
       "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
-        "crore": 30.0,
+        "crore": 30,
         "notes": "New district headquarters hospital"
       },
       "timeline": {
@@ -6318,7 +6461,8 @@
           "url": "https://newsonprojects.com/state?state=14&industry=144"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "TIRUCHI-HEALTH-INFRA",
@@ -6361,7 +6505,8 @@
           "url": "https://newsonprojects.com/state?state=14&industry=144"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Healthcare"
     },
     {
       "id": "KALAIGNAR-CONVENTION-CTR",
@@ -6380,7 +6525,7 @@
       "type": "Other",
       "status": "Ongoing",
       "budget": {
-        "crore": 525.0,
+        "crore": 525,
         "notes": "World-class convention centre"
       },
       "timeline": {
@@ -6404,7 +6549,8 @@
           "url": "https://www.dtnext.in/news/tamilnadu/convention-centre-named-after-karunanidhi-to-be-built-in-chennai-stalin-716269"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "SARAL-THAKKAR-CONVENTION",
@@ -6447,7 +6593,8 @@
           "url": "https://en.wikipedia.org/wiki/M._K._Stalin"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Urban Development"
     },
     {
       "id": "GATI-SHAKTI-CHENNAI-MCT",
@@ -6490,7 +6637,8 @@
           "url": "https://gettransport.com/articles/sical-logistics-gati-shakti-cargo-terminal"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "GATI-SHAKTI-PONNERI",
@@ -6533,7 +6681,8 @@
           "url": "https://www.dtnext.in/amp/news/chennai/second-gati-shakti-multi-modal-cargo-terminal-inaugurated-in-chennai-division-on-dec-4-855445"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Bus & Transport"
     },
     {
       "id": "SAFEXPRESS-LOGISTICS-PARK",
@@ -6576,7 +6725,8 @@
           "url": "https://www.india-briefing.com/news/tamil-nadus-new-logistics-policy-aligns-with-indias-infrastructure-masterplan-27546.html/"
         }
       ],
-      "notes": null
+      "notes": null,
+      "subType": "Ports & Logistics"
     }
   ]
 }

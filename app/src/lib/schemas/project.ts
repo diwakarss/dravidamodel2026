@@ -16,13 +16,15 @@ const safeUrlSchema = z
     { message: "URL must use http or https protocol" }
   );
 
-// Optional safe URL (null allowed)
+// Optional safe URL or local path (null allowed)
 const optionalSafeUrl = z
   .string()
   .nullable()
   .refine(
     (val) => {
       if (val === null) return true;
+      // Allow local paths starting with /
+      if (val.startsWith("/")) return true;
       try {
         const parsed = new URL(val);
         return ["http:", "https:"].includes(parsed.protocol);
@@ -30,7 +32,7 @@ const optionalSafeUrl = z
         return false;
       }
     },
-    { message: "URL must use http or https protocol" }
+    { message: "URL must use http or https protocol, or be a local path starting with /" }
   );
 
 export const BilingualTextSchema = z.object({
@@ -75,6 +77,31 @@ export const SourceSchema = z.object({
   url: safeUrlSchema,
 });
 
+// Infrastructure sub-types (detailed categorization)
+export const InfrastructureSubTypeSchema = z.enum([
+  "Metro & Rail",
+  "Roads & Bridges",
+  "Bus & Transport",
+  "Water & Sanitation",
+  "Power & Energy",
+  "Healthcare",
+  "Education",
+  "IT & Tech Parks",
+  "Sports & Recreation",
+  "Museums & Culture",
+  "Urban Development",
+  "Ports & Logistics",
+]);
+
+// Top-level category (for future expansion)
+export const ProjectCategorySchema = z.enum([
+  "Infrastructure",
+  "Industries",
+  "Education",
+  "Social Welfare",
+]);
+
+// Legacy type schema (kept for migration compatibility)
 export const ProjectTypeSchema = z.enum([
   "Public Transport",
   "Roads/Highways",
@@ -86,12 +113,18 @@ export const ProjectTypeSchema = z.enum([
 
 export const ProjectStatusSchema = z.enum(["Completed", "Ongoing", "Planned"]);
 
+// Funding source
+export const FundingSourceSchema = z.enum(["State", "Joint"]);
+
 export const ProjectSchema = z.object({
   id: z.string(),
   name: BilingualTextSchema,
   location: LocationSchema,
-  type: ProjectTypeSchema,
+  category: ProjectCategorySchema.default("Infrastructure"),
+  subType: InfrastructureSubTypeSchema.optional(), // Optional during migration
+  type: ProjectTypeSchema, // Legacy field, kept for compatibility
   status: ProjectStatusSchema,
+  funding: FundingSourceSchema.default("State"),
   budget: BudgetSchema,
   timeline: TimelineSchema,
   media: MediaSchema,
@@ -110,5 +143,8 @@ export const ProjectsDataSchema = z.object({
 export type Project = z.infer<typeof ProjectSchema>;
 export type ProjectsData = z.infer<typeof ProjectsDataSchema>;
 export type ProjectType = z.infer<typeof ProjectTypeSchema>;
+export type ProjectCategory = z.infer<typeof ProjectCategorySchema>;
+export type InfrastructureSubType = z.infer<typeof InfrastructureSubTypeSchema>;
 export type ProjectStatus = z.infer<typeof ProjectStatusSchema>;
+export type FundingSource = z.infer<typeof FundingSourceSchema>;
 export type BilingualText = z.infer<typeof BilingualTextSchema>;

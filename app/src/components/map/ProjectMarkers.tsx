@@ -30,7 +30,7 @@ export function ProjectMarkers({
   const markers = useMemo(() => {
     return projectsWithCoords.map((project) => {
       const { latitude, longitude } = project.location.coordinates!;
-      const icon = createProjectIcon(project.type, project.status);
+      const icon = createProjectIcon(project.type, project.status, project.subType);
 
       return {
         project,
@@ -71,8 +71,8 @@ export function ProjectMarkers({
           }}
         >
           <Tooltip direction="top" offset={[0, -14]} className="project-tooltip">
-            <div className="max-w-[200px]">
-              <p className="font-semibold text-navy-900 text-sm leading-tight">
+            <div className="max-w-[280px]">
+              <p className="font-semibold text-navy-900 text-sm leading-tight line-clamp-2">
                 {getLocalizedName(project.name, locale === "ta" ? "ta" : "en")}
               </p>
               <div className="flex items-center gap-2 mt-1 text-xs text-slate-600">

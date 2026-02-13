@@ -1,5 +1,6 @@
 import { StatCard } from "./StatCard";
 import { getStats } from "@/lib/data/projects";
+import { formatBudgetCompact } from "@/lib/utils/format";
 
 interface StatsGridProps {
   locale: string;
@@ -7,13 +8,6 @@ interface StatsGridProps {
 
 export function StatsGrid({ locale }: StatsGridProps) {
   const stats = getStats();
-
-  const formatBudgetCompact = (crore: number) => {
-    if (crore >= 10000) {
-      return `₹${(crore / 10000).toFixed(2)}L Cr`;
-    }
-    return `₹${crore.toLocaleString("en-IN")} Cr`;
-  };
 
   return (
     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">

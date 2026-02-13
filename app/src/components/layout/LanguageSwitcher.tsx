@@ -13,11 +13,13 @@ export function LanguageSwitcher({ locale }: LanguageSwitcherProps) {
 
   const switchLocale = (newLocale: string) => {
     const newPath = pathname.replace(`/${locale}`, `/${newLocale}`);
-    router.push(newPath);
+    // Preserve the hash (tab state) when switching languages
+    const hash = typeof window !== "undefined" ? window.location.hash : "";
+    router.push(newPath + hash);
   };
 
   return (
-    <div className="flex gap-2">
+    <div className="flex gap-1 bg-navy-100 rounded-lg p-0.5">
       <button
         type="button"
         onClick={() => switchLocale("en")}
@@ -25,10 +27,10 @@ export function LanguageSwitcher({ locale }: LanguageSwitcherProps) {
           locale === "en" ? "Current language: English" : "Switch to English"
         }
         className={cn(
-          "px-3 py-1.5 text-sm font-medium rounded transition-colors",
+          "px-2.5 py-1 text-xs font-medium rounded-md transition-colors",
           locale === "en"
-            ? "bg-white/20 text-white"
-            : "text-white/70 hover:text-white"
+            ? "bg-navy-900 text-white"
+            : "text-navy-600 hover:text-navy-800"
         )}
       >
         EN
@@ -40,13 +42,13 @@ export function LanguageSwitcher({ locale }: LanguageSwitcherProps) {
           locale === "ta" ? "Current language: Tamil" : "Switch to Tamil"
         }
         className={cn(
-          "px-3 py-1.5 text-sm font-medium rounded transition-colors font-tamil",
+          "px-2.5 py-1 text-xs font-medium rounded-md transition-colors font-tamil",
           locale === "ta"
-            ? "bg-white/20 text-white"
-            : "text-white/70 hover:text-white"
+            ? "bg-navy-900 text-white"
+            : "text-navy-600 hover:text-navy-800"
         )}
       >
-        த
+        தமிழ்
       </button>
     </div>
   );

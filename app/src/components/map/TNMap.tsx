@@ -1,12 +1,12 @@
 "use client";
 
 import { useEffect, useState, useRef, useCallback } from "react";
-import { MapContainer, TileLayer, useMap } from "react-leaflet";
+import { MapContainer, useMap } from "react-leaflet";
 import type { Map as LeafletMap, LatLngBounds } from "leaflet";
 import L from "leaflet";
 import { DistrictLayer } from "./DistrictLayer";
 import { ProjectMarkers } from "./ProjectMarkers";
-import { projects, getProjectsByDistrict } from "@/lib/data/projects";
+import { projects } from "@/lib/data/projects";
 import type { Project } from "@/lib/schemas/project";
 import {
   TN_CENTER,
@@ -17,10 +17,10 @@ import { tnDistrictsGeoJSON } from "@/data/tn-districts";
 
 import "leaflet/dist/leaflet.css";
 
-// Tamil Nadu bounds
+// Tamil Nadu bounds - tighter fit for district-only view
 const TN_BOUNDS: L.LatLngBoundsExpression = [
-  [8.0, 76.0],
-  [13.6, 80.5],
+  [8.0, 76.2],
+  [13.6, 80.4],
 ];
 
 const DISTRICT_ZOOM = 10;
@@ -30,6 +30,7 @@ interface TNMapProps {
   onProjectSelect?: (project: Project) => void;
   className?: string;
   locale: string;
+  filteredProjects?: Project[];
 }
 
 function ZoomController({ bounds }: { bounds: LatLngBounds | null }) {
@@ -49,10 +50,12 @@ export function TNMap({
   onProjectSelect,
   className,
   locale,
+  filteredProjects,
 }: TNMapProps) {
+  // Use filtered projects if provided, otherwise use all projects
+  const displayProjects = filteredProjects ?? projects;
   const [selectedDistrict, setSelectedDistrict] = useState<string | null>(null);
   const [zoomBounds, setZoomBounds] = useState<LatLngBounds | null>(null);
-  const [showMarkers, setShowMarkers] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const mapRef = useRef<LeafletMap | null>(null);
 
@@ -64,13 +67,13 @@ export function TNMap({
     return () => window.removeEventListener("resize", checkMobile);
   }, []);
 
-  // Calculate project counts
-  const projectCounts = getProjectCountsByDistrict(projects);
+  // Calculate project counts from displayed (filtered) projects
+  const projectCounts = getProjectCountsByDistrict(displayProjects);
   const maxCount = Math.max(...Object.values(projectCounts), 1);
 
-  // Get projects for selected district
+  // Get projects for selected district from displayed (filtered) projects
   const districtProjects = selectedDistrict
-    ? getProjectsByDistrict(selectedDistrict)
+    ? displayProjects.filter((p) => p.location.district === selectedDistrict)
     : [];
 
   const handleDistrictClick = useCallback(
@@ -79,7 +82,6 @@ export function TNMap({
       if (bounds) {
         setZoomBounds(bounds);
       }
-      setShowMarkers(true);
       onDistrictSelect?.(district);
     },
     [onDistrictSelect]
@@ -95,7 +97,6 @@ export function TNMap({
   const handleReset = useCallback(() => {
     setSelectedDistrict(null);
     setZoomBounds(null);
-    setShowMarkers(false);
     if (mapRef.current) {
       mapRef.current.fitBounds(TN_BOUNDS);
     }
@@ -109,39 +110,24 @@ export function TNMap({
     mapRef.current?.zoomOut();
   }, []);
 
-  // Track zoom level for showing/hiding markers
-  const handleZoom = useCallback(() => {
-    if (mapRef.current) {
-      const zoom = mapRef.current.getZoom();
-      setShowMarkers(zoom >= 9);
-    }
-  }, []);
-
   return (
     <div className={`relative ${className}`}>
       <MapContainer
         center={TN_CENTER}
         zoom={TN_INITIAL_ZOOM}
         scrollWheelZoom={true}
-        style={{ height: "100%", width: "100%" }}
+        style={{ height: "100%", width: "100%", background: "#f8fafc" }}
         maxBounds={TN_BOUNDS}
         minZoom={6}
-        maxZoom={14}
+        maxZoom={12}
         ref={mapRef}
         preferCanvas={true}
         zoomControl={!isMobile}
         touchZoom={true}
         dragging={true}
         doubleClickZoom={true}
-        whenReady={() => {
-          mapRef.current?.on("zoomend", handleZoom);
-        }}
       >
-        <TileLayer
-          attribution='&copy; <a href="https://carto.com/">CARTO</a>'
-          url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
-        />
-
+        {/* No TileLayer - district-only map */}
         <DistrictLayer
           geojson={tnDistrictsGeoJSON}
           projectCounts={projectCounts}
@@ -150,14 +136,12 @@ export function TNMap({
           locale={locale}
         />
 
-        {/* Show markers when zoomed in or district selected */}
-        {showMarkers && (
-          <ProjectMarkers
-            projects={selectedDistrict ? districtProjects : projects}
-            locale={locale}
-            onProjectClick={handleProjectClick}
-          />
-        )}
+        {/* Always show ALL project markers */}
+        <ProjectMarkers
+          projects={displayProjects}
+          locale={locale}
+          onProjectClick={handleProjectClick}
+        />
 
         <ZoomController bounds={zoomBounds} />
       </MapContainer>
@@ -179,10 +163,10 @@ export function TNMap({
           {locale === "ta" ? "திட்ட அடர்த்தி" : "Project Density"}
         </p>
         <div className="flex items-center gap-1">
-          <div className="w-3 h-3 rounded" style={{ background: "#e0ecf6" }}></div>
-          <div className="w-3 h-3 rounded" style={{ background: "#bdd4eb" }}></div>
-          <div className="w-3 h-3 rounded" style={{ background: "#6b9bc4" }}></div>
-          <div className="w-3 h-3 rounded" style={{ background: "#264d73" }}></div>
+          <div className="w-3 h-3 rounded" style={{ background: "#f0fdf4" }}></div>
+          <div className="w-3 h-3 rounded" style={{ background: "#dcfce7" }}></div>
+          <div className="w-3 h-3 rounded" style={{ background: "#86efac" }}></div>
+          <div className="w-3 h-3 rounded" style={{ background: "#22c55e" }}></div>
           <span className="text-xs text-slate-600 ml-2">
             {locale === "ta" ? "குறைவு → அதிகம்" : "Low → High"}
           </span>

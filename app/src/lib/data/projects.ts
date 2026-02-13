@@ -5,8 +5,8 @@ import {
   type ProjectStatus,
 } from "../schemas/project";
 import projectsJson from "@/data/projects.json";
+import { normalizeDistrictName, isSingleDistrict } from "../utils/mapHelpers";
 
-// Validate at import time (build time for static export)
 const validationResult = ProjectsDataSchema.safeParse(projectsJson);
 
 if (!validationResult.success) {
@@ -17,12 +17,10 @@ if (!validationResult.success) {
 
 export const projectsData: ProjectsData = validationResult.data;
 
-// Convenience exports
 export const projects: Project[] = projectsData.projects;
 export const totalProjects: number = projectsData.totalProjects;
 export const dataChecksum: string = projectsData.checksum;
 
-// Helper functions
 export function getProjectById(id: string): Project | undefined {
   return projects.find((p) => p.id === id);
 }
@@ -39,34 +37,54 @@ export function getProjectsByType(type: string): Project[] {
   return projects.filter((p) => p.type === type);
 }
 
-// Stats
-export function getStats() {
-  const byStatus = {
-    Completed: projects.filter((p) => p.status === "Completed").length,
-    Ongoing: projects.filter((p) => p.status === "Ongoing").length,
-    Planned: projects.filter((p) => p.status === "Planned").length,
+interface Stats {
+  total: number;
+  byStatus: Record<ProjectStatus, number>;
+  totalBudget: number;
+  completedBudget: number;
+  districtsCount: number;
+  typeCount: number;
+}
+
+export function getStats(): Stats {
+  const byStatus: Record<ProjectStatus, number> = {
+    Completed: 0,
+    Ongoing: 0,
+    Planned: 0,
   };
+  const districts = new Set<string>();
+  const types = new Set<string>();
+  let totalBudget = 0;
+  let completedBudget = 0;
 
-  const totalBudget = projects.reduce((sum, p) => {
-    return sum + (p.budget?.crore ?? 0);
-  }, 0);
-
-  const districts = new Set(projects.map((p) => p.location.district));
+  for (const p of projects) {
+    byStatus[p.status]++;
+    const budget = p.budget?.crore ?? 0;
+    totalBudget += budget;
+    if (p.status === "Completed") {
+      completedBudget += budget;
+    }
+    types.add(p.type);
+    // Only count single districts, exclude "Multiple*" entries
+    if (isSingleDistrict(p.location.district)) {
+      districts.add(normalizeDistrictName(p.location.district));
+    }
+  }
 
   return {
     total: projects.length,
     byStatus,
     totalBudget,
+    completedBudget,
     districtsCount: districts.size,
+    typeCount: types.size,
   };
 }
 
-// Get all unique districts
 export function getDistricts(): string[] {
   return [...new Set(projects.map((p) => p.location.district))].sort();
 }
 
-// Get all unique types
 export function getTypes(): string[] {
   return [...new Set(projects.map((p) => p.type))].sort();
 }

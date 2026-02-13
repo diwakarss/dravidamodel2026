@@ -10,7 +10,7 @@ interface DistrictLayerProps {
   geojson: FeatureCollection;
   projectCounts: Record<string, number>;
   maxCount: number;
-  onDistrictClick: (district: string, bounds?: LatLngBounds) => void;
+  onDistrictClick?: (district: string, bounds?: LatLngBounds) => void;
   locale: string;
 }
 
@@ -29,10 +29,10 @@ export function DistrictLayer({
 
     return {
       fillColor: getChoroplethColor(count, maxCount),
-      fillOpacity: 0.7,
-      color: "#1a3a5c",
-      weight: 1.5,
-      opacity: 1,
+      fillOpacity: 0.6,
+      color: "#94a3b8", // soft slate border
+      weight: 1,
+      opacity: 0.8,
     };
   };
 
@@ -53,23 +53,27 @@ export function DistrictLayer({
     // Click handler
     layer.on({
       click: () => {
-        // Get bounds from feature geometry
-        const geojsonLayer = layer as L.GeoJSON;
-        const bounds = geojsonLayer.getBounds?.();
-        onDistrictClick(district, bounds);
+        if (onDistrictClick) {
+          // Get bounds from feature geometry
+          const geojsonLayer = layer as L.GeoJSON;
+          const bounds = geojsonLayer.getBounds?.();
+          onDistrictClick(district, bounds);
+        }
       },
       mouseover: (e) => {
         const target = e.target;
         target.setStyle({
-          weight: 3,
-          fillOpacity: 0.9,
+          weight: 2,
+          fillOpacity: 0.8,
+          color: "#475569", // darker border on hover
         });
       },
       mouseout: (e) => {
         const target = e.target;
         target.setStyle({
-          weight: 1.5,
-          fillOpacity: 0.7,
+          weight: 1,
+          fillOpacity: 0.6,
+          color: "#94a3b8",
         });
       },
     });

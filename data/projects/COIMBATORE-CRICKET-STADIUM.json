@@ -15,8 +15,8 @@
   "type": "Other",
   "status": "Planned",
   "budget": {
-    "crore": null,
-    "notes": "India's largest cricket stadium"
+    "crore": 500.0,
+    "notes": "30 acres, 30,000 capacity, inspired by Optus Stadium Perth. Blueprint being prepared for CM approval. Expected completion 2027"
   },
   "timeline": {
     "startYear": 2021,
@@ -24,8 +24,8 @@
     "completionNotes": null
   },
   "media": {
-    "photoUrl": null,
-    "photoCaption": null,
+    "photoUrl": "https://www.crictracker.com/cricket-news/tamil-nadu-government-to-build-biggest-cricket-stadium-in-coimbatore-4967-8602/",
+    "photoCaption": "Coimbatore Cricket Stadium plans - 30,000 capacity, inspired by Optus Stadium Perth",
     "cmPhotoInitiation": null,
     "cmPhotoCompletion": null
   },

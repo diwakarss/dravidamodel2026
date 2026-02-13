@@ -6,7 +6,6 @@ interface TypeBadgeProps {
   className?: string;
 }
 
-// SVG icons for each type
 const typeIcons: Record<ProjectType, React.ReactNode> = {
   "Public Transport": (
     <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="currentColor">

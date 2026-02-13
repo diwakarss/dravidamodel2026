@@ -1,0 +1,321 @@
+// Tamil Nadu Sports & Culture Data (2021-2026)
+// Source: Research February 2026
+
+export interface SportsCultureScheme {
+  id: string;
+  name: { en: string; ta: string };
+  description: { en: string; ta: string };
+  launchDate?: string;
+  beneficiaries: {
+    count: string;
+    description: { en: string; ta: string };
+  };
+  budget?: {
+    amount: string;
+    year?: string;
+    details?: string;
+  };
+  highlights?: { en: string; ta: string }[];
+  icon: string;
+}
+
+export const sportsCultureSchemes: SportsCultureScheme[] = [
+  {
+    id: "chess-olympiad",
+    name: {
+      en: "FIDE Chess Olympiad 2022",
+      ta: "FIDE சதுரங்க ஒலிம்பியாட் 2022",
+    },
+    description: {
+      en: "India's first Chess Olympiad hosted in Chennai with world-class infrastructure and 2,000+ participants.",
+      ta: "உலகத்தரம் வாய்ந்த உள்கட்டமைப்பு மற்றும் 2,000+ பங்கேற்பாளர்களுடன் சென்னையில் நடைபெற்ற இந்தியாவின் முதல் சதுரங்க ஒலிம்பியாட்.",
+    },
+    launchDate: "July-August 2022",
+    beneficiaries: {
+      count: "187 countries",
+      description: {
+        en: "Record participation",
+        ta: "சாதனை பங்கேற்பு",
+      },
+    },
+    budget: {
+      amount: "₹100+ crore",
+      details: "Event + infrastructure",
+    },
+    highlights: [
+      { en: "Largest Chess Olympiad in history", ta: "வரலாற்றில் மிகப்பெரிய சதுரங்க ஒலிம்பியாட்" },
+      { en: "India won bronze medals (Open & Women)", ta: "இந்தியா வெண்கல பதக்கங்கள் (ஓபன் & பெண்கள்)" },
+      { en: "Chess in schools program launched", ta: "பள்ளிகளில் சதுரங்க திட்டம் தொடங்கப்பட்டது" },
+    ],
+    icon: "♟️",
+  },
+  {
+    id: "chennai-night-race",
+    name: {
+      en: "Chennai Formula Racing Night",
+      ta: "சென்னை ஃபார்முலா ரேசிங் நைட்",
+    },
+    description: {
+      en: "Historic night street racing event on Chennai's Island Grounds circuit.",
+      ta: "சென்னை தீவுத் திடல் சர்க்யூட்டில் வரலாற்று சிறப்புமிக்க இரவு தெரு பந்தய நிகழ்வு.",
+    },
+    launchDate: "2024",
+    beneficiaries: {
+      count: "Lakhs of spectators",
+      description: {
+        en: "Motorsport fans",
+        ta: "மோட்டார் ஸ்போர்ட் ரசிகர்கள்",
+      },
+    },
+    budget: {
+      amount: "₹50+ crore",
+      details: "Event organization",
+    },
+    highlights: [
+      { en: "First night street race in India", ta: "இந்தியாவின் முதல் இரவு தெரு பந்தயம்" },
+      { en: "International drivers participated", ta: "சர்வதேச ஓட்டுநர்கள் பங்கேற்பு" },
+      { en: "Island Grounds transformed", ta: "தீவுத் திடல் மாற்றப்பட்டது" },
+    ],
+    icon: "🏎️",
+  },
+  {
+    id: "sports-academies",
+    name: {
+      en: "State Sports Academies",
+      ta: "மாநில விளையாட்டு அகாடமிகள்",
+    },
+    description: {
+      en: "World-class training academies for multiple sports disciplines across Tamil Nadu.",
+      ta: "தமிழ்நாடு முழுவதும் பல விளையாட்டு துறைகளுக்கான உலகத்தரம் வாய்ந்த பயிற்சி அகாடமிகள்.",
+    },
+    beneficiaries: {
+      count: "Thousands of athletes",
+      description: {
+        en: "Across disciplines",
+        ta: "பல துறைகளில்",
+      },
+    },
+    budget: {
+      amount: "₹200+ crore",
+      year: "Annual",
+    },
+    highlights: [
+      { en: "Athletics, swimming, hockey academies", ta: "தடகளம், நீச்சல், ஹாக்கி அகாடமிகள்" },
+      { en: "Free training & boarding", ta: "இலவச பயிற்சி & தங்குமிடம்" },
+      { en: "International coaches", ta: "சர்வதேச பயிற்சியாளர்கள்" },
+    ],
+    icon: "🏋️",
+  },
+  {
+    id: "stadium-upgrades",
+    name: {
+      en: "Stadium Infrastructure",
+      ta: "அரங்க உள்கட்டமைப்பு",
+    },
+    description: {
+      en: "Major upgrades to Jawaharlal Nehru Stadium and district-level sports infrastructure.",
+      ta: "ஜவஹர்லால் நேரு அரங்கம் மற்றும் மாவட்ட அளவிலான விளையாட்டு உள்கட்டமைப்புக்கான பெரிய மேம்பாடுகள்.",
+    },
+    beneficiaries: {
+      count: "Multiple stadiums",
+      description: {
+        en: "State & district level",
+        ta: "மாநில & மாவட்ட அளவில்",
+      },
+    },
+    budget: {
+      amount: "₹500+ crore",
+      details: "Infrastructure investment",
+    },
+    highlights: [
+      { en: "Nehru Stadium Chennai upgrades", ta: "நேரு அரங்கம் சென்னை மேம்பாடுகள்" },
+      { en: "Swimming pools in all districts", ta: "அனைத்து மாவட்டங்களிலும் நீச்சல் குளங்கள்" },
+      { en: "Synthetic tracks installation", ta: "செயற்கை தடங்கள் நிறுவல்" },
+    ],
+    icon: "🏟️",
+  },
+  {
+    id: "athlete-awards",
+    name: {
+      en: "Cash Awards for Athletes",
+      ta: "விளையாட்டு வீரர்களுக்கான பண வெகுமதிகள்",
+    },
+    description: {
+      en: "Generous cash awards for medal winners in Olympics, Asian Games, Commonwealth Games.",
+      ta: "ஒலிம்பிக்ஸ், ஆசிய விளையாட்டுப் போட்டிகள், காமன்வெல்த் விளையாட்டுக்களில் பதக்க வெற்றியாளர்களுக்கு தாராளமான பண வெகுமதிகள்.",
+    },
+    beneficiaries: {
+      count: "Medal winners",
+      description: {
+        en: "TN athletes",
+        ta: "தமிழ்நாடு விளையாட்டு வீரர்கள்",
+      },
+    },
+    budget: {
+      amount: "₹3 crore (Olympic Gold)",
+      details: "Highest in India",
+    },
+    highlights: [
+      { en: "Olympic Gold: ₹3 crore", ta: "ஒலிம்பிக் தங்கம்: ₹3 கோடி" },
+      { en: "Olympic Silver: ₹2 crore", ta: "ஒலிம்பிக் வெள்ளி: ₹2 கோடி" },
+      { en: "Government jobs for medalists", ta: "பதக்க வெற்றியாளர்களுக்கு அரசு வேலை" },
+    ],
+    icon: "🥇",
+  },
+  {
+    id: "traditional-sports",
+    name: {
+      en: "Traditional Sports Promotion",
+      ta: "பாரம்பரிய விளையாட்டு ஊக்குவிப்பு",
+    },
+    description: {
+      en: "Revival and promotion of traditional Tamil sports like Silambam, Kabaddi, and Jallikattu.",
+      ta: "சிலம்பம், கபடி மற்றும் ஜல்லிக்கட்டு போன்ற பாரம்பரிய தமிழ் விளையாட்டுகளின் மறுமலர்ச்சி மற்றும் ஊக்குவிப்பு.",
+    },
+    beneficiaries: {
+      count: "Youth & rural areas",
+      description: {
+        en: "Traditional sports enthusiasts",
+        ta: "பாரம்பரிய விளையாட்டு ஆர்வலர்கள்",
+      },
+    },
+    budget: {
+      amount: "₹50+ crore",
+      year: "Annual",
+    },
+    highlights: [
+      { en: "Silambam included in curriculum", ta: "பாடத்திட்டத்தில் சிலம்பம் சேர்ப்பு" },
+      { en: "Jallikattu: Protected & regulated", ta: "ஜல்லிக்கட்டு: பாதுகாக்கப்பட்டது & ஒழுங்குபடுத்தப்பட்டது" },
+      { en: "State Kabaddi league", ta: "மாநில கபடி லீக்" },
+    ],
+    icon: "🤼",
+  },
+  {
+    id: "thiruvalluvar-prize",
+    name: {
+      en: "Thiruvalluvar Award for Literature",
+      ta: "இலக்கியத்திற்கான திருவள்ளுவர் விருது",
+    },
+    description: {
+      en: "Prestigious literary award announced for outstanding contributions to Tamil literature.",
+      ta: "தமிழ் இலக்கியத்திற்கான சிறந்த பங்களிப்புகளுக்கான மதிப்புமிக்க இலக்கிய விருது அறிவிக்கப்பட்டது.",
+    },
+    launchDate: "2025",
+    beneficiaries: {
+      count: "Tamil writers",
+      description: {
+        en: "Annual recognition",
+        ta: "வருடாந்திர அங்கீகாரம்",
+      },
+    },
+    budget: {
+      amount: "₹10 lakh prize",
+      details: "Plus recognition",
+    },
+    highlights: [
+      { en: "Recognizes Tamil literary excellence", ta: "தமிழ் இலக்கிய சிறப்பை அங்கீகரிக்கிறது" },
+      { en: "International Tamil writers eligible", ta: "சர்வதேச தமிழ் எழுத்தாளர்கள் தகுதியானவர்கள்" },
+      { en: "Annual award ceremony", ta: "வருடாந்திர விருது வழங்கும் விழா" },
+    ],
+    icon: "📖",
+  },
+  {
+    id: "music-dance",
+    name: {
+      en: "Classical Arts Promotion",
+      ta: "செவ்வியல் கலைகள் ஊக்குவிப்பு",
+    },
+    description: {
+      en: "Support for Carnatic music, Bharatanatyam, and traditional Tamil performing arts.",
+      ta: "கர்நாடக இசை, பரதநாட்டியம் மற்றும் பாரம்பரிய தமிழ் நிகழ்த்து கலைகளுக்கான ஆதரவு.",
+    },
+    beneficiaries: {
+      count: "Artists statewide",
+      description: {
+        en: "Musicians, dancers",
+        ta: "இசைக்கலைஞர்கள், நடனக் கலைஞர்கள்",
+      },
+    },
+    budget: {
+      amount: "₹100+ crore",
+      year: "Annual cultural budget",
+    },
+    highlights: [
+      { en: "Kalakshetra support", ta: "கலாக்ஷேத்ரா ஆதரவு" },
+      { en: "Chennai Music Season support", ta: "சென்னை இசை பருவம் ஆதரவு" },
+      { en: "Artist pension schemes", ta: "கலைஞர் ஓய்வூதிய திட்டங்கள்" },
+    ],
+    icon: "🎭",
+  },
+  {
+    id: "film-awards",
+    name: {
+      en: "Tamil Nadu State Film Awards",
+      ta: "தமிழ்நாடு மாநில திரைப்பட விருதுகள்",
+    },
+    description: {
+      en: "Annual state awards recognizing excellence in Tamil cinema.",
+      ta: "தமிழ் சினிமாவில் சிறந்த சாதனைகளை அங்கீகரிக்கும் வருடாந்திர மாநில விருதுகள்.",
+    },
+    beneficiaries: {
+      count: "Film industry",
+      description: {
+        en: "Actors, technicians",
+        ta: "நடிகர்கள், தொழில்நுட்ப வல்லுநர்கள்",
+      },
+    },
+    budget: {
+      amount: "State-funded",
+    },
+    highlights: [
+      { en: "Best Film, Actor, Director awards", ta: "சிறந்த படம், நடிகர், இயக்குநர் விருதுகள்" },
+      { en: "Technical excellence categories", ta: "தொழில்நுட்ப சிறப்பு பிரிவுகள்" },
+      { en: "Lifetime achievement honors", ta: "வாழ்நாள் சாதனை கௌரவங்கள்" },
+    ],
+    icon: "🎬",
+  },
+  {
+    id: "heritage-conservation",
+    name: {
+      en: "Temple & Heritage Conservation",
+      ta: "கோவில் & பாரம்பரிய பாதுகாப்பு",
+    },
+    description: {
+      en: "Conservation and restoration of ancient temples and heritage structures across Tamil Nadu.",
+      ta: "தமிழ்நாடு முழுவதும் பண்டைய கோவில்கள் மற்றும் பாரம்பரிய கட்டமைப்புகளின் பாதுகாப்பு மற்றும் மீட்பு.",
+    },
+    beneficiaries: {
+      count: "44,000+ temples",
+      description: {
+        en: "Under HR&CE",
+        ta: "HR&CE கீழ்",
+      },
+    },
+    budget: {
+      amount: "₹500+ crore",
+      year: "Annual",
+    },
+    highlights: [
+      { en: "Kumbabishekam support", ta: "கும்பாபிஷேகம் ஆதரவு" },
+      { en: "UNESCO site maintenance", ta: "யுனெஸ்கோ தள பராமரிப்பு" },
+      { en: "Temple jewel audits", ta: "கோவில் நகை தணிக்கைகள்" },
+    ],
+    icon: "🛕",
+  },
+];
+
+export const sportsCultureStats = {
+  chessOlympiadCountries: 187,
+  athleteAwardOlympicGold: "₹3 crore",
+  stadiumsUpgraded: 50,
+  templesUnderHRCE: "44,000+",
+};
+
+export function getSportsCultureStats() {
+  return {
+    totalSchemes: sportsCultureSchemes.length,
+    chessCountries: 187,
+    olympicGoldPrize: 30000000,
+    templesCount: 44000,
+  };
+}

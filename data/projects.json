@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "generated": "2026-02-08",
   "totalProjects": 150,
-  "checksum": "325c52626937fd67cacf316ceaaa2daee22f9f1fbba371c0371ff1fed2c3021e",
+  "checksum": "b9df5b7ea5099b319d6458862a5739e28f36780b1a35b5ae0b99480d8129f052",
   "projects": [
     {
       "id": "CMRL-P2-C3",
@@ -30,8 +30,8 @@
         "completionNotes": "Phased opening from 2026 onwards"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://chennaimetrorail.org/photo-gallery/",
+        "photoCaption": "Chennai Metro Phase II construction progress - official CMRL gallery",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -77,8 +77,8 @@
         "completionNotes": "Poonamallee-Porur stretch opening Jan 2026; Kodambakkam Power House by June 2026"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://chennaimetrorail.org/photo-gallery/",
+        "photoCaption": "Chennai Metro Phase II Corridor 4 construction progress - official CMRL gallery",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -124,8 +124,8 @@
         "completionNotes": "Madhavaram-Retteri stretch expected by mid-2026"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://chennaimetrorail.org/photo-gallery/",
+        "photoCaption": "Chennai Metro Phase II Corridor 5 construction progress - official CMRL gallery",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -171,8 +171,8 @@
         "completionNotes": null
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Schemes in 22 towns - TWAD Board official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -218,8 +218,8 @@
         "completionNotes": "MFF availability period extends to June 30 2026"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.adb.org/news/adb-500-million-facility-develop-climate-resilient-urban-water-and-sanitation-services-indias",
+        "photoCaption": "ADB Climate-Resilient Urban Water and Sanitation - $500M multitranche facility",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -261,8 +261,8 @@
         "completionNotes": "Construction commenced March 2021"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://tnuhp.org/upgrading-tertiary-hospitals.php",
+        "photoCaption": "Upgrading 3 Tertiary Care Hospitals - JICA-funded TNUHP project, ₹368.20 crore",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -347,8 +347,8 @@
         "completionNotes": "Flagged off for public use"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.tnhsp.org/",
+        "photoCaption": "87 new 108 ambulance services inaugurated in Chennai - Tamil Nadu Health System Project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -480,8 +480,8 @@
         "completionNotes": "Expected operational by January 2026"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://buildwatchnews.com/chennai-peripheral-ring-road-10-lane-expressway-2026/",
+        "photoCaption": "Tamil Nadu's first 10-lane expressway - 132.87 km Mamallapuram to Kattupalli Port",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -613,8 +613,8 @@
         "completionNotes": "78.19% rural households now have tap water connections"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://jaljeevanmission.gov.in/",
+        "photoCaption": "Jal Jeevan Mission Tamil Nadu - 78.19% rural households with tap water connections",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -707,8 +707,8 @@
         "completionNotes": "Part of 50% renewable energy by 2030 goal"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.blackridgeresearch.com/news-releases/tamil-nadu-announces-12-gw-renewable-energy-expansion-south-asian-energy-corridor",
+        "photoCaption": "Tamil Nadu 12 GW renewable energy expansion - solar and wind projects",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -788,8 +788,8 @@
       "type": "Power/Utilities",
       "status": "Ongoing",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 1850.0,
+        "notes": "500 MW pumped storage project with four 125 MW units. TANGEDCO project. Commissioning by 2026-27"
       },
       "timeline": {
         "startYear": 2021,
@@ -883,8 +883,8 @@
         "completionNotes": "Inaugurated July 15 2023"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.dtnext.in/news/tamilnadu/stalin-inaugurates-kalaignar-centenary-library-at-madurai-724508",
+        "photoCaption": "Kalaignar Centenary Library Madurai - ₹120.75 crore, 6-storey, 3.5 lakh books, inaugurated July 15, 2023 by CM Stalin",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -930,8 +930,8 @@
         "completionNotes": "Inaugurated December 30 2023"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.livechennai.com/detailnews.asp?newsid=69700",
+        "photoCaption": "Kalaignar Centenary Bus Terminus Kilambakkam - ₹325 crore, 215 bus bays, inaugurated December 30, 2023 by CM Stalin",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -977,8 +977,8 @@
         "completionNotes": "Opened by CM Stalin"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/",
+        "photoCaption": "Trichy Integrated Bus Terminus - ₹393 crore, inaugurated May 2025 by CM Stalin alongside truck terminal",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1020,8 +1020,8 @@
         "completionNotes": "Opened by CM Stalin"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/",
+        "photoCaption": "Trichy Integrated Truck Terminal Panjapur - ₹129 crore, inaugurated May 2025 by CM Stalin",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1063,8 +1063,8 @@
         "completionNotes": "Phased completion 2025-2026"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.news9live.com/state/tamil-nadu/chennais-public-transport-overhaul-new-bus-stands-ppp-model-and-rs-414-crore-project-2890086",
+        "photoCaption": "Chennai Bus Terminals Modernization - Multiple locations including Chengalpattu, Kuthambakkam",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1106,8 +1106,8 @@
         "completionNotes": "PM Modi inaugurated virtually"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "11 new government medical colleges inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1449,8 +1449,8 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "State commitment to hockey"
+        "crore": 9.67,
+        "notes": "6,500 sq.m artificial turf, international standards. Inaugurated Dec 30, 2025 by Deputy CM Udhayanidhi Stalin"
       },
       "timeline": {
         "startYear": 2021,
@@ -1458,8 +1458,8 @@
         "completionNotes": "Inaugurated by Deputy CM Udhayanidhi Stalin"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.newkerala.com/news/o/tamil-nadu-deputy-chief-minister-udhayanidhi-stalin-inaugurates-608",
+        "photoCaption": "New Hockey Stadium inauguration by Deputy CM Udhayanidhi Stalin, December 30, 2025",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1492,8 +1492,8 @@
       "type": "Other",
       "status": "Planned",
       "budget": {
-        "crore": null,
-        "notes": "India's largest cricket stadium"
+        "crore": 500.0,
+        "notes": "30 acres, 30,000 capacity, inspired by Optus Stadium Perth. Blueprint being prepared for CM approval. Expected completion 2027"
       },
       "timeline": {
         "startYear": 2021,
@@ -1501,8 +1501,8 @@
         "completionNotes": null
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.crictracker.com/cricket-news/tamil-nadu-government-to-build-biggest-cricket-stadium-in-coimbatore-4967-8602/",
+        "photoCaption": "Coimbatore Cricket Stadium plans - 30,000 capacity, inspired by Optus Stadium Perth",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1630,8 +1630,8 @@
         "completionNotes": "45/46 projects completed"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Chennai Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1673,8 +1673,8 @@
         "completionNotes": "All projects completed"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Coimbatore Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1716,8 +1716,8 @@
         "completionNotes": "Ongoing projects underway"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Madurai Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1759,8 +1759,8 @@
         "completionNotes": "Ongoing projects"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Salem Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1802,8 +1802,8 @@
         "completionNotes": "Ongoing projects"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Thanjavur Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1845,8 +1845,8 @@
         "completionNotes": "Ongoing projects"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Vellore Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1888,8 +1888,8 @@
         "completionNotes": "Ongoing projects"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Tiruppur Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1931,8 +1931,8 @@
         "completionNotes": "Ongoing projects"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Thoothukudi Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -1974,8 +1974,8 @@
         "completionNotes": "Ongoing projects"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Tirunelveli Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2017,8 +2017,8 @@
         "completionNotes": "Ongoing projects"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "http://tufidco.in/smart.aspx",
+        "photoCaption": "Erode Smart City projects - TUFIDCO official website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2060,8 +2060,8 @@
         "completionNotes": "Phase 1 ready February 2026"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.itln.in/logistics/chennai-a-strategic-gateway-for-south-indias-trade-expansion-1354814",
+        "photoCaption": "Multi-Modal Logistics Park Mappedu - ₹1,424 crore project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2103,8 +2103,8 @@
         "completionNotes": null
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.chennaiport.gov.in/",
+        "photoCaption": "Chennai Port Authority expansion - ₹42,000 crore investment tranche",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2146,8 +2146,8 @@
         "completionNotes": "Operational"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.nativeplanet.com/news/chennai-opens-new-flyover-and-foot-overbridge-at-tidel-park-for-smoother-traffic-015537.html",
+        "photoCaption": "U-shaped flyover at TIDEL Park junction inauguration - ₹27.5 crore project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2180,8 +2180,8 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 108.0,
+        "notes": "Double-decker flyover at Vijayanagar Junction. Taramani-Velachery bypass connection. Completed by PWD"
       },
       "timeline": {
         "startYear": 2021,
@@ -2189,8 +2189,8 @@
         "completionNotes": "Completed and operational"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://swarajyamag.com/infrastructure/chennais-longest-flyover-inaugurated-2-km-long-overpass-connects-tambaram-and-velachery",
+        "photoCaption": "Velachery twin flyovers at Vijayanagar Junction",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2223,8 +2223,8 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 93.5,
+        "notes": "1.15 km four-lane flyover near CMBT and Koyambedu markets. Inaugurated November 2021"
       },
       "timeline": {
         "startYear": 2021,
@@ -2232,8 +2232,8 @@
         "completionNotes": "Completed and operational"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.updatenews360.com/english/tamilnadu/stalin-opens-velacheri-koyambedu-flyovers/",
+        "photoCaption": "Koyambedu flyover near CMBT and Koyambedu markets, inaugurated November 2021",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2266,8 +2266,8 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": null
+        "crore": 206.0,
+        "notes": "Railway overbridge connecting Tambaram eastern bypass. Cost escalated from ₹86cr due to 20-year delay. Opened after 23-year delay"
       },
       "timeline": {
         "startYear": 2021,
@@ -2275,8 +2275,8 @@
         "completionNotes": "Completed and operational"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.india.com/tamil-nadu/perungalathur-flyover-in-chennai-opens-after-23-year-delay-but-kamaraj-nagar-residents-not-happy-heres-why-7134511/",
+        "photoCaption": "Perungalathur railway overbridge - opened August 1, 2024 after 23-year delay",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2361,8 +2361,8 @@
         "completionNotes": "Inaugurated by CM Stalin"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.thenewsminute.com/tamil-nadu/tn-cm-inaugurates-pallavaram-and-vandalur-flyovers-chengalpet-district-133277",
+        "photoCaption": "Pallavaram flyover inauguration by CM Edappadi K Palaniswami, September 17, 2020",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2404,8 +2404,8 @@
         "completionNotes": "Inaugurated by CM Stalin"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.thenewsminute.com/tamil-nadu/tn-cm-inaugurates-pallavaram-and-vandalur-flyovers-chengalpet-district-133277",
+        "photoCaption": "Vandalur flyover inauguration by CM Edappadi K Palaniswami, September 17, 2020",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2447,8 +2447,8 @@
         "completionNotes": "Completed and operational"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.constructionworld.in/transport-infrastructure/highways-and-roads-infrastructure/cm-stalin-inaugurates-chennai-s-longest-medavakkam-flyover/34444",
+        "photoCaption": "Chennai's longest unidirectional flyover inauguration by CM Stalin, May 13, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2490,8 +2490,8 @@
         "completionNotes": "Completed and operational"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.dtnext.in/news/tamilnadu/60-of-inner-ring-road-rob-widening-works-completed-tn-highways-dept-838031",
+        "photoCaption": "Inner Ring Road bridge widening project - ₹139.17 crore expansion",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2533,8 +2533,8 @@
         "completionNotes": "DPR completed July 2023; construction target end 2024; operations December 2027"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://chennaimetrorail.org/photo-gallery/detailed-project-report-dpr-for-madurai-mass-rapid-transit-system/",
+        "photoCaption": "Madurai Metro DPR visualization - CMRL official gallery",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2576,8 +2576,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Udhagamandalam (Ooty) - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2619,8 +2619,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Chinnamanur - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2662,8 +2662,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Namakkal - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2705,8 +2705,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Dharmapuri - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2748,8 +2748,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Perambalur - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2791,8 +2791,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Thiruvannamalai - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2834,8 +2834,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Kancheepuram - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2877,8 +2877,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Ramanathapuram - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2920,8 +2920,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Tiruvarur - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -2963,8 +2963,8 @@
         "completionNotes": "Completed and operationalized"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.twadboard.tn.gov.in/content/under-ground-sewerage-schemes",
+        "photoCaption": "Underground Sewerage Scheme Cuddalore - TWAD Board TNUDP-III project",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3006,8 +3006,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Ariyalur - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3049,8 +3049,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Dindigul - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3092,8 +3092,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Kallakurichi - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3135,8 +3135,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Krishnagiri - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3178,8 +3178,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Nagapattinam - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3221,8 +3221,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Namakkal - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3264,8 +3264,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Ramanathapuram - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3307,8 +3307,8 @@
         "completionNotes": "Inaugurated by PM Modi January 2022"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
+        "photoCaption": "Government Medical College Tiruppur - inaugurated by PM Modi, January 12, 2022",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -3838,8 +3838,8 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "Government coworking space for startups and students"
+        "crore": 2.85,
+        "notes": "GCC + CMDA coworking space in Kolathur. 40 coworking + 50 learning seats. ₹50/day. Inaugurated Nov 4, 2024 by CM Stalin"
       },
       "timeline": {
         "startYear": 2021,
@@ -4057,8 +4057,8 @@
       "type": "Other",
       "status": "Planned",
       "budget": {
-        "crore": null,
-        "notes": "Mini IT park in Chettinad region"
+        "crore": 28.0,
+        "notes": "G+2 Mini IT Park, 50,000 sq.ft., 5 acres. Inaugurated Jan 31, 2026 by CM Stalin. Creates 600+ jobs"
       },
       "timeline": {
         "startYear": 2021,
@@ -4066,8 +4066,8 @@
         "completionNotes": "Planning phase"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.tidelpark.com/blog/tidel-neo-karaikudi-igniting-the-it-spark-in-the-heart-of-chettinad.html",
+        "photoCaption": "TIDEL Neo Karaikudi mini IT Park - official TIDEL Park website",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -4100,8 +4100,8 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "IT park complex in north Chennai suburb"
+        "crore": 330.0,
+        "notes": "21-storey TIDEL Park, 5.57 lakh sq.ft. Inaugurated Nov 22, 2024. Third largest in state, creates 6,000 jobs"
       },
       "timeline": {
         "startYear": 2021,
@@ -4109,8 +4109,8 @@
         "completionNotes": "Opened 2024"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.projectstoday.com/News/Tamil-Nadu-CM-inaugurates-Rs-330-cr-Tidel-Park-in-Pattabiram-Chennai",
+        "photoCaption": "21-storey TIDEL Park Pattabiram inauguration by CM Stalin, November 22, 2024",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -4246,8 +4246,8 @@
         "completionNotes": "Inaugurated February 24 2025; ₹3 lakh loan per pharmacy"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.deccanherald.com/india/tamil-nadu/with-eye-on-polls-next-year-tamil-nadu-cm-stalin-launches-1000-low-cost-pharmacies-mudhalvar-marundhagam-3419188",
+        "photoCaption": "1,000 Mudhalvar Marundhagam pharmacies launch by CM Stalin, February 24, 2025",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -4336,8 +4336,8 @@
         "completionNotes": "Inaugurated February 13 2024"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://indianinfrastructure.com/2024/02/27/nemmeli-water-desalination-plant-gets-inaugurated/",
+        "photoCaption": "Nemmeli Seawater Desalination Plant Phase 2, February 24, 2024",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -5070,8 +5070,8 @@
       "type": "Roads/Highways",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "Long-awaited railway overbridge"
+        "crore": 62.0,
+        "notes": "Railway overbridge Sivakasi. Southern Railway. Eases traffic bottlenecks. Inaugurated Nov 2025 by CM Stalin"
       },
       "timeline": {
         "startYear": 2021,
@@ -5379,8 +5379,8 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "Groundwater recharge wetland park"
+        "crore": 12.6,
+        "notes": "Dr. M.S. Swaminathan Wetland Eco Park. 16 acres. Part of ₹88cr for 7 sponge parks. Inaugurated March 2025 by CM Stalin. 85+ native species"
       },
       "timeline": {
         "startYear": 2021,
@@ -5388,8 +5388,8 @@
         "completionNotes": "Inaugurated by CM Stalin"
       },
       "media": {
-        "photoUrl": null,
-        "photoCaption": null,
+        "photoUrl": "https://www.livechennai.com/detailnews.asp?catid=56&newsid=73802&nav=n",
+        "photoCaption": "Dr. M.S. Swaminathan Wetland Sponge Park inauguration by CM Stalin, March 2025",
         "cmPhotoInitiation": null,
         "cmPhotoCompletion": null
       },
@@ -5731,8 +5731,8 @@
       "type": "Other",
       "status": "Completed",
       "budget": {
-        "crore": null,
-        "notes": "ITI upgrade with modern equipment and facilities"
+        "crore": 120.0,
+        "notes": "Tamil Nadu World Innovation and Skill Training Hub (TN-WISH). Skill training for ITI/polytechnic trainers. Part of 71 ITI upgrade with Tata Tech"
       },
       "timeline": {
         "startYear": 2021,

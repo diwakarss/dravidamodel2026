@@ -77,6 +77,78 @@ BUDGET_UPDATES = {
     "NEMMELI-DESAL-P2": {
         "budget_crore": "1516.82",
         "budget_notes": "150 MLD capacity desalination plant Phase 2. RO process with DAF and UF pre-treatment. Commissioned Feb 2024"
+    },
+    # Session 4 - TIDEL Parks, Power Projects, Sports
+    "TIDEL-NEO-KARAIKUDI": {
+        "budget_crore": "28",
+        "budget_notes": "G+2 Mini IT Park, 50,000 sq.ft., 5 acres. Inaugurated Jan 31, 2026 by CM Stalin. Creates 600+ jobs"
+    },
+    "TIDEL-PATTABIRAM": {
+        "budget_crore": "330",
+        "budget_notes": "21-storey TIDEL Park, 5.57 lakh sq.ft. Inaugurated Nov 22, 2024. Third largest in state, creates 6,000 jobs"
+    },
+    "PUMPED-STORAGE-KUNDAH": {
+        "budget_crore": "1850",
+        "budget_notes": "500 MW pumped storage project with four 125 MW units. TANGEDCO project. Commissioning by 2026-27"
+    },
+    "HOCKEY-STADIUM-COIMBATORE": {
+        "budget_crore": "9.67",
+        "budget_notes": "6,500 sq.m artificial turf, international standards. Inaugurated Dec 30, 2025 by Deputy CM Udhayanidhi Stalin"
+    },
+    # Session 5 - Sports Infrastructure, Expressways, Airports
+    "COIMBATORE-CRICKET-STADIUM": {
+        "budget_crore": "500",
+        "budget_notes": "30 acres, 30,000 capacity, inspired by Optus Stadium Perth. Blueprint being prepared for CM approval. Expected completion 2027"
+    },
+    "GLOBAL-SPORTS-CITY-OMR": {
+        "budget_crore": "301",
+        "budget_notes": "Phase 1: 76.44 acres of 127.44 total. Multiple sports facilities including aquatics, rowing, shooting. Construction to begin within 3 months"
+    },
+    "CHENNAI-PORT-MADURAVOYAL-P2": {
+        "budget_crore": "1616.97",
+        "budget_notes": "Phase 2 of 4-phase 19 km elevated corridor (5.10 km). Total project ₹5,570cr. NHAI project, completion target 2027"
+    },
+    "CHENNAI-SALEM-8L-EXPRESSWAY": {
+        "budget_crore": "9681",
+        "budget_notes": "277.3 km, 6-lane (revised from 8-lane). NHAI Bharatmala project. Facing delays due to litigation and land acquisition"
+    },
+    "TRICHY-AIRPORT-TERMINAL": {
+        "budget_crore": "951",
+        "budget_notes": "75,000 sq.m integrated terminal, 3.52M passengers capacity by 2025-26. Inaugurated January 2024 by AAI"
+    },
+    "CM-MINI-STADIUMS-234": {
+        "budget_crore": "702",
+        "budget_notes": "₹3cr × 234 constituencies. Athletics, football, basketball, volleyball, kabaddi. 4 completed March 2025, 19 in progress"
+    },
+    # Session 6 - Chennai Flyovers, Coworking Spaces
+    "VELACHERY-FLYOVER": {
+        "budget_crore": "108",
+        "budget_notes": "Double-decker flyover at Vijayanagar Junction. Taramani-Velachery bypass connection. Completed by PWD"
+    },
+    "KOYAMBEDU-FLYOVER": {
+        "budget_crore": "93.50",
+        "budget_notes": "1.15 km four-lane flyover near CMBT and Koyambedu markets. Inaugurated November 2021"
+    },
+    "PERUNGALATHUR-FLYOVER": {
+        "budget_crore": "206",
+        "budget_notes": "Railway overbridge connecting Tambaram eastern bypass. Cost escalated from ₹86cr due to 20-year delay. Opened after 23-year delay"
+    },
+    "MUDHALVAR-PADAIPPAGAM": {
+        "budget_crore": "2.85",
+        "budget_notes": "GCC + CMDA coworking space in Kolathur. 40 coworking + 50 learning seats. ₹50/day. Inaugurated Nov 4, 2024 by CM Stalin"
+    },
+    # Session 7 - Sponge Parks, Railway Overbridges, Skill Centers
+    "PORUR-WETLAND-SPONGE-PARK": {
+        "budget_crore": "12.6",
+        "budget_notes": "Dr. M.S. Swaminathan Wetland Eco Park. 16 acres. Part of ₹88cr for 7 sponge parks. Inaugurated March 2025 by CM Stalin. 85+ native species"
+    },
+    "SATCHIYAPURAM-ROB": {
+        "budget_crore": "62",
+        "budget_notes": "Railway overbridge Sivakasi. Southern Railway. Eases traffic bottlenecks. Inaugurated Nov 2025 by CM Stalin"
+    },
+    "ITI-AMBATTUR-UPGRADE": {
+        "budget_crore": "120",
+        "budget_notes": "Tamil Nadu World Innovation and Skill Training Hub (TN-WISH). Skill training for ITI/polytechnic trainers. Part of 71 ITI upgrade with Tata Tech"
     }
 }
 

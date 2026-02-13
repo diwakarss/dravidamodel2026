@@ -1,32 +1,44 @@
 "use client";
 
 import { useState, useMemo, useCallback } from "react";
-import type { Project, ProjectType, ProjectStatus } from "@/lib/schemas/project";
+import type {
+  Project,
+  ProjectType,
+  ProjectStatus,
+  InfrastructureSubType,
+} from "@/lib/schemas/project";
+import { INFRASTRUCTURE_SUB_TYPES } from "@/lib/constants/subTypes";
 
 interface FilterState {
   types: ProjectType[];
   statuses: ProjectStatus[];
+  subTypes: InfrastructureSubType[];
 }
 
 interface UseFiltersReturn {
   filters: FilterState;
   activeTypes: ProjectType[];
   activeStatuses: ProjectStatus[];
+  activeSubTypes: InfrastructureSubType[];
   toggleType: (type: ProjectType) => void;
   toggleStatus: (status: ProjectStatus) => void;
+  toggleSubType: (subType: InfrastructureSubType) => void;
   clearAll: () => void;
   isTypeActive: (type: ProjectType) => boolean;
   isStatusActive: (status: ProjectStatus) => boolean;
+  isSubTypeActive: (subType: InfrastructureSubType) => boolean;
   hasActiveFilters: boolean;
   filteredProjects: Project[];
   typeCounts: Record<ProjectType, number>;
   statusCounts: Record<ProjectStatus, number>;
+  subTypeCounts: Record<InfrastructureSubType, number>;
 }
 
 export function useFilters(projects: Project[]): UseFiltersReturn {
   const [filters, setFilters] = useState<FilterState>({
     types: [],
     statuses: [],
+    subTypes: [],
   });
 
   const toggleType = useCallback((type: ProjectType) => {
@@ -47,8 +59,17 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
     }));
   }, []);
 
+  const toggleSubType = useCallback((subType: InfrastructureSubType) => {
+    setFilters((prev) => ({
+      ...prev,
+      subTypes: prev.subTypes.includes(subType)
+        ? prev.subTypes.filter((s) => s !== subType)
+        : [...prev.subTypes, subType],
+    }));
+  }, []);
+
   const clearAll = useCallback(() => {
-    setFilters({ types: [], statuses: [] });
+    setFilters({ types: [], statuses: [], subTypes: [] });
   }, []);
 
   const isTypeActive = useCallback(
@@ -61,7 +82,15 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
     [filters.statuses]
   );
 
-  const hasActiveFilters = filters.types.length > 0 || filters.statuses.length > 0;
+  const isSubTypeActive = useCallback(
+    (subType: InfrastructureSubType) => filters.subTypes.includes(subType),
+    [filters.subTypes]
+  );
+
+  const hasActiveFilters =
+    filters.types.length > 0 ||
+    filters.statuses.length > 0 ||
+    filters.subTypes.length > 0;
 
   const filteredProjects = useMemo(() => {
     return projects.filter((project) => {
@@ -70,7 +99,18 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
         return false;
       }
       // Status filter: if statuses selected, project must match one of them
-      if (filters.statuses.length > 0 && !filters.statuses.includes(project.status)) {
+      if (
+        filters.statuses.length > 0 &&
+        !filters.statuses.includes(project.status)
+      ) {
+        return false;
+      }
+      // SubType filter: if subTypes selected, project must match one of them
+      if (
+        filters.subTypes.length > 0 &&
+        project.subType &&
+        !filters.subTypes.includes(project.subType)
+      ) {
         return false;
       }
       return true;
@@ -105,18 +145,36 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
     return counts;
   }, [projects]);
 
+  const subTypeCounts = useMemo(() => {
+    const counts = {} as Record<InfrastructureSubType, number>;
+    // Initialize all sub-types to 0
+    for (const st of INFRASTRUCTURE_SUB_TYPES) {
+      counts[st.id] = 0;
+    }
+    for (const project of projects) {
+      if (project.subType && counts[project.subType] !== undefined) {
+        counts[project.subType]++;
+      }
+    }
+    return counts;
+  }, [projects]);
+
   return {
     filters,
     activeTypes: filters.types,
     activeStatuses: filters.statuses,
+    activeSubTypes: filters.subTypes,
     toggleType,
     toggleStatus,
+    toggleSubType,
     clearAll,
     isTypeActive,
     isStatusActive,
+    isSubTypeActive,
     hasActiveFilters,
     filteredProjects,
     typeCounts,
     statusCounts,
+    subTypeCounts,
   };
 }

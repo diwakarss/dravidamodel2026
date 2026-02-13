@@ -1,10 +1,13 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import type { Project } from "@/lib/schemas/project";
 
 interface MapWrapperProps {
   className?: string;
   locale: string;
+  filteredProjects?: Project[];
+  onProjectSelect?: (project: Project) => void;
 }
 
 const TNMap = dynamic(
@@ -19,6 +22,13 @@ const TNMap = dynamic(
   }
 );
 
-export function MapWrapper({ className, locale }: MapWrapperProps) {
-  return <TNMap className={className} locale={locale} />;
+export function MapWrapper({ className, locale, filteredProjects, onProjectSelect }: MapWrapperProps) {
+  return (
+    <TNMap
+      className={className}
+      locale={locale}
+      filteredProjects={filteredProjects}
+      onProjectSelect={onProjectSelect}
+    />
+  );
 }

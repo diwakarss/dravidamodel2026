@@ -15,8 +15,8 @@
   "type": "Other",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": "IT park complex in north Chennai suburb"
+    "crore": 330.0,
+    "notes": "21-storey TIDEL Park, 5.57 lakh sq.ft. Inaugurated Nov 22, 2024. Third largest in state, creates 6,000 jobs"
   },
   "timeline": {
     "startYear": 2021,
@@ -24,8 +24,8 @@
     "completionNotes": "Opened 2024"
   },
   "media": {
-    "photoUrl": null,
-    "photoCaption": null,
+    "photoUrl": "https://www.projectstoday.com/News/Tamil-Nadu-CM-inaugurates-Rs-330-cr-Tidel-Park-in-Pattabiram-Chennai",
+    "photoCaption": "21-storey TIDEL Park Pattabiram inauguration by CM Stalin, November 22, 2024",
     "cmPhotoInitiation": null,
     "cmPhotoCompletion": null
   },

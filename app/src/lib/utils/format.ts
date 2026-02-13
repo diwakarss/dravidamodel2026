@@ -57,6 +57,13 @@ export function formatStatus(
   return locale === "ta" ? statusMap[status].ta : statusMap[status].en;
 }
 
+export function formatBudgetCompact(crore: number): string {
+  if (crore >= 10000) {
+    return `₹${(crore / 10000).toFixed(2)}L Cr`;
+  }
+  return `₹${crore.toLocaleString("en-IN")} Cr`;
+}
+
 export function formatType(type: Project["type"], locale: string): string {
   const typeMap: Record<Project["type"], { en: string; ta: string }> = {
     "Public Transport": { en: "Public Transport", ta: "பொது போக்குவரத்து" },

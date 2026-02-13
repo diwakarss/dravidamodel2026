@@ -15,8 +15,8 @@
   "type": "Roads/Highways",
   "status": "Completed",
   "budget": {
-    "crore": null,
-    "notes": null
+    "crore": 108.0,
+    "notes": "Double-decker flyover at Vijayanagar Junction. Taramani-Velachery bypass connection. Completed by PWD"
   },
   "timeline": {
     "startYear": 2021,
@@ -24,8 +24,8 @@
     "completionNotes": "Completed and operational"
   },
   "media": {
-    "photoUrl": null,
-    "photoCaption": null,
+    "photoUrl": "https://swarajyamag.com/infrastructure/chennais-longest-flyover-inaugurated-2-km-long-overpass-connects-tambaram-and-velachery",
+    "photoCaption": "Velachery twin flyovers at Vijayanagar Junction",
     "cmPhotoInitiation": null,
     "cmPhotoCompletion": null
   },

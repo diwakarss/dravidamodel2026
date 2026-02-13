@@ -1,0 +1,9 @@
+export { IndustriesTab } from "./IndustriesTab";
+export { EducationTab } from "./EducationTab";
+export { HealthcareTab } from "./HealthcareTab";
+export { WelfareTab } from "./WelfareTab";
+export { EmploymentTab } from "./EmploymentTab";
+export { HistoryTab } from "./HistoryTab";
+export { AgricultureTab } from "./AgricultureTab";
+export { EnvironmentTab } from "./EnvironmentTab";
+export { SportsTab } from "./SportsTab";

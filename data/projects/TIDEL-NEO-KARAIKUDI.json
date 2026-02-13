@@ -15,8 +15,8 @@
   "type": "Other",
   "status": "Planned",
   "budget": {
-    "crore": null,
-    "notes": "Mini IT park in Chettinad region"
+    "crore": 28.0,
+    "notes": "G+2 Mini IT Park, 50,000 sq.ft., 5 acres. Inaugurated Jan 31, 2026 by CM Stalin. Creates 600+ jobs"
   },
   "timeline": {
     "startYear": 2021,
@@ -24,8 +24,8 @@
     "completionNotes": "Planning phase"
   },
   "media": {
-    "photoUrl": null,
-    "photoCaption": null,
+    "photoUrl": "https://www.tidelpark.com/blog/tidel-neo-karaikudi-igniting-the-it-spark-in-the-heart-of-chettinad.html",
+    "photoCaption": "TIDEL Neo Karaikudi mini IT Park - official TIDEL Park website",
     "cmPhotoInitiation": null,
     "cmPhotoCompletion": null
   },
