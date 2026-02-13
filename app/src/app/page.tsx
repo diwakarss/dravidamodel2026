@@ -1,16 +1,13 @@
-"use client";
-
-import { useEffect } from "react";
-import { useRouter } from "next/navigation";
-
 export default function RootPage() {
-  const router = useRouter();
-
-  useEffect(() => {
-    router.replace("/en/");
-  }, [router]);
-
   return (
-    <meta httpEquiv="refresh" content="0;url=/en/" />
+    <html>
+      <head>
+        <meta httpEquiv="refresh" content="0;url=/en/" />
+        <link rel="canonical" href="/en/" />
+      </head>
+      <body>
+        <p>Redirecting to <a href="/en/">English version</a>...</p>
+      </body>
+    </html>
   );
 }
