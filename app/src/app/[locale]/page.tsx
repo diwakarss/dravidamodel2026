@@ -1,5 +1,8 @@
-import { getTranslations } from "next-intl/server";
 import { setRequestLocale } from "next-intl/server";
+import { Header } from "@/components/layout/Header";
+import { Container } from "@/components/layout/Container";
+import { MapWrapper } from "@/components/map/MapWrapper";
+import { getStats } from "@/lib/data/projects";
 
 export default async function HomePage({
   params,
@@ -7,35 +10,45 @@ export default async function HomePage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-
-  // Enable static rendering
   setRequestLocale(locale);
 
-  const t = await getTranslations({ locale, namespace: "HomePage" });
+  const stats = getStats();
 
   return (
-    <main className="min-h-screen">
-      {/* Header */}
-      <header className="bg-gradient-to-r from-navy-900 to-navy-800 text-white py-12 px-6">
-        <div className="max-w-5xl mx-auto">
-          <span className="inline-block text-xs font-semibold uppercase tracking-widest text-teal-400 mb-3">
-            {t("badge")}
-          </span>
-          <h1 className="font-display text-3xl md:text-4xl font-bold mb-3">
-            {t("title")}
-          </h1>
-          <p className="text-lg text-white/80 max-w-2xl">{t("subtitle")}</p>
-        </div>
-      </header>
+    <main className="min-h-screen bg-slate-50">
+      <Header locale={locale} />
 
-      {/* Content placeholder */}
-      <section className="max-w-5xl mx-auto py-12 px-6">
-        <div className="bg-white rounded-lg border border-slate-200 p-8 text-center">
+      <Container className="py-8">
+        <div className="mb-6">
           <p className="text-slate-600">
-            Phase 1.5 scaffolding complete. Components coming in 01.5-03.
+            {locale === "ta"
+              ? `${stats.districtsCount} மாவட்டங்களில் ${stats.total} உள்கட்டமைப்பு திட்டங்களை ஆராயுங்கள்`
+              : `Explore ${stats.total} infrastructure projects across ${stats.districtsCount} districts`}
           </p>
         </div>
-      </section>
+
+        {/* Map container */}
+        <div className="relative h-[500px] md:h-[600px] rounded-lg overflow-hidden border border-slate-200 bg-white">
+          <MapWrapper className="h-full w-full" locale={locale} />
+        </div>
+
+        {/* Legend */}
+        <div className="mt-4 flex items-center gap-4 text-sm text-slate-600">
+          <span>{locale === "ta" ? "திட்ட அடர்த்தி:" : "Project density:"}</span>
+          <div className="flex items-center gap-1">
+            <div className="w-4 h-4 rounded" style={{ backgroundColor: "#e0ecf6" }} />
+            <span>{locale === "ta" ? "குறைவு" : "Low"}</span>
+          </div>
+          <div className="flex items-center gap-1">
+            <div className="w-4 h-4 rounded" style={{ backgroundColor: "#6b9bc4" }} />
+            <span>{locale === "ta" ? "நடுத்தரம்" : "Medium"}</span>
+          </div>
+          <div className="flex items-center gap-1">
+            <div className="w-4 h-4 rounded" style={{ backgroundColor: "#264d73" }} />
+            <span>{locale === "ta" ? "அதிகம்" : "High"}</span>
+          </div>
+        </div>
+      </Container>
     </main>
   );
 }

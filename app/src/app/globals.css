@@ -84,3 +84,18 @@ body {
 .font-display {
   font-family: var(--font-display);
 }
+
+/* Leaflet tooltip styling */
+.district-tooltip {
+  background: white;
+  border: 1px solid var(--color-slate-200);
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  box-shadow: var(--shadow-md);
+}
+
+.district-tooltip strong {
+  color: var(--color-navy-900);
+}
