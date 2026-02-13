@@ -1,6 +1,3 @@
-"use client";
-
-import { useLocale } from "next-intl";
 import { Card } from "@/components/ui/Card";
 import { StatusBadge } from "./StatusBadge";
 import { TypeBadge } from "./TypeBadge";
@@ -13,12 +10,11 @@ import type { Project } from "@/lib/schemas/project";
 
 interface ProjectCardProps {
   project: Project;
+  locale: string;
   onClick?: () => void;
 }
 
-export function ProjectCard({ project, onClick }: ProjectCardProps) {
-  const locale = useLocale();
-
+export function ProjectCard({ project, locale, onClick }: ProjectCardProps) {
   return (
     <Card hover onClick={onClick}>
       {/* Header */}
@@ -29,21 +25,20 @@ export function ProjectCard({ project, onClick }: ProjectCardProps) {
 
       {/* Title */}
       <h3 className="font-display text-lg font-semibold text-navy-900 leading-tight">
-        {getLocalizedName(project.name, locale === "ta" ? "ta" : "en")}
+        {getLocalizedName(project.name, locale)}
       </h3>
-      {locale !== "ta" && (
+      {locale === "ta" ? (
+        <p className="text-sm text-slate-600 mt-1">{project.name.en}</p>
+      ) : (
         <p className="font-tamil text-base text-slate-600 mt-1 leading-relaxed">
           {project.name.ta}
         </p>
-      )}
-      {locale === "ta" && (
-        <p className="text-sm text-slate-600 mt-1">{project.name.en}</p>
       )}
 
       {/* Meta */}
       <div className="flex flex-wrap gap-5 mt-4 pt-4 border-t border-slate-100">
         <div>
-          <p className="text-[10px] uppercase tracking-wide text-slate-500">
+          <p className="text-xs uppercase tracking-wide text-slate-500">
             {locale === "ta" ? "பட்ஜெட்" : "Budget"}
           </p>
           <p className="text-sm font-semibold font-display text-navy-700">
@@ -51,7 +46,7 @@ export function ProjectCard({ project, onClick }: ProjectCardProps) {
           </p>
         </div>
         <div>
-          <p className="text-[10px] uppercase tracking-wide text-slate-500">
+          <p className="text-xs uppercase tracking-wide text-slate-500">
             {locale === "ta" ? "மாவட்டம்" : "District"}
           </p>
           <p className="text-sm font-semibold text-slate-900">
@@ -59,7 +54,7 @@ export function ProjectCard({ project, onClick }: ProjectCardProps) {
           </p>
         </div>
         <div>
-          <p className="text-[10px] uppercase tracking-wide text-slate-500">
+          <p className="text-xs uppercase tracking-wide text-slate-500">
             {locale === "ta" ? "காலம்" : "Timeline"}
           </p>
           <p className="text-sm font-semibold text-slate-900">

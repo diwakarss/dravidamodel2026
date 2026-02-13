@@ -1,20 +1,11 @@
-"use client";
-
-import { useLocale } from "next-intl";
-import { useRouter, usePathname } from "next/navigation";
 import { Container } from "./Container";
-import { cn } from "@/lib/utils/cn";
+import { LanguageSwitcher } from "./LanguageSwitcher";
 
-export function Header() {
-  const locale = useLocale();
-  const router = useRouter();
-  const pathname = usePathname();
+interface HeaderProps {
+  locale: string;
+}
 
-  const switchLocale = (newLocale: string) => {
-    const newPath = pathname.replace(`/${locale}`, `/${newLocale}`);
-    router.push(newPath);
-  };
-
+export function Header({ locale }: HeaderProps) {
   return (
     <header className="bg-gradient-to-r from-navy-900 to-navy-800 text-white">
       <Container className="py-6">
@@ -29,30 +20,7 @@ export function Header() {
                 : "Tamil Nadu Infrastructure Showcase"}
             </h1>
           </div>
-          <div className="flex gap-2">
-            <button
-              onClick={() => switchLocale("en")}
-              className={cn(
-                "px-3 py-1.5 text-sm font-medium rounded transition-colors",
-                locale === "en"
-                  ? "bg-white/20 text-white"
-                  : "text-white/70 hover:text-white"
-              )}
-            >
-              EN
-            </button>
-            <button
-              onClick={() => switchLocale("ta")}
-              className={cn(
-                "px-3 py-1.5 text-sm font-medium rounded transition-colors font-tamil",
-                locale === "ta"
-                  ? "bg-white/20 text-white"
-                  : "text-white/70 hover:text-white"
-              )}
-            >
-              த
-            </button>
-          </div>
+          <LanguageSwitcher locale={locale} />
         </div>
       </Container>
     </header>

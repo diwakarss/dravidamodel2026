@@ -1,16 +1,10 @@
 import { setRequestLocale } from "next-intl/server";
-import { Container } from "@/components/layout/Container";
-import { Header } from "@/components/layout/Header";
-import { Footer } from "@/components/layout/Footer";
-import { ProjectCard } from "@/components/project/ProjectCard";
-import { StatusBadge } from "@/components/project/StatusBadge";
-import { TypeBadge } from "@/components/project/TypeBadge";
-import { StatsGrid } from "@/components/stats/StatsGrid";
-import { StatCard } from "@/components/stats/StatCard";
-import { FilterChip } from "@/components/filters/FilterChip";
-import { SourceLink } from "@/components/sources/SourceLink";
-import { Badge } from "@/components/ui/Badge";
-import { Card } from "@/components/ui/Card";
+import { Container, Header, Footer } from "@/components/layout";
+import { ProjectCard, StatusBadge, TypeBadge } from "@/components/project";
+import { StatsGrid, StatCard } from "@/components/stats";
+import { FilterChip } from "@/components/filters";
+import { SourceLink } from "@/components/sources";
+import { Badge, Card } from "@/components/ui";
 import { projects, getStats } from "@/lib/data/projects";
 
 export default async function ComponentsPage({
@@ -26,7 +20,7 @@ export default async function ComponentsPage({
 
   return (
     <>
-      <Header />
+      <Header locale={locale} />
       <main className="py-8 bg-slate-50 min-h-screen">
         <Container>
           <h1 className="font-display text-3xl font-bold text-navy-900 mb-8">
@@ -118,7 +112,7 @@ export default async function ComponentsPage({
               Project Card
             </h2>
             <div className="max-w-md">
-              <ProjectCard project={sampleProject} />
+              <ProjectCard project={sampleProject} locale={locale} />
             </div>
           </section>
 
