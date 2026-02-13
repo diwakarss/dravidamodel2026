@@ -1,7 +1,6 @@
 "use client";
 
-import { useState, useMemo, useCallback, useEffect } from "react";
-import { useSearchParams, useRouter, usePathname } from "next/navigation";
+import { useState, useMemo, useCallback } from "react";
 import type { Project, ProjectType, ProjectStatus } from "@/lib/schemas/project";
 
 interface FilterState {
@@ -11,6 +10,8 @@ interface FilterState {
 
 interface UseFiltersReturn {
   filters: FilterState;
+  activeTypes: ProjectType[];
+  activeStatuses: ProjectStatus[];
   toggleType: (type: ProjectType) => void;
   toggleStatus: (status: ProjectStatus) => void;
   clearAll: () => void;
@@ -18,38 +19,15 @@ interface UseFiltersReturn {
   isStatusActive: (status: ProjectStatus) => boolean;
   hasActiveFilters: boolean;
   filteredProjects: Project[];
+  typeCounts: Record<ProjectType, number>;
+  statusCounts: Record<ProjectStatus, number>;
 }
 
 export function useFilters(projects: Project[]): UseFiltersReturn {
-  const searchParams = useSearchParams();
-  const router = useRouter();
-  const pathname = usePathname();
-
-  // Parse initial state from URL
-  const [filters, setFilters] = useState<FilterState>(() => {
-    const typesParam = searchParams.get("type");
-    const statusesParam = searchParams.get("status");
-
-    return {
-      types: typesParam ? (typesParam.split(",") as ProjectType[]) : [],
-      statuses: statusesParam ? (statusesParam.split(",") as ProjectStatus[]) : [],
-    };
+  const [filters, setFilters] = useState<FilterState>({
+    types: [],
+    statuses: [],
   });
-
-  // Sync filters to URL
-  useEffect(() => {
-    const params = new URLSearchParams();
-    if (filters.types.length > 0) {
-      params.set("type", filters.types.join(","));
-    }
-    if (filters.statuses.length > 0) {
-      params.set("status", filters.statuses.join(","));
-    }
-
-    const queryString = params.toString();
-    const newUrl = queryString ? `${pathname}?${queryString}` : pathname;
-    router.replace(newUrl, { scroll: false });
-  }, [filters, pathname, router]);
 
   const toggleType = useCallback((type: ProjectType) => {
     setFilters((prev) => ({
@@ -99,8 +77,38 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
     });
   }, [projects, filters]);
 
+  // Count projects by type and status (from all projects, not filtered)
+  const typeCounts = useMemo(() => {
+    const counts: Record<ProjectType, number> = {
+      "Public Transport": 0,
+      "Roads/Highways": 0,
+      "Water/Sanitation": 0,
+      "Education/Health": 0,
+      "Power/Utilities": 0,
+      Other: 0,
+    };
+    for (const project of projects) {
+      counts[project.type]++;
+    }
+    return counts;
+  }, [projects]);
+
+  const statusCounts = useMemo(() => {
+    const counts: Record<ProjectStatus, number> = {
+      Completed: 0,
+      Ongoing: 0,
+      Planned: 0,
+    };
+    for (const project of projects) {
+      counts[project.status]++;
+    }
+    return counts;
+  }, [projects]);
+
   return {
     filters,
+    activeTypes: filters.types,
+    activeStatuses: filters.statuses,
     toggleType,
     toggleStatus,
     clearAll,
@@ -108,5 +116,7 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
     isStatusActive,
     hasActiveFilters,
     filteredProjects,
+    typeCounts,
+    statusCounts,
   };
 }

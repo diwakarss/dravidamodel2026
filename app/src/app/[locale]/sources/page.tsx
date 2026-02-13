@@ -46,7 +46,7 @@ export default async function SourcesPage({
   return (
     <>
       <Header locale={locale} />
-      <main className="min-h-screen bg-slate-50 py-8">
+      <main id="main-content" className="min-h-screen bg-slate-50 py-8">
         <Container>
           <div className="mb-8">
             <h1 className="font-display text-3xl font-bold text-navy-900 mb-2">

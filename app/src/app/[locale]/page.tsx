@@ -15,7 +15,7 @@ export default async function HomePage({
   const stats = getStats();
 
   return (
-    <main className="min-h-screen bg-slate-50">
+    <main id="main-content" className="min-h-screen bg-slate-50">
       <Header locale={locale} />
 
       <Container className="py-8">

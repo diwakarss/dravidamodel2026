@@ -1,25 +1,55 @@
 import { z } from "zod";
 
-// Bilingual text (required for name)
+// Helper to validate URLs with safe protocols only (http/https)
+const safeUrlSchema = z
+  .string()
+  .url()
+  .refine(
+    (val) => {
+      try {
+        const parsed = new URL(val);
+        return ["http:", "https:"].includes(parsed.protocol);
+      } catch {
+        return false;
+      }
+    },
+    { message: "URL must use http or https protocol" }
+  );
+
+// Optional safe URL (null allowed)
+const optionalSafeUrl = z
+  .string()
+  .nullable()
+  .refine(
+    (val) => {
+      if (val === null) return true;
+      try {
+        const parsed = new URL(val);
+        return ["http:", "https:"].includes(parsed.protocol);
+      } catch {
+        return false;
+      }
+    },
+    { message: "URL must use http or https protocol" }
+  );
+
 export const BilingualTextSchema = z.object({
   en: z.string(),
   ta: z.string(),
 });
 
-// Coordinates (optional)
 export const CoordinatesSchema = z.object({
   latitude: z.number(),
   longitude: z.number(),
 });
 
-// Location
 export const LocationSchema = z.object({
   district: z.string(),
   city: z.string().optional(),
   coordinates: CoordinatesSchema.optional(),
 });
 
-// Budget (optional, may be null entirely or have null fields)
+// Budget may be null entirely or have null fields
 export const BudgetSchema = z
   .object({
     crore: z.number().nullable(),
@@ -27,28 +57,24 @@ export const BudgetSchema = z
   })
   .nullable();
 
-// Timeline
 export const TimelineSchema = z.object({
   startYear: z.number().min(1990).max(2030),
   completionYear: z.number().min(1990).max(2040).nullable(),
   completionNotes: z.string().nullable().optional(),
 });
 
-// Media
 export const MediaSchema = z.object({
-  photoUrl: z.string().nullable(),
+  photoUrl: optionalSafeUrl,
   photoCaption: z.string().nullable(),
-  cmPhotoInitiation: z.string().nullable(),
-  cmPhotoCompletion: z.string().nullable(),
+  cmPhotoInitiation: optionalSafeUrl,
+  cmPhotoCompletion: optionalSafeUrl,
 });
 
-// Source
 export const SourceSchema = z.object({
   title: z.string(),
-  url: z.string().url(),
+  url: safeUrlSchema,
 });
 
-// Project types (based on actual data)
 export const ProjectTypeSchema = z.enum([
   "Public Transport",
   "Roads/Highways",
@@ -58,10 +84,8 @@ export const ProjectTypeSchema = z.enum([
   "Other",
 ]);
 
-// Project status
 export const ProjectStatusSchema = z.enum(["Completed", "Ongoing", "Planned"]);
 
-// Full Project Schema
 export const ProjectSchema = z.object({
   id: z.string(),
   name: BilingualTextSchema,
@@ -75,7 +99,6 @@ export const ProjectSchema = z.object({
   notes: z.string().nullable().optional(),
 });
 
-// Projects collection
 export const ProjectsDataSchema = z.object({
   version: z.string(),
   generated: z.string(),
@@ -84,7 +107,6 @@ export const ProjectsDataSchema = z.object({
   projects: z.array(ProjectSchema),
 });
 
-// Export types
 export type Project = z.infer<typeof ProjectSchema>;
 export type ProjectsData = z.infer<typeof ProjectsDataSchema>;
 export type ProjectType = z.infer<typeof ProjectTypeSchema>;

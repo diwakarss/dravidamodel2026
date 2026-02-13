@@ -90,5 +90,9 @@
     "english": "English",
     "tamil": "Tamil",
     "switchTo": "Switch to"
+  },
+  "Accessibility": {
+    "skipToContent": "Skip to content",
+    "projectDetails": "Project Details"
   }
 }

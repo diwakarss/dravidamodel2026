@@ -86,11 +86,21 @@ export function FilterBar({
   locale,
 }: FilterBarProps) {
   const clearLabel = locale === "ta" ? "அனைத்தையும் நீக்கு" : "Clear All";
+  const typeFiltersLabel = locale === "ta" ? "திட்ட வகை வடிப்பான்கள்" : "Project type filters";
+  const statusFiltersLabel = locale === "ta" ? "நிலை வடிப்பான்கள்" : "Status filters";
 
   return (
-    <div className="space-y-3">
+    <div
+      role="toolbar"
+      aria-label={locale === "ta" ? "திட்ட வடிப்பான் கட்டுப்பாடுகள்" : "Project filter controls"}
+      className="space-y-3"
+    >
       {/* Type filters - horizontal scroll on mobile */}
-      <div className="flex gap-2 overflow-x-auto pb-2 -mx-4 px-4 md:mx-0 md:px-0 md:flex-wrap">
+      <div
+        role="group"
+        aria-label={typeFiltersLabel}
+        className="flex gap-2 overflow-x-auto pb-2 -mx-4 px-4 md:mx-0 md:px-0 md:flex-wrap"
+      >
         {PROJECT_TYPES.map((type) => (
           <FilterChip
             key={type}
@@ -105,7 +115,11 @@ export function FilterBar({
       </div>
 
       {/* Status filters */}
-      <div className="flex items-center gap-2 flex-wrap">
+      <div
+        role="group"
+        aria-label={statusFiltersLabel}
+        className="flex items-center gap-2 flex-wrap"
+      >
         {PROJECT_STATUSES.map((status) => (
           <FilterChip
             key={status}

@@ -6,8 +6,15 @@ interface HeaderProps {
 }
 
 export function Header({ locale }: HeaderProps) {
+  const skipToContentLabel =
+    locale === "ta" ? "உள்ளடக்கத்திற்கு செல்" : "Skip to content";
+
   return (
-    <header className="bg-gradient-to-r from-navy-900 to-navy-800 text-white">
+    <>
+      <a href="#main-content" className="skip-link">
+        {skipToContentLabel}
+      </a>
+      <header className="bg-gradient-to-r from-navy-900 to-navy-800 text-white">
       <Container className="py-6">
         <div className="flex items-center justify-between">
           <div>
@@ -24,5 +31,6 @@ export function Header({ locale }: HeaderProps) {
         </div>
       </Container>
     </header>
+    </>
   );
 }

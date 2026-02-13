@@ -90,5 +90,9 @@
     "english": "ஆங்கிலம்",
     "tamil": "தமிழ்",
     "switchTo": "மாற்று"
+  },
+  "Accessibility": {
+    "skipToContent": "உள்ளடக்கத்திற்கு செல்",
+    "projectDetails": "திட்ட விவரங்கள்"
   }
 }
