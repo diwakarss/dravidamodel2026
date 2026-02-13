@@ -5,7 +5,7 @@ import { fraunces, notoSansTamil, sourceSans } from "../fonts";
 import "../globals.css";
 
 export const metadata: Metadata = {
-  title: "Tamil Nadu Infrastructure Showcase",
+  title: "Dravida Model Showcase 2021-26",
   description:
     "Tracking 150+ government infrastructure projects with transparent, verifiable sourcing.",
 };
