@@ -1,30 +1,94 @@
 {
-  "HomePage": {
+  "Site": {
     "title": "தமிழ்நாடு உள்கட்டமைப்பு காட்சியகம்",
     "subtitle": "வெளிப்படையான, சரிபார்க்கக்கூடிய ஆதாரங்களுடன் 150+ அரசு உள்கட்டமைப்பு திட்டங்களைக் கண்காணித்தல்.",
     "badge": "2021-2026"
+  },
+  "Navigation": {
+    "home": "முகப்பு",
+    "map": "வரைபடம்",
+    "projects": "திட்டங்கள்",
+    "sources": "ஆதாரங்கள்",
+    "about": "பற்றி"
   },
   "Common": {
     "projects": "திட்டங்கள்",
     "districts": "மாவட்டங்கள்",
     "sources": "ஆதாரங்கள்",
     "about": "பற்றி",
-    "dataNotAvailable": "தரவு இல்லை"
+    "dataNotAvailable": "தரவு இல்லை",
+    "loading": "ஏற்றுகிறது...",
+    "error": "பிழை ஏற்பட்டது",
+    "tryAgain": "மீண்டும் முயற்சிக்கவும்",
+    "close": "மூடு",
+    "viewAll": "அனைத்தும் காண்க",
+    "back": "திரும்பு"
   },
   "Stats": {
     "totalProjects": "மொத்த திட்டங்கள்",
     "totalInvestment": "மொத்த முதலீடு",
     "districts": "மாவட்டங்கள்",
-    "completed": "நிறைவடைந்தவை"
+    "completed": "நிறைவடைந்தவை",
+    "ongoing": "நடப்பில்",
+    "planned": "திட்டமிடப்பட்டவை"
   },
   "Status": {
     "completed": "நிறைவு",
     "ongoing": "நடப்பில்",
     "planned": "திட்டமிடப்பட்டது"
   },
+  "Types": {
+    "publicTransport": "பொது போக்குவரத்து",
+    "roadsHighways": "சாலைகள்/நெடுஞ்சாலைகள்",
+    "waterSanitation": "நீர்/சுகாதாரம்",
+    "educationHealth": "கல்வி/சுகாதாரம்",
+    "powerUtilities": "மின்சாரம்/பொது சேவைகள்",
+    "other": "பிற"
+  },
   "Filters": {
     "all": "அனைத்தும்",
     "byStatus": "நிலை மூலம் வடிகட்டு",
-    "byType": "வகை மூலம் வடிகட்டு"
+    "byType": "வகை மூலம் வடிகட்டு",
+    "clearAll": "அனைத்தையும் நீக்கு",
+    "showing": "காட்டுகிறது",
+    "of": "இல்",
+    "activeFilters": "செயலில் உள்ள வடிகட்டிகள்"
+  },
+  "ProjectModal": {
+    "budget": "பட்ஜெட்",
+    "timeline": "காலவரிசை",
+    "district": "மாவட்டம்",
+    "sources": "ஆதாரங்கள்",
+    "close": "மூடு",
+    "previous": "முந்தைய",
+    "next": "அடுத்த",
+    "cmInitiation": "முதலமைச்சர் தொடங்கினார்",
+    "cmCompletion": "முதலமைச்சர் நிறைவு செய்தார்"
+  },
+  "Dashboard": {
+    "showStats": "புள்ளிவிவரங்களைக் காட்டு",
+    "hideStats": "புள்ளிவிவரங்களை மறை",
+    "statusBreakdown": "நிலை விவரம்"
+  },
+  "Map": {
+    "projectDensity": "திட்ட அடர்த்தி",
+    "low": "குறைவு",
+    "high": "அதிகம்",
+    "allDistricts": "அனைத்து மாவட்டங்கள்",
+    "zoomIn": "பெரிதாக்கு",
+    "zoomOut": "சிறிதாக்கு",
+    "myLocation": "என் இருப்பிடம்"
+  },
+  "Footer": {
+    "copyright": "தமிழ்நாடு உள்கட்டமைப்பு காட்சியகம்",
+    "madeWith": "வெளிப்படைத்தன்மையுடன் உருவாக்கப்பட்டது",
+    "contact": "தொடர்பு",
+    "sources": "ஆதாரங்கள்",
+    "about": "பற்றி"
+  },
+  "LanguageToggle": {
+    "english": "ஆங்கிலம்",
+    "tamil": "தமிழ்",
+    "switchTo": "மாற்று"
   }
 }

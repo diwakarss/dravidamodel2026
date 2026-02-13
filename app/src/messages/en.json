@@ -1,30 +1,94 @@
 {
-  "HomePage": {
+  "Site": {
     "title": "Tamil Nadu Infrastructure Showcase",
     "subtitle": "Tracking 150+ government infrastructure projects with transparent, verifiable sourcing.",
     "badge": "2021-2026"
+  },
+  "Navigation": {
+    "home": "Home",
+    "map": "Map",
+    "projects": "Projects",
+    "sources": "Sources",
+    "about": "About"
   },
   "Common": {
     "projects": "Projects",
     "districts": "Districts",
     "sources": "Sources",
     "about": "About",
-    "dataNotAvailable": "Data not available"
+    "dataNotAvailable": "Data not available",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "tryAgain": "Try Again",
+    "close": "Close",
+    "viewAll": "View All",
+    "back": "Back"
   },
   "Stats": {
     "totalProjects": "Total Projects",
     "totalInvestment": "Total Investment",
     "districts": "Districts",
-    "completed": "Completed"
+    "completed": "Completed",
+    "ongoing": "Ongoing",
+    "planned": "Planned"
   },
   "Status": {
     "completed": "Completed",
     "ongoing": "Ongoing",
     "planned": "Planned"
   },
+  "Types": {
+    "publicTransport": "Public Transport",
+    "roadsHighways": "Roads/Highways",
+    "waterSanitation": "Water/Sanitation",
+    "educationHealth": "Education/Health",
+    "powerUtilities": "Power/Utilities",
+    "other": "Other"
+  },
   "Filters": {
     "all": "All",
     "byStatus": "Filter by Status",
-    "byType": "Filter by Type"
+    "byType": "Filter by Type",
+    "clearAll": "Clear All",
+    "showing": "Showing",
+    "of": "of",
+    "activeFilters": "Active Filters"
+  },
+  "ProjectModal": {
+    "budget": "Budget",
+    "timeline": "Timeline",
+    "district": "District",
+    "sources": "Sources",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "cmInitiation": "Inaugurated by CM",
+    "cmCompletion": "Completed by CM"
+  },
+  "Dashboard": {
+    "showStats": "Show Statistics",
+    "hideStats": "Hide Statistics",
+    "statusBreakdown": "Status Breakdown"
+  },
+  "Map": {
+    "projectDensity": "Project Density",
+    "low": "Low",
+    "high": "High",
+    "allDistricts": "All Districts",
+    "zoomIn": "Zoom In",
+    "zoomOut": "Zoom Out",
+    "myLocation": "My Location"
+  },
+  "Footer": {
+    "copyright": "Tamil Nadu Infrastructure Showcase",
+    "madeWith": "Made with transparency in mind",
+    "contact": "Contact",
+    "sources": "Sources",
+    "about": "About"
+  },
+  "LanguageToggle": {
+    "english": "English",
+    "tamil": "Tamil",
+    "switchTo": "Switch to"
   }
 }
