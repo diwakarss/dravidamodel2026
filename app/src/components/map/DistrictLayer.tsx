@@ -1,7 +1,8 @@
 "use client";
 
 import { GeoJSON } from "react-leaflet";
-import type { Layer, PathOptions } from "leaflet";
+import L from "leaflet";
+import type { Layer, PathOptions, LatLngBounds } from "leaflet";
 import type { Feature, FeatureCollection } from "geojson";
 import { getChoroplethColor } from "@/lib/utils/mapHelpers";
 
@@ -9,7 +10,7 @@ interface DistrictLayerProps {
   geojson: FeatureCollection;
   projectCounts: Record<string, number>;
   maxCount: number;
-  onDistrictClick: (district: string) => void;
+  onDistrictClick: (district: string, bounds?: LatLngBounds) => void;
   locale: string;
 }
 
@@ -52,7 +53,10 @@ export function DistrictLayer({
     // Click handler
     layer.on({
       click: () => {
-        onDistrictClick(district);
+        // Get bounds from feature geometry
+        const geojsonLayer = layer as L.GeoJSON;
+        const bounds = geojsonLayer.getBounds?.();
+        onDistrictClick(district, bounds);
       },
       mouseover: (e) => {
         const target = e.target;

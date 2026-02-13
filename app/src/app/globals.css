@@ -99,3 +99,59 @@ body {
 .district-tooltip strong {
   color: var(--color-navy-900);
 }
+
+/* Project marker tooltip */
+.project-tooltip {
+  background: white;
+  border: 1px solid var(--color-slate-200);
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-family: var(--font-body);
+  box-shadow: var(--shadow-md);
+}
+
+.project-tooltip::before {
+  border-top-color: var(--color-slate-200) !important;
+}
+
+/* Custom marker styles */
+.project-marker,
+.cluster-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.project-marker svg,
+.cluster-marker svg {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+  transition: transform 0.15s ease;
+}
+
+.project-marker:hover svg {
+  transform: scale(1.15);
+}
+
+/* Touch target utility */
+.touch-target {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+/* Safe area padding for notched devices */
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
+
+/* Leaflet mobile optimizations */
+.leaflet-container {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  overscroll-behavior: contain;
+}
+
+/* Hide default zoom on mobile */
+@media (max-width: 767px) {
+  .leaflet-control-zoom {
+    display: none !important;
+  }
+}
