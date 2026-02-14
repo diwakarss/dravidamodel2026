@@ -55,7 +55,7 @@ export function SchemeCard({
       </div>
 
       {/* Description */}
-      <p className="text-base text-slate-700 mb-4 line-clamp-2">
+      <p className="text-sm sm:text-base text-slate-700 mb-4 line-clamp-3 sm:line-clamp-2">
         {getLocalizedText(description, locale)}
       </p>
 
@@ -69,7 +69,7 @@ export function SchemeCard({
           <p className="text-lg font-bold text-slate-900">
             {beneficiaries.count}
           </p>
-          <p className="text-sm text-teal-700 mt-0.5 line-clamp-1">
+          <p className="text-xs sm:text-sm text-teal-700 mt-0.5 line-clamp-2 sm:line-clamp-1">
             {getLocalizedText(beneficiaries.description, locale)}
           </p>
         </div>
@@ -98,7 +98,7 @@ export function SchemeCard({
                 className="text-sm text-slate-700 flex items-start gap-2"
               >
                 <span className="text-teal-600 font-bold mt-0.5">•</span>
-                <span className="line-clamp-1">
+                <span className="line-clamp-2 sm:line-clamp-1">
                   {getLocalizedText(highlight, locale)}
                 </span>
               </li>

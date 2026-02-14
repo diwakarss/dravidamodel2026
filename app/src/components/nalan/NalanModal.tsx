@@ -246,7 +246,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
         {/* Header */}
         <div className="flex items-center justify-between px-4 py-3 border-b border-slate-200 bg-slate-50">
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-white font-bold text-sm">
+            <div className="w-8 h-8 rounded-full bg-gradient-to-br from-slate-700 to-slate-900 flex items-center justify-center text-white font-bold text-sm">
               N
             </div>
             <div>
@@ -274,7 +274,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
             onClick={() => setActiveTab("chat")}
             className={`flex-1 px-4 py-2.5 text-sm font-medium transition-colors ${
               activeTab === "chat"
-                ? "text-indigo-600 border-b-2 border-indigo-600 bg-indigo-50/50"
+                ? "text-slate-900 border-b-2 border-slate-900 bg-slate-100/50"
                 : "text-slate-600 hover:text-slate-900"
             }`}
           >
@@ -285,7 +285,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
             onClick={() => setActiveTab("feedback")}
             className={`flex-1 px-4 py-2.5 text-sm font-medium transition-colors ${
               activeTab === "feedback"
-                ? "text-indigo-600 border-b-2 border-indigo-600 bg-indigo-50/50"
+                ? "text-slate-900 border-b-2 border-slate-900 bg-slate-100/50"
                 : "text-slate-600 hover:text-slate-900"
             }`}
           >
@@ -306,7 +306,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
                   <div
                     className={`max-w-[85%] px-4 py-2.5 rounded-2xl ${
                       msg.role === "user"
-                        ? "bg-indigo-600 text-white rounded-br-md"
+                        ? "bg-slate-800 text-white rounded-br-md"
                         : "bg-slate-100 text-slate-800 rounded-bl-md"
                     }`}
                   >
@@ -353,14 +353,14 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
                   onKeyDown={handleKeyDown}
                   placeholder={locale === "ta" ? "உங்கள் கேள்வியை தட்டச்சு செய்க..." : "Type your question..."}
                   disabled={isTyping || rateLimited}
-                  className="flex-1 px-4 py-2.5 bg-white border border-slate-300 rounded-xl text-sm text-slate-900 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent disabled:opacity-50"
+                  className="flex-1 px-4 py-2.5 bg-white border border-slate-300 rounded-xl text-sm text-slate-900 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-500 focus:border-transparent disabled:opacity-50"
                   maxLength={500}
                 />
                 <button
                   type="button"
                   onClick={handleSendMessage}
                   disabled={!inputValue.trim() || isTyping || rateLimited}
-                  className="px-4 py-2.5 bg-indigo-600 text-white rounded-xl hover:bg-indigo-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="px-4 py-2.5 bg-slate-800 text-white rounded-xl hover:bg-slate-900 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
@@ -376,7 +376,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
           </>
         ) : (
           /* Feedback Form */
-          <div className="p-6">
+          <div className="p-6 overflow-y-auto flex-1">
             {feedbackSent ? (
               <div className="text-center py-8">
                 <div className="w-16 h-16 mx-auto mb-4 bg-green-100 rounded-full flex items-center justify-center">
@@ -395,7 +395,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
                 <button
                   type="button"
                   onClick={() => setFeedbackSent(false)}
-                  className="mt-4 text-sm text-indigo-600 hover:text-indigo-800"
+                  className="mt-4 text-sm text-slate-600 hover:text-slate-800"
                 >
                   {locale === "ta" ? "மீண்டும் அனுப்ப" : "Send another"}
                 </button>
@@ -414,7 +414,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
                     required
                     rows={4}
                     maxLength={2000}
-                    className="w-full px-4 py-3 border border-slate-300 rounded-xl text-sm text-slate-900 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-none"
+                    className="w-full px-4 py-3 border border-slate-300 rounded-xl text-sm text-slate-900 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-500 resize-none"
                   />
                 </div>
                 <div>
@@ -427,7 +427,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
                     value={feedbackEmail}
                     onChange={(e) => setFeedbackEmail(e.target.value)}
                     placeholder={locale === "ta" ? "பதில் வேண்டும் என்றால்..." : "If you'd like a response..."}
-                    className="w-full px-4 py-2.5 border border-slate-300 rounded-xl text-sm text-slate-900 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                    className="w-full px-4 py-2.5 border border-slate-300 rounded-xl text-sm text-slate-900 placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-500"
                   />
                 </div>
                 <div className="flex justify-center">
@@ -447,7 +447,7 @@ export function NalanModal({ isOpen, onClose, locale }: NalanModalProps) {
                 <button
                   type="submit"
                   disabled={!feedbackMessage.trim() || !captchaToken || isSubmitting}
-                  className="w-full py-3 bg-indigo-600 text-white font-medium rounded-xl hover:bg-indigo-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+                  className="w-full py-3 bg-slate-800 text-white font-medium rounded-xl hover:bg-slate-900 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
                 >
                   {isSubmitting ? (
                     <>

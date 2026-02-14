@@ -63,6 +63,19 @@
 }
 
 /* Base styles */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Hide scrollbar for tab navigation */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   background: var(--color-slate-50);
   color: var(--color-slate-900);

@@ -27,8 +27,8 @@ export const historySchemes: HistoryScheme[] = [
       ta: "கீழடி அகழாய்வு & அருங்காட்சியகம்",
     },
     description: {
-      en: "Archaeological excavations revealing 6th century BCE Tamil civilization with urban settlement, drainage systems, and Tamil-Brahmi inscriptions.",
-      ta: "கி.மு. 6ஆம் நூற்றாண்டு தமிழ் நாகரிகத்தை வெளிப்படுத்தும் தொல்லியல் அகழாய்வு - நகர குடியிருப்பு, வடிகால் அமைப்பு, தமிழ் பிராமி கல்வெட்டுகள்.",
+      en: "Archaeological excavations revealing 6th century BCE Tamil civilization with urban settlement, drainage systems, and Tamili inscriptions.",
+      ta: "கி.மு. 6ஆம் நூற்றாண்டு தமிழ் நாகரிகத்தை வெளிப்படுத்தும் தொல்லியல் அகழாய்வு - நகர குடியிருப்பு, வடிகால் அமைப்பு, தமிழி கல்வெட்டுகள்.",
     },
     launchDate: "Museum: March 2023",
     beneficiaries: {

@@ -88,7 +88,7 @@ export function Header({
   onTabChange,
   showTabs = true,
 }: HeaderProps) {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
   const skipToContentLabel =
     locale === "ta" ? "உள்ளடக்கத்திற்கு செல்" : "Skip to content";
 
@@ -99,9 +99,9 @@ export function Header({
       <a href="#main-content" className="skip-link">
         {skipToContentLabel}
       </a>
-      <header className="border-b border-slate-200 bg-white">
-        {/* Desktop Header */}
-        <div className="hidden md:flex items-center justify-between px-4 py-2">
+      <header className="border-b border-slate-200 bg-white relative z-[1000]">
+        {/* Large Desktop Header (1440px+) - Show all tabs inline */}
+        <div className="hidden 2xl:flex items-center justify-between px-4 py-2">
           {/* Left: Title stacked */}
           <div className="flex-shrink-0">
             <h1 className="font-display text-2xl font-bold tracking-tight text-navy-900 leading-tight">
@@ -112,9 +112,9 @@ export function Header({
             </p>
           </div>
 
-          {/* Center: Tabs */}
+          {/* Center: All Tabs visible */}
           {showTabs && onTabChange && (
-            <nav className="flex-1 flex justify-center mx-2">
+            <nav className="flex-1 flex justify-center mx-4">
               <div className="flex bg-slate-100 rounded-lg p-1 gap-1">
                 {TABS.map((tab) => (
                   <button
@@ -123,7 +123,7 @@ export function Header({
                     onClick={() => tab.enabled && onTabChange(tab.id)}
                     disabled={!tab.enabled}
                     className={cn(
-                      "relative px-5 py-2 text-base font-semibold rounded-md transition-colors whitespace-nowrap",
+                      "relative px-4 py-2 text-sm font-semibold rounded-md transition-colors whitespace-nowrap",
                       activeTab === tab.id
                         ? "bg-white text-navy-900 shadow-sm"
                         : tab.enabled
@@ -132,11 +132,6 @@ export function Header({
                     )}
                   >
                     {locale === "ta" ? tab.label.ta : tab.label.en}
-                    {!tab.enabled && (
-                      <span className="ml-1 text-[10px] text-teal-600 font-bold uppercase">
-                        {locale === "ta" ? "விரைவில்" : "Soon"}
-                      </span>
-                    )}
                   </button>
                 ))}
               </div>
@@ -150,7 +145,89 @@ export function Header({
           </div>
         </div>
 
-        {/* Mobile Header */}
+        {/* Tablet/Small Desktop Header (768px - 1440px) - Dropdown menu */}
+        <div className="hidden md:flex 2xl:hidden items-center justify-between px-4 py-2">
+          {/* Left: Title stacked */}
+          <div className="flex-shrink-0">
+            <h1 className="font-display text-xl font-bold tracking-tight text-navy-900 leading-tight">
+              {locale === "ta" ? "திராவிட மாடல்" : "Dravida Model"}
+            </h1>
+            <p className="text-xs text-slate-700 font-semibold">
+              {locale === "ta" ? "காட்சியகம் 2021–26" : "Showcase 2021–26"}
+            </p>
+          </div>
+
+          {/* Center: Dropdown */}
+          {showTabs && onTabChange && (
+            <div className="relative">
+              <button
+                type="button"
+                onClick={() => setMenuOpen(!menuOpen)}
+                className="flex items-center gap-2 bg-slate-100 px-4 py-2 rounded-lg"
+              >
+                <span className="text-sm font-semibold text-navy-900">
+                  {activeTabData
+                    ? locale === "ta"
+                      ? activeTabData.label.ta
+                      : activeTabData.label.en
+                    : ""}
+                </span>
+                <svg
+                  className={cn(
+                    "w-4 h-4 text-slate-600 transition-transform",
+                    menuOpen && "rotate-180"
+                  )}
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 9l-7 7-7-7"
+                  />
+                </svg>
+              </button>
+
+              {/* Dropdown Menu */}
+              {menuOpen && (
+                <div className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-64 bg-white rounded-xl shadow-lg border border-slate-200 py-2 z-[1001]">
+                  {TABS.map((tab) => (
+                    <button
+                      key={tab.id}
+                      type="button"
+                      onClick={() => {
+                        if (tab.enabled) {
+                          onTabChange(tab.id);
+                          setMenuOpen(false);
+                        }
+                      }}
+                      disabled={!tab.enabled}
+                      className={cn(
+                        "w-full px-4 py-2.5 text-sm font-medium text-left transition-colors",
+                        activeTab === tab.id
+                          ? "bg-navy-900 text-white"
+                          : tab.enabled
+                            ? "text-slate-700 hover:bg-slate-50"
+                            : "text-slate-400 cursor-not-allowed"
+                      )}
+                    >
+                      {locale === "ta" ? tab.label.ta : tab.label.en}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* Right: Language Switcher */}
+          <div className="flex-shrink-0">
+            <LanguageSwitcher locale={locale} />
+          </div>
+        </div>
+
+        {/* Mobile Header (< 768px) */}
         <div className="md:hidden">
           <div className="flex items-center justify-between px-3 py-2">
             {/* Left: Compact title */}
@@ -164,7 +241,7 @@ export function Header({
             {showTabs && onTabChange && (
               <button
                 type="button"
-                onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+                onClick={() => setMenuOpen(!menuOpen)}
                 className="flex items-center gap-1.5 bg-slate-100 px-3 py-1.5 rounded-lg"
               >
                 <span className="text-sm font-semibold text-navy-900">
@@ -177,7 +254,7 @@ export function Header({
                 <svg
                   className={cn(
                     "w-4 h-4 text-slate-600 transition-transform",
-                    mobileMenuOpen && "rotate-180"
+                    menuOpen && "rotate-180"
                   )}
                   fill="none"
                   viewBox="0 0 24 24"
@@ -200,8 +277,8 @@ export function Header({
           </div>
 
           {/* Mobile Tab Menu (dropdown) */}
-          {mobileMenuOpen && showTabs && onTabChange && (
-            <div className="border-t border-slate-200 bg-slate-50 px-3 py-2">
+          {menuOpen && showTabs && onTabChange && (
+            <div className="border-t border-slate-200 bg-slate-50 px-3 py-2 relative z-[1001]">
               <div className="grid grid-cols-2 gap-2">
                 {TABS.map((tab) => (
                   <button
@@ -210,7 +287,7 @@ export function Header({
                     onClick={() => {
                       if (tab.enabled) {
                         onTabChange(tab.id);
-                        setMobileMenuOpen(false);
+                        setMenuOpen(false);
                       }
                     }}
                     disabled={!tab.enabled}
@@ -231,6 +308,14 @@ export function Header({
           )}
         </div>
       </header>
+
+      {/* Backdrop for dropdown */}
+      {menuOpen && (
+        <div
+          className="fixed inset-0 z-[999]"
+          onClick={() => setMenuOpen(false)}
+        />
+      )}
     </>
   );
 }

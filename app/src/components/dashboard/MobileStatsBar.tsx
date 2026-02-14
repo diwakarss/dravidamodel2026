@@ -11,46 +11,42 @@ export function MobileStatsBar({ locale }: MobileStatsBarProps) {
   const stats = getStats();
 
   return (
-    <div className="bg-white border-b border-slate-200 px-3 py-2">
-      <div className="flex items-center justify-between gap-2 overflow-x-auto">
+    <div className="bg-white border-b border-slate-200 px-2 py-1.5">
+      <div className="grid grid-cols-4 gap-1">
         {/* Total Projects */}
-        <div className="flex items-center gap-1.5 min-w-0">
-          <span className="text-lg font-bold text-navy-900">{stats.total}</span>
-          <span className="text-xs font-medium text-slate-600 whitespace-nowrap">
+        <div className="text-center px-1">
+          <p className="text-base font-bold text-navy-900 leading-none">{stats.total}</p>
+          <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
             {locale === "ta" ? "திட்டங்கள்" : "Projects"}
-          </span>
+          </p>
         </div>
-
-        <div className="w-px h-6 bg-slate-300" />
 
         {/* Investment */}
-        <div className="flex items-center gap-1.5 min-w-0">
-          <span className="text-lg font-bold text-navy-900">
+        <div className="text-center px-1 border-l border-slate-200">
+          <p className="text-base font-bold text-navy-900 leading-none">
             {formatBudgetCompact(stats.totalBudget)}
-          </span>
-          <span className="text-xs font-medium text-slate-600 whitespace-nowrap">
+          </p>
+          <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
             {locale === "ta" ? "முதலீடு" : "Investment"}
-          </span>
+          </p>
         </div>
-
-        <div className="w-px h-6 bg-slate-300" />
 
         {/* Districts */}
-        <div className="flex items-center gap-1.5 min-w-0">
-          <span className="text-lg font-bold text-teal-700">{stats.districtsCount}</span>
-          <span className="text-xs font-medium text-slate-600 whitespace-nowrap">
-            {locale === "ta" ? "மாவட்டங்கள்" : "Districts"}
-          </span>
+        <div className="text-center px-1 border-l border-slate-200">
+          <p className="text-base font-bold text-teal-700 leading-none">
+            {stats.districtsCount}
+          </p>
+          <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
+            {locale === "ta" ? "மாவட்டம்" : "Districts"}
+          </p>
         </div>
 
-        <div className="w-px h-6 bg-slate-300" />
-
         {/* Completed */}
-        <div className="flex items-center gap-1.5 min-w-0">
-          <span className="text-lg font-bold text-green-700">{stats.byStatus.Completed}</span>
-          <span className="text-xs font-medium text-slate-600 whitespace-nowrap">
-            {locale === "ta" ? "நிறைவு" : "Completed"}
-          </span>
+        <div className="text-center px-1 border-l border-slate-200">
+          <p className="text-base font-bold text-green-700 leading-none">{stats.byStatus.Completed}</p>
+          <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
+            {locale === "ta" ? "நிறைவு" : "Done"}
+          </p>
         </div>
       </div>
     </div>
