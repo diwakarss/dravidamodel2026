@@ -34,9 +34,16 @@ Add these headers via CloudFront Response Headers Policy or Lambda@Edge:
 ## hCaptcha Configuration
 
 ### Environment Variables
+
+See `.env.example` for client-side configuration.
+
 ```
+# Client-side (Next.js build)
+NEXT_PUBLIC_FEEDBACK_API=https://your-api-gateway-id.execute-api.us-east-1.amazonaws.com/feedback
 NEXT_PUBLIC_HCAPTCHA_SITE_KEY=your-site-key
-HCAPTCHA_SECRET_KEY=your-secret-key  # Lambda only
+
+# Server-side (Lambda only - never commit!)
+HCAPTCHA_SECRET_KEY=your-secret-key
 ```
 
 ### Test Keys (Development)
