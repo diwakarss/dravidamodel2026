@@ -1,17 +1,30 @@
 # Dravida Model Showcase 2021-26
 
-A transparent, bilingual (English/Tamil) showcase of 150+ government infrastructure projects in Tamil Nadu from 2021-2026. Built with verifiable sources and real-time data.
+A transparent, bilingual (English/Tamil) showcase tracking Tamil Nadu's development initiatives from 2021-2026. Every claim backed by verifiable government and media sources.
 
 **Live Site:** [dravidamodel2026.top](https://dravidamodel2026.top)
 
+## What's Tracked
+
+### Infrastructure Projects (150+)
+Transport, healthcare, education, water, power - each with budget, timeline, location, and verified sources.
+
+### Government Schemes
+- **Agriculture** - Free electricity, Uzhavar Sandhai, crop insurance, micro irrigation
+- **Education** - Naan Mudhalvan, breakfast scheme, free laptops, library upgrades
+- **Healthcare** - Makkalai Thedi Maruthuvam, insurance expansion, medical colleges
+- **Employment** - Job fairs, MSME support, skill development, industrial MoUs
+- **Welfare** - Kalaignar Magalir Urimai Thogai, social security pensions
+
+### Industrial Investments (70+)
+Foxconn, Hyundai, Tata Electronics, TIDEL Neo parks, data centers, footwear clusters - with investment amounts, job creation, and source links.
+
 ## Features
 
-- **150+ Infrastructure Projects** - Transport, healthcare, education, water, power, and more
-- **Interactive Map** - Choropleth visualization by district with project markers
-- **Bilingual Support** - Full English and Tamil translations
-- **Source Verification** - Each project linked to government and media sources
-- **Scheme Tracking** - Agriculture, education, healthcare, employment, and welfare schemes
-- **Industry Investments** - 70+ industrial parks and major investments
+- **Interactive Map** - Choropleth by district, project markers with details
+- **Bilingual** - Full English and Tamil translations
+- **Source Verification** - Government portals + media articles for each entry
+- **Responsive** - Works on mobile, tablet, desktop
 
 ## Tech Stack
 
