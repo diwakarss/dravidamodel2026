@@ -87,6 +87,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "24x7 agricultural feeders", ta: "24x7 விவசாய ஊட்டிகள்" },
     ],
     icon: "⚡",
+    sources: [
+      { title: "TNEB Agri Service", url: "https://www.tnebltd.gov.in/agrifreeservice/repbycatnew.xhtml", type: "government" },
+      { title: "1 Lakh Free Connections Record", url: "https://www.deccanherald.com/india/tamil-nadu-sets-record-provides-1-lakh-free-power-connections-to-farmers-in-a-year-1101308.html", type: "media" },
+    ],
   },
   {
     id: "uzhavar-sandhai",
@@ -147,6 +151,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "Export market linkages", ta: "ஏற்றுமதி சந்தை இணைப்புகள்" },
     ],
     icon: "🌱",
+    sources: [
+      { title: "TN Organic Certification", url: "https://www.tnocd.net/", type: "government" },
+      { title: "CM Releases Organic Farming Policy", url: "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-releases-organic-farming-policy-gene-bank-to-be-set-up-for-preservation-of-traditional-seeds/article66617994.ece", type: "media" },
+    ],
   },
   {
     id: "drip-irrigation",
@@ -175,6 +183,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "50% water savings", ta: "50% நீர் சேமிப்பு" },
     ],
     icon: "💧",
+    sources: [
+      { title: "TN Micro Irrigation", url: "https://www.tn.gov.in/scheme/data_view/19311", type: "government" },
+      { title: "PMKSY 100% Subsidy", url: "https://krishijagran.com/agriculture-world/pmksy-government-to-provide-100-subsidy-to-install-drip-sprinkler-systems/", type: "media" },
+    ],
   },
   {
     id: "fertilizer-subsidy",
@@ -202,6 +214,9 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "Bio-fertilizer promotion", ta: "உயிர் உர ஊக்குவிப்பு" },
     ],
     icon: "🌿",
+    sources: [
+      { title: "TN Agriculture Dept", url: "https://www.tn.gov.in/department/2", type: "government" },
+    ],
   },
   {
     id: "horticulture",
@@ -230,6 +245,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "Processing units support", ta: "பதப்படுத்தும் அலகுகள் ஆதரவு" },
     ],
     icon: "🍎",
+    sources: [
+      { title: "TN Horticulture Dept", url: "https://tnhorticulture.tn.gov.in/", type: "government" },
+      { title: "Agriculture Budget 2024", url: "https://www.deccanherald.com/amp/story/india/tamil-nadu/tamil-nadu-agriculture-budget-2024-focuses-on-sustainable-chemical-free-practices-2902514", type: "media" },
+    ],
   },
   {
     id: "fisheries",
@@ -290,6 +309,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "Livestock insurance scheme", ta: "கால்நடை காப்பீட்டு திட்டம்" },
     ],
     icon: "🐄",
+    sources: [
+      { title: "TN Animal Husbandry", url: "https://www.tn.gov.in/department/3", type: "government" },
+      { title: "Free Goat Scheme", url: "https://krishijagran.com/animal-husbandry/free-goat-sheep-scheme-for-widows-and-destitutes-with-100-government-subsidy-details-inside/", type: "media" },
+    ],
   },
   {
     id: "farm-mechanization",
@@ -318,6 +341,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "Drone spraying promotion", ta: "ட்ரோன் தெளிப்பு ஊக்குவிப்பு" },
     ],
     icon: "🚜",
+    sources: [
+      { title: "Agricultural Engineering Dept", url: "https://aed.tn.gov.in/en/schemes/agricultural-mechanisation/sub-mission-on-agricultural-mechanisation/", type: "government" },
+      { title: "Machinery Subsidies Guide", url: "https://krishijagran.com/farm-mechanization/agriculture-machinery-subsidies-documents-required-to-avail-it/", type: "media" },
+    ],
   },
 ];
 

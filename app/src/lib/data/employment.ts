@@ -163,6 +163,10 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "District-wise employment drives", ta: "மாவட்ட வாரியான வேலைவாய்ப்பு இயக்கங்கள்" },
     ],
     icon: "🤝",
+    sources: [
+      { title: "TN Private Jobs Portal", url: "https://www.tnprivatejobs.tn.gov.in/Home/job_mela", type: "government" },
+      { title: "70,000 Jobs at Mega Fair", url: "https://www.deccanherald.com/india/over-70000-jobs-up-for-grabs-at-mega-employment-fair-launched-by-tamil-nadu-cm-stalin-1093049.html", type: "media" },
+    ],
   },
   {
     id: "uyegp",
@@ -191,6 +195,9 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "25% back-end subsidy", ta: "25% பின்முனை மானியம்" },
     ],
     icon: "💼",
+    sources: [
+      { title: "TN Velvai Vaippu", url: "https://www.tnvelaivaaippu.gov.in/", type: "government" },
+    ],
   },
   {
     id: "women-employment",
@@ -219,6 +226,10 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "Skilling & employment linkages", ta: "திறன் & வேலைவாய்ப்பு இணைப்புகள்" },
     ],
     icon: "👩‍💼",
+    sources: [
+      { title: "TN Mahalir Thittam", url: "https://new.tamilnadumahalir.org/", type: "government" },
+      { title: "WESAFE World Bank Program", url: "https://www.worldbank.org/en/news/press-release/2025/06/24/new-world-bank-program-to-improve-access-to-quality-jobs-for-1-6-million-women-in-the-indian-state-of-tamil-nadu", type: "media" },
+    ],
   },
   {
     id: "msme-support",
@@ -279,6 +290,9 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "Early career exposure", ta: "ஆரம்ப தொழில் வாய்ப்பு" },
     ],
     icon: "🔧",
+    sources: [
+      { title: "Skill Training TN", url: "https://skilltraining.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "industrial-investments",
@@ -344,6 +358,9 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "Industry partnerships", ta: "தொழில்துறை கூட்டாண்மைகள்" },
     ],
     icon: "📚",
+    sources: [
+      { title: "TNSDC Official", url: "https://www.tnskill.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "apprenticeship",
@@ -372,6 +389,10 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "Stipend during training", ta: "பயிற்சி காலத்தில் உதவித்தொகை" },
     ],
     icon: "🛠️",
+    sources: [
+      { title: "Apprenticeship Portal", url: "https://skilltraining.tn.gov.in/apprenticeship.html", type: "government" },
+      { title: "Apprenticeship India", url: "https://www.apprenticeshipindia.gov.in/", type: "government" },
+    ],
   },
 ];
 
