@@ -505,7 +505,7 @@ export const educationSchemes: EducationScheme[] = [
     },
     description: {
       en: "Comprehensive education policy with two-language formula, competency-based learning, and AI integration.",
-      ta: "இரு மொழி சூத்திரம், திறன் அடிப்படையிலான கற்றல் மற்றும் AI ஒருங்கிணைப்புடன் விரிவான கல்விக் கொள்கை.",
+      ta: "இரு மொழி கொள்கை, திறன் அடிப்படையிலான கற்றல் மற்றும் AI ஒருங்கிணைப்புடன் விரிவான கல்விக் கொள்கை.",
     },
     launchDate: "August 9, 2025",
     beneficiaries: {
@@ -521,7 +521,7 @@ export const educationSchemes: EducationScheme[] = [
     },
     coverage: "All government and aided educational institutions",
     highlights: [
-      { en: "Two-language formula: Tamil + English only", ta: "இரு மொழி சூத்திரம்: தமிழ் + ஆங்கிலம் மட்டுமே" },
+      { en: "Two-language formula: Tamil + English only", ta: "இரு மொழி கொள்கை: தமிழ் + ஆங்கிலம் மட்டுமே" },
       { en: "No Class 11 public exams (stress reduction)", ta: "11ஆம் வகுப்பு பொதுத் தேர்வு இல்லை (மன அழுத்தம் குறைப்பு)" },
       { en: "TN-SPARK: Coding, AI, financial literacy from middle school", ta: "TN-SPARK: நடுநிலைப் பள்ளியிலிருந்து குறியீட்டு, AI, நிதி கல்வி" },
     ],
