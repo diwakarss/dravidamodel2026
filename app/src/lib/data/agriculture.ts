@@ -1,6 +1,12 @@
 // Tamil Nadu Agriculture Schemes Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface AgricultureScheme {
   id: string;
   name: { en: string; ta: string };
@@ -17,6 +23,7 @@ export interface AgricultureScheme {
   };
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const agricultureSchemes: AgricultureScheme[] = [
@@ -47,6 +54,11 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "Quick claim settlement", ta: "விரைவான உரிமைகோரல் தீர்வு" },
     ],
     icon: "🌾",
+    sources: [
+      { title: "PMFBY Official", url: "https://pmfby.gov.in/adminStatistics/dashboard", type: "government" },
+      { title: "TN Horticulture PMFBY", url: "https://tnhorticulture.tn.gov.in/pmfby", type: "government" },
+      { title: "DES TN", url: "https://des.tn.gov.in/en/node/15", type: "government" },
+    ],
   },
   {
     id: "free-electricity",
@@ -103,6 +115,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "20-30% cheaper than retail", ta: "சில்லறை விலையை விட 20-30% குறைவு" },
     ],
     icon: "🥬",
+    sources: [
+      { title: "Uzhavar Santhai Portal", url: "https://www.agrimark.tn.gov.in/index.php/Infra/us_details", type: "government" },
+      { title: "Agrimark TN", url: "https://www.agrimark.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "organic-farming",
@@ -242,6 +258,10 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { en: "Fish landing centers", ta: "மீன் இறங்கு மையங்கள்" },
     ],
     icon: "🐟",
+    sources: [
+      { title: "TN Fisheries", url: "https://www.fisheries.tn.gov.in/", type: "government" },
+      { title: "TN Fishermen Welfare Board", url: "https://www.tnfwb.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "dairy-development",

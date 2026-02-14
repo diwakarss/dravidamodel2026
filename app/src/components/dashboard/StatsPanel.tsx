@@ -1,13 +1,16 @@
 "use client";
 
+import { useState } from "react";
 import { getStats } from "@/lib/data/projects";
 import { formatBudgetCompact } from "@/lib/utils/format";
+import { NalanModal } from "@/components/nalan/NalanModal";
 
 interface StatsPanelProps {
   locale: string;
 }
 
 export function StatsPanel({ locale }: StatsPanelProps) {
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const stats = getStats();
 
   return (
@@ -125,14 +128,22 @@ export function StatsPanel({ locale }: StatsPanelProps) {
       <div className="pt-4 text-center">
         <p className="text-xs text-slate-500">
           Made with 🖤{" "}
-          <a
-            href="#"
+          <button
+            type="button"
+            onClick={() => setIsModalOpen(true)}
             className="text-slate-600 hover:text-slate-800 font-medium hover:underline"
           >
             Nalan AI
-          </a>
+          </button>
         </p>
       </div>
+
+      {/* NalaN Modal */}
+      <NalanModal
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        locale={locale}
+      />
     </div>
   );
 }

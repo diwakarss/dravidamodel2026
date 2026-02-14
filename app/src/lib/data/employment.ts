@@ -1,6 +1,12 @@
 // Tamil Nadu Employment and Skilling Schemes Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface EmploymentScheme {
   id: string;
   name: { en: string; ta: string };
@@ -18,6 +24,7 @@ export interface EmploymentScheme {
   outcomes?: { en: string; ta: string };
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const employmentSchemes: EmploymentScheme[] = [
@@ -53,6 +60,10 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "Arts & Science: 83,195 placements", ta: "கலை & அறிவியல்: 83,195 வேலைவாய்ப்புகள்" },
     ],
     icon: "🎯",
+    sources: [
+      { title: "Naan Mudhalvan Portal", url: "https://www.naanmudhalvan.tn.gov.in/", type: "government" },
+      { title: "TNSDC Naan Mudhalvan", url: "https://www.tnskill.tn.gov.in/naan-mudhalvan/", type: "government" },
+    ],
   },
   {
     id: "vetri-nichayam",
@@ -82,6 +93,10 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "70% placement target", ta: "70% வேலைவாய்ப்பு இலக்கு" },
     ],
     icon: "🏆",
+    sources: [
+      { title: "Vetri Nichayam Portal", url: "https://candidate.tnskill.tn.gov.in/skillwallet/", type: "government" },
+      { title: "TNSDC", url: "https://www.tnskill.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "startup-tn",
@@ -114,6 +129,11 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "Deep Tech Policy: ₹100 crore", ta: "டீப் டெக் கொள்கை: ₹100 கோடி" },
     ],
     icon: "🚀",
+    sources: [
+      { title: "TANSIM Official", url: "https://www.msmetamilnadu.tn.gov.in/tansim.php", type: "government" },
+      { title: "iTNT Hub", url: "https://itnthub.tn.gov.in/", type: "government" },
+      { title: "Startup Policy SPC", url: "https://spc.tn.gov.in/policy/tamil-nadu-startup-and-innovation-policy-2023/", type: "government" },
+    ],
   },
   {
     id: "job-fairs",
@@ -227,6 +247,9 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "Single window clearance", ta: "ஒற்றை சாளர அனுமதி" },
     ],
     icon: "🏭",
+    sources: [
+      { title: "MSME TN Portal", url: "https://www.msmetamilnadu.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "skill-labs",
@@ -285,6 +308,10 @@ export const employmentSchemes: EmploymentScheme[] = [
       { en: "EV, semiconductors, data centers", ta: "EV, செமிகண்டக்டர்கள், தரவு மையங்கள்" },
     ],
     icon: "📈",
+    sources: [
+      { title: "GIM 2024 Official", url: "https://tngim2024.com/", type: "government" },
+      { title: "Guidance TN", url: "https://investingintamilnadu.com/DIGIGOV/TN-pages/guidance.jsp?pagedisp=static", type: "government" },
+    ],
   },
   {
     id: "tnsdc",

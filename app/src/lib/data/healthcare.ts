@@ -1,6 +1,12 @@
 // Tamil Nadu Healthcare Schemes Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface HealthcareScheme {
   id: string;
   name: { en: string; ta: string };
@@ -18,6 +24,7 @@ export interface HealthcareScheme {
   coverage: string;
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const healthcareSchemes: HealthcareScheme[] = [
@@ -51,6 +58,10 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "Merged with PMJAY for wider coverage", ta: "PMJAY உடன் இணைக்கப்பட்டது" },
     ],
     icon: "🏥",
+    sources: [
+      { title: "CMCHIS Official Portal", url: "https://www.cmchistn.com/", type: "government" },
+      { title: "MyScheme.gov.in", url: "https://www.myscheme.gov.in/schemes/cmchis-tn", type: "government" },
+    ],
   },
   {
     id: "makkalai-thedi",
@@ -82,6 +93,11 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "UN IATF Award 2024 winner", ta: "UN IATF விருது 2024 வென்றது" },
     ],
     icon: "🏠",
+    sources: [
+      { title: "SPC MTM Page", url: "https://spc.tn.gov.in/makkalai-thedi-maruthuvam/", type: "government" },
+      { title: "GO MS 340/2021", url: "https://cms.tn.gov.in/cms_migrated/document/GO/hfw_e_340_2021.pdf", type: "government" },
+      { title: "TN Population Health Registry", url: "https://phr.tn.gov.in/aboutus.html", type: "government" },
+    ],
   },
   {
     id: "hpv-vaccine",
@@ -113,6 +129,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "Aims to eliminate cervical cancer", ta: "கர்ப்பப்பை புற்றுநோயை ஒழிக்க இலக்கு" },
     ],
     icon: "💉",
+    sources: [
+      { title: "TN Health Dept", url: "https://www.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "innuyir-kaappom",
@@ -144,6 +163,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "24/7 across Tamil Nadu", ta: "தமிழ்நாடு முழுவதும் 24/7" },
     ],
     icon: "🚗",
+    sources: [
+      { title: "CMCHIS Portal", url: "https://www.cmchistn.com/", type: "government" },
+    ],
   },
   {
     id: "ambulance-108",
@@ -175,6 +197,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "50 ambulances in Chennai alone", ta: "சென்னையில் மட்டும் 50 ஆம்புலன்ஸ்கள்" },
     ],
     icon: "🚑",
+    sources: [
+      { title: "TN Health Dept", url: "https://www.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "medical-colleges",
@@ -205,6 +230,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "Focus on rural healthcare access", ta: "கிராமப்புற சுகாதார அணுகலில் கவனம்" },
     ],
     icon: "🎓",
+    sources: [
+      { title: "TN Health Dept", url: "https://www.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "muthulakshmi-reddy",
@@ -235,6 +263,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "2 nutritional kits worth ₹2,000 each", ta: "₹2,000 மதிப்புள்ள 2 ஊட்டச்சத்து கிட்கள்" },
     ],
     icon: "🤰",
+    sources: [
+      { title: "Social Welfare Dept", url: "https://www.tnsocialwelfare.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "nalam-kaakkum",
@@ -265,6 +296,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "Cardiac and maternal care", ta: "இதய மற்றும் தாய்வழி கவனிப்பு" },
     ],
     icon: "🩺",
+    sources: [
+      { title: "TN Health Dept", url: "https://www.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "organ-donation",
@@ -295,6 +329,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "First state with mandatory brain death cert", ta: "கட்டாய மூளை இறப்பு சான்று முதல் மாநிலம்" },
     ],
     icon: "❤️",
+    sources: [
+      { title: "TN Health Dept", url: "https://www.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "mental-health",
@@ -325,6 +362,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "18-month counseling for suicide attempters", ta: "தற்கொலை முயற்சியாளர்களுக்கு 18 மாத ஆலோசனை" },
     ],
     icon: "🧠",
+    sources: [
+      { title: "TN Health Dept", url: "https://www.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "dialysis",
@@ -355,6 +395,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "Public-Private Partnership", ta: "பொது-தனியார் கூட்டாண்மை" },
     ],
     icon: "🫘",
+    sources: [
+      { title: "CMCHIS Portal", url: "https://www.cmchistn.com/", type: "government" },
+    ],
   },
   {
     id: "palliative-care",
@@ -383,6 +426,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "Integrated with primary healthcare", ta: "அடிப்படை சுகாதாரத்துடன் ஒருங்கிணைப்பு" },
     ],
     icon: "🤲",
+    sources: [
+      { title: "TN Health Dept", url: "https://www.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "telemedicine",
@@ -411,6 +457,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "Specialist consultations available", ta: "நிபுணர் ஆலோசனைகள் கிடைக்கும்" },
     ],
     icon: "📱",
+    sources: [
+      { title: "e-Sanjeevani", url: "https://esanjeevaniopd.in/", type: "government" },
+    ],
   },
   {
     id: "health-infrastructure",
@@ -442,6 +491,9 @@ export const healthcareSchemes: HealthcareScheme[] = [
       { en: "24x7 PHC services expanded", ta: "24x7 PHC சேவைகள் விரிவாக்கம்" },
     ],
     icon: "🏗️",
+    sources: [
+      { title: "TN Budget 2025-26", url: "https://www.tnbudget.tn.gov.in/", type: "government" },
+    ],
   },
 ];
 

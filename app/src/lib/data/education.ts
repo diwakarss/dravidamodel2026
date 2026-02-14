@@ -1,6 +1,12 @@
 // Tamil Nadu Education Schemes Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface EducationScheme {
   id: string;
   name: { en: string; ta: string };
@@ -18,6 +24,7 @@ export interface EducationScheme {
   coverage: string;
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const educationSchemes: EducationScheme[] = [
@@ -50,6 +57,10 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Volunteers: Class 12 for primary, UG for upper primary", ta: "தன்னார்வலர்கள்: ஆரம்பநிலைக்கு 12ஆம் வகுப்பு, மேல்நிலைக்கு இளங்கலை" },
     ],
     icon: "📚",
+    sources: [
+      { title: "State Planning Commission", url: "https://spc.tn.gov.in/illam-thedi-kalvi-scheme/", type: "government" },
+      { title: "School Education Dept GOs", url: "https://www.tn.gov.in/go_view/dept/28", type: "government" },
+    ],
   },
   {
     id: "pudhumai-penn",
@@ -81,6 +92,11 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Beneficiaries: SC 38.6%, MBC 34.4%, BC 24.8%", ta: "பயனாளிகள்: SC 38.6%, MBC 34.4%, BC 24.8%" },
     ],
     icon: "👩‍🎓",
+    sources: [
+      { title: "Pudhumai Penn Portal", url: "https://www.pudhumaipenn.tn.gov.in/", type: "government" },
+      { title: "Social Welfare Dept", url: "https://www.tnsocialwelfare.tn.gov.in/en/pudhumai-penn-scheme", type: "government" },
+      { title: "SPC Evaluation", url: "https://spc.tn.gov.in/evaluation-of-pudhumai-penn-scheme/", type: "government" },
+    ],
   },
   {
     id: "tamil-pudhalvan",
@@ -112,6 +128,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Online application through UMIS portal", ta: "UMIS போர்ட்டல் வழியாக ஆன்லைன் விண்ணப்பம்" },
     ],
     icon: "👨‍🎓",
+    sources: [
+      { title: "Social Welfare Dept", url: "https://www.tnsocialwelfare.tn.gov.in/en/specilisationswoman-welfare/tamil-pudhalvan", type: "government" },
+    ],
   },
   {
     id: "breakfast-scheme",
@@ -143,6 +162,10 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Phase 3 (2024): Extended to 3,995 aided schools", ta: "கட்டம் 3 (2024): 3,995 உதவி பெறும் பள்ளிகளுக்கு விரிவாக்கம்" },
     ],
     icon: "🍳",
+    sources: [
+      { title: "Social Welfare Dept", url: "https://www.tnsocialwelfare.tn.gov.in/en/specilisationsnutritious-meal-programme/chief-ministers-breakfast-scheme", type: "government" },
+      { title: "SPC Evaluation", url: "https://spc.tn.gov.in/chief-ministers-breakfast-scheme/", type: "government" },
+    ],
   },
   {
     id: "noon-meal",
@@ -174,6 +197,10 @@ export const educationSchemes: EducationScheme[] = [
       { en: "First state-wide mid-day meal program in India", ta: "இந்தியாவில் முதல் மாநில அளவிலான மதிய உணவு திட்டம்" },
     ],
     icon: "🍱",
+    sources: [
+      { title: "Social Welfare Dept", url: "https://www.tnsocialwelfare.tn.gov.in/en/specilisationsnutritious-meal-programme/puratchi-thalaivar-mgr-nutritious-meal-programme", type: "government" },
+      { title: "Mid Day Meal Portal", url: "https://middaymeal.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "laptop-scheme",
@@ -204,6 +231,10 @@ export const educationSchemes: EducationScheme[] = [
       { en: "6-month Perplexity Pro AI subscription included", ta: "6 மாத Perplexity Pro AI சந்தா சேர்க்கப்பட்டுள்ளது" },
     ],
     icon: "💻",
+    sources: [
+      { title: "ELCOT Laptop Portal", url: "https://elcotlaptop.tn.gov.in/home", type: "government" },
+      { title: "ELCOT Student Info", url: "https://elcot.tn.gov.in/student-free-laptop", type: "government" },
+    ],
   },
   {
     id: "naan-mudhalvan",
@@ -234,6 +265,10 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Placement assistance included", ta: "வேலை வாய்ப்பு உதவி சேர்க்கப்பட்டுள்ளது" },
     ],
     icon: "🎯",
+    sources: [
+      { title: "Naan Mudhalvan Portal", url: "https://www.naanmudhalvan.tn.gov.in/", type: "government" },
+      { title: "TN Skill Development Corporation", url: "https://www.tnskill.tn.gov.in/naan-mudhalvan/", type: "government" },
+    ],
   },
   {
     id: "free-bicycle",
@@ -263,6 +298,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "No income or community restrictions", ta: "வருமானம் அல்லது சமூக கட்டுப்பாடுகள் இல்லை" },
     ],
     icon: "🚲",
+    sources: [
+      { title: "School Education Dept", url: "https://www.tn.gov.in/scheme/data_view/26799", type: "government" },
+    ],
   },
   {
     id: "free-bus-pass",
@@ -293,6 +331,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Covers home to school travel", ta: "வீடு முதல் பள்ளி வரை பயணத்தை உள்ளடக்கியது" },
     ],
     icon: "🚌",
+    sources: [
+      { title: "TN Government Schemes", url: "https://www.tn.gov.in/scheme", type: "government" },
+    ],
   },
   {
     id: "overseas-scholarship",
@@ -322,6 +363,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Medical insurance and equipment allowance included", ta: "மருத்துவ காப்பீடு மற்றும் உபகரண படி சேர்க்கப்பட்டுள்ளது" },
     ],
     icon: "✈️",
+    sources: [
+      { title: "BC/MBC Welfare Dept", url: "https://bcmbcmw.tn.gov.in/welfschemes.htm", type: "government" },
+    ],
   },
   {
     id: "schools-of-excellence",
@@ -352,6 +396,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Vetri Palligal for JEE/NEET preparation", ta: "JEE/NEET தயாரிப்புக்கான வெற்றி பள்ளிகள்" },
     ],
     icon: "🏫",
+    sources: [
+      { title: "School Education Dept", url: "https://www.tn.gov.in/dept_profile.php?dep_id=Mjg%3D", type: "government" },
+    ],
   },
   {
     id: "free-textbooks-uniforms",
@@ -381,6 +428,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "All textbooks provided free", ta: "அனைத்து பாடப்புத்தகங்களும் இலவசமாக வழங்கப்படுகின்றன" },
     ],
     icon: "📖",
+    sources: [
+      { title: "School Education Dept", url: "https://www.tn.gov.in/scheme", type: "government" },
+    ],
   },
   {
     id: "infrastructure",
@@ -411,6 +461,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "₹200 crore college civil infrastructure", ta: "₹200 கோடி கல்லூரி சிவில் உள்கட்டமைப்பு" },
     ],
     icon: "🔧",
+    sources: [
+      { title: "TN Budget 2024-25", url: "https://www.tnbudget.tn.gov.in/tnweb_files/budget%20highlights/HIGHLIGHTS%20ENG%202024_25.pdf", type: "government" },
+    ],
   },
   {
     id: "education-loans",
@@ -440,6 +493,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "Available for professional courses", ta: "தொழில்முறை படிப்புகளுக்கு கிடைக்கும்" },
     ],
     icon: "💰",
+    sources: [
+      { title: "TN Budget 2024-25", url: "https://www.tnbudget.tn.gov.in/tnweb_files/BS_2024_25_ENG_FINAL.pdf", type: "government" },
+    ],
   },
   {
     id: "state-education-policy",
@@ -470,6 +526,9 @@ export const educationSchemes: EducationScheme[] = [
       { en: "TN-SPARK: Coding, AI, financial literacy from middle school", ta: "TN-SPARK: நடுநிலைப் பள்ளியிலிருந்து குறியீட்டு, AI, நிதி கல்வி" },
     ],
     icon: "📜",
+    sources: [
+      { title: "TN Budget 2025-26", url: "https://www.tnbudget.tn.gov.in/tnweb_files/BS_2025_26_ENG_FINAL.pdf", type: "government" },
+    ],
   },
 ];
 

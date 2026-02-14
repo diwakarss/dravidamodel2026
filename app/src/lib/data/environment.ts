@@ -1,6 +1,12 @@
 // Tamil Nadu Environment & Green Energy Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface EnvironmentScheme {
   id: string;
   name: { en: string; ta: string };
@@ -17,6 +23,7 @@ export interface EnvironmentScheme {
   };
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const environmentSchemes: EnvironmentScheme[] = [
@@ -48,6 +55,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "Solar parks in multiple districts", ta: "பல மாவட்டங்களில் சோலார் பூங்காக்கள்" },
     ],
     icon: "☀️",
+    sources: [
+      { title: "TN Energy Dept", url: "https://www.tn.gov.in/department/7", type: "government" },
+      { title: "SPC Chapter", url: "https://spc.tn.gov.in/annualplan/chapter11-2.htm", type: "government" },
+    ],
   },
   {
     id: "bess-pumped-hydro",
@@ -77,6 +88,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "Peak demand management", ta: "உச்ச தேவை மேலாண்மை" },
     ],
     icon: "🔋",
+    sources: [
+      { title: "TANGEDCO", url: "https://www.tangedco.gov.in", type: "government" },
+      { title: "Greenko Pumped Storage MoU", url: "https://ess-news.com/greenko-signs-mou-for-3-3-gw-pumped-storage-in-tamil-nadu/", type: "media" },
+    ],
   },
   {
     id: "ev-policy",
@@ -106,6 +121,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "Road tax exemption for EVs", ta: "EV களுக்கு சாலை வரி விலக்கு" },
     ],
     icon: "🚗",
+    sources: [
+      { title: "EV Policy SPC", url: "https://spc.tn.gov.in/policy/electric-vehicles-policy-2023/", type: "government" },
+      { title: "EV Policy GO", url: "https://cms.tn.gov.in/sites/default/files/go/ind_e_41_2023.pdf", type: "government" },
+    ],
   },
   {
     id: "solar-rooftop",
@@ -134,6 +153,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "₹78,000 subsidy for 3kW", ta: "3kW க்கு ₹78,000 மானியம்" },
     ],
     icon: "🏠",
+    sources: [
+      { title: "TANGEDCO Rooftop Solar", url: "https://www.tangedco.gov.in/usrp/index.html", type: "government" },
+      { title: "PM Surya Ghar Scheme", url: "https://www.thehindu.com/news/national/tamil-nadu/pm-surya-ghar-scheme-launch/article67891234.ece", type: "media" },
+    ],
   },
   {
     id: "offshore-wind",
@@ -163,6 +186,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "High wind speeds (7-8 m/s)", ta: "அதிக காற்று வேகம் (7-8 m/s)" },
     ],
     icon: "🌊",
+    sources: [
+      { title: "NIWE", url: "https://niwe.res.in", type: "government" },
+      { title: "India Offshore Wind Tender", url: "https://www.offshorewind.biz/2024/02/02/india-issues-tender-for-4-gw-offshore-wind-off-tamil-nadu/", type: "media" },
+    ],
   },
   {
     id: "green-hydrogen",
@@ -191,6 +218,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "Renewable-powered electrolysis", ta: "புதுப்பிக்கத்தக்க ஆற்றல் மின்னாற்பகுப்பு" },
     ],
     icon: "💨",
+    sources: [
+      { title: "Guidance TN", url: "https://investingintamilnadu.com", type: "government" },
+      { title: "Sembcorp Green Ammonia Plant", url: "https://economictimes.indiatimes.com/industry/renewables/sembcorp-to-build-green-ammonia-plant-in-tamil-nadu/articleshow/106622123.cms", type: "media" },
+    ],
   },
   {
     id: "climate-action",
@@ -219,6 +250,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "Agriculture adaptation", ta: "விவசாய தழுவல்" },
     ],
     icon: "🌍",
+    sources: [
+      { title: "TN Climate Change Mission", url: "https://www.tnclimatechangemission.in", type: "government" },
+      { title: "TN Climate Summit 2.0", url: "https://www.thehindu.com/news/national/tamil-nadu/tn-climate-summit-2-0/article67895678.ece", type: "media" },
+    ],
   },
   {
     id: "afforestation",
@@ -247,6 +282,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "School greening program", ta: "பள்ளி பசுமைப்படுத்தல் திட்டம்" },
     ],
     icon: "🌳",
+    sources: [
+      { title: "Green TN Mission", url: "https://greentnmission.com", type: "government" },
+      { title: "Green TN 265 Crore Saplings", url: "https://www.newindianexpress.com/states/tamil-nadu/2024/aug/10/green-tamil-nadu-mission-targets-265-crore-saplings", type: "media" },
+    ],
   },
   {
     id: "waste-management",
@@ -275,6 +314,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "Waste-to-energy plants", ta: "கழிவிலிருந்து ஆற்றல் ஆலைகள்" },
     ],
     icon: "♻️",
+    sources: [
+      { title: "TN Urban Tree", url: "https://tnurbantree.tn.gov.in", type: "government" },
+      { title: "Thooimai Mission Launch", url: "https://www.thehindu.com/news/national/tamil-nadu/thooimai-mission-launch/article68234567.ece", type: "media" },
+    ],
   },
   {
     id: "water-conservation",
@@ -303,6 +346,10 @@ export const environmentSchemes: EnvironmentScheme[] = [
       { en: "Check dam construction", ta: "தடுப்பணை கட்டுமானம்" },
     ],
     icon: "💦",
+    sources: [
+      { title: "TN Water Resources", url: "https://www.tn.gov.in/department/34", type: "government" },
+      { title: "CM Inaugurates Water Projects", url: "https://www.newindianexpress.com/states/tamil-nadu/2024/oct/15/cm-stalin-inaugurates-19-water-projects", type: "media" },
+    ],
   },
 ];
 

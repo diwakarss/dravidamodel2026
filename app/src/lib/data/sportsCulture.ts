@@ -1,6 +1,12 @@
 // Tamil Nadu Sports & Culture Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface SportsCultureScheme {
   id: string;
   name: { en: string; ta: string };
@@ -17,6 +23,7 @@ export interface SportsCultureScheme {
   };
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const sportsCultureSchemes: SportsCultureScheme[] = [
@@ -48,6 +55,43 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Chess in schools program launched", ta: "பள்ளிகளில் சதுரங்க திட்டம் தொடங்கப்பட்டது" },
     ],
     icon: "♟️",
+    sources: [
+      { title: "SDAT Official", url: "https://www.sdat.tn.gov.in/", type: "government" },
+      { title: "Utsav Gov", url: "https://utsav.gov.in/view-event/the-44th-fide-chess-olympiad-in-tamil-nadu", type: "government" },
+    ],
+  },
+  {
+    id: "cm-trophy",
+    name: {
+      en: "Chief Minister's Trophy",
+      ta: "முதலமைச்சர் கோப்பை",
+    },
+    description: {
+      en: "Annual state-wide sports competition for schools, colleges, and youth to identify and nurture athletic talent across Tamil Nadu.",
+      ta: "தமிழ்நாடு முழுவதும் விளையாட்டு திறமைகளை கண்டறிந்து வளர்க்க பள்ளிகள், கல்லூரிகள் மற்றும் இளைஞர்களுக்கான வருடாந்திர மாநில அளவிலான விளையாட்டு போட்டி.",
+    },
+    launchDate: "Annual",
+    beneficiaries: {
+      count: "Lakhs of students",
+      description: {
+        en: "Schools, colleges, youth (12-19 years)",
+        ta: "பள்ளிகள், கல்லூரிகள், இளைஞர்கள் (12-19 வயது)",
+      },
+    },
+    budget: {
+      amount: "₹50+ crore",
+      year: "Annual",
+    },
+    highlights: [
+      { en: "District → Zonal → State level competition", ta: "மாவட்டம் → மண்டலம் → மாநில அளவு போட்டி" },
+      { en: "Multiple sports disciplines", ta: "பல விளையாட்டு துறைகள்" },
+      { en: "Esports added in 2024 (6 game titles)", ta: "2024 இல் ஈஸ்போர்ட்ஸ் சேர்க்கப்பட்டது (6 விளையாட்டுகள்)" },
+    ],
+    icon: "🏆",
+    sources: [
+      { title: "CM Trophy Portal", url: "https://tncmtrophy.sdat.in/", type: "government" },
+      { title: "SDAT Official", url: "https://www.sdat.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "chennai-night-race",
@@ -77,6 +121,10 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Island Grounds transformed", ta: "தீவுத் திடல் மாற்றப்பட்டது" },
     ],
     icon: "🏎️",
+    sources: [
+      { title: "SDAT Official", url: "https://sdat.tn.gov.in/", type: "government" },
+      { title: "Chennai Formula 4 Night Race", url: "https://www.thehindu.com/sport/motorsport/chennai-formula-4-night-street-race/article67258385.ece", type: "media" },
+    ],
   },
   {
     id: "sports-academies",
@@ -105,6 +153,9 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "International coaches", ta: "சர்வதேச பயிற்சியாளர்கள்" },
     ],
     icon: "🏋️",
+    sources: [
+      { title: "SDAT Official", url: "https://www.sdat.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "stadium-upgrades",
@@ -133,6 +184,9 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Synthetic tracks installation", ta: "செயற்கை தடங்கள் நிறுவல்" },
     ],
     icon: "🏟️",
+    sources: [
+      { title: "SDAT Official", url: "https://www.sdat.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "athlete-awards",
@@ -161,6 +215,10 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Government jobs for medalists", ta: "பதக்க வெற்றியாளர்களுக்கு அரசு வேலை" },
     ],
     icon: "🥇",
+    sources: [
+      { title: "SDAT Official", url: "https://sdat.tn.gov.in/", type: "government" },
+      { title: "CM Prize Money Hike", url: "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-announces-hike-in-prize-money-for-olympic-medal-winners/article34983057.ece", type: "media" },
+    ],
   },
   {
     id: "traditional-sports",
@@ -189,6 +247,10 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "State Kabaddi league", ta: "மாநில கபடி லீக்" },
     ],
     icon: "🤼",
+    sources: [
+      { title: "SDAT Official", url: "https://sdat.tn.gov.in/", type: "government" },
+      { title: "CM Opens Jallikattu Arena", url: "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-opens-kalaignar-centenary-jallikattu-arena-in-madurai/article67770854.ece", type: "media" },
+    ],
   },
   {
     id: "thiruvalluvar-prize",
@@ -218,6 +280,10 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Annual award ceremony", ta: "வருடாந்திர விருது வழங்கும் விழா" },
     ],
     icon: "📖",
+    sources: [
+      { title: "TN Schools", url: "https://tnschools.gov.in/", type: "government" },
+      { title: "Thirukkural Cash Awards", url: "https://www.thehindu.com/news/national/tamil-nadu/school-students-recite-thirukkural-win-cash-awards/article38356421.ece", type: "media" },
+    ],
   },
   {
     id: "music-dance",
@@ -246,6 +312,10 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Artist pension schemes", ta: "கலைஞர் ஓய்வூதிய திட்டங்கள்" },
     ],
     icon: "🎭",
+    sources: [
+      { title: "Art & Culture Dept", url: "https://artandculture.tn.gov.in/", type: "government" },
+      { title: "Artist Awards Announcement", url: "https://www.thehindu.com/news/national/tamil-nadu/tn-government-announces-awards-for-artists/article67856421.ece", type: "media" },
+    ],
   },
   {
     id: "film-awards",
@@ -273,6 +343,9 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Lifetime achievement honors", ta: "வாழ்நாள் சாதனை கௌரவங்கள்" },
     ],
     icon: "🎬",
+    sources: [
+      { title: "Art & Culture Dept", url: "https://artandculture.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "heritage-conservation",
@@ -301,6 +374,10 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { en: "Temple jewel audits", ta: "கோவில் நகை தணிக்கைகள்" },
     ],
     icon: "🛕",
+    sources: [
+      { title: "HR&CE Dept", url: "https://hrce.tn.gov.in/", type: "government" },
+      { title: "Thiruppani Works Module", url: "https://www.newindianexpress.com/states/tamil-nadu/2023/apr/18/hrce-dept-launches-thiruppani-works-module-to-monitor-temple-renovation-2566989.html", type: "media" },
+    ],
   },
 ];
 

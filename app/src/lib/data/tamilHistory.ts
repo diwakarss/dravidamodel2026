@@ -1,6 +1,12 @@
 // Tamil Nadu Tamil History & Archaeology Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface HistoryScheme {
   id: string;
   name: { en: string; ta: string };
@@ -17,6 +23,7 @@ export interface HistoryScheme {
   };
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const historySchemes: HistoryScheme[] = [
@@ -48,6 +55,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "Open-Air Museum foundation Jan 2025", ta: "திறந்தவெளி அருங்காட்சியகம் அஸ்திவாரம் ஜன 2025" },
     ],
     icon: "🏛️",
+    sources: [
+      { title: "Keeladi Museum", url: "https://www.keeladimuseum.tn.gov.in/", type: "government" },
+      { title: "Archaeology Policy Note", url: "https://cms.tn.gov.in/sites/default/files/documents/archaeology_e_pn_2024_25.pdf", type: "government" },
+    ],
   },
   {
     id: "porunai",
@@ -77,6 +88,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "Silver coins prove ancient commerce", ta: "வெள்ளி நாணயங்கள் பண்டைய வணிகத்தை நிரூபிக்கின்றன" },
     ],
     icon: "⚱️",
+    sources: [
+      { title: "TN Archaeology Dept", url: "https://tnarch.gov.in/", type: "government" },
+      { title: "Porunai Museum Progress", url: "https://www.thehindu.com/news/national/tamil-nadu/porunai-museum-in-tirunelveli-will-be-ready-soon-minister/article67634212.ece", type: "media" },
+    ],
   },
   {
     id: "mayiladumparai",
@@ -106,6 +121,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "Rock paintings & Neolithic artifacts", ta: "பாறை ஓவியங்கள் & நியோலிதிக் தொல்பொருட்கள்" },
     ],
     icon: "⛏️",
+    sources: [
+      { title: "TN Archaeology Dept", url: "https://tnarch.gov.in/", type: "government" },
+      { title: "Oldest Iron Age Site Discovery", url: "https://www.thenewsminute.com/article/mayiladumparai-indias-oldest-iron-age-site-discovered-tamil-nadu-163789", type: "media" },
+    ],
   },
   {
     id: "adichanallur",
@@ -135,6 +154,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "Sand mining ban to protect site", ta: "தளத்தை பாதுகாக்க மணல் குவாரி தடை" },
     ],
     icon: "🏺",
+    sources: [
+      { title: "TN Archaeology Dept", url: "https://tnarch.gov.in/", type: "government" },
+      { title: "ASI Site Museum Work", url: "https://www.thenewsminute.com/article/asi-begins-work-site-museum-adichanallur-tamil-nadu-156321", type: "media" },
+    ],
   },
   {
     id: "harappan-research",
@@ -164,6 +187,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "AI & machine learning employed", ta: "AI & இயந்திர கற்றல் பயன்படுத்தப்படுகிறது" },
     ],
     icon: "📜",
+    sources: [
+      { title: "TN Archaeology Dept", url: "https://tnarch.gov.in/", type: "government" },
+      { title: "Keeladi-Indus Link Research", url: "https://www.indiatoday.in/science/story/keeladi-excavations-establish-link-between-tamil-nadu-indus-valley-civilization-1601270-2019-09-20", type: "media" },
+    ],
   },
   {
     id: "archaeology-dept",
@@ -193,6 +220,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "Carbon dating facilities", ta: "கார்பன் தேதி வசதிகள்" },
     ],
     icon: "🔬",
+    sources: [
+      { title: "TN Archaeology Dept", url: "https://www.tn.gov.in/detail_contact/1810/4", type: "government" },
+      { title: "Policy Note 2024-25", url: "https://cms.tn.gov.in/sites/default/files/documents/archaeology_e_pn_2024_25.pdf", type: "government" },
+    ],
   },
   {
     id: "tamil-museum",
@@ -221,6 +252,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "Digital archives initiative", ta: "டிஜிட்டல் காப்பக முன்முயற்சி" },
     ],
     icon: "🏛️",
+    sources: [
+      { title: "TN Archaeology Dept", url: "https://tnarch.gov.in/", type: "government" },
+      { title: "CM Inaugurates Keeladi Museum", url: "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-inaugurates-keeladi-museum/article66583210.ece", type: "media" },
+    ],
   },
   {
     id: "sangam-literature",
@@ -249,6 +284,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "Audio renditions available", ta: "ஒலி வடிவங்கள் கிடைக்கும்" },
     ],
     icon: "📚",
+    sources: [
+      { title: "TN Archaeology Dept", url: "https://tnarch.gov.in/", type: "government" },
+      { title: "Sangam Era-Indus Link", url: "https://www.newindianexpress.com/states/tamil-nadu/2019/sep/20/keeladi-findings-trace-link-between-sangam-era-indus-valley-civilisation-2036423.html", type: "media" },
+    ],
   },
   {
     id: "thiruvalluvar",
@@ -277,6 +316,10 @@ export const historySchemes: HistoryScheme[] = [
       { en: "International Tamil conferences", ta: "சர்வதேச தமிழ் மாநாடுகள்" },
     ],
     icon: "🗿",
+    sources: [
+      { title: "TTDC", url: "https://www.ttdconline.com/", type: "government" },
+      { title: "Thiruvalluvar Statue Coating", url: "https://www.newindianexpress.com/states/tamil-nadu/2022/jun/08/chemical-coating-for-thiruvalluvar-statue-begins-2463121.html", type: "media" },
+    ],
   },
 ];
 

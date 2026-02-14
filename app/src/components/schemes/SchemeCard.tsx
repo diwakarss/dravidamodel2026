@@ -2,6 +2,7 @@
 
 import { Card } from "@/components/ui/Card";
 import { cn } from "@/lib/utils/cn";
+import { SourceLinks, type Source } from "@/components/ui/SourceLinks";
 
 interface SchemeCardProps {
   name: { en: string; ta: string };
@@ -19,6 +20,7 @@ interface SchemeCardProps {
   icon: string;
   locale: string;
   onClick?: () => void;
+  sources?: Source[];
 }
 
 // Helper to get localized text
@@ -39,6 +41,7 @@ export function SchemeCard({
   icon,
   locale,
   onClick,
+  sources,
 }: SchemeCardProps) {
   return (
     <Card hover onClick={onClick} className="h-full flex flex-col">
@@ -104,6 +107,13 @@ export function SchemeCard({
               </li>
             ))}
           </ul>
+        </div>
+      )}
+
+      {/* Sources */}
+      {sources && sources.length > 0 && (
+        <div className="mt-3 pt-3 border-t border-slate-200">
+          <SourceLinks sources={sources} locale={locale} maxVisible={2} />
         </div>
       )}
     </Card>

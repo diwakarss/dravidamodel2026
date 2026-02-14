@@ -1,6 +1,7 @@
 "use client";
 
 import { SchemeCard } from "./SchemeCard";
+import type { Source } from "@/components/ui/SourceLinks";
 
 // Support both old string format and new localized format
 interface Scheme {
@@ -18,6 +19,7 @@ interface Scheme {
   };
   highlights?: ({ en: string; ta: string } | string)[];
   icon: string;
+  sources?: Source[];
 }
 
 interface SchemesGridProps {
@@ -62,6 +64,7 @@ export function SchemesGrid({
               highlights={scheme.highlights}
               icon={scheme.icon}
               locale={locale}
+              sources={scheme.sources}
             />
           ))}
         </div>

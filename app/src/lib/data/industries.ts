@@ -2,6 +2,12 @@
 // Comprehensive data from GIM 2024, Davos announcements, FDI, MNC investments
 // Source: Research aggregated from multiple government and news sources
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface IndustrialPark {
   id: string;
   name: string;

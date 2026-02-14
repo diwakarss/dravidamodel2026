@@ -1,6 +1,12 @@
 // Tamil Nadu Social Welfare Schemes Data (2021-2026)
 // Source: Research February 2026
 
+export interface SchemeSource {
+  title: string;
+  url: string;
+  type?: "government" | "media" | "other";
+}
+
 export interface WelfareScheme {
   id: string;
   name: { en: string; ta: string };
@@ -18,6 +24,7 @@ export interface WelfareScheme {
   eligibility?: { en: string; ta: string };
   highlights?: { en: string; ta: string }[];
   icon: string;
+  sources?: SchemeSource[];
 }
 
 export const welfareSchemes: WelfareScheme[] = [
@@ -54,6 +61,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "₹5,000 bonus payment (2026)", ta: "₹5,000 போனஸ் கொடுப்பனவு (2026)" },
     ],
     icon: "👩",
+    sources: [
+      { title: "KMUT Official Portal", url: "https://kmut.tn.gov.in/", type: "government" },
+      { title: "SPC Page", url: "https://spc.tn.gov.in/kalaignar-magalir-urimai-thittam/", type: "government" },
+    ],
   },
   {
     id: "vidiyal-payanam",
@@ -88,6 +99,11 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "No registration required", ta: "பதிவு தேவையில்லை" },
     ],
     icon: "🚌",
+    sources: [
+      { title: "SPC Vidiyal Payanam", url: "https://spc.tn.gov.in/vidiyal-payanam-scheme/", type: "government" },
+      { title: "TNSTC Official", url: "https://www.tnstc.in/", type: "government" },
+      { title: "The Hindu", url: "https://www.thehindu.com/news/cities/chennai/where-does-this-bus-go/article68089045.ece", type: "media" },
+    ],
   },
   {
     id: "pongal-gift",
@@ -118,6 +134,11 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Sugarcane distributed free", ta: "கரும்பு இலவசமாக வழங்கப்படுகிறது" },
     ],
     icon: "🎁",
+    sources: [
+      { title: "DD News", url: "https://ddnews.gov.in/en/tamil-nadu-to-launch-rs-3000-pongal-gift-scheme-for-over-two-crore-ration-card-holders-today/", type: "government" },
+      { title: "Tenkasi District PR", url: "https://tenkasi.nic.in/the-pongal-gift-package-will-be-distributed-to-all-eligible-beneficiaries-through-fair-price-shops-from-08-01-2026-press-release/", type: "government" },
+      { title: "The News Minute", url: "https://www.thenewsminute.com/tamil-nadu/tn-announces-rs-3000-cash-with-pongal-gift-hampers-for-ration-card-holders", type: "media" },
+    ],
   },
   {
     id: "kalaignar-kanavu-illam",
@@ -152,6 +173,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Goal: Eliminate huts by 2030", ta: "இலக்கு: 2030க்குள் குடிசைகளை ஒழிப்பு" },
     ],
     icon: "🏠",
+    sources: [
+      { title: "TNRD Scheme Details", url: "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?scheme_type=Mw%3D%3D&y=MjAyNA%3D%3D&sch_id=ODMx&go_type=MQ%3D%3D", type: "government" },
+      { title: "TNRD Official", url: "https://tnrd.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "old-age-pension",
@@ -184,6 +209,11 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Combined with IGNOAPS", ta: "IGNOAPS உடன் இணைந்து" },
     ],
     icon: "👴",
+    sources: [
+      { title: "OAP Portal", url: "https://oap.tn.gov.in/", type: "government" },
+      { title: "CRA Schemes", url: "https://www.cra.tn.gov.in/about_schemes.php", type: "government" },
+      { title: "TN Pensioner Portal", url: "https://tnpensioner.tn.gov.in/pensionportal/Schemes.aspx", type: "government" },
+    ],
   },
   {
     id: "widow-pension",
@@ -216,6 +246,11 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Combined with IGNWPS", ta: "IGNWPS உடன் இணைந்து" },
     ],
     icon: "🕯️",
+    sources: [
+      { title: "Widow Welfare Board", url: "https://www.tnsocialwelfare.tn.gov.in/en/specilisationswoman-welfare/widow-and-destitute-welfare-board", type: "government" },
+      { title: "OAP Portal", url: "https://oap.tn.gov.in/", type: "government" },
+      { title: "CRA Schemes", url: "https://cra.tn.gov.in/eleg_schemes.php", type: "government" },
+    ],
   },
   {
     id: "disabled-pension",
@@ -248,6 +283,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "₹1,433 cr dept allocation (2025-26)", ta: "₹1,433 கோடி ஒதுக்கீடு" },
     ],
     icon: "♿",
+    sources: [
+      { title: "OAP Portal", url: "https://oap.tn.gov.in/", type: "government" },
+      { title: "CRA Schemes", url: "https://www.cra.tn.gov.in/about_schemes.php", type: "government" },
+    ],
   },
   {
     id: "pds",
@@ -277,6 +316,11 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "33,609 fair price shops", ta: "33,609 நியாய விலை கடைகள்" },
     ],
     icon: "🍚",
+    sources: [
+      { title: "TNCSC PDS Portal", url: "https://tncsc.tn.gov.in/en/PDS.html", type: "government" },
+      { title: "TNPDS Official", url: "https://www.tnpds.gov.in/", type: "government" },
+      { title: "Consumer Protection Dept", url: "https://consumer.tn.gov.in/pds_outline.htm", type: "government" },
+    ],
   },
   {
     id: "marriage-assistance",
@@ -310,6 +354,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Inter-caste: ₹2.5 lakh grant", ta: "கலப்பு திருமணம்: ₹2.5 லட்சம்" },
     ],
     icon: "💒",
+    sources: [
+      { title: "TN Social Welfare Marriage Schemes", url: "https://www.tnsocialwelfare.tn.gov.in/en/specilisationswoman-welfare/marriage-assistance-schemes", type: "government" },
+      { title: "NRT Marriage Assistance", url: "https://nrtamils.tn.gov.in/pages/view/Marrage-Assistance", type: "government" },
+    ],
   },
   {
     id: "farm-loan-waiver",
@@ -339,6 +387,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Jewel loans included", ta: "நகை கடன்களும் சேர்க்கப்பட்டன" },
     ],
     icon: "🌾",
+    sources: [
+      { title: "RCS Cooperative Societies", url: "https://www.rcs.tn.gov.in/credit_copperative.php", type: "government" },
+      { title: "TN Cooperative Portal", url: "https://kooturavu.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "fishermen-welfare",
@@ -368,6 +420,11 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Fishing ban period relief", ta: "மீன்பிடி தடை காலத்தில் நிவாரணம்" },
     ],
     icon: "🎣",
+    sources: [
+      { title: "TN Fishermen Welfare Board", url: "https://www.tnfwb.tn.gov.in/", type: "government" },
+      { title: "TN Fisheries Welfare Schemes", url: "https://www.fisheries.tn.gov.in/WelfareBoard", type: "government" },
+      { title: "TAFCOFED Diesel", url: "https://www.fisheries.tn.gov.in/TAFCOFED.html", type: "government" },
+    ],
   },
   {
     id: "sc-st-welfare",
@@ -397,6 +454,11 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Self-employment assistance", ta: "சுயதொழில் உதவி" },
     ],
     icon: "🏛️",
+    sources: [
+      { title: "TNADW Official", url: "https://www.tnadw.tn.gov.in/", type: "government" },
+      { title: "ADW Scholarship Portal", url: "https://tnadtwscholarship.tn.gov.in/", type: "government" },
+      { title: "Tribal Welfare Dept", url: "https://www.tntribalwelfare.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "transgender-welfare",
@@ -431,6 +493,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Free gender-affirming procedures", ta: "இலவச பாலின உறுதி செயல்முறைகள்" },
     ],
     icon: "🏳️‍⚧️",
+    sources: [
+      { title: "TN Transgender Welfare Board", url: "https://www.tnsocialwelfare.tn.gov.in/en/specilisationstransgenders-welfare/tamil-nadu-transgender-welfare-board", type: "government" },
+      { title: "UNDP TN Transgender Study", url: "https://www.undp.org/india/publications/case-tamil-nadu-transgender-welfare-board-insights-developing-practical-models-social-protection-programmes-transgender-people", type: "other" },
+    ],
   },
   {
     id: "minority-welfare",
@@ -460,6 +526,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Marriage assistance schemes", ta: "திருமண உதவித் திட்டங்கள்" },
     ],
     icon: "🕌",
+    sources: [
+      { title: "BCMBC Minorities Welfare", url: "https://bcmbcmw.tn.gov.in/welfschemes_minorities.htm", type: "government" },
+      { title: "BCMBCMW Official", url: "https://bcmbcmw.tn.gov.in/", type: "government" },
+    ],
   },
   {
     id: "icds",
@@ -488,6 +558,10 @@ export const welfareSchemes: WelfareScheme[] = [
       { en: "Health checkups & immunization", ta: "சுகாதார பரிசோதனை & தடுப்பூசி" },
     ],
     icon: "👶",
+    sources: [
+      { title: "ICDS TN Official", url: "https://icds.tn.gov.in/icdstn/", type: "government" },
+      { title: "Anganwadi Centers", url: "https://www.icds.tn.gov.in/icdstn/anganwadi_centers.html", type: "government" },
+    ],
   },
 ];
 
