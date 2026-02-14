@@ -311,7 +311,7 @@ export const welfareSchemes: WelfareScheme[] = [
       details: "Free under NFSA",
     },
     highlights: [
-      { en: "Only Universal PDS state in India", ta: "இந்தியாவில் ஒரே உலகளாவிய PDS மாநிலம்" },
+      { en: "Only Universal PDS state in India", ta: "இந்தியாவில் அனைவருக்குமான PDS உள்ள ஒரே மாநிலம்" },
       { en: "Rice, sugar, wheat distributed", ta: "அரிசி, சர்க்கரை, கோதுமை விநியோகம்" },
       { en: "33,609 fair price shops", ta: "33,609 நியாய விலை கடைகள்" },
     ],
