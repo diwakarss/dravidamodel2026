@@ -746,6 +746,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 1000,
     notes: "Single-sided, double-sided, multi-layer, RF PCBs, flexible PCBs. 840,000 SqM annual capacity.",
     year: 2023,
+    source: "https://www.business-standard.com/economy/news/tamil-nadu-seals-rs-24307-cr-investment-deals-at-hosur-investor-meet-125091101115_1.html",
   },
   {
     id: "syrma-sgs-chennai",
@@ -760,6 +761,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 150,
     notes: "MSI partnership. 100,000 laptops annually (scaling to 1M). Server motherboards (Gigabyte). FY25 revenue: Rs 3,212 Cr.",
     year: 2025,
+    source: "https://knnindia.co.in/news/newsdetails/sectors/electronics/syrma-sgs-laptop-production-unit-in-tamil-nadu-inaugurated",
   },
   {
     id: "dell-sriperumbudur",
@@ -774,6 +776,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 3000,
     notes: "Dell's biggest global manufacturing site. Exports 5 million laptops annually. Part of electronics cluster expansion 2021-2026.",
     year: 2024,
+    source: "https://i.dell.com/sites/csdocuments/Corporate_corp-Comm_Documents/en/dell-india-manufacturing.pdf",
   },
 
   // ============================================
@@ -823,6 +826,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 25000,
     notes: "Taiwanese company. Nike/Adidas supplier. Two MoUs: Rs 1,000 Cr (2022) + Rs 500 Cr (2024). Start 2026.",
     year: 2024,
+    source: "https://www.deccanherald.com/business/hong-fu-breaks-ground-for-footwear-manufacturing-unit-in-ranipet-3320207",
   },
   {
     id: "pou-chen-ulundurpet",
@@ -837,6 +841,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 20000,
     notes: "Taiwanese Pou Chen subsidiary. $281M investment. 12-year implementation.",
     year: 2024,
+    source: "https://www.business-standard.com/companies/news/non-leather-footwear-maker-pou-chen-to-invest-rs-2-302-cr-in-tamil-nadu-123041700343_1.html",
   },
   {
     id: "jr-one-crocs-tn",
@@ -851,6 +856,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 30000,
     notes: "Phoenix Kothari (India) + Shoe Town (Taiwan) JV. Crocs brand manufacturing.",
     year: 2024,
+    source: "https://www.business-standard.com/india-news/cm-m-k-stalin-inaugurates-jr-one-kothari-footwear-unit-in-tamil-nadu-123112800601_1.html",
   },
   {
     id: "dean-shoes-tn",
@@ -865,6 +871,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 15000,
     notes: "Footwear manufacturing. Part of major Taiwanese investment wave.",
     year: 2023,
+    source: "https://www.deccanherald.com/india/tamil-nadu/stalin-lays-foundation-stone-for-rs-1000-crore-taiwanese-dean-shoes-factory-in-tamil-nadus-ariyalur-3278031",
   },
   {
     id: "mlfac-ranipet",
@@ -880,6 +887,7 @@ export const industrialParks: IndustrialPark[] = [
     area: "250 acres",
     notes: "Proximity to Ambur, Vaniyambadi, Vellore leather clusters. TN Footwear Policy 2022.",
     year: 2022,
+    source: "https://hellolandmark.com/mega-leather-footwear-and-accessories-clusters-industrial-park-mlfac-panapakkam-sipcot-ranipet-district-tamil-nadu/",
   },
   {
     id: "sipcot-textile-salem",
@@ -895,6 +903,7 @@ export const industrialParks: IndustrialPark[] = [
     area: "111 acres",
     notes: "Integrated textile park. GIM 2024.",
     year: 2024,
+    source: "https://knnindia.co.in/news/newsdetails/state/tamil-nadu/minister-t-r-b-rajaa-reviews-sipcot-textile-park-project-in-salem",
   },
 
   // ============================================
@@ -914,6 +923,7 @@ export const industrialParks: IndustrialPark[] = [
     area: "2,000 acres",
     notes: "CETP, steam systems, warehousing, cold storage, R&D Centre, testing facilities.",
     year: 2021,
+    source: "https://www.business-standard.com/article/current-affairs/tamil-nadu-proposes-to-set-up-bulk-drug-medical-devices-parks-near-chennai-121011900607_1.html",
   },
   {
     id: "medical-devices-park-oragadam",
@@ -929,6 +939,7 @@ export const industrialParks: IndustrialPark[] = [
     area: "350 acres",
     notes: "Advanced medical devices infrastructure.",
     year: 2021,
+    source: "https://medicaldialogues.in/news/industry/pharma/govt-approves-rs-100-crore-medical-devices-park-in-tamil-nadu-82601",
   },
   {
     id: "biotech-park-chengalpattu",
@@ -944,6 +955,7 @@ export const industrialParks: IndustrialPark[] = [
     area: "55 acres",
     notes: "Pharmaceuticals, vaccine production, biotech startups. Master plan by TIDCO.",
     year: 2025,
+    source: "https://www.livechennai.com/detailnews.asp?catid=&newsid=75829",
   },
   {
     id: "caplin-pharma-tn",
@@ -958,6 +970,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 1500,
     notes: "Pharmaceutical units and R&D facility across multiple locations. GIM 2024.",
     year: 2024,
+    source: "https://www.indianpharmapost.com/news/caplin-group-announces-strategic-investment-of-rs-700-crore-in-tn-15118",
   },
   {
     id: "yotta-datacenter-chennai",
@@ -988,6 +1001,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 800,
     notes: "17MW initial phase, scaling to 33MW. IGBC Platinum rated. USD 213M debt financing.",
     year: 2023,
+    source: "https://www.adaniconnex.com/resources/all-resources/press-release/adaniconnex-announces-the-launch-of-chennai-1-data-center",
   },
   {
     id: "stt-gdc-chennai",
@@ -1002,6 +1016,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 600,
     notes: "USD 229M expansion. 80MW additional capacity over 5-7 years. Currently 45MW. Third campus under construction.",
     year: 2024,
+    source: "https://www.sttelemediagdc.com/in-en/locations/chennai",
   },
   {
     id: "tidel-neo-tiruppur",
@@ -1017,6 +1032,7 @@ export const industrialParks: IndustrialPark[] = [
     area: "1.77 acres",
     notes: "LG+G+7 floors, 65,500 sq ft. Inaugurated August 2025 by CM Stalin.",
     year: 2025,
+    source: "https://www.tidelpark.com/blog/tidel-neo-tiruppur-stitching-together-innovation-and-opportunity-in-indias-knitwear-capital.html",
   },
   {
     id: "tidel-neo-salem",
@@ -1031,6 +1047,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 300,
     notes: "G+3 structure, 55,000 sq ft. Part of 17 TIDEL Neo parks.",
     year: 2023,
+    source: "https://tidelpark.com/en/tidel-neo",
   },
   {
     id: "tidel-neo-thanjavur",
@@ -1045,6 +1062,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 300,
     notes: "IT park in tier-2 city. Inaugurated by CM Stalin.",
     year: 2023,
+    source: "https://tidelpark.com/blog/tidel-neo-thanjavur.html",
   },
   {
     id: "tidel-neo-karaikudi",
@@ -1059,6 +1077,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 320,
     notes: "IT park in Chettinad region.",
     year: 2024,
+    source: "https://www.tidelpark.com/blog/tidel-neo-karaikudi-igniting-the-it-spark-in-the-heart-of-chettinad.html",
   },
   {
     id: "semiconductor-park-coimbatore",
@@ -1073,6 +1092,7 @@ export const industrialParks: IndustrialPark[] = [
     area: "200 acres (2 parks)",
     notes: "Semiconductor Mission 2030. Two parks: Sulur (100 acres) + Palladam (100 acres). Rs 500 Cr 5-year outlay. Fabless Lab in Chennai.",
     year: 2025,
+    source: "https://investingintamilnadu.com/DIGIGOV/StaticAttachment?AttachmentFileName=/pdf/poli_noti/SCP_2024.pdf",
   },
   {
     id: "yes-semiconductor-coimbatore",
@@ -1087,6 +1107,7 @@ export const industrialParks: IndustrialPark[] = [
     jobsCreated: 300,
     notes: "Semiconductor equipment manufacturing. MoU signed. 200 jobs in first 5 years.",
     year: 2024,
+    source: "https://yieldengineering.com/company/news/yes-signs-mou-with-tamil-nadu-government/",
   },
 
   // ============================================
