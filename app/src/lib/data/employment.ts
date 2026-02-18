@@ -394,6 +394,42 @@ export const employmentSchemes: EmploymentScheme[] = [
       { title: "Apprenticeship India", url: "https://www.apprenticeshipindia.gov.in/", type: "government" },
     ],
   },
+  {
+    id: "tnrising-thoothukudi",
+    name: {
+      en: "TN Rising Thoothukudi Investors Conclave",
+      ta: "TN ரைசிங் தூத்துக்குடி முதலீட்டாளர் மாநாடு",
+    },
+    description: {
+      en: "Inaugural TN Rising investors conclave in Thoothukudi securing ₹32,554 crore investments through 41 MoUs across electronics, defence, aerospace, green energy, and auto components sectors.",
+      ta: "தூத்துக்குடியில் முதல் TN ரைசிங் முதலீட்டாளர் மாநாடு - மின்னணுவியல், பாதுகாப்பு, விண்வெளி, பசுமை ஆற்றல் மற்றும் வாகன உதிரிபாகங்கள் துறைகளில் 41 புரிந்துணர்வு ஒப்பந்தங்கள் மூலம் ₹32,554 கோடி முதலீடுகள்.",
+    },
+    launchDate: "August 2025",
+    beneficiaries: {
+      count: "49,800+ jobs",
+      description: {
+        en: "Employment in southern Tamil Nadu districts",
+        ta: "தென் தமிழ்நாடு மாவட்டங்களில் வேலைவாய்ப்பு",
+      },
+    },
+    budget: {
+      amount: "₹32,554 crore",
+      details: "Investment through 41 MoUs",
+    },
+    outcomes: {
+      en: "VinFast plant inaugurated, 256-acre space park announced",
+      ta: "VinFast ஆலை திறப்பு, 256 ஏக்கர் விண்வெளி பூங்கா அறிவிப்பு",
+    },
+    highlights: [
+      { en: "41 MoUs signed at conclave", ta: "41 புரிந்துணர்வு ஒப்பந்தங்கள் கையெழுத்து" },
+      { en: "Sakthi Group: ₹5,000 Cr largest single investment", ta: "சக்தி குழுமம்: ₹5,000 கோடி மிகப்பெரிய முதலீடு" },
+      { en: "256-acre space park, shipbuilding facility announced", ta: "256 ஏக்கர் விண்வெளி பூங்கா, கப்பல் கட்டும் வசதி அறிவிப்பு" },
+    ],
+    icon: "💼",
+    sources: [
+      { title: "Business Standard", url: "https://www.business-standard.com/economy/news/tn-deal-rs-32554-crore-investments-south-tamil-nadu-jsw-rge-125080401249_1.html", type: "media" },
+    ],
+  },
 ];
 
 export const employmentStats = {

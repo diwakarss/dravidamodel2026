@@ -28,6 +28,70 @@ export interface EnvironmentScheme {
 
 export const environmentSchemes: EnvironmentScheme[] = [
   {
+    id: "mtc-electric-bus",
+    name: {
+      en: "MTC Electric Bus Fleet",
+      ta: "MTC மின்சார பேருந்து கடற்படை",
+    },
+    description: {
+      en: "Chennai's first significant deployment of zero-emission buses. 625 low-floor electric buses across 50 routes covering Chennai city and suburbs, manufactured by Switch Mobility (Ashok Leyland subsidiary).",
+      ta: "சென்னையின் முதல் குறிப்பிடத்தக்க பூஜ்ஜிய உமிழ்வு பேருந்து வரிசைப்படுத்தல். 50 வழித்தடங்களில் 625 தரைத்தள மின்சார பேருந்துகள்.",
+    },
+    launchDate: "July 1, 2025",
+    beneficiaries: {
+      count: "Chennai commuters",
+      description: {
+        en: "50 routes across Chennai city and suburbs",
+        ta: "சென்னை நகரம் மற்றும் புறநகர்களில் 50 வழித்தடங்கள்",
+      },
+    },
+    budget: {
+      amount: "₹697 crore",
+      details: "Phase 1: 625 low-floor electric buses",
+    },
+    highlights: [
+      { en: "120+ buses launched in Phase 1", ta: "முதல் கட்டத்தில் 120+ பேருந்துகள்" },
+      { en: "200 km range per full charge (2 hrs)", ta: "முழு சார்ஜ் (2 மணி நேரம்) 200 கி.மீ தூரம்" },
+      { en: "625 buses total across 50 routes", ta: "50 வழித்தடங்களில் மொத்தம் 625 பேருந்துகள்" },
+    ],
+    icon: "🚌",
+    sources: [
+      { title: "Sustainable Bus", url: "https://www.sustainable-bus.com/electric-bus/120-electric-buses-chennai-tamil-nadu-mtc/", type: "media" },
+    ],
+  },
+  {
+    id: "double-decker-ev-bus",
+    name: {
+      en: "Double Decker Electric Bus Service",
+      ta: "இரட்டை தள மின்சார பேருந்து சேவை",
+    },
+    description: {
+      en: "Return of iconic double-decker buses to Chennai after 18-year gap. Electric, air-conditioned heritage tourism buses connecting city landmarks including LIC, Spencer Plaza, and Lighthouse.",
+      ta: "18 வருட இடைவெளிக்குப் பிறகு சென்னையில் மீண்டும் இரட்டை தள பேருந்துகள். LIC, ஸ்பென்சர் பிளாசா, லைட்ஹவுஸ் உள்ளிட்ட முக்கிய இடங்களை இணைக்கும் மின்சார, குளிரூட்டப்பட்ட பாரம்பரிய சுற்றுலா பேருந்துகள்.",
+    },
+    launchDate: "January 2026",
+    beneficiaries: {
+      count: "Chennai tourists & commuters",
+      description: {
+        en: "Heritage tourism routes connecting iconic landmarks",
+        ta: "முக்கிய இடங்களை இணைக்கும் பாரம்பரிய சுற்றுலா வழித்தடங்கள்",
+      },
+    },
+    budget: {
+      amount: "₹40+ crore",
+      details: "Phase 1: 20 buses from Ashok Leyland",
+    },
+    highlights: [
+      { en: "20 buses: 16 AC + 4 open-roof variants", ta: "20 பேருந்துகள்: 16 AC + 4 திறந்த கூரை" },
+      { en: "Return after 18-year gap", ta: "18 வருட இடைவெளிக்குப் பிறகு மீண்டும்" },
+      { en: "Tamil diaspora contribution from USA", ta: "அமெரிக்காவில் உள்ள தமிழர்களின் பங்களிப்பு" },
+    ],
+    icon: "🚎",
+    sources: [
+      { title: "News Today", url: "https://newstodaynet.com/2026/01/12/double-decker-bus-service-launched-in-chennai/", type: "media" },
+    ],
+  },
+  {
     id: "renewable-target",
     name: {
       en: "Renewable Energy 20GW Target",

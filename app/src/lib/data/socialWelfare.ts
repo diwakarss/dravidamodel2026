@@ -29,6 +29,75 @@ export interface WelfareScheme {
 
 export const welfareSchemes: WelfareScheme[] = [
   {
+    id: "taps",
+    name: {
+      en: "Tamil Nadu Assured Pension Scheme (TAPS)",
+      ta: "தமிழ்நாடு உறுதியளிக்கப்பட்ட ஓய்வூதியத் திட்டம் (TAPS)",
+    },
+    description: {
+      en: "New pension scheme providing benefits similar to Old Pension Scheme for government employees and teachers, fulfilling a 20-year demand.",
+      ta: "அரசு ஊழியர்கள் மற்றும் ஆசிரியர்களின் 20 ஆண்டுகால கோரிக்கையை நிறைவேற்றும் புதிய ஓய்வூதியத் திட்டம்.",
+    },
+    launchDate: "January 3, 2026",
+    beneficiaries: {
+      count: "Government employees & teachers",
+      description: {
+        en: "All NPS employees eligible for TAPS benefits",
+        ta: "அனைத்து NPS ஊழியர்களுக்கும் TAPS பலன்கள்",
+      },
+    },
+    budget: {
+      amount: "~₹13,000 crore",
+      year: "2026",
+      details: "Annual pension liability estimate",
+    },
+    eligibility: {
+      en: "NPS employees of Tamil Nadu government",
+      ta: "தமிழ்நாடு அரசின் NPS ஊழியர்கள்",
+    },
+    highlights: [
+      { en: "OPS-like benefits for NPS employees", ta: "NPS ஊழியர்களுக்கு OPS பலன்கள்" },
+      { en: "20-year demand fulfilled", ta: "20 ஆண்டு கோரிக்கை நிறைவேற்றம்" },
+      { en: "Consultation with unions completed", ta: "தொழிற்சங்கங்களுடன் கலந்தாலோசனை முடிந்தது" },
+    ],
+    icon: "💰",
+    sources: [
+      { title: "CMO Twitter", url: "https://fxtwitter.com/CMOTamilnadu/status/2007365976040603740", type: "government" },
+    ],
+  },
+  {
+    id: "north-chennai-development",
+    name: {
+      en: "Chief Minister Urban Housing - North Chennai",
+      ta: "முதலமைச்சர் நகர்ப்புற வீட்டு வசதி - வடசென்னை",
+    },
+    description: {
+      en: "776 apartment units near Ezhilaiyur, Government Stanley Hospital area for roadside/canal-side dwellers, developed by Chennai Metropolitan Development Authority.",
+      ta: "எழிலையூர், அரசு ஸ்டான்லி மருத்துவமனை பகுதியில் சாலையோர/கால்வாய் ஓர குடியிருப்பாளர்களுக்கு 776 குடியிருப்பு அலகுகள், CMDA மூலம் உருவாக்கப்பட்டது.",
+    },
+    launchDate: "January 21, 2026",
+    beneficiaries: {
+      count: "776 families",
+      description: {
+        en: "Housing for roadside/canal-side dwellers",
+        ta: "சாலையோர/கால்வாய் ஓர குடியிருப்பாளர்களுக்கு வீடுகள்",
+      },
+    },
+    budget: {
+      amount: "₹147 crore",
+      details: "Plus ₹31 crore for 144 new units on Waltax Road",
+    },
+    highlights: [
+      { en: "776 apartment units inaugurated", ta: "776 குடியிருப்பு அலகுகள் திறப்பு" },
+      { en: "Modern infrastructure facilities", ta: "நவீன உள்கட்டமைப்பு வசதிகள்" },
+      { en: "Developed by CMDA", ta: "CMDA மூலம் உருவாக்கப்பட்டது" },
+    ],
+    icon: "🏠",
+    sources: [
+      { title: "Daily Thanthi", url: "https://www.dailythanthi.com/news/tamilnadu/mk-stalin-inaugurated-the-776-apartment-units-built-at-a-cost-of-rs-147-crore-1201267", type: "media" },
+    ],
+  },
+  {
     id: "magalir-urimai",
     name: {
       en: "Kalaignar Magalir Urimai Thogai",
@@ -561,6 +630,42 @@ export const welfareSchemes: WelfareScheme[] = [
     sources: [
       { title: "ICDS TN Official", url: "https://icds.tn.gov.in/icdstn/", type: "government" },
       { title: "Anganwadi Centers", url: "https://www.icds.tn.gov.in/icdstn/anganwadi_centers.html", type: "government" },
+    ],
+  },
+  {
+    id: "anbukarangal",
+    name: {
+      en: "Anbu Karangal (Hands of Love)",
+      ta: "அன்பு கரங்கள்",
+    },
+    description: {
+      en: "Financial assistance scheme for orphaned children providing ₹2,000 monthly support until age 18 or school completion. Covers children who lost both parents or have one incapacitated parent.",
+      ta: "18 வயது அல்லது பள்ளி முடிக்கும் வரை மாதம் ₹2,000 உதவி வழங்கும் அனாதை குழந்தைகளுக்கான நிதி உதவித் திட்டம்.",
+    },
+    launchDate: "September 16, 2025",
+    beneficiaries: {
+      count: "6,000 children (Phase 1)",
+      description: {
+        en: "Orphaned and vulnerable children",
+        ta: "அனாதை மற்றும் பாதிக்கப்படக்கூடிய குழந்தைகள்",
+      },
+    },
+    budget: {
+      amount: "₹2,000/month per child",
+      details: "Plus laptops for college students",
+    },
+    eligibility: {
+      en: "Children who lost both parents, or have one deceased and one incapacitated parent",
+      ta: "இருபெற்றோரை இழந்த அல்லது ஒரு பெற்றோர் இறந்து மற்றவர் திறனற்ற குழந்தைகள்",
+    },
+    highlights: [
+      { en: "₹2,000 monthly until age 18", ta: "18 வயது வரை மாதம் ₹2,000" },
+      { en: "College support & laptops for Class 12 graduates", ta: "12ஆம் வகுப்பு முடித்தவர்களுக்கு கல்லூரி ஆதரவு & லேப்டாப்" },
+      { en: "Apply at Ungaludan Stalin camps", ta: "உங்களுடன் ஸ்டாலின் முகாம்களில் விண்ணப்பிக்கவும்" },
+    ],
+    icon: "🤲",
+    sources: [
+      { title: "The News Minute", url: "https://www.thenewsminute.com/tamil-nadu/tamil-nadu-cm-stalin-launches-anbu-karangal-scheme-to-aid-education-of-orphaned-kids", type: "media" },
     ],
   },
 ];

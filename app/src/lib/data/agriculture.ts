@@ -346,6 +346,38 @@ export const agricultureSchemes: AgricultureScheme[] = [
       { title: "Machinery Subsidies Guide", url: "https://krishijagran.com/farm-mechanization/agriculture-machinery-subsidies-documents-required-to-avail-it/", type: "media" },
     ],
   },
+  {
+    id: "athikadavu-avinashi",
+    name: {
+      en: "Athikadavu-Avinashi Scheme",
+      ta: "அத்திக்கடவு-அவினாசி திட்டம்",
+    },
+    description: {
+      en: "Six-decade old dream project diverting 1.5 TMC surplus water from Bhavani River to rejuvenate 1,045 water bodies and irrigate 24,468 acres across Erode, Tiruppur and Coimbatore districts.",
+      ta: "பவானி ஆற்றின் 1.5 TMC உபரி நீரை திருப்பி ஈரோடு, திருப்பூர், கோயம்புத்தூர் மாவட்டங்களில் 1,045 நீர்நிலைகளை புத்துயிர் பெறச்செய்து 24,468 ஏக்கர் நிலத்திற்கு பாசனம் செய்யும் 67 ஆண்டுகால கனவு திட்டம்.",
+    },
+    launchDate: "August 17, 2024",
+    beneficiaries: {
+      count: "24,468 acres",
+      description: {
+        en: "Farmers in Erode, Tiruppur, Coimbatore districts",
+        ta: "ஈரோடு, திருப்பூர், கோயம்புத்தூர் மாவட்ட விவசாயிகள்",
+      },
+    },
+    budget: {
+      amount: "₹1,916.41 crore",
+      details: "67-year-old dream project completed",
+    },
+    highlights: [
+      { en: "1.5 TMC water from Bhavani River", ta: "பவானி ஆற்றிலிருந்து 1.5 TMC நீர்" },
+      { en: "1,045 water bodies rejuvenated", ta: "1,045 நீர்நிலைகள் புத்துயிர்" },
+      { en: "Groundwater recharge for 3 districts", ta: "3 மாவட்டங்களுக்கு நிலத்தடி நீர் நிரப்புதல்" },
+    ],
+    icon: "🌊",
+    sources: [
+      { title: "Deccan Chronicle", url: "https://www.deccanchronicle.com/southern-states/tamil-nadu/tamil-nadu-cm-stalin-launches-athikadavu-avinashi-irrigation-scheme-1817168", type: "media" },
+    ],
+  },
 ];
 
 export const agricultureStats = {

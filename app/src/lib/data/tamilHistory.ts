@@ -28,6 +28,94 @@ export interface HistoryScheme {
 
 export const historySchemes: HistoryScheme[] = [
   {
+    id: "karl-marx-statue",
+    name: {
+      en: "Karl Marx Statue - Connemara Library",
+      ta: "கார்ல் மார்க்ஸ் சிலை - கான்னிமாரா நூலகம்",
+    },
+    description: {
+      en: "Commanding statue of Karl Marx unveiled at Connemara Public Library, Chennai. 'Installing Marx. Uninstalling inequality. Chennai reaffirms red.'",
+      ta: "சென்னை கான்னிமாரா பொது நூலகத்தில் கார்ல் மார்க்ஸ் சிலை திறப்பு.",
+    },
+    launchDate: "February 6, 2026",
+    beneficiaries: {
+      count: "Public monument",
+      description: {
+        en: "Heritage site at Connemara Library",
+        ta: "கான்னிமாரா நூலகத்தில் பாரம்பரிய தளம்",
+      },
+    },
+    highlights: [
+      { en: "Unveiled by CM MK Stalin", ta: "முதலமைச்சர் மு.க.ஸ்டாலின் திறந்து வைத்தார்" },
+      { en: "Located at Connemara Public Library", ta: "கான்னிமாரா பொது நூலகத்தில்" },
+      { en: "First major Marx statue in Chennai", ta: "சென்னையின் முதல் மார்க்ஸ் சிலை" },
+    ],
+    icon: "🗽",
+    sources: [
+      { title: "CM Twitter", url: "https://fxtwitter.com/mkstalin/status/2019653868607664532", type: "government" },
+    ],
+  },
+  {
+    id: "john-marshall-statue",
+    name: {
+      en: "Sir John Marshall Statue - Egmore Museum",
+      ta: "சர் ஜான் மார்ஷல் சிலை - எழும்பூர் அருங்காட்சியகம்",
+    },
+    description: {
+      en: "Statue of Sir John Marshall, former Director-General of ASI who discovered and announced the Indus Valley Civilisation, unveiled at Chennai Egmore Museum Complex on his birth anniversary.",
+      ta: "சிந்துவெளி நாகரிகத்தை கண்டறிந்த ASI முன்னாள் இயக்குநர் சர் ஜான் மார்ஷல் சிலை.",
+    },
+    launchDate: "March 19, 2025",
+    beneficiaries: {
+      count: "Public monument",
+      description: {
+        en: "At Chennai Egmore Museum Complex",
+        ta: "சென்னை எழும்பூர் அருங்காட்சியக வளாகத்தில்",
+      },
+    },
+    highlights: [
+      { en: "Unveiled on Marshall's birth anniversary", ta: "மார்ஷல் பிறந்தநாளில் திறப்பு" },
+      { en: "Discoverer of Indus Valley Civilisation", ta: "சிந்துவெளி நாகரிகத்தின் கண்டுபிடிப்பாளர்" },
+      { en: "100 years since IVC announcement (1924)", ta: "IVC அறிவிப்பின் 100 ஆண்டுகள்" },
+    ],
+    icon: "🏛️",
+    sources: [
+      { title: "CM Twitter", url: "https://fxtwitter.com/mkstalin/status/1902247349856170170", type: "government" },
+    ],
+  },
+  {
+    id: "periyar-library-coimbatore",
+    name: {
+      en: "Periyar Arivulagam (Library & Science Center)",
+      ta: "பெரியார் அறிவாலயம் (நூலகம் & அறிவியல் மையம்)",
+    },
+    description: {
+      en: "Massive 8-floor, 1,98,000 sq ft library and science center in Coimbatore with ₹301 crore investment. Features planetarium, STEM exhibit, auditorium, and 1.2 lakh books.",
+      ta: "கோயம்புத்தூரில் 8 தளங்கள், 1,98,000 சதுர அடி நூலகம் & அறிவியல் மையம், ₹301 கோடி முதலீடு. கோளரங்கம், STEM கண்காட்சி, அரங்கம், 1.2 லட்சம் புத்தகங்கள்.",
+    },
+    launchDate: "Foundation: November 2024, Opening: February 2026",
+    beneficiaries: {
+      count: "Public facility",
+      description: {
+        en: "8-floor facility at Anupparlayam, Coimbatore North",
+        ta: "அனுப்பர்லையம், கோயம்புத்தூர் வடக்கில் 8-தள வசதி",
+      },
+    },
+    budget: {
+      amount: "₹301 crore",
+      details: "Largest public library complex in Tamil Nadu",
+    },
+    highlights: [
+      { en: "8 floors, 1,98,000 sq ft on 6.98 acres", ta: "8 தளங்கள், 1,98,000 சதுர அடி, 6.98 ஏக்கர்" },
+      { en: "Planetarium, STEM exhibit, children's library", ta: "கோளரங்கம், STEM கண்காட்சி, குழந்தைகள் நூலகம்" },
+      { en: "1.2 lakh books capacity", ta: "1.2 லட்சம் புத்தகங்கள் திறன்" },
+    ],
+    icon: "📚",
+    sources: [
+      { title: "Deccan Herald", url: "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-cm-m-k-stalin-lays-foundation-stone-for-rs-300-crore-periyar-library-science-centre-3264388", type: "media" },
+    ],
+  },
+  {
     id: "keezhadi",
     name: {
       en: "Keezhadi Excavations & Museum",
@@ -61,6 +149,38 @@ export const historySchemes: HistoryScheme[] = [
     ],
   },
   {
+    id: "porunai-museum",
+    name: {
+      en: "Porunai Archaeological Museum",
+      ta: "பொருநை தொல்லியல் அருங்காட்சியகம்",
+    },
+    description: {
+      en: "State-of-the-art archaeological museum showcasing Tamil civilization artifacts from Sivagalai, Adichanallur, Thulukkarpatti and Korkai. Features digital technology, immersive displays, and well-curated galleries.",
+      ta: "சிவகலை, ஆதிச்சநல்லூர், துளுக்கர்பட்டி, கொற்கை ஆகிய இடங்களிலிருந்து தமிழ் நாகரிக தொல்பொருட்களை காட்சிப்படுத்தும் நவீன தொல்லியல் அருங்காட்சியகம்.",
+    },
+    launchDate: "December 20, 2025",
+    beneficiaries: {
+      count: "Public facility",
+      description: {
+        en: "13-acre museum complex at Reddiarpatti, Tirunelveli",
+        ta: "திருநெல்வேலி ரெட்டியார்பட்டியில் 13 ஏக்கர் அருங்காட்சியக வளாகம்",
+      },
+    },
+    budget: {
+      amount: "₹62 crore",
+      details: "Preserving Thamiraparani River basin heritage",
+    },
+    highlights: [
+      { en: "Inaugurated by CM MK Stalin", ta: "முதலமைச்சர் மு.க.ஸ்டாலின் திறந்து வைத்தார்" },
+      { en: "13 acres with digital displays", ta: "13 ஏக்கர், டிஜிட்டல் காட்சிகள்" },
+      { en: "Public opening: December 23, 2025", ta: "பொது திறப்பு: டிசம்பர் 23, 2025" },
+    ],
+    icon: "🏛️",
+    sources: [
+      { title: "India Herald", url: "https://www.indiaherald.com/Breaking/Read/994869341/Porunai-Museum-Inaugurated-in-Tirunelveli-at-a-Cost-of-Crore-to-Showcase-the-Ancient-Legacy-of-Tamils-Chief-Minister-M-K-Stalin", type: "media" },
+    ],
+  },
+  {
     id: "porunai",
     name: {
       en: "Porunai (Thamiraparani) Civilization",
@@ -80,17 +200,16 @@ export const historySchemes: HistoryScheme[] = [
     },
     budget: {
       amount: "₹67.25 crore",
-      details: "Porunai Museum",
+      details: "Excavation & research funding",
     },
     highlights: [
-      { en: "Porunai Museum opened Dec 2025", ta: "பொருநை அருங்காட்சியகம் டிச 2025 திறப்பு" },
       { en: "Rice grains dated 1155 BCE (Beta Analytics)", ta: "அரிசி தானியங்கள் கி.மு. 1155 (பீட்டா அனலிட்டிக்ஸ்)" },
       { en: "Silver coins prove ancient commerce", ta: "வெள்ளி நாணயங்கள் பண்டைய வணிகத்தை நிரூபிக்கின்றன" },
+      { en: "3,200 years of Tamil civilization", ta: "3,200 ஆண்டு தமிழ் நாகரிகம்" },
     ],
     icon: "⚱️",
     sources: [
       { title: "TN Archaeology Dept", url: "https://tnarch.gov.in/", type: "government" },
-      { title: "Porunai Museum Progress", url: "https://www.thehindu.com/news/national/tamil-nadu/porunai-museum-in-tirunelveli-will-be-ready-soon-minister/article67634212.ece", type: "media" },
     ],
   },
   {
@@ -319,6 +438,34 @@ export const historySchemes: HistoryScheme[] = [
     sources: [
       { title: "TTDC", url: "https://www.ttdconline.com/", type: "government" },
       { title: "Thiruvalluvar Statue Coating", url: "https://www.newindianexpress.com/states/tamil-nadu/2022/jun/08/chemical-coating-for-thiruvalluvar-statue-begins-2463121.html", type: "media" },
+    ],
+  },
+  {
+    id: "cambridge-companion-periyar",
+    name: {
+      en: "Cambridge Companion to Periyar - Oxford Book Launch",
+      ta: "கேம்பிரிட்ஜ் பெரியார் தொகுப்பு - ஆக்ஸ்போர்டு புத்தக வெளியீடு",
+    },
+    description: {
+      en: "Historic launch of 'The Cambridge Companion to Periyar' at Oxford University, published by Cambridge University Press. Released by CM Stalin at Self-Respect Movement centenary conference.",
+      ta: "கேம்பிரிட்ஜ் பதிப்பகத்தால் வெளியிடப்பட்ட 'The Cambridge Companion to Periyar' புத்தகம் ஆக்ஸ்போர்டு பல்கலைக்கழகத்தில் வரலாற்று சிறப்புமிக்க வெளியீடு.",
+    },
+    launchDate: "September 2025",
+    beneficiaries: {
+      count: "Global academia",
+      description: {
+        en: "Self-Respect Movement centenary celebration at Oxford",
+        ta: "ஆக்ஸ்போர்டில் சுயமரியாதை இயக்கம் நூற்றாண்டு கொண்டாட்டம்",
+      },
+    },
+    highlights: [
+      { en: "Edited by A.R. Venkatachalapathy & Karthick Ram Manoharan", ta: "A.R. வெங்கடாசலபதி & கார்த்திக் ராம் மனோகரன் தொகுப்பு" },
+      { en: "Published by Cambridge University Press", ta: "கேம்பிரிட்ஜ் பதிப்பகம் வெளியீடு" },
+      { en: "Periyar portrait unveiled at Oxford", ta: "ஆக்ஸ்போர்டில் பெரியார் உருவப்படம் திறப்பு" },
+    ],
+    icon: "📖",
+    sources: [
+      { title: "Zee News", url: "https://zeenews.india.com/india/tamil-nadu-cm-stalin-unveils-periyar-portrait-at-oxford-university-says-his-rationalist-light-shines-across-the-world-2955935.html", type: "media" },
     ],
   },
 ];

@@ -379,6 +379,70 @@ export const sportsCultureSchemes: SportsCultureScheme[] = [
       { title: "Thiruppani Works Module", url: "https://www.newindianexpress.com/states/tamil-nadu/2023/apr/18/hrce-dept-launches-thiruppani-works-module-to-monitor-temple-renovation-2566989.html", type: "media" },
     ],
   },
+  {
+    id: "madurai-hockey-stadium",
+    name: {
+      en: "Madurai International Hockey Stadium",
+      ta: "மதுரை சர்வதேச ஹாக்கி அரங்கம்",
+    },
+    description: {
+      en: "International-standard hockey stadium at Race Course sports complex built for Men's Junior Hockey World Cup 2025. Hosted 34 of 72 matches of the 14th FIH Men's Junior Hockey World Cup.",
+      ta: "FIH ஆண்கள் ஜூனியர் ஹாக்கி உலகக் கோப்பை 2025க்காக கட்டப்பட்ட ரேஸ் கோர்ஸ் விளையாட்டு வளாகத்தில் உள்ள சர்வதேச தர ஹாக்கி அரங்கம்.",
+    },
+    launchDate: "November 2025",
+    beneficiaries: {
+      count: "1,756 spectators",
+      description: {
+        en: "International hockey events",
+        ta: "சர்வதேச ஹாக்கி நிகழ்வுகள்",
+      },
+    },
+    budget: {
+      amount: "₹20 crore",
+      details: "International-standard facility",
+    },
+    highlights: [
+      { en: "Inaugurated by Dy CM Udhayanidhi Stalin", ta: "துணை முதல்வர் உதயநிதி ஸ்டாலின் திறந்து வைத்தார்" },
+      { en: "Hosted 34 matches of Junior World Cup", ta: "ஜூனியர் உலகக் கோப்பையின் 34 போட்டிகள் நடத்தப்பட்டன" },
+      { en: "Modern grandstands & player facilities", ta: "நவீன மேடைகள் & வீரர் வசதிகள்" },
+    ],
+    icon: "🏒",
+    sources: [
+      { title: "Kalaignar Seithigal", url: "https://www.kalaignarseithigal.com/tamilnadu/2025/03/04/chief-ministers-mini-stadium-deputy-chief-minister-udhayanidhi-stalin-inaugurated", type: "media" },
+    ],
+  },
+  {
+    id: "coimbatore-hockey-stadium",
+    name: {
+      en: "Coimbatore International Hockey Stadium",
+      ta: "கோயம்புத்தூர் சர்வதேச ஹாக்கி அரங்கம்",
+    },
+    description: {
+      en: "International-standard hockey stadium in Coimbatore with 6,500 sq meter artificial turf meeting international standards. Part of Men's Junior Hockey World Cup 2025 infrastructure.",
+      ta: "சர்வதேச தரத்தை பூர்த்தி செய்யும் 6,500 சதுர மீட்டர் செயற்கை புல்வெளியுடன் கோயம்புத்தூரில் சர்வதேச தர ஹாக்கி அரங்கம்.",
+    },
+    launchDate: "December 2025",
+    beneficiaries: {
+      count: "Sports infrastructure",
+      description: {
+        en: "Western Tamil Nadu hockey hub",
+        ta: "மேற்கு தமிழ்நாடு ஹாக்கி மையம்",
+      },
+    },
+    budget: {
+      amount: "₹9.67 crore",
+      details: "International-standard artificial turf",
+    },
+    highlights: [
+      { en: "Inaugurated by Dy CM Udhayanidhi Stalin", ta: "துணை முதல்வர் உதயநிதி ஸ்டாலின் திறந்து வைத்தார்" },
+      { en: "6,500 sq m artificial turf", ta: "6,500 சதுர மீட்டர் செயற்கை புல்வெளி" },
+      { en: "International standards compliance", ta: "சர்வதேச தர இணக்கம்" },
+    ],
+    icon: "🏒",
+    sources: [
+      { title: "News Today", url: "https://newstodaynet.com/2025/12/30/udhayanidhi-inaugurates-hockey-stadium-in-kovai/", type: "media" },
+    ],
+  },
 ];
 
 export const sportsCultureStats = {
