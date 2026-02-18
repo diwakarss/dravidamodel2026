@@ -2,28 +2,18 @@
 // Data loaded from tamilHistory.json
 
 import tamilHistoryData from "@/data/tamilHistory.json";
+import type { SchemeSource, BilingualText, SchemeBeneficiaries, SchemeBudget } from "@/lib/types/scheme";
 
-export interface SchemeSource {
-  title: string;
-  url: string;
-  type?: "government" | "media" | "other";
-}
+export type { SchemeSource };
 
 export interface HistoryScheme {
   id: string;
-  name: { en: string; ta: string };
-  description: { en: string; ta: string };
+  name: BilingualText;
+  description: BilingualText;
   launchDate?: string;
-  beneficiaries: {
-    count: string;
-    description: { en: string; ta: string };
-  };
-  budget?: {
-    amount: string;
-    year?: string;
-    details?: string;
-  };
-  highlights?: { en: string; ta: string }[];
+  beneficiaries: SchemeBeneficiaries;
+  budget?: SchemeBudget;
+  highlights?: BilingualText[];
   icon: string;
   sources?: SchemeSource[];
 }

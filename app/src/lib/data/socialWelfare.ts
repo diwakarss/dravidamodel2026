@@ -2,29 +2,19 @@
 // Data loaded from socialWelfare.json
 
 import socialWelfareData from "@/data/socialWelfare.json";
+import type { SchemeSource, BilingualText, SchemeBeneficiaries, SchemeBudget } from "@/lib/types/scheme";
 
-export interface SchemeSource {
-  title: string;
-  url: string;
-  type?: "government" | "media" | "other";
-}
+export type { SchemeSource };
 
 export interface WelfareScheme {
   id: string;
-  name: { en: string; ta: string };
-  description: { en: string; ta: string };
+  name: BilingualText;
+  description: BilingualText;
   launchDate?: string;
-  beneficiaries: {
-    count: string;
-    description: { en: string; ta: string };
-  };
-  budget: {
-    amount: string;
-    year?: string;
-    details?: string;
-  };
-  eligibility?: { en: string; ta: string };
-  highlights?: { en: string; ta: string }[];
+  beneficiaries: SchemeBeneficiaries;
+  budget: SchemeBudget;
+  eligibility?: BilingualText;
+  highlights?: BilingualText[];
   icon: string;
   sources?: SchemeSource[];
 }

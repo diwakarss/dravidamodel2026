@@ -2,29 +2,19 @@
 // Data loaded from healthcare.json
 
 import healthcareData from "@/data/healthcare.json";
+import type { SchemeSource, BilingualText, SchemeBeneficiaries, SchemeBudget } from "@/lib/types/scheme";
 
-export interface SchemeSource {
-  title: string;
-  url: string;
-  type?: "government" | "media" | "other";
-}
+export type { SchemeSource };
 
 export interface HealthcareScheme {
   id: string;
-  name: { en: string; ta: string };
-  description: { en: string; ta: string };
+  name: BilingualText;
+  description: BilingualText;
   launchYear?: string;
-  beneficiaries: {
-    count: string;
-    description: { en: string; ta: string };
-  };
-  budget?: {
-    amount: string;
-    year?: string;
-    details?: string;
-  };
+  beneficiaries: SchemeBeneficiaries;
+  budget?: SchemeBudget;
   coverage: string;
-  highlights?: { en: string; ta: string }[];
+  highlights?: BilingualText[];
   icon: string;
   sources?: SchemeSource[];
 }

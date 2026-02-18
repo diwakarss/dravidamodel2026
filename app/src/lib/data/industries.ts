@@ -2,12 +2,7 @@
 // Data loaded from industries.json
 
 import industriesData from "@/data/industries.json";
-
-export interface SchemeSource {
-  title: string;
-  url: string;
-  type?: "government" | "media" | "other";
-}
+import type { BilingualText } from "@/lib/types/scheme";
 
 export interface IndustrialPark {
   id: string;
@@ -28,7 +23,7 @@ export interface IndustrialPark {
 
 export interface SectorData {
   id: string;
-  name: { en: string; ta: string };
+  name: BilingualText;
   status: string;
   keyData: string;
   majorInvestors: string[];
