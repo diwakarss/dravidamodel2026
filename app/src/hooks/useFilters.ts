@@ -106,12 +106,11 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
         return false;
       }
       // SubType filter: if subTypes selected, project must match one of them
-      if (
-        filters.subTypes.length > 0 &&
-        project.subType &&
-        !filters.subTypes.includes(project.subType)
-      ) {
-        return false;
+      // Projects without subType are excluded when subType filters are active
+      if (filters.subTypes.length > 0) {
+        if (!project.subType || !filters.subTypes.includes(project.subType)) {
+          return false;
+        }
       }
       return true;
     });
