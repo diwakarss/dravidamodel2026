@@ -1,0 +1,337 @@
+[
+  {
+    "url": "https://www.business-standard.com/opinion/columns/india-must-safeguard-its-export-oriented-industries-and-emerge-stronger-125083000019_1.html",
+    "urlHash": "a5a0da437344",
+    "domain": "business-standard.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1961655120774525182",
+        "handle": "mkstalin",
+        "date": "Sat Aug 30"
+      },
+      {
+        "tweetId": "1962054139179119089",
+        "handle": "mkstalin",
+        "date": "Sat Aug 30"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indiatoday.in/conclave-south/2025",
+    "urlHash": "7145a49a1bda",
+    "domain": "indiatoday.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1965299891766485460",
+        "handle": "IndiaToday",
+        "date": "Mon Sep 08"
+      },
+      {
+        "tweetId": "1966166329729417343",
+        "handle": "IndiaToday",
+        "date": "Mon Sep 08"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/india/chennai-arterial-anna-salai-road-near-gemini-flyover-caves-in-no-casualty-reported-4606313/",
+    "urlHash": "07d710a669a7",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1983469426893844848",
+        "handle": "youturn_in",
+        "date": "Wed Oct 29"
+      },
+      {
+        "tweetId": "1983533624604688725",
+        "handle": "youturn_in",
+        "date": "Wed Oct 29"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://archive.fo/GnRoO",
+    "urlHash": "276089a2674f",
+    "domain": "archive.fo",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1983469426893844848",
+        "handle": "youturn_in",
+        "date": "Wed Oct 29"
+      },
+      {
+        "tweetId": "1983533624604688725",
+        "handle": "youturn_in",
+        "date": "Wed Oct 29"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.dmk.in/ta/resources/bda-list/",
+    "urlHash": "2033bb50bf67",
+    "domain": "dmk.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1987762701817597953",
+        "handle": "OfficeOfTRBR",
+        "date": "Mon Nov 10"
+      },
+      {
+        "tweetId": "1987844255814173019",
+        "handle": "DMKITwing",
+        "date": "Mon Nov 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://erolls.tn.gov.in/electoralsearch/",
+    "urlHash": "d2989378e992",
+    "domain": "erolls.tn.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1989186005723942952",
+        "handle": "TRBRajaa",
+        "date": "Fri Nov 14"
+      },
+      {
+        "tweetId": "1989533879515091217",
+        "handle": "VigneshAnand_Vm",
+        "date": "Fri Nov 14"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://frontline.thehindu.com/news/tamil-nadu-anti-harassment-law-women-safety-measures/article70384468.ece",
+    "urlHash": "a90dff1a4b6f",
+    "domain": "frontline.thehindu.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1999670817110835221",
+        "handle": "SriramMadras",
+        "date": "Fri Dec 12"
+      },
+      {
+        "tweetId": "1999673417075961983",
+        "handle": "TRBRajaa",
+        "date": "Sat Dec 13"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://theprint.in/economy/south-rising-west-slipping-indias-export-map-is-being-redrawn-shows-rbi-data/2804850/",
+    "urlHash": "e7de0d4554f3",
+    "domain": "theprint.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "2000199119722172522",
+        "handle": "ShekharGupta",
+        "date": "Sat Dec 13"
+      },
+      {
+        "tweetId": "2000200806600196109",
+        "handle": "TnInvestment",
+        "date": "Sun Dec 14"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://itw2026.com",
+    "urlHash": "0174a1cee109",
+    "domain": "itw2026.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "2001950225683055059",
+        "handle": "TRBRajaa",
+        "date": "Fri Dec 19"
+      },
+      {
+        "tweetId": "2004456429508612368",
+        "handle": "DMKITwing",
+        "date": "Fri Dec 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://tnmanifesto.ai",
+    "urlHash": "2f1e570ac7c8",
+    "domain": "tnmanifesto.ai",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "2007401762152644986",
+        "handle": "mkstalin",
+        "date": "Sat Jan 03"
+      },
+      {
+        "tweetId": "2007708589440545007",
+        "handle": "sureshsambandam",
+        "date": "Sun Jan 04"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-debt-sustainability-a-deep-dive-into-fiscal-health-and-growth/articleshow/126808798.cms",
+    "urlHash": "6fbd965d4296",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "2013820911644729606",
+        "handle": "dharanisalem",
+        "date": "Wed Jan 21"
+      },
+      {
+        "tweetId": "2013820962051891689",
+        "handle": "dharanisalem",
+        "date": "Wed Jan 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://simplicity.in/coimbatore/english/news/122716/dmk-achieves-monumental-victory-in-coimbatore-after-28-years",
+    "urlHash": "9e76cbe16db4",
+    "domain": "simplicity.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1798207586036269303",
+        "handle": "simplicitycbe",
+        "date": "Wed Jun 05"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://m.thewire.in/article/government/in-140-ls-seats-more-evm-votes-were-counted-than-evm-votes-polled-whats-going-on",
+    "urlHash": "7f296e62d0e5",
+    "domain": "m.thewire.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1800594694583550138",
+        "handle": "GunasekaranMu",
+        "date": "Tue Jun 11"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://tamil.abplive.com/news/thanjavur/the-daughter-of-a-sweeper-in-mannargudi-has-become-a-municipal-commissioner-after-passing-the-tnpsc-exam-188650",
+    "urlHash": "b0e5e93af3a9",
+    "domain": "tamil.abplive.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1802669363688050805",
+        "handle": "SRajaJourno",
+        "date": "Mon Jun 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://thestatesman.com/opinion/stalins-triumph-1503310273.html",
+    "urlHash": "90dda0edc905",
+    "domain": "thestatesman.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1802680539734024495",
+        "handle": "DMKITwing",
+        "date": "Mon Jun 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s10654-019-00524-3",
+    "urlHash": "797e25019e14",
+    "domain": "link.springer.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1802746771271291191",
+        "handle": "theliverdoc",
+        "date": "Mon Jun 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12204390/",
+    "urlHash": "12dfd11068db",
+    "domain": "pubmed.ncbi.nlm.nih.gov",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1802746771271291191",
+        "handle": "theliverdoc",
+        "date": "Mon Jun 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967721/",
+    "urlHash": "9b1fc2241391",
+    "domain": "ncbi.nlm.nih.gov",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1802746771271291191",
+        "handle": "theliverdoc",
+        "date": "Mon Jun 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37447390/",
+    "urlHash": "0b37941628f6",
+    "domain": "pubmed.ncbi.nlm.nih.gov",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1802746771271291191",
+        "handle": "theliverdoc",
+        "date": "Mon Jun 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31055709/",
+    "urlHash": "9d780ac0f497",
+    "domain": "pubmed.ncbi.nlm.nih.gov",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1802746771271291191",
+        "handle": "theliverdoc",
+        "date": "Mon Jun 17"
+      }
+    ],
+    "status": "pending"
+  }
+]

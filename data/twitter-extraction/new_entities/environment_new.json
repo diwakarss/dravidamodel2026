@@ -1,0 +1,86 @@
+{
+  "category": "environment",
+  "generatedAt": "2026-02-17T18:46:51.607810+00:00",
+  "existingItemsCount": 70,
+  "newCandidatesCount": 2,
+  "candidates": [
+    {
+      "name": "Friendly Solid",
+      "type": "waste",
+      "confidence": 0.75,
+      "mentions": 3,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2026-01-12",
+      "last_mention": "2026-01-12",
+      "sample_matches": [
+        "friendly solid waste management"
+      ],
+      "sources": [
+        {
+          "date": "2026-01-12",
+          "handle": "mkstalin",
+          "tweetId": "2010655159282774414",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2010655159282774414",
+          "eventType": "milestone",
+          "text": "Thank you, Thiru. @AnandMahindra.\n\nThe @ChennaiCorp has cleared nearly 50 lakh metric tonnes of legacy waste out of a total of 90 lakh metric tonnes through the bio mining process. \n\nThe remaining waste is targeted to be cleared by February 2027. We are currently implementing scientific and environm"
+        },
+        {
+          "date": "2026-01-12",
+          "handle": "mkstalin",
+          "tweetId": "2010656048680673775",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2010656048680673775",
+          "eventType": "milestone",
+          "text": "Thank you, Thiru. @AnandMahindra.\n\nThe @ChennaiCorp has cleared nearly 50 lakh metric tonnes of legacy waste out of a total of 90 lakh metric tonnes through the bio mining process. \n\nThe remaining waste is targeted to be cleared by February 2027. We are currently implementing scientific and environm"
+        },
+        {
+          "date": "2026-01-12",
+          "handle": "mkstalin",
+          "tweetId": "2010676718818996379",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2010676718818996379",
+          "eventType": "milestone",
+          "text": "Thank you, Thiru. @AnandMahindra.\n\nThe @ChennaiCorp has cleared nearly 50 lakh metric tonnes of legacy waste out of a total of 90 lakh metric tonnes through the bio mining process. \n\nThe remaining waste is targeted to be cleared by February 2027. We are currently implementing scientific and environm"
+        }
+      ]
+    },
+    {
+      "name": "Navalur Lake",
+      "type": "eco_park",
+      "confidence": 0.95,
+      "mentions": 2,
+      "locations": [],
+      "investment_crore": 60.0,
+      "jobs": null,
+      "accounts": [
+        "TRBRajaa"
+      ],
+      "first_mention": "2026-02-03",
+      "last_mention": "2026-02-03",
+      "sample_matches": [
+        "navalur lake eco park"
+      ],
+      "sources": [
+        {
+          "date": "2026-02-03",
+          "handle": "TRBRajaa",
+          "tweetId": "2018533582860656722",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2018533582860656722",
+          "eventType": "inauguration",
+          "text": "From Code to Conservation♥️\n\nYesterday, our Honourable ChiefMinister Thiru @mkstalin avl innaugurated the Sipcot Navalur Lake Eco Park ! \n\n@TN_SIPCOT has Rejuvenated Navalur Lake sprawling over an extent of 33.43 acres, at a cost of Rs.30 crore by de-silting the lake, strengthening the bunds, formin"
+        },
+        {
+          "date": "2026-02-03",
+          "handle": "TRBRajaa",
+          "tweetId": "2018533582860656722",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2018533582860656722",
+          "eventType": "inauguration",
+          "text": "From Code to Conservation♥️\n\nYesterday, our Honourable ChiefMinister Thiru @mkstalin avl innaugurated the Sipcot Navalur Lake Eco Park ! \n\n@TN_SIPCOT has Rejuvenated Navalur Lake sprawling over an extent of 33.43 acres, at a cost of Rs.30 crore by de-silting the lake, strengthening the bunds, formin"
+        }
+      ]
+    }
+  ]
+}

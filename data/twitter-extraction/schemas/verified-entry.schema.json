@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Verified Entry",
+  "description": "Schema for verified and classified tweet entry (Wave 3)",
+  "type": "object",
+  "required": ["entryId", "sourceHandle", "sourceTweetId", "date", "category"],
+  "properties": {
+    "entryId": {
+      "type": "string",
+      "description": "Unique ID for this entry: {handle}-{tweetId}"
+    },
+    "sourceHandle": {
+      "type": "string"
+    },
+    "sourceTweetId": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "tweetText": {
+      "type": "string"
+    },
+    "fxUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "category": {
+      "enum": [
+        "infrastructure",
+        "industries",
+        "education",
+        "healthcare",
+        "employment",
+        "agriculture",
+        "environment",
+        "social-welfare",
+        "sports-culture",
+        "tamil-history",
+        "uncategorized"
+      ]
+    },
+    "subCategory": {
+      "type": "string",
+      "description": "e.g., 'Metro & Rail' for infrastructure, 'Electronics' for industries"
+    },
+    "eventType": {
+      "enum": [
+        "mou_signed",
+        "ground_breaking",
+        "inauguration",
+        "progress_update",
+        "expansion",
+        "production_start",
+        "scheme_launch",
+        "beneficiary_update",
+        "policy_announcement",
+        "milestone",
+        "other"
+      ]
+    },
+    "extractedEntity": {
+      "type": "object",
+      "description": "The project/scheme/company being referenced",
+      "properties": {
+        "name": { "type": "string" },
+        "nameNormalized": {
+          "type": "string",
+          "description": "Lowercase, no special chars, for matching"
+        },
+        "type": {
+          "enum": ["project", "scheme", "company", "investment", "other"]
+        },
+        "company": { "type": "string" },
+        "location": {
+          "type": "object",
+          "properties": {
+            "district": { "type": "string" },
+            "city": { "type": "string" }
+          }
+        }
+      }
+    },
+    "extractedNumbers": {
+      "type": "object",
+      "properties": {
+        "investmentCrore": { "type": "number" },
+        "jobsCreated": { "type": "integer" },
+        "beneficiaries": { "type": "integer" },
+        "budgetCrore": { "type": "number" },
+        "capacity": { "type": "string" },
+        "area": { "type": "string" }
+      }
+    },
+    "enrichedLinks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "urlHash": { "type": "string" },
+          "title": { "type": "string" },
+          "domain": { "type": "string" }
+        }
+      }
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Classification confidence score"
+    },
+    "verificationNotes": {
+      "type": "string",
+      "description": "Notes from verification worker"
+    },
+    "flags": {
+      "type": "array",
+      "items": {
+        "enum": ["needs_review", "low_confidence", "duplicate_suspected", "missing_data"]
+      }
+    }
+  }
+}

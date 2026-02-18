@@ -1,0 +1,1544 @@
+Loading handle mappings...
+  CMOTamilnadu: 9504 IDs
+  mkstalin: 4663 IDs
+  TRBRajaa: 20441 IDs
+
+Processing batches 5 to 692 (688 batches)
+
+Batch 5 (50 tweets)... 47 fetched, 3 404s, 0 errors
+
+Batch 6 (50 tweets)... 47 fetched, 6 404s, 0 errors
+
+Batch 7 (50 tweets)... 45 fetched, 11 404s, 0 errors
+
+Batch 8 (50 tweets)... 49 fetched, 12 404s, 0 errors
+
+Batch 9 (50 tweets)... 43 fetched, 19 404s, 0 errors
+
+Batch 10 (50 tweets)... 48 fetched, 21 404s, 0 errors
+
+Batch 11 (50 tweets)... 50 fetched, 21 404s, 0 errors
+
+Batch 12 (50 tweets)... 47 fetched, 24 404s, 0 errors
+
+Batch 13 (50 tweets)... 47 fetched, 27 404s, 0 errors
+
+Batch 14 (50 tweets)... 48 fetched, 29 404s, 0 errors
+  [Saved progress: 471 tweets]
+
+Batch 15 (50 tweets)... 46 fetched, 33 404s, 0 errors
+
+Batch 16 (50 tweets)... 46 fetched, 37 404s, 0 errors
+
+Batch 17 (50 tweets)... 50 fetched, 37 404s, 0 errors
+
+Batch 18 (50 tweets)... 47 fetched, 40 404s, 0 errors
+
+Batch 19 (50 tweets)... 50 fetched, 40 404s, 0 errors
+
+Batch 20 (50 tweets)... 47 fetched, 42 404s, 1 errors
+
+Batch 21 (50 tweets)... 49 fetched, 43 404s, 1 errors
+
+Batch 22 (50 tweets)... 48 fetched, 45 404s, 1 errors
+
+Batch 23 (50 tweets)... 47 fetched, 48 404s, 1 errors
+
+Batch 24 (50 tweets)... 45 fetched, 53 404s, 1 errors
+  [Saved progress: 946 tweets]
+
+Batch 25 (50 tweets)... 48 fetched, 55 404s, 1 errors
+
+Batch 26 (50 tweets)... 45 fetched, 60 404s, 1 errors
+
+Batch 27 (50 tweets)... 48 fetched, 62 404s, 1 errors
+
+Batch 28 (50 tweets)... 49 fetched, 63 404s, 1 errors
+
+Batch 29 (50 tweets)... 49 fetched, 64 404s, 1 errors
+
+Batch 30 (50 tweets)... 47 fetched, 67 404s, 1 errors
+
+Batch 31 (50 tweets)... 46 fetched, 71 404s, 1 errors
+
+Batch 32 (50 tweets)... 49 fetched, 72 404s, 1 errors
+
+Batch 33 (50 tweets)... 50 fetched, 72 404s, 1 errors
+
+Batch 34 (50 tweets)... 47 fetched, 75 404s, 1 errors
+  [Saved progress: 1424 tweets]
+
+Batch 35 (50 tweets)... 44 fetched, 81 404s, 1 errors
+
+Batch 36 (50 tweets)... 49 fetched, 82 404s, 1 errors
+
+Batch 37 (50 tweets)... 49 fetched, 83 404s, 1 errors
+
+Batch 38 (50 tweets)... 46 fetched, 87 404s, 1 errors
+
+Batch 39 (50 tweets)... 47 fetched, 90 404s, 1 errors
+
+Batch 40 (50 tweets)... 45 fetched, 95 404s, 1 errors
+
+Batch 41 (50 tweets)... 49 fetched, 96 404s, 1 errors
+
+Batch 42 (50 tweets)... 46 fetched, 100 404s, 1 errors
+
+Batch 43 (50 tweets)... 49 fetched, 101 404s, 1 errors
+
+Batch 44 (50 tweets)... 43 fetched, 108 404s, 1 errors
+  [Saved progress: 1891 tweets]
+
+Batch 45 (50 tweets)... 50 fetched, 108 404s, 1 errors
+
+Batch 46 (50 tweets)... 46 fetched, 112 404s, 1 errors
+
+Batch 47 (50 tweets)... 47 fetched, 115 404s, 1 errors
+
+Batch 48 (50 tweets)... 48 fetched, 117 404s, 1 errors
+
+Batch 49 (50 tweets)... 49 fetched, 118 404s, 1 errors
+
+Batch 50 (50 tweets)... 49 fetched, 119 404s, 1 errors
+
+Batch 51 (50 tweets)... 44 fetched, 125 404s, 1 errors
+
+Batch 52 (50 tweets)... 50 fetched, 125 404s, 1 errors
+
+Batch 53 (50 tweets)... 49 fetched, 126 404s, 1 errors
+
+Batch 54 (50 tweets)... 49 fetched, 127 404s, 1 errors
+  [Saved progress: 2372 tweets]
+
+Batch 55 (50 tweets)... 50 fetched, 127 404s, 1 errors
+
+Batch 56 (50 tweets)... 49 fetched, 128 404s, 1 errors
+
+Batch 57 (50 tweets)... 48 fetched, 130 404s, 1 errors
+
+Batch 58 (50 tweets)... 50 fetched, 130 404s, 1 errors
+
+Batch 59 (50 tweets)... 48 fetched, 132 404s, 1 errors
+
+Batch 60 (50 tweets)... 47 fetched, 135 404s, 1 errors
+
+Batch 61 (50 tweets)... 47 fetched, 138 404s, 1 errors
+
+Batch 62 (50 tweets)... 50 fetched, 138 404s, 1 errors
+
+Batch 63 (50 tweets)... 47 fetched, 141 404s, 1 errors
+
+Batch 64 (50 tweets)... 48 fetched, 143 404s, 1 errors
+  [Saved progress: 2856 tweets]
+
+Batch 65 (50 tweets)... 50 fetched, 143 404s, 1 errors
+
+Batch 66 (50 tweets)... 49 fetched, 144 404s, 1 errors
+
+Batch 67 (50 tweets)... 47 fetched, 147 404s, 1 errors
+
+Batch 68 (50 tweets)... 46 fetched, 151 404s, 1 errors
+
+Batch 69 (50 tweets)... 50 fetched, 151 404s, 1 errors
+
+Batch 70 (50 tweets)... 50 fetched, 151 404s, 1 errors
+
+Batch 71 (50 tweets)... 49 fetched, 152 404s, 1 errors
+
+Batch 72 (50 tweets)... 50 fetched, 152 404s, 1 errors
+
+Batch 73 (50 tweets)... 50 fetched, 152 404s, 1 errors
+
+Batch 74 (50 tweets)... 50 fetched, 152 404s, 1 errors
+  [Saved progress: 3347 tweets]
+
+Batch 75 (50 tweets)... 50 fetched, 152 404s, 1 errors
+
+Batch 76 (50 tweets)... 48 fetched, 154 404s, 1 errors
+
+Batch 77 (50 tweets)... 49 fetched, 155 404s, 1 errors
+
+Batch 78 (50 tweets)... 47 fetched, 158 404s, 1 errors
+
+Batch 79 (50 tweets)... 49 fetched, 159 404s, 1 errors
+
+Batch 80 (50 tweets)... 47 fetched, 162 404s, 1 errors
+
+Batch 81 (50 tweets)... 50 fetched, 162 404s, 1 errors
+
+Batch 82 (50 tweets)... 48 fetched, 164 404s, 1 errors
+
+Batch 83 (50 tweets)... 47 fetched, 167 404s, 1 errors
+
+Batch 84 (50 tweets)... 46 fetched, 171 404s, 1 errors
+  [Saved progress: 3828 tweets]
+
+Batch 85 (50 tweets)... 50 fetched, 171 404s, 1 errors
+
+Batch 86 (50 tweets)... 50 fetched, 171 404s, 1 errors
+
+Batch 87 (50 tweets)... 48 fetched, 173 404s, 1 errors
+
+Batch 88 (50 tweets)... 48 fetched, 175 404s, 1 errors
+
+Batch 89 (50 tweets)... 48 fetched, 177 404s, 1 errors
+
+Batch 90 (50 tweets)... 48 fetched, 179 404s, 1 errors
+
+Batch 91 (50 tweets)... 47 fetched, 182 404s, 1 errors
+
+Batch 92 (50 tweets)... 48 fetched, 184 404s, 1 errors
+
+Batch 93 (50 tweets)... 45 fetched, 189 404s, 1 errors
+
+Batch 94 (50 tweets)... 47 fetched, 192 404s, 1 errors
+  [Saved progress: 4307 tweets]
+
+Batch 95 (50 tweets)... 47 fetched, 194 404s, 2 errors
+
+Batch 96 (50 tweets)... 46 fetched, 198 404s, 2 errors
+
+Batch 97 (50 tweets)... 47 fetched, 201 404s, 2 errors
+
+Batch 98 (50 tweets)... 49 fetched, 202 404s, 2 errors
+
+Batch 99 (50 tweets)... 47 fetched, 205 404s, 2 errors
+
+Batch 100 (50 tweets)... 48 fetched, 207 404s, 2 errors
+
+Batch 101 (50 tweets)... 46 fetched, 211 404s, 2 errors
+
+Batch 102 (50 tweets)... 47 fetched, 214 404s, 2 errors
+
+Batch 103 (50 tweets)... 49 fetched, 215 404s, 2 errors
+
+Batch 104 (50 tweets)... 49 fetched, 216 404s, 2 errors
+  [Saved progress: 4782 tweets]
+
+Batch 105 (50 tweets)... 46 fetched, 219 404s, 3 errors
+
+Batch 106 (50 tweets)... 50 fetched, 219 404s, 3 errors
+
+Batch 107 (50 tweets)... 48 fetched, 221 404s, 3 errors
+
+Batch 108 (50 tweets)... 48 fetched, 222 404s, 4 errors
+
+Batch 109 (50 tweets)... 50 fetched, 222 404s, 4 errors
+
+Batch 110 (50 tweets)... 49 fetched, 222 404s, 5 errors
+
+Batch 111 (50 tweets)... 41 fetched, 231 404s, 5 errors
+
+Batch 112 (50 tweets)... 50 fetched, 231 404s, 5 errors
+
+Batch 113 (50 tweets)... 47 fetched, 234 404s, 5 errors
+
+Batch 114 (50 tweets)... 46 fetched, 238 404s, 5 errors
+  [Saved progress: 5257 tweets]
+
+Batch 115 (50 tweets)... 49 fetched, 239 404s, 5 errors
+
+Batch 116 (50 tweets)... 47 fetched, 242 404s, 5 errors
+
+Batch 117 (50 tweets)... 46 fetched, 246 404s, 5 errors
+
+Batch 118 (50 tweets)... 47 fetched, 249 404s, 5 errors
+
+Batch 119 (50 tweets)... 50 fetched, 249 404s, 5 errors
+
+Batch 120 (50 tweets)... 46 fetched, 253 404s, 5 errors
+
+Batch 121 (50 tweets)... 45 fetched, 258 404s, 5 errors
+
+Batch 122 (50 tweets)... 47 fetched, 261 404s, 5 errors
+
+Batch 123 (50 tweets)... 45 fetched, 266 404s, 5 errors
+
+Batch 124 (50 tweets)... 50 fetched, 266 404s, 5 errors
+  [Saved progress: 5729 tweets]
+
+Batch 125 (50 tweets)... 48 fetched, 268 404s, 5 errors
+
+Batch 126 (50 tweets)... 50 fetched, 268 404s, 5 errors
+
+Batch 127 (50 tweets)... 49 fetched, 269 404s, 5 errors
+
+Batch 128 (50 tweets)... 48 fetched, 270 404s, 6 errors
+
+Batch 129 (50 tweets)... 50 fetched, 270 404s, 6 errors
+
+Batch 130 (50 tweets)... 50 fetched, 270 404s, 6 errors
+
+Batch 131 (50 tweets)... 50 fetched, 270 404s, 6 errors
+
+Batch 132 (50 tweets)... 45 fetched, 275 404s, 6 errors
+
+Batch 133 (50 tweets)... 47 fetched, 278 404s, 6 errors
+
+Batch 134 (50 tweets)... 47 fetched, 281 404s, 6 errors
+  [Saved progress: 6213 tweets]
+
+Batch 135 (50 tweets)... 50 fetched, 281 404s, 6 errors
+
+Batch 136 (50 tweets)... 46 fetched, 285 404s, 6 errors
+
+Batch 137 (50 tweets)... 47 fetched, 288 404s, 6 errors
+
+Batch 138 (50 tweets)... 49 fetched, 289 404s, 6 errors
+
+Batch 139 (50 tweets)... 50 fetched, 289 404s, 6 errors
+
+Batch 140 (50 tweets)... 47 fetched, 292 404s, 6 errors
+
+Batch 141 (50 tweets)... 49 fetched, 293 404s, 6 errors
+
+Batch 142 (50 tweets)... 49 fetched, 294 404s, 6 errors
+
+Batch 143 (50 tweets)... 48 fetched, 296 404s, 6 errors
+
+Batch 144 (50 tweets)... 49 fetched, 297 404s, 6 errors
+  [Saved progress: 6697 tweets]
+
+Batch 145 (50 tweets)... 47 fetched, 300 404s, 6 errors
+
+Batch 146 (50 tweets)... 46 fetched, 303 404s, 7 errors
+
+Batch 147 (50 tweets)... 49 fetched, 304 404s, 7 errors
+
+Batch 148 (50 tweets)... 47 fetched, 307 404s, 7 errors
+
+Batch 149 (50 tweets)... 47 fetched, 310 404s, 7 errors
+
+Batch 150 (50 tweets)... 48 fetched, 311 404s, 8 errors
+
+Batch 151 (50 tweets)... 50 fetched, 311 404s, 8 errors
+
+Batch 152 (50 tweets)... 47 fetched, 314 404s, 8 errors
+
+Batch 153 (50 tweets)... 48 fetched, 316 404s, 8 errors
+
+Batch 154 (50 tweets)... 48 fetched, 318 404s, 8 errors
+  [Saved progress: 7174 tweets]
+
+Batch 155 (50 tweets)... 48 fetched, 320 404s, 8 errors
+
+Batch 156 (50 tweets)... 50 fetched, 320 404s, 8 errors
+
+Batch 157 (50 tweets)... 48 fetched, 322 404s, 8 errors
+
+Batch 158 (50 tweets)... 47 fetched, 325 404s, 8 errors
+
+Batch 159 (50 tweets)... 49 fetched, 326 404s, 8 errors
+
+Batch 160 (50 tweets)... 49 fetched, 327 404s, 8 errors
+
+Batch 161 (50 tweets)... 47 fetched, 330 404s, 8 errors
+
+Batch 162 (50 tweets)... 46 fetched, 334 404s, 8 errors
+
+Batch 163 (50 tweets)... 50 fetched, 334 404s, 8 errors
+
+Batch 164 (50 tweets)... 45 fetched, 339 404s, 8 errors
+  [Saved progress: 7653 tweets]
+
+Batch 165 (50 tweets)... 50 fetched, 339 404s, 8 errors
+
+Batch 166 (50 tweets)... 48 fetched, 340 404s, 9 errors
+
+Batch 167 (50 tweets)... 49 fetched, 341 404s, 9 errors
+
+Batch 168 (50 tweets)... 47 fetched, 344 404s, 9 errors
+
+Batch 169 (50 tweets)... 45 fetched, 349 404s, 9 errors
+
+Batch 170 (50 tweets)... 46 fetched, 353 404s, 9 errors
+
+Batch 171 (50 tweets)... 48 fetched, 355 404s, 9 errors
+
+Batch 172 (50 tweets)... 47 fetched, 358 404s, 9 errors
+
+Batch 173 (50 tweets)... 48 fetched, 360 404s, 9 errors
+
+Batch 174 (50 tweets)... 50 fetched, 360 404s, 9 errors
+  [Saved progress: 8131 tweets]
+
+Batch 175 (50 tweets)... 48 fetched, 362 404s, 9 errors
+
+Batch 176 (50 tweets)... 48 fetched, 364 404s, 9 errors
+
+Batch 177 (50 tweets)... 49 fetched, 365 404s, 9 errors
+
+Batch 178 (50 tweets)... 48 fetched, 367 404s, 9 errors
+
+Batch 179 (50 tweets)... 50 fetched, 367 404s, 9 errors
+
+Batch 180 (50 tweets)... 47 fetched, 370 404s, 9 errors
+
+Batch 181 (50 tweets)... 45 fetched, 375 404s, 9 errors
+
+Batch 182 (50 tweets)... 47 fetched, 378 404s, 9 errors
+
+Batch 183 (50 tweets)... 47 fetched, 380 404s, 10 errors
+
+Batch 184 (50 tweets)... 47 fetched, 383 404s, 10 errors
+  [Saved progress: 8607 tweets]
+
+Batch 185 (50 tweets)... 49 fetched, 384 404s, 10 errors
+
+Batch 186 (50 tweets)... 46 fetched, 388 404s, 10 errors
+
+Batch 187 (50 tweets)... 49 fetched, 389 404s, 10 errors
+
+Batch 188 (50 tweets)... 47 fetched, 392 404s, 10 errors
+
+Batch 189 (50 tweets)... 48 fetched, 394 404s, 10 errors
+
+Batch 190 (50 tweets)... 47 fetched, 397 404s, 10 errors
+
+Batch 191 (50 tweets)... 47 fetched, 400 404s, 10 errors
+
+Batch 192 (50 tweets)... 47 fetched, 403 404s, 10 errors
+
+Batch 193 (50 tweets)... 46 fetched, 407 404s, 10 errors
+
+Batch 194 (50 tweets)... 42 fetched, 415 404s, 10 errors
+  [Saved progress: 9075 tweets]
+
+Batch 195 (50 tweets)... 49 fetched, 416 404s, 10 errors
+
+Batch 196 (50 tweets)... 50 fetched, 416 404s, 10 errors
+
+Batch 197 (50 tweets)... 47 fetched, 419 404s, 10 errors
+
+Batch 198 (50 tweets)... 50 fetched, 419 404s, 10 errors
+
+Batch 199 (50 tweets)... 48 fetched, 421 404s, 10 errors
+
+Batch 200 (50 tweets)... 49 fetched, 422 404s, 10 errors
+
+Batch 201 (50 tweets)... 47 fetched, 425 404s, 10 errors
+
+Batch 202 (50 tweets)... 49 fetched, 426 404s, 10 errors
+
+Batch 203 (50 tweets)... 48 fetched, 428 404s, 10 errors
+
+Batch 204 (50 tweets)... 50 fetched, 428 404s, 10 errors
+  [Saved progress: 9562 tweets]
+
+Batch 205 (50 tweets)... 49 fetched, 428 404s, 11 errors
+
+Batch 206 (50 tweets)... 50 fetched, 428 404s, 11 errors
+
+Batch 207 (50 tweets)... 48 fetched, 430 404s, 11 errors
+
+Batch 208 (50 tweets)... 47 fetched, 433 404s, 11 errors
+
+Batch 209 (50 tweets)... 48 fetched, 435 404s, 11 errors
+
+Batch 210 (50 tweets)... 45 fetched, 440 404s, 11 errors
+
+Batch 211 (50 tweets)... 50 fetched, 440 404s, 11 errors
+
+Batch 212 (50 tweets)... 48 fetched, 442 404s, 11 errors
+
+Batch 213 (50 tweets)... 45 fetched, 447 404s, 11 errors
+
+Batch 214 (50 tweets)... 45 fetched, 452 404s, 11 errors
+  [Saved progress: 10037 tweets]
+
+Batch 215 (50 tweets)... 46 fetched, 456 404s, 11 errors
+
+Batch 216 (50 tweets)... 46 fetched, 460 404s, 11 errors
+
+Batch 217 (50 tweets)... 43 fetched, 466 404s, 12 errors
+
+Batch 218 (50 tweets)... 47 fetched, 469 404s, 12 errors
+
+Batch 219 (50 tweets)... 45 fetched, 474 404s, 12 errors
+
+Batch 220 (50 tweets)... 49 fetched, 475 404s, 12 errors
+
+Batch 221 (50 tweets)... 46 fetched, 479 404s, 12 errors
+
+Batch 222 (50 tweets)... 46 fetched, 483 404s, 12 errors
+
+Batch 223 (50 tweets)... 49 fetched, 484 404s, 12 errors
+
+Batch 224 (50 tweets)... 47 fetched, 487 404s, 12 errors
+  [Saved progress: 10501 tweets]
+
+Batch 225 (50 tweets)... 49 fetched, 488 404s, 12 errors
+
+Batch 226 (50 tweets)... 49 fetched, 489 404s, 12 errors
+
+Batch 227 (50 tweets)... 45 fetched, 493 404s, 13 errors
+
+Batch 228 (50 tweets)... 50 fetched, 493 404s, 13 errors
+
+Batch 229 (50 tweets)... 44 fetched, 499 404s, 13 errors
+
+Batch 230 (50 tweets)... 49 fetched, 500 404s, 13 errors
+
+Batch 231 (50 tweets)... 49 fetched, 501 404s, 13 errors
+
+Batch 232 (50 tweets)... 45 fetched, 506 404s, 13 errors
+
+Batch 233 (50 tweets)... 49 fetched, 507 404s, 13 errors
+
+Batch 234 (50 tweets)... 48 fetched, 509 404s, 13 errors
+  [Saved progress: 10978 tweets]
+
+Batch 235 (50 tweets)... 50 fetched, 509 404s, 13 errors
+
+Batch 236 (50 tweets)... 44 fetched, 515 404s, 13 errors
+
+Batch 237 (50 tweets)... 50 fetched, 515 404s, 13 errors
+
+Batch 238 (50 tweets)... 50 fetched, 515 404s, 13 errors
+
+Batch 239 (50 tweets)... 45 fetched, 520 404s, 13 errors
+
+Batch 240 (50 tweets)... 49 fetched, 521 404s, 13 errors
+
+Batch 241 (50 tweets)... 50 fetched, 521 404s, 13 errors
+
+Batch 242 (50 tweets)... 48 fetched, 523 404s, 13 errors
+
+Batch 243 (50 tweets)... 48 fetched, 525 404s, 13 errors
+
+Batch 244 (50 tweets)... 50 fetched, 525 404s, 13 errors
+  [Saved progress: 11462 tweets]
+
+Batch 245 (50 tweets)... 48 fetched, 526 404s, 14 errors
+
+Batch 246 (50 tweets)... 50 fetched, 526 404s, 14 errors
+
+Batch 247 (50 tweets)... 47 fetched, 529 404s, 14 errors
+
+Batch 248 (50 tweets)... 50 fetched, 529 404s, 14 errors
+
+Batch 249 (50 tweets)... 50 fetched, 529 404s, 14 errors
+
+Batch 250 (50 tweets)... 49 fetched, 530 404s, 14 errors
+
+Batch 251 (50 tweets)... 46 fetched, 534 404s, 14 errors
+
+Batch 252 (50 tweets)... 50 fetched, 534 404s, 14 errors
+
+Batch 253 (50 tweets)... 49 fetched, 535 404s, 14 errors
+
+Batch 254 (50 tweets)... 49 fetched, 536 404s, 14 errors
+  [Saved progress: 11950 tweets]
+
+Batch 255 (50 tweets)... 48 fetched, 538 404s, 14 errors
+
+Batch 256 (50 tweets)... 49 fetched, 539 404s, 14 errors
+
+Batch 257 (50 tweets)... 50 fetched, 539 404s, 14 errors
+
+Batch 258 (50 tweets)... 47 fetched, 542 404s, 14 errors
+
+Batch 259 (50 tweets)... 49 fetched, 543 404s, 14 errors
+
+Batch 260 (50 tweets)... 50 fetched, 543 404s, 14 errors
+
+Batch 261 (50 tweets)... 49 fetched, 544 404s, 14 errors
+
+Batch 262 (50 tweets)... 50 fetched, 544 404s, 14 errors
+
+Batch 263 (50 tweets)... 47 fetched, 547 404s, 14 errors
+
+Batch 264 (50 tweets)... 44 fetched, 553 404s, 14 errors
+  [Saved progress: 12433 tweets]
+
+Batch 265 (50 tweets)... 47 fetched, 556 404s, 14 errors
+
+Batch 266 (50 tweets)... 48 fetched, 558 404s, 14 errors
+
+Batch 267 (50 tweets)... 47 fetched, 561 404s, 14 errors
+
+Batch 268 (50 tweets)... 47 fetched, 564 404s, 14 errors
+
+Batch 269 (50 tweets)... 47 fetched, 567 404s, 14 errors
+
+Batch 270 (50 tweets)... 49 fetched, 568 404s, 14 errors
+
+Batch 271 (50 tweets)... 49 fetched, 569 404s, 14 errors
+
+Batch 272 (50 tweets)... 48 fetched, 571 404s, 14 errors
+
+Batch 273 (50 tweets)... 50 fetched, 571 404s, 14 errors
+
+Batch 274 (50 tweets)... 46 fetched, 575 404s, 14 errors
+  [Saved progress: 12911 tweets]
+
+Batch 275 (50 tweets)... 46 fetched, 579 404s, 14 errors
+
+Batch 276 (50 tweets)... 48 fetched, 581 404s, 14 errors
+
+Batch 277 (50 tweets)... 47 fetched, 584 404s, 14 errors
+
+Batch 278 (50 tweets)... 46 fetched, 588 404s, 14 errors
+
+Batch 279 (50 tweets)... 47 fetched, 591 404s, 14 errors
+
+Batch 280 (50 tweets)... 48 fetched, 593 404s, 14 errors
+
+Batch 281 (50 tweets)... 48 fetched, 595 404s, 14 errors
+
+Batch 282 (50 tweets)... 48 fetched, 597 404s, 14 errors
+
+Batch 283 (50 tweets)... 46 fetched, 601 404s, 14 errors
+
+Batch 284 (50 tweets)... 50 fetched, 601 404s, 14 errors
+  [Saved progress: 13385 tweets]
+
+Batch 285 (50 tweets)... 49 fetched, 602 404s, 14 errors
+
+Batch 286 (50 tweets)... 48 fetched, 604 404s, 14 errors
+
+Batch 287 (50 tweets)... 46 fetched, 606 404s, 16 errors
+
+Batch 288 (50 tweets)... 49 fetched, 607 404s, 16 errors
+
+Batch 289 (50 tweets)... 47 fetched, 610 404s, 16 errors
+
+Batch 290 (50 tweets)... 49 fetched, 611 404s, 16 errors
+
+Batch 291 (50 tweets)... 49 fetched, 612 404s, 16 errors
+
+Batch 292 (50 tweets)... 50 fetched, 612 404s, 16 errors
+
+Batch 293 (50 tweets)... 49 fetched, 613 404s, 16 errors
+
+Batch 294 (50 tweets)... 48 fetched, 615 404s, 16 errors
+  [Saved progress: 13869 tweets]
+
+Batch 295 (50 tweets)... 49 fetched, 616 404s, 16 errors
+
+Batch 296 (50 tweets)... 48 fetched, 618 404s, 16 errors
+
+Batch 297 (50 tweets)... 49 fetched, 619 404s, 16 errors
+
+Batch 298 (50 tweets)... 50 fetched, 619 404s, 16 errors
+
+Batch 299 (50 tweets)... 49 fetched, 620 404s, 16 errors
+
+Batch 300 (50 tweets)... 47 fetched, 623 404s, 16 errors
+
+Batch 301 (50 tweets)... 49 fetched, 624 404s, 16 errors
+
+Batch 302 (50 tweets)... 49 fetched, 625 404s, 16 errors
+
+Batch 303 (50 tweets)... 50 fetched, 625 404s, 16 errors
+
+Batch 304 (50 tweets)... 48 fetched, 627 404s, 16 errors
+  [Saved progress: 14357 tweets]
+
+Batch 305 (50 tweets)... 48 fetched, 629 404s, 16 errors
+
+Batch 306 (50 tweets)... 48 fetched, 631 404s, 16 errors
+
+Batch 307 (50 tweets)... 50 fetched, 631 404s, 16 errors
+
+Batch 308 (50 tweets)... 49 fetched, 632 404s, 16 errors
+
+Batch 309 (50 tweets)... 50 fetched, 632 404s, 16 errors
+
+Batch 310 (50 tweets)... 50 fetched, 632 404s, 16 errors
+
+Batch 311 (50 tweets)... 50 fetched, 632 404s, 16 errors
+
+Batch 312 (50 tweets)... 49 fetched, 633 404s, 16 errors
+
+Batch 313 (50 tweets)... 50 fetched, 633 404s, 16 errors
+
+Batch 314 (50 tweets)... 49 fetched, 634 404s, 16 errors
+  [Saved progress: 14850 tweets]
+
+Batch 315 (50 tweets)... 49 fetched, 635 404s, 16 errors
+
+Batch 316 (50 tweets)... 49 fetched, 636 404s, 16 errors
+
+Batch 317 (50 tweets)... 50 fetched, 636 404s, 16 errors
+
+Batch 318 (50 tweets)... 49 fetched, 637 404s, 16 errors
+
+Batch 319 (50 tweets)... 50 fetched, 637 404s, 16 errors
+
+Batch 320 (50 tweets)... 49 fetched, 638 404s, 16 errors
+
+Batch 321 (50 tweets)... 46 fetched, 642 404s, 16 errors
+
+Batch 322 (50 tweets)... 47 fetched, 645 404s, 16 errors
+
+Batch 323 (50 tweets)... 48 fetched, 647 404s, 16 errors
+
+Batch 324 (50 tweets)... 50 fetched, 647 404s, 16 errors
+  [Saved progress: 15337 tweets]
+
+Batch 325 (50 tweets)... 48 fetched, 649 404s, 16 errors
+
+Batch 326 (50 tweets)... 50 fetched, 649 404s, 16 errors
+
+Batch 327 (50 tweets)... 47 fetched, 652 404s, 16 errors
+
+Batch 328 (50 tweets)... 47 fetched, 655 404s, 16 errors
+
+Batch 329 (50 tweets)... 50 fetched, 655 404s, 16 errors
+
+Batch 330 (50 tweets)... 49 fetched, 656 404s, 16 errors
+
+Batch 331 (50 tweets)... 48 fetched, 658 404s, 16 errors
+
+Batch 332 (50 tweets)... 50 fetched, 658 404s, 16 errors
+
+Batch 333 (50 tweets)... 50 fetched, 658 404s, 16 errors
+
+Batch 334 (50 tweets)... 50 fetched, 658 404s, 16 errors
+  [Saved progress: 15826 tweets]
+
+Batch 335 (50 tweets)... 50 fetched, 658 404s, 16 errors
+
+Batch 336 (50 tweets)... 50 fetched, 658 404s, 16 errors
+
+Batch 337 (50 tweets)... 50 fetched, 658 404s, 16 errors
+
+Batch 338 (50 tweets)... 44 fetched, 664 404s, 16 errors
+
+Batch 339 (50 tweets)... 43 fetched, 671 404s, 16 errors
+
+Batch 340 (50 tweets)... 46 fetched, 675 404s, 16 errors
+
+Batch 341 (50 tweets)... 46 fetched, 678 404s, 17 errors
+
+Batch 342 (50 tweets)... 46 fetched, 682 404s, 17 errors
+
+Batch 343 (50 tweets)... 49 fetched, 683 404s, 17 errors
+
+Batch 344 (50 tweets)... 50 fetched, 683 404s, 17 errors
+  [Saved progress: 16300 tweets]
+
+Batch 345 (50 tweets)... 48 fetched, 685 404s, 17 errors
+
+Batch 346 (50 tweets)...(50 tweets)... 50 fetched, 17 404s, 0 errors
+
+Batch 327 (50 tweets)... 47 fetched, 41 404s, 0 errors
+
+Batch 328 (50 tweets)... 47 fetched, 20 404s, 0 errors
+
+Batch 328 (50 tweets)... 47 fetched, 44 404s, 0 errors
+
+Batch 329 (50 tweets)... 47 fetched, 23 404s, 0 errors
+  [Saved progress: 977 tweets]
+
+Batch 329 (50 tweets)... 50 fetched, 44 404s, 0 errors
+
+Batch 330 (50 tweets)... 50 fetched, 23 404s, 0 errors
+
+Batch 330 (50 tweets)... 49 fetched, 45 404s, 0 errors
+  [Saved progress: 1955 tweets]
+
+Batch 331 (50 tweets)... 49 fetched, 24 404s, 0 errors
+
+Batch 331 (50 tweets)... 48 fetched, 47 404s, 0 errors
+
+Batch 332 (50 tweets)... 48 fetched, 26 404s, 0 errors
+
+Batch 332 (50 tweets)... 50 fetched, 47 404s, 0 errors
+
+Batch 333 (50 tweets)... 50 fetched, 26 404s, 0 errors
+
+Batch 333 (50 tweets)... 50 fetched, 47 404s, 0 errors
+
+Batch 334 (50 tweets)... 50 fetched, 26 404s, 0 errors
+
+Batch 334 (50 tweets)... 50 fetched, 47 404s, 0 errors
+
+Batch 335 (50 tweets)... 50 fetched, 26 404s, 0 errors
+
+Batch 335 (50 tweets)... 50 fetched, 47 404s, 0 errors
+
+Batch 336 (50 tweets)... 50 fetched, 26 404s, 0 errors
+
+Batch 336 (50 tweets)... 50 fetched, 26 404s, 0 errors
+
+Batch 337 (50 tweets)... 50 fetched, 47 404s, 0 errors
+
+Batch 337 (50 tweets)... 50 fetched, 26 404s, 0 errors
+
+Batch 338 (50 tweets)... 50 fetched, 47 404s, 0 errors
+
+Batch 338 (50 tweets)... 44 fetched, 53 404s, 0 errors
+
+Batch 339 (50 tweets)... 44 fetched, 32 404s, 0 errors
+  [Saved progress: 1468 tweets]
+
+Batch 339 (50 tweets)... 43 fetched, 39 404s, 0 errors
+
+Batch 340 (50 tweets)... 43 fetched, 60 404s, 0 errors
+
+Batch 340 (50 tweets)... 46 fetched, 43 404s, 0 errors
+
+Batch 341 (50 tweets)... 46 fetched, 64 404s, 0 errors
+  [Saved progress: 2436 tweets]
+
+Batch 341 (50 tweets)... 46 fetched, 67 404s, 1 errors
+
+Batch 342 (50 tweets)... 46 fetched, 46 404s, 1 errors
+
+Batch 342 (50 tweets)... 46 fetched, 71 404s, 1 errors
+
+Batch 343 (50 tweets)... 46 fetched, 50 404s, 1 errors
+
+Batch 343 (50 tweets)... 49 fetched, 72 404s, 1 errors
+
+Batch 344 (50 tweets)... 49 fetched, 51 404s, 1 errors
+
+Batch 344 (50 tweets)... 50 fetched, 72 404s, 1 errors
+
+Batch 345 (50 tweets)... 50 fetched, 51 404s, 1 errors
+
+Batch 345 (50 tweets)... 48 fetched, 53 404s, 1 errors
+
+Batch 346 (50 tweets)...Loading handle mappings...
+  CMOTamilnadu: 9504 IDs
+  mkstalin: 4663 IDs
+  TRBRajaa: 20441 IDs
+
+Processing batches 346 to 692 (347 batches)
+
+Batch 346 (50 tweets)... 47 fetched, 3 404s, 0 errors
+
+Batch 347 (50 tweets)... 44 fetched, 9 404s, 0 errors
+
+Batch 348 (50 tweets)... 49 fetched, 10 404s, 0 errors
+
+Batch 349 (50 tweets)... 45 fetched, 15 404s, 0 errors
+
+Batch 350 (50 tweets)... 45 fetched, 20 404s, 0 errors
+
+Batch 351 (50 tweets)... 49 fetched, 21 404s, 0 errors
+
+Batch 352 (50 tweets)... 50 fetched, 21 404s, 0 errors
+
+Batch 353 (50 tweets)... 46 fetched, 25 404s, 0 errors
+
+Batch 354 (50 tweets)... 47 fetched, 28 404s, 0 errors
+
+Batch 355 (50 tweets)... 47 fetched, 31 404s, 0 errors
+  [Saved progress: 469 tweets]
+
+Batch 356 (50 tweets)... 47 fetched, 34 404s, 0 errors
+
+Batch 357 (50 tweets)... 48 fetched, 36 404s, 0 errors
+
+Batch 358 (50 tweets)... 49 fetched, 37 404s, 0 errors
+
+Batch 359 (50 tweets)... 49 fetched, 38 404s, 0 errors
+
+Batch 360 (50 tweets)... 49 fetched, 39 404s, 0 errors
+
+Batch 361 (50 tweets)... 50 fetched, 39 404s, 0 errors
+
+Batch 362 (50 tweets)... 47 fetched, 42 404s, 0 errors
+
+Batch 363 (50 tweets)... 49 fetched, 43 404s, 0 errors
+
+Batch 364 (50 tweets)... 46 fetched, 47 404s, 0 errors
+
+Batch 365 (50 tweets)... 48 fetched, 49 404s, 0 errors
+  [Saved progress: 951 tweets]
+
+Batch 366 (50 tweets)... 49 fetched, 50 404s, 0 errors
+
+Batch 367 (50 tweets)... 49 fetched, 51 404s, 0 errors
+
+Batch 368 (50 tweets)... 48 fetched, 53 404s, 0 errors
+
+Batch 369 (50 tweets)... 46 fetched, 57 404s, 0 errors
+
+Batch 370 (50 tweets)... 46 fetched, 61 404s, 0 errors
+
+Batch 371 (50 tweets)... 48 fetched, 63 404s, 0 errors
+
+Batch 372 (50 tweets)... 50 fetched, 63 404s, 0 errors
+
+Batch 373 (50 tweets)... 47 fetched, 66 404s, 0 errors
+
+Batch 374 (50 tweets)... 47 fetched, 69 404s, 0 errors
+
+Batch 375 (50 tweets)... 47 fetched, 72 404s, 0 errors
+  [Saved progress: 1428 tweets]
+
+Batch 376 (50 tweets)... 49 fetched, 73 404s, 0 errors
+
+Batch 377 (50 tweets)... 47 fetched, 76 404s, 0 errors
+
+Batch 378 (50 tweets)... 50 fetched, 76 404s, 0 errors
+
+Batch 379 (50 tweets)... 50 fetched, 76 404s, 0 errors
+
+Batch 380 (50 tweets)... 45 fetched, 81 404s, 0 errors
+
+Batch 381 (50 tweets)... 47 fetched, 84 404s, 0 errors
+
+Batch 382 (50 tweets)... 49 fetched, 85 404s, 0 errors
+
+Batch 383 (50 tweets)... 47 fetched, 88 404s, 0 errors
+
+Batch 384 (50 tweets)... 48 fetched, 90 404s, 0 errors
+
+Batch 385 (50 tweets)... 46 fetched, 94 404s, 0 errors
+  [Saved progress: 1906 tweets]
+
+Batch 386 (50 tweets)... 49 fetched, 95 404s, 0 errors
+
+Batch 387 (50 tweets)... 47 fetched, 98 404s, 0 errors
+
+Batch 388 (50 tweets)... 47 fetched, 101 404s, 0 errors
+
+Batch 389 (50 tweets)... 46 fetched, 105 404s, 0 errors
+
+Batch 390 (50 tweets)... 48 fetched, 107 404s, 0 errors
+
+Batch 391 (50 tweets)... 49 fetched, 108 404s, 0 errors
+
+Batch 392 (50 tweets)... 50 fetched, 108 404s, 0 errors
+
+Batch 393 (50 tweets)... 47 fetched, 111 404s, 0 errors
+
+Batch 394 (50 tweets)... 48 fetched, 113 404s, 0 errors
+
+Batch 395 (50 tweets)... 48 fetched, 115 404s, 0 errors
+  [Saved progress: 2385 tweets]
+
+Batch 396 (50 tweets)... 47 fetched, 118 404s, 0 errors
+
+Batch 397 (50 tweets)... 50 fetched, 118 404s, 0 errors
+
+Batch 398 (50 tweets)... 48 fetched, 120 404s, 0 errors
+
+Batch 399 (50 tweets)... 47 fetched, 123 404s, 0 errors
+
+Batch 400 (50 tweets)... 49 fetched, 124 404s, 0 errors
+
+Batch 401 (50 tweets)... 49 fetched, 125 404s, 0 errors
+
+Batch 402 (50 tweets)... 50 fetched, 125 404s, 0 errors
+
+Batch 403 (50 tweets)... 49 fetched, 126 404s, 0 errors
+
+Batch 404 (50 tweets)... 49 fetched, 127 404s, 0 errors
+
+Batch 405 (50 tweets)... 46 fetched, 131 404s, 0 errors
+  [Saved progress: 2869 tweets]
+
+Batch 406 (50 tweets)... 48 fetched, 133 404s, 0 errors
+
+Batch 407 (50 tweets)... 48 fetched, 135 404s, 0 errors
+
+Batch 408 (50 tweets)... 49 fetched, 136 404s, 0 errors
+
+Batch 409 (50 tweets)... 48 fetched, 138 404s, 0 errors
+
+Batch 410 (50 tweets)... 47 fetched, 141 404s, 0 errors
+
+Batch 411 (50 tweets)... 49 fetched, 142 404s, 0 errors
+
+Batch 412 (50 tweets)... 47 fetched, 145 404s, 0 errors
+
+Batch 413 (50 tweets)... 47 fetched, 148 404s, 0 errors
+
+Batch 414 (50 tweets)... 48 fetched, 150 404s, 0 errors
+
+Batch 415 (50 tweets)... 49 fetched, 151 404s, 0 errors
+  [Saved progress: 3349 tweets]
+
+Batch 416 (50 tweets)... 48 fetched, 153 404s, 0 errors
+
+Batch 417 (50 tweets)... 48 fetched, 155 404s, 0 errors
+
+Batch 418 (50 tweets)... 46 fetched, 159 404s, 0 errors
+
+Batch 419 (50 tweets)... 49 fetched, 160 404s, 0 errors
+
+Batch 420 (50 tweets)... 49 fetched, 161 404s, 0 errors
+
+Batch 421 (50 tweets)... 48 fetched, 163 404s, 0 errors
+
+Batch 422 (50 tweets)... 46 fetched, 167 404s, 0 errors
+
+Batch 423 (50 tweets)... 47 fetched, 170 404s, 0 errors
+
+Batch 424 (50 tweets)... 48 fetched, 172 404s, 0 errors
+
+Batch 425 (50 tweets)... 48 fetched, 174 404s, 0 errors
+  [Saved progress: 3826 tweets]
+
+Batch 426 (50 tweets)... 50 fetched, 174 404s, 0 errors
+
+Batch 427 (50 tweets)... 48 fetched, 176 404s, 0 errors
+
+Batch 428 (50 tweets)... 48 fetched, 178 404s, 0 errors
+
+Batch 429 (50 tweets)... 49 fetched, 179 404s, 0 errors
+
+Batch 430 (50 tweets)... 43 fetched, 186 404s, 0 errors
+
+Batch 431 (50 tweets)... 49 fetched, 187 404s, 0 errors
+
+Batch 432 (50 tweets)... 47 fetched, 190 404s, 0 errors
+
+Batch 433 (50 tweets)... 43 fetched, 197 404s, 0 errors
+
+Batch 434 (50 tweets)... 45 fetched, 202 404s, 0 errors
+
+Batch 435 (50 tweets)... 49 fetched, 203 404s, 0 errors
+  [Saved progress: 4297 tweets]
+
+Batch 436 (50 tweets)... 46 fetched, 207 404s, 0 errors
+
+Batch 437 (50 tweets)... 49 fetched, 208 404s, 0 errors
+
+Batch 438 (50 tweets)... 47 fetched, 211 404s, 0 errors
+
+Batch 439 (50 tweets)... 48 fetched, 213 404s, 0 errors
+
+Batch 440 (50 tweets)... 49 fetched, 214 404s, 0 errors
+
+Batch 441 (50 tweets)... 46 fetched, 218 404s, 0 errors
+
+Batch 442 (50 tweets)... 43 fetched, 225 404s, 0 errors
+
+Batch 443 (50 tweets)... 44 fetched, 231 404s, 0 errors
+
+Batch 444 (50 tweets)... 48 fetched, 233 404s, 0 errors
+
+Batch 445 (50 tweets)... 49 fetched, 234 404s, 0 errors
+  [Saved progress: 4766 tweets]
+
+Batch 446 (50 tweets)... 48 fetched, 236 404s, 0 errors
+
+Batch 447 (50 tweets)... 50 fetched, 236 404s, 0 errors
+
+Batch 448 (50 tweets)... 44 fetched, 242 404s, 0 errors
+
+Batch 449 (50 tweets)... 49 fetched, 243 404s, 0 errors
+
+Batch 450 (50 tweets)... 50 fetched, 243 404s, 0 errors
+
+Batch 451 (50 tweets)... 48 fetched, 245 404s, 0 errors
+
+Batch 452 (50 tweets)... 48 fetched, 247 404s, 0 errors
+
+Batch 453 (50 tweets)... 48 fetched, 249 404s, 0 errors
+
+Batch 454 (50 tweets)... 44 fetched, 255 404s, 0 errors
+
+Batch 455 (50 tweets)... 46 fetched, 259 404s, 0 errors
+  [Saved progress: 5241 tweets]
+
+Batch 456 (50 tweets)... 49 fetched, 260 404s, 0 errors
+
+Batch 457 (50 tweets)... 48 fetched, 262 404s, 0 errors
+
+Batch 458 (50 tweets)... 50 fetched, 262 404s, 0 errors
+
+Batch 459 (50 tweets)... 49 fetched, 263 404s, 0 errors
+
+Batch 460 (50 tweets)... 47 fetched, 266 404s, 0 errors
+
+Batch 461 (50 tweets)... 49 fetched, 267 404s, 0 errors
+
+Batch 462 (50 tweets)... 47 fetched, 270 404s, 0 errors
+
+Batch 463 (50 tweets)... 49 fetched, 271 404s, 0 errors
+
+Batch 464 (50 tweets)... 48 fetched, 273 404s, 0 errors
+
+Batch 465 (50 tweets)... 48 fetched, 275 404s, 0 errors
+  [Saved progress: 5725 tweets]
+
+Batch 466 (50 tweets)... 45 fetched, 280 404s, 0 errors
+
+Batch 467 (50 tweets)... 45 fetched, 285 404s, 0 errors
+
+Batch 468 (50 tweets)... 42 fetched, 293 404s, 0 errors
+
+Batch 469 (50 tweets)... 46 fetched, 297 404s, 0 errors
+
+Batch 470 (50 tweets)... 45 fetched, 302 404s, 0 errors
+
+Batch 471 (50 tweets)... 46 fetched, 306 404s, 0 errors
+
+Batch 472 (50 tweets)... 43 fetched, 313 404s, 0 errors
+
+Batch 473 (50 tweets)... 48 fetched, 315 404s, 0 errors
+
+Batch 474 (50 tweets)... 49 fetched, 316 404s, 0 errors
+
+Batch 475 (50 tweets)... 45 fetched, 321 404s, 0 errors
+  [Saved progress: 6179 tweets]
+
+Batch 476 (50 tweets)... 46 fetched, 325 404s, 0 errors
+
+Batch 477 (50 tweets)... 47 fetched, 328 404s, 0 errors
+
+Batch 478 (50 tweets)... 47 fetched, 331 404s, 0 errors
+
+Batch 479 (50 tweets)... 43 fetched, 338 404s, 0 errors
+
+Batch 480 (50 tweets)... 49 fetched, 339 404s, 0 errors
+
+Batch 481 (50 tweets)... 49 fetched, 340 404s, 0 errors
+
+Batch 482 (50 tweets)... 48 fetched, 342 404s, 0 errors
+
+Batch 483 (50 tweets)... 38 fetched, 354 404s, 0 errors
+
+Batch 484 (50 tweets)... 46 fetched, 358 404s, 0 errors
+
+Batch 485 (50 tweets)... 46 fetched, 362 404s, 0 errors
+  [Saved progress: 6638 tweets]
+
+Batch 486 (50 tweets)... 47 fetched, 365 404s, 0 errors
+
+Batch 487 (50 tweets)... 46 fetched, 369 404s, 0 errors
+
+Batch 488 (50 tweets)... 49 fetched, 370 404s, 0 errors
+
+Batch 489 (50 tweets)... 50 fetched, 370 404s, 0 errors
+
+Batch 490 (50 tweets)... 49 fetched, 371 404s, 0 errors
+
+Batch 491 (50 tweets)... 47 fetched, 374 404s, 0 errors
+
+Batch 492 (50 tweets)... 48 fetched, 376 404s, 0 errors
+
+Batch 493 (50 tweets)... 44 fetched, 382 404s, 0 errors
+
+Batch 494 (50 tweets)... 50 fetched, 382 404s, 0 errors
+
+Batch 495 (50 tweets)... 46 fetched, 386 404s, 0 errors
+  [Saved progress: 7114 tweets]
+
+Batch 496 (50 tweets)... 48 fetched, 388 404s, 0 errors
+
+Batch 497 (50 tweets)... 45 fetched, 393 404s, 0 errors
+
+Batch 498 (50 tweets)... 44 fetched, 399 404s, 0 errors
+
+Batch 499 (50 tweets)... 45 fetched, 404 404s, 0 errors
+
+Batch 500 (50 tweets)... 47 fetched, 407 404s, 0 errors
+
+Batch 501 (50 tweets)... 44 fetched, 413 404s, 0 errors
+
+Batch 502 (50 tweets)... 45 fetched, 418 404s, 0 errors
+
+Batch 503 (50 tweets)... 45 fetched, 423 404s, 0 errors
+
+Batch 504 (50 tweets)... 47 fetched, 426 404s, 0 errors
+
+Batch 505 (50 tweets)... 48 fetched, 428 404s, 0 errors
+  [Saved progress: 7572 tweets]
+
+Batch 506 (50 tweets)... 49 fetched, 429 404s, 0 errors
+
+Batch 507 (50 tweets)... 45 fetched, 434 404s, 0 errors
+
+Batch 508 (50 tweets)... 44 fetched, 440 404s, 0 errors
+
+Batch 509 (50 tweets)... 45 fetched, 445 404s, 0 errors
+
+Batch 510 (50 tweets)... 45 fetched, 450 404s, 0 errors
+
+Batch 511 (50 tweets)... 44 fetched, 456 404s, 0 errors
+
+Batch 512 (50 tweets)... 46 fetched, 460 404s, 0 errors
+
+Batch 513 (50 tweets)... 46 fetched, 464 404s, 0 errors
+
+Batch 514 (50 tweets)... 45 fetched, 469 404s, 0 errors
+
+Batch 515 (50 tweets)... 48 fetched, 471 404s, 0 errors
+  [Saved progress: 8029 tweets]
+
+Batch 516 (50 tweets)... 45 fetched, 476 404s, 0 errors
+
+Batch 517 (50 tweets)... 46 fetched, 480 404s, 0 errors
+
+Batch 518 (50 tweets)... 47 fetched, 483 404s, 0 errors
+
+Batch 519 (50 tweets)... 48 fetched, 485 404s, 0 errors
+
+Batch 520 (50 tweets)... 48 fetched, 487 404s, 0 errors
+
+Batch 521 (50 tweets)... 50 fetched, 487 404s, 0 errors
+
+Batch 522 (50 tweets)... 48 fetched, 489 404s, 0 errors
+
+Batch 523 (50 tweets)... 45 fetched, 494 404s, 0 errors
+
+Batch 524 (50 tweets)... 49 fetched, 495 404s, 0 errors
+
+Batch 525 (50 tweets)... 43 fetched, 502 404s, 0 errors
+  [Saved progress: 8498 tweets]
+
+Batch 526 (50 tweets)... 48 fetched, 504 404s, 0 errors
+
+Batch 527 (50 tweets)... 49 fetched, 505 404s, 0 errors
+
+Batch 528 (50 tweets)... 47 fetched, 508 404s, 0 errors
+
+Batch 529 (50 tweets)... 48 fetched, 510 404s, 0 errors
+
+Batch 530 (50 tweets)... 48 fetched, 512 404s, 0 errors
+
+Batch 531 (50 tweets)... 47 fetched, 515 404s, 0 errors
+
+Batch 532 (50 tweets)... 46 fetched, 519 404s, 0 errors
+
+Batch 533 (50 tweets)... 49 fetched, 520 404s, 0 errors
+
+Batch 534 (50 tweets)... 48 fetched, 522 404s, 0 errors
+
+Batch 535 (50 tweets)... 48 fetched, 524 404s, 0 errors
+  [Saved progress: 8976 tweets]
+
+Batch 536 (50 tweets)... 46 fetched, 528 404s, 0 errors
+
+Batch 537 (50 tweets)... 46 fetched, 532 404s, 0 errors
+
+Batch 538 (50 tweets)... 45 fetched, 537 404s, 0 errors
+
+Batch 539 (50 tweets)... 49 fetched, 538 404s, 0 errors
+
+Batch 540 (50 tweets)... 47 fetched, 541 404s, 0 errors
+
+Batch 541 (50 tweets)... 48 fetched, 543 404s, 0 errors
+
+Batch 542 (50 tweets)... 45 fetched, 548 404s, 0 errors
+
+Batch 543 (50 tweets)... 48 fetched, 550 404s, 0 errors
+
+Batch 544 (50 tweets)... 48 fetched, 552 404s, 0 errors
+
+Batch 545 (50 tweets)... 48 fetched, 554 404s, 0 errors
+  [Saved progress: 9446 tweets]
+
+Batch 546 (50 tweets)... 48 fetched, 556 404s, 0 errors
+
+Batch 547 (50 tweets)... 46 fetched, 560 404s, 0 errors
+
+Batch 548 (50 tweets)... 46 fetched, 564 404s, 0 errors
+
+Batch 549 (50 tweets)... 49 fetched, 565 404s, 0 errors
+
+Batch 550 (50 tweets)... 47 fetched, 568 404s, 0 errors
+
+Batch 551 (50 tweets)... 47 fetched, 571 404s, 0 errors
+
+Batch 552 (50 tweets)... 50 fetched, 571 404s, 0 errors
+
+Batch 553 (50 tweets)... 49 fetched, 572 404s, 0 errors
+
+Batch 554 (50 tweets)... 48 fetched, 574 404s, 0 errors
+
+Batch 555 (50 tweets)... 48 fetched, 576 404s, 0 errors
+  [Saved progress: 9924 tweets]
+
+Batch 556 (50 tweets)... 46 fetched, 580 404s, 0 errors
+
+Batch 557 (50 tweets)... 47 fetched, 583 404s, 0 errors
+
+Batch 558 (50 tweets)... 49 fetched, 584 404s, 0 errors
+
+Batch 559 (50 tweets)... 47 fetched, 587 404s, 0 errors
+
+Batch 560 (50 tweets)... 48 fetched, 589 404s, 0 errors
+
+Batch 561 (50 tweets)... 46 fetched, 593 404s, 0 errors
+
+Batch 562 (50 tweets)... 48 fetched, 595 404s, 0 errors
+
+Batch 563 (50 tweets)... 49 fetched, 596 404s, 0 errors
+
+Batch 564 (50 tweets)... 50 fetched, 596 404s, 0 errors
+
+Batch 565 (50 tweets)... 46 fetched, 600 404s, 0 errors
+  [Saved progress: 10400 tweets]
+
+Batch 566 (50 tweets)... 46 fetched, 604 404s, 0 errors
+
+Batch 567 (50 tweets)... 46 fetched, 608 404s, 0 errors
+
+Batch 568 (50 tweets)... 46 fetched, 612 404s, 0 errors
+
+Batch 569 (50 tweets)... 45 fetched, 617 404s, 0 errors
+
+Batch 570 (50 tweets)... 45 fetched, 622 404s, 0 errors
+
+Batch 571 (50 tweets)... 45 fetched, 627 404s, 0 errors
+
+Batch 572 (50 tweets)... 48 fetched, 629 404s, 0 errors
+
+Batch 573 (50 tweets)... 47 fetched, 632 404s, 0 errors
+
+Batch 574 (50 tweets)... 48 fetched, 634 404s, 0 errors
+
+Batch 575 (50 tweets)... 49 fetched, 635 404s, 0 errors
+  [Saved progress: 10865 tweets]
+
+Batch 576 (50 tweets)... 44 fetched, 641 404s, 0 errors
+
+Batch 577 (50 tweets)... 47 fetched, 644 404s, 0 errors
+
+Batch 578 (50 tweets)... 45 fetched, 649 404s, 0 errors
+
+Batch 579 (50 tweets)... 45 fetched, 654 404s, 0 errors
+
+Batch 580 (50 tweets)... 49 fetched, 655 404s, 0 errors
+
+Batch 581 (50 tweets)... 47 fetched, 658 404s, 0 errors
+
+Batch 582 (50 tweets)... 43 fetched, 665 404s, 0 errors
+
+Batch 583 (50 tweets)... 50 fetched, 665 404s, 0 errors
+
+Batch 584 (50 tweets)... 48 fetched, 667 404s, 0 errors
+
+Batch 585 (50 tweets)... 46 fetched, 671 404s, 0 errors
+  [Saved progress: 11329 tweets]
+
+Batch 586 (50 tweets)... 47 fetched, 674 404s, 0 errors
+
+Batch 587 (50 tweets)... 48 fetched, 676 404s, 0 errors
+
+Batch 588 (50 tweets)... 46 fetched, 680 404s, 0 errors
+
+Batch 589 (50 tweets)... 49 fetched, 681 404s, 0 errors
+
+Batch 590 (50 tweets)... 45 fetched, 686 404s, 0 errors
+
+Batch 591 (50 tweets)... 47 fetched, 689 404s, 0 errors
+
+Batch 592 (50 tweets)... 47 fetched, 692 404s, 0 errors
+
+Batch 593 (50 tweets)... 48 fetched, 694 404s, 0 errors
+
+Batch 594 (50 tweets)... 49 fetched, 695 404s, 0 errors
+
+Batch 595 (50 tweets)... 47 fetched, 698 404s, 0 errors
+  [Saved progress: 11802 tweets]
+
+Batch 596 (50 tweets)... 47 fetched, 701 404s, 0 errors
+
+Batch 597 (50 tweets)... 49 fetched, 702 404s, 0 errors
+
+Batch 598 (50 tweets)... 47 fetched, 705 404s, 0 errors
+
+Batch 599 (50 tweets)... 40 fetched, 715 404s, 0 errors
+
+Batch 600 (50 tweets)... 49 fetched, 716 404s, 0 errors
+
+Batch 601 (50 tweets)... 47 fetched, 719 404s, 0 errors
+
+Batch 602 (50 tweets)... 47 fetched, 722 404s, 0 errors
+
+Batch 603 (50 tweets)... 50 fetched, 722 404s, 0 errors
+
+Batch 604 (50 tweets)... 47 fetched, 725 404s, 0 errors
+
+Batch 605 (50 tweets)... 46 fetched, 729 404s, 0 errors
+  [Saved progress: 12271 tweets]
+
+Batch 606 (50 tweets)... 49 fetched, 730 404s, 0 errors
+
+Batch 607 (50 tweets)... 47 fetched, 733 404s, 0 errors
+
+Batch 608 (50 tweets)... 49 fetched, 734 404s, 0 errors
+
+Batch 609 (50 tweets)... 49 fetched, 735 404s, 0 errors
+
+Batch 610 (50 tweets)... 46 fetched, 739 404s, 0 errors
+
+Batch 611 (50 tweets)... 46 fetched, 743 404s, 0 errors
+
+Batch 612 (50 tweets)... 49 fetched, 744 404s, 0 errors
+
+Batch 613 (50 tweets)... 45 fetched, 749 404s, 0 errors
+
+Batch 614 (50 tweets)... 45 fetched, 754 404s, 0 errors
+
+Batch 615 (50 tweets)... 48 fetched, 756 404s, 0 errors
+  [Saved progress: 12744 tweets]
+
+Batch 616 (50 tweets)... 46 fetched, 760 404s, 0 errors
+
+Batch 617 (50 tweets)... 44 fetched, 766 404s, 0 errors
+
+Batch 618 (50 tweets)... 46 fetched, 769 404s, 1 errors
+
+Batch 619 (50 tweets)... 44 fetched, 775 404s, 1 errors
+
+Batch 620 (50 tweets)... 50 fetched, 775 404s, 1 errors
+
+Batch 621 (50 tweets)... 46 fetched, 779 404s, 1 errors
+
+Batch 622 (50 tweets)... 42 fetched, 787 404s, 1 errors
+
+Batch 623 (50 tweets)... 48 fetched, 789 404s, 1 errors
+
+Batch 624 (50 tweets)... 47 fetched, 792 404s, 1 errors
+
+Batch 625 (50 tweets)... 45 fetched, 797 404s, 1 errors
+  [Saved progress: 13202 tweets]
+
+Batch 626 (50 tweets)... 46 fetched, 801 404s, 1 errors
+
+Batch 627 (50 tweets)... 46 fetched, 805 404s, 1 errors
+
+Batch 628 (50 tweets)... 47 fetched, 808 404s, 1 errors
+
+Batch 629 (50 tweets)... 48 fetched, 810 404s, 1 errors
+
+Batch 630 (50 tweets)... 44 fetched, 816 404s, 1 errors
+
+Batch 631 (50 tweets)... 46 fetched, 820 404s, 1 errors
+
+Batch 632 (50 tweets)... 43 fetched, 827 404s, 1 errors
+
+Batch 633 (50 tweets)... 49 fetched, 828 404s, 1 errors
+
+Batch 634 (50 tweets)... 47 fetched, 831 404s, 1 errors
+
+Batch 635 (50 tweets)... 48 fetched, 833 404s, 1 errors
+  [Saved progress: 13666 tweets]
+
+Batch 636 (50 tweets)... 49 fetched, 834 404s, 1 errors
+
+Batch 637 (50 tweets)... 45 fetched, 839 404s, 1 errors
+
+Batch 638 (50 tweets)... 48 fetched, 841 404s, 1 errors
+
+Batch 639 (50 tweets)... 48 fetched, 843 404s, 1 errors
+
+Batch 640 (50 tweets)... 47 fetched, 846 404s, 1 errors
+
+Batch 641 (50 tweets)... 47 fetched, 849 404s, 1 errors
+
+Batch 642 (50 tweets)... 50 fetched, 849 404s, 1 errors
+
+Batch 643 (50 tweets)... 46 fetched, 853 404s, 1 errors
+
+Batch 644 (50 tweets)... 47 fetched, 856 404s, 1 errors
+
+Batch 645 (50 tweets)... 48 fetched, 858 404s, 1 errors
+  [Saved progress: 14141 tweets]
+
+Batch 646 (50 tweets)... 48 fetched, 860 404s, 1 errors
+
+Batch 647 (50 tweets)... 46 fetched, 864 404s, 1 errors
+
+Batch 648 (50 tweets)... 46 fetched, 868 404s, 1 errors
+
+Batch 649 (50 tweets)... 48 fetched, 870 404s, 1 errors
+
+Batch 650 (50 tweets)... 49 fetched, 871 404s, 1 errors
+
+Batch 651 (50 tweets)... 47 fetched, 874 404s, 1 errors
+
+Batch 652 (50 tweets)... 45 fetched, 879 404s, 1 errors
+
+Batch 653 (50 tweets)... 46 fetched, 883 404s, 1 errors
+
+Batch 654 (50 tweets)... 46 fetched, 887 404s, 1 errors
+
+Batch 655 (50 tweets)... 45 fetched, 892 404s, 1 errors
+  [Saved progress: 14607 tweets]
+
+Batch 656 (50 tweets)... 48 fetched, 894 404s, 1 errors
+
+Batch 657 (50 tweets)... 50 fetched, 894 404s, 1 errors
+
+Batch 658 (50 tweets)... 45 fetched, 899 404s, 1 errors
+
+Batch 659 (50 tweets)... 48 fetched, 901 404s, 1 errors
+
+Batch 660 (50 tweets)... 48 fetched, 903 404s, 1 errors
+
+Batch 661 (50 tweets)... 49 fetched, 904 404s, 1 errors
+
+Batch 662 (50 tweets)... 48 fetched, 906 404s, 1 errors
+
+Batch 663 (50 tweets)... 46 fetched, 910 404s, 1 errors
+
+Batch 664 (50 tweets)... 47 fetched, 913 404s, 1 errors
+
+Batch 665 (50 tweets)... 49 fetched, 914 404s, 1 errors
+  [Saved progress: 15085 tweets]
+
+Batch 666 (50 tweets)... 45 fetched, 919 404s, 1 errors
+
+Batch 667 (50 tweets)... 47 fetched, 922 404s, 1 errors
+
+Batch 668 (50 tweets)... 49 fetched, 923 404s, 1 errors
+
+Batch 669 (50 tweets)... 44 fetched, 929 404s, 1 errors
+
+Batch 670 (50 tweets)... 48 fetched, 931 404s, 1 errors
+
+Batch 671 (50 tweets)... 46 fetched, 935 404s, 1 errors
+
+Batch 672 (50 tweets)... 46 fetched, 939 404s, 1 errors
+
+Batch 673 (50 tweets)... 46 fetched, 943 404s, 1 errors
+
+Batch 674 (50 tweets)... 49 fetched, 944 404s, 1 errors
+
+Batch 675 (50 tweets)... 46 fetched, 948 404s, 1 errors
+  [Saved progress: 15551 tweets]
+
+Batch 676 (50 tweets)... 44 fetched, 954 404s, 1 errors
+
+Batch 677 (50 tweets)... 49 fetched, 955 404s, 1 errors
+
+Batch 678 (50 tweets)... 47 fetched, 958 404s, 1 errors
+
+Batch 679 (50 tweets)... 43 fetched, 965 404s, 1 errors
+
+Batch 680 (50 tweets)... 45 fetched, 970 404s, 1 errors
+
+Batch 681 (50 tweets)... 48 fetched, 972 404s, 1 errors
+
+Batch 682 (50 tweets)... 48 fetched, 974 404s, 1 errors
+
+Batch 683 (50 tweets)... 48 fetched, 976 404s, 1 errors
+
+Batch 684 (50 tweets)... 45 fetched, 981 404s, 1 errors
+
+Batch 685 (50 tweets)... 47 fetched, 984 404s, 1 errors
+  [Saved progress: 16015 tweets]
+
+Batch 686 (50 tweets)... 48 fetched, 986 404s, 1 errors
+
+Batch 687 (50 tweets)... 48 fetched, 988 404s, 1 errors
+
+Batch 688 (50 tweets)... 48 fetched, 990 404s, 1 errors
+
+Batch 689 (50 tweets)... 48 fetched, 992 404s, 1 errors
+
+Batch 690 (50 tweets)... 48 fetched, 994 404s, 1 errors
+
+Batch 691 (50 tweets)... 48 fetched, 996 404s, 1 errors
+
+Batch 692 (8 tweets)... 8 fetched, 996 404s, 1 errors
+
+=== COMPLETE ===
+Fetched: 16311
+Not found (404): 996
+Errors: 1
+Time: 323.6 minutes
+Output: data/twitter-extraction/raw/filtered/tweets_full.json

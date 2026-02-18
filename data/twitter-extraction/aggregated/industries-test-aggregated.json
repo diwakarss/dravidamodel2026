@@ -1,0 +1,391 @@
+{
+  "category": "industries",
+  "aggregatedAt": "2026-02-16T16:30:00Z",
+  "testMode": true,
+  "totalEntities": 10,
+  "totalSources": 11,
+  "totalInvestmentCrore": 134348,
+  "totalJobsCreated": 117800,
+  "entities": [
+    {
+      "entityId": "industries-tn-investment-conclave-2024-chennai",
+      "category": "industries",
+      "subCategory": "General Investment",
+      "name": "Tamil Nadu Investment Conclave 2024",
+      "nameNormalized": "tn-investment-conclave-2024",
+      "company": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "extractedData": {
+        "investmentCrore": 68773,
+        "jobsCreated": 100000,
+        "projectsInaugurated": 19,
+        "foundationStonesLaid": 28
+      },
+      "timeline": [
+        {
+          "date": "2024-08-21",
+          "eventType": "inauguration",
+          "summary": "47 projects worth Rs.68,773 crore inaugurated/foundation laid"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1825962201745694968",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1825962201745694968",
+          "date": "2024-08-21",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825962201745694968",
+          "eventType": "inauguration",
+          "language": "en"
+        },
+        {
+          "entryId": "TNDIPRNEWS-1825963000000000005",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1825963000000000005",
+          "date": "2024-08-21",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000005",
+          "eventType": "inauguration",
+          "language": "ta"
+        }
+      ],
+      "status": "completed",
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "sourceCount": 2,
+      "confidence": 0.95
+    },
+    {
+      "entityId": "industries-sembcorp-green-hydrogen-thoothukudi",
+      "category": "industries",
+      "subCategory": "Green Energy",
+      "name": "Sembcorp Green Hydrogen & Ammonia Plant",
+      "nameNormalized": "sembcorp-green-hydrogen-thoothukudi",
+      "company": "Sembcorp Industries",
+      "location": {
+        "district": "Thoothukudi",
+        "city": "Thoothukudi"
+      },
+      "extractedData": {
+        "investmentCrore": 36200,
+        "jobsCreated": null,
+        "country": "Singapore"
+      },
+      "timeline": [
+        {
+          "date": "2024-08-21",
+          "eventType": "ground_breaking",
+          "summary": "Foundation stone laid by CM for Rs.36,200 crore green hydrogen plant"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1825963000000000001",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1825963000000000001",
+          "date": "2024-08-21",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000001",
+          "eventType": "ground_breaking",
+          "language": "en"
+        }
+      ],
+      "status": "under_construction",
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "sourceCount": 1,
+      "confidence": 0.95
+    },
+    {
+      "entityId": "industries-lt-innovation-campus",
+      "category": "industries",
+      "subCategory": "IT & Innovation",
+      "name": "L&T Innovation Campus",
+      "nameNormalized": "lt-innovation-campus",
+      "company": "L&T",
+      "location": {
+        "district": null,
+        "city": null
+      },
+      "extractedData": {
+        "investmentCrore": null,
+        "jobsCreated": null,
+        "relatedCompanies": ["Omron Healthcare", "Motherson Electronics", "Sundaram Fasteners", "Royal Enfield"]
+      },
+      "timeline": [
+        {
+          "date": "2024-08-21",
+          "eventType": "inauguration",
+          "summary": "L&T Innovation Campus inaugurated along with Omron, Motherson, Sundaram, Royal Enfield facilities"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1825963000000000002",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1825963000000000002",
+          "date": "2024-08-21",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000002",
+          "eventType": "inauguration",
+          "language": "en"
+        }
+      ],
+      "status": "operational",
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "sourceCount": 1,
+      "confidence": 0.85
+    },
+    {
+      "entityId": "industries-saint-gobain-glass-tn",
+      "category": "industries",
+      "subCategory": "Manufacturing",
+      "name": "Saint Gobain Glass Manufacturing",
+      "nameNormalized": "saint-gobain-glass-tn",
+      "company": "Saint Gobain",
+      "location": {
+        "district": null,
+        "city": null
+      },
+      "extractedData": {
+        "investmentCrore": 525,
+        "jobsCreated": null,
+        "note": "Grown from Rs.525 crore over 20 years"
+      },
+      "timeline": [
+        {
+          "date": "2024-08-21",
+          "eventType": "expansion",
+          "summary": "Saint Gobain expands glass manufacturing operations"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1825963000000000004",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1825963000000000004",
+          "date": "2024-08-21",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000004",
+          "eventType": "expansion",
+          "language": "en"
+        }
+      ],
+      "status": "operational",
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "sourceCount": 1,
+      "confidence": 0.85
+    }
+  ],
+  "ambiguous": [],
+  "newFromApiTest": [
+    {
+      "entityId": "industries-foxconn-tn-expansion-2025",
+      "category": "industries",
+      "subCategory": "Electronics Manufacturing",
+      "name": "Foxconn Tamil Nadu Expansion",
+      "nameNormalized": "foxconn-tn-expansion-2025",
+      "company": "Foxconn",
+      "country": "Taiwan",
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "extractedData": {
+        "investmentCrore": 15000,
+        "investmentQuote": "Rs. 15,000 CRORE",
+        "jobsCreated": 14000,
+        "jobsQuote": "14,000 JOBS"
+      },
+      "timeline": [
+        {
+          "date": "2025-10-13",
+          "eventType": "commitment_announcement",
+          "summary": "LARGEST EVER engineering jobs commitment for Tamil Nadu"
+        }
+      ],
+      "sources": [
+        {
+          "tweetId": "1977615850397106201",
+          "handle": "TRBRajaa",
+          "date": "2025-10-13",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1977615850397106201"
+        }
+      ],
+      "status": "committed",
+      "confidence": 0.98
+    },
+    {
+      "entityId": "industries-hitachi-energy-chennai-gcc",
+      "category": "industries",
+      "subCategory": "Energy GCC",
+      "name": "Hitachi Energy Chennai GCC Expansion",
+      "nameNormalized": "hitachi-energy-chennai-gcc",
+      "company": "Hitachi Energy",
+      "country": "Japan",
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "extractedData": {
+        "investmentCrore": 2000,
+        "investmentQuote": "Rs. 2000 crore",
+        "jobsCreated": 3000,
+        "jobsQuote": "3000 new jobs"
+      },
+      "timeline": [
+        {
+          "date": "2025-10-15",
+          "eventType": "expansion_announcement",
+          "summary": "CM Stalin met Hitachi leadership for next phase expansion"
+        }
+      ],
+      "sources": [
+        {
+          "tweetId": "1978453632665420261",
+          "handle": "TRBRajaa",
+          "date": "2025-10-15",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1978453632665420261"
+        }
+      ],
+      "status": "committed",
+      "confidence": 0.98
+    },
+    {
+      "entityId": "industries-jsw-energy-tn-2024",
+      "category": "industries",
+      "subCategory": "Energy",
+      "name": "JSW Energy Investment",
+      "nameNormalized": "jsw-energy-tn-2024",
+      "company": "JSW Energy",
+      "country": "India",
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "extractedData": {
+        "investmentCrore": 10000,
+        "investmentQuote": "Rs.10,000 Cr"
+      },
+      "timeline": [
+        {
+          "date": "2024-01-07",
+          "eventType": "mou_signed",
+          "summary": "MOU signed at TNGIM 2024 in presence of CM Stalin"
+        }
+      ],
+      "sources": [
+        {
+          "tweetId": "1743902864068759634",
+          "handle": "TNDIPRNEWS",
+          "date": "2024-01-07",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1743902864068759634"
+        }
+      ],
+      "status": "mou_signed",
+      "confidence": 0.95
+    },
+    {
+      "entityId": "industries-tvs-indeon-ev-battery-tiruvallur",
+      "category": "industries",
+      "subCategory": "EV Manufacturing",
+      "name": "TVS Indeon (Lucas TVS) EV Battery Pack Manufacturing",
+      "nameNormalized": "tvs-indeon-ev-battery-tiruvallur",
+      "company": "Lucas TVS / TVS Group",
+      "country": "India",
+      "location": {
+        "district": "Tiruvallur",
+        "city": "Tiruvallur"
+      },
+      "extractedData": {
+        "investmentCrore": 2850,
+        "investmentQuote": "Rs 2,850 Cr",
+        "jobsCreated": 800,
+        "jobsQuote": "800 persons"
+      },
+      "timeline": [
+        {
+          "date": "2024-08-21",
+          "eventType": "inauguration",
+          "summary": "CM MKStalin inaugurated EV battery manufacturing unit"
+        }
+      ],
+      "sources": [
+        {
+          "tweetId": "1826130159214153751",
+          "handle": "TnInvestment",
+          "date": "2024-08-21",
+          "fxUrl": "https://fxtwitter.com/TnInvestment/status/1826130159214153751"
+        }
+      ],
+      "status": "operational",
+      "confidence": 0.98
+    },
+    {
+      "entityId": "industries-japan-desk-osaka-2025",
+      "category": "industries",
+      "subCategory": "Investment Promotion",
+      "name": "Guidance TN Japan Desk (Osaka)",
+      "nameNormalized": "guidance-japan-desk-osaka",
+      "company": "Guidance Bureau",
+      "country": "India-Japan",
+      "location": {
+        "district": "International",
+        "city": "Osaka, Japan"
+      },
+      "extractedData": {
+        "japaneseEstablishments": 580,
+        "quote": "580 Japanese establishments already present in Tamil Nadu"
+      },
+      "timeline": [
+        {
+          "date": "2025-07-14",
+          "eventType": "inauguration",
+          "summary": "Japan Desk opened in Osaka to facilitate TN-Japan trade"
+        }
+      ],
+      "sources": [
+        {
+          "tweetId": "1944692310614347851",
+          "handle": "TRBRajaa",
+          "date": "2025-07-14",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1944692310614347851"
+        }
+      ],
+      "status": "operational",
+      "confidence": 0.95
+    },
+    {
+      "entityId": "industries-singapore-roundtable-2025",
+      "category": "industries",
+      "subCategory": "Investment Promotion",
+      "name": "Tamil Nadu-Singapore Investment Roundtable",
+      "nameNormalized": "tn-singapore-roundtable-2025",
+      "company": "Guidance Bureau + Enterprise Singapore",
+      "country": "India-Singapore",
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "extractedData": {},
+      "timeline": [
+        {
+          "date": "2025-07-25",
+          "eventType": "roundtable",
+          "summary": "Investment roundtable to strengthen bilateral ties"
+        }
+      ],
+      "sources": [
+        {
+          "tweetId": "1948633511197544498",
+          "handle": "Guidance_TN",
+          "date": "2025-07-25",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1948633511197544498"
+        }
+      ],
+      "status": "ongoing_partnership",
+      "confidence": 0.90
+    }
+  ]
+}

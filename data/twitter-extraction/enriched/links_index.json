@@ -1,0 +1,5652 @@
+{
+  "extractedAt": "2026-02-17T17:44:31.229525+00:00",
+  "sourceFile": "data/twitter-extraction/raw/filtered/tweets_full.json",
+  "totalTweets": 16311,
+  "totalUrls": 316,
+  "byDomain": {
+    "simplicity.in": [
+      "https://simplicity.in/coimbatore/english/news/122716/dmk-achieves-monumental-victory-in-coimbatore-after-28-years",
+      "https://simplicity.in/coimbatore/tamil/news/123548/",
+      "https://simplicity.in/coimbatore/english/news/123846/",
+      "https://simplicity.in/coimbatore/tamil/news/123982/",
+      "https://simplicity.in/coimbatore/english/news/123981/",
+      "https://simplicity.in/coimbatore/tamil/news/125625/",
+      "https://simplicity.in/coimbatore/tamil/news/126457/",
+      "https://simplicity.in/coimbatore/tamil/news/126757/",
+      "https://simplicity.in/coimbatore/english/news/130691/fly-dubai-flight-diverted-coimbatore-bad-weather-kozhikode"
+    ],
+    "drive.google.com": [
+      "https://drive.google.com/file/d/172WcMZMRNNdO8pxGTZcXXU3V4Fzn1wzg/view?usp=sharing",
+      "https://drive.google.com/file/d/1R_N0ek2eodABHJXDNGvpDCFF6gRmRilH/view?usp=sharing",
+      "https://drive.google.com/file/d/1jMtiD3__IeLAeHMCciAkkEb6SHWXxb8C/view?usp=sharing",
+      "https://drive.google.com/file/d/1--dhimVIdk_Z7EvnSEPU8rRrg3GCAhBv/view?usp=sharing",
+      "https://drive.google.com/file/d/1ywnaMe5RdN8xsZWGVmx4I5UAlc2kXaZ5/view?usp=sharing",
+      "https://drive.google.com/file/d/12QMsjL1E4VUhwYaL2DYFB4HZ6KUOt2Zo/view?usp=sharing",
+      "https://drive.google.com/file/d/1F9NnMro4Ov22HVopyTXlkp-YWhUDQknA/view?usp=sharing",
+      "https://drive.google.com/file/d/19d9-vOb81cgUFdhSxcaaWNP_YTzUaxFu/view?usp=sharing",
+      "https://drive.google.com/file/d/1Gy68yWV8IfXAv2MwzcJ9JuiAxBxNQfWE/view?usp=sharing",
+      "https://drive.google.com/file/d/1Bqfuj5-S5wIoOchC7OO1MTufCKuRR2yi/view?usp=drivesdk",
+      "https://drive.google.com/drive/folders/1M17Rc4wj-4u9O2kZRigbpSJOGEcxpgze?usp=sharing"
+    ],
+    "news7tamil.live": [
+      "http://www.news7tamil.live"
+    ],
+    "m.thewire.in": [
+      "https://m.thewire.in/article/government/in-140-ls-seats-more-evm-votes-were-counted-than-evm-votes-polled-whats-going-on",
+      "https://m.thewire.in/article/security/cnn-french-official-iaf-rafale-downed-by-pakistan"
+    ],
+    "kalaignar100pechu.org": [
+      "http://www.kalaignar100pechu.org"
+    ],
+    "tamil.abplive.com": [
+      "https://tamil.abplive.com/news/thanjavur/the-daughter-of-a-sweeper-in-mannargudi-has-become-a-municipal-commissioner-after-passing-the-tnpsc-exam-188650"
+    ],
+    "thehindu.com": [
+      "https://www.thehindu.com/opinion/op-ed/high-courts-take-on-marriage-act-an-erosion-of-rights/article68297655.ece/amp/",
+      "https://www.thehindu.com/sport/indian-national-ultimate-frisbee-team-wins-silver-at-the-2024-asia-oceanic-championship-held-in-japan/article68299639.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-is-a-front-runner-in-13-sustainable-development-goals-says-niti-aayog-report/article68414333.ece",
+      "https://www.thehindu.com/visual-story",
+      "https://www.thehindu.com/news/national/tamil-nadu/north-chennais-first-information-technology-park-to-be-established-in-madhavaram/article68493368.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/negotiations-and-diligent-follow-ups-helped-bring-back-ford-to-tamil-nadu/article68639508.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/schwing-stetter-india-launches-all-women-service-centre-in-chennai/article68687266.ece",
+      "https://www.thehindu.com/opinion/lead/going-bullish-on-investment-in-tamil-nadu/article68687343.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/as-tamil-nadu-would-be-severely-impacted-by-heat-planning-commission-lays-out-mitigation-road-map/article68709882.ece",
+      "https://www.thehindu.com/opinion/editorial/sun-signs-on-extreme-heat-and-tamil-nadus-policy-decision/article68815083.ece",
+      "https://www.thehindu.com/news/cities/Coimbatore/naan-mudhalvan-upskilling-initiative-starts-delivering-intended-impact-say-heads-of-heis/article68823300.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/tirunelveli-emerges-as-a-thriving-startup-hub/article68849910.ece",
+      "https://www.thehindu.com/opinion/lead/states-and-the-challenge-before-the-finance-commission/article68951735.ece",
+      "https://www.thehindu.com/news/national/kerala/tamil-nadu-keen-on-collaborating-with-csir-niist-tn-industries-minister-trb-rajaa/article69044312.ece",
+      "https://www.thehindu.com/opinion/editorial/%E2%80%8Bcontrived-grievance-the-hindu-editorial-on-the-tamil-nadu-governor/article69068113.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/arunthathiyars-special-quota-benefits-community-reveals-rti/article69104128.ece/amp/",
+      "https://www.thehindu.com/news/national/tamil-nadu/tn-is-one-of-the-frontrunners-in-ev-infrastructure-union-minister/article69196533.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-sets-a-new-high-with-969-growth/article69412551.ece",
+      "https://www.thehindu.com/opinion/lead/prakash-raj-on-umar-khalid-and-the-unfinished-fight-of-an-anti-national/article69457509.ece",
+      "https://www.thehindu.com/news/national/vice-president-dhankhar-supreme-court-judges-president-state-bills-timeline/article69460514.ece",
+      "https://www.thehindu.com/opinion/op-ed/ensuring-a-fair-federal-balance/article69471192.ece",
+      "https://www.thehindu.com/opinion/editorial/enabling-legislation-on-tamil-nadu-bills-persons-with-disabilities/article69471304.ece",
+      "https://www.thehindu.com/opinion/op-ed/a-day-in-the-life-of-a-data-journalist/article69606679.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-capital-expenditure-grew-over-16-in-fiscal-2025/article69617420.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/muthalvar-padaippagam-a-co-working-space-helps-the-budding-businessmen-cut-cost/article69646303.ece",
+      "https://www.thehindu.com/news/cities/Coimbatore/neolithic-grooves-found-at-adiperumal-temple-near-vannamparai-in-tiruppur-district/article69703980.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-infocus-locked-up-with-seven-inmates-stalin-was-beaten-harassed-and-fed-kali/article69731954.ece",
+      "https://www.thehindu.com/news/national/maharashtra/analysing-why-maharashtras-hindi-u-turn-exposes-neps-language-paradox/article69762714.ece",
+      "https://www.thehindu.com/news/cities/Madurai/vinfast-recruits-200-polytechnic-students-trained-under-naan-mudhalvan-skill-development-drive/article69807557.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/seaweed-cultivation-thrives-in-thoothukudi-strengthening-the-blue-economy/article69834863.ece",
+      "https://www.thehindu.com/opinion/op-ed/tamil-nadus-engine-of-progress-education-for-all/article69883542.ece",
+      "http://thehindu.com/news/national/\u2026",
+      "https://www.thehindu.com/news/national/federal-balance-is-a-key-indicator-of-a-thriving-democracy/article69927892.ece",
+      "https://www.thehindu.com/news/national/bihar/stalin-voter-adhikar-yatra-bihar-rahul-gandhi-aug-27-2025/article69982294.ece",
+      "https://www.thehindu.com/opinion/lead/a-startup-revolution-the-goal-of-innovation-capital/article70118707.ece",
+      "https://www.thehindu.com/news/cities/chennai/major-cave-in-on-chennais-anna-salai/article17897151.ece",
+      "https://www.thehindu.com/opinion/op-ed/applying-the-dravidian-algorithm-to-sports/article70260049.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-draft-electoral-roll-sir-eci-released-updates/article70415857.ece",
+      "https://www.thehindu.com/data/tamil-nadu-sir-unusual-patterns-in-deleted-electors-list/article70424625.ece",
+      "https://www.thehindu.com/news/national/tamil-nadu/over-half-of-elector-deletions-in-tn-concentrated-in-eight-districts-in-two-clusters/article70420290.ece"
+    ],
+    "thestatesman.com": [
+      "http://thestatesman.com/opinion/stalins-triumph-1503310273.html"
+    ],
+    "link.springer.com": [
+      "https://link.springer.com/article/10.1007/s10654-019-00524-3"
+    ],
+    "pubmed.ncbi.nlm.nih.gov": [
+      "https://pubmed.ncbi.nlm.nih.gov/12204390/",
+      "https://pubmed.ncbi.nlm.nih.gov/37447390/",
+      "https://pubmed.ncbi.nlm.nih.gov/31055709/",
+      "https://pubmed.ncbi.nlm.nih.gov/37970326/"
+    ],
+    "ncbi.nlm.nih.gov": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967721/",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5696634/"
+    ],
+    "academic.oup.com": [
+      "https://academic.oup.com/nutritionreviews/article/76/6/395/4954186"
+    ],
+    "frontiersin.org": [
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1270246/full"
+    ],
+    "mdpi.com": [
+      "https://www.mdpi.com/2072-6643/11/6/1274"
+    ],
+    "pocsoportal.in.gov.in": [
+      "https://www.pocsoportal.in.gov.in"
+    ],
+    "tnwidowwelfareboard.tn.gov.in": [
+      "http://www.tnwidowwelfareboard.tn.gov.in"
+    ],
+    "m.news7tamil.live": [
+      "https://m.news7tamil.live/article/water-exam-malpractice-issue-dmk-student-team-protest-on-june-24/646128"
+    ],
+    "sparkmedia.news": [
+      "https://sparkmedia.news/alcohol-poisoning-deaths-admk-dmk-tamilnadu/",
+      "https://sparkmedia.news/where-is-society-heading-salute-to-the-sorrows-of-society-that-have-been-criticized-gobi-sudhakar-tn/"
+    ],
+    "b.tech": [
+      "http://B.Tech"
+    ],
+    "whatsapp.com": [
+      "https://whatsapp.com/channel/0029Va4Z7ju7j6gDEeegs737",
+      "https://whatsapp.com/channel/0029VaAHapBD38CU6FrPhu2r",
+      "https://whatsapp.com/channel/0029Va4Z7ju7j6gDEeegs737/4310",
+      "https://whatsapp.com/channel/0029Va4Z7ju7j6gDEeegs737/4326",
+      "https://whatsapp.com/channel/0029VaAHapBD38CU6FrPhu2r/3898"
+    ],
+    "timesofindia.indiatimes.com": [
+      "https://timesofindia.indiatimes.com/city/chennai/bite-the-bullet-milords-scrap-this-edition-of-neet/amp_articleshow/111466026.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/godrej-storage-solutions-to-set-up-new-plant-near-chennai-to-foray-into-australia-for-exports/articleshow/111808889.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/skilling-for-growth/articleshow/118307492.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/where-pandya-kings-set-up-their-factories/articleshow/118903223.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/decentralisation-over-delimitation/articleshow/118947629.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/today-in-india-tamil-nadu-is-the-first-port-of-call-for-investment/articleshow/120673073.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/state-offers-grants-jobs-visas-to-bring-researchers-leaving-the-us/articleshow/121240743.cms",
+      "https://timesofindia.indiatimes.com/blogs/toi-editorials/factory-factor/",
+      "https://timesofindia.indiatimes.com/city/delhi/they-lost-their-homes-in-delhi-help-came-from-a-home-2000-km-away/articleshow/121959308.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/growing-growing-grown-what-factors-contributed-to-tamil-nadus-11-2-economic-growth-in-2024-25/articleshow/123236725.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/is-centralization-threatening-tamil-nadus-healthcare-success-a-deep-dive-into-the-ongoing-battle/articleshow/123486487.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/women-led-startups-dot-the-cauvery-delta/articleshow/123485545.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/learning-a-foreign-language-life-skills-must-for-be-btech-students/articleshow/123103173.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-mangrove-cover-doubles-in-3-years/articleshow/112614257.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/cooum-river-bunds-turn-lush-green-stretch-after-restoration/articleshow/124031884.cms",
+      "https://timesofindia.indiatimes.com/blogs/gen-zedits/out-of-control-2/",
+      "https://timesofindia.indiatimes.com/city/chennai/udhayanidhi-stalin-on-how-tamil-nadus-naan-mudhalvan-initiative-boosts-competitive-exam-success/articleshow/126208243.cms",
+      "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-debt-sustainability-a-deep-dive-into-fiscal-health-and-growth/articleshow/126808798.cms"
+    ],
+    "tangedco.org": [
+      "https://www.tangedco.org/en/tangedco/online-services/onlinesernew/"
+    ],
+    "ndtv.com": [
+      "https://www.ndtv.com/education/student-who-aced-neet-failed-physics-chemistry-in-12th-marksheet-is-viral-5883906",
+      "https://www.ndtv.com/india-news/hindi-imposition-mk-stalin-national-education-policy-national-education-policy-meant-to-develop-hindi-not-india-mk-stalin-7909718",
+      "https://www.ndtv.com/india-news/scrap-paper-replace-plates-for-midday-meals-in-madhya-pradesh-school-9589091"
+    ],
+    "tamil.oneindia.com": [
+      "https://tamil.oneindia.com/news/chennai/tamil-nadu-chief-minister-m-k-stalin-discussed-with-5-district-collectors-625131.html",
+      "https://tamil.oneindia.com/news/chennai/bus-free-for-women-foreign-youtuber-surprise-trp-rajas-tweet-626171.html"
+    ],
+    "search.app": [
+      "https://search.app/pRBVY7QYXH68fuVt7",
+      "https://search.app/c5eSr3QyQiE5BP1Q7",
+      "https://search.app/giDcsfL7XJJADVuM9",
+      "https://search.app/Cfe2ns9CarYCfaiv6"
+    ],
+    "deccanherald.com": [
+      "https://www.deccanherald.com/india/tamil-nadu/space-tech-accelerator-launched-in-tamil-nadu-3131321?utm_source=twitter&utm_medium=referral&utm_campaign=socialshare",
+      "https://www.deccanherald.com/elections/tamil-nadu/the-tuesday-interview-bjp-and-its-ideology-should-be-opposed-beyond-elections-stalin-3537572",
+      "https://www.deccanherald.com/elections/tamil-nadu/the-iron-age-written-in-iron-3614253",
+      "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-invests-in-libraries-reimaging-them-as-knowledge-and-innovation-hubs-3797863?utm_source=twitter&utm_medium=referral&utm_campaign=socialshare",
+      "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-emerges-prime-destination-for-companies-moving-away-from-china-arvind-subramanian-3852353?utm_source=twitter&utm_medium=referral&utm_campaign=socialshare"
+    ],
+    "sdat.tn.gov.in": [
+      "http://sdat.tn.gov.in",
+      "https://www.sdat.tn.gov.in/"
+    ],
+    "es.pn": [
+      "https://es.pn/3SFNkQ1",
+      "http://es.pn/3AjRDu3"
+    ],
+    "espn.in": [
+      "https://www.espn.in/olympics/story/_/id/40750630/wrestling-how-vinesh-phogat-won-olympics-medal-paris-2024?_nocache"
+    ],
+    "indiatoday.in": [
+      "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-mk-stalin-monthly-assistance-scheme-boys-higher-education-girl-students-initiative-2579051-2024-08-08",
+      "https://www.indiatoday.in/amp/india/story/secularism-european-concept-not-needed-in-india-tamil-nadu-governor-rn-ravi-2605016-2024-09-23",
+      "https://www.indiatoday.in/india-today-insight/story/battleground-tamil-nadu-why-stalins-dmk-appears-to-hold-the-pole-position-2730280-2025-05-25?utm_source=story_twitter&utm_medium=twitter&utm_campaign=storyshareurl",
+      "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-mk-stalin-mous-europe-trip-aiadmk-foreign-trips-as-investment-eps-periyar-2783591-2025-09-08",
+      "https://indiatoday.in/conclave-south/2025"
+    ],
+    "economictimes.indiatimes.com": [
+      "https://economictimes.indiatimes.com/tech/technology/how-burgeoning-presence-of-tata-group-is-transforming-tamil-nadus-industrial-hub-hosur/articleshow/112550015.cms",
+      "https://economictimes.indiatimes.com/tech/technology/tamil-nadu-goes-to-town-on-manufacturing-target-hinterland/articleshow/114787428.cms",
+      "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-south-capital-tns-playbook-of-distributed-growth/podcast/123442933.cms",
+      "https://economictimes.indiatimes.com/tech/technology/tata-electronics-charges-on-to-hire-more/articleshow/125643762.cms",
+      "https://economictimes.indiatimes.com/news/economy/indicators/rbi-data-show-rosy-picture-of-poll-bound-tamil-nadu-reveal-karnatakas-gaps/articleshow/125993314.cms"
+    ],
+    "money.rediff.com": [
+      "https://money.rediff.com/news/market/foxconn-to-set-up-battery-energy-storage-unit-in-india/14449420240818"
+    ],
+    "chicago.cmstalininus.org": [
+      "https://chicago.cmstalininus.org"
+    ],
+    "politiken.dk": [
+      "https://politiken.dk/del/A32KqgAERO6Q"
+    ],
+    "18.gp": [
+      "http://18.GP"
+    ],
+    "moneycontrol.com": [
+      "https://www.moneycontrol.com/technology/tatas-fourth-iphone-assembly-plant-likely-to-start-in-november-report-article-12800131.html"
+    ],
+    "hindutamil.in": [
+      "https://www.hindutamil.in/news/tamilnadu/1300123-karunanidhi-writings-belong-to-the-tamil-people.html"
+    ],
+    "chenn.ai": [
+      "http://Chenn.ai",
+      "http://Chenn.AI"
+    ],
+    "newindianexpress.com": [
+      "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/07/three-mous-inked-tn-may-get-rs-850-cr-in-investments",
+      "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/26/cm-stalin-visits-guidance-celebrates-bagging-rs-10-lakh-crore-investments-in-three-years",
+      "https://www.newindianexpress.com/states/tamil-nadu/2024/Oct/04/75-years-of-defining-tns-socio-political-course",
+      "https://www.newindianexpress.com/states/tamil-nadu/2024/Oct/19/not-in-grams-but-in-kg-tn-cops-drug-data-proves-governor-wrong?s=09",
+      "https://www.newindianexpress.com/states/tamil-nadu/2024/Nov/15/lubrizol-signs-mou-to-create-medical-manufacturing-facility-near-chennai",
+      "https://www.newindianexpress.com/states/tamil-nadu/2024/Dec/03/tamil-nadu-cm-announces-comprehensive-relief-package-for-people-affected-by-cyclone-fengal",
+      "https://www.newindianexpress.com/states/tamil-nadu/2025/Mar/22/vinfast-likely-to-start-production-in-three-months-thoothukudi-turns-tns-fourth-big-auto-cluster",
+      "https://www.newindianexpress.com/amp/story/states/tamil-nadu/2025/Mar/22/interview-rising-debt-as-centre-has-clipped-our-financial-autonomy-tn-finance-minister-thangam-thennarasu",
+      "https://www.newindianexpress.com/states/tamil-nadu/2025/Aug/14/eci-bjp-nexus-turning-democracy-into-mockery-dmk-resolution-on-sir",
+      "https://www.newindianexpress.com/states/tamil-nadu/2025/Aug/18/southern-tn-emerges-as-south-indias-next-export-hub",
+      "https://www.newindianexpress.com/states/tamil-nadu/2025/Aug/18/strategic-approach-taken-to-boost-tns-logistics-backbone-industries-minister-trb-rajaa",
+      "https://www.newindianexpress.com/states/tamil-nadu/2025/Sep/02/dmk-it-wing-launches-dravidian-month-fete",
+      "https://www.newindianexpress.com/states/tamil-nadu/2025/Nov/17/sir-exercise-not-so-rosy-on-the-ground-in-tamil-nadu",
+      "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/cm-stalin-flags-humanitarian-crisis-as-us-tariffs-threaten-tns-textile-leather-industries"
+    ],
+    "straitstimes.com": [
+      "https://www.straitstimes.com/asia/south-asia/state-funded-hostel-for-female-foxconn-workers-marks-new-era-in-india-s-industrial-housing"
+    ],
+    "dtnext.in": [
+      "https://www.dtnext.in/news/tamilnadu/rs-18564-crore-spent-on-chennai-metro-rail-phase-ii-fms-claim-wrong-thangam-hits-back-803617?utm_source=mobile-social-share&utm_partner=dtnext&utm_campaign=share&utm_medium=twitter",
+      "https://www.dtnext.in/news/business/standard-chartered-opens-its-second-international-banking-centre-in-chennai-810838?utm_source=mobile-social-share&utm_partner=dtnext&utm_campaign=share&utm_medium=twitter",
+      "https://www.dtnext.in/news/tamilnadu/fir-after-12-days-accused-released-without-registering-case-in-pollachi-case-cm-stalin-818491"
+    ],
+    "spacex.com": [
+      "http://spacex.com/launches/mission/?missionId=polarisdawn"
+    ],
+    "e-apply.jp": [
+      "https://e-apply.jp/n/ynu-imp"
+    ],
+    "heyzine.com": [
+      "https://heyzine.com/flip-book/P.T.RAJAN_A_HALF_CENTURY_IN_MEMORY"
+    ],
+    "ptivideos.com": [
+      "http://ptivideos.com"
+    ],
+    "mybs.in": [
+      "https://mybs.in/2dZ4A7f"
+    ],
+    "theguardian.com": [
+      "https://www.theguardian.com/education/2019/apr/16/labour-will-scrap-sats-let-teachers-teach-vows-jeremy-corbyn"
+    ],
+    "bloomberg.com": [
+      "https://www.bloomberg.com/news/newsletters/2024-10-03/tamil-nadu-s-model-of-doing-business-in-india-may-unseat-gujarat?utm_source=website&utm_medium=share&utm_campaign=twitter",
+      "https://www.bloomberg.com/news/newsletters/2024-10-03/tamil-nadu-s-model-of-doing-business-in-india-may-unseat-gujarat",
+      "https://www.bloomberg.com/news/videos/2025-01-23/trb-rajaa-tamil-nadu-is-the-talent-capital-of-india-video",
+      "https://www.bloomberg.com/news/articles/2025-07-08/will-trade-war-make-south-india-the-next-manufacturing-hub"
+    ],
+    "frontline.thehindu.com": [
+      "https://frontline.thehindu.com/politics/dmk-75th-celebration-kalaignar-karunanidhi-centenary-tamilnadu-social-justice-politics/article68673985.ece",
+      "https://frontline.thehindu.com/static/content/frontline/flipbook/20250225072242/index.html#p=24",
+      "https://frontline.thehindu.com/news/tamil-nadu-anti-harassment-law-women-safety-measures/article70384468.ece"
+    ],
+    "thehindubusinessline.com": [
+      "https://www.thehindubusinessline.com/info-tech/tata-electronics-resumes-partial-operations-at-fire-hit-hosur-factory-employees-to-receive-full-pay/article68712492.ece",
+      "https://www.thehindubusinessline.com/news/tamil-nadu-looks-to-highlight-its-talent-pool-and-manufacturing-strength-at-davos-2025/article69104940.ece",
+      "https://www.thehindubusinessline.com/news/chennai-leads-warehousing-transaction-volume-growth-expands-29-per-cent-yoy-knight-frank-india/article69322105.ece",
+      "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-to-soon-release-a-policy-on-warehousing/article69505151.ece",
+      "https://www.thehindubusinessline.com/economy/oragadam-sriperumbudur-emerges-as-tyre-capital-making-30-of-indias-output/article69869052.ece",
+      "https://www.thehindubusinessline.com/companies/china-plus-one-funskool-india-sees-increased-global-partnerships-and-exports-growth/article69893894.ece",
+      "https://www.thehindubusinessline.com/companies/agnikul-cosmos-raises-17-million-funding-at-05-billion-valuation/article70310470.ece",
+      "https://www.thehindubusinessline.com/news/welfare-measures-and-distributed-growth-behind-tamil-nadus-economic-growth-says-industries-min-trb-rajaa/article70389190.ece",
+      "https://www.thehindubusinessline.com/news/national/tamil-nadu-and-sarvam-al-to-establish-indias-first-sovereign-al-park-with-investment-of-10000-crore-in-five-years-and-create-1000-jobs/article70504386.ece"
+    ],
+    "pmvishwakarma.gov.in": [
+      "https://pmvishwakarma.gov.in"
+    ],
+    "uniatf.who.int": [
+      "https://uniatf.who.int/about-us/news/item/25-09-2024-2024-un-ncd-task-force-awards"
+    ],
+    "concerns.as": [
+      "http://concerns.As"
+    ],
+    "dividends.today": [
+      "http://dividends.Today"
+    ],
+    "esa.int": [
+      "https://www.esa.int/Space_Safety/Hera/Hera_s_first_images_offer_parting_glimpse_of_Earth_and_Moon"
+    ],
+    "news18tamil.com": [
+      "http://News18Tamil.com"
+    ],
+    "m.economictimes.com": [
+      "https://m.economictimes.com/tech/technology/tamil-nadu-goes-to-town-on-manufacturing-target-hinterland/articleshow/114787428.cms?utm_source=twitter_pwa&utm_medium=social&utm_campaign=socialsharebuttons",
+      "https://m.economictimes.com/tech/technology/big-bracket-investments-push-states-to-create-social-infrastructure/articleshow/116343449.cms",
+      "https://m.economictimes.com/industry/auto/two-wheelers-three-wheelers/expect-export-to-grow-25-this-yr-making-chennai-plant-global-hub-yamaha-motor-india/articleshow/125359970.cms"
+    ],
+    "in.bookmyshow.com": [
+      "https://in.bookmyshow.com/sports/chennai-grand-masters-2024/ET00418069"
+    ],
+    "gccservices.chennaicorporation.gov.in": [
+      "https://gccservices.chennaicorporation.gov.in/muthalvarpadaippagam"
+    ],
+    "ft.com": [
+      "https://www.ft.com/content/fc56385d-ceed-4dee-9e5e-017a708d37c9"
+    ],
+    "portal.naanmudhalvan.tn.gov.in": [
+      "https://portal.naanmudhalvan.tn.gov.in/recruitment/recruitment_details_form"
+    ],
+    "mr.rich": [
+      "http://Mr.Rich"
+    ],
+    "theprint.in": [
+      "https://theprint.in/economy/how-coimbatore-went-from-city-of-textile-mills-to-it-powerhouse-in-just-10-years/2356551/",
+      "https://theprint.in/economy/south-rising-west-slipping-indias-export-map-is-being-redrawn-shows-rbi-data/2804850/"
+    ],
+    "flickr.com": [
+      "http://flickr.com/photos/herbraab"
+    ],
+    "business-standard.com": [
+      "https://www.business-standard.com/companies/news/tirunelveli-powers-india-s-solar-ambitions-with-a-new-facility-by-tata-124120800391_1.html",
+      "https://www.business-standard.com/specials/news/tamil-nadu-s-mgnrega-efficiency-outpaces-bigger-and-poorer-states-125072801519_1.html",
+      "https://www.business-standard.com/industry/news/tamil-nadu-semiconductor-mission-2030-scheme-centres-of-excellence-125081800139_1.html",
+      "https://www.business-standard.com/opinion/columns/india-must-safeguard-its-export-oriented-industries-and-emerge-stronger-125083000019_1.html",
+      "https://www.business-standard.com/amp/economy/news/why-the-south-keeps-pulling-ahead-growth-demographics-and-development-125111801349_1.html"
+    ],
+    "isro.gov.in": [
+      "https://www.isro.gov.in/CE20_test_outside_vacuum_chamber.html",
+      "https://www.isro.gov.in/mission_SpaDeX.html"
+    ],
+    "itschenn.ai": [
+      "http://Itschenn.ai",
+      "http://itsChenn.ai"
+    ],
+    "itw2025.com": [
+      "https://itw2025.com/",
+      "http://www.itw2025.com"
+    ],
+    "thenewsminute.com": [
+      "https://www.thenewsminute.com/karnataka/vaikom-award-to-kannada-writer-and-activist-devanoor-mahadeva-is-historic",
+      "https://www.thenewsminute.com/news/brazilian-photo-appears-as-22-voters-in-haryana-rahul-says-lakhs-of-votes-were-rigged"
+    ],
+    "periyardigitallibrary.in": [
+      "http://periyardigitallibrary.in"
+    ],
+    "indianexpress.com": [
+      "https://indianexpress.com/article/cities/chandigarh/manmohan-singh-cremation-nigambodh-ghat-sad-leaders-express-shock-9748346/",
+      "https://indianexpress.com/article/opinion/columns/dis-agree-dont-be-fooled-three-language-formula-is-about-imposing-hindi-9872893/",
+      "https://indianexpress.com/article/opinion/editorials/in-holding-tamil-nadu-governors-pocket-veto-as-illegal-sc-has-set-a-welcome-precedent-9932913/",
+      "https://indianexpress.com/article/opinion/columns/with-verdict-on-governor-r-n-ravi-supreme-court-gives-indian-states-and-india-a-victory-9948454/?ref=top_opinion",
+      "https://indianexpress.com/article/cities/mumbai/three-language-policy-from-class-1-currently-on-hold-dada-bhuse-10030533/",
+      "https://indianexpress.com/article/explained/population-census-2027-why-this-reopens-debate-on-delimitation-timeline-10048868/",
+      "https://indianexpress.com/article/india/chennai-arterial-anna-salai-road-near-gemini-flyover-caves-in-no-casualty-reported-4606313/"
+    ],
+    "minnambalam.com": [
+      "https://minnambalam.com/political-news/periyars-philosophy-and-historical-uniqueness-article-in-tamil-by-rajan-kurai",
+      "https://minnambalam.com/shouldnt-we-celebrate-our-own-investors/"
+    ],
+    "tnatdavos2025.com": [
+      "https://tnatdavos2025.com",
+      "http://www.tnatdavos2025.com"
+    ],
+    "manufacturing.economictimes.indiatimes.com": [
+      "https://manufacturing.economictimes.indiatimes.com/news/industry/tech-mahindra-sets-up-manufacturing-experience-centre-at-chennai-campus/117345337"
+    ],
+    "dinamalar.com": [
+      "http://www.dinamalar.com",
+      "https://www.dinamalar.com/news/tamil-nadu-news/pms-road-show-in-chennai-police-permit-with-20-conditions--/3595746"
+    ],
+    "tamildigitallibrary.in": [
+      "https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZU3juU3",
+      "https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZU3juU6",
+      "https://www.tamildigitallibrary.in/kalaignar",
+      "https://tamildigitallibrary.in/Articles/\u0ba8\u0bc2\u0bb2\u0bcd-1964-\u0b85\u0ba3\u0bcd\u0ba3\u0bbe-\u0b9a\u0bbf\u0bb2%20\u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bcd%20-\u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd%20\u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f%20\u0b89\u0bb0\u0bc8\u0ba8\u0b9f\u0bc8%20\u0b93\u0bb5\u0bbf\u0baf\u0bae\u0bcd"
+    ],
+    "weforum.org": [
+      "https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2025/sessions/creating-tomorrows-industrial-talent-today/"
+    ],
+    "nytimes.com": [
+      "https://www.nytimes.com/2025/02/01/world/asia/india-indus-script-prize.html",
+      "https://www.nytimes.com/2025/05/05/climate/india-china-solar-manufacturing.html"
+    ],
+    "kalaignarseithigal.com": [
+      "https://www.kalaignarseithigal.com/tamilnadu/2024/08/20/athikadavu-avinashi-project-murasoli-explains",
+      "https://www.kalaignarseithigal.com/tamilnadu/2024/08/21/admk-delayed-athikadavu-avinasi-project-murasoli-condemns"
+    ],
+    "tamil.indianexpress.com": [
+      "https://tamil.indianexpress.com/tamilnadu/india-today-cvoter-poll-who-would-get-how-many-votes-in-tamilnadu-8715879"
+    ],
+    "share.youturn.in": [
+      "https://share.youturn.in/en/articles/kendriya-vidyalaya-rti-report"
+    ],
+    "toi.in": [
+      "http://toi.in/OGzgHY"
+    ],
+    "meetings.chennai.bciaerospace.com": [
+      "https://meetings.chennai.bciaerospace.com/2025/signup.php"
+    ],
+    "rb.gy": [
+      "http://rb.gy/qbfw13"
+    ],
+    "economist.com": [
+      "https://www.economist.com/asia/2022/10/27/indias-regional-inequality-could-be-politically-explosive",
+      "https://www.economist.com/asia/2025/03/27/why-indias-south-is-fighting-plans-to-overhaul-parliament",
+      "https://www.economist.com/asia/2025/11/13/which-is-indias-superstar-state",
+      "https://www.economist.com/asia/2025/11/13/which-is-indias-superstar-state?utm_campaign=shared_article"
+    ],
+    "thesouthfirst.com": [
+      "https://thesouthfirst.com/tamilnadu/indias-delimitation-debate-jacs-bold-push-for-representation-federalism-and-fiscal-parity/",
+      "https://thesouthfirst.com/tamilnadu/beyond-borders-tamil-nadus-big-push-to-take-local-iconic-food-brands-global/"
+    ],
+    "grok.x.com": [
+      "https://grok.x.com"
+    ],
+    "outlookindia.com": [
+      "https://www.outlookindia.com/national/souths-concerns-about-delimitation-are-well-founded"
+    ],
+    "on.ft.com": [
+      "https://on.ft.com/3G5tLgp"
+    ],
+    "tamil.asianetnews.com": [
+      "https://tamil.asianetnews.com/gallery/tamilnadu/cooking-gas-cylinder-price-hiked-by-rs-50-cm-stalin-slams-bjp-government-tvk-sudnac"
+    ],
+    "news18.com": [
+      "https://www.news18.com/sports/chennais-mika-recieves-grade-1-cik-fia-certification-becomes-indias-first-grade-1-karting-circuit-9291496.html",
+      "https://www.news18.com/india/pm-modi-lauds-women-naval-officers-who-sailed-50000-km-what-is-navika-sagar-parikrama-9361356.html?1748679138"
+    ],
+    "effectiveness.to": [
+      "http://effectiveness.To"
+    ],
+    "htamil.org": [
+      "https://www.htamil.org/1384035"
+    ],
+    "tnlasdigital.tn.gov.in": [
+      "http://tnlasdigital.tn.gov.in"
+    ],
+    "threads.com": [
+      "https://www.threads.com/@joe.kendra/post/DFgvW_6Mx9q?xmt=AQF0WRn1n3UhhTSouFr_pY-YEu-risHhAwUglEHERTPjbg"
+    ],
+    "thewire.in": [
+      "https://thewire.in/media/statement-by-the-wire-on-the-governments-blocking-and-unblocking-of-its-website"
+    ],
+    "hindustantimes.com": [
+      "https://www.hindustantimes.com/india-news/bjp-used-governors-to-run-parallel-state-government-says-mk-stalin-101747078351915.html",
+      "https://www.hindustantimes.com/india-news/tnrun-co-working-spaces-a-hit-as-bookings-extend-till-juneend-101748198565933.html",
+      "https://www.hindustantimes.com/india-news/sanskrit-got-lion-s-share-of-language-promotion-funds-rti-data-101750704203655.html",
+      "https://www.hindustantimes.com/real-estate/chennai-only-city-to-see-increase-in-housing-demand-as-overall-sales-drop-20-in-april-june-quarter-101751362467478.html"
+    ],
+    "freepressjournal.in": [
+      "https://www.freepressjournal.in/india/monster-rapes-5-year-old-girl-inside-temple-in-ups-agra-arrested-after-shocking-video-surfaces"
+    ],
+    "m.sc": [
+      "http://M.Sc"
+    ],
+    "bbc.in": [
+      "https://bbc.in/3ZclY7u"
+    ],
+    "adda247.com": [
+      "https://www.adda247.com/jobs/wp-content/uploads/sites/12/2025/06/02122749/HPCL-Notification-2025-2.pdf"
+    ],
+    "reuters.com": [
+      "https://www.reuters.com/science/astronomers-locate-universes-missing-matter-2025-06-16/"
+    ],
+    "m.timesofindia.com": [
+      "http://m.timesofindia.com/articleshow/121657956.cms#?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst"
+    ],
+    "viewpoint.eiu.com": [
+      "https://viewpoint.eiu.com/analysis/article/1122159112/"
+    ],
+    "livemint.com": [
+      "https://www.livemint.com/industry/tamil-nadu-industrial-development-vinfast-plant-jabil-ola-electric-tata-solar-yokohama-tyres-britannia-industries-bosch-11751877572069.html"
+    ],
+    "auto.economictimes.indiatimes.com": [
+      "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/vinfast-auto-india-inducts-first-200-hires-at-thoothukudi-ev-plant/122342643"
+    ],
+    "ungaludanstalin.tn.gov.in": [
+      "https://ungaludanstalin.tn.gov.in/",
+      "http://ungaludanstalin.tn.gov.in"
+    ],
+    "pib.gov.in": [
+      "https://pib.gov.in/PressReleasePage.aspx?PRID=2149370"
+    ],
+    "transtan.tn.gov.in": [
+      "https://transtan.tn.gov.in"
+    ],
+    "forms.gle": [
+      "https://forms.gle/QDbB1pcg8ZhznJ6TA"
+    ],
+    "1.how": [
+      "http://1.How"
+    ],
+    "hlcusr.tn.gov.in": [
+      "https://hlcusr.tn.gov.in"
+    ],
+    "linkedin.com": [
+      "https://www.linkedin.com/pulse/tamil-nadu-natural-partner-global-universities-innovate-conduct-o5roc"
+    ],
+    "intdy.in": [
+      "https://intdy.in/sgq1ki"
+    ],
+    "nakkheeran.in": [
+      "https://www.nakkheeran.in/24-by-7-news/minister-raghupathi-says-eps-is-going-to-lock-down-the-party-by-buying-a-lock-from-dindigul-srinivasan-10483381",
+      "https://www.nakkheeran.in/24-by-7-news/adhav-arjunas-post-shows-extreme-irresponsibility-kanimozhi-interview-10515265"
+    ],
+    "tnjfu.ac.in": [
+      "https://www.tnjfu.ac.in/"
+    ],
+    "cms.tn.gov.in": [
+      "https://cms.tn.gov.in/cms_migrated/document/docfiles/forests_e_pn_2025_26.pdf"
+    ],
+    "epw.in": [
+      "https://www.epw.in/journal/2010/50/verdict-ayodhya-special-issues/was-there-temple-under-babri-masjid-reading"
+    ],
+    "tngasa.in": [
+      "http://www.tngasa.in"
+    ],
+    "hub.brussels": [
+      "http://Hub.Brussels"
+    ],
+    "lnkd.in": [
+      "https://lnkd.in/dfnXE-CF"
+    ],
+    "barandbench.com": [
+      "https://www.barandbench.com/columns/who-will-bell-the-cat-transfer-of-investigation-in-the-karur-stampede-case"
+    ],
+    "chat.whatsapp.com": [
+      "https://chat.whatsapp.com/IRIGv0zCReOBVusXBexmY9?mode=wwt"
+    ],
+    "dinakaran.com": [
+      "https://www.dinakaran.com/news/minister_praises_abinesh_mohandas/"
+    ],
+    "scroll.in": [
+      "https://scroll.in/article/1087919/how-nicobars-corals-disappeared-on-government-maps"
+    ],
+    "archive.fo": [
+      "https://archive.fo/GnRoO"
+    ],
+    "dmk.in": [
+      "https://www.dmk.in/ta/resources/bda-list/"
+    ],
+    "erolls.tn.gov.in": [
+      "https://erolls.tn.gov.in/electoralsearch/",
+      "https://erolls.tn.gov.in/asd/"
+    ],
+    "electoralsearch.eci.gov.in": [
+      "https://electoralsearch.eci.gov.in/"
+    ],
+    "voters.eci.gov.in": [
+      "https://voters.eci.gov.in/"
+    ],
+    "rushlane.com": [
+      "https://www.rushlane.com/amp/tvs-starts-manufacturing-bmw-f-450-gs-in-india-achieves-new-milestone-12535274.html?_gl=1*o7jmsb*_ga*MTY3NzAyNDcxMi4xNzM3NjY5NjAw*_ga_KY7NC1YCJV*czE3NjQyOTAzMzIkbzY3NiRnMSR0MTc2NDI5MDMzMiRqNjAkbDAkaDA"
+    ],
+    "vingroup.net": [
+      "https://vingroup.net/en/news/detail/3727/vinfast-announces-expansion-of-its-tamil-nadu-facility-targeting-electric-bus-and-electric-two-wheeler-production"
+    ],
+    "share.google": [
+      "https://share.google/827owue8oQ10HPhuE"
+    ],
+    "soas.ac.uk": [
+      "https://www.soas.ac.uk/about/news/soas-south-asia-institute-launches-new-fellowship-support-social-justice"
+    ],
+    "rbidocs.rbi.org.in": [
+      "https://rbidocs.rbi.org.in/rdocs/Publications/PDFs/21T_11122025D994949B48C44B68B4465FBB9ADDFF3D.PDF"
+    ],
+    "itw2026.com": [
+      "http://itw2026.com"
+    ],
+    "wrld.bg": [
+      "http://wrld.bg/5CCg50XMWYw"
+    ],
+    "reporters-collective.in": [
+      "https://www.reporters-collective.in/trc/eci-pulls-a-u-turn-rolls-out-algorithms-midway-into-sir"
+    ],
+    "theweek.in": [
+      "https://www.theweek.in/theweek/specials/2025/12/27/the-young-guns-of-archaeology-meet-the-team-unearthing-tamil-nadus-past.html"
+    ],
+    "tnmanifesto.ai": [
+      "https://tnmanifesto.ai/",
+      "http://tnmanifesto.ai"
+    ],
+    "aninews.in": [
+      "https://aninews.in/news/business/third-tranche-of-ecms-approved-with-rs-41863-crore-investment-covering-22-applications20260102131543/"
+    ],
+    "caravanmagazine.in": [
+      "https://caravanmagazine.in/crime/thirupparanakundram-murugan-sikkandar-dargah-tamil-nadu"
+    ],
+    "timesofindia-indiatimes-com.cdn.ampproject.org": [
+      "https://timesofindia-indiatimes-com.cdn.ampproject.org/v/s/timesofindia.indiatimes.com/city/chennai/gccs-now-take-up-more-than-half-of-chennais-office-space/amp_articleshow/126381076.cms?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=17677527208666&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fcity%2Fchennai%2Fgccs-now-take-up-more-than-half-of-chennais-office-space%2Farticleshow%2F126381076.cms"
+    ],
+    "go.gov.sg": [
+      "http://go.gov.sg/p9h6c"
+    ],
+    "tngts2026.com": [
+      "https://tngts2026.com/register"
+    ],
+    "altnews.in": [
+      "https://www.altnews.in/six-government-medical-colleges-in-gujarat-kanimozhis-claim-correct-ai-fact-check-shared-by-bjp-false/"
+    ]
+  },
+  "links": [
+    {
+      "url": "https://www.thehindu.com/opinion/lead/going-bullish-on-investment-in-tamil-nadu/article68687343.ece",
+      "urlHash": "c8ecd9a85184",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1839591435248566465",
+          "handle": "mkstalin",
+          "date": "Fri Sep 27"
+        },
+        {
+          "tweetId": "1839592086384861189",
+          "handle": "mkstalin",
+          "date": "Fri Sep 27"
+        },
+        {
+          "tweetId": "1839615905317494830",
+          "handle": "mkstalin",
+          "date": "Fri Sep 27"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/op-ed/ensuring-a-fair-federal-balance/article69471192.ece",
+      "urlHash": "a5304bd6a94d",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1914167131593413001",
+          "handle": "mkstalin",
+          "date": "Mon Apr 21"
+        },
+        {
+          "tweetId": "1914181700692672750",
+          "handle": "mkstalin",
+          "date": "Mon Apr 21"
+        },
+        {
+          "tweetId": "1914204586908536901",
+          "handle": "mkstalin",
+          "date": "Mon Apr 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.deccanherald.com/elections/tamil-nadu/the-tuesday-interview-bjp-and-its-ideology-should-be-opposed-beyond-elections-stalin-3537572",
+      "urlHash": "02386751afc7",
+      "domain": "deccanherald.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1922155809305461045",
+          "handle": "mkstalin",
+          "date": "Tue May 13"
+        },
+        {
+          "tweetId": "1922194909487849637",
+          "handle": "mkstalin",
+          "date": "Tue May 13"
+        },
+        {
+          "tweetId": "1922216424946221099",
+          "handle": "mkstalin",
+          "date": "Tue May 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.livemint.com/industry/tamil-nadu-industrial-development-vinfast-plant-jabil-ola-electric-tata-solar-yokohama-tyres-britannia-industries-bosch-11751877572069.html",
+      "urlHash": "375b19648c93",
+      "domain": "livemint.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1942570680446509362",
+          "handle": "mkstalin",
+          "date": "Tue Jul 08"
+        },
+        {
+          "tweetId": "1942590967900721456",
+          "handle": "mkstalin",
+          "date": "Tue Jul 08"
+        },
+        {
+          "tweetId": "1942611197792010686",
+          "handle": "mkstalin",
+          "date": "Tue Jul 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/op-ed/tamil-nadus-engine-of-progress-education-for-all/article69883542.ece",
+      "urlHash": "c093e154fce4",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1951481819771314228",
+          "handle": "TRBRajaa",
+          "date": "Sat Aug 02"
+        },
+        {
+          "tweetId": "1951482743646462119",
+          "handle": "mkstalin",
+          "date": "Sat Aug 02"
+        },
+        {
+          "tweetId": "1951501188379320610",
+          "handle": "mkstalin",
+          "date": "Sat Aug 02"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/lead/a-startup-revolution-the-goal-of-innovation-capital/article70118707.ece",
+      "urlHash": "2cdb0e5c8874",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1973961344899588579",
+          "handle": "mkstalin",
+          "date": "Fri Oct 03"
+        },
+        {
+          "tweetId": "1973965978699771998",
+          "handle": "mkstalin",
+          "date": "Fri Oct 03"
+        },
+        {
+          "tweetId": "1974001040639852573",
+          "handle": "mkstalin",
+          "date": "Fri Oct 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/lead/states-and-the-challenge-before-the-finance-commission/article68951735.ece",
+      "urlHash": "43be288fbf30",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1864874920775422392",
+          "handle": "mkstalin",
+          "date": "Fri Dec 06"
+        },
+        {
+          "tweetId": "1864905203356700990",
+          "handle": "mkstalin",
+          "date": "Fri Dec 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/federal-balance-is-a-key-indicator-of-a-thriving-democracy/article69927892.ece",
+      "urlHash": "0a92c0dc810d",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1956226848934748614",
+          "handle": "mkstalin",
+          "date": "Fri Aug 15"
+        },
+        {
+          "tweetId": "1956245550438690911",
+          "handle": "mkstalin",
+          "date": "Fri Aug 15"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/cities/chennai/major-cave-in-on-chennais-anna-salai/article17897151.ece",
+      "urlHash": "1ea34f9791fc",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1983469426893844848",
+          "handle": "youturn_in",
+          "date": "Wed Oct 29"
+        },
+        {
+          "tweetId": "1983533624604688725",
+          "handle": "youturn_in",
+          "date": "Wed Oct 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/op-ed/high-courts-take-on-marriage-act-an-erosion-of-rights/article68297655.ece/amp/",
+      "urlHash": "2aa53a2a34c0",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1802670016652882121",
+          "handle": "manuraj1983",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/sport/indian-national-ultimate-frisbee-team-wins-silver-at-the-2024-asia-oceanic-championship-held-in-japan/article68299639.ece",
+      "urlHash": "770a37966505",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1803662352417694174",
+          "handle": "TRBRajaa",
+          "date": "Thu Jun 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-is-a-front-runner-in-13-sustainable-development-goals-says-niti-aayog-report/article68414333.ece",
+      "urlHash": "aaa1071ee439",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1813783472550649898",
+          "handle": "Dr_Ezhilan",
+          "date": "Thu Jul 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/visual-story",
+      "urlHash": "978d32200bf8",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1815025986364219641",
+          "handle": "DMKITwing",
+          "date": "Sun Jul 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/tamil-nadu-chief-minister-m-k-stalin-discussed-with-5-district-collectors-625131.html",
+      "urlHash": "0de49429b14b",
+      "domain": "tamil.oneindia.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1817168252642222151",
+          "handle": "thatsTamil",
+          "date": "Sat Jul 27"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/bus-free-for-women-foreign-youtuber-surprise-trp-rajas-tweet-626171.html",
+      "urlHash": "fb1641349f42",
+      "domain": "tamil.oneindia.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1818841267020722253",
+          "handle": "thatsTamil",
+          "date": "Wed Jul 31"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.deccanherald.com/india/tamil-nadu/space-tech-accelerator-launched-in-tamil-nadu-3131321?utm_source=twitter&utm_medium=referral&utm_campaign=socialshare",
+      "urlHash": "e25912d75e4a",
+      "domain": "deccanherald.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1819040314025246857",
+          "handle": "UpdatesChennai",
+          "date": "Thu Aug 01"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/north-chennais-first-information-technology-park-to-be-established-in-madhavaram/article68493368.ece",
+      "urlHash": "c1bb64e1d361",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1821046857768038667",
+          "handle": "TRBRajaa",
+          "date": "Wed Aug 07"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.moneycontrol.com/technology/tatas-fourth-iphone-assembly-plant-likely-to-start-in-november-report-article-12800131.html",
+      "urlHash": "7b431be2e637",
+      "domain": "moneycontrol.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1826859649884160313",
+          "handle": "TRBRajaa",
+          "date": "Fri Aug 23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/07/three-mous-inked-tn-may-get-rs-850-cr-in-investments",
+      "urlHash": "0a683c777834",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1832851250091577842",
+          "handle": "xpresstn",
+          "date": "Sat Sep 07"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/negotiations-and-diligent-follow-ups-helped-bring-back-ford-to-tamil-nadu/article68639508.ece",
+      "urlHash": "5f5cdbb8d6ce",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1834967926094344559",
+          "handle": "sang1983",
+          "date": "Sat Sep 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/26/cm-stalin-visits-guidance-celebrates-bagging-rs-10-lakh-crore-investments-in-three-years",
+      "urlHash": "ccebe218ab86",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1839484698793238714",
+          "handle": "xpresstn",
+          "date": "Thu Sep 26"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/schwing-stetter-india-launches-all-women-service-centre-in-chennai/article68687266.ece",
+      "urlHash": "2e6719da7181",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1839583294247321733",
+          "handle": "sang1983",
+          "date": "Fri Sep 27"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/as-tamil-nadu-would-be-severely-impacted-by-heat-planning-commission-lays-out-mitigation-road-map/article68709882.ece",
+      "urlHash": "16b860843718",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1841705484044382476",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/tata-electronics-resumes-partial-operations-at-fire-hit-hosur-factory-employees-to-receive-full-pay/article68712492.ece",
+      "urlHash": "265e07acaf00",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1841906601868906548",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Oct/04/75-years-of-defining-tns-socio-political-course",
+      "urlHash": "58b79472e7b4",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1842164055013806354",
+          "handle": "DMKITwing",
+          "date": "Fri Oct 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Oct/19/not-in-grams-but-in-kg-tn-cops-drug-data-proves-governor-wrong?s=09",
+      "urlHash": "57796e2b23e2",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1847707215991374245",
+          "handle": "DMKITwing",
+          "date": "Sat Oct 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/editorial/sun-signs-on-extreme-heat-and-tamil-nadus-policy-decision/article68815083.ece",
+      "urlHash": "96436142f6cd",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1852222634030961126",
+          "handle": "ramyakannan",
+          "date": "Thu Oct 31"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/naan-mudhalvan-upskilling-initiative-starts-delivering-intended-impact-say-heads-of-heis/article68823300.ece",
+      "urlHash": "54b6ec9bdada",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1853000457633054811",
+          "handle": "DMKITwing",
+          "date": "Sun Nov 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tirunelveli-emerges-as-a-thriving-startup-hub/article68849910.ece",
+      "urlHash": "7e9639c29cb9",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1855587574313595128",
+          "handle": "TNIndMin",
+          "date": "Sun Nov 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Nov/15/lubrizol-signs-mou-to-create-medical-manufacturing-facility-near-chennai",
+      "urlHash": "d50c57a1bf7f",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1857788593089253692",
+          "handle": "TRBRajaa",
+          "date": "Sat Nov 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Dec/03/tamil-nadu-cm-announces-comprehensive-relief-package-for-people-affected-by-cyclone-fengal",
+      "urlHash": "5a236ed52066",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1863887001419727329",
+          "handle": "xpresstn",
+          "date": "Tue Dec 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/kerala/tamil-nadu-keen-on-collaborating-with-csir-niist-tn-industries-minister-trb-rajaa/article69044312.ece",
+      "urlHash": "c51a970f0e58",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1873893751858618446",
+          "handle": "TNIndMin",
+          "date": "Mon Dec 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/editorial/%E2%80%8Bcontrived-grievance-the-hindu-editorial-on-the-tamil-nadu-governor/article69068113.ece",
+      "urlHash": "289e48f79622",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1876497288178368692",
+          "handle": "the_hindu",
+          "date": "Tue Jan 07"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/tamil-nadu-looks-to-highlight-its-talent-pool-and-manufacturing-strength-at-davos-2025/article69104940.ece",
+      "urlHash": "c688deee0b2b",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1879957067135623325",
+          "handle": "SindhuHarih",
+          "date": "Thu Jan 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/arunthathiyars-special-quota-benefits-community-reveals-rti/article69104128.ece/amp/",
+      "urlHash": "89de5fd9d0c4",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1880099522388578341",
+          "handle": "DMKITwing",
+          "date": "Fri Jan 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://www.dinamalar.com",
+      "urlHash": "6d3dcd9f5cc8",
+      "domain": "dinamalar.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1881281039215276498",
+          "handle": "dinamalarweb",
+          "date": "Mon Jan 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-is-one-of-the-frontrunners-in-ev-infrastructure-union-minister/article69196533.ece",
+      "urlHash": "aa184c13339a",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1888459709608591540",
+          "handle": "TNIndMin",
+          "date": "Sun Feb 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/chennai-leads-warehousing-transaction-volume-growth-expands-29-per-cent-yoy-knight-frank-india/article69322105.ece",
+      "urlHash": "89a3f4dbb04c",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1900101749652021333",
+          "handle": "TRBRajaa",
+          "date": "Thu Mar 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Mar/22/vinfast-likely-to-start-production-in-three-months-thoothukudi-turns-tns-fourth-big-auto-cluster",
+      "urlHash": "36afc48aafab",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1903742352034058262",
+          "handle": "UpdatesChennai",
+          "date": "Sat Mar 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/amp/story/states/tamil-nadu/2025/Mar/22/interview-rising-debt-as-centre-has-clipped-our-financial-autonomy-tn-finance-minister-thangam-thennarasu",
+      "urlHash": "8d05a0e63294",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1903742816486048182",
+          "handle": "TThenarasu",
+          "date": "Sun Mar 23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-sets-a-new-high-with-969-growth/article69412551.ece",
+      "urlHash": "c30f233c6840",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1908379455237554420",
+          "handle": "TRBRajaa",
+          "date": "Sat Apr 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/lead/prakash-raj-on-umar-khalid-and-the-unfinished-fight-of-an-anti-national/article69457509.ece",
+      "urlHash": "ad4eeea1b6cc",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1912689366968975802",
+          "handle": "nramind",
+          "date": "Thu Apr 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/vice-president-dhankhar-supreme-court-judges-president-state-bills-timeline/article69460514.ece",
+      "urlHash": "f80b7aaba82f",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1913140276513604094",
+          "handle": "nramind",
+          "date": "Fri Apr 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/editorial/enabling-legislation-on-tamil-nadu-bills-persons-with-disabilities/article69471304.ece",
+      "urlHash": "69b6dd0d0579",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1914181588562157745",
+          "handle": "nramind",
+          "date": "Mon Apr 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/economy/logistics/tamil-nadu-to-soon-release-a-policy-on-warehousing/article69505151.ece",
+      "urlHash": "ed5db2bffe87",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1917528121714303054",
+          "handle": "UpdatesChennai",
+          "date": "Wed Apr 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/op-ed/a-day-in-the-life-of-a-data-journalist/article69606679.ece",
+      "urlHash": "39535d224343",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1926133367696691499",
+          "handle": "nramind",
+          "date": "Sat May 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-capital-expenditure-grew-over-16-in-fiscal-2025/article69617420.ece",
+      "urlHash": "6fb31be32bea",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1928011314246328640",
+          "handle": "TThenarasu",
+          "date": "Thu May 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/muthalvar-padaippagam-a-co-working-space-helps-the-budding-businessmen-cut-cost/article69646303.ece",
+      "urlHash": "4b9c20e1948e",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1929405454255370547",
+          "handle": "DMKITwing",
+          "date": "Mon Jun 02"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/neolithic-grooves-found-at-adiperumal-temple-near-vannamparai-in-tiruppur-district/article69703980.ece",
+      "urlHash": "811c6ba8daea",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1936327364071333943",
+          "handle": "TRBRajaa",
+          "date": "Sat Jun 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-infocus-locked-up-with-seven-inmates-stalin-was-beaten-harassed-and-fed-kali/article69731954.ece",
+      "urlHash": "be64cecbb7be",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1937832819612614807",
+          "handle": "DMKITwing",
+          "date": "Wed Jun 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/maharashtra/analysing-why-maharashtras-hindi-u-turn-exposes-neps-language-paradox/article69762714.ece",
+      "urlHash": "a13267ee2d22",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1940314563788120430",
+          "handle": "com_maruthaiyan",
+          "date": "Wed Jul 02"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.deccanherald.com/elections/tamil-nadu/the-iron-age-written-in-iron-3614253",
+      "urlHash": "89ff4bf0cb8a",
+      "domain": "deccanherald.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1941138357062688849",
+          "handle": "DMKITwing",
+          "date": "Fri Jul 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/cities/Madurai/vinfast-recruits-200-polytechnic-students-trained-under-naan-mudhalvan-skill-development-drive/article69807557.ece",
+      "urlHash": "6e4b59445488",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1944873918327873556",
+          "handle": "DMKITwing",
+          "date": "Mon Jul 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/seaweed-cultivation-thrives-in-thoothukudi-strengthening-the-blue-economy/article69834863.ece",
+      "urlHash": "80aa3048b6f2",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1948032199640678721",
+          "handle": "Guidance_TN",
+          "date": "Wed Jul 23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/economy/oragadam-sriperumbudur-emerges-as-tyre-capital-making-30-of-indias-output/article69869052.ece",
+      "urlHash": "b0488855043d",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1950579692127539676",
+          "handle": "Guidance_TN",
+          "date": "Wed Jul 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://thehindu.com/news/national/\u2026",
+      "urlHash": "b4abaa073a8d",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1952917191592157563",
+          "handle": "TRBRajaa",
+          "date": "Wed Aug 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/companies/china-plus-one-funskool-india-sees-increased-global-partnerships-and-exports-growth/article69893894.ece",
+      "urlHash": "e1b0466552e3",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1953760229075869882",
+          "handle": "TnInvestment",
+          "date": "Tue Aug 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Aug/14/eci-bjp-nexus-turning-democracy-into-mockery-dmk-resolution-on-sir",
+      "urlHash": "e4da93c5eae5",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1955955138998485489",
+          "handle": "xpresstn",
+          "date": "Thu Aug 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Aug/18/southern-tn-emerges-as-south-indias-next-export-hub",
+      "urlHash": "2e9280517c36",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1957293635231531404",
+          "handle": "xpresstn",
+          "date": "Mon Aug 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Aug/18/strategic-approach-taken-to-boost-tns-logistics-backbone-industries-minister-trb-rajaa",
+      "urlHash": "70c59c7a9e03",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1957384030372110840",
+          "handle": "xpresstn",
+          "date": "Mon Aug 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/bihar/stalin-voter-adhikar-yatra-bihar-rahul-gandhi-aug-27-2025/article69982294.ece",
+      "urlHash": "23bc0cccf744",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1960681682551628110",
+          "handle": "nramind",
+          "date": "Wed Aug 27"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Sep/02/dmk-it-wing-launches-dravidian-month-fete",
+      "urlHash": "3eb9e0563cb8",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1962763052396511556",
+          "handle": "ezhil_jkm",
+          "date": "Tue Sep 02"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dinamalar.com/news/tamil-nadu-news/pms-road-show-in-chennai-police-permit-with-20-conditions--/3595746",
+      "urlHash": "27b714fbfb84",
+      "domain": "dinamalar.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1969597691576664462",
+          "handle": "tn_factcheck",
+          "date": "Sat Sep 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/forests_e_pn_2025_26.pdf",
+      "urlHash": "838f31b31eb6",
+      "domain": "cms.tn.gov.in",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1969597691576664462",
+          "handle": "tn_factcheck",
+          "date": "Sat Sep 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dinakaran.com/news/minister_praises_abinesh_mohandas/",
+      "urlHash": "07bf543cae43",
+      "domain": "dinakaran.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1981901775490740715",
+          "handle": "TRBRajaa",
+          "date": "Sat Oct 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/op-ed/applying-the-dravidian-algorithm-to-sports/article70260049.ece",
+      "urlHash": "71270773eb02",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1987762626756325871",
+          "handle": "Udhaystalin",
+          "date": "Mon Nov 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-invests-in-libraries-reimaging-them-as-knowledge-and-innovation-hubs-3797863?utm_source=twitter&utm_medium=referral&utm_campaign=socialshare",
+      "urlHash": "c6e749de9135",
+      "domain": "deccanherald.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1989404985608839386",
+          "handle": "UpdatesChennai",
+          "date": "Fri Nov 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Nov/17/sir-exercise-not-so-rosy-on-the-ground-in-tamil-nadu",
+      "urlHash": "565c79b169a6",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1990293579684864164",
+          "handle": "com_maruthaiyan",
+          "date": "Mon Nov 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/companies/agnikul-cosmos-raises-17-million-funding-at-05-billion-valuation/article70310470.ece",
+      "urlHash": "f52ff3745cf7",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1992256877280084095",
+          "handle": "SindhuHarih",
+          "date": "Sat Nov 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/welfare-measures-and-distributed-growth-behind-tamil-nadus-economic-growth-says-industries-min-trb-rajaa/article70389190.ece",
+      "urlHash": "1359772799da",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "1999673759180222464",
+          "handle": "SindhuHarih",
+          "date": "Sat Dec 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/cm-stalin-flags-humanitarian-crisis-as-us-tariffs-threaten-tns-textile-leather-industries",
+      "urlHash": "28943773ebff",
+      "domain": "newindianexpress.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "2001531032160604359",
+          "handle": "TRBRajaa",
+          "date": "Thu Dec 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-draft-electoral-roll-sir-eci-released-updates/article70415857.ece",
+      "urlHash": "71d9d3277353",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "2002977607021928875",
+          "handle": "nramind",
+          "date": "Mon Dec 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/data/tamil-nadu-sir-unusual-patterns-in-deleted-electors-list/article70424625.ece",
+      "urlHash": "5c811fec555c",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "2002977607021928875",
+          "handle": "nramind",
+          "date": "Mon Dec 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/over-half-of-elector-deletions-in-tn-concentrated-in-eight-districts-in-two-clusters/article70420290.ece",
+      "urlHash": "8f88102d8840",
+      "domain": "thehindu.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "2002977607021928875",
+          "handle": "nramind",
+          "date": "Mon Dec 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-emerges-prime-destination-for-companies-moving-away-from-china-arvind-subramanian-3852353?utm_source=twitter&utm_medium=referral&utm_campaign=socialshare",
+      "urlHash": "df2af105d3cf",
+      "domain": "deccanherald.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "2008650769864814621",
+          "handle": "TRBRajaa",
+          "date": "Tue Jan 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/national/tamil-nadu-and-sarvam-al-to-establish-indias-first-sovereign-al-park-with-investment-of-10000-crore-in-five-years-and-create-1000-jobs/article70504386.ece",
+      "urlHash": "358b7ed9761a",
+      "domain": "thehindubusinessline.com",
+      "priority": "high",
+      "sourceTweets": [
+        {
+          "tweetId": "2011103712941580477",
+          "handle": "SindhuHarih",
+          "date": "Tue Jan 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://News18Tamil.com",
+      "urlHash": "75d01379832b",
+      "domain": "news18tamil.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1851470217278603641",
+          "handle": "News18TamilNadu",
+          "date": "Tue Oct 29"
+        },
+        {
+          "tweetId": "1851570764341768661",
+          "handle": "News18TamilNadu",
+          "date": "Wed Oct 30"
+        },
+        {
+          "tweetId": "1855873153370665189",
+          "handle": "News18TamilNadu",
+          "date": "Mon Nov 11"
+        },
+        {
+          "tweetId": "1892215699826774180",
+          "handle": "News18TamilNadu",
+          "date": "Wed Feb 19"
+        },
+        {
+          "tweetId": "1893958126874907135",
+          "handle": "News18TamilNadu",
+          "date": "Mon Feb 24"
+        },
+        {
+          "tweetId": "1920827446997160320",
+          "handle": "News18TamilNadu",
+          "date": "Fri May 09"
+        },
+        {
+          "tweetId": "1924971336855912566",
+          "handle": "News18TamilNadu",
+          "date": "Tue May 20"
+        },
+        {
+          "tweetId": "1929123137834078633",
+          "handle": "News18TamilNadu",
+          "date": "Sun Jun 01"
+        },
+        {
+          "tweetId": "1929789737558049101",
+          "handle": "News18TamilNadu",
+          "date": "Tue Jun 03"
+        },
+        {
+          "tweetId": "1939195667093823683",
+          "handle": "News18TamilNadu",
+          "date": "Sun Jun 29"
+        },
+        {
+          "tweetId": "1942054134125076900",
+          "handle": "News18TamilNadu",
+          "date": "Mon Jul 07"
+        },
+        {
+          "tweetId": "1955555160065032275",
+          "handle": "News18TamilNadu",
+          "date": "Wed Aug 13"
+        },
+        {
+          "tweetId": "1956288196871962702",
+          "handle": "News18TamilNadu",
+          "date": "Fri Aug 15"
+        },
+        {
+          "tweetId": "1960936923364540683",
+          "handle": "News18TamilNadu",
+          "date": "Thu Aug 28"
+        },
+        {
+          "tweetId": "1971555776058831083",
+          "handle": "News18TamilNadu",
+          "date": "Fri Sep 26"
+        },
+        {
+          "tweetId": "1972480178468290644",
+          "handle": "News18TamilNadu",
+          "date": "Sun Sep 28"
+        },
+        {
+          "tweetId": "1973083984935469495",
+          "handle": "News18TamilNadu",
+          "date": "Tue Sep 30"
+        },
+        {
+          "tweetId": "1976340894073881034",
+          "handle": "News18TamilNadu",
+          "date": "Wed Oct 08"
+        },
+        {
+          "tweetId": "1978820299937272171",
+          "handle": "News18TamilNadu",
+          "date": "Thu Oct 16"
+        },
+        {
+          "tweetId": "1983533804427059222",
+          "handle": "News18TamilNadu",
+          "date": "Wed Oct 29"
+        },
+        {
+          "tweetId": "1993206691744432535",
+          "handle": "News18TamilNadu",
+          "date": "Mon Nov 24"
+        },
+        {
+          "tweetId": "1994774424692953318",
+          "handle": "News18TamilNadu",
+          "date": "Sat Nov 29"
+        },
+        {
+          "tweetId": "2000933397712290257",
+          "handle": "News18TamilNadu",
+          "date": "Tue Dec 16"
+        },
+        {
+          "tweetId": "2005253416067674489",
+          "handle": "News18TamilNadu",
+          "date": "Sun Dec 28"
+        },
+        {
+          "tweetId": "2007876592924831960",
+          "handle": "News18TamilNadu",
+          "date": "Sun Jan 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://www.news7tamil.live",
+      "urlHash": "de63705ec169",
+      "domain": "news7tamil.live",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1800018150492422644",
+          "handle": "news7tamil",
+          "date": "Mon Jun 10"
+        },
+        {
+          "tweetId": "1827767834190942495",
+          "handle": "news7tamil",
+          "date": "Sun Aug 25"
+        },
+        {
+          "tweetId": "1831196248830857596",
+          "handle": "news7tamil",
+          "date": "Wed Sep 04"
+        },
+        {
+          "tweetId": "1838909368709812351",
+          "handle": "news7tamil",
+          "date": "Wed Sep 25"
+        },
+        {
+          "tweetId": "1855679639055917567",
+          "handle": "news7tamil",
+          "date": "Sun Nov 10"
+        },
+        {
+          "tweetId": "1860972477872001149",
+          "handle": "news7tamil",
+          "date": "Mon Nov 25"
+        },
+        {
+          "tweetId": "1917177701787738505",
+          "handle": "news7tamil",
+          "date": "Tue Apr 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://whatsapp.com/channel/0029Va4Z7ju7j6gDEeegs737",
+      "urlHash": "d7519c084bd5",
+      "domain": "whatsapp.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1808309300252549360",
+          "handle": "DMKITwing",
+          "date": "Tue Jul 02"
+        },
+        {
+          "tweetId": "1808546619002081542",
+          "handle": "DMKITwing",
+          "date": "Wed Jul 03"
+        },
+        {
+          "tweetId": "1937571735832003071",
+          "handle": "TRBRajaa",
+          "date": "Tue Jun 24"
+        },
+        {
+          "tweetId": "1937571832410124410",
+          "handle": "TRBRajaa",
+          "date": "Tue Jun 24"
+        },
+        {
+          "tweetId": "1937819517352378390",
+          "handle": "DMKITwing",
+          "date": "Wed Jun 25"
+        },
+        {
+          "tweetId": "1945984812516626795",
+          "handle": "DMKITwing",
+          "date": "Tue Jul 15"
+        },
+        {
+          "tweetId": "1994670866689659251",
+          "handle": "DMKITwing",
+          "date": "Sat Nov 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.economist.com/asia/2025/03/27/why-indias-south-is-fighting-plans-to-overhaul-parliament",
+      "urlHash": "3435cac9260d",
+      "domain": "economist.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1905885959201452180",
+          "handle": "TThenarasu",
+          "date": "Sat Mar 29"
+        },
+        {
+          "tweetId": "1905886116659789887",
+          "handle": "TRBRajaa",
+          "date": "Sat Mar 29"
+        },
+        {
+          "tweetId": "1905890367125553167",
+          "handle": "mkstalin",
+          "date": "Sat Mar 29"
+        },
+        {
+          "tweetId": "1905909183821857060",
+          "handle": "mkstalin",
+          "date": "Sat Mar 29"
+        },
+        {
+          "tweetId": "1905913338963660915",
+          "handle": "mkstalin",
+          "date": "Sat Mar 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/172WcMZMRNNdO8pxGTZcXXU3V4Fzn1wzg/view?usp=sharing",
+      "urlHash": "35952b6f742d",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1R_N0ek2eodABHJXDNGvpDCFF6gRmRilH/view?usp=sharing",
+      "urlHash": "8abcb5f33054",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1jMtiD3__IeLAeHMCciAkkEb6SHWXxb8C/view?usp=sharing",
+      "urlHash": "b58f5bd4463b",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1--dhimVIdk_Z7EvnSEPU8rRrg3GCAhBv/view?usp=sharing",
+      "urlHash": "4aac190405fa",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1ywnaMe5RdN8xsZWGVmx4I5UAlc2kXaZ5/view?usp=sharing",
+      "urlHash": "8c83ce6cfd67",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/12QMsjL1E4VUhwYaL2DYFB4HZ6KUOt2Zo/view?usp=sharing",
+      "urlHash": "f18619f3a98f",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1F9NnMro4Ov22HVopyTXlkp-YWhUDQknA/view?usp=sharing",
+      "urlHash": "61877ba7b83d",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/19d9-vOb81cgUFdhSxcaaWNP_YTzUaxFu/view?usp=sharing",
+      "urlHash": "65a329839afa",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Gy68yWV8IfXAv2MwzcJ9JuiAxBxNQfWE/view?usp=sharing",
+      "urlHash": "14fed6bb73d0",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1799693542308340098",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799697462288093442",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        },
+        {
+          "tweetId": "1799698189991514204",
+          "handle": "mkstalin",
+          "date": "Sun Jun 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://Chenn.AI",
+      "urlHash": "c7c94602acae",
+      "domain": "chenn.ai",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1829762525858074799",
+          "handle": "lenin_govi",
+          "date": "Sat Aug 31"
+        },
+        {
+          "tweetId": "1916839457703313524",
+          "handle": "TRBRajaa",
+          "date": "Mon Apr 28"
+        },
+        {
+          "tweetId": "2017134652042199306",
+          "handle": "ndtv",
+          "date": "Fri Jan 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://on.ft.com/3G5tLgp",
+      "urlHash": "03cd4be93008",
+      "domain": "on.ft.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1908113489194803312",
+          "handle": "mkstalin",
+          "date": "Fri Apr 04"
+        },
+        {
+          "tweetId": "1908131785306689790",
+          "handle": "mkstalin",
+          "date": "Fri Apr 04"
+        },
+        {
+          "tweetId": "1908147257733530082",
+          "handle": "mkstalin",
+          "date": "Fri Apr 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://tnlasdigital.tn.gov.in",
+      "urlHash": "4504b9f0b379",
+      "domain": "tnlasdigital.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1915688746638606799",
+          "handle": "CMOTamilnadu",
+          "date": "Fri Apr 25"
+        },
+        {
+          "tweetId": "1915752555889770533",
+          "handle": "mkstalin",
+          "date": "Fri Apr 25"
+        },
+        {
+          "tweetId": "1915759011070382463",
+          "handle": "mkstalin",
+          "date": "Fri Apr 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/bjp-used-governors-to-run-parallel-state-government-says-mk-stalin-101747078351915.html",
+      "urlHash": "25ecd208e7f4",
+      "domain": "hindustantimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1922136061318463952",
+          "handle": "mkstalin",
+          "date": "Tue May 13"
+        },
+        {
+          "tweetId": "1922152837233991793",
+          "handle": "mkstalin",
+          "date": "Tue May 13"
+        },
+        {
+          "tweetId": "1922216401449718151",
+          "handle": "mkstalin",
+          "date": "Tue May 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/blogs/toi-editorials/factory-factor/",
+      "urlHash": "fa41c8d2da50",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1930180022888985030",
+          "handle": "mkstalin",
+          "date": "Wed Jun 04"
+        },
+        {
+          "tweetId": "1930183827613462621",
+          "handle": "mkstalin",
+          "date": "Wed Jun 04"
+        },
+        {
+          "tweetId": "1930196151493337508",
+          "handle": "mkstalin",
+          "date": "Wed Jun 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://1.How",
+      "urlHash": "0da3c31ce4cb",
+      "domain": "1.how",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1957340775190266254",
+          "handle": "mkstalin",
+          "date": "Mon Aug 18"
+        },
+        {
+          "tweetId": "1957344165680824373",
+          "handle": "mkstalin",
+          "date": "Mon Aug 18"
+        },
+        {
+          "tweetId": "1957365806926606435",
+          "handle": "mkstalin",
+          "date": "Mon Aug 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.economist.com/asia/2025/11/13/which-is-indias-superstar-state",
+      "urlHash": "10dcf34b7568",
+      "domain": "economist.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1989022493022314707",
+          "handle": "TRBRajaa",
+          "date": "Thu Nov 13"
+        },
+        {
+          "tweetId": "1989186892894728347",
+          "handle": "dhanyarajendran",
+          "date": "Fri Nov 14"
+        },
+        {
+          "tweetId": "1989533899307774202",
+          "handle": "SparkPluz_",
+          "date": "Fri Nov 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://www.kalaignar100pechu.org",
+      "urlHash": "933f243e4ab5",
+      "domain": "kalaignar100pechu.org",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1801529452385403289",
+          "handle": "arivalayam",
+          "date": "Thu Jun 13"
+        },
+        {
+          "tweetId": "1815342121622380815",
+          "handle": "Udhaystalin",
+          "date": "Mon Jul 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://B.Tech",
+      "urlHash": "b6ad385ec434",
+      "domain": "b.tech",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1807340702738636898",
+          "handle": "teakkadai1",
+          "date": "Sat Jun 29"
+        },
+        {
+          "tweetId": "2013094937839993103",
+          "handle": "anandmahindra",
+          "date": "Mon Jan 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://whatsapp.com/channel/0029VaAHapBD38CU6FrPhu2r",
+      "urlHash": "179f79454ee6",
+      "domain": "whatsapp.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1808786899026522124",
+          "handle": "arivalayam",
+          "date": "Thu Jul 04"
+        },
+        {
+          "tweetId": "1808788585601970444",
+          "handle": "arivalayam",
+          "date": "Thu Jul 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1M17Rc4wj-4u9O2kZRigbpSJOGEcxpgze?usp=sharing",
+      "urlHash": "e478a23c3b27",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1823705185245364282",
+          "handle": "mkstalin",
+          "date": "Wed Aug 14"
+        },
+        {
+          "tweetId": "1823706320471462022",
+          "handle": "mkstalin",
+          "date": "Wed Aug 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://Chenn.ai",
+      "urlHash": "76dbd6f79df8",
+      "domain": "chenn.ai",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1829742774649831734",
+          "handle": "TRBRajaa",
+          "date": "Sat Aug 31"
+        },
+        {
+          "tweetId": "1985901681557856712",
+          "handle": "TRBRajaa",
+          "date": "Wed Nov 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://heyzine.com/flip-book/P.T.RAJAN_A_HALF_CENTURY_IN_MEMORY",
+      "urlHash": "b045fedac04c",
+      "domain": "heyzine.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1838838709652984158",
+          "handle": "mkstalin",
+          "date": "Wed Sep 25"
+        },
+        {
+          "tweetId": "1838842096201109834",
+          "handle": "mkstalin",
+          "date": "Wed Sep 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://ptivideos.com",
+      "urlHash": "544ffb55cf3c",
+      "domain": "ptivideos.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1839339663192170574",
+          "handle": "PTI_News",
+          "date": "Thu Sep 26"
+        },
+        {
+          "tweetId": "1941402172341748152",
+          "handle": "PTI_News",
+          "date": "Sat Jul 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://uniatf.who.int/about-us/news/item/25-09-2024-2024-un-ncd-task-force-awards",
+      "urlHash": "edc67f8c801f",
+      "domain": "uniatf.who.int",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1843240159862575438",
+          "handle": "mkstalin",
+          "date": "Mon Oct 07"
+        },
+        {
+          "tweetId": "1843243992227750101",
+          "handle": "mkstalin",
+          "date": "Mon Oct 07"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://Mr.Rich",
+      "urlHash": "62a44fd6c08f",
+      "domain": "mr.rich",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1857314054903103991",
+          "handle": "TRBRajaa",
+          "date": "Fri Nov 15"
+        },
+        {
+          "tweetId": "1857314139959329127",
+          "handle": "TRBRajaa",
+          "date": "Fri Nov 15"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://periyardigitallibrary.in",
+      "urlHash": "74303bc5410b",
+      "domain": "periyardigitallibrary.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1871473500117959096",
+          "handle": "mkstalin",
+          "date": "Tue Dec 24"
+        },
+        {
+          "tweetId": "1871483222229729568",
+          "handle": "mkstalin",
+          "date": "Tue Dec 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/chandigarh/manmohan-singh-cremation-nigambodh-ghat-sad-leaders-express-shock-9748346/",
+      "urlHash": "f82e9bf62a80",
+      "domain": "indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1872989105576943716",
+          "handle": "mkstalin",
+          "date": "Sat Dec 28"
+        },
+        {
+          "tweetId": "1872992048498069681",
+          "handle": "mkstalin",
+          "date": "Sat Dec 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tnatdavos2025.com",
+      "urlHash": "3dfdbebe1d2f",
+      "domain": "tnatdavos2025.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1880246563223794128",
+          "handle": "TRBRajaa",
+          "date": "Fri Jan 17"
+        },
+        {
+          "tweetId": "1880609197341172130",
+          "handle": "TRBRajaa",
+          "date": "Fri Jan 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://www.tnatdavos2025.com",
+      "urlHash": "d956e76bf019",
+      "domain": "tnatdavos2025.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1881270978556129499",
+          "handle": "TRBRajaa",
+          "date": "Mon Jan 20"
+        },
+        {
+          "tweetId": "1881442908601249818",
+          "handle": "TNIndMin",
+          "date": "Sun Jan 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2025/sessions/creating-tomorrows-industrial-talent-today/",
+      "urlHash": "52fb8bf428c8",
+      "domain": "weforum.org",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1883128402871476405",
+          "handle": "TNIndMin",
+          "date": "Sat Jan 25"
+        },
+        {
+          "tweetId": "1883128454796984781",
+          "handle": "TNIndMin",
+          "date": "Sat Jan 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.nytimes.com/2025/02/01/world/asia/india-indus-script-prize.html",
+      "urlHash": "fbe79f13923a",
+      "domain": "nytimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1885971404031742290",
+          "handle": "mkstalin",
+          "date": "Sun Feb 02"
+        },
+        {
+          "tweetId": "1885981024544510264",
+          "handle": "mkstalin",
+          "date": "Sun Feb 02"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.tamildigitallibrary.in/kalaignar",
+      "urlHash": "c6b269f19e6e",
+      "domain": "tamildigitallibrary.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1886704558820471204",
+          "handle": "CMOTamilnadu",
+          "date": "Tue Feb 04"
+        },
+        {
+          "tweetId": "1886720399670677858",
+          "handle": "mkstalin",
+          "date": "Tue Feb 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.outlookindia.com/national/souths-concerns-about-delimitation-are-well-founded",
+      "urlHash": "f4f60d0d5212",
+      "domain": "outlookindia.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1906726618477056461",
+          "handle": "mkstalin",
+          "date": "Mon Mar 31"
+        },
+        {
+          "tweetId": "1906728675510542412",
+          "handle": "mkstalin",
+          "date": "Mon Mar 31"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indianexpress.com/article/opinion/editorials/in-holding-tamil-nadu-governors-pocket-veto-as-illegal-sc-has-set-a-welcome-precedent-9932913/",
+      "urlHash": "276d0b85d400",
+      "domain": "indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1909949705259204933",
+          "handle": "siddaramaiah",
+          "date": "Wed Apr 09"
+        },
+        {
+          "tweetId": "1910207592120394000",
+          "handle": "siddaramaiah",
+          "date": "Wed Apr 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.nytimes.com/2025/05/05/climate/india-china-solar-manufacturing.html",
+      "urlHash": "413c3ca81878",
+      "domain": "nytimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1920044226102067383",
+          "handle": "TRBRajaa",
+          "date": "Wed May 07"
+        },
+        {
+          "tweetId": "1922219391367643143",
+          "handle": "Guidance_TN",
+          "date": "Tue May 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/tnrun-co-working-spaces-a-hit-as-bookings-extend-till-juneend-101748198565933.html",
+      "urlHash": "def69c9f5464",
+      "domain": "hindustantimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1926967996578214114",
+          "handle": "mkstalin",
+          "date": "Mon May 26"
+        },
+        {
+          "tweetId": "1927259470607810679",
+          "handle": "mkstalin",
+          "date": "Mon May 26"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://ungaludanstalin.tn.gov.in",
+      "urlHash": "00aadaf695fb",
+      "domain": "ungaludanstalin.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1945026951615537581",
+          "handle": "mkstalin",
+          "date": "Tue Jul 15"
+        },
+        {
+          "tweetId": "1945027651984388403",
+          "handle": "mkstalin",
+          "date": "Tue Jul 15"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.business-standard.com/specials/news/tamil-nadu-s-mgnrega-efficiency-outpaces-bigger-and-poorer-states-125072801519_1.html",
+      "urlHash": "d4b47f06ec38",
+      "domain": "business-standard.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1950029799134540041",
+          "handle": "TRBRajaa",
+          "date": "Tue Jul 29"
+        },
+        {
+          "tweetId": "1950134300478742612",
+          "handle": "TRBRajaa",
+          "date": "Tue Jul 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/is-centralization-threatening-tamil-nadus-healthcare-success-a-deep-dive-into-the-ongoing-battle/articleshow/123486487.cms",
+      "urlHash": "7ed982d83f4c",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1959853109372703099",
+          "handle": "mkstalin",
+          "date": "Mon Aug 25"
+        },
+        {
+          "tweetId": "1959873054487765446",
+          "handle": "mkstalin",
+          "date": "Mon Aug 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://hlcusr.tn.gov.in",
+      "urlHash": "5763d5382b80",
+      "domain": "hlcusr.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1961418107081347578",
+          "handle": "mkstalin",
+          "date": "Fri Aug 29"
+        },
+        {
+          "tweetId": "1962054177477271727",
+          "handle": "mkstalin",
+          "date": "Fri Aug 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.business-standard.com/opinion/columns/india-must-safeguard-its-export-oriented-industries-and-emerge-stronger-125083000019_1.html",
+      "urlHash": "a5a0da437344",
+      "domain": "business-standard.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1961655120774525182",
+          "handle": "mkstalin",
+          "date": "Sat Aug 30"
+        },
+        {
+          "tweetId": "1962054139179119089",
+          "handle": "mkstalin",
+          "date": "Sat Aug 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indiatoday.in/conclave-south/2025",
+      "urlHash": "7145a49a1bda",
+      "domain": "indiatoday.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1965299891766485460",
+          "handle": "IndiaToday",
+          "date": "Mon Sep 08"
+        },
+        {
+          "tweetId": "1966166329729417343",
+          "handle": "IndiaToday",
+          "date": "Mon Sep 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indianexpress.com/article/india/chennai-arterial-anna-salai-road-near-gemini-flyover-caves-in-no-casualty-reported-4606313/",
+      "urlHash": "07d710a669a7",
+      "domain": "indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1983469426893844848",
+          "handle": "youturn_in",
+          "date": "Wed Oct 29"
+        },
+        {
+          "tweetId": "1983533624604688725",
+          "handle": "youturn_in",
+          "date": "Wed Oct 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://archive.fo/GnRoO",
+      "urlHash": "276089a2674f",
+      "domain": "archive.fo",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1983469426893844848",
+          "handle": "youturn_in",
+          "date": "Wed Oct 29"
+        },
+        {
+          "tweetId": "1983533624604688725",
+          "handle": "youturn_in",
+          "date": "Wed Oct 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dmk.in/ta/resources/bda-list/",
+      "urlHash": "2033bb50bf67",
+      "domain": "dmk.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1987762701817597953",
+          "handle": "OfficeOfTRBR",
+          "date": "Mon Nov 10"
+        },
+        {
+          "tweetId": "1987844255814173019",
+          "handle": "DMKITwing",
+          "date": "Mon Nov 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://erolls.tn.gov.in/electoralsearch/",
+      "urlHash": "d2989378e992",
+      "domain": "erolls.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1989186005723942952",
+          "handle": "TRBRajaa",
+          "date": "Fri Nov 14"
+        },
+        {
+          "tweetId": "1989533879515091217",
+          "handle": "VigneshAnand_Vm",
+          "date": "Fri Nov 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://frontline.thehindu.com/news/tamil-nadu-anti-harassment-law-women-safety-measures/article70384468.ece",
+      "urlHash": "a90dff1a4b6f",
+      "domain": "frontline.thehindu.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1999670817110835221",
+          "handle": "SriramMadras",
+          "date": "Fri Dec 12"
+        },
+        {
+          "tweetId": "1999673417075961983",
+          "handle": "TRBRajaa",
+          "date": "Sat Dec 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://theprint.in/economy/south-rising-west-slipping-indias-export-map-is-being-redrawn-shows-rbi-data/2804850/",
+      "urlHash": "e7de0d4554f3",
+      "domain": "theprint.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2000199119722172522",
+          "handle": "ShekharGupta",
+          "date": "Sat Dec 13"
+        },
+        {
+          "tweetId": "2000200806600196109",
+          "handle": "TnInvestment",
+          "date": "Sun Dec 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://itw2026.com",
+      "urlHash": "0174a1cee109",
+      "domain": "itw2026.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2001950225683055059",
+          "handle": "TRBRajaa",
+          "date": "Fri Dec 19"
+        },
+        {
+          "tweetId": "2004456429508612368",
+          "handle": "DMKITwing",
+          "date": "Fri Dec 26"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://tnmanifesto.ai",
+      "urlHash": "2f1e570ac7c8",
+      "domain": "tnmanifesto.ai",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2007401762152644986",
+          "handle": "mkstalin",
+          "date": "Sat Jan 03"
+        },
+        {
+          "tweetId": "2007708589440545007",
+          "handle": "sureshsambandam",
+          "date": "Sun Jan 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-debt-sustainability-a-deep-dive-into-fiscal-health-and-growth/articleshow/126808798.cms",
+      "urlHash": "6fbd965d4296",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2013820911644729606",
+          "handle": "dharanisalem",
+          "date": "Wed Jan 21"
+        },
+        {
+          "tweetId": "2013820962051891689",
+          "handle": "dharanisalem",
+          "date": "Wed Jan 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/english/news/122716/dmk-achieves-monumental-victory-in-coimbatore-after-28-years",
+      "urlHash": "9e76cbe16db4",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1798207586036269303",
+          "handle": "simplicitycbe",
+          "date": "Wed Jun 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://m.thewire.in/article/government/in-140-ls-seats-more-evm-votes-were-counted-than-evm-votes-polled-whats-going-on",
+      "urlHash": "7f296e62d0e5",
+      "domain": "m.thewire.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1800594694583550138",
+          "handle": "GunasekaranMu",
+          "date": "Tue Jun 11"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tamil.abplive.com/news/thanjavur/the-daughter-of-a-sweeper-in-mannargudi-has-become-a-municipal-commissioner-after-passing-the-tnpsc-exam-188650",
+      "urlHash": "b0e5e93af3a9",
+      "domain": "tamil.abplive.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802669363688050805",
+          "handle": "SRajaJourno",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://thestatesman.com/opinion/stalins-triumph-1503310273.html",
+      "urlHash": "90dda0edc905",
+      "domain": "thestatesman.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802680539734024495",
+          "handle": "DMKITwing",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10654-019-00524-3",
+      "urlHash": "797e25019e14",
+      "domain": "link.springer.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12204390/",
+      "urlHash": "12dfd11068db",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967721/",
+      "urlHash": "9b1fc2241391",
+      "domain": "ncbi.nlm.nih.gov",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37447390/",
+      "urlHash": "0b37941628f6",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31055709/",
+      "urlHash": "9d780ac0f497",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://academic.oup.com/nutritionreviews/article/76/6/395/4954186",
+      "urlHash": "7096dacc96a3",
+      "domain": "academic.oup.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5696634/",
+      "urlHash": "e51edf7118e3",
+      "domain": "ncbi.nlm.nih.gov",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1270246/full",
+      "urlHash": "43f986315c2d",
+      "domain": "frontiersin.org",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37970326/",
+      "urlHash": "e9e8635841ff",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.mdpi.com/2072-6643/11/6/1274",
+      "urlHash": "f7e976cbcfc8",
+      "domain": "mdpi.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1802746771271291191",
+          "handle": "theliverdoc",
+          "date": "Mon Jun 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.pocsoportal.in.gov.in",
+      "urlHash": "ac32b6710232",
+      "domain": "pocsoportal.in.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1803080508223762893",
+          "handle": "Udhaystalin",
+          "date": "Tue Jun 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://www.tnwidowwelfareboard.tn.gov.in",
+      "urlHash": "c8b69203f52b",
+      "domain": "tnwidowwelfareboard.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1803080508223762893",
+          "handle": "Udhaystalin",
+          "date": "Tue Jun 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://m.news7tamil.live/article/water-exam-malpractice-issue-dmk-student-team-protest-on-june-24/646128",
+      "urlHash": "b02b034cb223",
+      "domain": "m.news7tamil.live",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1803380936622612523",
+          "handle": "TRBRajaa",
+          "date": "Wed Jun 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/tamil/news/123548/",
+      "urlHash": "2ad9085c5fff",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1804087309928947910",
+          "handle": "simplicitycbe",
+          "date": "Fri Jun 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://sparkmedia.news/alcohol-poisoning-deaths-admk-dmk-tamilnadu/",
+      "urlHash": "b4ee515b4c75",
+      "domain": "sparkmedia.news",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1805507028812431493",
+          "handle": "SparkPluz_",
+          "date": "Tue Jun 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/english/news/123846/",
+      "urlHash": "8f690d15954a",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1806021039690055842",
+          "handle": "simplicitycbe",
+          "date": "Wed Jun 26"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/tamil/news/123982/",
+      "urlHash": "55bc3b8901e1",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1806714879195369953",
+          "handle": "simplicitycbe",
+          "date": "Fri Jun 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/english/news/123981/",
+      "urlHash": "30478b64474e",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1806722338911572257",
+          "handle": "simplicitycbe",
+          "date": "Fri Jun 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/bite-the-bullet-milords-scrap-this-edition-of-neet/amp_articleshow/111466026.cms",
+      "urlHash": "0063e6628285",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1808788614173618237",
+          "handle": "SparkPluz_",
+          "date": "Thu Jul 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.tangedco.org/en/tangedco/online-services/onlinesernew/",
+      "urlHash": "d7572d3bb35c",
+      "domain": "tangedco.org",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1811248822074691662",
+          "handle": "TANGEDCO_Offcl",
+          "date": "Wed Jul 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://whatsapp.com/channel/0029Va4Z7ju7j6gDEeegs737/4310",
+      "urlHash": "8afdae151b8a",
+      "domain": "whatsapp.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1812729111887880559",
+          "handle": "DMKITwing",
+          "date": "Mon Jul 15"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://whatsapp.com/channel/0029Va4Z7ju7j6gDEeegs737/4326",
+      "urlHash": "fc14b7ec524c",
+      "domain": "whatsapp.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1813068697025560753",
+          "handle": "DMKITwing",
+          "date": "Mon Jul 15"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://whatsapp.com/channel/0029VaAHapBD38CU6FrPhu2r/3898",
+      "urlHash": "fa8d1792343f",
+      "domain": "whatsapp.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1813786684829622753",
+          "handle": "arivalayam",
+          "date": "Thu Jul 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/godrej-storage-solutions-to-set-up-new-plant-near-chennai-to-foray-into-australia-for-exports/articleshow/111808889.cms",
+      "urlHash": "0e4be6082d49",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1813961664439652647",
+          "handle": "TNIndMin",
+          "date": "Thu Jul 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.ndtv.com/education/student-who-aced-neet-failed-physics-chemistry-in-12th-marksheet-is-viral-5883906",
+      "urlHash": "831b514a5ffb",
+      "domain": "ndtv.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1815413436395688442",
+          "handle": "dharanisalem",
+          "date": "Mon Jul 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/tamil/news/125625/",
+      "urlHash": "4d188be43e44",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1816096645899247987",
+          "handle": "simplicitycbe",
+          "date": "Wed Jul 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://search.app/pRBVY7QYXH68fuVt7",
+      "urlHash": "15ad01810ca7",
+      "domain": "search.app",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1817575450207809930",
+          "handle": "UpdatesChennai",
+          "date": "Sun Jul 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://sdat.tn.gov.in",
+      "urlHash": "b31e3c41a439",
+      "domain": "sdat.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1820105617383809165",
+          "handle": "DMKITwing",
+          "date": "Sun Aug 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sdat.tn.gov.in/",
+      "urlHash": "a416167de7e5",
+      "domain": "sdat.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1820363328738267146",
+          "handle": "Udhaystalin",
+          "date": "Sun Aug 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/tamil/news/126457/",
+      "urlHash": "5218f57d5ee3",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1820447831116980460",
+          "handle": "simplicitycbe",
+          "date": "Mon Aug 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://es.pn/3SFNkQ1",
+      "urlHash": "25aea89bc41e",
+      "domain": "es.pn",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1820887965914353713",
+          "handle": "ESPNIndia",
+          "date": "Tue Aug 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.espn.in/olympics/story/_/id/40750630/wrestling-how-vinesh-phogat-won-olympics-medal-paris-2024?_nocache",
+      "urlHash": "05dae64d2c8b",
+      "domain": "espn.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1821044569733210454",
+          "handle": "ShyamSportsGuy",
+          "date": "Tue Aug 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Bqfuj5-S5wIoOchC7OO1MTufCKuRR2yi/view?usp=drivesdk",
+      "urlHash": "a3097997523c",
+      "domain": "drive.google.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1821123512947626437",
+          "handle": "sanjg2k1",
+          "date": "Wed Aug 07"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-mk-stalin-monthly-assistance-scheme-boys-higher-education-girl-students-initiative-2579051-2024-08-08",
+      "urlHash": "102be2792e9a",
+      "domain": "indiatoday.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1821485710660063408",
+          "handle": "TRBRajaa",
+          "date": "Thu Aug 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://es.pn/3AjRDu3",
+      "urlHash": "07ff06863990",
+      "domain": "es.pn",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1821577017109975409",
+          "handle": "ESPNIndia",
+          "date": "Thu Aug 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/tamil/news/126757/",
+      "urlHash": "5796ca7f543c",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1822174831279747439",
+          "handle": "simplicitycbe",
+          "date": "Sat Aug 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/how-burgeoning-presence-of-tata-group-is-transforming-tamil-nadus-industrial-hub-hosur/articleshow/112550015.cms",
+      "urlHash": "7a3b32022b67",
+      "domain": "economictimes.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1824415587226857827",
+          "handle": "TNIndMin",
+          "date": "Fri Aug 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://money.rediff.com/news/market/foxconn-to-set-up-battery-energy-storage-unit-in-india/14449420240818",
+      "urlHash": "f400332bd503",
+      "domain": "money.rediff.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1825157750441005336",
+          "handle": "TNIndMin",
+          "date": "Sun Aug 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://chicago.cmstalininus.org",
+      "urlHash": "2959c0671024",
+      "domain": "chicago.cmstalininus.org",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1825544037405020663",
+          "handle": "DMKITwing",
+          "date": "Mon Aug 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://politiken.dk/del/A32KqgAERO6Q",
+      "urlHash": "a6ff8caff811",
+      "domain": "politiken.dk",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1825835171548922107",
+          "handle": "TNIndMin",
+          "date": "Tue Aug 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://18.GP",
+      "urlHash": "dbbd57831faa",
+      "domain": "18.gp",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1826267673430466854",
+          "handle": "sang1983",
+          "date": "Wed Aug 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.hindutamil.in/news/tamilnadu/1300123-karunanidhi-writings-belong-to-the-tamil-people.html",
+      "urlHash": "f113b187105c",
+      "domain": "hindutamil.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1827148387273068740",
+          "handle": "TamilTheHindu",
+          "date": "Sat Aug 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.straitstimes.com/asia/south-asia/state-funded-hostel-for-female-foxconn-workers-marks-new-era-in-india-s-industrial-housing",
+      "urlHash": "4b4606774351",
+      "domain": "straitstimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1833531131779813856",
+          "handle": "SparkPluz_",
+          "date": "Tue Sep 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dtnext.in/news/tamilnadu/rs-18564-crore-spent-on-chennai-metro-rail-phase-ii-fms-claim-wrong-thangam-hits-back-803617?utm_source=mobile-social-share&utm_partner=dtnext&utm_campaign=share&utm_medium=twitter",
+      "urlHash": "83b725322aa5",
+      "domain": "dtnext.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1834774595020128507",
+          "handle": "UpdatesChennai",
+          "date": "Sat Sep 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://spacex.com/launches/mission/?missionId=polarisdawn",
+      "urlHash": "388cc0e5c701",
+      "domain": "spacex.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1835220260418441465",
+          "handle": "SpaceX",
+          "date": "Sun Sep 15"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://search.app/c5eSr3QyQiE5BP1Q7",
+      "urlHash": "3c217836951a",
+      "domain": "search.app",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1836023563884597717",
+          "handle": "UpdatesChennai",
+          "date": "Tue Sep 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.indiatoday.in/amp/india/story/secularism-european-concept-not-needed-in-india-tamil-nadu-governor-rn-ravi-2605016-2024-09-23",
+      "urlHash": "0631b08db606",
+      "domain": "indiatoday.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1838758542817337844",
+          "handle": "sardesairajdeep",
+          "date": "Tue Sep 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://e-apply.jp/n/ynu-imp",
+      "urlHash": "9f671867f204",
+      "domain": "e-apply.jp",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1838759974563918210",
+          "handle": "DrGanesh_Japan",
+          "date": "Tue Sep 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://mybs.in/2dZ4A7f",
+      "urlHash": "ac2e4d67dcf1",
+      "domain": "mybs.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1840781894088380811",
+          "handle": "bsindia",
+          "date": "Mon Sep 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.theguardian.com/education/2019/apr/16/labour-will-scrap-sats-let-teachers-teach-vows-jeremy-corbyn",
+      "urlHash": "f918c45631e9",
+      "domain": "theguardian.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1841697367491239937",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2024-10-03/tamil-nadu-s-model-of-doing-business-in-india-may-unseat-gujarat?utm_source=website&utm_medium=share&utm_campaign=twitter",
+      "urlHash": "d2efbe395443",
+      "domain": "bloomberg.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1841753338272219641",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://frontline.thehindu.com/politics/dmk-75th-celebration-kalaignar-karunanidhi-centenary-tamilnadu-social-justice-politics/article68673985.ece",
+      "urlHash": "83d8439a1131",
+      "domain": "frontline.thehindu.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1841788451554734283",
+          "handle": "DMKITwing",
+          "date": "Thu Oct 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2024-10-03/tamil-nadu-s-model-of-doing-business-in-india-may-unseat-gujarat",
+      "urlHash": "b0eda1a67d90",
+      "domain": "bloomberg.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1841884605609345451",
+          "handle": "DMKITwing",
+          "date": "Thu Oct 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://pmvishwakarma.gov.in",
+      "urlHash": "c8faf306005b",
+      "domain": "pmvishwakarma.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1843168813359169876",
+          "handle": "saravofcl",
+          "date": "Sun Oct 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://concerns.As",
+      "urlHash": "b34f9d2d04b1",
+      "domain": "concerns.as",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1843353523465138198",
+          "handle": "TRBRajaa",
+          "date": "Mon Oct 07"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://search.app/giDcsfL7XJJADVuM9",
+      "urlHash": "38eb89e0a38d",
+      "domain": "search.app",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1844034312108454117",
+          "handle": "UpdatesChennai",
+          "date": "Wed Oct 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://dividends.Today",
+      "urlHash": "b688f31e4a1e",
+      "domain": "dividends.today",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1844259621772591568",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://simplicity.in/coimbatore/english/news/130691/fly-dubai-flight-diverted-coimbatore-bad-weather-kozhikode",
+      "urlHash": "fbed9e889f16",
+      "domain": "simplicity.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1844958851755307185",
+          "handle": "simplicitycbe",
+          "date": "Sat Oct 12"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_first_images_offer_parting_glimpse_of_Earth_and_Moon",
+      "urlHash": "c5873a813ccf",
+      "domain": "esa.int",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1845755013353648544",
+          "handle": "esa",
+          "date": "Mon Oct 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/tamil-nadu-goes-to-town-on-manufacturing-target-hinterland/articleshow/114787428.cms",
+      "urlHash": "48f72dfae6b3",
+      "domain": "economictimes.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1851899955675328905",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 31"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://m.economictimes.com/tech/technology/tamil-nadu-goes-to-town-on-manufacturing-target-hinterland/articleshow/114787428.cms?utm_source=twitter_pwa&utm_medium=social&utm_campaign=socialsharebuttons",
+      "urlHash": "3c890714c1cb",
+      "domain": "m.economictimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1851918789438509188",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 31"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://in.bookmyshow.com/sports/chennai-grand-masters-2024/ET00418069",
+      "urlHash": "b47fd789f01b",
+      "domain": "in.bookmyshow.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1852950990808604983",
+          "handle": "Udhaystalin",
+          "date": "Sun Nov 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://gccservices.chennaicorporation.gov.in/muthalvarpadaippagam",
+      "urlHash": "bd78ae3cbbee",
+      "domain": "gccservices.chennaicorporation.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1853375489630409217",
+          "handle": "sunnewstamil",
+          "date": "Mon Nov 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://search.app/Cfe2ns9CarYCfaiv6",
+      "urlHash": "df1328ed951f",
+      "domain": "search.app",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1853611705806540934",
+          "handle": "UpdatesChennai",
+          "date": "Mon Nov 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.ft.com/content/fc56385d-ceed-4dee-9e5e-017a708d37c9",
+      "urlHash": "59a94bfd0b72",
+      "domain": "ft.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1855629505119047705",
+          "handle": "TRBRajaa",
+          "date": "Sun Nov 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dtnext.in/news/business/standard-chartered-opens-its-second-international-banking-centre-in-chennai-810838?utm_source=mobile-social-share&utm_partner=dtnext&utm_campaign=share&utm_medium=twitter",
+      "urlHash": "f49214a1e276",
+      "domain": "dtnext.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1856530138877571319",
+          "handle": "UpdatesChennai",
+          "date": "Mon Nov 11"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://portal.naanmudhalvan.tn.gov.in/recruitment/recruitment_details_form",
+      "urlHash": "c1beb8afb75a",
+      "domain": "portal.naanmudhalvan.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1856565741035643127",
+          "handle": "TRBRajaa",
+          "date": "Wed Nov 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://theprint.in/economy/how-coimbatore-went-from-city-of-textile-mills-to-it-powerhouse-in-just-10-years/2356551/",
+      "urlHash": "7312967905dd",
+      "domain": "theprint.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1858019604590727578",
+          "handle": "TRBRajaa",
+          "date": "Sun Nov 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://flickr.com/photos/herbraab",
+      "urlHash": "2acf4c7b932f",
+      "domain": "flickr.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1862050766544154885",
+          "handle": "TRBRajaa",
+          "date": "Thu Nov 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.business-standard.com/companies/news/tirunelveli-powers-india-s-solar-ambitions-with-a-new-facility-by-tata-124120800391_1.html",
+      "urlHash": "be7f627831f5",
+      "domain": "business-standard.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1866007447913333167",
+          "handle": "TNIndMin",
+          "date": "Mon Dec 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.isro.gov.in/CE20_test_outside_vacuum_chamber.html",
+      "urlHash": "1dce8161ae54",
+      "domain": "isro.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1867224635764617425",
+          "handle": "isro",
+          "date": "Thu Dec 12"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://Itschenn.ai",
+      "urlHash": "100d92952cef",
+      "domain": "itschenn.ai",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1867574158986490142",
+          "handle": "TRBRajaa",
+          "date": "Fri Dec 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://m.economictimes.com/tech/technology/big-bracket-investments-push-states-to-create-social-infrastructure/articleshow/116343449.cms",
+      "urlHash": "b8836798ee83",
+      "domain": "m.economictimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1868593996077138198",
+          "handle": "DMKITwing",
+          "date": "Mon Dec 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://itw2025.com/",
+      "urlHash": "3d77d3e0eb01",
+      "domain": "itw2025.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1868598457830605305",
+          "handle": "TRBRajaa",
+          "date": "Mon Dec 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://www.itw2025.com",
+      "urlHash": "993a5ac41189",
+      "domain": "itw2025.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1869767940306051365",
+          "handle": "DMKITwing",
+          "date": "Thu Dec 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thenewsminute.com/karnataka/vaikom-award-to-kannada-writer-and-activist-devanoor-mahadeva-is-historic",
+      "urlHash": "99f997a66b6d",
+      "domain": "thenewsminute.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1871448256666025990",
+          "handle": "thenewsminute",
+          "date": "Tue Dec 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.isro.gov.in/mission_SpaDeX.html",
+      "urlHash": "b1a2b069b7f4",
+      "domain": "isro.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1873633564497211534",
+          "handle": "isro",
+          "date": "Mon Dec 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://minnambalam.com/political-news/periyars-philosophy-and-historical-uniqueness-article-in-tamil-by-rajan-kurai",
+      "urlHash": "753c6973da4e",
+      "domain": "minnambalam.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1878630092378951730",
+          "handle": "TRBRajaa",
+          "date": "Mon Jan 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/tech-mahindra-sets-up-manufacturing-experience-centre-at-chennai-campus/117345337",
+      "urlHash": "d3573c399ec2",
+      "domain": "manufacturing.economictimes.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1881062174141071772",
+          "handle": "anandmahindra",
+          "date": "Sun Jan 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/videos/2025-01-23/trb-rajaa-tamil-nadu-is-the-talent-capital-of-india-video",
+      "urlHash": "8a7e600e5fbb",
+      "domain": "bloomberg.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1882362713550340186",
+          "handle": "TNIndMin",
+          "date": "Thu Jan 23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZU3juU3",
+      "urlHash": "4e040f14e1c0",
+      "domain": "tamildigitallibrary.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1882393925111165122",
+          "handle": "TRBRajaa",
+          "date": "Thu Jan 23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXGlZQdjZU3juU6",
+      "urlHash": "0e629e07c137",
+      "domain": "tamildigitallibrary.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1882393925111165122",
+          "handle": "TRBRajaa",
+          "date": "Thu Jan 23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2024/08/20/athikadavu-avinashi-project-murasoli-explains",
+      "urlHash": "888ccd184700",
+      "domain": "kalaignarseithigal.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1888621032736481457",
+          "handle": "DMKITwing",
+          "date": "Sun Feb 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2024/08/21/admk-delayed-athikadavu-avinasi-project-murasoli-condemns",
+      "urlHash": "f2fe351b4c63",
+      "domain": "kalaignarseithigal.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1888621032736481457",
+          "handle": "DMKITwing",
+          "date": "Sun Feb 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tamil.indianexpress.com/tamilnadu/india-today-cvoter-poll-who-would-get-how-many-votes-in-tamilnadu-8715879",
+      "urlHash": "8b3cf7314b21",
+      "domain": "tamil.indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1889901583850197423",
+          "handle": "TRBRajaa",
+          "date": "Thu Feb 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://share.youturn.in/en/articles/kendriya-vidyalaya-rti-report",
+      "urlHash": "ec64a69a0840",
+      "domain": "share.youturn.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1891032994137198734",
+          "handle": "GunasekaranMu",
+          "date": "Sun Feb 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/skilling-for-growth/articleshow/118307492.cms",
+      "urlHash": "54144f4aea1b",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1891379326509031923",
+          "handle": "DMKITwing",
+          "date": "Mon Feb 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://toi.in/OGzgHY",
+      "urlHash": "d0258a336a23",
+      "domain": "toi.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1892183653549023479",
+          "handle": "timesofindia",
+          "date": "Wed Feb 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://frontline.thehindu.com/static/content/frontline/flipbook/20250225072242/index.html#p=24",
+      "urlHash": "b922e2388a45",
+      "domain": "frontline.thehindu.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1894784937129337080",
+          "handle": "TThenarasu",
+          "date": "Wed Feb 26"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://meetings.chennai.bciaerospace.com/2025/signup.php",
+      "urlHash": "9f980a57068a",
+      "domain": "meetings.chennai.bciaerospace.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1897474851390283848",
+          "handle": "TRBRajaa",
+          "date": "Thu Mar 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/where-pandya-kings-set-up-their-factories/articleshow/118903223.cms",
+      "urlHash": "d1113c6d1d03",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1899852169752486175",
+          "handle": "TThenarasu",
+          "date": "Wed Mar 12"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indianexpress.com/article/opinion/columns/dis-agree-dont-be-fooled-three-language-formula-is-about-imposing-hindi-9872893/",
+      "urlHash": "e04cb82e6fe3",
+      "domain": "indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1899873571578826856",
+          "handle": "ptrmadurai",
+          "date": "Wed Mar 12"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/decentralisation-over-delimitation/articleshow/118947629.cms",
+      "urlHash": "6b491c7f28cc",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1900091568687644887",
+          "handle": "DMKITwing",
+          "date": "Thu Mar 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/hindi-imposition-mk-stalin-national-education-policy-national-education-policy-meant-to-develop-hindi-not-india-mk-stalin-7909718",
+      "urlHash": "4b46c0c07ecb",
+      "domain": "ndtv.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1900092013552230492",
+          "handle": "ndtv",
+          "date": "Wed Mar 12"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://rb.gy/qbfw13",
+      "urlHash": "da961c600ff1",
+      "domain": "rb.gy",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1900528851610149075",
+          "handle": "DrNikitaMehra",
+          "date": "Fri Mar 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.economist.com/asia/2022/10/27/indias-regional-inequality-could-be-politically-explosive",
+      "urlHash": "a165b7b8c13a",
+      "domain": "economist.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1901838401382633964",
+          "handle": "DMKITwing",
+          "date": "Mon Mar 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://thesouthfirst.com/tamilnadu/indias-delimitation-debate-jacs-bold-push-for-representation-federalism-and-fiscal-parity/",
+      "urlHash": "c05055bf93ca",
+      "domain": "thesouthfirst.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1903468093160268158",
+          "handle": "anusharavi10",
+          "date": "Sat Mar 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://grok.x.com",
+      "urlHash": "7fad87d17529",
+      "domain": "grok.x.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1905311433161863240",
+          "handle": "grok",
+          "date": "Thu Mar 27"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tamil.asianetnews.com/gallery/tamilnadu/cooking-gas-cylinder-price-hiked-by-rs-50-cm-stalin-slams-bjp-government-tvk-sudnac",
+      "urlHash": "670ec042ba04",
+      "domain": "tamil.asianetnews.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1909431991474282502",
+          "handle": "AsianetNewsTM",
+          "date": "Tue Apr 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.news18.com/sports/chennais-mika-recieves-grade-1-cik-fia-certification-becomes-indias-first-grade-1-karting-circuit-9291496.html",
+      "urlHash": "578e9364c284",
+      "domain": "news18.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1909808007824679264",
+          "handle": "UpdatesChennai",
+          "date": "Tue Apr 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://effectiveness.To",
+      "urlHash": "0c692714428c",
+      "domain": "effectiveness.to",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1910594763306524982",
+          "handle": "kgbias",
+          "date": "Thu Apr 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indianexpress.com/article/opinion/columns/with-verdict-on-governor-r-n-ravi-supreme-court-gives-indian-states-and-india-a-victory-9948454/?ref=top_opinion",
+      "urlHash": "f871244742ab",
+      "domain": "indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1912736203486687658",
+          "handle": "ptrmadurai",
+          "date": "Thu Apr 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.htamil.org/1384035",
+      "urlHash": "3e9867ef4fab",
+      "domain": "htamil.org",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1913552546225967496",
+          "handle": "TamilTheHindu",
+          "date": "Sat Apr 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/today-in-india-tamil-nadu-is-the-first-port-of-call-for-investment/articleshow/120673073.cms",
+      "urlHash": "3b12afc6e391",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1916737097953685649",
+          "handle": "TNIndMin",
+          "date": "Mon Apr 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.threads.com/@joe.kendra/post/DFgvW_6Mx9q?xmt=AQF0WRn1n3UhhTSouFr_pY-YEu-risHhAwUglEHERTPjbg",
+      "urlHash": "f233b958855b",
+      "domain": "threads.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1920713552580563449",
+          "handle": "youturn_in",
+          "date": "Fri May 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://thewire.in/media/statement-by-the-wire-on-the-governments-blocking-and-unblocking-of-its-website",
+      "urlHash": "1bc4618f5060",
+      "domain": "thewire.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1921108218161266723",
+          "handle": "nramind",
+          "date": "Sat May 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://m.thewire.in/article/security/cnn-french-official-iaf-rafale-downed-by-pakistan",
+      "urlHash": "e2cbd4380563",
+      "domain": "m.thewire.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1921108218161266723",
+          "handle": "nramind",
+          "date": "Sat May 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.dtnext.in/news/tamilnadu/fir-after-12-days-accused-released-without-registering-case-in-pollachi-case-cm-stalin-818491",
+      "urlHash": "82736e8197ed",
+      "domain": "dtnext.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1922259117311209770",
+          "handle": "PWilsonDMK",
+          "date": "Tue May 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/state-offers-grants-jobs-visas-to-bring-researchers-leaving-the-us/articleshow/121240743.cms",
+      "urlHash": "b030aa5c27a8",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1924344497527513185",
+          "handle": "DMKITwing",
+          "date": "Mon May 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.indiatoday.in/india-today-insight/story/battleground-tamil-nadu-why-stalins-dmk-appears-to-hold-the-pole-position-2730280-2025-05-25?utm_source=story_twitter&utm_medium=twitter&utm_campaign=storyshareurl",
+      "urlHash": "f96e827623f8",
+      "domain": "indiatoday.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1926643520305062240",
+          "handle": "TRBRajaa",
+          "date": "Sun May 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/mumbai/three-language-policy-from-class-1-currently-on-hold-dada-bhuse-10030533/",
+      "urlHash": "da96f8c30821",
+      "domain": "indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1927661459086991620",
+          "handle": "DMKITwing",
+          "date": "Wed May 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.freepressjournal.in/india/monster-rapes-5-year-old-girl-inside-temple-in-ups-agra-arrested-after-shocking-video-surfaces",
+      "urlHash": "9b0505ab2956",
+      "domain": "freepressjournal.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1927753588220023088",
+          "handle": "DMKITwing",
+          "date": "Wed May 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.news18.com/india/pm-modi-lauds-women-naval-officers-who-sailed-50000-km-what-is-navika-sagar-parikrama-9361356.html?1748679138",
+      "urlHash": "26e5979e824a",
+      "domain": "news18.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1928727835461456176",
+          "handle": "CNNnews18",
+          "date": "Sat May 31"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://M.Sc",
+      "urlHash": "1ccf0bc12da2",
+      "domain": "m.sc",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1928836548180496654",
+          "handle": "Bacteria_Offl",
+          "date": "Fri May 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://bbc.in/3ZclY7u",
+      "urlHash": "46586f01d810",
+      "domain": "bbc.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1929552511326716093",
+          "handle": "BBCWorld",
+          "date": "Mon Jun 02"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://indianexpress.com/article/explained/population-census-2027-why-this-reopens-debate-on-delimitation-timeline-10048868/",
+      "urlHash": "d9e3baebd223",
+      "domain": "indianexpress.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1930452307709440445",
+          "handle": "TRBRajaa",
+          "date": "Thu Jun 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.adda247.com/jobs/wp-content/uploads/sites/12/2025/06/02122749/HPCL-Notification-2025-2.pdf",
+      "urlHash": "7d1aee8cefe7",
+      "domain": "adda247.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1934596395077714309",
+          "handle": "teakkadai1",
+          "date": "Mon Jun 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.reuters.com/science/astronomers-locate-universes-missing-matter-2025-06-16/",
+      "urlHash": "abc88b4172b2",
+      "domain": "reuters.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1934733384120717723",
+          "handle": "TRBRajaa",
+          "date": "Mon Jun 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/delhi/they-lost-their-homes-in-delhi-help-came-from-a-home-2000-km-away/articleshow/121959308.cms",
+      "urlHash": "dad2c439e741",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1935999666988237268",
+          "handle": "DMKITwing",
+          "date": "Fri Jun 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://m.timesofindia.com/articleshow/121657956.cms#?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "urlHash": "af00e5ab1003",
+      "domain": "m.timesofindia.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1936456039794430129",
+          "handle": "DrGanesh_Japan",
+          "date": "Sat Jun 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/sanskrit-got-lion-s-share-of-language-promotion-funds-rti-data-101750704203655.html",
+      "urlHash": "1ac1bdfa076d",
+      "domain": "hindustantimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1937371620114595955",
+          "handle": "DMKITwing",
+          "date": "Tue Jun 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.hindustantimes.com/real-estate/chennai-only-city-to-see-increase-in-housing-demand-as-overall-sales-drop-20-in-april-june-quarter-101751362467478.html",
+      "urlHash": "eaf42eb687b2",
+      "domain": "hindustantimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1940031637028577730",
+          "handle": "TRBRajaa",
+          "date": "Tue Jul 01"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://viewpoint.eiu.com/analysis/article/1122159112/",
+      "urlHash": "6c228dc4d2b8",
+      "domain": "viewpoint.eiu.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1942427869814350205",
+          "handle": "TRBRajaa",
+          "date": "Tue Jul 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-07-08/will-trade-war-make-south-india-the-next-manufacturing-hub",
+      "urlHash": "22da3207f2b8",
+      "domain": "bloomberg.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1942786000079516055",
+          "handle": "TRBRajaa",
+          "date": "Wed Jul 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/vinfast-auto-india-inducts-first-200-hires-at-thoothukudi-ev-plant/122342643",
+      "urlHash": "d91c88c73420",
+      "domain": "auto.economictimes.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1942917692765397137",
+          "handle": "TRBRajaa",
+          "date": "Wed Jul 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://ungaludanstalin.tn.gov.in/",
+      "urlHash": "a5187558f32f",
+      "domain": "ungaludanstalin.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1944749581247582241",
+          "handle": "DMKITwing",
+          "date": "Mon Jul 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2149370",
+      "urlHash": "1a92ec7117c4",
+      "domain": "pib.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1950461737284800772",
+          "handle": "TRBRajaa",
+          "date": "Wed Jul 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://sparkmedia.news/where-is-society-heading-salute-to-the-sorrows-of-society-that-have-been-criticized-gobi-sudhakar-tn/",
+      "urlHash": "ac15eac926b0",
+      "domain": "sparkmedia.news",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1952726073126580411",
+          "handle": "SparkPluz_",
+          "date": "Tue Aug 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/growing-growing-grown-what-factors-contributed-to-tamil-nadus-11-2-economic-growth-in-2024-25/articleshow/123236725.cms",
+      "urlHash": "1ff0ba420a4b",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1955511100717277523",
+          "handle": "TRBRajaa",
+          "date": "Wed Aug 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://transtan.tn.gov.in",
+      "urlHash": "a3dd09181b22",
+      "domain": "transtan.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1955665657980404149",
+          "handle": "vaishnavi_cbe",
+          "date": "Wed Aug 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://forms.gle/QDbB1pcg8ZhznJ6TA",
+      "urlHash": "a910b961009c",
+      "domain": "forms.gle",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1955673300195217896",
+          "handle": "NrtiaGermany",
+          "date": "Wed Aug 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.business-standard.com/industry/news/tamil-nadu-semiconductor-mission-2030-scheme-centres-of-excellence-125081800139_1.html",
+      "urlHash": "0be3b51e07f4",
+      "domain": "business-standard.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1957382791198634291",
+          "handle": "TRBRajaa",
+          "date": "Mon Aug 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-south-capital-tns-playbook-of-distributed-growth/podcast/123442933.cms",
+      "urlHash": "7f78b73c3643",
+      "domain": "economictimes.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1959151224910954589",
+          "handle": "EconomicTimes",
+          "date": "Fri Aug 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/women-led-startups-dot-the-cauvery-delta/articleshow/123485545.cms",
+      "urlHash": "8c4c17981412",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1959873162637901839",
+          "handle": "DMKITwing",
+          "date": "Mon Aug 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/learning-a-foreign-language-life-skills-must-for-be-btech-students/articleshow/123103173.cms",
+      "urlHash": "441fc983eec5",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1960940058833277202",
+          "handle": "TRBRajaa",
+          "date": "Thu Aug 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-mk-stalin-mous-europe-trip-aiadmk-foreign-trips-as-investment-eps-periyar-2783591-2025-09-08",
+      "urlHash": "0d6569aeea01",
+      "domain": "indiatoday.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1964944864375947635",
+          "handle": "IndiaToday",
+          "date": "Mon Sep 08"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/tamil-nadu-natural-partner-global-universities-innovate-conduct-o5roc",
+      "urlHash": "1d22a4dcb0fe",
+      "domain": "linkedin.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1965679317066924058",
+          "handle": "Guidance_TN",
+          "date": "Wed Sep 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://intdy.in/sgq1ki",
+      "urlHash": "01fc0a65dde6",
+      "domain": "intdy.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1965833912950927519",
+          "handle": "IndiaToday",
+          "date": "Wed Sep 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.nakkheeran.in/24-by-7-news/minister-raghupathi-says-eps-is-going-to-lock-down-the-party-by-buying-a-lock-from-dindigul-srinivasan-10483381",
+      "urlHash": "6cd0bc4fbd64",
+      "domain": "nakkheeran.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1969439879533903890",
+          "handle": "nakkheeranweb",
+          "date": "Sat Sep 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.tnjfu.ac.in/",
+      "urlHash": "9e9df2b0438b",
+      "domain": "tnjfu.ac.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1969597691576664462",
+          "handle": "tn_factcheck",
+          "date": "Sat Sep 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-mangrove-cover-doubles-in-3-years/articleshow/112614257.cms",
+      "urlHash": "6e8531d883d7",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1969597691576664462",
+          "handle": "tn_factcheck",
+          "date": "Sat Sep 20"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/cooum-river-bunds-turn-lush-green-stretch-after-restoration/articleshow/124031884.cms",
+      "urlHash": "b098a9b771c1",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1970446504675680496",
+          "handle": "DMKITwing",
+          "date": "Tue Sep 23"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.epw.in/journal/2010/50/verdict-ayodhya-special-issues/was-there-temple-under-babri-masjid-reading",
+      "urlHash": "2f979d49b6a1",
+      "domain": "epw.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1971176617469936116",
+          "handle": "tishasaroyan",
+          "date": "Thu Sep 25"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/blogs/gen-zedits/out-of-control-2/",
+      "urlHash": "dcffe0619ee0",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1972592233959571600",
+          "handle": "DMKITwing",
+          "date": "Mon Sep 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.nakkheeran.in/24-by-7-news/adhav-arjunas-post-shows-extreme-irresponsibility-kanimozhi-interview-10515265",
+      "urlHash": "12e4c12cd3be",
+      "domain": "nakkheeran.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1972903425580134691",
+          "handle": "nakkheeranweb",
+          "date": "Tue Sep 30"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://www.tngasa.in",
+      "urlHash": "6ae812461d4f",
+      "domain": "tngasa.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1973250693797670938",
+          "handle": "TRBRajaa",
+          "date": "Wed Oct 01"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://Hub.Brussels",
+      "urlHash": "225328957cdd",
+      "domain": "hub.brussels",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1976212929868345640",
+          "handle": "CMOTamilnadu",
+          "date": "Thu Oct 09"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://itsChenn.ai",
+      "urlHash": "25f885717bfd",
+      "domain": "itschenn.ai",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1976541517541261393",
+          "handle": "TRBRajaa",
+          "date": "Fri Oct 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://lnkd.in/dfnXE-CF",
+      "urlHash": "eeb21ae5ef1d",
+      "domain": "lnkd.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1979476840533418196",
+          "handle": "Guidance_TN",
+          "date": "Sat Oct 18"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.barandbench.com/columns/who-will-bell-the-cat-transfer-of-investigation-in-the-karur-stampede-case",
+      "urlHash": "26561932a768",
+      "domain": "barandbench.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1979794395936559184",
+          "handle": "nramind",
+          "date": "Sun Oct 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://chat.whatsapp.com/IRIGv0zCReOBVusXBexmY9?mode=wwt",
+      "urlHash": "99190d254f0d",
+      "domain": "chat.whatsapp.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1980555587030249515",
+          "handle": "vijaypnpa_ips",
+          "date": "Tue Oct 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://scroll.in/article/1087919/how-nicobars-corals-disappeared-on-government-maps",
+      "urlHash": "80c5bc2b9677",
+      "domain": "scroll.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1981904079069810811",
+          "handle": "Jairam_Ramesh",
+          "date": "Fri Oct 24"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.thenewsminute.com/news/brazilian-photo-appears-as-22-voters-in-haryana-rahul-says-lakhs-of-votes-were-rigged",
+      "urlHash": "273102f52e3d",
+      "domain": "thenewsminute.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1986020664726421970",
+          "handle": "dhanyarajendran",
+          "date": "Wed Nov 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/scrap-paper-replace-plates-for-midday-meals-in-madhya-pradesh-school-9589091",
+      "urlHash": "6673261663ab",
+      "domain": "ndtv.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1986764417347059897",
+          "handle": "ndtv",
+          "date": "Thu Nov 06"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://electoralsearch.eci.gov.in/",
+      "urlHash": "0cce7736b292",
+      "domain": "electoralsearch.eci.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1989533879515091217",
+          "handle": "VigneshAnand_Vm",
+          "date": "Fri Nov 14"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://m.economictimes.com/industry/auto/two-wheelers-three-wheelers/expect-export-to-grow-25-this-yr-making-chennai-plant-global-hub-yamaha-motor-india/articleshow/125359970.cms",
+      "urlHash": "9e435c809f50",
+      "domain": "m.economictimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1990070311174152647",
+          "handle": "UpdatesChennai",
+          "date": "Sun Nov 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tamildigitallibrary.in/Articles/\u0ba8\u0bc2\u0bb2\u0bcd-1964-\u0b85\u0ba3\u0bcd\u0ba3\u0bbe-\u0b9a\u0bbf\u0bb2%20\u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bcd%20-\u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd%20\u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f%20\u0b89\u0bb0\u0bc8\u0ba8\u0b9f\u0bc8%20\u0b93\u0bb5\u0bbf\u0baf\u0bae\u0bcd",
+      "urlHash": "58d78b2774d1",
+      "domain": "tamildigitallibrary.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1990108298356392181",
+          "handle": "VigneshAnand_Vm",
+          "date": "Sun Nov 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://voters.eci.gov.in/",
+      "urlHash": "f37bb545067e",
+      "domain": "voters.eci.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1990415672778895419",
+          "handle": "TNelectionsCEO",
+          "date": "Mon Nov 17"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.business-standard.com/amp/economy/news/why-the-south-keeps-pulling-ahead-growth-demographics-and-development-125111801349_1.html",
+      "urlHash": "333ab979b22d",
+      "domain": "business-standard.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1991068144023069047",
+          "handle": "DMKITwing",
+          "date": "Wed Nov 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://thesouthfirst.com/tamilnadu/beyond-borders-tamil-nadus-big-push-to-take-local-iconic-food-brands-global/",
+      "urlHash": "be4562fb1cba",
+      "domain": "thesouthfirst.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1994063876422295759",
+          "handle": "TRBRajaa",
+          "date": "Thu Nov 27"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://minnambalam.com/shouldnt-we-celebrate-our-own-investors/",
+      "urlHash": "0c29f88a57e2",
+      "domain": "minnambalam.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1994334044746928222",
+          "handle": "TRBRajaa",
+          "date": "Fri Nov 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.rushlane.com/amp/tvs-starts-manufacturing-bmw-f-450-gs-in-india-achieves-new-milestone-12535274.html?_gl=1*o7jmsb*_ga*MTY3NzAyNDcxMi4xNzM3NjY5NjAw*_ga_KY7NC1YCJV*czE3NjQyOTAzMzIkbzY3NiRnMSR0MTc2NDI5MDMzMiRqNjAkbDAkaDA",
+      "urlHash": "52651ce70991",
+      "domain": "rushlane.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1994353888112120204",
+          "handle": "TnInvestment",
+          "date": "Fri Nov 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-charges-on-to-hire-more/articleshow/125643762.cms",
+      "urlHash": "ba7f58c78346",
+      "domain": "economictimes.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1994774470716997674",
+          "handle": "TnInvestment",
+          "date": "Sat Nov 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.economist.com/asia/2025/11/13/which-is-indias-superstar-state?utm_campaign=shared_article",
+      "urlHash": "d429d3664830",
+      "domain": "economist.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1995027459264450918",
+          "handle": "KartiPC",
+          "date": "Sat Nov 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://vingroup.net/en/news/detail/3727/vinfast-announces-expansion-of-its-tamil-nadu-facility-targeting-electric-bus-and-electric-two-wheeler-production",
+      "urlHash": "0ce90759ba51",
+      "domain": "vingroup.net",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1996573051291673079",
+          "handle": "TRBRajaa",
+          "date": "Thu Dec 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://share.google/827owue8oQ10HPhuE",
+      "urlHash": "624a7a951b71",
+      "domain": "share.google",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1997155517966504442",
+          "handle": "UpdatesChennai",
+          "date": "Fri Dec 05"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.soas.ac.uk/about/news/soas-south-asia-institute-launches-new-fellowship-support-social-justice",
+      "urlHash": "7376d7750082",
+      "domain": "soas.ac.uk",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1998837273685799329",
+          "handle": "TRBRajaa",
+          "date": "Wed Dec 10"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://rbidocs.rbi.org.in/rdocs/Publications/PDFs/21T_11122025D994949B48C44B68B4465FBB9ADDFF3D.PDF",
+      "urlHash": "93940eb47f25",
+      "domain": "rbidocs.rbi.org.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "1999513392881586420",
+          "handle": "prasannavishy",
+          "date": "Thu Dec 11"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-data-show-rosy-picture-of-poll-bound-tamil-nadu-reveal-karnatakas-gaps/articleshow/125993314.cms",
+      "urlHash": "ac5694257f20",
+      "domain": "economictimes.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2000907114559283592",
+          "handle": "DMKITwing",
+          "date": "Tue Dec 16"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://erolls.tn.gov.in/asd/",
+      "urlHash": "674e84550191",
+      "domain": "erolls.tn.gov.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2001965563346923981",
+          "handle": "SparkPluz_",
+          "date": "Fri Dec 19"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://wrld.bg/5CCg50XMWYw",
+      "urlHash": "fda2fa9e32c1",
+      "domain": "wrld.bg",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2003298803882041542",
+          "handle": "spinesurgeon",
+          "date": "Mon Dec 22"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/udhayanidhi-stalin-on-how-tamil-nadus-naan-mudhalvan-initiative-boosts-competitive-exam-success/articleshow/126208243.cms",
+      "urlHash": "f844daadf1ef",
+      "domain": "timesofindia.indiatimes.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2005150890345542010",
+          "handle": "Rebellionaire1",
+          "date": "Sun Dec 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.reporters-collective.in/trc/eci-pulls-a-u-turn-rolls-out-algorithms-midway-into-sir",
+      "urlHash": "51e854949672",
+      "domain": "reporters-collective.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2005209183826977012",
+          "handle": "nit_set",
+          "date": "Sun Dec 28"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.theweek.in/theweek/specials/2025/12/27/the-young-guns-of-archaeology-meet-the-team-unearthing-tamil-nadus-past.html",
+      "urlHash": "560b6d2635b5",
+      "domain": "theweek.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2005830509860171853",
+          "handle": "lakhinathan",
+          "date": "Mon Dec 29"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tnmanifesto.ai/",
+      "urlHash": "a3f6f46dcc5a",
+      "domain": "tnmanifesto.ai",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2007367090773352727",
+          "handle": "TRBRajaa",
+          "date": "Sat Jan 03"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://aninews.in/news/business/third-tranche-of-ecms-approved-with-rs-41863-crore-investment-covering-22-applications20260102131543/",
+      "urlHash": "796b81c96cc5",
+      "domain": "aninews.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2007380371529519146",
+          "handle": "TnInvestment",
+          "date": "Fri Jan 02"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://caravanmagazine.in/crime/thirupparanakundram-murugan-sikkandar-dargah-tamil-nadu",
+      "urlHash": "02becb47233f",
+      "domain": "caravanmagazine.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2008052857778671681",
+          "handle": "FOX_IN_THE_BOX7",
+          "date": "Sun Jan 04"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://timesofindia-indiatimes-com.cdn.ampproject.org/v/s/timesofindia.indiatimes.com/city/chennai/gccs-now-take-up-more-than-half-of-chennais-office-space/amp_articleshow/126381076.cms?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=17677527208666&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fcity%2Fchennai%2Fgccs-now-take-up-more-than-half-of-chennais-office-space%2Farticleshow%2F126381076.cms",
+      "urlHash": "58d89f384d72",
+      "domain": "timesofindia-indiatimes-com.cdn.ampproject.org",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2008791564634804279",
+          "handle": "TnInvestment",
+          "date": "Wed Jan 07"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "http://go.gov.sg/p9h6c",
+      "urlHash": "2aa06a0649cd",
+      "domain": "go.gov.sg",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2011415513482842350",
+          "handle": "leehsienloong",
+          "date": "Tue Jan 13"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://tngts2026.com/register",
+      "urlHash": "e950c294b706",
+      "domain": "tngts2026.com",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2013822245018435797",
+          "handle": "TRBRajaa",
+          "date": "Wed Jan 21"
+        }
+      ],
+      "status": "pending"
+    },
+    {
+      "url": "https://www.altnews.in/six-government-medical-colleges-in-gujarat-kanimozhis-claim-correct-ai-fact-check-shared-by-bjp-false/",
+      "urlHash": "c2a31090feac",
+      "domain": "altnews.in",
+      "priority": "normal",
+      "sourceTweets": [
+        {
+          "tweetId": "2017293363175907410",
+          "handle": "zoo_bear",
+          "date": "Fri Jan 30"
+        }
+      ],
+      "status": "pending"
+    }
+  ]
+}

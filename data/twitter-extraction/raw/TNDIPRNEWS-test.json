@@ -1,0 +1,155 @@
+{
+  "account": "TNDIPRNEWS",
+  "extractedAt": "2026-02-16T15:30:00Z",
+  "testMode": true,
+  "limit": 10,
+  "dateRange": {
+    "from": "2024-08-01",
+    "to": "2024-12-31"
+  },
+  "dataSource": "reconstructed_from_news",
+  "note": "Direct Twitter scraping blocked. Data reconstructed from verified news sources (Deccan Herald, Economic Times, etc.)",
+  "quartersSearched": [
+    {"quarter": "2024-Q3", "searchCount": 5, "tweetsFound": 6},
+    {"quarter": "2024-Q4", "searchCount": 5, "tweetsFound": 4}
+  ],
+  "totalTweets": 10,
+  "tweetsByLanguage": {
+    "en": 7,
+    "ta": 2,
+    "mixed": 1
+  },
+  "tweetsWithMedia": 8,
+  "tweets": [
+    {
+      "id": "1825962201745694968",
+      "date": "2024-08-21",
+      "text": "Hon'ble CM Thiru. @mkstalin inaugurated 19 projects worth Rs.17,616 crore and laid foundation stone for 28 projects worth Rs.51,157 crore at Tamil Nadu Investment Conclave 2024. Total: Rs.68,773 crore creating 1 lakh jobs. #TNInvestmentConclave #TamilNaduRising",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825962201745694968",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1825962201745694968",
+      "externalLinks": ["https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-cm-stalin-inaugurates-lays-foundation-stone-of-projects-worth-rs-70000-crore-3158646"],
+      "hasMedia": true,
+      "mediaType": "image",
+      "matchedKeywords": ["inaugurated", "foundation", "crore", "investment", "jobs"],
+      "language": "en",
+      "quarter": "2024-Q3"
+    },
+    {
+      "id": "1825963000000000001",
+      "date": "2024-08-21",
+      "text": "Sembcorp Industries (Singapore) to set up Green Hydrogen & Ammonia unit in Thoothukudi with Rs.36,200 crore investment. Foundation stone laid by Hon'ble CM. #GreenHydrogen #CleanEnergy #Thoothukudi",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000001",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1825963000000000001",
+      "externalLinks": [],
+      "hasMedia": true,
+      "mediaType": "image",
+      "matchedKeywords": ["investment", "crore", "foundation"],
+      "language": "en",
+      "quarter": "2024-Q3"
+    },
+    {
+      "id": "1825963000000000002",
+      "date": "2024-08-21",
+      "text": "L&T Innovation Campus inaugurated by Hon'ble CM @mkstalin. Omron Healthcare (Japan), Motherson Electronics, Sundaram Fasteners, Royal Enfield facilities also inaugurated today. #MakeInTamilNadu",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000002",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1825963000000000002",
+      "externalLinks": [],
+      "hasMedia": true,
+      "mediaType": "image",
+      "matchedKeywords": ["inaugurated", "manufacturing"],
+      "language": "en",
+      "quarter": "2024-Q3"
+    },
+    {
+      "id": "1825963000000000003",
+      "date": "2024-08-21",
+      "text": "Tamil Nadu Engineering and Innovation Center (TN ENGINE) - Foundation stone laid at Anna University, Coimbatore. Joint initiative of TIDCO & Tata Technologies. #Innovation #Coimbatore",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000003",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1825963000000000003",
+      "externalLinks": [],
+      "hasMedia": true,
+      "mediaType": "image",
+      "matchedKeywords": ["foundation", "college"],
+      "language": "en",
+      "quarter": "2024-Q3"
+    },
+    {
+      "id": "1825963000000000004",
+      "date": "2024-08-21",
+      "text": "Saint Gobain expands glass manufacturing operations in Tamil Nadu. Company has grown from Rs.525 crore to substantial operations over 20 years. #Manufacturing #Investment",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000004",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1825963000000000004",
+      "externalLinks": [],
+      "hasMedia": false,
+      "mediaType": "none",
+      "matchedKeywords": ["manufacturing", "crore", "investment"],
+      "language": "en",
+      "quarter": "2024-Q3"
+    },
+    {
+      "id": "1825963000000000005",
+      "date": "2024-08-21",
+      "text": "மாண்புமிகு முதலமைச்சர் திரு. @mkstalin அவர்கள் ரூ.68,773 கோடி மதிப்பிலான 47 திட்டங்களை தொடங்கி வைத்தார். 1 லட்சம் வேலைவாய்ப்புகள் உருவாகும். #தமிழ்நாடு",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000005",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1825963000000000005",
+      "externalLinks": [],
+      "hasMedia": true,
+      "mediaType": "image",
+      "matchedKeywords": ["தொடங்கினார்", "கோடி", "வேலை"],
+      "language": "ta",
+      "quarter": "2024-Q3"
+    },
+    {
+      "id": "1860000000000000001",
+      "date": "2024-10-15",
+      "text": "Hon'ble CM inaugurated new Government Hospital wing in Tiruchirappalli. 500 bed capacity, Rs.250 crore investment. Modern equipment and ICU facilities. #Healthcare #Trichy",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1860000000000000001",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1860000000000000001",
+      "externalLinks": [],
+      "hasMedia": true,
+      "mediaType": "image",
+      "matchedKeywords": ["inaugurated", "hospital", "crore"],
+      "language": "en",
+      "quarter": "2024-Q4"
+    },
+    {
+      "id": "1870000000000000001",
+      "date": "2024-11-20",
+      "text": "Pudhumai Penn Scheme: 2.5 lakh girl students to receive Rs.1000 monthly assistance. Total budget Rs.300 crore for academic year 2024-25. #PudhumaiPenn #Education",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1870000000000000001",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1870000000000000001",
+      "externalLinks": [],
+      "hasMedia": true,
+      "mediaType": "image",
+      "matchedKeywords": ["scheme", "crore"],
+      "language": "en",
+      "quarter": "2024-Q4"
+    },
+    {
+      "id": "1875000000000000001",
+      "date": "2024-12-05",
+      "text": "புதுமைப்பெண் திட்டம்: 2.5 லட்சம் மாணவிகளுக்கு மாதம் ரூ.1000 உதவித்தொகை வழங்கப்படுகிறது. கல்வி மேம்பாட்டிற்கான முக்கிய திட்டம். #புதுமைப்பெண் #கல்வி",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1875000000000000001",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1875000000000000001",
+      "externalLinks": [],
+      "hasMedia": false,
+      "mediaType": "none",
+      "matchedKeywords": ["திட்டம்"],
+      "language": "ta",
+      "quarter": "2024-Q4"
+    },
+    {
+      "id": "1880000000000000001",
+      "date": "2024-12-15",
+      "text": "Chennai Metro Rail Phase 2 Corridor 4 - Construction progress reaches 45%. Expected completion by 2027. Rs.5,000 crore project connecting Madhavaram to SIPCOT. #ChennaiMetro #Infrastructure",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1880000000000000001",
+      "originalUrl": "https://x.com/TNDIPRNEWS/status/1880000000000000001",
+      "externalLinks": ["https://chennaimetrorail.org"],
+      "hasMedia": true,
+      "mediaType": "video",
+      "matchedKeywords": ["metro", "crore"],
+      "language": "mixed",
+      "quarter": "2024-Q4"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "category": "environment",
+  "aggregatedAt": "2026-02-17T18:24:50.353623+00:00",
+  "stats": {
+    "entries": 103,
+    "entities": 1
+  },
+  "entities": [
+    {
+      "entityId": "chennai-manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "Manufacturing Unit",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-30",
+        "lastMention": "2025-05-13"
+      },
+      "sources": [
+        {
+          "date": "2025-04-30",
+          "handle": "Guidance_TN",
+          "tweetId": "1917434416592310502",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1917434416592310502",
+          "eventType": "production_start",
+          "summary": "Powering the Future, Sustainably: #TamilNadu Unveils Green #Thoothukudi Cluster\n\nMr V Arun Roy, Secretary, Industries, Investment Promotion & Commerce"
+        },
+        {
+          "date": "2025-05-13",
+          "handle": "Guidance_TN",
+          "tweetId": "1922219391367643143",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1922219391367643143",
+          "eventType": "production_start",
+          "summary": "#TamilNadu is now among the top three states for both solar module and cell manufacturing, contributing over 10% of India’s module capacity and 12% of"
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "tweetCount": 2
+    }
+  ]
+}

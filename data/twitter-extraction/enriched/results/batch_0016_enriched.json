@@ -1,0 +1,441 @@
+{
+  "batch": 16,
+  "processedAt": "2026-02-17T11:34:49.819825+00:00",
+  "stats": {
+    "success": 16,
+    "failed": 2,
+    "not_found": 1,
+    "blocked": 1,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.archaeology.org/issues/451-2201/features/10187-new-mexico-earliest-americans#.YcLZAh7-MpQ.twitter",
+      "urlHash": "a5db1432ab2b",
+      "domain": "archaeology.org",
+      "fetchedAt": "2026-02-17T11:33:50.001204+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473562485093388288",
+          "handle": "TRBRajaa",
+          "date": "Wed Dec 22"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2021-12-23/gay-trans-rights-in-india/100697904?utm_source=abc_news_web&utm_medium=content_shared&utm_campaign=abc_news_web",
+      "urlHash": "145f7106d90d",
+      "domain": "abc.net.au",
+      "fetchedAt": "2026-02-17T11:34:07.023315+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473853472189472768",
+          "handle": "TRBRajaa",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "In India, gay, lesbian and trans people can face witchdoctors, exorcists and &#x27;corrective rape&#x27; - ABC News",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "In India, gay, lesbian and trans people can face witchdoctors, exorcists and &#x27;corrective rape&#x27; - ABC News",
+        "summary": "When Sonia asked\u00a0a court for protection, her sexuality was still illegal. But when another young couple did the same, they made history in India."
+      }
+    },
+    {
+      "url": "https://thewire.in/communalism/hindutva-leaders-dharma-sansad-muslim-genocide",
+      "urlHash": "af96a2655a04",
+      "domain": "thewire.in",
+      "fetchedAt": "2026-02-17T11:34:09.121580+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473854508190945281",
+          "handle": "meenakandasamy",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Hindutva Leaders at Haridwar Event Call for Muslim Genocide - The Wire",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Hindutva Leaders at Haridwar Event Call for Muslim Genocide - The Wire",
+        "summary": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/supportus",
+      "urlHash": "a3cef4225d47",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:34:11.221532+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473854776118943746",
+          "handle": "thenewsminute",
+          "date": "Wed Dec 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "The News Minute | South News | Latest Breaking News and Headlines From South India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "The News Minute | South News | Latest Breaking News and Headlines From South India",
+        "summary": "The News Minute \u2013 TNM is an independent digital platform covering south India&#x27;s latest news from the five states of Andhra Pradesh, Telangana, Karnataka, Tamil Nadu and Kerala. Stay updated with the current events, news, weather, insights on political and social issues from south India."
+      }
+    },
+    {
+      "url": "https://www.forbes.com/sites/michaeltnietzel/2021/12/23/omicron-reset-more-colleges-hit-pause-or-remote-for-next-semester/",
+      "urlHash": "9263d916d834",
+      "domain": "forbes.com",
+      "fetchedAt": "2026-02-17T11:34:13.336752+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1474042687992913927",
+          "handle": "TRBRajaa",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://m.thewire.in/article/communalism/national-security-2-ex-service-chiefs-others-demand-action-against-communal-haridwar-event",
+      "urlHash": "0af938be0500",
+      "domain": "m.thewire.in",
+      "fetchedAt": "2026-02-17T11:34:15.436094+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1474067315008294961",
+          "handle": "mkvenu1",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "&#x27;National Security&#x27;: 2 Ex-Service Chiefs, Others Demand Action Against Communal Haridwar Event - The Wire",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "&#x27;National Security&#x27;: 2 Ex-Service Chiefs, Others Demand Action Against Communal Haridwar Event - The Wire",
+        "summary": "Many pointed out the disparity of response to the hate-mongering, with a commentator asking if singer Rihanna ought to tweet about this incident in order for it to make it to mainstream news."
+      }
+    },
+    {
+      "url": "https://www.indiatoday.in/cities/mumbai/story/with-602-new-covid-cases-mumbai-records-steepest-spike-since-october-6-1891440-2021-12-23",
+      "urlHash": "b86e8312e506",
+      "domain": "indiatoday.in",
+      "fetchedAt": "2026-02-17T11:34:17.621996+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1474072356070969355",
+          "handle": "IndiaToday",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "With 602 new Covid cases, Mumbai records steepest spike since October 6 - Mumbai News | India Today",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "With 602 new Covid cases, Mumbai records steepest spike since October 6 - Mumbai News | India Today",
+        "summary": "Mumbai recorded 602 new Covid-19 cases on Thursday, the highest single day count since October 6."
+      }
+    },
+    {
+      "url": "https://www.washingtonpost.com/world/2021/12/22/south-africa-omicron-coronavirus-cases/",
+      "urlHash": "2ffab472363e",
+      "domain": "washingtonpost.com",
+      "fetchedAt": "2026-02-17T11:34:19.698050+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1474079357299658754",
+          "handle": "TRBRajaa",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/to-periyars-ideas-tamil-nadu-owes-its-growth/articleshow/88461996.cms",
+      "urlHash": "b3020988dbdb",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:34:21.764069+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1474312593980329987",
+          "handle": "TRBRajaa",
+          "date": "Fri Dec 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "To Periyar\u2019s ideas, Tamil Nadu owes its growth | Chennai News - The Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "To Periyar\u2019s ideas, Tamil Nadu owes its growth | Chennai News - The Times of India",
+        "summary": "By Salem Dharanidharan Chennai: Revolutionary, reformer and champion of social equality \u2014 E V Ramasamy Periyar\u2019s ideologies remain the foundation of T."
+      }
+    },
+    {
+      "url": "http://cutt.ly/xUdT5cQ",
+      "urlHash": "9685cdea7aa7",
+      "domain": "cutt.ly",
+      "fetchedAt": "2026-02-17T11:34:24.032508+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1474441301886005252",
+          "handle": "JenishaRani",
+          "date": "Fri Dec 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://poovulagu.org/news/how-meendum-manjappai-movement-can-achieve-its-goal/",
+      "urlHash": "338a525feaba",
+      "domain": "poovulagu.org",
+      "fetchedAt": "2026-02-17T11:34:27.864107+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1474598551862743042",
+          "handle": "SundarrajanG",
+          "date": "Fri Dec 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u201d\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0b9e\u0bcd\u0b9a\u0baa\u0bcd\u0baa\u0bc8\u201d \u0b87\u0baf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baa\u0bc6\u0bb1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd? - \u0baa\u0bc2\u0bb5\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0ba3\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u201d\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0b9e\u0bcd\u0b9a\u0baa\u0bcd\u0baa\u0bc8\u201d \u0b87\u0baf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baa\u0bc6\u0bb1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb2\u0bbe\u0bae\u0bcd? - \u0baa\u0bc2\u0bb5\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0ba3\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+        "summary": "\u0bb0\u0bbe\u0bae\u0ba8\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb9\u0bc8\u0b9f\u0bcd\u0bb0\u0bcb\u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0ba9\u0bcd \u0b95\u0bbf\u0ba3\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb2\u0bc1\u0bae\u0bcd ONGC \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc2\u0bb5\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0ba3\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd"
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/world/2021/dec/26/archbishop-desmond-tutu-giant-in-fight-against-apartheid-south-africa-dies-at-90",
+      "urlHash": "0695c7c84ce9",
+      "domain": "theguardian.com",
+      "fetchedAt": "2026-02-17T11:34:30.171372+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1475045278033928193",
+          "handle": "TRBRajaa",
+          "date": "Sun Dec 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Anti-apartheid hero Archbishop Desmond Tutu dies aged 90 | Desmond Tutu | The Guardian",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Anti-apartheid hero Archbishop Desmond Tutu dies aged 90 | Desmond Tutu | The Guardian",
+        "summary": "The Nobel laureate, often described as South Africa&#x2019;s moral conscience, died in Cape Town on Boxing Day"
+      }
+    },
+    {
+      "url": "https://blogs.nasa.gov/webb/2021/12/25/the-first-mid-course-correction-burn/",
+      "urlHash": "ada1b17c0259",
+      "domain": "blogs.nasa.gov",
+      "fetchedAt": "2026-02-17T11:34:32.674475+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1475290682910666754",
+          "handle": "NASAWebb",
+          "date": "Sun Dec 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "James Webb Space Telescope Archives - NASA Science",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "James Webb Space Telescope Archives - NASA Science",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://article-14.com/post/govt-has-cleared-linking-of-aadhaar-voter-data-past-experience-reveals-how-it-can-be-manipulated-61c937a621c09",
+      "urlHash": "77659edfb3ae",
+      "domain": "article-14.com",
+      "fetchedAt": "2026-02-17T11:34:35.293248+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1475522328394022916",
+          "handle": "TRBRajaa",
+          "date": "Mon Dec 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Govt Has Cleared Linking Of Aadhaar & Voter Data. Past Experience Reveals How It Can Be Manipulated",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Govt Has Cleared Linking Of Aadhaar & Voter Data. Past Experience Reveals How It Can Be Manipulated",
+        "summary": "Predicting millions of voting choices. Deleting inconvenient voters. A world of manipulative possibilities could be opened by the government\u2019s decision\u2014controversially pushed through Parliament\u2014to link Aadhaar, India\u2019s national identity database, and election commission data. We report what investigations into two unresolved data leaks involving India\u2019s current and Andhra Pradesh\u2019s former ruling party revealed."
+      }
+    },
+    {
+      "url": "https://synchron.com/technology/brain-io",
+      "urlHash": "a2f633d6f33f",
+      "domain": "synchron.com",
+      "fetchedAt": "2026-02-17T11:34:37.404653+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1475538162000666624",
+          "handle": "TRBRajaa",
+          "date": "Mon Dec 27"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaveri_Crater?wprov=sfla1",
+      "urlHash": "3f22a7031e8e",
+      "domain": "en.wikipedia.org",
+      "fetchedAt": "2026-02-17T11:34:40.723416+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1476212708928225290",
+          "handle": "rajbhagatt",
+          "date": "Wed Dec 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Kaveri - Wikipedia",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Kaveri - Wikipedia",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://thewire.in/external-affairs/china-renames-15-places-in-arunachal-pradesh-mea-says-assigning-names-wont-alter-facts",
+      "urlHash": "8447009c219d",
+      "domain": "thewire.in",
+      "fetchedAt": "2026-02-17T11:34:43.053923+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1476779249319092225",
+          "handle": "t_d_h_nair",
+          "date": "Fri Dec 31"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "China Renames 15 Places in Arunachal Pradesh, MEA Says Assigning Names Won\u2019t Alter Facts - The Wire",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "China Renames 15 Places in Arunachal Pradesh, MEA Says Assigning Names Won\u2019t Alter Facts - The Wire",
+        "summary": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture"
+      }
+    },
+    {
+      "url": "http://toi.in/Y1JRrZ/a24gk",
+      "urlHash": "30eee4db65fe",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:34:45.163356+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1477249291290746882",
+          "handle": "timesofindia",
+          "date": "Sat Jan 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Last surviving terrorist involved in 2019 Pulwama attack killed in Anantnag encounter | India News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Last surviving terrorist involved in 2019 Pulwama attack killed in Anantnag encounter | India News - Times of India",
+        "summary": "India News: The last of the surviving terrorists involved in the 2019 attack on a CRPF convoy in Pulwama has been killed in an encounter in Anantnag, said IGP Kas"
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/home/science/studies-suggest-why-omicron-is-less-severe-it-spares-the-lungs/articleshow/88633427.cms",
+      "urlHash": "7c235b674f93",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:34:47.627655+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1477340735091314690",
+          "handle": "TRBRajaa",
+          "date": "Sat Jan 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Studies suggest why Omicron is less severe: It spares the lungs - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Studies suggest why Omicron is less severe: It spares the lungs - Times of India",
+        "summary": "Science News: A spate of new studies on lab animals and human tissues are providing the first indication of why the Omicron variant causes milder disease than previ."
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/centre-gives-3000cr-ndrf-fund-to-6-states-tn-ignored/articleshow/88640775.cms",
+      "urlHash": "e45e65126cf1",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:34:49.701534+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1477682479607681026",
+          "handle": "toi_Arunram",
+          "date": "Sun Jan 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Centre Gives 3,000cr Ndrf Fund To 6 States, Tn Ignored | Chennai News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Centre Gives 3,000cr Ndrf Fund To 6 States, Tn Ignored | Chennai News - Times of India",
+        "summary": "Even as the Centre approved on Thursday additional assistance of over 3,000 crore under the National Disaster Response Fund (NDRF) to six states that"
+      }
+    }
+  ]
+}

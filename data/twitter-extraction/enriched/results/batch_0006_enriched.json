@@ -1,0 +1,456 @@
+{
+  "batch": 6,
+  "processedAt": "2026-02-17T11:24:21.599967+00:00",
+  "stats": {
+    "success": 16,
+    "failed": 1,
+    "not_found": 2,
+    "blocked": 1,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://thefederal.com/states/south/tamil-nadu/tn-student-who-died-by-suicide-was-subjected-to-torture-by-stepmother/",
+      "urlHash": "6da69c3e295d",
+      "domain": "thefederal.com",
+      "fetchedAt": "2026-02-17T11:23:18.531191+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1489801167123390469",
+          "handle": "karthickselvaa",
+          "date": "Sat Feb 05"
+        },
+        {
+          "tweetId": "1489801524683612165",
+          "handle": "TRBRajaa",
+          "date": "Sat Feb 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN student who died by suicide was subjected to 'torture' by stepmother",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Prabhakar Tamilarasu",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TN student who died by suicide was subjected to 'torture' by stepmother",
+        "summary": "The grandmother of a Class XII student who committed suicide at her boarding school in Thanjavur, Tamil Nadu, last month alleged to the The Federal that the teenager had previously suffered physical..."
+      }
+    },
+    {
+      "url": "https://forms.gle/kbiu8sjCo265Uwvd8",
+      "urlHash": "a22826b18056",
+      "domain": "forms.gle",
+      "fetchedAt": "2026-02-17T11:23:21.028627+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1505093422650372099",
+          "handle": "CMOTamilnadu",
+          "date": "Sat Mar 19"
+        },
+        {
+          "tweetId": "1508001274754609154",
+          "handle": "CMOTamilnadu",
+          "date": "Sun Mar 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Chess Olympiad  2022 - Design Contest",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Chess Olympiad  2022 - Design Contest",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/petrol-and-diesel-prices-hit-record-highs-across-india-148580",
+      "urlHash": "6e30f3cd7d75",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:23:24.364476+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1391657449665429505",
+          "handle": "thenewsminute",
+          "date": "Mon May 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Petrol and diesel prices hit record highs across India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "PTI",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Petrol and diesel prices hit record highs across India",
+        "summary": "In Bengaluru, petrol now costs Rs 94.57 per litre while in Hyderabad, it is at Rs 95.13 per litre."
+      }
+    },
+    {
+      "url": "https://ti.me/3uHKj3y",
+      "urlHash": "80d533a4aeef",
+      "domain": "ti.me",
+      "fetchedAt": "2026-02-17T11:23:26.852249+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1392307345879822336",
+          "handle": "TIME",
+          "date": "Wed May 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "India\u2019s Media Is Also Responsible for the COVID-19 Crisis | TIME",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Close Subscribe Ideas COVID-19 It Isn\u2019t Just Modi. India\u2019s Compliant Media Must Also Take Responsibility for the COVID-19 Crisis ADD TIME ON GOOGLE Show me more content from TIME on Google Search by Debasish Roy Chowdhury Loading... by Debasish Roy Chowdhury Loading... As India&rsquo;s COVID-19 second wave began to surge last month, the country&rsquo;s largest-selling newspaper, the Hindi-language Dainik Bhaskar , splashed its Apr. 15 front page with a night-time shot of a crematorium in the city of Bhopal, dotted with the ghoulish orange glow of pyres. The banner headline declared, &ldquo;The government&rsquo;s data are fake, the pyres tell the truth.&rdquo; That day, Bhopal officially reported four COVID-19 deaths. But the paper found that the three crematoriums in the city had conducted the funerals of 112 COVID-19 victims. Similar under-reporting in other parts of the country was called out by newspapers, television channels and online media. In Gujarat, the home state of Prime Minister Narendra Modi, the city of Ahmedabad declared 20 COVID-19 deaths on Apr. 12. Local paper Sandesh reported that at just one city hospital, 63 people died of the virus that day. The COVID-19 catastrophe unfolding in India is being painstakingly chronicled by Indian journalists, who are holding the government to account for it. For India&rsquo;s mostly servile media, this is a striking break from the usual after seven years of Modi. It&rsquo;s also a little late. Read More: India&rsquo;s COVID-19 Crisis Is Spiraling Out of Control. It Didn&rsquo;t Have to Be This Way Many Hindi- and English-language news channels, as well as regional news outlets, are unabashedly pro-Modi. They have routinely exaggerated the government&rsquo;s successes and either glossed over its failures or spun ways to pin them on Modi&rsquo;s discontents: the opposition, liberals, Muslims, activists, leftists, protesters, NGOs, and other assorted &ldquo;anti-nationals.&rdquo; Advertisement The government&rsquo;s",
+      "extractedData": {
+        "headline": "India\u2019s Media Is Also Responsible for the COVID-19 Crisis | TIME",
+        "summary": "India&#x27;s media is holding the government to account for the COVID-19 catastrophe, but far too late argues Debasish Roy Chowdhury.",
+        "investment": {
+          "amount": 19.0,
+          "currency": "INR",
+          "unit": "crore"
+        }
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/how-cm-designate-mk-stalin-found-spotlight-amidst-karunanidhi-s-long-shadow-148277?amp&__twitter_impression=true",
+      "urlHash": "a76f1f4c543f",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:23:31.142781+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1392789163422875650",
+          "handle": "bharathirajb",
+          "date": "Tue May 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "How CM-designate MK Stalin found the spotlight amidst Karunanidhi\u2019s long shadow",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Kavitha Muralidharan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "How CM-designate MK Stalin found the spotlight amidst Karunanidhi\u2019s long shadow",
+        "summary": "From his teen years working for the DMK to serving as Chennai\u2019s mayor, MK Stalin has faced highs and lows in his career."
+      }
+    },
+    {
+      "url": "https://gn24.ae/bb4214e9aab4000",
+      "urlHash": "ccf5a89fa4bd",
+      "domain": "gn24.ae",
+      "fetchedAt": "2026-02-17T11:23:34.414625+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1393875280381452295",
+          "handle": "Nidhi",
+          "date": "Sun May 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "COVID-19 second wave: Why India\u2019s vaccine policy is a mess",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Nidhi Razdan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "COVID-19 second wave: Why India\u2019s vaccine policy is a mess",
+        "summary": "Our population did not dramatically go up overnight, why wasn\u2019t any of this planned?"
+      }
+    },
+    {
+      "url": "http://www.new7tamil.live",
+      "urlHash": "1fc092602b0f",
+      "domain": "new7tamil.live",
+      "fetchedAt": "2026-02-17T11:23:37.776584+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1394130809569824768",
+          "handle": "news7tamil",
+          "date": "Mon May 17"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "http://toi.in/oHGnSZ42/a24gk",
+      "urlHash": "8b14d5034bdf",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:23:40.053316+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1394851345505472516",
+          "handle": "timesofindia",
+          "date": "Tue May 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "When will PM Modi offer transparent governance as Stalin does in Tamil Nadu: Dayanidhi Maran | Chennai News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "When will PM Modi offer transparent governance as Stalin does in Tamil Nadu: Dayanidhi Maran | Chennai News - Times of India",
+        "summary": "CHENNAI: DMK Lok Sabha member from Central Chennai Dayanidhi Maran on Tuesday said Tamil Nadu chief minister M K Stalin is offering transparent govern."
+      }
+    },
+    {
+      "url": "http://win.gs/MonRTW",
+      "urlHash": "3142cd186cab",
+      "domain": "win.gs",
+      "fetchedAt": "2026-02-17T11:23:44.647027+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1396546743001440258",
+          "handle": "redbullracing",
+          "date": "Sun May 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.aninews.in/news/world/us/us-civil-rights-leader-assures-help-to-tamil-nadu-to-combat-covid-19-pandemic20210523013515/",
+      "urlHash": "98924dce1f8c",
+      "domain": "aninews.in",
+      "fetchedAt": "2026-02-17T11:23:50.634572+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1397075677157888000",
+          "handle": "ptrmadurai",
+          "date": "Mon May 24"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.hindustantimes.com/world-news/us-civil-rights-leader-assures-help-to-tamil-nadu-to-combat-covid-19-pandemic-101621727025171.html",
+      "urlHash": "d925afbb380f",
+      "domain": "hindustantimes.com",
+      "fetchedAt": "2026-02-17T11:23:52.916803+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1397075677157888000",
+          "handle": "ptrmadurai",
+          "date": "Mon May 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "US civil rights leader assures help to Tamil Nadu to combat Covid-19 pandemic | World News",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "US civil rights leader assures help to Tamil Nadu to combat Covid-19 pandemic | World News",
+        "summary": "Tamil Nadu finance minister Palanivel Thiaga Rajan made a plea to Jackson Sr to request US President Joe Biden to expeditiously release an allotment of Astra Zeneca vaccines for India from the 80 million vaccines that the US has offered to donate overseas. | World News"
+      }
+    },
+    {
+      "url": "http://www.gaitonde.com",
+      "urlHash": "2046f22cb985",
+      "domain": "gaitonde.com",
+      "fetchedAt": "2026-02-17T11:23:55.250557+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1397082349167280128",
+          "handle": "TRBRajaa",
+          "date": "Tue May 25"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Gaitonde Genuine Leather Formal and Casual Shoes",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Home Gaitonde Products Testimonials FAQ Contacts --> --> Hi Welcome! Michel Edit Profile Edit Address Order History Return & Exchange Logout --> Previous Next Welcome To The World Of Genuine Leather Shoes Gaitonde Shoes and Accessories Private Limited, manufactures Genuine Leather Shoes and Genuine Leather Accessories under the brand name \"Gaitonde\". The \"Gaitonde\" brand has been creating waves in the footwear industry since its inception in 1996 FREE AND FAST DELIVERY Free delivery for all orders within India Friendly 24/7 customer support We reurn money within 30 days Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 5th Floor,\u201dA\u201d Block Alsa Crescent No:58, Harrington Road Chetpet,Chennai 600031 Follow Us --> \u00a9 2024, All rights reserved by Gaitonde Leathers and Accessories Private Limited Privacy Policy &nbsp;|&nbsp; Return Policy &nbsp;|&nbsp; Terms and Conditions -->",
+      "extractedData": {
+        "headline": "Gaitonde Genuine Leather Formal and Casual Shoes",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://ucc.uhcitp.in/ngoregistration",
+      "urlHash": "d470929c0698",
+      "domain": "ucc.uhcitp.in",
+      "fetchedAt": "2026-02-17T11:23:59.594666+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1397870709636960257",
+          "handle": "mkstalin",
+          "date": "Thu May 27"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://sputnikvaccine.com/newsroom/pressreleases/rdif-and-unicef-sign-sputnik-v-vaccine-supply-agreement/",
+      "urlHash": "e3c9c44ce684",
+      "domain": "sputnikvaccine.com",
+      "fetchedAt": "2026-02-17T11:24:03.967904+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1397945526318878721",
+          "handle": "sputnikvaccine",
+          "date": "Thu May 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "RDIF and UNICEF sign Sputnik V vaccine supply\u202fagreement | Official website vaccine against COVID-19 Sputnik V.",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "\u0440\u0443\u0441 eng \u4e2d\u6587 \u0639\u0631\u0628\u064a esp por fra tgl msa About Vaccine About Sputnik V About Sputnik Light Clinical Trials Official data Scientific studies Adenoviral vaccines List of studies on adenovirus vaccines About Us The Gamaleya Center The Russian Direct Investment Fund Previous Vaccines Partnerships Partnership for producers Partnership for scientists Media Newsroom Press Releases Press-kit Testimonials Contacts FAQ Newsroom Main Newsroom Press Releases RDIF and UNICEF sign Sputnik V vaccine supply agreement Moscow, May 27, 2021 \u2013 Human Vaccine LLC, a wholly owned subsidiary of the Russian Direct Investment Fund (RDIF, Russia\u2019s sovereign wealth fund) announces the signing of an agreement for the supply of 220 million doses of two-dose Sputnik V Russian COVID-19 vaccine with the United Nations International Children's Emergency Fund (UNICEF). This amount is sufficient to vaccinate 110 million people. The supply agreement with UNICEF for Sputnik V vaccine will broaden access to help meet vaccine demand around the world. Procurement and delivery of the vaccine by UNICEF is subject to the vaccine receiving WHO Emergency Use Listing. The decision is expected soon on the Sputnik V application for WHO Emergency Use Listing that was submitted in October 2020. Concurrently, RDIF will be holding a separate discussion with Gavi, the Vaccine Alliance to see the Sputnik V vaccine considered for inclusion in the COVAX Facility\u2019s Portfolio of COVID-19 vaccines. The COVAX Facility (co-led by Gavi, the Coalition for Epidemic Preparedness Innovations (CEPI) and WHO) together with UNICEF aims to help end the acute phase of the global pandemic by the end of 2021 by providing rapid, fair and equitable access to safe and effective vaccines to all participating countries and territories regardless of income level, thus enabling the protection of frontline health care and social workers, as well as other high-risk and vulnerable groups. Kirill Dmitriev, CEO of the Russian Direct Investment Fund, said:",
+      "extractedData": {
+        "headline": "RDIF and UNICEF sign Sputnik V vaccine supply\u202fagreement | Official website vaccine against COVID-19 Sputnik V.",
+        "summary": "RDIF and UNICEF sign Sputnik V vaccine supply\u202fagreement | Official website vaccine against coronavirus Sputnik V."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/asked-1-cr-vaccine-doses-may-got-only-884-lakh-pinarayi-writes-pm-modi-149707",
+      "urlHash": "05b9ede50be4",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:24:07.299726+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1398498163544051712",
+          "handle": "thenewsminute",
+          "date": "Fri May 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "&#x27;Asked for 1 cr vaccine doses in May, got only 8.84 lakh\u2019: Pinarayi writes to PM Modi",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "TNM Staff",
+      "rawText": "",
+      "extractedData": {
+        "headline": "&#x27;Asked for 1 cr vaccine doses in May, got only 8.84 lakh\u2019: Pinarayi writes to PM Modi",
+        "summary": "The Kerala CM said in his letter that the state government has a total target of covering 1.13 crore population above 45 years but Kerala has been able to cover only 49 percent of this group with at least one dose."
+      }
+    },
+    {
+      "url": "http://Polimernews.com",
+      "urlHash": "358e5c7becf8",
+      "domain": "polimernews.com",
+      "fetchedAt": "2026-02-17T11:24:10.572925+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1398611969997819913",
+          "handle": "polimernews",
+          "date": "Sat May 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Polimer News - Tamil News | Online Tamil News | Tamil News Live | Tamilnadu News | Breaking News Headlines, Latest Tamil News, India News, World News - Polimer News",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Polimer News - Tamil News | Online Tamil News | Tamil News Live | Tamilnadu News | Breaking News Headlines, Latest Tamil News, India News, World News - Polimer News",
+        "summary": "Generated by create next app"
+      }
+    },
+    {
+      "url": "https://ereceipt.tn.gov.in/cmprf/cmprf.html",
+      "urlHash": "a4e24af60f28",
+      "domain": "ereceipt.tn.gov.in",
+      "fetchedAt": "2026-02-17T11:24:13.943500+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1398624939150692355",
+          "handle": "mkstalin",
+          "date": "Sat May 29"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://ptrmadurai.com/dmk-s-statement-at-the-all-party-meeting-held-by-the-15th-finance-commission-english",
+      "urlHash": "ebc20249553e",
+      "domain": "ptrmadurai.com",
+      "fetchedAt": "2026-02-17T11:24:16.283746+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1399775026425913344",
+          "handle": "ptrmadurai",
+          "date": "Tue Jun 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "DMK&#039;s Statement at the All-Party Meeting held by the 15th Finance Commission - English - Dr PTR Palanivel Thiaga Rajan",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Dr PTR Palanivel Thiaga Rajan",
+      "rawText": "Published Date: September 5, 2018 Thank you for the opportunity to present, on behalf of the people of Tamil Nadu, our views on the Terms of Reference (ToR) framed for this 15th Finance Commission of India. At the outset, we note that our Party President Thiru M. K. Stalin has already written to the Prime Minister and Finance Minister of India, raising various concerns about this ToR. The contents of that letter have been extensively covered in the media and in public debates, and hence we will not use valuable time repeating those comments at this all-party meeting. However, we attach a copy of that letter as an addendum to our prepared remarks, to ensure its contents are recorded along with the incremental issues we record in person here. Keeping with our President&rsquo;s fundamental concerns of the Constitutionality of the Terms of Reference, we record our grave concerns about the expansive mandate given to the Commission in the second paragraph of the ToR. How can an unelected body such as the Finance Commission have the power to review the status of finances of duly-elected Governments at the Centre and States and recommend a fiscal consolidation roadmap. Keeping in mind the existence of the FRBM act at the Central Government, and corresponding Acts in most States, what is the need for an additional review, leading to recommendations? And does the Constitution make any provision for such recommendations to be binding in any way without the passage of corresponding legislation? Therefore, we see this mandate as an unacceptable and unconstitutional incursion into the rights of Governments that have been democratically elected by the people. This paragraph also asks the commission to be guided by the principles of equity, efficiency, and transparency. The principle of transparency is both easily defined and easily justified. However, when it comes to equity and efficiency, there can be many differing ways of defining each of these principles, with varying levels ",
+      "extractedData": {
+        "headline": "DMK&#039;s Statement at the All-Party Meeting held by the 15th Finance Commission - English - Dr PTR Palanivel Thiaga Rajan",
+        "summary": "Statement of the Dravida Munnetra Kazhagam (DMK) at the  All-Party Meeting held by the 15th Finance Commission held in Chennai on 5th September 2018"
+      }
+    },
+    {
+      "url": "https://www.livelaw.in/columns/lgbtqia-rights-in-india-legal-gender-recognition-175168",
+      "urlHash": "681c438ee2e2",
+      "domain": "livelaw.in",
+      "fetchedAt": "2026-02-17T11:24:18.996361+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1400840599268249604",
+          "handle": "manuraj1983",
+          "date": "Fri Jun 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "LGBTQIA+ Rights In India: The Road Ahead",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Muthupandi Ganesan, S. Manuraj &amp; Vadhana Bhaskar",
+      "rawText": "",
+      "extractedData": {
+        "headline": "LGBTQIA+ Rights In India: The Road Ahead",
+        "summary": "In March 2021, Oscar Davies, an English  Barrister-at-law (called to the bar in 2018), became the first person known to be listed at  Chambers in the U.K. with a gender-neutral honorific"
+      }
+    },
+    {
+      "url": "https://www.theweek.in/news/india/2021/06/04/has-stalin-set-tone-to-revive-fight-for-federalism-advocacy-state-autonomy.html",
+      "urlHash": "c3d373415860",
+      "domain": "theweek.in",
+      "fetchedAt": "2026-02-17T11:24:21.226784+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1401016482230722563",
+          "handle": "arivalayam",
+          "date": "Fri Jun 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Has Stalin set tone to revive fight for federalism advocacy, state autonomy?- The Week",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Has Stalin set tone to revive fight for federalism advocacy, state autonomy? DMK\u2019s views on federalism in the last 3 weeks seem to have irked Stalin\u2019s detractors Tamil Nadu Chief Minister M.K. Stalin | Twitter/DMK On June 3, when Tamil Nadu Chief Minister M.K. Stalin was going around Chennai to pay tribute to his father, M. Karunanidhi, on his 98th birthday, Tamil Twitter was trending hashtags on the late DMK chief, sending a strong message that Stalin and the DMK\u2019s return to power in Tamil Nadu will be more decisive for India in the next five years. The talk about social justice and the need for a federal structure and state autonomy has come up strongly than ever before. Days before Tamil Nadu went to polls on April 6, in an interview with THE WEEK, Stalin had said he was firm on protecting state\u2019s rights. \u201cWe will raise voice for our (state) rights. We will extend a friendly hand for relationship,\u201d he said in the interview. And now, just three weeks after taking over as the chief minister of the state, his government has began reviving the fight for federalism and state autonomy. It all began on May 2, when Stalin replied to the wishes from Prime Minister Narendra Modi and Home Minister Amit Shah mentioning the term \u201cunion government\u201d. A week later, again when Union Minister for Education Ramesh Pokhriyal called for a meeting with the education department secretaries of the state to discuss the New Education Policy, the school education minister in Stalin\u2019s cabinet chose to boycott the event. He said it cannot be official-level talks when there are elected representatives. Two days later again, Higher Education Minister K. Ponmudi said a firm \u201cno\u201d to the Centre on NEET exams. In a meeting of state education ministers to discuss the conduct of class 12 exams for CBSE, Ponmudi said that NEET should be done away with and that \u201cTamil Nadu would conduct the entrance tests, if required, to medical admission on its own for the colleges under the control of the state\u201d. A",
+      "extractedData": {
+        "headline": "Has Stalin set tone to revive fight for federalism advocacy, state autonomy?- The Week",
+        "summary": "DMK\u2019s views on federalism in the last 3 weeks seem to have irked Stalin\u2019s detractors"
+      }
+    }
+  ]
+}

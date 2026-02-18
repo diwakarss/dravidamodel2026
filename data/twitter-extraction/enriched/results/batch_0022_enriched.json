@@ -1,0 +1,433 @@
+{
+  "batch": 22,
+  "processedAt": "2026-02-17T11:40:46.934420+00:00",
+  "stats": {
+    "success": 15,
+    "failed": 4,
+    "not_found": 0,
+    "blocked": 1,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://tamil.asianetnews.com/tamilnadu/goodbye-to-agni-star-veil-today-meteorological-centre-rckskk",
+      "urlHash": "41200721f54c",
+      "domain": "tamil.asianetnews.com",
+      "fetchedAt": "2026-02-17T11:39:53.938870+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1530407247100030976",
+          "handle": "AsianetNewsTM",
+          "date": "Sat May 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0b89\u0bb8\u0bcd\u0bb8\u0bcd\u0bb8\u0bcd.. \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bbe.. \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbf\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b85\u0b95\u0bcd\u0ba9\u0bbf \u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0 \u0bb5\u0bc6\u0baf\u0bbf\u0bb2\u0bcd.. \u0b87\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe? | Goodbye To Agni Star Veil Today Meteorological Centre | Asianet News Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0b89\u0bb8\u0bcd\u0bb8\u0bcd\u0bb8\u0bcd.. \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bbe.. \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbf\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b85\u0b95\u0bcd\u0ba9\u0bbf \u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0 \u0bb5\u0bc6\u0baf\u0bbf\u0bb2\u0bcd.. \u0b87\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe? | Goodbye To Agni Star Veil Today Meteorological Centre | Asianet News Tamil",
+        "summary": "\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 25 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbe\u0b95 \u0ba8\u0bc0\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf \u0bb5\u0bc6\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1 \u0b85\u0b95\u0bcd\u0ba9\u0bbf \u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1 \u0baa\u0bc6\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0b87\u0ba9\u0bbf \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0bae\u0bbe \u0b8e\u0ba9\u0bcd\u0bb1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd."
+      }
+    },
+    {
+      "url": "https://theprobe.in/pawan-hans-sale-cayman-islands-company-in-winning-bid-allegedly-fronted-for-notorious-businessman-from-zimbabwe/",
+      "urlHash": "d9a18728f1a4",
+      "domain": "theprobe.in",
+      "fetchedAt": "2026-02-17T11:39:56.031755+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1530478352540180481",
+          "handle": "t_d_h_nair",
+          "date": "Sat May 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Pawan Hans Sale: Cayman Islands company in winning bid allegedly fronted for notorious businessman from Zimbabwe | Did the government of India know about the link of a \u201cnotorious\u201d, \u201ccorrupt\u201d Zimbabwean businessman to India\u2019s Pawan Hans disinvestment deal? Ravi Nair, Abir Dasgupta and Paranjoy Guha...",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Ravi Nair with Abir Dasgupta, Paranjoy Guha Thakurta",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Pawan Hans Sale: Cayman Islands company in winning bid allegedly fronted for notorious businessman from Zimbabwe | Did the government of India know about the link of a \u201cnotorious\u201d, \u201ccorrupt\u201d Zimbabwean businessman to India\u2019s Pawan Hans disinvestment deal? Ravi Nair, Abir Dasgupta and Paranjoy Guha...",
+        "summary": "Did the government of India know about the link of a \u201cnotorious\u201d, \u201ccorrupt\u201d Zimbabwean businessman to India\u2019s Pawan Hans disinvestment deal? Ravi Nair, Abir Dasgupta and Paranjoy Guha Thakurta reveal the complex web of companies that links controversial Zimbabwean businessman Kudakwashe Regimond Tagwirei to Almas Global Opportunity Fund, which is now at the heart of India"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/nepalese-plane-22-onboard-including-four-indians-goes-missing-164467",
+      "urlHash": "7b73aecd9d30",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:39:58.517785+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1530822450891567104",
+          "handle": "thenewsminute",
+          "date": "Sun May 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Nepalese plane with 22 onboard, including four Indians, goes missing",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "PTI",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Nepalese plane with 22 onboard, including four Indians, goes missing",
+        "summary": "An airline spokesperson said there are four Indian nationals, two Germans and 13 Nepali passengers besides a three-member Nepali crew onboard the plane."
+      }
+    },
+    {
+      "url": "https://www.nature.org/en-us/what-we-do/our-priorities/build-healthy-cities/cities-stories/benefits-of-trees-forests/",
+      "urlHash": "996534c871a4",
+      "domain": "nature.org",
+      "fetchedAt": "2026-02-17T11:40:01.784739+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1531094945884385280",
+          "handle": "TRBRajaa",
+          "date": "Mon May 30"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "6 Ways Trees Benefit People | The Nature Conservancy",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Match expires at midnight GIVE NOW interstitialRedirectModalMessage",
+      "extractedData": {
+        "headline": "6 Ways Trees Benefit People | The Nature Conservancy",
+        "summary": "Trees benefit people by removing carbon from the atmosphere, cooling our neighborhoods, and filtering our water and air. Find out what else trees do for us!"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/rightwing-youtuber-arrested-allegedly-swindling-money-name-tn-temple-164515",
+      "urlHash": "c79a4579af5e",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:40:05.185279+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1531497535806001153",
+          "handle": "dhanyarajendran",
+          "date": "Tue May 31"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Rightwing YouTuber arrested for allegedly swindling money in the name of TN temple",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Azeefa Fathima,Bharathy Singaravel",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Rightwing YouTuber arrested for allegedly swindling money in the name of TN temple",
+        "summary": "Karthik Gopinath ran a Milaap fundraiser to raise funds for restoration of a temple under the TN government\u2019s HR&amp;CE department. A temple official has accused him of fraud."
+      }
+    },
+    {
+      "url": "https://wapo.st/3aiHKQr",
+      "urlHash": "91720d5d549e",
+      "domain": "wapo.st",
+      "fetchedAt": "2026-02-17T11:40:08.468662+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1532330909281964032",
+          "handle": "EqualityLabs",
+          "date": "Thu Jun 02"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_301"
+    },
+    {
+      "url": "https://www.eastmojo.com/nagaland/2022/06/02/football-for-environment-nagaland-manipur-to-play-friendly-on-june-4/",
+      "urlHash": "3e6ecf436b1f",
+      "domain": "eastmojo.com",
+      "fetchedAt": "2026-02-17T11:40:10.909257+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1532397139653193728",
+          "handle": "EastMojo",
+          "date": "Thu Jun 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Football for environment: Nagaland, Manipur to play friendly on June 4",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Football for environment: Nagaland, Manipur to play friendly on June 4",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/",
+      "urlHash": "a03e00161f77",
+      "domain": "washingtonpost.com",
+      "fetchedAt": "2026-02-17T11:40:16.304671+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1532638149075410945",
+          "handle": "PWilsonDMK",
+          "date": "Fri Jun 03"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://open.spotify.com/user/31hxgces6e4fbk5wkskmtrhmwi3e?si=tsTvRJKyQh6wMHaZjMUoHQ",
+      "urlHash": "c11ae402b3c4",
+      "domain": "open.spotify.com",
+      "fetchedAt": "2026-02-17T11:40:18.379760+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1532951122268151808",
+          "handle": "mkstalin",
+          "date": "Sat Jun 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Dravida Munnetra Kazhagam on Spotify",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Dravida Munnetra Kazhagam on Spotify",
+        "summary": "User \u00b7 Dravida Munnetra Kazhagam"
+      }
+    },
+    {
+      "url": "https://www.linkedin.com/company/dmk-arivalayam/",
+      "urlHash": "8719b6e8b3c2",
+      "domain": "linkedin.com",
+      "fetchedAt": "2026-02-17T11:40:21.183460+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1532951122268151808",
+          "handle": "mkstalin",
+          "date": "Sat Jun 04"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_999"
+    },
+    {
+      "url": "https://profile.dailyhunt.in/Arivalayam",
+      "urlHash": "79771dceccf2",
+      "domain": "profile.dailyhunt.in",
+      "fetchedAt": "2026-02-17T11:40:23.512469+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1532951122268151808",
+          "handle": "mkstalin",
+          "date": "Sat Jun 04"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte"
+    },
+    {
+      "url": "https://t.me/arivalayam",
+      "urlHash": "7ce8d7960e42",
+      "domain": "t.me",
+      "fetchedAt": "2026-02-17T11:40:26.103385+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1532951122268151808",
+          "handle": "mkstalin",
+          "date": "Sat Jun 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Telegram: View @arivalayam",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Telegram: View @arivalayam",
+        "summary": "The official Telegram Channel of the DMK Party"
+      }
+    },
+    {
+      "url": "https://www.indiaspend.com/84-of-12-million-married-children-under-10-are-hindus-82446/",
+      "urlHash": "e72f0d8af744",
+      "domain": "indiaspend.com",
+      "fetchedAt": "2026-02-17T11:40:28.655909+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1533721450481213441",
+          "handle": "t_d_h_nair",
+          "date": "Mon Jun 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "84% Of 12 Million Married Children Under 10 Are Hindus",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Devanik Saha",
+      "rawText": "",
+      "extractedData": {
+        "headline": "84% Of 12 Million Married Children Under 10 Are Hindus",
+        "summary": "Nearly 12 million Indian children were married before the age of 10 years--84% of them Hindu and 11% Muslim--reveals an IndiaSpend analysis of recently released census data. To put it in context,..."
+      }
+    },
+    {
+      "url": "https://www.indiaspend.com/84-of-12-million-married-children-under-10-are-hindus-82446/#.Yp21dE9XOvc.twitter",
+      "urlHash": "5831a57800d2",
+      "domain": "indiaspend.com",
+      "fetchedAt": "2026-02-17T11:40:31.633054+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1533722349215748097",
+          "handle": "TRBRajaa",
+          "date": "Mon Jun 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "84% Of 12 Million Married Children Under 10 Are Hindus",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Devanik Saha",
+      "rawText": "",
+      "extractedData": {
+        "headline": "84% Of 12 Million Married Children Under 10 Are Hindus",
+        "summary": "Nearly 12 million Indian children were married before the age of 10 years--84% of them Hindu and 11% Muslim--reveals an IndiaSpend analysis of recently released census data. To put it in context,..."
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/06/09/bjp-cadre-attacked-a-journalist-while-interviewing-annamalai-in-namakkal",
+      "urlHash": "3f5b430e8b7c",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:40:33.959748+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1534815065542914049",
+          "handle": "Kalaignarnews",
+          "date": "Thu Jun 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "BJP cadre attacked a journalist while interviewing Annamalai in Namakkal",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "BJP cadre attacked a journalist while interviewing Annamalai in Namakkal",
+        "summary": "BJP cadre attacked a journalist while interviewing Annamalai in Namakkal"
+      }
+    },
+    {
+      "url": "https://thewire.in/rights/vashudev-is-the-tragic-poster-boy-of-the-last-8-years-of-modis-rule",
+      "urlHash": "7e7e61d852ec",
+      "domain": "thewire.in",
+      "fetchedAt": "2026-02-17T11:40:36.366005+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1534863169331806208",
+          "handle": "t_d_h_nair",
+          "date": "Thu Jun 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "'Vashudev' Is the Tragic Poster Boy of the Last 8 Years of Modi's Rule - The Wire",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "'Vashudev' Is the Tragic Poster Boy of the Last 8 Years of Modi's Rule - The Wire",
+        "summary": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/jaggi-vasudev-loses-cool-during-bbc-tamil-interview-switches-camera-164844",
+      "urlHash": "264cde02ae24",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:40:38.674285+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1535300097440747521",
+          "handle": "Ahmedshabbir20",
+          "date": "Fri Jun 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Jaggi Vasudev loses cool during BBC Tamil interview, switches off camera",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "TNM Staff",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Jaggi Vasudev loses cool during BBC Tamil interview, switches off camera",
+        "summary": "The interview was conducted by journalist K Subagunam for BBC Tamil, where he asked Sadhguru about the CAG\u2019s grave charges over the environmental clearances for Isha Foundation."
+      }
+    },
+    {
+      "url": "https://www.telegraphindia.com/jharkhand/economist-to-jharkhand-add-an-egg-to-midday-meal/cid/1869200",
+      "urlHash": "0daa25d6e4d8",
+      "domain": "telegraphindia.com",
+      "fetchedAt": "2026-02-17T11:40:41.272210+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1535311946345779200",
+          "handle": "GunasekaranMu",
+          "date": "Fri Jun 10"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.hindutamil.in/news/tamilnadu/812426-new-regulation-for-poultry-farms.html",
+      "urlHash": "f57bc4e0669f",
+      "domain": "hindutamil.in",
+      "fetchedAt": "2026-02-17T11:40:43.352357+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1535557576850493440",
+          "handle": "TamilTheHindu",
+          "date": "Sat Jun 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "5,000-\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b95\u0bcb\u0bb4\u0bbf \u0bb5\u0bb3\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1: \u0bae\u0bbe\u0b9a\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0bbf\u0baf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+      "rawText": "",
+      "extractedData": {
+        "headline": "5,000-\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b95\u0bcb\u0bb4\u0bbf \u0bb5\u0bb3\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1: \u0bae\u0bbe\u0b9a\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 \u0bb5\u0bbe\u0bb0\u0bbf\u0baf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd",
+        "summary": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0b9a\u0bc1\u0bae\u0bc8\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1 2021-\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd\u0baa\u0b9f\u0bbf, \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u2018\u0b95\u0bcb\u0bb4\u0bbf\u0baa\u0bcd \u0baa\u0ba3\u0bcd\u0ba3\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd\u0b9a\u0bc2\u0bb4\u0bb2\u0bcd \u0bb5\u0bb4\u0bbf\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u2019 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b9a\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bbe\u0bb0\u0bbf\u0baf\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b9c\u0ba9\u0bb5\u0bb0\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      }
+    },
+    {
+      "url": "https://tamil.asianetnews.com/crime/bjp-person-nude-video-call-with-college-student-atrocities-students-screaming-to-ple-save-sir--rdbdu4",
+      "urlHash": "40b5dab1091b",
+      "domain": "tamil.asianetnews.com",
+      "fetchedAt": "2026-02-17T11:40:46.556504+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1535627153219649536",
+          "handle": "TRBRajaa",
+          "date": "Sat Jun 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbe\u0b9c\u0b95 \u0baa\u0bbf\u0bb0\u0bae\u0bc1\u0b95\u0bb0\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3 \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b95\u0bbe\u0bb2\u0bcd.. \u0b85\u0b9f\u0bcd\u0b9f\u0bc2\u0bb4\u0bbf\u0baf\u0bae\u0bcd.. \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b99\u0bcd\u0b95 \u0b9a\u0bbe\u0bb0\u0bcd \u0b8e\u0ba9 \u0b95\u0ba4\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd. | Bjp Person Nude Video Call With College Student Atrocities Students Screaming To Ple Save Sir | Asianet News Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbe\u0b9c\u0b95 \u0baa\u0bbf\u0bb0\u0bae\u0bc1\u0b95\u0bb0\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3 \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b95\u0bbe\u0bb2\u0bcd.. \u0b85\u0b9f\u0bcd\u0b9f\u0bc2\u0bb4\u0bbf\u0baf\u0bae\u0bcd.. \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b99\u0bcd\u0b95 \u0b9a\u0bbe\u0bb0\u0bcd \u0b8e\u0ba9 \u0b95\u0ba4\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd. | Bjp Person Nude Video Call With College Student Atrocities Students Screaming To Ple Save Sir | Asianet News Tamil",
+        "summary": "Read the latest news: \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bbe\u0b9c\u0b95 \u0baa\u0bbf\u0bb0\u0bae\u0bc1\u0b95\u0bb0\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3 \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b95\u0bbe\u0bb2\u0bcd.. \u0b85\u0b9f\u0bcd\u0b9f\u0bc2\u0bb4\u0bbf\u0baf\u0bae\u0bcd.. \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b99\u0bcd\u0b95 \u0b9a\u0bbe\u0bb0\u0bcd \u0b8e\u0ba9 \u0b95\u0ba4\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0b95\u0bb3\u0bcd. Get the latest updates, visuals, and key highlights. Check for more trending news, videos, photos and important updates."
+      }
+    }
+  ]
+}

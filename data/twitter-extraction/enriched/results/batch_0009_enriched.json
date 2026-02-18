@@ -1,0 +1,433 @@
+{
+  "batch": 9,
+  "processedAt": "2026-02-17T11:27:37.910634+00:00",
+  "stats": {
+    "success": 15,
+    "failed": 1,
+    "not_found": 1,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/08/17/chennai-corporation-has-introduced-free-wi-fi-facility",
+      "urlHash": "cb5edadd3dad",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:26:25.334392+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427585810526732291",
+          "handle": "Kalaignarnews",
+          "date": "Tue Aug 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Chennai corporation has introduced free WI FI facility",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Chennai corporation has introduced free WI FI facility",
+        "summary": "Chennai corporation has introduced free WI FI facility"
+      }
+    },
+    {
+      "url": "https://science.thewire.in/the-sciences/nature-study-ancestral-dravidian-language-indus-valley-elephant-pilu/",
+      "urlHash": "6eeb39febff8",
+      "domain": "science.thewire.in",
+      "fetchedAt": "2026-02-17T11:26:27.779924+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427941274003202049",
+          "handle": "tjoseph0010",
+          "date": "Tue Aug 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "New Study Suggests Indus Valley People Spoke Ancestral Dravidian Language &#8211; The Wire Science",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "New Study Suggests Indus Valley People Spoke Ancestral Dravidian Language &#8211; The Wire Science",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://on.natgeo.com/3xYnTfa",
+      "urlHash": "7faf784ac319",
+      "domain": "on.natgeo.com",
+      "fetchedAt": "2026-02-17T11:26:32.343295+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427986193455599618",
+          "handle": "NatGeo",
+          "date": "Wed Aug 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "How trafficked cheetah cubs move from the wild and into your Instagram feed | National Geographic",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "How trafficked cheetah cubs move from the wild and into your Instagram feed | National Geographic",
+        "summary": "Criminal networks in Somaliland smuggle cubs out of Africa to wealthy buyers abroad. Now the breakaway African state is fighting back."
+      }
+    },
+    {
+      "url": "https://thefederal.com/business/common-man-pays-more-tax-than-corporates-but-centre-plays-oil-bonds-card/?utm_source=app&utm_medium=share&utm_campaign=Business",
+      "urlHash": "a0773bdff6fc",
+      "domain": "thefederal.com",
+      "fetchedAt": "2026-02-17T11:26:38.033758+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1428079289673469954",
+          "handle": "karthickselvaa",
+          "date": "Wed Aug 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Common man pays more tax than corporates, but Centre plays \u2018oil bonds\u2019 card",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Akash Chandrashekhar Gulankar",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Common man pays more tax than corporates, but Centre plays \u2018oil bonds\u2019 card",
+        "summary": "The data on fuel taxes, personal income tax, and corporate taxes show that individuals are paying more tax than corporates in India. The discrepancy can be attributed to the increased fuel prices and..."
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/chennai/grace-banu-bags-tamil-nadu-governments-first-ever-best-third-gender-award-for-contributions-to-society-7456832/",
+      "urlHash": "5b1336d73a05",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:26:40.382953+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1428195221871816709",
+          "handle": "KanimozhiDMK",
+          "date": "Wed Aug 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Grace Banu bags Tamil Nadu government\u2019s first ever \u2018Best Third Gender\u2019 award for contributions to society | Chennai News - The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Grace Banu bags Tamil Nadu government\u2019s first ever \u2018Best Third Gender\u2019 award for contributions to society | Chennai News - The Indian Express",
+        "summary": "The award, organised by the Social Welfare and Women Empowerment Department, has been introduced for the first time by the government of Tamil Nadu to recognise transgenders and their contributions to the society."
+      }
+    },
+    {
+      "url": "http://123.63.203.150/public/lake.htm",
+      "urlHash": "bc554ec49f6d",
+      "domain": "123.63.203.150",
+      "fetchedAt": "2026-02-17T11:26:43.728409+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1429253005954584584",
+          "handle": "vijay27anand",
+          "date": "Sat Aug 21"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/08/23/tn-govt-has-signed-mous-with-11-firms-recently-on-data-center-in-chennai",
+      "urlHash": "91ca4efd05da",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:27:00.766660+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1429668334241419265",
+          "handle": "Kalaignarnews",
+          "date": "Mon Aug 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "tn govt has signed MoUs with 11 firms recently on data center in chennai",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "tn govt has signed MoUs with 11 firms recently on data center in chennai",
+        "summary": "tn govt has signed MoUs with 11 firms recently on data center in chennai"
+      }
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/bjp-flag-over-indian-flag-at-kalyan-singhs-prayer-meet-triggers-row-2516258",
+      "urlHash": "5a6034f31efe",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:27:03.145768+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1429668544942272513",
+          "handle": "ShashiTharoor",
+          "date": "Sun Aug 22"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.nbcnews.com/news/us-news/jesse-jackson-wife-jacqueline-responding-positively-covid-19-treatment-n1277419",
+      "urlHash": "00f105a15b16",
+      "domain": "nbcnews.com",
+      "fetchedAt": "2026-02-17T11:27:05.290448+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1430046580703334409",
+          "handle": "ptrmadurai",
+          "date": "Tue Aug 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Jesse Jackson and wife, Jacqueline, &#x27;responding positively&#x27; to Covid-19 treatment",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Jesse Jackson and wife, Jacqueline, &#x27;responding positively&#x27; to Covid-19 treatment",
+        "summary": "The Rev. Jesse Jackson and his wife, Jacqueline, are \u201cresponding positively\u201d to medical treatment after being hospitalized with Covid-19, their family said Sunday."
+      }
+    },
+    {
+      "url": "https://www.nakkheeran.in/24-by-7-news/politics/will-support-tamil-nadu-government-neet-issue-former-minister-sengkottaiyan",
+      "urlHash": "c8c33fe484f9",
+      "domain": "nakkheeran.in",
+      "fetchedAt": "2026-02-17T11:27:08.010532+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1431265991976095751",
+          "handle": "nakkheeranweb",
+          "date": "Fri Aug 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u201c\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc1\u0ba3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bcd\u0baa\u0bcb\u0bae\u0bcd\u201d \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0ba9\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0ba8\u0b95\u0bcd\u0b95\u0bc0\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u201c\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc1\u0ba3\u0bc8 \u0ba8\u0bbf\u0bb1\u0bcd\u0baa\u0bcb\u0bae\u0bcd\u201d \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0ba9\u0bcd",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://scroll.in/field/1004165/two-gold-two-silver-one-bronze-august-30-an-epic-day-for-indian-sport-at-tokyo-paralympics",
+      "urlHash": "c95bbce974f4",
+      "domain": "scroll.in",
+      "fetchedAt": "2026-02-17T11:27:10.501868+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1432924065329606663",
+          "handle": "thefield_in",
+          "date": "Wed Sep 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tokyo Paralympics: 2 Gold, 2 silver, 1bronze. August 30 \u2013 A day to remember for Indian sport",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Scroll Staff",
+      "rawText": "Become A Member Gift Membership Gift Membership Gift Membership Sign In Become A Member Home Common Ground The Latest Members-Only Video Eco India The Reel Magazine Trending Trending Administrative takeover of Lakshwadeep\u2019s coral atoll could disrupt rich ecology Umar Khalid\u2019s five years of incarceration: \u2018Do I even know the world any more?\u2019 Shashi Deshpande writes about a dressing table that has been with her family for three generations Why the Supreme Court\u2019s menstrual hygiene ruling may not be enough for schoolgirls Why a village in Maharashtra\u2019s Western Ghats is trying to save rainwater runoff The roots of India\u2019s disinterest in reading A bittersweet archive: The history of sohan halwa Indian flag history: How Pingali Venkayya designed one of the first versions of the tricolour Feminist fiction for children: Sisters Shukhu and Dukhu learn to be independent by becoming weavers Short fiction: The demolition of the Babri Masjid sends the journalists of a newspaper into a flurry BNP chief Tarique Rahman takes oath as Bangladesh PM Why has the JNU sedition case gone nowhere in a decade?",
+      "extractedData": {
+        "headline": "Tokyo Paralympics: 2 Gold, 2 silver, 1bronze. August 30 \u2013 A day to remember for Indian sport",
+        "summary": "It is without doubt, as things stand, the single greatest day of results at the Paralympic Games for India."
+      }
+    },
+    {
+      "url": "https://www.business-standard.com/article/companies/amazon-to-host-first-ever-career-day-in-india-over-8-000-direct-jobs-ready-121090200012_1.html",
+      "urlHash": "fa7e3bb4f8ec",
+      "domain": "business-standard.com",
+      "fetchedAt": "2026-02-17T11:27:12.803723+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1433243310768992260",
+          "handle": "GunasekaranMu",
+          "date": "Wed Sep 01"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://www.arappor.org/RTS",
+      "urlHash": "c741875ce169",
+      "domain": "arappor.org",
+      "fetchedAt": "2026-02-17T11:27:15.040100+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1434205581900869639",
+          "handle": "Arappor",
+          "date": "Sat Sep 04"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/section-377-3-years-on-freedom-to-love-takes-root-101630875219858.html?utm_source=twitter",
+      "urlHash": "f90d026d0606",
+      "domain": "hindustantimes.com",
+      "fetchedAt": "2026-02-17T11:27:21.361984+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1434716775547953159",
+          "handle": "TRBRajaa",
+          "date": "Mon Sep 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Section 377, 3 years on: Freedom to love takes root| India News",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Section 377, 3 years on: Freedom to love takes root| India News",
+        "summary": "The landmark \u201918 verdict prompted LGBT people across India to seek their rights from courts and society. The key to this advancement were residents of small towns and villages| India News"
+      }
+    },
+    {
+      "url": "http://samayam.in/h2l8EY",
+      "urlHash": "2ddd556c46dc",
+      "domain": "samayam.in",
+      "fetchedAt": "2026-02-17T11:27:23.746078+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1435282856943570944",
+          "handle": "TRBRajaa",
+          "date": "Tue Sep 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Mk Stalin Strategy,\u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba3\u0bbf: \u0b8f\u0ba3\u0bbf\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1! - what is the political style of mk stalin why is he so welcome - Samayam Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Mk Stalin Strategy,\u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba3\u0bbf: \u0b8f\u0ba3\u0bbf\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1! - what is the political style of mk stalin why is he so welcome - Samayam Tamil",
+        "summary": "\u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf\u0ba9\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbe\u0ba3\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb5\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?"
+      }
+    },
+    {
+      "url": "http://samayam.in/h2l8EY?utm_source=twitter&utm_campaign=tamilmobile&utm_medium=referral",
+      "urlHash": "00cc784a939e",
+      "domain": "samayam.in",
+      "fetchedAt": "2026-02-17T11:27:27.742907+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1435282856943570944",
+          "handle": "TRBRajaa",
+          "date": "Tue Sep 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Mk Stalin Strategy,\u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba3\u0bbf: \u0b8f\u0ba3\u0bbf\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1! - what is the political style of mk stalin why is he so welcome - Samayam Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Mk Stalin Strategy,\u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba3\u0bbf: \u0b8f\u0ba3\u0bbf\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1, \u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bae\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2 \u0b92\u0bb0\u0bc1 \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1! - what is the political style of mk stalin why is he so welcome - Samayam Tamil",
+        "summary": "\u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf\u0ba9\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbe\u0ba3\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb5\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?"
+      }
+    },
+    {
+      "url": "https://mybs.in/2ZhPXXC",
+      "urlHash": "acd92647e02f",
+      "domain": "mybs.in",
+      "fetchedAt": "2026-02-17T11:27:30.372924+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1435879771162824705",
+          "handle": "bsindia",
+          "date": "Wed Sep 08"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://toi.in/fwKd4a",
+      "urlHash": "5d08210597e7",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:27:32.658955+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1436886905392545796",
+          "handle": "TOIChennai",
+          "date": "Sun Sep 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Over 27L doses sent across Tamil Nadu for mega vaccination drive today | Chennai News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Over 27L doses sent across Tamil Nadu for mega vaccination drive today | Chennai News - Times of India",
+        "summary": "More than 27 lakh doses have been distributed across the state for the 12-hour mega vaccination drive from 7am on Sunday in 40,000 government centres"
+      }
+    },
+    {
+      "url": "http://toi.in/gFx4ta/a24gk",
+      "urlHash": "0c7742eeca59",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:27:35.384020+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1436889238788665351",
+          "handle": "timesofindia",
+          "date": "Sun Sep 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Teen Emma Raducanu wins US Open title for first Grand Slam crown by a qualifier | Tennis News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Teen Emma Raducanu wins US Open title for first Grand Slam crown by a qualifier | Tennis News - Times of India",
+        "summary": "Tennis News: British teenager Emma Raducanu completed the greatest underdog title triumph in tennis history on Saturday, becoming the first qualifier to capture a"
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/dmk-mla-moves-madras-hc-to-wrest-higher-education-back-on-state-list/articleshow/86135488.cms",
+      "urlHash": "d3f1a239c7da",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:27:37.803711+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1437024581991030789",
+          "handle": "TRBRajaa",
+          "date": "Sun Sep 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "DMK MLA moves Madras HC to wrest higher education back on state list | Chennai News - The Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "DMK MLA moves Madras HC to wrest higher education back on state list | Chennai News - The Times of India",
+        "summary": "A service organisation founded by a DMK MLA has moved Madras high court challenging the 42nd constitutional amendment through which higher education w"
+      }
+    }
+  ]
+}

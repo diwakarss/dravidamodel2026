@@ -1,0 +1,1255 @@
+[
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 418,
+    "confidence": 0.9,
+    "locations": [],
+    "investment_crore": 13054.44,
+    "accounts": [
+      "skpkaruna",
+      "yazhini_pm",
+      "drtharun",
+      "SuriyaKML",
+      "sunnewstamil"
+    ],
+    "first_mention": "2024-06-05",
+    "sample_tweet": "Met Thiru @ncbn garu, a longtime friend of Thalaivar Kalaignar, at Delhi Airport. I conveyed my best wishes to him and expressed hope that we will collaborate to strengthen the ties between the brothe"
+  },
+  {
+    "category": "industries",
+    "name": "Google",
+    "type": "company",
+    "mentions": 39,
+    "confidence": 0.65,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "TNDIPRNEWS",
+      "mkstalin",
+      "zoo_bear"
+    ],
+    "first_mention": "2024-06-09",
+    "sample_tweet": "DMK was the first to foresee the hazards of #NEET and undertook a large-scale campaign against it.\n\nAfter coming to power, we constituted a High-Level Committee headed by Justice A.K. Rajan to study t"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 30,
+    "confidence": 0.75,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "Dr_Ezhilan",
+      "DMKITwing",
+      "mkstalin",
+      "Guidance_TN",
+      "MoCA_GoI"
+    ],
+    "first_mention": "2024-07-24",
+    "sample_tweet": "After the union government budget \nurban middle class of Chennai would have realised ......."
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 30,
+    "confidence": 1.0,
+    "locations": [
+      "Coimbatore"
+    ],
+    "investment_crore": 2736.0,
+    "accounts": [
+      "VigneshAnand_Vm",
+      "mkstalin",
+      "Guidance_TN",
+      "TRBRajaa",
+      "simplicitycbe"
+    ],
+    "first_mention": "2024-08-10",
+    "sample_tweet": "#KovaiRising indeed 🌟\n\nMore poll promises fulfilled for #Kovai🌄\n\nThankful to the office of our Honourable @CMOTamilnadu Thiru @mkstalin avargal for the constant follow-up and to my beloved brother @Mo"
+  },
+  {
+    "category": "industries",
+    "name": "Apple",
+    "type": "company",
+    "mentions": 11,
+    "confidence": 0.8,
+    "locations": [],
+    "investment_crore": 1.0,
+    "accounts": [
+      "dmuthuk",
+      "DMKITwing",
+      "mkstalin",
+      "TNDIPRNEWS",
+      "dharanisalem"
+    ],
+    "first_mention": "2024-08-31",
+    "sample_tweet": "An awe-inspiring visit to the offices of Apple, Google and Microsoft. Discussed various opportunities and exciting partnerships. Determined to strengthen these partnerships and make Tamil Nadu one of "
+  },
+  {
+    "category": "industries",
+    "name": "Samsung",
+    "type": "company",
+    "mentions": 11,
+    "confidence": 0.65,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "DMK_Updates",
+      "Kalaignarnews"
+    ],
+    "first_mention": "2024-10-06",
+    "sample_tweet": "மாண்புமிகு #தமிழ்நாடு #முதலமைச்சர் திரு. மு.க.ஸ்டாலின் அவர்களின் ஆலோசனைப்படி, இன்று காலை #சாம்சங் நிறுவன மேலாளர்களுடனான சந்திப்பின் போது, நிலுவையில் உள்ள பிரச்சனைகளை தீர்க்கப் பயனுள்ள உரையாடலை நடத்தின"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 9,
+    "confidence": 0.75,
+    "locations": [
+      "Tiruppur"
+    ],
+    "investment_crore": 2250.0,
+    "accounts": [
+      "TRBRajaa",
+      "mkstalin"
+    ],
+    "first_mention": "2025-08-22",
+    "sample_tweet": "Amidst the global trade challenges impacting the textile sector, Honourable @CMOTamilNadu Thiru. @MKStalin avargal today met representatives of the textile industry at the Secretariat.\n\nThe delegation"
+  },
+  {
+    "category": "industries",
+    "name": "Reliance",
+    "type": "company",
+    "mentions": 8,
+    "confidence": 0.65,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "Guidance_TN",
+      "mkstalin"
+    ],
+    "first_mention": "2025-02-12",
+    "sample_tweet": "Spent a highly productive day at #AeroIndia in Bengaluru, and it was reassuring to see that #TamilNadu remains among the top choice for private sector investments in the #aerospace and #defence sector"
+  },
+  {
+    "category": "welfare",
+    "name": "Components Manufacturing",
+    "type": "scheme",
+    "mentions": 8,
+    "confidence": 0.9,
+    "locations": [],
+    "investment_crore": 30000.0,
+    "accounts": [
+      "TRBRajaa",
+      "Guidance_TN",
+      "mkstalin",
+      "TNIndMin"
+    ],
+    "first_mention": "2025-04-30",
+    "sample_tweet": "TAMIL NADU ELECTRONICS JUGGERNAUT ROLLS ON !\n\n#TamilNadu becomes the FIRST state in India to launch a dedicated state Electronics Components Manufacturing Scheme - and it’s a game-changer!\n\nToday, Hon"
+  },
+  {
+    "category": "welfare",
+    "name": "Assured Pension",
+    "type": "scheme",
+    "mentions": 8,
+    "confidence": 0.8,
+    "locations": [],
+    "investment_crore": 13000.0,
+    "accounts": [
+      "CMOTamilnadu",
+      "muruga_TNIE",
+      "GunasekaranMu"
+    ],
+    "first_mention": "2026-01-03",
+    "sample_tweet": "தமிழ்நாடு அரசு அலுவலர்கள் மற்றும் ஆசிரியர்களின் இருபதாண்டுகாலக் கோரிக்கையினை நிறைவேற்றும் வகையில், பழைய ஓய்வூதிய திட்டத்தின் பலன்களை வழங்கக்கூடிய புதிய திட்டமான “தமிழ்நாடு உறுதியளிக்கப்பட்ட ஓய்வூதியத்"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 7,
+    "confidence": 0.6,
+    "locations": [
+      "Erode"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-12-12",
+    "sample_tweet": "The Union Cabinet has approved introducing the draconian ‘One Nation, One Election Bill’ in Parliament. This impractical and anti-democratic move will erase regional voices, erode federalism, and disr"
+  },
+  {
+    "category": "industries",
+    "name": "Google",
+    "type": "company",
+    "mentions": 6,
+    "confidence": 0.6,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "UpdatesChennai"
+    ],
+    "first_mention": "2024-07-22",
+    "sample_tweet": "Our Traffic Cops should try pinning such notes all over @googlemaps,,,of Chennai and all of TN for their next campaign 😅\n\n#WearAHelmet stay safe 🙏🏾\n\nPs: this is a real screenshot ! Try GMaps !"
+  },
+  {
+    "category": "welfare",
+    "name": "S Breakfast",
+    "type": "scheme",
+    "mentions": 6,
+    "confidence": 0.65,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "DMK_Updates",
+      "mkstalin",
+      "ndtv",
+      "Anbil_Mahesh"
+    ],
+    "first_mention": "2024-07-15",
+    "sample_tweet": "Procedure of Chief Minister's Breakfast Scheme. 👇📢\n#TNBreakfastScheme"
+  },
+  {
+    "category": "infrastructure",
+    "name": "Chennai Metro",
+    "type": "metro",
+    "mentions": 6,
+    "confidence": 0.75,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "UpdatesChennai",
+      "mkstalin",
+      "TnInvestment",
+      "dstock_insights"
+    ],
+    "first_mention": "2024-08-01",
+    "sample_tweet": "🚨Ridership for Chennai Metro was highest in July 2024 since its inauguration. Monthly Ridership for 2024..👇👇Ⓜ️🚇 (Nos in Lakhs)\n1. Jan - 84.6 \n2. Feb- 86.15 \n3. Mar - 86.82 \n4. Apr - 80.87\n5. May - 84."
+  },
+  {
+    "category": "welfare",
+    "name": "Puthumaipenn",
+    "type": "scheme",
+    "mentions": 5,
+    "confidence": 0.5,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-12-15",
+    "sample_tweet": "#DravidianModel: Educate a woman, transform generations.\n\nThis @the_hindu article highlights #PuthumaiPenn scheme’s profound impact.\n\n@sang1983 @megam_enga"
+  },
+  {
+    "category": "infrastructure",
+    "name": "Chennai Metro Rail",
+    "type": "metro",
+    "mentions": 5,
+    "confidence": 0.75,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "DMKITwing",
+      "UpdatesChennai",
+      "mkstalin"
+    ],
+    "first_mention": "2024-09-14",
+    "sample_tweet": "18,564 Crs spent on Chennai Metro Rail phase II so far, FM’s claim wrong: Thangam Thennarasu… #Chennai #Metro Ⓜ️🚊https://www.dtnext.in/news/tamilnadu/rs-18564-crore-spent-on-chennai-metro-rail-phase-i"
+  },
+  {
+    "category": "infrastructure",
+    "name": "Madurai Metro",
+    "type": "metro",
+    "mentions": 5,
+    "confidence": 0.6,
+    "locations": [
+      "Coimbatore"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "VigneshAnand_Vm",
+      "mkstalin"
+    ],
+    "first_mention": "2024-10-26",
+    "sample_tweet": "Had the pleasure of meeting Hon'ble @mlkhattar to discuss the progress of Chennai Metro Rail's Phase-II project. Expressed our gratitude to the Union Government for accepting my request and approving "
+  },
+  {
+    "category": "education",
+    "name": "Govt",
+    "type": "education",
+    "mentions": 5,
+    "confidence": 0.65,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "DrNikitaMehra",
+      "jaya2016maha",
+      "dharanisalem",
+      "TamilnaduStats",
+      "TRBRajaa"
+    ],
+    "first_mention": "2024-10-24",
+    "sample_tweet": "54 govt school teachers land in Paris France to learn innovative teaching methods. \n\n#DravidianModel serving as a model for rest of india to emulate from education to health to industrial growth. \n\n@T"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 4,
+    "confidence": 0.4,
+    "locations": [
+      "Madurai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "Guidance_TN",
+      "mkstalin"
+    ],
+    "first_mention": "2025-03-31",
+    "sample_tweet": "\"An unfair #delimitation represents the political weaponisation of demographics on an unprecedented scale. India stands at a crossroads: either we defend the diverse, federal union our founding ancest"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 4,
+    "confidence": 0.55,
+    "locations": [
+      "Virudhunagar"
+    ],
+    "investment_crore": 1894.0,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2025-07-01",
+    "sample_tweet": "🚨 Big boost for Tamil Nadu’s #textile sector !\n\nAfter continuous talks between #TeamTN led by our Honourable @CMOTamilNdu Thiru. @MKStalin avargal and @TNIndMin with the Union @TexMinIndia Honourable "
+  },
+  {
+    "category": "infrastructure",
+    "name": "Chennai Metro Rail",
+    "type": "metro",
+    "mentions": 4,
+    "confidence": 0.4,
+    "locations": [
+      "Coimbatore"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-10-26",
+    "sample_tweet": "Had the pleasure of meeting Hon'ble @mlkhattar to discuss the progress of Chennai Metro Rail's Phase-II project. Expressed our gratitude to the Union Government for accepting my request and approving "
+  },
+  {
+    "category": "sports",
+    "name": "Indoor",
+    "type": "sports",
+    "mentions": 4,
+    "confidence": 0.45,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "AG_KATHIRAVAN",
+      "tnrags",
+      "Udhaystalin"
+    ],
+    "first_mention": "2025-04-04",
+    "sample_tweet": "நம் வீரர்களின் திறமைக்கு களம் அமைத்துக் கொடுப்பதில், விளையாட்டுத்துறை சார்ந்த கட்டமைப்பே அடித்தளமாக திகழ்கிறது.\n\nஅந்த வகையில், தேனி மாவட்ட விளையாட்டு வளாகத்தில் சுமார் ரூ.6 கோடி மதிப்பில் கட்டப்பட்டுள"
+  },
+  {
+    "category": "industries",
+    "name": "Reliance",
+    "type": "company",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2025-07-09",
+    "sample_tweet": "#EnergySecurity is vital to India’s industrial self-reliance and we have now moved a step ahead in Tamil Nadu’s green industrial journey! \n\nThe Hyundai HTWO Innovation Centre, a cutting-edge industria"
+  },
+  {
+    "category": "industries",
+    "name": "Apple",
+    "type": "company",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Sriperumbudur"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "yazhini_pm"
+    ],
+    "first_mention": "2025-07-28",
+    "sample_tweet": "This is exactly what we are talking about - Long term thinking that is integral to the electronics manufacturing policy initiatives of Tamil Nadu. \n\nApple ecosystem in Tamil Nadu is emerging as part o"
+  },
+  {
+    "category": "industries",
+    "name": "Tidel Park",
+    "type": "it_park",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Salem"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-08-01",
+    "sample_tweet": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n\n🌆 திருவண்ணாமலையில் IT வல்லுநர்களுக்கு 600 புதிய வேலைவாய்ப்புகளை உருவாக்கும் வகையில் 'Mini #TIDEL Park' அமைக்க அடிக்கல்,\n\n🏖️ குண்டாறு அணை, ஏலகிரி, பூண்டி நீர்த்தேக்கம்,"
+  },
+  {
+    "category": "industries",
+    "name": "Apple",
+    "type": "company",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "Guidance_TN",
+      "dmuthuk"
+    ],
+    "first_mention": "2025-08-23",
+    "sample_tweet": "Do you know something?\n\nTamil Nadu has almost achieved zero defect in electronics manufacturing.\n\nEarlier the yardstick was zero parts per million. Now in some areas, the state has achieved what only "
+  },
+  {
+    "category": "industries",
+    "name": "Engine Manufacturing Its",
+    "type": "industrial",
+    "mentions": 3,
+    "confidence": 0.45,
+    "locations": [],
+    "investment_crore": 3250.0,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-10-31",
+    "sample_tweet": "Ford returns to Tamil Nadu with full throttle!\n\nA powerful comeback that renews a long and trusted partnership, as #Ford invests Rs. 3,250 crore in Tamil Nadu to set up a Next Gen Engine Manufacturing"
+  },
+  {
+    "category": "industries",
+    "name": "Pillaipakkam",
+    "type": "industrial_park",
+    "mentions": 3,
+    "confidence": 0.55,
+    "locations": [],
+    "investment_crore": 1003.0,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-12-05",
+    "sample_tweet": "#SIPCOT பிள்ளைப்பாக்கத்தில் உற்பத்தியைத் தொடங்கிய கார்னிங் கூட்டுநிறுவனமான BIG Tech: எவராலும் தடுக்க முடியாத தமிழ்நாட்டின் வளர்ச்சி!\n\nInaugurated BIG Tech, at #SIPCOT Pillaipakkam, the joint venture o"
+  },
+  {
+    "category": "welfare",
+    "name": "Naanmudhalvan",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin",
+      "Udhaystalin"
+    ],
+    "first_mention": "2024-07-01",
+    "sample_tweet": "Absolutely thrilled to share this heartwarming news!\n\nSeeing over 25,000 polytechnic students land jobs through the #NaanMudhalvan scheme fills my heart with pride. Our #DravidianModel government is t"
+  },
+  {
+    "category": "welfare",
+    "name": "Social Welfare",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TamilnaduStats",
+      "Surya_BornToWin"
+    ],
+    "first_mention": "2024-07-15",
+    "sample_tweet": "🚀 #TamilNadu's No Poverty Index by #SDG #India Index score jumps to 92. An incredible improvement from last year's (2020-2021) is 86, well above the India's national average of 72. Social welfare sche"
+  },
+  {
+    "category": "welfare",
+    "name": "With Flagship",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TamilnaduStats",
+      "mkstalin"
+    ],
+    "first_mention": "2024-08-13",
+    "sample_tweet": "Tamil Nadu continues to shine as the educational powerhouse of India! \n\nWith the highest number of top-ranked Higher Educational Institutions in the #NIRFRankings2024, our state stands far ahead of ot"
+  },
+  {
+    "category": "welfare",
+    "name": "Pioneering Healthcare",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-10-07",
+    "sample_tweet": "Delighted to announce that #MakkalaiThediMaruthuvam, our #DravidianModel Government's pioneering healthcare scheme for the Indian subcontinent, has earned the prestigious @UN-AITF Award. With over 1.8"
+  },
+  {
+    "category": "welfare",
+    "name": "Morning Breakfast",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.45,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "AseerAchary",
+      "lakhinathan",
+      "VarierAravind"
+    ],
+    "first_mention": "2025-01-08",
+    "sample_tweet": "This is great. During our time of schooling, we did not have morning breakfast scheme. I recall now, many a mornings, I have gone to my school (RC Higher Secondary School, Tiruchirapalli) empty stomac"
+  },
+  {
+    "category": "welfare",
+    "name": "Under The",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.45,
+    "locations": [],
+    "investment_crore": 59350.0,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2025-07-29",
+    "sample_tweet": "Even as the union continues to stifle the flow of funds to our State we continue to Shine Bright in Performance 🌟\n\nTamil Nadu has the highest MNREGA fund UTILISATION in the country! \n\nWhat makes it ev"
+  },
+  {
+    "category": "welfare",
+    "name": "Components Manufacturing",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "TnInvestment"
+    ],
+    "first_mention": "2025-08-08",
+    "sample_tweet": "🎊Welcome to Tamil Nadu, #MuRata !🎊\n\nA global leader in advanced electronic components, with a 40% share in multilayer ceramic capacitors, whose components power smartphones in our pockets to NASA’s Ma"
+  },
+  {
+    "category": "welfare",
+    "name": "Of Breakfast",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "PTI_News"
+    ],
+    "first_mention": "2025-08-26",
+    "sample_tweet": "Tamil Nadu CM Stalin inaugurates expansion of breakfast scheme in Chennai to State-aided schools in urban regions. \n\nTamil Nadu CM Stalin, Punjab CM Bhagwant Mann serve food to children, marking launc"
+  },
+  {
+    "category": "welfare",
+    "name": "A Similar",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-08-26",
+    "sample_tweet": "The Chief Minister’s Breakfast Scheme in Tamil Nadu continues to inspire beyond our borders. \n\nHon’ble Punjab CM Thiru. @BhagwantMann honoured us by attending the #CMBreakFastScheme expansion event to"
+  },
+  {
+    "category": "welfare",
+    "name": "Our Flagship",
+    "type": "scheme",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-09-26",
+    "sample_tweet": "Thank you, Hon'ble Thiru. @revanth_anumula garu, for joining the \"Tamil Nadu Excels in Education\" celebrations. Your announcement to take the #CMBreakfastScheme to #Telangana from the next academic ye"
+  },
+  {
+    "category": "infrastructure",
+    "name": "Chennai Metro",
+    "type": "metro",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Coimbatore"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-11-19",
+    "sample_tweet": "'கோயில் நகர்' மதுரைக்கும், 'தென்னிந்திய மான்செஸ்டர்' கோவைக்கும் \"NO METRO\" என நிராகரித்துள்ளது ஒன்றிய பா.ஜ.க. அரசு!\n\nஅனைவருக்கும் பொதுவானதாகச் செயல்படுவதுதான் அரசுக்கான இலக்கணம். அதற்கு மாறாக, பா.ஜ.க."
+  },
+  {
+    "category": "education",
+    "name": "Aachen",
+    "type": "education",
+    "mentions": 3,
+    "confidence": 0.45,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "Guidance_TN",
+      "TIDCO_1965"
+    ],
+    "first_mention": "2025-02-11",
+    "sample_tweet": "It was a pleasure to meet the team from the RWTH Aachen University, Germany, with whom TIDCO is considering collaborations for the upcoming #TNKnowledgeCity.\n\nOur discussions focused on leveraging Ger"
+  },
+  {
+    "category": "education",
+    "name": "Medium",
+    "type": "education",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "INCKerala",
+      "minicnair"
+    ],
+    "first_mention": "2025-03-22",
+    "sample_tweet": "Preaching equality among unequals is the worst form of discrimination. A child trekking the hills of Manipur to go to school and a child with educated parents living in a big city are not equal.\n\nAny "
+  },
+  {
+    "category": "education",
+    "name": "Model",
+    "type": "education",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TamilnaduStats",
+      "mkstalin"
+    ],
+    "first_mention": "2025-04-29",
+    "sample_tweet": "🚽 Toilets in schools aren’t a luxury. They’re a right.\n\nYet in #TamilNadu - A state that prides itself on education 📚 but the recent #UDISE+ data is disappointing.\n\n👦 Only 75.6% govt schools have boys"
+  },
+  {
+    "category": "culture",
+    "name": "Periyar",
+    "type": "culture",
+    "mentions": 3,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-12-12",
+    "sample_tweet": "A historic day in Vaikom, Kerala, as the people of Tamil Nadu and Kerala come together to proudly inaugurate the Periyar Memorial and Library.\n\nI invite all visitors to Kerala to visit this iconic sit"
+  },
+  {
+    "category": "culture",
+    "name": "Egmore",
+    "type": "culture",
+    "mentions": 3,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-03-19",
+    "sample_tweet": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir John Marshall, who discovered and announced the #I"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Hosur"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "PWilsonDMK"
+    ],
+    "first_mention": "2024-06-27",
+    "sample_tweet": "I was surprised to see Mr Annamalai's statement quoting an answer to a question I raised before Parliament. Everyone in Tamil Nadu is grateful for today's Hon’ble  Chief Minister @mkstalin's announcem"
+  },
+  {
+    "category": "industries",
+    "name": "Google",
+    "type": "company",
+    "mentions": 2,
+    "confidence": 0.55,
+    "locations": [
+      "Coimbatore"
+    ],
+    "investment_crore": 900.0,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2024-08-31",
+    "sample_tweet": "With #CMStalinInUS, Tamil Nadu is racing into a new era of tech #RnD, #semiconductors design and #AI!! \n\nOn our visit to the @Google HQ today, we’ve signed an MoU to set up the \"#TamilNaduAILabs\" at @"
+  },
+  {
+    "category": "industries",
+    "name": "Apple",
+    "type": "company",
+    "mentions": 2,
+    "confidence": 0.65,
+    "locations": [
+      "Kanchipuram"
+    ],
+    "investment_crore": 666.0,
+    "accounts": [
+      "GunasekaranMu"
+    ],
+    "first_mention": "2024-09-10",
+    "sample_tweet": "Apple supplier  Jabil to set up an electronics manufacturing facility in \nTrichy, Tamil Nadu.\n\n ▶️Jabil to invest 2000 crore and create 5000 jobs.\n\n▶️Jabil is also a supplier to Cisco and HP\n\n▶️MoU wi"
+  },
+  {
+    "category": "industries",
+    "name": "Cognizant",
+    "type": "it_company",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2024-09-24",
+    "sample_tweet": "Awesome to see #Chennai's #F1 connect ! #AstonMartin's cars zipping past on the #Formula1 racetracks thanks in part to our very own engineers at @Cognizant Chennai says a lot about the #TalentPool in "
+  },
+  {
+    "category": "industries",
+    "name": "Cognizant",
+    "type": "it_company",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2024-09-24",
+    "sample_tweet": "@TweetyKandy @Cognizant Have had a very good discussion in #Davos in Jan earlier this year 😇👍🏾"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Trichy"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2024-10-11",
+    "sample_tweet": "#Trichy #Airport is back to normalcy and other flights are taking off and landing as usual🙏🏾\n\nKudos to the Pilot, AirCrew and ATC for doing a great job. Fabulous job by Collector Trichy Pradeep IAS in"
+  },
+  {
+    "category": "industries",
+    "name": "Nio",
+    "type": "ev_company",
+    "mentions": 2,
+    "confidence": 0.55,
+    "locations": [
+      "Perambalur"
+    ],
+    "investment_crore": 1000.0,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2024-11-15",
+    "sample_tweet": "Yet another #NonLeatherFootwear major in #TamilNadu! 🚀\nYet another #TNGIM2024 MoU has now turned into an Investment!🎊\n\nHonoured to be a part of the groundbreaking ceremony for #DeanShoes / Freetrend i"
+  },
+  {
+    "category": "industries",
+    "name": "Tcs",
+    "type": "it_company",
+    "mentions": 2,
+    "confidence": 0.55,
+    "locations": [
+      "Theni"
+    ],
+    "investment_crore": 30.0,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2025-02-06",
+    "sample_tweet": "Here is the message from Thiru. N. Chandrasekaran, Chairman of Tata Sons, for the successful inauguration of the TP Solar Cell and Module Manufacturing Unit today, presided over by Honourable @CMOTami"
+  },
+  {
+    "category": "industries",
+    "name": "A Single The",
+    "type": "industrial",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-03-05",
+    "sample_tweet": "Thankful to all parties that stood together as a single unit in the All-party Meeting convened by the Government of Tamil Nadu, setting aside the political differences to send a clear and uncompromisi"
+  },
+  {
+    "category": "industries",
+    "name": "Siruseri",
+    "type": "industrial_park",
+    "mentions": 2,
+    "confidence": 0.45,
+    "locations": [],
+    "investment_crore": 1882.0,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-04-17",
+    "sample_tweet": "Tamil Nadu powers India’s digital surge.\n\nInaugurated @SifyTech’s cutting-edge, 'AI-ready', Platinum-rated Green Data Centre at SIPCOT Siruseri with an investment of ₹1,882 crore, creating 1,000 direc"
+  },
+  {
+    "category": "industries",
+    "name": "Will",
+    "type": "industrial_park",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Kanyakumari"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2025-07-26",
+    "sample_tweet": "While visiting South Tamil Nadu for a series of meetings and inspections,took an exciting pitstop at #Kanyakumari.\n\nWhile we are fast-tracking new industrial parks and upgrading infrastructure for loc"
+  },
+  {
+    "category": "industries",
+    "name": "Allikulam",
+    "type": "industrial_park",
+    "mentions": 2,
+    "confidence": 0.55,
+    "locations": [
+      "Thoothukudi"
+    ],
+    "investment_crore": 1156.0,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2025-09-24",
+    "sample_tweet": "FLASH🚨\n\nAnother FMCG major chooses Tamil Nadu !\n\nReliance Consumer Products Limited has chosen Tamil Nadu for its next big unit. The company will invest Rs. 1,156 crore to set up an integrated manufac"
+  },
+  {
+    "category": "welfare",
+    "name": "Free Bus",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "drmahendran_r",
+      "K_T_L"
+    ],
+    "first_mention": "2024-08-05",
+    "sample_tweet": "42% of all factory workers in Tamil Nadu are women. Tamil Nadu is home to 4,400 startups with at least one woman co-founder. The Entrepreneurship Development and Innovation Institute has trained 5,550"
+  },
+  {
+    "category": "welfare",
+    "name": "To The",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-10-07",
+    "sample_tweet": "Delighted to announce that #MakkalaiThediMaruthuvam, our #DravidianModel Government's pioneering healthcare scheme for the Indian subcontinent, has earned the prestigious @UN-AITF Award. With over 1.8"
+  },
+  {
+    "category": "welfare",
+    "name": "Implementing This",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-10-07",
+    "sample_tweet": "Delighted to announce that #MakkalaiThediMaruthuvam, our #DravidianModel Government's pioneering healthcare scheme for the Indian subcontinent, has earned the prestigious @UN-AITF Award. With over 1.8"
+  },
+  {
+    "category": "welfare",
+    "name": "Enhance The",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-10-07",
+    "sample_tweet": "Delighted to announce that #MakkalaiThediMaruthuvam, our #DravidianModel Government's pioneering healthcare scheme for the Indian subcontinent, has earned the prestigious @UN-AITF Award. With over 1.8"
+  },
+  {
+    "category": "welfare",
+    "name": "Pm Vishwakarma",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-11-28",
+    "sample_tweet": "சாதிய அடிப்படையிலான தொழில்முறையை வலுப்படுத்தும் பிரதமரின் விஸ்வகர்மா திட்டத்தைத் தற்போதைய வடிவில் தமிழ்நாடு அரசு செயல்படுத்தாது. அதற்குப் பதிலாக,  'சமூகநீதி அடிப்படையிலான -\nசாதியப் பாகுபாடற்ற - அனைத்த"
+  },
+  {
+    "category": "welfare",
+    "name": "More Inclusive",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-11-28",
+    "sample_tweet": "சாதிய அடிப்படையிலான தொழில்முறையை வலுப்படுத்தும் பிரதமரின் விஸ்வகர்மா திட்டத்தைத் தற்போதைய வடிவில் தமிழ்நாடு அரசு செயல்படுத்தாது. அதற்குப் பதிலாக,  'சமூகநீதி அடிப்படையிலான -\nசாதியப் பாகுபாடற்ற - அனைத்த"
+  },
+  {
+    "category": "welfare",
+    "name": "Cannot Support",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-11-28",
+    "sample_tweet": "சாதிய அடிப்படையிலான தொழில்முறையை வலுப்படுத்தும் பிரதமரின் விஸ்வகர்மா திட்டத்தைத் தற்போதைய வடிவில் தமிழ்நாடு அரசு செயல்படுத்தாது. அதற்குப் பதிலாக,  'சமூகநீதி அடிப்படையிலான -\nசாதியப் பாகுபாடற்ற - அனைத்த"
+  },
+  {
+    "category": "welfare",
+    "name": "And Railway",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-01-29",
+    "sample_tweet": "During today's DMK MPs’ meet, we adopted key resolutions, ahead of the upcoming parliamentary session in New Delhi\n\n🔹 Frame a Code of Conduct for Governors &  time limit for approving state bills and "
+  },
+  {
+    "category": "welfare",
+    "name": "Centrally Sponsored",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Madurai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "dharanisalem"
+    ],
+    "first_mention": "2025-02-13",
+    "sample_tweet": "Apart from devolution of funds under the formula, another point of contention is opposition ruled states like Tamil Nadu are denied funds under 1) centrally sponsored schemes.  And 2 ) because central"
+  },
+  {
+    "category": "welfare",
+    "name": "Component Manufacturing",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.45,
+    "locations": [],
+    "investment_crore": 59350.0,
+    "accounts": [
+      "TRBRajaa",
+      "Guidance_TN"
+    ],
+    "first_mention": "2025-04-30",
+    "sample_tweet": "In a transformational move that firmly places #TamilNadu at the vanguard of India’s electronics renaissance, the Hon’ble Chief Minister of Tamil Nadu, Thiru MK Stalin @CMOTamilnadu, today launched the"
+  },
+  {
+    "category": "welfare",
+    "name": "Our Welfare",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-05-06",
+    "sample_tweet": "Had a warm and thoughtful interaction with journalists who strengthen our democracy and #DravidianModel governance by appreciating our welfare schemes and offering constructive criticism where needed."
+  },
+  {
+    "category": "welfare",
+    "name": "Naan Mudhalvan",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.65,
+    "locations": [
+      "Thoothukudi"
+    ],
+    "investment_crore": 16000.0,
+    "accounts": [
+      "Guidance_TN",
+      "DMKITwing"
+    ],
+    "first_mention": "2025-07-10",
+    "sample_tweet": "VinFast Hits the accelerator in #Thoothukudi.\n\nVinFast India welcomes its first 200 team members from #TamilNadu under Naan Mudhalvan scheme at the upcoming #EV manufacturing plant, a major first step"
+  },
+  {
+    "category": "welfare",
+    "name": "Implementing The",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2025-07-29",
+    "sample_tweet": "Even as the union continues to stifle the flow of funds to our State we continue to Shine Bright in Performance 🌟\n\nTamil Nadu has the highest MNREGA fund UTILISATION in the country! \n\nWhat makes it ev"
+  },
+  {
+    "category": "welfare",
+    "name": "To Pioneering",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-08-25",
+    "sample_tweet": "Tamil Nadu has shown how sustained investments and social responsibility can make public healthcare accessible to all. From reducing malnutrition to pioneering schemes like #MakkalaiThediMaruthuvam an"
+  },
+  {
+    "category": "welfare",
+    "name": "Tamilpudhalvan",
+    "type": "scheme",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-09-24",
+    "sample_tweet": "We in Tamil Nadu believe that education is the true measure of progress for any society. Through the #DravidianModel, our government continues to turn this belief into action.\n\nTomorrow, as we host th"
+  },
+  {
+    "category": "infrastructure",
+    "name": "Chennai Peripheral",
+    "type": "road",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "NammaChennai_"
+    ],
+    "first_mention": "2025-11-27",
+    "sample_tweet": "🚨 TNRDC floats tenders for final stretch of Chennai Peripheral Ring Road\n\nTNRDC has invited bids for the final 30-km link of the 133-km Chennai Peripheral Ring Road between Singaperumal Koil and Mamal"
+  },
+  {
+    "category": "education",
+    "name": "Their",
+    "type": "education",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa",
+      "DrGanesh_Japan"
+    ],
+    "first_mention": "2024-10-03",
+    "sample_tweet": "While the union govt in India moves towards more pressure on our school children making their school life even more stressful by introducing policies like #NEP, the parties in the #UnitedKingdom promi"
+  },
+  {
+    "category": "education",
+    "name": "Primary",
+    "type": "education",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "DrNikitaMehra",
+      "PTI_News"
+    ],
+    "first_mention": "2024-11-14",
+    "sample_tweet": "“Announcement was made by the Hon’ble @CMOTamilnadu on 07.05.22 under Rule 110 that Breakfast will be provided to primary school children from 1st to 5th Std studying in Govt schools on all school wor"
+  },
+  {
+    "category": "education",
+    "name": "Residential",
+    "type": "education",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-08-08",
+    "sample_tweet": "எது உண்மையான பெருமை?\n\nஎளிய பின்னணியில் இருந்து, இன்று நாட்டின் முதன்மை உயர்கல்வி நிறுவனங்களுக்கு நமது அரசுப் பள்ளி மாணவர்கள் செல்கிறீர்களே... இதுதான் உண்மையான பெருமை! உங்களை உயர்த்தியதில் நமது #Dravid"
+  },
+  {
+    "category": "education",
+    "name": "Aided",
+    "type": "education",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "PTI_News",
+      "Udhaystalin"
+    ],
+    "first_mention": "2025-08-26",
+    "sample_tweet": "Tamil Nadu CM Stalin inaugurates expansion of breakfast scheme in Chennai to State-aided schools in urban regions. \n\nTamil Nadu CM Stalin, Punjab CM Bhagwant Mann serve food to children, marking launc"
+  },
+  {
+    "category": "education",
+    "name": "Oxford",
+    "type": "education",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "tiruchisiva",
+      "iamyournaveen"
+    ],
+    "first_mention": "2025-09-05",
+    "sample_tweet": "A HISTORICAL DAY\n——————————————\n\n              Arignar Anna the founder of DMK in 1960’s went to Yale university and made known to the world at large , the Dravidian movement ,  its goals and achievem"
+  },
+  {
+    "category": "education",
+    "name": "Aachen",
+    "type": "education",
+    "mentions": 2,
+    "confidence": 0.4,
+    "locations": [
+      "Chennai"
+    ],
+    "investment_crore": null,
+    "accounts": [
+      "TRBRajaa"
+    ],
+    "first_mention": "2026-01-29",
+    "sample_tweet": "🌟#TamilNadu will soon be the #KnowledgeHub of the #GlobalSouth !🌟\n\nThe innaugural \"India Global Education Summit\" -#IGES2026 was a huge hit ✨\n\nThe presence of our Honourable @CMOTamilNadu Thiru. @MKSt"
+  },
+  {
+    "category": "healthcare",
+    "name": "Nigambodh",
+    "type": "hospital",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2024-12-28",
+    "sample_tweet": "The BJP government’s decision to deny Dr. #ManmohanSingh’s family the right to perform his last rites at a befitting site for his memorial is a direct insult to his towering legacy and the Sikh commun"
+  },
+  {
+    "category": "healthcare",
+    "name": "Western",
+    "type": "hospital",
+    "mentions": 2,
+    "confidence": 0.3,
+    "locations": [],
+    "investment_crore": null,
+    "accounts": [
+      "mkstalin"
+    ],
+    "first_mention": "2025-07-12",
+    "sample_tweet": "Delighted that #GingeeFort, famously known as the “Troy of the East”, has been inscribed as a UNESCO World Heritage Site as part of the Maratha Military Landscapes of India. \n\nThis majestic hill fortr"
+  }
+]

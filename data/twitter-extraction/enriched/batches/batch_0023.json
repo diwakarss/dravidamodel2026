@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://profile.dailyhunt.in/Arivalayam",
+    "urlHash": "79771dceccf2",
+    "domain": "profile.dailyhunt.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1532951122268151808",
+        "handle": "mkstalin",
+        "date": "Sat Jun 04"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.indiaspend.com/84-of-12-million-married-children-under-10-are-hindus-82446/",
+    "urlHash": "e72f0d8af744",
+    "domain": "indiaspend.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1533721450481213441",
+        "handle": "t_d_h_nair",
+        "date": "Mon Jun 06"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.indiaspend.com/84-of-12-million-married-children-under-10-are-hindus-82446/#.Yp21dE9XOvc.twitter",
+    "urlHash": "5831a57800d2",
+    "domain": "indiaspend.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1533722349215748097",
+        "handle": "TRBRajaa",
+        "date": "Mon Jun 06"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/06/09/bjp-cadre-attacked-a-journalist-while-interviewing-annamalai-in-namakkal",
+    "urlHash": "3f5b430e8b7c",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1534815065542914049",
+        "handle": "Kalaignarnews",
+        "date": "Thu Jun 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://thewire.in/rights/vashudev-is-the-tragic-poster-boy-of-the-last-8-years-of-modis-rule",
+    "urlHash": "7e7e61d852ec",
+    "domain": "thewire.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1534863169331806208",
+        "handle": "t_d_h_nair",
+        "date": "Thu Jun 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thenewsminute.com/article/jaggi-vasudev-loses-cool-during-bbc-tamil-interview-switches-camera-164844",
+    "urlHash": "264cde02ae24",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1535300097440747521",
+        "handle": "Ahmedshabbir20",
+        "date": "Fri Jun 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.telegraphindia.com/jharkhand/economist-to-jharkhand-add-an-egg-to-midday-meal/cid/1869200",
+    "urlHash": "0daa25d6e4d8",
+    "domain": "telegraphindia.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1535311946345779200",
+        "handle": "GunasekaranMu",
+        "date": "Fri Jun 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.hindutamil.in/news/tamilnadu/812426-new-regulation-for-poultry-farms.html",
+    "urlHash": "f57bc4e0669f",
+    "domain": "hindutamil.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1535557576850493440",
+        "handle": "TamilTheHindu",
+        "date": "Sat Jun 11"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://tamil.asianetnews.com/crime/bjp-person-nude-video-call-with-college-student-atrocities-students-screaming-to-ple-save-sir--rdbdu4",
+    "urlHash": "40b5dab1091b",
+    "domain": "tamil.asianetnews.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1535627153219649536",
+        "handle": "TRBRajaa",
+        "date": "Sat Jun 11"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://Cr.No",
+    "urlHash": "977c31f8fc31",
+    "domain": "cr.no",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1535667447713660928",
+        "handle": "ITWreports",
+        "date": "Sat Jun 11"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://m.thewire.in/article/south-asia/rajapaksa-said-modi-insisted-on-adani-for-power-project-says-sri-lanka-electricity-chief",
+    "urlHash": "9e43db7b06e9",
+    "domain": "m.thewire.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1535856834497880064",
+        "handle": "pbhushan1",
+        "date": "Sun Jun 12"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/cities/delhi/congress-president-sonia-gandhi-admitted-to-gangaram-hospital-covid-19-7965699/",
+    "urlHash": "2d60f397e388",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1536047700659273728",
+        "handle": "ThamizhachiTh",
+        "date": "Sun Jun 12"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://frontline.thehindu.com/cover-story/reluctant-leader-mk-stalin-is-this-reluctant-leader-underplaying-himself-nationally/article65518368.ece",
+    "urlHash": "8104d333523f",
+    "domain": "frontline.thehindu.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1536367395408752640",
+        "handle": "frontline_india",
+        "date": "Mon Jun 13"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thenewsminute.com/article/tn-bjp-makes-man-accused-smuggling-cases-office-bearer-removes-after-row-164942",
+    "urlHash": "580a34204afc",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1536917942666858496",
+        "handle": "Ahmedshabbir20",
+        "date": "Wed Jun 15"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thenewsminute.com/article/coimbatore-abvp-man-arrested-post-reiterating-nupur-sharmas-remarks-prophet-164955",
+    "urlHash": "e52c722849ec",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1536923475276771329",
+        "handle": "thenewsminute",
+        "date": "Wed Jun 15"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://techcrunch.com/2022/06/13/aadhaar-leak-pm-kisan/",
+    "urlHash": "6c251dccfee8",
+    "domain": "techcrunch.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1537016687329165317",
+        "handle": "t_d_h_nair",
+        "date": "Wed Jun 15"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/",
+    "urlHash": "8b3a10642eee",
+    "domain": "wired.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1537456130599059456",
+        "handle": "TRBRajaa",
+        "date": "Thu Jun 16"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-transport-minister-inspects-electric-buses/articleshow/92265473.cms",
+    "urlHash": "61b647122fec",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1537638754269032448",
+        "handle": "TRBRajaa",
+        "date": "Fri Jun 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/murasoli-thalayangam/2022/06/20/murasoli-editorial-condemns-agneepath-scheme",
+    "urlHash": "c4a8ce060ab3",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1538841997426839553",
+        "handle": "isai_",
+        "date": "Mon Jun 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://toi.in/VlyOJZ91/a24gk",
+    "urlHash": "4cf2bc0814a9",
+    "domain": "toi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1538862661454417920",
+        "handle": "timesofindia",
+        "date": "Mon Jun 20"
+      }
+    ],
+    "status": "pending"
+  }
+]

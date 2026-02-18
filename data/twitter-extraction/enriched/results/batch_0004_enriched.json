@@ -1,0 +1,385 @@
+{
+  "batch": 4,
+  "processedAt": "2026-02-17T11:22:24.696937+00:00",
+  "stats": {
+    "success": 9,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 11,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://tamil.oneindia.com/news/delhi/dmk-mp-wilson-introduce-bill-to-scrap-neet-entrance-exam-in-rajya-sabha-441226.html",
+      "urlHash": "156e0e4a0891",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:41.295544+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1466779811838259202",
+          "handle": "thatsTamil",
+          "date": "Fri Dec 03"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/open-page/time-for-chennai-to-become-a-global-city/article37932805.ece",
+      "urlHash": "a0b7046daf0f",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:21:43.591365+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1469907794560118786",
+          "handle": "GunasekaranMu",
+          "date": "Sun Dec 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Time for Chennai to become a Global City  - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 16, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Time for Chennai to become a Global City  - The Hindu",
+        "summary": "A highly networked global economic corridor is a must towards realising this ambition"
+      }
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2021/dec/12/tamil-nadu-perambalur-man-resuscitates-wounded-monkey-video-goes-viral-2394812.html",
+      "urlHash": "843487a76bc1",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:21:45.715612+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1470255427375955978",
+          "handle": "TRBRajaa",
+          "date": "Mon Dec 13"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu: Perambalur man resuscitates wounded monkey, video goes viral",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "P Thiruselvam",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu: Perambalur man resuscitates wounded monkey, video goes viral",
+        "summary": "M Prabhu, a car driver, said that he saw a monkey with injuries lying unconscious on a tree in in Othiyam Samathuvapuram in Kunnam taluk on December 9."
+      }
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/tamil-nadu-needs-to-enhance-its-rd-capabilities-state-industry-minister/article37961142.ece",
+      "urlHash": "4c353abcb560",
+      "domain": "thehindubusinessline.com",
+      "fetchedAt": "2026-02-17T11:21:48.258905+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1471457126002298881",
+          "handle": "UpdatesChennai",
+          "date": "Thu Dec 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu needs to enhance its R&amp;D capabilities: State Industry Minister  - The HinduBusinessLine",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu needs to enhance its R&amp;D capabilities: State Industry Minister  - The HinduBusinessLine",
+        "summary": "Finance Minister adds that the government should encourage start-ups to develop solution"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/cm-stalin-praises-mla-t-r-b-rajaa-for-his-efforts-to-get-right-for-the-people-443747.html",
+      "urlHash": "74fc058854f4",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:50.396849+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1476813218328690689",
+          "handle": "TRBRajaa",
+          "date": "Fri Dec 31"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/trb-raja-memes-for-imd-issues-a-redalert-last-night-443835.html",
+      "urlHash": "b9de398ea59f",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:52.472267+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1476852799962894337",
+          "handle": "thatsTamil",
+          "date": "Fri Dec 31"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/books/books-reviews/the-disruptor-how-vishwanath-pratap-singh-shook-india-review-mandalites-and-their-reluctance-to-invoke-vp-singhs-legacy/article38165716.ece",
+      "urlHash": "83ec18df1fe4",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:21:54.548133+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1480032834077085697",
+          "handle": "ashishdeb100",
+          "date": "Sat Jan 08"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Nistula Hebbar reviews The Disruptor: How Vishwanath Pratap Singh Shook India, by Debashish Mukerji - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "January 16, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Nistula Hebbar reviews The Disruptor: How Vishwanath Pratap Singh Shook India, by Debashish Mukerji - The Hindu",
+        "summary": "Reappraising the life of the former Prime Minister who announced the implementation of the Mandal Committee recommendations on reservations"
+      }
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/op-ed/hate-speech-in-the-time-of-free-speech/article38241788.ece",
+      "urlHash": "4b9edf88a3f2",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:21:56.822351+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1481159805368926208",
+          "handle": "TRBRajaa",
+          "date": "Wed Jan 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Hate speech in the time of free speech - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "November 23, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Hate speech in the time of free speech - The Hindu",
+        "summary": "It is important that specific and durable legislative provisions be enacted to combat hate speech"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/dmk-mla-trp-raja-has-demanded-that-elon-musk-start-a-tesla-factory-in-tamil-nadu-445589.html",
+      "urlHash": "5461711beffa",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:58.958445+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1482739308633403392",
+          "handle": "thatsTamil",
+          "date": "Sun Jan 16"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/tn-minister-ptr-palanivel-thiagarajan-stressed-tamil-need-to-be-used-in-all-atms-446465.html",
+      "urlHash": "5ce1d5d88756",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:22:01.027824+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1485680643967430656",
+          "handle": "thatsTamil",
+          "date": "Mon Jan 24"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/we-want-to-create-46-lakh-jobs-by-2030/article38336329.ece",
+      "urlHash": "d3bade856f23",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:22:03.097143+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1486912076329074693",
+          "handle": "sang1983",
+          "date": "Fri Jan 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u2018We want to create 46 lakh jobs by 2030\u2019 - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "January 23, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "\u2018We want to create 46 lakh jobs by 2030\u2019 - The Hindu",
+        "summary": "The government is focussing on attracting investments in south Tamil Nadu, says the Industries Minister"
+      }
+    },
+    {
+      "url": "https://www.deccanherald.com/amp/business/economy-business/1-trillion-economy-by-2030-is-an-achievable-goal-tn-minister-thangam-thenarasu-1076331.html",
+      "urlHash": "b6b8043b6807",
+      "domain": "deccanherald.com",
+      "fetchedAt": "2026-02-17T11:22:05.221373+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1487996899516829698",
+          "handle": "TThenarasu",
+          "date": "Mon Jan 31"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "$1 trillion economy by 2030 is an achievable goal: TN Minister Thangam Thenarasu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "ETB Sivapriyan,DHNS",
+      "rawText": "",
+      "extractedData": {
+        "headline": "$1 trillion economy by 2030 is an achievable goal: TN Minister Thangam Thenarasu",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/marriage-to-an-adopted-girl-health-secreatary-dr-radhakrishnan-praise-447956.html",
+      "urlHash": "a687515affe2",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:22:09.539663+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1490643026229993475",
+          "handle": "thatsTamil",
+          "date": "Mon Feb 07"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/delhi/chinese-troops-entered-indian-territory-says-local-official-448517.html",
+      "urlHash": "30a85a2fdc49",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:22:11.623461+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1492432369986719752",
+          "handle": "thatsTamil",
+          "date": "Sat Feb 12"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.newindianexpress.com/prabhu-chawla/2022/feb/13/stalins-politics-fuels-new-national-federalism-2418748.html",
+      "urlHash": "630245b20f65",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:22:13.685695+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1492740166360141826",
+          "handle": "TRBRajaa",
+          "date": "Sun Feb 13"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Stalin\u2019s politics fuels new national federalism",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "Prabhu Chawla",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Stalin\u2019s politics fuels new national federalism",
+        "summary": "Being a legatee of the ancient ethos of Dravidian civilization contributes to Stalin&#x27;s rise as a new leader setting the national agenda."
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/nagercoil/udhayanidhi-stalin-says-about-neet-exam-and-edappadi-palanisamy-448776.html",
+      "urlHash": "6e4eb45333cf",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:22:16.292845+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1493407797223952385",
+          "handle": "thatsTamil",
+          "date": "Mon Feb 14"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/coimbatore/coimbatore-mayor-candidate-does-not-have-even-own-house-450603.html",
+      "urlHash": "24507fd676bd",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:22:18.362074+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1499624366354870275",
+          "handle": "thatsTamil",
+          "date": "Fri Mar 04"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/tn-government-pays-to-transport-35-tamil-students-out-of-ukraines-pisochyn/article65193880.ece",
+      "urlHash": "1e181b379004",
+      "domain": "thehindubusinessline.com",
+      "fetchedAt": "2026-02-17T11:22:20.437091+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1500165798887063555",
+          "handle": "TRBRajaa",
+          "date": "Sat Mar 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN government evacuates 35 students from Ukraine\u2019s Pisochyn - The HinduBusinessLine",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TN government evacuates 35 students from Ukraine\u2019s Pisochyn - The HinduBusinessLine",
+        "summary": "State pays for bus arranged by doctor who passed out of Kharkiv Medical University"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/ukraine-return-tamilnadu-medical-student-says-north-indians-are-given-priority-in-evacuation-program-450855.html",
+      "urlHash": "ae4891463d5a",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:22:22.579201+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1500639584555700225",
+          "handle": "thatsTamil",
+          "date": "Sun Mar 06"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/colombo/sri-lankan-economic-crisis-is-a-warning-for-divisive-politics-says-anand-srinivasan-452051.html",
+      "urlHash": "ef15b7565b7e",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:22:24.641314+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1504409677463191553",
+          "handle": "thatsTamil",
+          "date": "Thu Mar 17"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    }
+  ]
+}

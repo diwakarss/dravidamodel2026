@@ -1,0 +1,5 @@
+hcaptcha_secret            = "***REDACTED***"
+feedback_email_destination = "nalan19ai@gmail.com"
+feedback_email_source      = "noreply@b2sell.com"
+domain_name                = "dravidamodel2026.top"
+aws_region                 = "us-east-1"

@@ -1,0 +1,302 @@
+{
+  "category": "tamil-history",
+  "aggregatedAt": "2026-02-17T18:24:52.642560+00:00",
+  "stats": {
+    "entries": 379,
+    "entities": 5
+  },
+  "entities": [
+    {
+      "entityId": "keezhadi-archaeological-site",
+      "name": "Keezhadi Archaeological Site",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "Keezhadi Archaeological Site",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-13",
+        "lastMention": "2025-06-29"
+      },
+      "sources": [
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933447203135369332",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933447203135369332",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca"
+        },
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933447542437786036",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933447542437786036",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca"
+        },
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933450347856495027",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933450347856495027",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca"
+        },
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933465679690383732",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933465679690383732",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca"
+        },
+        {
+          "date": "2025-06-17",
+          "handle": "mkstalin",
+          "tweetId": "1934858881613877425",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1934858881613877425",
+          "eventType": "other",
+          "summary": "எத்தனை எத்தனை தடைகள் நம் தமிழினத்துக்கு? அத்தனையையும் ஆயிரம் ஆயிரம் ஆண்டுகளாக எதிர்த்துப் போராடி, அறிவியல் துணைக்கொண்டு நம் இனத்தின் தொன்மையை நிறுவி வ"
+        },
+        {
+          "date": "2025-06-23",
+          "handle": "Kalaignarnews",
+          "tweetId": "1937179959493345397",
+          "fxUrl": "https://fxtwitter.com/Kalaignarnews/status/1937179959493345397",
+          "eventType": "other",
+          "summary": "அதிமுக தொண்டர்களே விழித்துக்கொண்டு கேள்வி கேட்பார்கள் ! \n\n#Keezhadi #Keeladi_Excavation #Keeladi #ADMKFails #EdappadiPalaniswamy  #MinisterTRBRajaa #A"
+        },
+        {
+          "date": "2025-06-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1939160397501591754",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1939160397501591754",
+          "eventType": "other",
+          "summary": "FIRST LOOK 🎊\n\nThe #FacesOfKeezhadi♥️ \n\nVia @TThenarasu @TOIChennai \n\n#கீழடி_காப்போம் #CMMKStalin"
+        },
+        {
+          "date": "2025-06-29",
+          "handle": "mkstalin",
+          "tweetId": "1939221251832324400",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1939221251832324400",
+          "eventType": "other",
+          "summary": "The way of life detailed in Sangam literature now stands scientifically validated through the findings at #Keeladi. Thanks to @timesofindia for this e"
+        },
+        {
+          "date": "2025-06-29",
+          "handle": "mkstalin",
+          "tweetId": "1939239550838354025",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1939239550838354025",
+          "eventType": "other",
+          "summary": "The way of life detailed in Sangam literature now stands scientifically validated through the findings at #Keeladi. Thanks to @timesofindia for this e"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "Kalaignarnews",
+        "mkstalin"
+      ],
+      "tweetCount": 9
+    },
+    {
+      "entityId": "tirunelveli-porunai-museum",
+      "name": "Porunai Museum",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "Museum",
+      "location": "Tirunelveli",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-20",
+        "lastMention": "2025-12-21"
+      },
+      "sources": [
+        {
+          "date": "2025-12-20",
+          "handle": "UpdatesChennai",
+          "tweetId": "2002320401884713468",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/2002320401884713468",
+          "eventType": "inauguration",
+          "summary": "Porunai Museum in Tirunelveli. The lighting in the night looks stunning. 😍 Will be opened by CM Mk Stalin today!"
+        },
+        {
+          "date": "2025-12-20",
+          "handle": "mkstalin",
+          "tweetId": "2002339395014414451",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2002339395014414451",
+          "eventType": "other",
+          "summary": "#பொருநை_தமிழர்_பெருமை!\n\nஅனைவரும் வருக… பெருமிதம் கொள்க!\n\n#PorunaiMuseum"
+        },
+        {
+          "date": "2025-12-20",
+          "handle": "mkstalin",
+          "tweetId": "2002339965594972444",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2002339965594972444",
+          "eventType": "other",
+          "summary": "#பொருநை_தமிழர்_பெருமை!\n\nஅனைவரும் வருக… பெருமிதம் கொள்க!\n\n#PorunaiMuseum"
+        },
+        {
+          "date": "2025-12-20",
+          "handle": "mkstalin",
+          "tweetId": "2002376652182204533",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2002376652182204533",
+          "eventType": "other",
+          "summary": "#பொருநை_தமிழர்_பெருமை!\n\nஅனைவரும் வருக… பெருமிதம் கொள்க!\n\n#PorunaiMuseum"
+        },
+        {
+          "date": "2025-12-20",
+          "handle": "TRBRajaa",
+          "tweetId": "2002450166566240434",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2002450166566240434",
+          "eventType": "other",
+          "summary": "#PorunaiMuseum ♥️♥️♥️🌄"
+        },
+        {
+          "date": "2025-12-20",
+          "handle": "TRBRajaa",
+          "tweetId": "2002629279801340263",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2002629279801340263",
+          "eventType": "other",
+          "summary": "#PorunaiMuseum ♥️♥️♥️🌄"
+        },
+        {
+          "date": "2025-12-21",
+          "handle": "mkstalin",
+          "tweetId": "2002574718738837734",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2002574718738837734",
+          "eventType": "other",
+          "summary": "தமிழினத் தொன்மையின் அடையாளமாக ஒளிரும் நெல்லை #பொருநை அருங்காட்சியகம்!\n\nகாண்போரின் விழிகள் விரிகின்றன; தமிழர்தம் நாகரிக உச்சம் பார்த்து மனம் எழுச்சி கொ"
+        },
+        {
+          "date": "2025-12-21",
+          "handle": "mkstalin",
+          "tweetId": "2002672129217798324",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2002672129217798324",
+          "eventType": "other",
+          "summary": "தமிழினத் தொன்மையின் அடையாளமாக ஒளிரும் நெல்லை #பொருநை அருங்காட்சியகம்!\n\nகாண்போரின் விழிகள் விரிகின்றன; தமிழர்தம் நாகரிக உச்சம் பார்த்து மனம் எழுச்சி கொ"
+        }
+      ],
+      "accountsCovering": [
+        "UpdatesChennai",
+        "TRBRajaa",
+        "mkstalin"
+      ],
+      "tweetCount": 8
+    },
+    {
+      "entityId": "chennai-chennai-museum",
+      "name": "Chennai Museum",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "Museum",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-19",
+        "lastMention": "2025-03-19"
+      },
+      "sources": [
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902247349856170170",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902247349856170170",
+          "eventType": "ground_breaking",
+          "summary": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir "
+        },
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902251432281305265",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902251432281305265",
+          "eventType": "ground_breaking",
+          "summary": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir "
+        },
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902353261371519461",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902353261371519461",
+          "eventType": "ground_breaking",
+          "summary": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir "
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "tweetCount": 3
+    },
+    {
+      "entityId": "tidel-park-ப",
+      "name": "TIDEL Park ப",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "TIDEL Park",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-05",
+        "lastMention": "2024-11-05"
+      },
+      "sources": [
+        {
+          "date": "2024-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1853769336160223727",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1853769336160223727",
+          "eventType": "other",
+          "summary": "கடந்த 2010-ஆம் ஆண்டு பீளமேடு பகுதியில் திறந்து வைக்கப்பட்ட #TIDEL பூங்காவால், அந்தப் பகுதியே “Cyber City” என்றானது.\n\nஇன்று, விளாங்குறிச்சியில் கட்டப்ப"
+        },
+        {
+          "date": "2024-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1853782688441991555",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1853782688441991555",
+          "eventType": "other",
+          "summary": "கடந்த 2010-ஆம் ஆண்டு பீளமேடு பகுதியில் திறந்து வைக்கப்பட்ட #TIDEL பூங்காவால், அந்தப் பகுதியே “Cyber City” என்றானது.\n\nஇன்று, விளாங்குறிச்சியில் கட்டப்ப"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "Manufacturing Unit",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-13",
+        "lastMention": "2025-12-16"
+      },
+      "sources": [
+        {
+          "date": "2025-04-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1911392065298284565",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1911392065298284565",
+          "eventType": "other",
+          "summary": "During my recent visit to the Allison Transmission factory, I met someone who reminded me why those of us who are part of the Dravidian movement do wh"
+        },
+        {
+          "date": "2025-12-16",
+          "handle": "DMKITwing",
+          "tweetId": "2000841791684456569",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/2000841791684456569",
+          "eventType": "production_start",
+          "summary": "🔥 🌅Dravidian Model in Action: Tamil Nadu’s Record Growth Story📈 📊\n\n➡️Tamil Nadu delivered a blockbuster 2024–25, recording a stellar 15.98% nominal GS"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "DMKITwing"
+      ],
+      "tweetCount": 2
+    }
+  ]
+}

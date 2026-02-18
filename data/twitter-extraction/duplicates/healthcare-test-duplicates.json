@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-02-16T16:00:00Z",
+  "category": "healthcare",
+  "testMode": true,
+  "dedupStrategy": "hospital+district",
+  "existingDataFile": "app/src/lib/data/healthcare.ts",
+  "summary": {
+    "totalEntitiesProcessed": 1,
+    "exactMatches": 0,
+    "partialMatches": 0,
+    "newCandidates": 1,
+    "needsReview": 0
+  },
+  "matches": [],
+  "newCandidates": [
+    {
+      "aggregatedEntityId": "healthcare-gh-trichy-new-wing",
+      "name": "Government Hospital Tiruchirappalli New Wing",
+      "category": "healthcare",
+      "subCategory": "Government Hospital",
+      "dedupKeyUsed": "gh+tiruchirappalli+new-wing",
+      "sourceCount": 1,
+      "firstMention": "2024-10-15",
+      "lastMention": "2024-10-15",
+      "confidence": 0.90,
+      "suggestedEntry": {
+        "id": "gh-trichy-new-wing-2024",
+        "name": {
+          "en": "Government Hospital Tiruchirappalli - New Wing",
+          "ta": "திருச்சிராப்பள்ளி அரசு மருத்துவமனை - புதிய கட்டிடம்"
+        },
+        "location": {
+          "district": "Tiruchirappalli",
+          "city": "Tiruchirappalli"
+        },
+        "budgetCrore": 250,
+        "bedCapacity": 500,
+        "facilities": ["ICU", "Modern Equipment"],
+        "status": "operational",
+        "inauguratedDate": "2024-10-15",
+        "sources": [
+          {
+            "date": "2024-10-15",
+            "handle": "TNDIPRNEWS",
+            "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1860000000000000001",
+            "eventType": "inauguration"
+          }
+        ]
+      },
+      "reviewFlags": ["single_source"]
+    }
+  ],
+  "needsReview": [],
+  "sourceAdditions": []
+}

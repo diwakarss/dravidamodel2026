@@ -1,0 +1,282 @@
+[
+  {
+    "url": "http://Ex.Mc",
+    "urlHash": "47e8c9b98597",
+    "domain": "ex.mc",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1491327026367967233",
+        "handle": "APNandakumarMLA",
+        "date": "Wed Feb 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://164.100.47.5/newcommittee/reports/EnglishCommittees/Committee%20on%20Health%20and%20Family%20Welfare/92.pdf",
+    "urlHash": "1ac34a9cb675",
+    "domain": "164.100.47.5",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1491448738279489537",
+        "handle": "angry_birdu",
+        "date": "Wed Feb 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.engadget.com/scientists-see-a-red-giant-star-go-supernova-for-the-first-time-104442583.html",
+    "urlHash": "f2a658c36c2e",
+    "domain": "engadget.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1491468116135530496",
+        "handle": "TRBRajaa",
+        "date": "Wed Feb 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/opinion/editorials/tamil-nadu-governor-must-not-delay-assent-to-anti-neet-bill-7764904/",
+    "urlHash": "cdfa6d82b0a2",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1491641595837706240",
+        "handle": "TRBRajaa",
+        "date": "Thu Feb 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thenewsminute.com/article/opinion-budget-should-put-money-hands-poor-not-call-capital-expenditure-160803",
+    "urlHash": "7da9023095b0",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1491707233784111107",
+        "handle": "TRBRajaa",
+        "date": "Thu Feb 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.murasoli.in/epaper/file_view.php?paper=VFZSamQwOUJQVDA9",
+    "urlHash": "4f29ac102c35",
+    "domain": "murasoli.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1492026652796518401",
+        "handle": "DMKITwing",
+        "date": "Fri Feb 11"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.economist.com/asia/2022/02/12/the-organs-of-indias-democracy-are-decaying",
+    "urlHash": "72639bac5eff",
+    "domain": "economist.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1492454486794993667",
+        "handle": "dharanisalem",
+        "date": "Sat Feb 12"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/02/17/karu-pazhaniyappan-election-campaign-in-supporting-of-dmk",
+    "urlHash": "54a9bb4a3080",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1494602234348584961",
+        "handle": "Kalaignarnews",
+        "date": "Thu Feb 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thenewsminute.com/article/bjp-called-me-maun-mohan-now-country-remembers-my-good-work-manmohan-singh-161096",
+    "urlHash": "0fdb0b9c4617",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1494625604544901121",
+        "handle": "thenewsminute",
+        "date": "Thu Feb 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-urban-local-body-polls-feb-19-is-a-public-holiday/articleshow/89473319.cms",
+    "urlHash": "a21e2d3a0aba",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1494985309200609284",
+        "handle": "TRBRajaa",
+        "date": "Sat Feb 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://toi.in/5Zdp8Y76/a24gk",
+    "urlHash": "e8e8b17c7764",
+    "domain": "toi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1495232827138674689",
+        "handle": "timesofindia",
+        "date": "Sat Feb 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/02/22/admk-candidate-not-even-get-a-single-vote-in-karambakudi",
+    "urlHash": "47cf94a3d285",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1496119015915331591",
+        "handle": "Kalaignarnews",
+        "date": "Tue Feb 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://tamil.indianexpress.com/tamilnadu/22-years-old-nilavarasi-durairaj-won-ward-number-136-chennai-415139/",
+    "urlHash": "aa0dc68f2bac",
+    "domain": "tamil.indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1496864027741671428",
+        "handle": "TRBRajaa",
+        "date": "Thu Feb 24"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://forms.gle/dqv9i9iLhPretFjR9",
+    "urlHash": "c7316cc3f6d3",
+    "domain": "forms.gle",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1497401277705187332",
+        "handle": "ItsVjKgri",
+        "date": "Sat Feb 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://thewire.in/politics/fake-nationalism-failed-foreign-policy-manmohan-singh-slams-pm-modi",
+    "urlHash": "ffffe79dd0c1",
+    "domain": "thewire.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1497656016208490498",
+        "handle": "t_d_h_nair",
+        "date": "Sat Feb 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeStcjloqfjG3i7_mYMyU5atqRSPsBb2CtV6-9zQU1M2Tjl-w/viewform",
+    "urlHash": "5ffe99072cd3",
+    "domain": "docs.google.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1497657312823345152",
+        "handle": "skpkaruna",
+        "date": "Sat Feb 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/health-min-tops-country-in-running-challenge/articleshow/89859581.cms",
+    "urlHash": "8fcc2cff4f82",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1497894836325662721",
+        "handle": "supriyasahuias",
+        "date": "Sun Feb 27"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://m.tribuneindia.com/news/haryana/medical-student-from-haryana-refuses-to-leave-ukraine-says-will-take-care-of-house-owners-kids-as-he-joins-war-373347",
+    "urlHash": "5bb7312e5a14",
+    "domain": "m.tribuneindia.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1497904782102581253",
+        "handle": "TRBRajaa",
+        "date": "Sun Feb 27"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://tamil.asianetnews.com/politics/dmk-president-and-tamil-nadu-chief-minister-mk-stalin-political-life-r81rn8",
+    "urlHash": "5acc3f088ee7",
+    "domain": "tamil.asianetnews.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1498534255882010625",
+        "handle": "TRBRajaa",
+        "date": "Tue Mar 01"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.ndtv.com/india-news/pressed-russia-ukraine-for-immediate-ceasefire-stay-inside-india-tells-stranded-students-in-sumy-2805242",
+    "urlHash": "d6a4391b1f48",
+    "domain": "ndtv.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1500065651335266306",
+        "handle": "ndtv",
+        "date": "Sat Mar 05"
+      }
+    ],
+    "status": "pending"
+  }
+]

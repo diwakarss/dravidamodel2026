@@ -1,0 +1,82 @@
+{
+  "batch": 24,
+  "processedAt": "2026-02-17T11:48:46.361928+00:00",
+  "stats": {
+    "success": 3,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 0,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://thewire.in/video/watch-zubair-targeted-because-his-consistent-debunking-of-fake-news-became-a-roadblock-for-bjp",
+      "urlHash": "acdf99a1bbed",
+      "domain": "thewire.in",
+      "fetchedAt": "2026-02-17T11:48:40.684037+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1544646495143882753",
+          "handle": "thewire_in",
+          "date": "Wed Jul 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Watch | Zubair Targeted Because His Consistent Debunking of Fake News Became a Roadblock for BJP - The Wire",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Watch | Zubair Targeted Because His Consistent Debunking of Fake News Became a Roadblock for BJP - The Wire",
+        "summary": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture"
+      }
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/shunning-deep-rooted-caste-biases-in-tn-s-equality-villages-101657735071712.html?utm_source=twitter",
+      "urlHash": "67b9a017b0c4",
+      "domain": "hindustantimes.com",
+      "fetchedAt": "2026-02-17T11:48:42.989820+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1547503837505761280",
+          "handle": "TRBRajaa",
+          "date": "Thu Jul 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Shunning deep-rooted caste biases in Tamil Nadu\u2019s equality villages| India News",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Shunning deep-rooted caste biases in Tamil Nadu\u2019s equality villages| India News",
+        "summary": "In 1997, then chief minister M Karunanidhi introduced the concept of Samathuvupuram \u2014 a village where the government would provide free housing to people from different castes who would live together and shared civic amenities.| India News"
+      }
+    },
+    {
+      "url": "https://www.nytimes.com/2022/07/31/world/asia/india-plastic-ban.html",
+      "urlHash": "8469696e964b",
+      "domain": "nytimes.com",
+      "fetchedAt": "2026-02-17T11:48:45.294086+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1554331108522991616",
+          "handle": "CMOTamilnadu",
+          "date": "Tue Aug 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "As India Bans Disposable Plastic, Tamil Nadu Offers Lessons - The New York Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "As India Bans Disposable Plastic, Tamil Nadu Offers Lessons - The New York Times",
+        "summary": "Tamil Nadu\u2019s ban on single-use plastic has gotten results, thanks to relentless policing. Now, India says it will tackle the problem nationwide."
+      }
+    }
+  ]
+}

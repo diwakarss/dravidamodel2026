@@ -1,0 +1,47 @@
+{
+  "version": "4.0",
+  "categories": [
+    "infrastructure",
+    "industries",
+    "education",
+    "healthcare",
+    "employment",
+    "agriculture",
+    "environment",
+    "social-welfare",
+    "sports-culture",
+    "tamil-history",
+    "uncategorized",
+    "general"
+  ],
+  "target_accounts": [
+    {"handle": "CMOTamilnadu", "focus": "all", "priority": "critical"},
+    {"handle": "mkstalin", "focus": "all", "priority": "critical"},
+    {"handle": "TNDIPRNEWS", "focus": "all", "priority": "critical"},
+    {"handle": "TRBRajaa", "focus": "industries", "priority": "critical"},
+    {"handle": "Guidance_TN", "focus": "industries", "priority": "critical"},
+    {"handle": "TNIndMin", "focus": "industries", "priority": "high"},
+    {"handle": "TN_SIPCOT", "focus": "industries,infrastructure", "priority": "high"},
+    {"handle": "SIPCOTTN", "focus": "industries,infrastructure", "priority": "medium"},
+    {"handle": "Udhaystalin", "focus": "sports,youth,welfare", "priority": "high"},
+    {"handle": "ptrmadurai", "focus": "it,industries", "priority": "high"},
+    {"handle": "TNeGA_Official", "focus": "it,digital", "priority": "medium"},
+    {"handle": "ELCOT_TN", "focus": "it,industries", "priority": "medium"}
+  ],
+  "validation": {
+    "max_investment_crore": 100000,
+    "max_jobs_count": 500000,
+    "tweet_id_min_length": 15,
+    "tweet_id_max_length": 20
+  },
+  "pipeline": {
+    "tweets_per_worker": 50,
+    "max_parallel_workers": 12,
+    "worker_timeout_seconds": 3600,
+    "poll_interval_seconds": 30
+  },
+  "date_range": {
+    "from": "20210101",
+    "to": "20260201"
+  }
+}

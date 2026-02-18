@@ -1,0 +1,116 @@
+{
+  "category": "healthcare",
+  "generatedAt": "2026-02-17T18:46:41.174016+00:00",
+  "existingItemsCount": 98,
+  "newCandidatesCount": 3,
+  "candidates": [
+    {
+      "name": "Kalaignar Centenary",
+      "type": "specialty_hospital",
+      "confidence": 0.9,
+      "mentions": 2,
+      "locations": [
+        "Chennai"
+      ],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "maharajan_dr",
+        "DMKITwing"
+      ],
+      "first_mention": "2024-11-16",
+      "last_mention": "2025-02-18",
+      "sample_matches": [
+        "kalaignar centenary super specialty"
+      ],
+      "sources": [
+        {
+          "date": "2024-11-16",
+          "handle": "maharajan_dr",
+          "tweetId": "1857781182341042283",
+          "fxUrl": "https://fxtwitter.com/maharajan_dr/status/1857781182341042283",
+          "eventType": "other",
+          "text": "From Kalaignar Centenary Super Specialty Hospital, Guindy \n\n👉🏻"
+        },
+        {
+          "date": "2025-02-18",
+          "handle": "DMKITwing",
+          "tweetId": "1892090386710991322",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1892090386710991322",
+          "eventType": "inauguration",
+          "text": "From Madras to #SuperChennai: A Legacy of Progress Led by #DMK! 🌄\n\nWhen the DMK renamed #Madras to #Chennai in 1996, it wasn’t just a symbolic shift—it marked the dawn of a new era for our city. Over the decades, DMK’s vision has transformed Chennai into a hub of growth, equity, and innovation. city"
+        }
+      ]
+    },
+    {
+      "name": "To Nigambodh",
+      "type": "hospital",
+      "confidence": 0.8,
+      "mentions": 2,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2024-12-28",
+      "last_mention": "2024-12-28",
+      "sample_matches": [
+        "to nigambodh gh"
+      ],
+      "sources": [
+        {
+          "date": "2024-12-28",
+          "handle": "mkstalin",
+          "tweetId": "1872989105576943716",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1872989105576943716",
+          "eventType": "progress_update",
+          "text": "The BJP government’s decision to deny Dr. #ManmohanSingh’s family the right to perform his last rites at a befitting site for his memorial is a direct insult to his towering legacy and the Sikh community. Refusing the family’s request and relegating a two-term Prime Minister to Nigambodh Ghat reeks "
+        },
+        {
+          "date": "2024-12-28",
+          "handle": "mkstalin",
+          "tweetId": "1872992048498069681",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1872992048498069681",
+          "eventType": "progress_update",
+          "text": "The BJP government’s decision to deny Dr. #ManmohanSingh’s family the right to perform his last rites at a befitting site for his memorial is a direct insult to his towering legacy and the Sikh community. Refusing the family’s request and relegating a two-term Prime Minister to Nigambodh Ghat reeks "
+        }
+      ]
+    },
+    {
+      "name": "The Western",
+      "type": "hospital",
+      "confidence": 0.8,
+      "mentions": 2,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-07-12",
+      "last_mention": "2025-07-12",
+      "sample_matches": [
+        "the western gh"
+      ],
+      "sources": [
+        {
+          "date": "2025-07-12",
+          "handle": "mkstalin",
+          "tweetId": "1943994580346732603",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1943994580346732603",
+          "eventType": "other",
+          "text": "Delighted that #GingeeFort, famously known as the “Troy of the East”, has been inscribed as a UNESCO World Heritage Site as part of the Maratha Military Landscapes of India. \n\nThis majestic hill fortress now joins Tamil Nadu’s proud list of #UNESCO sites including the Great Living Chola Temples, the"
+        },
+        {
+          "date": "2025-07-12",
+          "handle": "mkstalin",
+          "tweetId": "1943997796090360098",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1943997796090360098",
+          "eventType": "other",
+          "text": "Delighted that #GingeeFort, famously known as the “Troy of the East”, has been inscribed as a UNESCO World Heritage Site as part of the Maratha Military Landscapes of India. \n\nThis majestic hill fortress now joins Tamil Nadu’s proud list of #UNESCO sites including the Great Living Chola Temples, the"
+        }
+      ]
+    }
+  ]
+}

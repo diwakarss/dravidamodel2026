@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-02-16T16:00:00Z",
+  "category": "infrastructure",
+  "testMode": true,
+  "dedupStrategy": "project_type+location+phase",
+  "existingDataFile": "data/projects/*.json",
+  "summary": {
+    "totalEntitiesProcessed": 1,
+    "exactMatches": 1,
+    "partialMatches": 0,
+    "newCandidates": 0,
+    "needsReview": 0
+  },
+  "matches": [
+    {
+      "aggregatedEntityId": "infrastructure-chennai-metro-phase2-corridor4",
+      "aggregatedEntityName": "Chennai Metro Rail Phase 2 Corridor 4",
+      "existingEntryId": "CMRL-P2-C4",
+      "existingEntryName": "Chennai Metro Phase II - Corridor 4 (Lighthouse to Poonamallee Bypass)",
+      "existingDataFile": "data/projects/CMRL-P2-C4.json",
+      "matchType": "exact",
+      "matchScore": 0.95,
+      "matchedOn": {
+        "primaryKey": "metro+chennai+phase2-corridor4",
+        "secondaryMatches": ["budget_range", "location"]
+      },
+      "action": "add_sources",
+      "newSourcesToAdd": 1,
+      "dataUpdates": {
+        "completionProgress": {
+          "existing": null,
+          "new": "45%",
+          "tweetSource": "TNDIPRNEWS-1880000000000000001",
+          "recommendation": "add_field",
+          "reason": "Progress percentage not in existing entry"
+        }
+      }
+    }
+  ],
+  "newCandidates": [],
+  "needsReview": [],
+  "sourceAdditions": [
+    {
+      "existingEntryId": "CMRL-P2-C4",
+      "existingDataFile": "data/projects/CMRL-P2-C4.json",
+      "newSources": [
+        {
+          "date": "2024-12-15",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1880000000000000001",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1880000000000000001",
+          "eventType": "progress_update",
+          "summary": "45% completion announced, expected 2027"
+        }
+      ]
+    }
+  ]
+}

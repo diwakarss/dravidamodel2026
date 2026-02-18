@@ -1,0 +1,2704 @@
+{
+  "category": "industries",
+  "aggregatedAt": "2026-02-17T18:24:48.149780+00:00",
+  "stats": {
+    "entries": 1743,
+    "entities": 16
+  },
+  "entities": [
+    {
+      "entityId": "chennai-manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "Manufacturing Unit",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 59350.0
+      },
+      "timeline": {
+        "firstMention": "2024-06-25",
+        "lastMention": "2026-02-06"
+      },
+      "sources": [
+        {
+          "date": "2024-06-25",
+          "handle": "TRBRajaa",
+          "tweetId": "1805582970553778604",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1805582970553778604",
+          "eventType": "mou_signed",
+          "summary": "🚀 Groundbreaking Ceremony of Bharat Innovative Glass Technologies (BIG Tech)! 🌟\n\nYet another global #electronics giant will soon start #manufacturing "
+        },
+        {
+          "date": "2024-06-26",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1806149020638941388",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1806149020638941388",
+          "eventType": "ground_breaking",
+          "summary": "Corning lays foundation for Rs 1,000 crore Chennai plant\n\n#CMMKSTALIN | #TNDIPR |\n@CMOTamilnadu @mkstalin\n@mp_saminathan @TRBRajaa \n@TOIChennai"
+        },
+        {
+          "date": "2024-07-18",
+          "handle": "TNIndMin",
+          "tweetId": "1813961664439652647",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1813961664439652647",
+          "eventType": "other",
+          "summary": "“Godrej Storage Solutions to set up new plant near Chennai, to foray into Australia for exports” via @timesofindia \n\n#InvestInTN \n\n🔗 https://timesofin"
+        },
+        {
+          "date": "2024-08-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1826238648909504669",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1826238648909504669",
+          "eventType": "mou_signed",
+          "summary": "At the Tamil Nadu Global Investors’ Meet 2024, where we signed investment MoUs worth an astounding ₹6.64 lakh crores enabling 26 lakh jobs, we made it"
+        },
+        {
+          "date": "2024-08-23",
+          "handle": "TRBRajaa",
+          "tweetId": "1826859649884160313",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1826859649884160313",
+          "eventType": "other",
+          "summary": "#Tata's fourth #iPhone assembly plant likely to start in November: Report\n##InvestInTN #TamilNadu https://www.moneycontrol.com/technology/tatas-fourth"
+        },
+        {
+          "date": "2024-08-24",
+          "handle": "yazhini_pm",
+          "tweetId": "1827382195608072627",
+          "fxUrl": "https://fxtwitter.com/yazhini_pm/status/1827382195608072627",
+          "eventType": "production_start",
+          "summary": "If the world is moving towards Electric Vehicles and Decarbonisation, then there is an existing ripe possibility for Tamil Nadu to plant it's flag in "
+        },
+        {
+          "date": "2024-08-25",
+          "handle": "elonmusk",
+          "tweetId": "1827730356650545234",
+          "fxUrl": "https://fxtwitter.com/elonmusk/status/1827730356650545234",
+          "eventType": "other",
+          "summary": "Pic of the SpaceX factory shortly after we got started"
+        },
+        {
+          "date": "2024-08-30",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1829387925588742258",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1829387925588742258",
+          "eventType": "mou_signed",
+          "summary": "அமெரிக்கா நாட்டின் சான்பிரான்சிஸ்கோ நகரில் நடைபெற்ற முதலீட்டாளர்கள் மாநாட்டில் ஈஸ்ட் இன்ஜினியரிங் சிஸ்டம்ஸ் நிறுவனத்திற்கும் தமிழ்நாடு அரசிற்கும் இடைய"
+        },
+        {
+          "date": "2024-08-30",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1829393802072834541",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1829393802072834541",
+          "eventType": "mou_signed",
+          "summary": "அமெரிக்கா நாட்டின் சான்பிரான்சிஸ்கோ நகரில் நடைபெற்ற முதலீட்டாளர்கள் மாநாட்டில் அப்ளைடு மெட்டீரியல்ஸ் நிறுவனத்திற்கும் தமிழ்நாடு அரசிற்கும் இடையே 500 ந"
+        },
+        {
+          "date": "2024-08-30",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1829394600798417321",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1829394600798417321",
+          "eventType": "mou_signed",
+          "summary": "அமெரிக்கா நாட்டின் சான்பிரான்சிஸ்கோ நகரில் நடைபெற்ற முதலீட்டாளர்கள் மாநாட்டில் ஈஸ்ட் இன்ஜினியரிங் சிஸ்டம்ஸ் நிறுவனத்திற்கும் தமிழ்நாடு அரசிற்கும் இடைய"
+        },
+        {
+          "date": "2024-08-30",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1829402544877232306",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1829402544877232306",
+          "eventType": "mou_signed",
+          "summary": "அமெரிக்கா நாட்டின் சான்பிரான்சிஸ்கோ நகரில் நடைபெற்ற முதலீட்டாளர்கள் மாநாட்டில் அப்ளைடு மெட்டீரியல்ஸ் நிறுவனத்திற்கும் தமிழ்நாடு அரசிற்கும் இடையே 500 ந"
+        },
+        {
+          "date": "2024-08-30",
+          "handle": "USISPForum",
+          "tweetId": "1829646615667257430",
+          "fxUrl": "https://fxtwitter.com/USISPForum/status/1829646615667257430",
+          "eventType": "mou_signed",
+          "summary": "A dynamic evening in San Francisco at Tamil Nadu's ‘Investors' Conclave’, featuring the Honorable Chief Minister Mr. @mkstalin.\n\nDetailed discussions "
+        },
+        {
+          "date": "2024-09-05",
+          "handle": "mkstalin",
+          "tweetId": "1831543830996513123",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1831543830996513123",
+          "eventType": "mou_signed",
+          "summary": "Exciting developments in Chicago!\n\nSecured a ₹2000 crore MoU with Trilliant to establish a manufacturing unit as well as their Development & Global Su"
+        },
+        {
+          "date": "2024-09-05",
+          "handle": "mkstalin",
+          "tweetId": "1831544621702184972",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1831544621702184972",
+          "eventType": "mou_signed",
+          "summary": "Exciting developments in Chicago!\n\nSecured a ₹2000 crore MoU with Trilliant to establish a manufacturing unit as well as their Development & Global Su"
+        },
+        {
+          "date": "2024-09-05",
+          "handle": "mkstalin",
+          "tweetId": "1831580723658330218",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1831580723658330218",
+          "eventType": "mou_signed",
+          "summary": "Exciting developments in Chicago!\n\nSecured a ₹2000 crore MoU with Trilliant to establish a manufacturing unit as well as their Development & Global Su"
+        },
+        {
+          "date": "2024-09-06",
+          "handle": "TNIndMin",
+          "tweetId": "1832076802891685983",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1832076802891685983",
+          "eventType": "mou_signed",
+          "summary": "Honourable @CMOTamilnadu Thiru. @mkstalin avargal and Honourable Minister for Industries Dr. @TRBRajaa engaged in a fruitful discussion with @Nike’s g"
+        },
+        {
+          "date": "2024-09-10",
+          "handle": "mkstalin",
+          "tweetId": "1833317787030458492",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1833317787030458492",
+          "eventType": "mou_signed",
+          "summary": "Key investments secured for Tamil Nadu’s industrial progress!\n\n🔹A significant investment of ₹2000 crores at Tiruchirapalli by Jabil, a global leader i"
+        },
+        {
+          "date": "2024-09-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1833330563966754912",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1833330563966754912",
+          "eventType": "mou_signed",
+          "summary": "🚨 HISTORICAL NEWS for #Trichy ! 🚨\n\nA major milestone in the industrial journey of Central #TamilNadu and for creating huge jobs for the people in the "
+        },
+        {
+          "date": "2024-09-10",
+          "handle": "mkstalin",
+          "tweetId": "1833331859066941880",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1833331859066941880",
+          "eventType": "mou_signed",
+          "summary": "Key investments secured for Tamil Nadu’s industrial progress!\n\n🔹A significant investment of ₹2000 crores at Tiruchirapalli by Jabil, a global leader i"
+        },
+        {
+          "date": "2024-09-10",
+          "handle": "mkstalin",
+          "tweetId": "1833355057636503985",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1833355057636503985",
+          "eventType": "mou_signed",
+          "summary": "Key investments secured for Tamil Nadu’s industrial progress!\n\n🔹A significant investment of ₹2000 crores at Tiruchirapalli by Jabil, a global leader i"
+        },
+        {
+          "date": "2024-09-10",
+          "handle": "GunasekaranMu",
+          "tweetId": "1833374702271668340",
+          "fxUrl": "https://fxtwitter.com/GunasekaranMu/status/1833374702271668340",
+          "eventType": "mou_signed",
+          "summary": "Apple supplier  Jabil to set up an electronics manufacturing facility in \nTrichy, Tamil Nadu.\n\n ▶️Jabil to invest 2000 crore and create 5000 jobs.\n\n▶️"
+        },
+        {
+          "date": "2024-09-12",
+          "handle": "mkstalin",
+          "tweetId": "1834077230105858188",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1834077230105858188",
+          "eventType": "mou_signed",
+          "summary": "The longstanding association between Caterpillar and Tamil Nadu has been further strengthened by new investments!\n\nWe’ve exchanged an MoU with Caterpi"
+        },
+        {
+          "date": "2024-09-12",
+          "handle": "mkstalin",
+          "tweetId": "1834080503688814962",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1834080503688814962",
+          "eventType": "mou_signed",
+          "summary": "The longstanding association between Caterpillar and Tamil Nadu has been further strengthened by new investments!\n\nWe’ve exchanged an MoU with Caterpi"
+        },
+        {
+          "date": "2024-09-12",
+          "handle": "mkstalin",
+          "tweetId": "1834089738573434895",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1834089738573434895",
+          "eventType": "mou_signed",
+          "summary": "The longstanding association between Caterpillar and Tamil Nadu has been further strengthened by new investments!\n\nWe’ve exchanged an MoU with Caterpi"
+        },
+        {
+          "date": "2024-09-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1834507642284499002",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1834507642284499002",
+          "eventType": "production_start",
+          "summary": "#FORD IS BACK 🌟\n\nA year of constant interactions and consistent pitches under the guidance of our @cmotamilnadu Thiru @mkstalin avl have today resulte"
+        },
+        {
+          "date": "2024-09-16",
+          "handle": "UpdatesChennai",
+          "tweetId": "1835547655553818839",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/1835547655553818839",
+          "eventType": "ground_breaking",
+          "summary": "🚨MOUs to Groundbreaking \n#TamilNadu CM Mk Stalin to lay the foundation stone for 9,000 Crs Tata-JLR Manufacturing Plant & the 400 Crs leather park at "
+        },
+        {
+          "date": "2024-09-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1836423764076065130",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1836423764076065130",
+          "eventType": "inauguration",
+          "summary": "It was my pleasure to inaugurate Kriya Medical Technologies' highly innovative ICHOR Medical Molding System at their manufacturing facility today at t"
+        },
+        {
+          "date": "2024-09-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1837399489553789281",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1837399489553789281",
+          "eventType": "ground_breaking",
+          "summary": "🎊More Stars of Approval for TN 🌟🌟🌟\n\nThrilled to have laid the foundation for #Michelin’s expanded facility in #Tiruvallur, with an investment of Rs. 5"
+        },
+        {
+          "date": "2024-09-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1837461165825208544",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1837461165825208544",
+          "eventType": "ground_breaking",
+          "summary": "🎊More Stars of Approval for TN 🌟🌟🌟\n\nThrilled to have laid the foundation for #Michelin’s expanded facility in #Tiruvallur, with an investment of Rs. 5"
+        },
+        {
+          "date": "2024-09-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1839619077649662057",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1839619077649662057",
+          "eventType": "mou_signed",
+          "summary": "#CISCO now #MadeInTamilNadu 🎊\n\nWe are thrilled to welcome @CISCO manufacturing to #TamilNadu today, in partnership with our longstanding companion in "
+        },
+        {
+          "date": "2024-09-27",
+          "handle": "ShereenBhan",
+          "tweetId": "1839668185819480206",
+          "fxUrl": "https://fxtwitter.com/ShereenBhan/status/1839668185819480206",
+          "eventType": "inauguration",
+          "summary": "Never been more optimistic or confident about India says @Cisco Global Ceo Chuck Robbins as the Company inaugurates its first manufacturing facility i"
+        },
+        {
+          "date": "2024-09-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1839690270931386644",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1839690270931386644",
+          "eventType": "mou_signed",
+          "summary": "We are proud that Mr. Chuck Robbin's optimism and confidence stems from his reading of India's and especially Tamil Nadu's manufacturing prowess ! \n\n@"
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "mkstalin",
+          "tweetId": "1839955064154116547",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839955064154116547",
+          "eventType": "ground_breaking",
+          "summary": "I had the privilege of hosting the esteemed Chairman of the Tata Group, Mr. Chandrasekaran, on the occasion of the ground-breaking ceremony of @TataMo"
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "mkstalin",
+          "tweetId": "1839955849243967775",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839955849243967775",
+          "eventType": "ground_breaking",
+          "summary": "I had the privilege of hosting the esteemed Chairman of the Tata Group, Mr. Chandrasekaran, on the occasion of the ground-breaking ceremony of @TataMo"
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "mkstalin",
+          "tweetId": "1839965049294639301",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839965049294639301",
+          "eventType": "ground_breaking",
+          "summary": "I had the privilege of hosting the esteemed Chairman of the Tata Group, Mr. Chandrasekaran, on the occasion of the ground-breaking ceremony of @TataMo"
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "mkstalin",
+          "tweetId": "1839971793295069519",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839971793295069519",
+          "eventType": "mou_signed",
+          "summary": "I can proudly say that Tamil Nadu leads India in both automobile production and #EV manufacturing.\n\nWith a 35% share of the nation’s total automobile "
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "mkstalin",
+          "tweetId": "1839995491033199046",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839995491033199046",
+          "eventType": "ground_breaking",
+          "summary": "I had the privilege of hosting the esteemed Chairman of the Tata Group, Mr. Chandrasekaran, on the occasion of the ground-breaking ceremony of @TataMo"
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1839996022954574110",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1839996022954574110",
+          "eventType": "mou_signed",
+          "summary": "🌟Welcome to #TamilNadu #TataJLR 🎊\n\nToday we broke ground for the new #Tata - #JLR facility marking a transformative milestone for Tamil Nadu's #auto /"
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "mkstalin",
+          "tweetId": "1839996152344658129",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839996152344658129",
+          "eventType": "mou_signed",
+          "summary": "I can proudly say that Tamil Nadu leads India in both automobile production and #EV manufacturing.\n\nWith a 35% share of the nation’s total automobile "
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "mkstalin",
+          "tweetId": "1839996536262144046",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839996536262144046",
+          "eventType": "mou_signed",
+          "summary": "I can proudly say that Tamil Nadu leads India in both automobile production and #EV manufacturing.\n\nWith a 35% share of the nation’s total automobile "
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "Kalaignarnews",
+          "tweetId": "1839998224112721955",
+          "fxUrl": "https://fxtwitter.com/Kalaignarnews/status/1839998224112721955",
+          "eventType": "inauguration",
+          "summary": "#WATCH | தமிழ்நாடு அரசு எங்களுக்கு ஏற்படுத்திய நம்பிக்கையால்  கடந்த 3 ஆண்டுகளுக்கு முன்பு ஒசூரில் 'Modern Electronic Factory Plant'- ஐ தொடங்கினோம். \n\n"
+        },
+        {
+          "date": "2024-09-28",
+          "handle": "TataMotors",
+          "tweetId": "1840062266663694658",
+          "fxUrl": "https://fxtwitter.com/TataMotors/status/1840062266663694658",
+          "eventType": "ground_breaking",
+          "summary": "Marking a new chapter of innovation and growth, Tata Motors conducted the groundbreaking ceremony of its new greenfield manufacturing facility in Pana"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "DMKITwing",
+          "tweetId": "1841884605609345451",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1841884605609345451",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu is emerging as a powerhouse, challenging other states with its robust industrial growth under the dynamic leadership of #DMK President Hon'"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "TRBRajaa",
+          "tweetId": "1841906601868906548",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1841906601868906548",
+          "eventType": "beneficiary_update",
+          "summary": "#TataElectronics resumes partial operations at #Hosur factory 👍🏾 https://www.thehindubusinessline.com/info-tech/tata-electronics-resumes-partial-opera"
+        },
+        {
+          "date": "2024-10-07",
+          "handle": "TNIndMin",
+          "tweetId": "1843214758167855194",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1843214758167855194",
+          "eventType": "production_start",
+          "summary": "“Villupuram Calling” \n\n“Industry has discovered Villupuram over the past three years, attracted by its proximity to other manufacturing hubs and easy "
+        },
+        {
+          "date": "2024-10-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1843578007534862725",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1843578007534862725",
+          "eventType": "production_start",
+          "summary": "More #investments, more #JobsForTN! 🚀\n\nUnder the leadership of Honourable @CMOTamilNadu Thiru. @MKStalin avargal the #TNCabinet has today approved 14 "
+        },
+        {
+          "date": "2024-10-09",
+          "handle": "UpdatesChennai",
+          "tweetId": "1844005845581099372",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/1844005845581099372",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu & Maharashtra likely locations :\n🔹Maharashtra: 7,000 Crs plant at Pune\n🔹Tamil Nadu : 26,000 Crs Investments Via EV/Battery Plant at Sriperu"
+        },
+        {
+          "date": "2024-10-21",
+          "handle": "TNIndMin",
+          "tweetId": "1848238301016117508",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1848238301016117508",
+          "eventType": "production_start",
+          "summary": "“China+1 = TN”\n\n“Tamil Nadu is looking to grab a larger share of investment by companies that want manufacturing alternatives to China”\n\nvia @timesofi"
+        },
+        {
+          "date": "2024-11-04",
+          "handle": "TNIndMin",
+          "tweetId": "1853292593422929926",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1853292593422929926",
+          "eventType": "production_start",
+          "summary": "“CHENNAI GOES NORTH\n\nTN is setting up three facilities in north Chennai and Tiruvallur to turn the traditional manufacturing hub into an innovation & "
+        },
+        {
+          "date": "2024-11-10",
+          "handle": "dharanisalem",
+          "tweetId": "1855679271039345109",
+          "fxUrl": "https://fxtwitter.com/dharanisalem/status/1855679271039345109",
+          "eventType": "production_start",
+          "summary": "Recently the world famous @FT calls Tamil Nadu as a ray of hope in other wise disappointing Indian manufacturing sectors. \n\nThe article also says that"
+        },
+        {
+          "date": "2024-11-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1856678772243882191",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1856678772243882191",
+          "eventType": "mou_signed",
+          "summary": "Thrilled to announce that today #AllisonTransmission signed an MoU with the @Guidance_TN to expand its state-of-the-art #manufacturing facility in Che"
+        },
+        {
+          "date": "2024-11-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1857314054903103991",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1857314054903103991",
+          "eventType": "mou_signed",
+          "summary": "Yet another #NonLeatherFootwear major in #TamilNadu! 🚀\nYet another #TNGIM2024 MoU has now turned into an Investment!🎊\n\nHonoured to be a part of the gr"
+        },
+        {
+          "date": "2024-11-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1857314139959329127",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1857314139959329127",
+          "eventType": "mou_signed",
+          "summary": "Yet another #NonLeatherFootwear major in #TamilNadu! 🚀\nYet another #TNGIM2024 MoU has now turned into an Investment!🎊\n\nHonoured to be a part of the gr"
+        },
+        {
+          "date": "2024-11-16",
+          "handle": "TRBRajaa",
+          "tweetId": "1857788593089253692",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1857788593089253692",
+          "eventType": "mou_signed",
+          "summary": "#Lubrizol signs MoU to create #medical manufacturing facility near Chennai https://www.newindianexpress.com/states/tamil-nadu/2024/Nov/15/lubrizol-sig"
+        },
+        {
+          "date": "2024-11-18",
+          "handle": "DMKITwing",
+          "tweetId": "1858444294656328028",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1858444294656328028",
+          "eventType": "progress_update",
+          "summary": "The #DMK government that works for the people and puts #TamilNadu on the world map! 🗺\n\nThrilled to witness the incredible progress Tamil Nadu is achie"
+        },
+        {
+          "date": "2024-11-22",
+          "handle": "mkstalin",
+          "tweetId": "1859876239437332824",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1859876239437332824",
+          "eventType": "inauguration",
+          "summary": "Empowering MSMEs in Tamil Nadu!\n\nInaugurated the state-of-the-art Precision Engineering & Technology Cluster at Thirumudivakkam #SIDCO. It is the firs"
+        },
+        {
+          "date": "2024-11-22",
+          "handle": "mkstalin",
+          "tweetId": "1859932221664366878",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1859932221664366878",
+          "eventType": "inauguration",
+          "summary": "Empowering MSMEs in Tamil Nadu!\n\nInaugurated the state-of-the-art Precision Engineering & Technology Cluster at Thirumudivakkam #SIDCO. It is the firs"
+        },
+        {
+          "date": "2024-11-22",
+          "handle": "mkstalin",
+          "tweetId": "1859968717175882003",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1859968717175882003",
+          "eventType": "inauguration",
+          "summary": "Empowering MSMEs in Tamil Nadu!\n\nInaugurated the state-of-the-art Precision Engineering & Technology Cluster at Thirumudivakkam #SIDCO. It is the firs"
+        },
+        {
+          "date": "2024-11-23",
+          "handle": "TRBRajaa",
+          "tweetId": "1860211787616145636",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1860211787616145636",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu’s industrial powerhouse @TIDCO_1965 is stepping into a bold new era with a fresh identity, as Tamil Nadu’s #VentureCatalyst 🌟\n\nUnder the le"
+        },
+        {
+          "date": "2025-01-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1875912750482043344",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1875912750482043344",
+          "eventType": "mou_signed",
+          "summary": "It was a privilege to participate in “IndustriAI: International Research Conference on Smart Manufacturing” at @IITM_respark, part of #Shaastra 2025, "
+        },
+        {
+          "date": "2025-01-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1878739072065425625",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1878739072065425625",
+          "eventType": "mou_signed",
+          "summary": "World-class EVs, Designed, Developed and Tested in #TamilNadu for India and the World reaffirming the fact that Tamil Nadu has unbeatable world class "
+        },
+        {
+          "date": "2025-01-17",
+          "handle": "TNIndMin",
+          "tweetId": "1880200687029744005",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1880200687029744005",
+          "eventType": "production_start",
+          "summary": "“TN looks to highlight its talent pool and manufacturing strength at Davos 2025”\n\nVia @businessline \n\n#InvestInTN #BullishOnTN"
+        },
+        {
+          "date": "2025-01-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1880246563223794128",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1880246563223794128",
+          "eventType": "mou_signed",
+          "summary": "LET’S GO BULLISH ON TAMIL NADU !\n\nThrilled that ahead of #WEF25 at #Davos we are launching the #BullishOnTN campaign, a clarion call to global investo"
+        },
+        {
+          "date": "2025-01-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1880609197341172130",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1880609197341172130",
+          "eventType": "mou_signed",
+          "summary": "LET’S GO BULLISH ON TAMIL NADU !\n\nThrilled that ahead of #WEF25 at #Davos we are launching the #BullishOnTN campaign, a clarion call to global investo"
+        },
+        {
+          "date": "2025-01-19",
+          "handle": "anandmahindra",
+          "tweetId": "1881062124958704030",
+          "fxUrl": "https://fxtwitter.com/anandmahindra/status/1881062124958704030",
+          "eventType": "production_start",
+          "summary": "I just posted about the new Manufacturing Experience Centre at @@tech_mahindra Chennai. \n\nThis is one of the exhibits in the Centre. \n\nA simulation of"
+        },
+        {
+          "date": "2025-01-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1881098127505047859",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1881098127505047859",
+          "eventType": "mou_signed",
+          "summary": "Spent the afternoon at the #BharatMobilityExpo2025, and I was amazed by what I saw today! \n\nI was filled with pride to see India flying high in the au"
+        },
+        {
+          "date": "2025-01-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1881270978556129499",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1881270978556129499",
+          "eventType": "production_start",
+          "summary": "Let’s get the ball rolling for #TNAtDavos25!\n\nTeam Tamil Nadu has touched down for #WEF25, carrying the inspiring vision of Honourable @CMOTamilNadu T"
+        },
+        {
+          "date": "2025-01-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1881993719907270699",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1881993719907270699",
+          "eventType": "production_start",
+          "summary": "#TamilNadu, the #AdvancedManufacturingCapitalofIndia in Ambition and in Action ! \n\nMet with Thiru. Anant Goenka of #CEAT during #WEF25 and congratulat"
+        },
+        {
+          "date": "2025-01-31",
+          "handle": "TRBRajaa",
+          "tweetId": "1885292467664085351",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1885292467664085351",
+          "eventType": "progress_update",
+          "summary": "It’s a moment of immense pride for Tamil Nadu as the #EconomicSurvey25 has recognised our remarkable success in championing the growth of the #NonLeat"
+        },
+        {
+          "date": "2025-02-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1887163371671162985",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1887163371671162985",
+          "eventType": "mou_signed",
+          "summary": "It was an honour to meet with the Governor of Ehime Prefecture in Japan, H.E Thiru. Tokihiro Nakamura-san, and Hon’ble Consul General Thiru. Takahashi"
+        },
+        {
+          "date": "2025-02-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1887464957249528258",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1887464957249528258",
+          "eventType": "ground_breaking",
+          "summary": "Today, in another major boost to the manufacturing ecosystem of South Tamil Nadu, the Honourable CM also laid the foundation stone for Vikram Solar’s "
+        },
+        {
+          "date": "2025-02-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1887546485757358493",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1887546485757358493",
+          "eventType": "inauguration",
+          "summary": "Here is the message from Thiru. N. Chandrasekaran, Chairman of Tata Sons, for the successful inauguration of the TP Solar Cell and Module Manufacturin"
+        },
+        {
+          "date": "2025-02-07",
+          "handle": "DMK_Chennai",
+          "tweetId": "1887794321962783039",
+          "fxUrl": "https://fxtwitter.com/DMK_Chennai/status/1887794321962783039",
+          "eventType": "inauguration",
+          "summary": "Hon'ble Chief Minister @mkstalin opens India’s largest single-location solar plant! \n\n@TRBRajaa #CMStalinInTirunelveli"
+        },
+        {
+          "date": "2025-02-12",
+          "handle": "TRBRajaa",
+          "tweetId": "1889760910773796932",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1889760910773796932",
+          "eventType": "production_start",
+          "summary": "Spent a highly productive day at #AeroIndia in Bengaluru, and it was reassuring to see that #TamilNadu remains among the top choice for private sector"
+        },
+        {
+          "date": "2025-02-12",
+          "handle": "TRBRajaa",
+          "tweetId": "1889764193131438304",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1889764193131438304",
+          "eventType": "production_start",
+          "summary": "Held crucial meetings with distinguished scientist and Chairman DRDO Dr. Samir V Kamat and the esteemed leadership of @DRDO_India at #AeroIndia in Ben"
+        },
+        {
+          "date": "2025-02-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1889932504720646425",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1889932504720646425",
+          "eventType": "production_start",
+          "summary": "Beyond the exciting meetings, #AeroIndia has also been an exciting showcase for Tamil Nadu’s incredible #aerospace and #defence ecosystem! \n\nThe Tamil"
+        },
+        {
+          "date": "2025-02-19",
+          "handle": "dharanisalem",
+          "tweetId": "1892159335930921049",
+          "fxUrl": "https://fxtwitter.com/dharanisalem/status/1892159335930921049",
+          "eventType": "scheme_launch",
+          "summary": "The world famous Financial times once again praises Tamil nadu  Model of industrial growth. „ Tamil Nadu is promoting itself as the best place to empl"
+        },
+        {
+          "date": "2025-02-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1892178411252003035",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1892178411252003035",
+          "eventType": "production_start",
+          "summary": "What #TamilNadu sets out to do, it achieves !\n\nOver the last couple of years, Honourable @CMOTamilNadu Thiru. @MKStalin avargal has had us on our toes"
+        },
+        {
+          "date": "2025-02-26",
+          "handle": "mkstalin",
+          "tweetId": "1894724675814506607",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1894724675814506607",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu – The Undisputed Leader in Non-Leather Footwear Manufacturing!\n\nWith a ₹5,000 Cr investment & 50,000 jobs, the MoU with Evervan Kothari Foo"
+        },
+        {
+          "date": "2025-02-26",
+          "handle": "mkstalin",
+          "tweetId": "1894753157466726594",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1894753157466726594",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu – The Undisputed Leader in Non-Leather Footwear Manufacturing!\n\nWith a ₹5,000 Cr investment & 50,000 jobs, the MoU with Evervan Kothari Foo"
+        },
+        {
+          "date": "2025-02-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1894777291131256874",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1894777291131256874",
+          "eventType": "mou_signed",
+          "summary": "More #JobsForTN, more global brands #MadeInTamilNadu!\n\nA major MoU was signed today, in the presence of Honourable @CMOTamilNadu Thiru. @MKStalin avar"
+        },
+        {
+          "date": "2025-03-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1897187456912404583",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1897187456912404583",
+          "eventType": "production_start",
+          "summary": "It was a pleasure to welcome Consul General @EtienneRP to Tamil Nadu as he takes charge of @FranceInPondi! \n\nTamil Nadu and France share deep business"
+        },
+        {
+          "date": "2025-03-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1897474851390283848",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1897474851390283848",
+          "eventType": "mou_signed",
+          "summary": "Here's the next big thing for Industries in TN 🌟\n\n#TamilNadu is taking its Aerospace and Defence ambitions to the next level 🚀\n\nBuilding up on our vis"
+        },
+        {
+          "date": "2025-03-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1897955017165770764",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1897955017165770764",
+          "eventType": "mou_signed",
+          "summary": "Yet another MoU signed by Honourable @CMOTamilNadu Thiru. @MKStalin avargal during his US trip turns into reality!\n\nFor this government, grounding MoU"
+        },
+        {
+          "date": "2025-03-12",
+          "handle": "TRBRajaa",
+          "tweetId": "1899833942318235665",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1899833942318235665",
+          "eventType": "production_start",
+          "summary": "This morning I had the opportunity to deliver the keynote address at “Tamil Nadu Round Table 2025: Reimagining the Path to a Knowledge Economy” organi"
+        },
+        {
+          "date": "2025-03-13",
+          "handle": "Guidance_TN",
+          "tweetId": "1900065528267628582",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1900065528267628582",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu is Levelling Up Its Innovation Game!\n\nLast year, Fraunhofer Institute for Production Technology IPT from Aachen University, Germany teamed "
+        },
+        {
+          "date": "2025-03-13",
+          "handle": "mkstalin",
+          "tweetId": "1900172237875143021",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1900172237875143021",
+          "eventType": "progress_update",
+          "summary": "The Economic Survey of Tamil Nadu 2024-25 reaffirms the state’s leadership in economic and social progress, outpacing India and other states. With a G"
+        },
+        {
+          "date": "2025-03-13",
+          "handle": "mkstalin",
+          "tweetId": "1900209162073891194",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1900209162073891194",
+          "eventType": "progress_update",
+          "summary": "The Economic Survey of Tamil Nadu 2024-25 reaffirms the state’s leadership in economic and social progress, outpacing India and other states. With a G"
+        },
+        {
+          "date": "2025-03-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1900906485695340663",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1900906485695340663",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu’s Electronics Revolution continues to charge forward !\n\nUnder the leadership of Honourable @CMOTamilNadu Thiru. @MKStalin avargal, we are o"
+        },
+        {
+          "date": "2025-03-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1902933956573663709",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1902933956573663709",
+          "eventType": "expansion",
+          "summary": "Attended a fantastic event on #Thoothukudi as a new emerging hub for the automotive sector, organised by Automotive Component Manufacturers Associatio"
+        },
+        {
+          "date": "2025-03-24",
+          "handle": "roadoram",
+          "tweetId": "1904056952319328699",
+          "fxUrl": "https://fxtwitter.com/roadoram/status/1904056952319328699",
+          "eventType": "production_start",
+          "summary": "Nike, Puma, Adidas, Crocs. Do you know what these International footwear brands have in common?\nAll of them have chosen Tamilnadu to set up their manu"
+        },
+        {
+          "date": "2025-03-24",
+          "handle": "Guidance_TN",
+          "tweetId": "1904152323288600879",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1904152323288600879",
+          "eventType": "production_start",
+          "summary": "Chennai: A Thriving Home for Korea’s Industry and Community \n\nBeyond being a thriving automotive hub, Chennai is a home away from home for the vibrant"
+        },
+        {
+          "date": "2025-03-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1904898901658001920",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1904898901658001920",
+          "eventType": "mou_signed",
+          "summary": "Joined my dear friend Thiru. @HormazdSorabjee for a fireside chat at the “Future Powertrain Conclave” this morning highlighting Tamil Nadu’s vision fo"
+        },
+        {
+          "date": "2025-03-26",
+          "handle": "Guidance_TN",
+          "tweetId": "1904905169583886779",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1904905169583886779",
+          "eventType": "production_start",
+          "summary": "In an exciting game of darts, Mr. Junki Yamashita, Senior Director of JETRO Chennai, takes aim at the bull’s eye of targeted investment, strengthening"
+        },
+        {
+          "date": "2025-03-26",
+          "handle": "iamchsekar",
+          "tweetId": "1904912343592579253",
+          "fxUrl": "https://fxtwitter.com/iamchsekar/status/1904912343592579253",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu's manufacturing sector is booming, driven by cutting-edge research, technology & innovation! With a strong ecosystem of industries, startup"
+        },
+        {
+          "date": "2025-03-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1905195080757264642",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1905195080757264642",
+          "eventType": "production_start",
+          "summary": "Awesome News Again🎊\n\nTAMIL NADU ships out INDIA’s FIRST #Semiconductor Manufacturing Equipment !!!\n\nWhat a journey it has been for Tamil Nadu’s #elect"
+        },
+        {
+          "date": "2025-03-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1905577163941880078",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1905577163941880078",
+          "eventType": "production_start",
+          "summary": "🎊Great News for the TN Electronics ecosystem !🎊\n\nThe much-awaited Electronics Components PLI scheme has been announced !\n\nThis is a strong endorsement"
+        },
+        {
+          "date": "2025-04-02",
+          "handle": "TRBRajaa",
+          "tweetId": "1907375547430420916",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1907375547430420916",
+          "eventType": "inauguration",
+          "summary": "Another #TNGIM2024 success story, and a shining symbol of Tamil Nadu’s manufacturing excellence !\n\nI was delighted to inaugurate the newly expanded fa"
+        },
+        {
+          "date": "2025-04-04",
+          "handle": "Guidance_TN",
+          "tweetId": "1908147469730324991",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1908147469730324991",
+          "eventType": "production_start",
+          "summary": "German fan and motor manufacturing giant EBM-Papst has broken ground on its third facility in India, investing INR 340 crores in Chennai. This expansi"
+        },
+        {
+          "date": "2025-04-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1908498509877125316",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1908498509877125316",
+          "eventType": "production_start",
+          "summary": "#TamilNadu has recorded a phenomenal 9.69% real GSDP growth for 2024–25 — the highest among all Indian states and the highest for Tamil Nadu in a deca"
+        },
+        {
+          "date": "2025-04-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1909904116865785938",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1909904116865785938",
+          "eventType": "mou_signed",
+          "summary": "HP laptops, soon to be #MadeInTamilNadu ! \n\nAnother big day for #electronics manufacturing in #TamilNadu! \n\nToday in the presence of Honourable @CMOTa"
+        },
+        {
+          "date": "2025-04-09",
+          "handle": "mkstalin",
+          "tweetId": "1910227941205696602",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1910227941205696602",
+          "eventType": "production_start",
+          "summary": "Another big day for #Electronics manufacturing in #TamilNadu! 💻\n \n#InvestInTN"
+        },
+        {
+          "date": "2025-04-11",
+          "handle": "Guidance_TN",
+          "tweetId": "1911376985093230853",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1911376985093230853",
+          "eventType": "ground_breaking",
+          "summary": "Ola Electric has just rolled out its first Roadster X motorcycle from the FutureFactory in Krishnagiri, Tamil Nadu, marking the next big leap in India"
+        },
+        {
+          "date": "2025-04-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1912895312194412983",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1912895312194412983",
+          "eventType": "inauguration",
+          "summary": "#TamilNadu is strapping on boosters to liftoff into the #spacetech orbit !\n\nIn a landmark decision today, the Tamil Nadu Cabinet has approved the Tami"
+        },
+        {
+          "date": "2025-04-23",
+          "handle": "TRBRajaa",
+          "tweetId": "1915017263373234659",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1915017263373234659",
+          "eventType": "ground_breaking",
+          "summary": "Now, #Chennai designs French cars for the world ! \n\n#Renault has officially opened its largest design centre outside of France, right here in #NammaCh"
+        },
+        {
+          "date": "2025-04-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1916096932273074192",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1916096932273074192",
+          "eventType": "mou_signed",
+          "summary": "Flash News ✨\n\nAn MoU was signed today, between @Guidance_TN and the #Taiwan Chamber of Commerce to set up an Indo-Taiwan Industrial Park near Chennai,"
+        },
+        {
+          "date": "2025-04-26",
+          "handle": "Guidance_TN",
+          "tweetId": "1916099186384048397",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1916099186384048397",
+          "eventType": "ground_breaking",
+          "summary": "#Renault Group CEO Visited #Chennai and they are all in for #BullishonTN\n\nOne of our favourite moments during any high-level delegation visit to #Tami"
+        },
+        {
+          "date": "2025-04-29",
+          "handle": "Guidance_TN",
+          "tweetId": "1917177657424486734",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1917177657424486734",
+          "eventType": "production_start",
+          "summary": "Stepping into a New Era of #Footwear #Manufacturing in #TamilNadu\nA new Non-Leather Footwear Manufacturing Park will be established in Natrampalli Tal"
+        },
+        {
+          "date": "2025-04-30",
+          "handle": "TRBRajaa",
+          "tweetId": "1917484686642971086",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1917484686642971086",
+          "eventType": "inauguration",
+          "summary": "TAMIL NADU ELECTRONICS JUGGERNAUT ROLLS ON !\n\n#TamilNadu becomes the FIRST state in India to launch a dedicated state Electronics Components Manufactu"
+        },
+        {
+          "date": "2025-04-30",
+          "handle": "mkstalin",
+          "tweetId": "1917492873953427855",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1917492873953427855",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu charts a bold course in electronics manufacturing.\n\nI launched the Tamil Nadu Electronics Components Manufacturing Scheme to drive value-ad"
+        },
+        {
+          "date": "2025-04-30",
+          "handle": "mkstalin",
+          "tweetId": "1917519761229111711",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1917519761229111711",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu charts a bold course in electronics manufacturing.\n\nI launched the Tamil Nadu Electronics Components Manufacturing Scheme to drive value-ad"
+        },
+        {
+          "date": "2025-04-30",
+          "handle": "mkstalin",
+          "tweetId": "1917527320463827182",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1917527320463827182",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu charts a bold course in electronics manufacturing.\n\nI launched the Tamil Nadu Electronics Components Manufacturing Scheme to drive value-ad"
+        },
+        {
+          "date": "2025-04-30",
+          "handle": "Guidance_TN",
+          "tweetId": "1917594840340259257",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1917594840340259257",
+          "eventType": "mou_signed",
+          "summary": "In a transformational move that firmly places #TamilNadu at the vanguard of India’s electronics renaissance, the Hon’ble Chief Minister of Tamil Nadu,"
+        },
+        {
+          "date": "2025-05-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1920044226102067383",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1920044226102067383",
+          "eventType": "production_start",
+          "summary": "Happy to see Tamil Nadu’s clean energy workforce and industrial model being showcased at the global stage by @nytimes.\n\n“Energy is everything. Energy "
+        },
+        {
+          "date": "2025-05-07",
+          "handle": "dstock_insights",
+          "tweetId": "1923769728017035772",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1923769728017035772",
+          "eventType": "other",
+          "summary": "Tata Power Solar Panel Factory, Thirunelveli ❤️ Around 2,000 women work in this factory."
+        },
+        {
+          "date": "2025-05-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1920439802811593140",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1920439802811593140",
+          "eventType": "mou_signed",
+          "summary": "It was my pleasure to inaugurate the Hyundai Mobis EV Battery System Assembly Plant in Sriperumbudur today, along with Honourable Minister for MSME An"
+        },
+        {
+          "date": "2025-05-09",
+          "handle": "Guidance_TN",
+          "tweetId": "1921029995310301457",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1921029995310301457",
+          "eventType": "production_start",
+          "summary": "As India’s #1 manufacturing state, #TamilNadu is proud to drive the future of global industry.\n\nThe Green #Thoothukudi Cluster has been recognised und"
+        },
+        {
+          "date": "2025-05-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1924006372582322513",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1924006372582322513",
+          "eventType": "inauguration",
+          "summary": "What an eye opening visit !👀\n\nVisited the Hong Fu facility in Haiphong, #Vietnam — a leading footwear manufacturer from Taiwan. The factory floor was "
+        },
+        {
+          "date": "2025-05-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1924620395531128861",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1924620395531128861",
+          "eventType": "production_start",
+          "summary": "Another Big personal dream of mine comes true ♥️🎊\n\nI have always felt that the brain drain from TN needs to be stemmed and that we need to do More Res"
+        },
+        {
+          "date": "2025-05-30",
+          "handle": "TRBRajaa",
+          "tweetId": "1928372539593769402",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1928372539593769402",
+          "eventType": "mou_signed",
+          "summary": "Last evening I had the pleasure of speaking at an engaging session hosted by the Indo-German Chamber of Commerce in #Pune, a city that shares the indu"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "TRBRajaa",
+          "tweetId": "1930219922413732247",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1930219922413732247",
+          "eventType": "mou_signed",
+          "summary": "Yet another MoU converted into more #JobsForTN ! \n\nHonourable @CMOTamilNadu Thiru. @MKStalin avargal today inaugurated the state-of-the-art Air Separa"
+        },
+        {
+          "date": "2025-06-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1936345118165864481",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1936345118165864481",
+          "eventType": "mou_signed",
+          "summary": "Earlier this week, we had the privilege of representing #TamilNadu at the prestigious #ParisAirShow2025, one of the world’s most significant events in"
+        },
+        {
+          "date": "2025-06-21",
+          "handle": "TIDCO_1965",
+          "tweetId": "1936421213632659896",
+          "fxUrl": "https://fxtwitter.com/TIDCO_1965/status/1936421213632659896",
+          "eventType": "mou_signed",
+          "summary": "TIDCO at #ParisAirShow2025 – Driving Global Conversations in Aerospace & Defence\n\nHon’ble Minister for Industries, Investment Promotion & Commerce, Th"
+        },
+        {
+          "date": "2025-06-25",
+          "handle": "TRBRajaa",
+          "tweetId": "1937822843225686427",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1937822843225686427",
+          "eventType": "inauguration",
+          "summary": "Continuing on our green warrior Honourable @CMOTamilNadu Thiru. @MKStalin's environmental roadmap for Tamil Nadu, @TNIndMin is building infra to induc"
+        },
+        {
+          "date": "2025-06-27",
+          "handle": "DMKITwing",
+          "tweetId": "1938637160720060622",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1938637160720060622",
+          "eventType": "scheme_launch",
+          "summary": "From factory floors to boardrooms, #TamilNadu’s Women Power, Fueled by the Hon'ble @CMOTamilnadu Thiru  @mkstalin’s Vision rewriting history!\n\nSouth I"
+        },
+        {
+          "date": "2025-07-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1941469100825358493",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1941469100825358493",
+          "eventType": "production_start",
+          "summary": "#TamilNadu has repeatedly asked for More Connections from MAA,CJB,IXM,TRZ & TCR to DXB & SIN ! Both these destinations are top international transit h"
+        },
+        {
+          "date": "2025-07-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1942184650094293379",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1942184650094293379",
+          "eventType": "production_start",
+          "summary": "#TamilNadu has repeatedly asked for More Connections from MAA,CJB,IXM,TRZ & TCR to DXB & SIN ! Both these destinations are top international transit h"
+        },
+        {
+          "date": "2025-07-08",
+          "handle": "TNIndMin",
+          "tweetId": "1942656149842784561",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1942656149842784561",
+          "eventType": "production_start",
+          "summary": "“Tamil Nadu is preparing for the next phase of growth with a focus on circular manufacturing and cluster collaboration in electric mobility”\n\nVia @tim"
+        },
+        {
+          "date": "2025-07-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1942782551828967606",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1942782551828967606",
+          "eventType": "production_start",
+          "summary": "#EnergySecurity is vital to India’s industrial self-reliance and we have now moved a step ahead in Tamil Nadu’s green industrial journey! \n\nThe Hyunda"
+        },
+        {
+          "date": "2025-07-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1942785538987286913",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1942785538987286913",
+          "eventType": "inauguration",
+          "summary": "Everyone keeps talking about \"becoming China\" or \"beating China\", but very few work on the \"How?\".\n\n#TamilNadu knows and lights the path for the rest "
+        },
+        {
+          "date": "2025-07-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1942786000079516055",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1942786000079516055",
+          "eventType": "production_start",
+          "summary": "“Will Trade War Make South India the Next Manufacturing Hub?\n\nStates like Tamil Nadu are dangling tax breaks and fast-tracking infrastructure, helping"
+        },
+        {
+          "date": "2025-07-09",
+          "handle": "TIDCO_1965",
+          "tweetId": "1942995593883980153",
+          "fxUrl": "https://fxtwitter.com/TIDCO_1965/status/1942995593883980153",
+          "eventType": "progress_update",
+          "summary": "Tamil Nadu Leads the Way in Defence Innovation\n\nTIDCO officials had hosted Rear Admiral Iqbal Singh Grewal, ADGQA (Warship Production) & Chairman, PMC"
+        },
+        {
+          "date": "2025-07-10",
+          "handle": "Guidance_TN",
+          "tweetId": "1943241189030777285",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1943241189030777285",
+          "eventType": "mou_signed",
+          "summary": "VinFast Hits the accelerator in #Thoothukudi.\n\nVinFast India welcomes its first 200 team members from #TamilNadu under Naan Mudhalvan scheme at the up"
+        },
+        {
+          "date": "2025-07-14",
+          "handle": "DMKITwing",
+          "tweetId": "1944873918327873556",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1944873918327873556",
+          "eventType": "scheme_launch",
+          "summary": "From Classrooms to EV Assembly Lines!\n\n#TamilNadu’s future ready workforce scores big as 200 polytechnic students land jobs at VinFast’s ₹16,000 Cr #E"
+        },
+        {
+          "date": "2025-07-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1945234391984198022",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1945234391984198022",
+          "eventType": "mou_signed",
+          "summary": "From Chennai to Matsuyama, the Tamil Nadu–Ehime partnership continues to blossom in the #CMStalinEra !\n\nTeam Tamil Nadu was hosted by His Excellency G"
+        },
+        {
+          "date": "2025-07-28",
+          "handle": "yazhini_pm",
+          "tweetId": "1949681434161299579",
+          "fxUrl": "https://fxtwitter.com/yazhini_pm/status/1949681434161299579",
+          "eventType": "progress_update",
+          "summary": "This is exactly what we are talking about - Long term thinking that is integral to the electronics manufacturing policy initiatives of Tamil Nadu. \n\nA"
+        },
+        {
+          "date": "2025-07-28",
+          "handle": "TNIndMin",
+          "tweetId": "1949738547285533103",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1949738547285533103",
+          "eventType": "production_start",
+          "summary": "“Apple suppliers flock to Tamil Nadu as state emerges key hub for electronics component manufacturing”\n\n“The state introduced the Tamil Nadu Electroni"
+        },
+        {
+          "date": "2025-07-30",
+          "handle": "Guidance_TN",
+          "tweetId": "1950579692127539676",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1950579692127539676",
+          "eventType": "production_start",
+          "summary": "#TamilNadu: The Tyre Capital of India\n\nNearly 30% of India’s tyres are now manufactured in the #Oragadam-#Sriperumbudur belt of Tamil Nadu.\n\nWith glob"
+        },
+        {
+          "date": "2025-08-01",
+          "handle": "TRBRajaa",
+          "tweetId": "1951240192981151821",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1951240192981151821",
+          "eventType": "mou_signed",
+          "summary": "MASSIVE step in the Semiconductor Ecosystem For TN & INDIA !\n\n🌟Tamil Nadu’s \"School of Semiconductor\" !🌟\n\nYet another first-of-its kind project, where"
+        },
+        {
+          "date": "2025-08-04",
+          "handle": "TRBRajaa",
+          "tweetId": "1952313438312738921",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1952313438312738921",
+          "eventType": "mou_signed",
+          "summary": "I strongly believe that attracting and grounding investments is like parenting - you can’t force anything, it won’t work. You nurture, create the righ"
+        },
+        {
+          "date": "2025-08-04",
+          "handle": "mkstalin",
+          "tweetId": "1952314273826292123",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1952314273826292123",
+          "eventType": "mou_signed",
+          "summary": "இந்நாள் தென்மாவட்டங்களின் \nவளர்ச்சியில் பொன்னாள்!\n\n🚘 From MoU to Manufacturing in just 18 Months!\n📍 Thoothukudi, Tamil Nadu\n\n🔹 Rs.1,300 Cr Phase-1 Inv"
+        },
+        {
+          "date": "2025-08-04",
+          "handle": "mkstalin",
+          "tweetId": "1952317363267002542",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1952317363267002542",
+          "eventType": "mou_signed",
+          "summary": "இந்நாள் தென்மாவட்டங்களின் \nவளர்ச்சியில் பொன்னாள்!\n\n🚘 From MoU to Manufacturing in just 18 Months!\n📍 Thoothukudi, Tamil Nadu\n\n🔹 Rs.1,300 Cr Phase-1 Inv"
+        },
+        {
+          "date": "2025-08-04",
+          "handle": "DMKITwing",
+          "tweetId": "1952364568833134994",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1952364568833134994",
+          "eventType": "ground_breaking",
+          "summary": "The Industrial Revolution in South #TamilNadu has officially begun, and it bears the Stamp of our Hon'ble @CMOTamilnadu @mkstalin’s visionary leadersh"
+        },
+        {
+          "date": "2025-08-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1953723449471549732",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1953723449471549732",
+          "eventType": "mou_signed",
+          "summary": "🎊Welcome to Tamil Nadu, #MuRata !🎊\n\nA global leader in advanced electronic components, with a 40% share in multilayer ceramic capacitors, whose compon"
+        },
+        {
+          "date": "2025-08-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1954421227298430996",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1954421227298430996",
+          "eventType": "mou_signed",
+          "summary": "🎊Welcome to Tamil Nadu, #MuRata !🎊\n\nA global leader in advanced electronic components, with a 40% share in multilayer ceramic capacitors, whose compon"
+        },
+        {
+          "date": "2025-08-14",
+          "handle": "TRBRajaa",
+          "tweetId": "1955898492540559739",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1955898492540559739",
+          "eventType": "mou_signed",
+          "summary": "Delighted to welcome Hikoki Power Tools India, a wholly owned subsidiary of Japan’s Koki Holdings, to their new home in Tamil Nadu !\n\nToday, in the pr"
+        },
+        {
+          "date": "2025-08-14",
+          "handle": "TRBRajaa",
+          "tweetId": "1955992829861486912",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1955992829861486912",
+          "eventType": "production_start",
+          "summary": "Important industry department decisions taken at today’s cabinet meeting chaired by Honourable @CMOTamilNadu Thiru. @MKStalin avargal !\n\nWe cleared se"
+        },
+        {
+          "date": "2025-08-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1958911353047196043",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1958911353047196043",
+          "eventType": "mou_signed",
+          "summary": "Our efforts to ensure grounding of MoUs we signed at #TNRising Thoothukudi are on full swing ! \n\nHonourable @CMOTamilNadu Thiru. @MKStalin avargal tod"
+        },
+        {
+          "date": "2025-08-23",
+          "handle": "dmuthuk",
+          "tweetId": "1959125629539844168",
+          "fxUrl": "https://fxtwitter.com/dmuthuk/status/1959125629539844168",
+          "eventType": "production_start",
+          "summary": "Do you know something?\n\nTamil Nadu has almost achieved zero defect in electronics manufacturing.\n\nEarlier the yardstick was zero parts per million. No"
+        },
+        {
+          "date": "2025-08-23",
+          "handle": "Surya_BornToWin",
+          "tweetId": "1959151763962871983",
+          "fxUrl": "https://fxtwitter.com/Surya_BornToWin/status/1959151763962871983",
+          "eventType": "production_start",
+          "summary": "Absolutely!\n\nTamil Nadu isn’t just “making things,” it’s setting global benchmarks in precision & quality. Achieving zero PPM and even approaching zer"
+        },
+        {
+          "date": "2025-08-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1960932096760824108",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1960932096760824108",
+          "eventType": "other",
+          "summary": "Tamil Nadu - The largest industrial workforce of India, not just the fastest growing economy ! \n\nAccording to the Govt of India's, Annual Survey of In"
+        },
+        {
+          "date": "2025-08-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1960935287984373848",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1960935287984373848",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu - The largest industrial workforce of India, not just the fastest growing economy ! \n\nAccording to the Govt of India's, Annual Survey of In"
+        },
+        {
+          "date": "2025-09-01",
+          "handle": "TRBRajaa",
+          "tweetId": "1962500367742373960",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1962500367742373960",
+          "eventType": "mou_signed",
+          "summary": "🚨 EXCITING NEWS from Germany! 🚨\n\nHonourable @CMOTamilNadu Thiru. @MKStalin avargal’s investment mission in Europe kicked off on a high note with three"
+        },
+        {
+          "date": "2025-09-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1964239835092156888",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1964239835092156888",
+          "eventType": "production_start",
+          "summary": "🚨 We end #TNRising Europe with a Big Bang !\n\nHonourable @CMOTamilNadu Thiru. @MKStalin avargal has secured an investment of Rs. 7,500 crore from UK-ba"
+        },
+        {
+          "date": "2025-09-07",
+          "handle": "DMK_Updates",
+          "tweetId": "1964585466055053509",
+          "fxUrl": "https://fxtwitter.com/DMK_Updates/status/1964585466055053509",
+          "eventType": "production_start",
+          "summary": "North Indians who research and share the activities of Chief Minister @mkstalin with the people.\n\nWhy is Tamil Nadu the Manufacturing Powerhouse?\n\nHCM"
+        },
+        {
+          "date": "2025-09-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1965427928537461213",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1965427928537461213",
+          "eventType": "production_start",
+          "summary": "Back from #TNRisingEurope, and back to work for #TNRisingHosur ! \n\nToday the Honourable @CMOTamilNadu Thiru. @MKStalin avargal met the senior global l"
+        },
+        {
+          "date": "2025-09-10",
+          "handle": "TIDCO_1965",
+          "tweetId": "1965784047478792306",
+          "fxUrl": "https://fxtwitter.com/TIDCO_1965/status/1965784047478792306",
+          "eventType": "mou_signed",
+          "summary": "Global Partnerships for Local Growth \n\nTIDCO has signed an MoU with Institut für Textiltechnik (ITA), @RWTH  Aachen University, Germany in the presenc"
+        },
+        {
+          "date": "2025-09-11",
+          "handle": "mkstalin",
+          "tweetId": "1966126103506133443",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1966126103506133443",
+          "eventType": "mou_signed",
+          "summary": "#Hosur's next era of growth is here! \n\n📝 At #TNRising Investors Conclave in Hosur, 92 MoUs were signed across large industries and MSMEs, with investm"
+        },
+        {
+          "date": "2025-09-11",
+          "handle": "mkstalin",
+          "tweetId": "1966153843642872161",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1966153843642872161",
+          "eventType": "mou_signed",
+          "summary": "#Hosur's next era of growth is here! \n\n📝 At #TNRising Investors Conclave in Hosur, 92 MoUs were signed across large industries and MSMEs, with investm"
+        },
+        {
+          "date": "2025-09-12",
+          "handle": "TRBRajaa",
+          "tweetId": "1966340910339490141",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1966340910339490141",
+          "eventType": "ground_breaking",
+          "summary": "Hosur booms, and so does Delta Electronics !\n\nYesterday, Honourable @CMOTamilNadu Thiru. @MKStalin avargal, in the presence of Honourable Minister for"
+        },
+        {
+          "date": "2025-09-12",
+          "handle": "TRBRajaa",
+          "tweetId": "1966341830209056921",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1966341830209056921",
+          "eventType": "mou_signed",
+          "summary": "Yet another #TNGIM2024 MoU converted to #JobsForTN ! \n\nHonourable @CMOTamilNadu Thiru. @MKStalin avargal in the presence of Honourable Minister for Fo"
+        },
+        {
+          "date": "2025-09-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1969033175029678344",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1969033175029678344",
+          "eventType": "mou_signed",
+          "summary": "One more #MoU turns into a full fledged Investment !\n\nAnother major data center begins operations in Tamil Nadu, the digital infra capital of India !\n"
+        },
+        {
+          "date": "2025-09-24",
+          "handle": "TRBRajaa",
+          "tweetId": "1970796809506484731",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1970796809506484731",
+          "eventType": "progress_update",
+          "summary": "Had the privilege of addressing the CII National Council in Chennai today, alongside leaders who drive India’s industry and enterprise.\n\nWe spoke abou"
+        },
+        {
+          "date": "2025-09-24",
+          "handle": "Guidance_TN",
+          "tweetId": "1970894710077260238",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1970894710077260238",
+          "eventType": "production_start",
+          "summary": "YES to Semiconductors: Tamil Nadu’s Leap onto the Global Stage\n\nEarlier this year, Yield Engineering Systems (YES) fortified Tamil Nadu's position on "
+        },
+        {
+          "date": "2025-09-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1971941603410653460",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1971941603410653460",
+          "eventType": "mou_signed",
+          "summary": "It was a pleasure interacting with the members of the CII Tamil Nadu State Council this today in Coimbatore and engaging in a stimulating fireside cha"
+        },
+        {
+          "date": "2025-10-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1977615850397106201",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1977615850397106201",
+          "eventType": "production_start",
+          "summary": "✨LARGEST EVER #engineering #JobsForTN commitment for Tamil Nadu ! \n\n#Foxconn commits Rs. 15,000 CRORE in investments and 14,000 JOBS high value jobs !"
+        },
+        {
+          "date": "2025-10-13",
+          "handle": "Guidance_TN",
+          "tweetId": "1977628508194275597",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1977628508194275597",
+          "eventType": "inauguration",
+          "summary": "#TamilNadu welcomes a game-changing investment from @HonHai_Foxconn!\n\n#Foxconn is set to invest INR 15,000 crore and create 14,000 skilled jobs, power"
+        },
+        {
+          "date": "2025-10-13",
+          "handle": "mkstalin",
+          "tweetId": "1977741559043883160",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1977741559043883160",
+          "eventType": "production_start",
+          "summary": "This is the #DravidianModel in action. Thank you @HonHai_Foxconn for choosing Tamil Nadu and shaping the future with us.\n\nThis marks another milestone"
+        },
+        {
+          "date": "2025-10-13",
+          "handle": "mkstalin",
+          "tweetId": "1977763767166402593",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1977763767166402593",
+          "eventType": "production_start",
+          "summary": "This is the #DravidianModel in action. Thank you @HonHai_Foxconn for choosing Tamil Nadu and shaping the future with us.\n\nThis marks another milestone"
+        },
+        {
+          "date": "2025-10-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1978451612097011777",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1978451612097011777",
+          "eventType": "mou_signed",
+          "summary": "Had a great conversation today with H.E. Eng. Khalil Bin Ibrahim Bin Salamah, Vice Minister of Industry and Mineral Resources for Industrial Affairs, "
+        },
+        {
+          "date": "2025-10-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1982812508286230538",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1982812508286230538",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu powers India yet again as we enter the era of electronics components manufacturing ! \n\nTamil Nadu is the TOP state in the first round of th"
+        },
+        {
+          "date": "2025-10-31",
+          "handle": "mkstalin",
+          "tweetId": "1984177959587246578",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1984177959587246578",
+          "eventType": "mou_signed",
+          "summary": "Ford returns to Tamil Nadu with full throttle!\n\nA powerful comeback that renews a long and trusted partnership, as #Ford invests Rs. 3,250 crore in Ta"
+        },
+        {
+          "date": "2025-10-31",
+          "handle": "mkstalin",
+          "tweetId": "1984184704141250600",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1984184704141250600",
+          "eventType": "mou_signed",
+          "summary": "Ford returns to Tamil Nadu with full throttle!\n\nA powerful comeback that renews a long and trusted partnership, as #Ford invests Rs. 3,250 crore in Ta"
+        },
+        {
+          "date": "2025-10-31",
+          "handle": "mkstalin",
+          "tweetId": "1984186725577658763",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1984186725577658763",
+          "eventType": "mou_signed",
+          "summary": "Ford returns to Tamil Nadu with full throttle!\n\nA powerful comeback that renews a long and trusted partnership, as #Ford invests Rs. 3,250 crore in Ta"
+        },
+        {
+          "date": "2025-11-05",
+          "handle": "Guidance_TN",
+          "tweetId": "1986408673577709615",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1986408673577709615",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu × Busan: Building Bridges for Growth \n환영합니다, Busan!\n\nDr. Darez Ahamed, IAS, Managing Director, Guidance Tamil Nadu, addressed a 26-member d"
+        },
+        {
+          "date": "2025-11-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1988280144960893182",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1988280144960893182",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu’s partnership with #Flex continues to become stronger ! \n\nToday, Honourable @CMOTamilNadu Thiru. @MKStalin avargal met Tmt. Revathi Advaith"
+        },
+        {
+          "date": "2025-11-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1988280370065011045",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1988280370065011045",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu’s partnership with #Flex continues to become stronger ! \n\nToday, Honourable @CMOTamilNadu Thiru. @MKStalin avargal met Tmt. Revathi Advaith"
+        },
+        {
+          "date": "2025-11-12",
+          "handle": "Guidance_TN",
+          "tweetId": "1988593363877273742",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1988593363877273742",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu × Australia: Pitching the Perfect Partnership\n\nGuidance Tamil Nadu joins as the Strategic Partner for the second edition of the Australia–I"
+        },
+        {
+          "date": "2025-11-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1988896129908633821",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1988896129908633821",
+          "eventType": "mou_signed",
+          "summary": "Thrilled that our #Mannargudi will soon have a new textile investment generating thousands of #Jobs, thanks to Honourable @CMOTamilNadu Thiru. @MKStal"
+        },
+        {
+          "date": "2025-11-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1989613583865377106",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1989613583865377106",
+          "eventType": "production_start",
+          "summary": "Investment promotion is not a regular everyday game. It's about balancing the states need for certain sectors, the jobs that will get created, incenti"
+        },
+        {
+          "date": "2025-11-25",
+          "handle": "TRBRajaa",
+          "tweetId": "1993204937954934829",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1993204937954934829",
+          "eventType": "production_start",
+          "summary": "We said Kovai will rise, and #KovaiRising indeed ! \n\nAs we get ready for #TNRising Coimbatore this evening, it feels like the right time to bring back"
+        },
+        {
+          "date": "2025-11-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1993620364384166263",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1993620364384166263",
+          "eventType": "production_start",
+          "summary": "Next Big News for #Textile entrepreneurs in #TamilNadu ! \n\n#PMMITRAPark in #Virudhunagar is now LIVE !  \n\nWe are ready for innauguration and Industria"
+        },
+        {
+          "date": "2025-11-26",
+          "handle": "Guidance_TN",
+          "tweetId": "1993672279923061088",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1993672279923061088",
+          "eventType": "mou_signed",
+          "summary": "Sakthi Aircraft: Tamil Nadu’s Aviation Pioneer Creating 1,200 Jobs\n\nAt the TN Rising – Coimbatore Conclave, Sakthi Aircraft exchanged MoU in the prese"
+        },
+        {
+          "date": "2025-11-26",
+          "handle": "Guidance_TN",
+          "tweetId": "1993692554009903539",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1993692554009903539",
+          "eventType": "mou_signed",
+          "summary": "Coimbatore’s Chip Momentum Accelerates with MindOx\n\nAt the TN Rising – Coimbatore Conclave, @MindoxTechno  exchanged MoU iin the presence of Hon’ble C"
+        },
+        {
+          "date": "2025-11-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1994266520252231957",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1994266520252231957",
+          "eventType": "production_start",
+          "summary": "@sureshengg1 @Guidance_TN Kovai has always been awesome with Quality output in manufacturing ...and food too : )"
+        },
+        {
+          "date": "2025-11-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1994723070393909712",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1994723070393909712",
+          "eventType": "other",
+          "summary": "#Women at the heart of #TamilNadu’s factory economy | Let Me Explain 102 ... https://youtu.be/dgpy9NbrlQE?si=Bc4onAe3Ohico5Zk via @YouTube"
+        },
+        {
+          "date": "2025-11-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1994761707357626666",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1994761707357626666",
+          "eventType": "other",
+          "summary": "#Women at the heart of #TamilNadu’s factory economy | Let Me Explain 102 ... https://youtu.be/dgpy9NbrlQE?si=Bc4onAe3Ohico5Zk via @YouTube"
+        },
+        {
+          "date": "2025-12-01",
+          "handle": "TRBRajaa",
+          "tweetId": "1995462700827336774",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1995462700827336774",
+          "eventType": "production_start",
+          "summary": "Another 🥇No. 1 for Tamil Nadu, now in Industrial Energy Efficiency ! \n\nUnder the dynamic leadership of Honourable @CMOTamilNadu Thiru. @MKStalin avarg"
+        },
+        {
+          "date": "2025-12-04",
+          "handle": "TRBRajaa",
+          "tweetId": "1996573051291673079",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1996573051291673079",
+          "eventType": "mou_signed",
+          "summary": "🚨🚨🚨 Big news: Now #Vinfast e-buses and two-wheelers also to be made in #TamilNadu !\n\nYet another reinforcement of faith on Tamil Nadu, thanks to the r"
+        },
+        {
+          "date": "2025-12-04",
+          "handle": "TamilNaduInfra",
+          "tweetId": "1996763320502956045",
+          "fxUrl": "https://fxtwitter.com/TamilNaduInfra/status/1996763320502956045",
+          "eventType": "inauguration",
+          "summary": "CM MK Stalin will inaugurate (tomorrow) the state-of-the-art glass display manufacturing plant of Bharat Innovative Glass Technologies Private Limited"
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "Guidance_TN",
+          "tweetId": "1996830351956889850",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1996830351956889850",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu is Building the Full-Stack Semiconductor Ecosystem India Needs\n\nRaja Manickam, founder and CEO, iVP Semiconductor, highlights a crucial tru"
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1996837140425293881",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1996837140425293881",
+          "eventType": "progress_update",
+          "summary": "At a time when the #DravidianModel Govt of TN under HCM @mkstalin is working day and night to bring investments, jobs and prosperity to #TamilNadu, th"
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1996862827701899503",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1996862827701899503",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu’s #electronics sector continues to boom - India’s first ever cover-glass production facility by Corning and Optiemus has been inaugurated t"
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "dstock_insights",
+          "tweetId": "1996926555969532067",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1996926555969532067",
+          "eventType": "inauguration",
+          "summary": "VinFast is expanding its recently inaugurated plant in Thoothukudi with a $500 million investment in 500 acres of adjacent land, which will enable the"
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "UpdatesChennai",
+          "tweetId": "1997155517966504442",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/1997155517966504442",
+          "eventType": "other",
+          "summary": "Japanese Toolmaker debuts in India with a new 300 Crs factory in Chennai, its first outside China & Japan...#InvestInTN #EngineeringHub 🏭👨‍🏭 https://s"
+        },
+        {
+          "date": "2025-12-07",
+          "handle": "Guidance_TN",
+          "tweetId": "1997742612451926378",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1997742612451926378",
+          "eventType": "mou_signed",
+          "summary": "Melur to make shoes for the world. 15,000 jobs.\n\nAt the TN Rising Conclave, Pei Hai Group, a Taiwan-based leader in non-leather footwear, exchanged Mo"
+        },
+        {
+          "date": "2025-12-16",
+          "handle": "dmuthuk",
+          "tweetId": "2000975905372692725",
+          "fxUrl": "https://fxtwitter.com/dmuthuk/status/2000975905372692725",
+          "eventType": "production_start",
+          "summary": "When I regularly shared data and facts about Tamil Nadu, I was mocked by some. I always used to say every single information I provided can be verifie"
+        },
+        {
+          "date": "2025-12-17",
+          "handle": "Guidance_TN",
+          "tweetId": "2001307910974931039",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2001307910974931039",
+          "eventType": "mou_signed",
+          "summary": "Strengthening Tamil Nadu–Korea Investment Ties\n\nGuidance Tamil Nadu hosted officials from the Korean Embassy in India and KOTRA Chennai for an in-dept"
+        },
+        {
+          "date": "2025-12-18",
+          "handle": "mkstalin",
+          "tweetId": "2001464934690099643",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2001464934690099643",
+          "eventType": "production_start",
+          "summary": "Hon'ble PM Thiru. @NarendraModi, Tamil Nadu is the backbone of India’s export economy. Punitive US tariffs are hitting this bedrock hard, disrupting p"
+        },
+        {
+          "date": "2025-12-20",
+          "handle": "Guidance_TN",
+          "tweetId": "2002376716778623239",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2002376716778623239",
+          "eventType": "production_start",
+          "summary": "Padma Bhushan Awardee Prof. Arogyaswami J. Paulraj, during his visit to the Guidance office, highlighted Tamil Nadu’s manufacturing strength for the c"
+        },
+        {
+          "date": "2025-12-30",
+          "handle": "TRBRajaa",
+          "tweetId": "2006023019073069160",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2006023019073069160",
+          "eventType": "production_start",
+          "summary": "#TamilNadu has extended 100% motor vehicle tax exemption for all electric vehicles till 31 December 2027 aligning with our deep rooted sustainability "
+        },
+        {
+          "date": "2026-01-02",
+          "handle": "TnInvestment",
+          "tweetId": "2007380371529519146",
+          "fxUrl": "https://fxtwitter.com/TnInvestment/status/2007380371529519146",
+          "eventType": "production_start",
+          "summary": "Union Govt approved below investments from companies in #TamilNadu as part of 3rd phase of Electronics Components Manufacturing Scheme (#ECMS)\n\n1. #Mo"
+        },
+        {
+          "date": "2026-01-13",
+          "handle": "Guidance_TN",
+          "tweetId": "2011101595287818661",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2011101595287818661",
+          "eventType": "mou_signed",
+          "summary": "From vision to action : Tamil Nadu is leading India’s AI revolution.\n\nThe State has signed a INR 10,000 crore MoU with @SarvamAI  to establish India’s"
+        },
+        {
+          "date": "2026-01-13",
+          "handle": "Guidance_TN",
+          "tweetId": "2011308741417984359",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2011308741417984359",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu Leads India’s Circular Economy Transition\n\nHon’ble Chief Minister (@CMOTamilnadu) Thiru. M.K Stalin (@mkstalin) has launched the Tamil Nadu"
+        },
+        {
+          "date": "2026-01-19",
+          "handle": "TRBRajaa",
+          "tweetId": "2013291901534036188",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2013291901534036188",
+          "eventType": "inauguration",
+          "summary": "FINALLY ! Welcome to Tamil Nadu, #IKEA !\n\nIt was a pleasure to be a part of the much-awaited IKEA’s e-commerce launch in #TamilNadu in the presence of"
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "TRBRajaa",
+          "tweetId": "2017237857279299607",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2017237857279299607",
+          "eventType": "production_start",
+          "summary": "The #EconomicSurvey 2025-26 has put it on record: Tamil Nadu’s industrial growth is what the rest of India needs to emulate ! \n\nBeing the Number One S"
+        },
+        {
+          "date": "2026-02-01",
+          "handle": "TRBRajaa",
+          "tweetId": "2017963670131900707",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2017963670131900707",
+          "eventType": "mou_signed",
+          "summary": "It was a pleasure to meet the Parliamentary leadership team from #SouthKorea, led by Honourable Deputy Speaker Thiru. Hackyoung Lee, along with Honour"
+        },
+        {
+          "date": "2026-02-04",
+          "handle": "TRBRajaa",
+          "tweetId": "2019008912050225525",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2019008912050225525",
+          "eventType": "mou_signed",
+          "summary": "Fasten your Fastners it's MoU time🔩!!!\n\nAnother global manufacturing leader chooses #TamilNadu 🌟\n\nBulten Group, through its Indian arm PSM Fasteners I"
+        },
+        {
+          "date": "2026-02-04",
+          "handle": "UpdatesChennai",
+          "tweetId": "2019034737323700709",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/2019034737323700709",
+          "eventType": "mou_signed",
+          "summary": "🚨Another Investment!!\n🇸🇪Swedish Engineering Major Bulten Group through its Indian subsidiary PSM Fasteners India signs MoU to establish a new fastener"
+        },
+        {
+          "date": "2026-02-06",
+          "handle": "TRBRajaa",
+          "tweetId": "2019682017223536719",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2019682017223536719",
+          "eventType": "mou_signed",
+          "summary": "We don't just chill on our investment climate, we ensure it stays hot : ) 🔥\n\nTamil Nadu’s manufacturing ecosystem though, just got way more “cool” ! ❄"
+        }
+      ],
+      "accountsCovering": [
+        "TamilNaduInfra",
+        "anandmahindra",
+        "elonmusk",
+        "yazhini_pm",
+        "DMK_Updates",
+        "TRBRajaa",
+        "Guidance_TN",
+        "GunasekaranMu",
+        "CMOTamilnadu",
+        "ShereenBhan",
+        "TIDCO_1965",
+        "TNDIPRNEWS",
+        "TataMotors",
+        "Surya_BornToWin",
+        "UpdatesChennai",
+        "dstock_insights",
+        "roadoram",
+        "iamchsekar",
+        "DMK_Chennai",
+        "USISPForum",
+        "TNIndMin",
+        "dmuthuk",
+        "dharanisalem",
+        "TnInvestment",
+        "DMKITwing",
+        "mkstalin",
+        "Kalaignarnews"
+      ],
+      "tweetCount": 210
+    },
+    {
+      "entityId": "madurai-sipcot-industrial-park-madurai",
+      "name": "SIPCOT Industrial Park Madurai",
+      "nameVariants": [
+        "SIPCOT Industrial Park Villupuram",
+        "SIPCOT Industrial Park Tirunelveli",
+        "SIPCOT Industrial Park Chennai",
+        "SIPCOT Industrial Park த",
+        "SIPCOT Industrial Park Industrial Park",
+        "SIPCOT Industrial Park Pudukkottai",
+        "SIPCOT Industrial Park Ranipet",
+        "SIPCOT Industrial Park Industrial Parks",
+        "SIPCOT Industrial Park Krishnagiri",
+        "SIPCOT Industrial Park Hosur",
+        "SIPCOT Industrial Park Kallakurichi",
+        "SIPCOT Industrial Park Irungattukottai",
+        "SIPCOT Industrial Park Boundary",
+        "SIPCOT Industrial Park Kanyakumari",
+        "SIPCOT Industrial Park Thoothukudi",
+        "SIPCOT Industrial Park Theni",
+        "SIPCOT Industrial Park Vallam Vadagal",
+        "SIPCOT Industrial Park ப",
+        "SIPCOT Industrial Park எனக"
+      ],
+      "category": "industries",
+      "entityType": "SIPCOT Industrial Park",
+      "location": "Madurai",
+      "numbers": {
+        "investmentCrore": 30000.0
+      },
+      "timeline": {
+        "firstMention": "2024-08-01",
+        "lastMention": "2026-01-01"
+      },
+      "sources": [
+        {
+          "date": "2024-08-01",
+          "handle": "TheStartupTN",
+          "tweetId": "1819055890130989538",
+          "fxUrl": "https://fxtwitter.com/TheStartupTN/status/1819055890130989538",
+          "eventType": "other",
+          "summary": "SIPCOT has proposed to establish a state-of-the-art Industrial Innovation Centre, covering an area of 26,500 sq.ft, in Madurai at a cost of Rs.24 cror"
+        },
+        {
+          "date": "2024-08-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1826502789205291317",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1826502789205291317",
+          "eventType": "mou_signed",
+          "summary": "Welcome to Tamil Nadu, @DaburIndia! \n\nIn fact, welcome to South India! \n\nIn the presence of Honourable @CMOTamilNadu Thiru. @MKStalin avargal, @Guidan"
+        },
+        {
+          "date": "2024-08-22",
+          "handle": "Kalaignarnews",
+          "tweetId": "1826574012438266054",
+          "fxUrl": "https://fxtwitter.com/Kalaignarnews/status/1826574012438266054",
+          "eventType": "mou_signed",
+          "summary": "டாபர் நிறுவனம் புதிய உற்பத்தி ஆலையை ரூ. 400 கோடி முதலீட்டில், விழுப்புரம் மாவட்டம் திண்டிவனத்தில் உள்ள SIPCOT உணவுப் பூங்காவில் அமைக்க, டாபர் நிறுவனம்"
+        },
+        {
+          "date": "2024-09-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1836706175984804028",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1836706175984804028",
+          "eventType": "mou_signed",
+          "summary": "Wonderful to see more major companies making use of @TN_SIPCOT’s industrial housing facilities for their workforce ! \n\nToday an MoU was signed between"
+        },
+        {
+          "date": "2024-10-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1847682230954692881",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1847682230954692881",
+          "eventType": "progress_update",
+          "summary": "On the way to #Thoothukudi today, made a pitstop at #Madurai to hold crucial discussions with the District Collector and City Corporation Commissioner"
+        },
+        {
+          "date": "2024-10-31",
+          "handle": "TRBRajaa",
+          "tweetId": "1851899955675328905",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1851899955675328905",
+          "eventType": "production_start",
+          "summary": "One of the core pillars of the #MKStalinEra of #IndustrialGrowth in #TamilNadu is #DistributedGrowth, and the world is now seeing this vision unfold🌟\n"
+        },
+        {
+          "date": "2024-10-31",
+          "handle": "TRBRajaa",
+          "tweetId": "1851918789438509188",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1851918789438509188",
+          "eventType": "production_start",
+          "summary": "தமிழ்நாட்டில் #பரவலாகப்பட்ட_வளர்ச்சி யை உறுதி செய்வதை தனது மிக முக்கிய இலக்குகளில் ஒன்றாக கருதுகிறார் மாண்புமிகு #தமிழ்நாடு #முதலமைச்சர் நமது #திராவிட"
+        },
+        {
+          "date": "2024-11-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1854477278572683737",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1854477278572683737",
+          "eventType": "other",
+          "summary": "This is a legacy issue in what is called the \"Nallah Odai\" (yes Nallah also means Odai : ) ) which has very high TDS. It's a complex issue compounded "
+        },
+        {
+          "date": "2024-11-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1855068589533151360",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1855068589533151360",
+          "eventType": "inauguration",
+          "summary": "Yesterday we conducted yet another #BizBuddy Meeting at the #SIPCOT Industrial Park, this time in #Pudukkottai, in the presence of Honourable Law Mini"
+        },
+        {
+          "date": "2024-12-16",
+          "handle": "mkstalin",
+          "tweetId": "1868616635734741202",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1868616635734741202",
+          "eventType": "ground_breaking",
+          "summary": "Extremely happy to lay the foundation stone for Hong Fu’s non leather footwear unit at #SIPCOT Panappakkam in Ranipet district, with an investment of "
+        },
+        {
+          "date": "2024-12-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1869685224331948215",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1869685224331948215",
+          "eventType": "mou_signed",
+          "summary": "🎊Another FIRST from TN ! 🎊\n\nUnder the visionary leadership of Honourable @CMOTamilNadu Thiru. @MKStalin avargal, #TamilNadu continues to lead the way "
+        },
+        {
+          "date": "2024-12-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1870072460248289310",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1870072460248289310",
+          "eventType": "inauguration",
+          "summary": "In support of our HCM's #GreenTN vision we have launched yet another initiative to keep our #industrial growth #green and environment-friendly ! \n\nTod"
+        },
+        {
+          "date": "2025-02-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1893227157540704435",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1893227157540704435",
+          "eventType": "production_start",
+          "summary": "It was highly satisfying to see the rapid growth of the electronics sector in the Krishnagiri District, during my visit to SIPCOT parka in Hosur & Kri"
+        },
+        {
+          "date": "2025-02-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1893356816098017359",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1893356816098017359",
+          "eventType": "progress_update",
+          "summary": "With investments pouring into #Hosur, and #TamilNadu in general, our Honourable @CMOTamilNadu Thiru. @MKStalin avargal has directed us to scale up the"
+        },
+        {
+          "date": "2025-04-29",
+          "handle": "Guidance_TN",
+          "tweetId": "1917082137909727428",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1917082137909727428",
+          "eventType": "inauguration",
+          "summary": "A new chapter begins in #Kallakurichi District!\n\nWith an investment of INR 650 Crores, a new SIPCOT Industrial Park will soon rise in Chinnasalem Talu"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930180022888985030",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930180022888985030",
+          "eventType": "inauguration",
+          "summary": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930183827613462621",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930183827613462621",
+          "eventType": "inauguration",
+          "summary": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "TRBRajaa",
+          "tweetId": "1930184024858996904",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1930184024858996904",
+          "eventType": "mou_signed",
+          "summary": "Another leap forward for #TamilNadu’s industrial automation ambitions !\n\nHonourable @CMOTamilNadu Thiru. @MKStalin avargal, today, inaugurated the new"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930196151493337508",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930196151493337508",
+          "eventType": "inauguration",
+          "summary": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting"
+        },
+        {
+          "date": "2025-07-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1946055086532149351",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1946055086532149351",
+          "eventType": "other",
+          "summary": "#FakeNewsAlert.\n\nகும்மிடிப்பூண்டி பழைய டயர்கள் சேமிப்பு கிடங்கில் ஏற்பட்டுள்ள தீ விபத்து குறித்த செய்தியை சில செய்தி நிறுவனங்கள் தவறாக சிப்காட் பூங்கா"
+        },
+        {
+          "date": "2025-07-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1949087468957122912",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1949087468957122912",
+          "eventType": "other",
+          "summary": "While visiting South Tamil Nadu for a series of meetings and inspections,took an exciting pitstop at #Kanyakumari.\n\nWhile we are fast-tracking new ind"
+        },
+        {
+          "date": "2025-09-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1969300568830328908",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1969300568830328908",
+          "eventType": "mou_signed",
+          "summary": "MASSIVE NEWS for the Ship Building industry in TamilNadu 🌊🚢🛳️\n\nAt the TN Rising – Thoothukudi Conclave, the Honourable @CMOTamilnadu @mkstalin avargal"
+        },
+        {
+          "date": "2025-10-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1977660669903458465",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1977660669903458465",
+          "eventType": "mou_signed",
+          "summary": "Major new initiatives from @TN_SIPCOT launched by Honourable @CMOTamilNadu Thiru. @MKStalin avargal today ! \n\nIn a pioneering move, a first-of-its-kin"
+        },
+        {
+          "date": "2025-10-27",
+          "handle": "TnInvestment",
+          "tweetId": "1982685896030998769",
+          "fxUrl": "https://fxtwitter.com/TnInvestment/status/1982685896030998769",
+          "eventType": "expansion",
+          "summary": "Financial Tech provider #Intellect Design Arena is expanding its facility in #Chennai in #Siruseri \n\n- New facility to come up with investment of Rs 2"
+        },
+        {
+          "date": "2025-12-04",
+          "handle": "Guidance_TN",
+          "tweetId": "1996603535148962129",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1996603535148962129",
+          "eventType": "inauguration",
+          "summary": "Precision Meets Progress: Tsugami India Expands its Footprint in Tamil Nadu\n\nTamil Nadu continues to reinforce its position as India’s high-precision "
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1996859783899763035",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1996859783899763035",
+          "eventType": "mou_signed",
+          "summary": "#SIPCOT பிள்ளைப்பாக்கத்தில் உற்பத்தியைத் தொடங்கிய கார்னிங் கூட்டுநிறுவனமான BIG Tech: எவராலும் தடுக்க முடியாத தமிழ்நாட்டின் வளர்ச்சி!\n\nInaugurated BIG "
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1996862179174502576",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1996862179174502576",
+          "eventType": "mou_signed",
+          "summary": "#SIPCOT பிள்ளைப்பாக்கத்தில் உற்பத்தியைத் தொடங்கிய கார்னிங் கூட்டுநிறுவனமான BIG Tech: எவராலும் தடுக்க முடியாத தமிழ்நாட்டின் வளர்ச்சி!\n\nInaugurated BIG "
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1996862337178095715",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1996862337178095715",
+          "eventType": "mou_signed",
+          "summary": "#SIPCOT பிள்ளைப்பாக்கத்தில் உற்பத்தியைத் தொடங்கிய கார்னிங் கூட்டுநிறுவனமான BIG Tech: எவராலும் தடுக்க முடியாத தமிழ்நாட்டின் வளர்ச்சி!\n\nInaugurated BIG "
+        },
+        {
+          "date": "2025-12-26",
+          "handle": "mkstalin",
+          "tweetId": "2004439808719122528",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2004439808719122528",
+          "eventType": "mou_signed",
+          "summary": "Visited the upcoming High Glory Footwear facility by Pou Chen at SIPCOT Ulundurpet today.\n\n#PouChen is one of the world’s largest branded footwear man"
+        },
+        {
+          "date": "2025-12-26",
+          "handle": "mkstalin",
+          "tweetId": "2004440014412042716",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2004440014412042716",
+          "eventType": "mou_signed",
+          "summary": "Visited the upcoming High Glory Footwear facility by Pou Chen at SIPCOT Ulundurpet today.\n\n#PouChen is one of the world’s largest branded footwear man"
+        },
+        {
+          "date": "2025-12-26",
+          "handle": "mkstalin",
+          "tweetId": "2004443329560506620",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2004443329560506620",
+          "eventType": "mou_signed",
+          "summary": "Visited the upcoming High Glory Footwear facility by Pou Chen at SIPCOT Ulundurpet today.\n\n#PouChen is one of the world’s largest branded footwear man"
+        },
+        {
+          "date": "2025-12-26",
+          "handle": "mkstalin",
+          "tweetId": "2004482267629109754",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2004482267629109754",
+          "eventType": "other",
+          "summary": "#DravidianModel உருவாக்கிடும் வாய்ப்புகளால் வளர்ச்சிப் பாதையில் கள்ளக்குறிச்சி!\n\nபுதிய ஆட்சியர் அலுவலகம், புதிய பேருந்து நிலையங்கள், தரமுயரும் மருத்து"
+        },
+        {
+          "date": "2026-01-01",
+          "handle": "TRBRajaa",
+          "tweetId": "2006785353483694230",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2006785353483694230",
+          "eventType": "mou_signed",
+          "summary": "As we step into 2026, Team @TNIndMin reflected on the fact that 2025 was a year focused on conversions of MoUs into jobs and earlier pitches into new "
+        }
+      ],
+      "accountsCovering": [
+        "Kalaignarnews",
+        "TnInvestment",
+        "mkstalin",
+        "TRBRajaa",
+        "Guidance_TN",
+        "TheStartupTN"
+      ],
+      "tweetCount": 33
+    },
+    {
+      "entityId": "tidel-park-park",
+      "name": "TIDEL Park Park",
+      "nameVariants": [
+        "TIDEL Park Salem",
+        "TIDEL Park",
+        "TIDEL Park ப"
+      ],
+      "category": "industries",
+      "entityType": "TIDEL Park",
+      "location": "Salem",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-10",
+        "lastMention": "2026-01-31"
+      },
+      "sources": [
+        {
+          "date": "2024-07-10",
+          "handle": "drtharun",
+          "tweetId": "1810941649138372817",
+          "fxUrl": "https://fxtwitter.com/drtharun/status/1810941649138372817",
+          "eventType": "other",
+          "summary": "தலைநகரோ... கடைக்கோடியோ...\n\nதமிழ்நாட்டின் வளர்ச்சியை முன்னெடுத்து செல்லும் மாண்புமிகு தமிழ்நாடு முதலமைச்சர் கழகத் தலைவர் அவர்களின் தலைமையிலான திராவிட ம"
+        },
+        {
+          "date": "2024-09-23",
+          "handle": "TRBRajaa",
+          "tweetId": "1838040368174035103",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1838040368174035103",
+          "eventType": "inauguration",
+          "summary": "Another Big day for our Honourable Chief Minister's focus on #DistributedGrowth in #TamilNadu , especially #Thanjavur and #Salem! 🚀\n\nDeepest gratitude"
+        },
+        {
+          "date": "2024-09-23",
+          "handle": "sunnewstamil",
+          "tweetId": "1838252003786400242",
+          "fxUrl": "https://fxtwitter.com/sunnewstamil/status/1838252003786400242",
+          "eventType": "other",
+          "summary": "#WATCH | \"வெளியூரில் பெண்களை வேலைக்கு அனுப்ப நிறைய பேர் யோசிப்பாங்க.. இப்ப சேலத்துலயே TIDEL பார்க் வந்ததால பெண்களுக்கு ரொம்ப உதவியா இருக்கும்\"\n\nசேலம் "
+        },
+        {
+          "date": "2024-12-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1873364545550365085",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1873364545550365085",
+          "eventType": "inauguration",
+          "summary": "One more in the bag for #ThoothukudiRising! 🚀\n\nToday, Honourable @CMOTamilNadu Thiru. @MKStalin inaugurated yet another facility which illustrates his"
+        },
+        {
+          "date": "2025-08-01",
+          "handle": "mkstalin",
+          "tweetId": "1951241453046473146",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1951241453046473146",
+          "eventType": "mou_signed",
+          "summary": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n\n🌆 திருவண்ணாமலையில் IT வல்லுநர்களுக்கு 600 புதிய வேலைவாய்ப்புகளை உருவாக்கும் வகையில் 'Mini #TIDEL Park' அமைக்க அடிக்கல"
+        },
+        {
+          "date": "2025-08-01",
+          "handle": "mkstalin",
+          "tweetId": "1951285137238340072",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1951285137238340072",
+          "eventType": "mou_signed",
+          "summary": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n\n🌆 திருவண்ணாமலையில் IT வல்லுநர்களுக்கு 600 புதிய வேலைவாய்ப்புகளை உருவாக்கும் வகையில் 'Mini #TIDEL Park' அமைக்க அடிக்கல"
+        },
+        {
+          "date": "2025-08-01",
+          "handle": "mkstalin",
+          "tweetId": "1951308061173338175",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1951308061173338175",
+          "eventType": "mou_signed",
+          "summary": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n\n🌆 திருவண்ணாமலையில் IT வல்லுநர்களுக்கு 600 புதிய வேலைவாய்ப்புகளை உருவாக்கும் வகையில் 'Mini #TIDEL Park' அமைக்க அடிக்கல"
+        },
+        {
+          "date": "2025-11-10",
+          "handle": "mkstalin",
+          "tweetId": "1987800691298246835",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1987800691298246835",
+          "eventType": "other",
+          "summary": "Neo #TIDEL பூங்கா, கந்தர்வகோட்டை பேரூராட்சியாகவும், பொன்னமரவாதி நகராட்சியாகவும் தரம் உயர்த்தப்படும் உள்ளிட்ட ஆறு புதிய அறிவிப்புகளுடன், 766 கோடி ரூபாய"
+        },
+        {
+          "date": "2025-11-10",
+          "handle": "mkstalin",
+          "tweetId": "1987867503230689554",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1987867503230689554",
+          "eventType": "other",
+          "summary": "Neo #TIDEL பூங்கா, கந்தர்வகோட்டை பேரூராட்சியாகவும், பொன்னமரவாதி நகராட்சியாகவும் தரம் உயர்த்தப்படும் உள்ளிட்ட ஆறு புதிய அறிவிப்புகளுடன், 766 கோடி ரூபாய"
+        },
+        {
+          "date": "2026-01-31",
+          "handle": "mkstalin",
+          "tweetId": "2017504842441470067",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2017504842441470067",
+          "eventType": "ground_breaking",
+          "summary": "சீர்மிகு திட்டங்களால் நிறைந்த சிவகங்கை மாவட்ட அரசு விழா\n\n100.45 கோடி ரூபாய் செலவில் காரைக்குடி அரசு சட்டக் கல்லூரி வளாகக் கட்டடம்,\n\n61.79 கோடி ரூபாயில"
+        },
+        {
+          "date": "2026-01-31",
+          "handle": "mkstalin",
+          "tweetId": "2017547299598279001",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2017547299598279001",
+          "eventType": "ground_breaking",
+          "summary": "சீர்மிகு திட்டங்களால் நிறைந்த சிவகங்கை மாவட்ட அரசு விழா\n\n100.45 கோடி ரூபாய் செலவில் காரைக்குடி அரசு சட்டக் கல்லூரி வளாகக் கட்டடம்,\n\n61.79 கோடி ரூபாயில"
+        }
+      ],
+      "accountsCovering": [
+        "sunnewstamil",
+        "TRBRajaa",
+        "drtharun",
+        "mkstalin"
+      ],
+      "tweetCount": 11
+    },
+    {
+      "entityId": "educational-institution",
+      "name": "Educational Institution",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "Educational Institution",
+      "location": "Coimbatore",
+      "numbers": {
+        "investmentCrore": 400.0
+      },
+      "timeline": {
+        "firstMention": "2024-07-22",
+        "lastMention": "2025-08-26"
+      },
+      "sources": [
+        {
+          "date": "2024-07-22",
+          "handle": "TheStartupTN",
+          "tweetId": "1815342022041202821",
+          "fxUrl": "https://fxtwitter.com/TheStartupTN/status/1815342022041202821",
+          "eventType": "production_start",
+          "summary": "🎉 Congratulations to CeraTattva InnoTech! 🎉\n\nWe are happy to learn that CeraTattva, a pioneering material science startup in the polymers and ceramics"
+        },
+        {
+          "date": "2024-08-21",
+          "handle": "HereWorks",
+          "tweetId": "1826222385936396549",
+          "fxUrl": "https://fxtwitter.com/HereWorks/status/1826222385936396549",
+          "eventType": "ground_breaking",
+          "summary": "Tamil Nadu's TIDCO and Tata have teamed up once more, echoing their previous success with TITAN. Chief Minister MK Stalin today laid foundation stone "
+        },
+        {
+          "date": "2025-01-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1879512507288875053",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1879512507288875053",
+          "eventType": "mou_signed",
+          "summary": "The Honourable CM loved the BE 6 & the XEV 9e and was proud that such high end products are being Designed Developed and Tested right here in #TamilNa"
+        },
+        {
+          "date": "2025-08-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1957382791198634291",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1957382791198634291",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu’s Semiconductor efforts will continue, come what may ! \n\nAs part of the Rs. 500-crore Tamil Nadu Semiconductor Mission 2030, we have sancti"
+        },
+        {
+          "date": "2025-08-22",
+          "handle": "EconomicTimes",
+          "tweetId": "1959151224910954589",
+          "fxUrl": "https://fxtwitter.com/EconomicTimes/status/1959151224910954589",
+          "eventType": "beneficiary_update",
+          "summary": "#podcast\nIn the latest episode of The Morning Brief's limited series South Capital, Tamil Nadu's minister for industries, investment promotion and com"
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "Udhaystalin",
+          "tweetId": "1960215493236732167",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1960215493236732167",
+          "eventType": "scheme_launch",
+          "summary": "Under the guidance of our Honourable Chief Minister Thiru @mkstalin Avargal, I had the privilege of welcoming the Honourable Chief Minister of Punjab "
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin",
+        "HereWorks",
+        "TRBRajaa",
+        "TheStartupTN",
+        "EconomicTimes"
+      ],
+      "tweetCount": 6
+    },
+    {
+      "entityId": "housing-hostel",
+      "name": "Housing/Hostel",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "Housing/Hostel",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-25",
+        "lastMention": "2025-02-03"
+      },
+      "sources": [
+        {
+          "date": "2024-07-25",
+          "handle": "mkstalin",
+          "tweetId": "1816385733994889538",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1816385733994889538",
+          "eventType": "mou_signed",
+          "summary": "Delighted to host H.E. Abdulla bin Touq Al Marri, Minister of @EconomyAE, today at the Secretariat. \n\nHe is a great friend and well-wisher of Tamil Na"
+        },
+        {
+          "date": "2024-07-25",
+          "handle": "mkstalin",
+          "tweetId": "1816386518493077786",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1816386518493077786",
+          "eventType": "mou_signed",
+          "summary": "Delighted to host H.E. Abdulla bin Touq Al Marri, Minister of @EconomyAE, today at the Secretariat. \n\nHe is a great friend and well-wisher of Tamil Na"
+        },
+        {
+          "date": "2024-07-25",
+          "handle": "mkstalin",
+          "tweetId": "1816404933211537459",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1816404933211537459",
+          "eventType": "mou_signed",
+          "summary": "Delighted to host H.E. Abdulla bin Touq Al Marri, Minister of @EconomyAE, today at the Secretariat. \n\nHe is a great friend and well-wisher of Tamil Na"
+        },
+        {
+          "date": "2024-08-16",
+          "handle": "TNIndMin",
+          "tweetId": "1824439602607689789",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1824439602607689789",
+          "eventType": "inauguration",
+          "summary": "Snapshots of the new Industrial Housing facility at Vallam Vadagal, the first of its kind in India, being inaugurated by Honourable @CMOTamilNadu Thir"
+        },
+        {
+          "date": "2024-12-16",
+          "handle": "DMKITwing",
+          "tweetId": "1868593996077138198",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1868593996077138198",
+          "eventType": "progress_update",
+          "summary": "Tamil Nadu leads the way in social infrastructure!\n\nHon'ble @CMOTamilnadu Thiru. @mkstalin's #DravidianModel government is pioneering and setting an e"
+        },
+        {
+          "date": "2025-02-03",
+          "handle": "TNIndMin",
+          "tweetId": "1886624717529841967",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1886624717529841967",
+          "eventType": "other",
+          "summary": "“Homes to keep workers happy” \n\nVia @timesofindia \n\n“Rapid industrialisation all over Tamil Nadu has pushed up demand for housing and other facilities"
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin",
+        "DMKITwing",
+        "mkstalin"
+      ],
+      "tweetCount": 6
+    },
+    {
+      "entityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "Welfare Scheme",
+      "location": "Thoothukudi",
+      "numbers": {
+        "investmentCrore": 1.8
+      },
+      "timeline": {
+        "firstMention": "2024-10-07",
+        "lastMention": "2026-01-29"
+      },
+      "sources": [
+        {
+          "date": "2024-10-07",
+          "handle": "mkstalin",
+          "tweetId": "1843239808652439901",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1843239808652439901",
+          "eventType": "scheme_launch",
+          "summary": "Delighted to announce that #MakkalaiThediMaruthuvam, our #DravidianModel Government's pioneering healthcare scheme for the Indian subcontinent, has ea"
+        },
+        {
+          "date": "2024-11-13",
+          "handle": "skpkaruna",
+          "tweetId": "1856587960793075924",
+          "fxUrl": "https://fxtwitter.com/skpkaruna/status/1856587960793075924",
+          "eventType": "scheme_launch",
+          "summary": "#NaanMudhalvan is \"The Best Scheme\" started by this #DravidianModel Government. Real empowerment to the Rural Students. Greatest investment and Perfec"
+        },
+        {
+          "date": "2025-04-30",
+          "handle": "ndtv",
+          "tweetId": "1917548011011596433",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/1917548011011596433",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu Government launches electronics scheme to draw investments \n\n@jsamdaniel speaks to Tamil Nadu Industries Minister TRB Rajaa (@TRBRajaa)"
+        },
+        {
+          "date": "2026-01-29",
+          "handle": "Guidance_TN",
+          "tweetId": "2016948867921756174",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2016948867921756174",
+          "eventType": "scheme_launch",
+          "summary": "A major step forward for Tamil Nadu’s shipbuilding vision.\n\nChristo Laurel and Prabakaran Andi Saravanan from Guidance Tamil Nadu engaged with the Dir"
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN",
+        "mkstalin",
+        "skpkaruna",
+        "ndtv"
+      ],
+      "tweetCount": 4
+    },
+    {
+      "entityId": "energy-storage",
+      "name": "Energy Storage",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "Energy Storage",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-21",
+        "lastMention": "2025-09-06"
+      },
+      "sources": [
+        {
+          "date": "2024-08-21",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1826184462742524107",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1826184462742524107",
+          "eventType": "mou_signed",
+          "summary": "தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் சென்னையில் நடைபெற்ற  நிகழ்ச்சியில், இந்தியாவின் முன்னணி புதுப்பிக்கத்தக்க எரிசக்தி நிறுவ"
+        },
+        {
+          "date": "2024-08-21",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1826232325543498117",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1826232325543498117",
+          "eventType": "mou_signed",
+          "summary": "தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் சென்னையில் நடைபெற்ற  நிகழ்ச்சியில், இந்தியாவின் முன்னணி புதுப்பிக்கத்தக்க எரிசக்தி நிறுவ"
+        },
+        {
+          "date": "2025-09-06",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1964239390588489926",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1964239390588489926",
+          "eventType": "mou_signed",
+          "summary": "மாண்புமிகு முதலமைச்சர் @mkstalin அவர்கள் முன்னிலையில், இலண்டன் நகரில், இங்கிலாந்தை தலைமையிடமாகக் கொண்ட இந்துஜா குழுமம், மின்சார வாகனங்களுக்கான செல் மற"
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "tweetCount": 3
+    },
+    {
+      "entityId": "sipcot-industrial-park-industrial-housing",
+      "name": "SIPCOT Industrial Park Industrial Housing Facility In Thiruperumpudur",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "SIPCOT Industrial Park",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-17",
+        "lastMention": "2024-08-17"
+      },
+      "sources": [
+        {
+          "date": "2024-08-17",
+          "handle": "mkstalin",
+          "tweetId": "1824836896444526742",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1824836896444526742",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu is the No. 1 state in India, with 42% of the nation’s total working women.\n\nFor the first time in India, we have constructed and inaugurate"
+        },
+        {
+          "date": "2024-08-17",
+          "handle": "mkstalin",
+          "tweetId": "1824849555210608726",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1824849555210608726",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu is the No. 1 state in India, with 42% of the nation’s total working women.\n\nFor the first time in India, we have constructed and inaugurate"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "thanjavur-tidel-park-thanjavur",
+      "name": "TIDEL Park Thanjavur",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "TIDEL Park",
+      "location": "Thanjavur",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-25",
+        "lastMention": "2024-10-17"
+      },
+      "sources": [
+        {
+          "date": "2024-09-25",
+          "handle": "park_tidel",
+          "tweetId": "1839008522023088148",
+          "fxUrl": "https://fxtwitter.com/park_tidel/status/1839008522023088148",
+          "eventType": "inauguration",
+          "summary": "Mr. Hamsavarthan, CEO of Hamly Business Solutions, expresses his heartfelt gratitude for being part of the historic inauguration of TIDEL Neo Thanjavu"
+        },
+        {
+          "date": "2024-10-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1846844032283992268",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1846844032283992268",
+          "eventType": "inauguration",
+          "summary": "It was my pleasure to inaugurate Hamly Business Solutions at the newly established #NeoTIDEL Park in #Thanjavur today! As a #Deltakaaran myself this w"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "park_tidel"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "chennai-metro",
+      "name": "Chennai Metro",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "Chennai Metro",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-05",
+        "lastMention": "2024-10-05"
+      },
+      "sources": [
+        {
+          "date": "2024-10-05",
+          "handle": "SuriyaKML",
+          "tweetId": "1842565465710932002",
+          "fxUrl": "https://fxtwitter.com/SuriyaKML/status/1842565465710932002",
+          "eventType": "other",
+          "summary": "இப்படி ஒரு மோசடியை எங்காவது பார்த்தது உண்டா ?\n\nசென்னை மெட்ரோ - 2 திட்டத்திற்கு மூன்று ஆண்டு கால தொடர் போராட்டத்திற்கு பிறகு, 03/10/2024 அன்று ஒன்றிய அ"
+        },
+        {
+          "date": "2024-10-05",
+          "handle": "SuriyaKML",
+          "tweetId": "1842602784040124832",
+          "fxUrl": "https://fxtwitter.com/SuriyaKML/status/1842602784040124832",
+          "eventType": "other",
+          "summary": "இப்படி ஒரு மோசடியை எங்காவது பார்த்தது உண்டா ?\n\nசென்னை மெட்ரோ - 2 திட்டத்திற்கு மூன்று ஆண்டு கால தொடர் போராட்டத்திற்கு பிறகு, 03/10/2024 அன்று ஒன்றிய அ"
+        }
+      ],
+      "accountsCovering": [
+        "SuriyaKML"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "chennai-tidel-park-chennai",
+      "name": "TIDEL Park Chennai",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "TIDEL Park",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 2938.0
+      },
+      "timeline": {
+        "firstMention": "2025-03-14",
+        "lastMention": "2025-11-05"
+      },
+      "sources": [
+        {
+          "date": "2025-03-14",
+          "handle": "TRBRajaa",
+          "tweetId": "1900475967753339389",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1900475967753339389",
+          "eventType": "mou_signed",
+          "summary": "🎊 MASSIVE #TNBudget2025 for Industries⚙️ in TamilNadu 🎊\n\nBIG Thanks to our Honourable @CMOTamilNadu Thiru. @MKStalin avargal and Finance Minister anna"
+        },
+        {
+          "date": "2025-11-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1986117522303946892",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1986117522303946892",
+          "eventType": "ground_breaking",
+          "summary": "Tamil Nadu’s #TIDELNeo revolution continues - SIX up and running, many more to go ! \n\nToday Honourable @CMOTamilNadu Thiru. @MKStalin inaugurated TIDE"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "sipcot-industrial-park-siruseri-with",
+      "name": "SIPCOT Industrial Park Siruseri With An Investment Of ",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "SIPCOT Industrial Park",
+      "location": null,
+      "numbers": {
+        "investmentCrore": 1882.0
+      },
+      "timeline": {
+        "firstMention": "2025-04-17",
+        "lastMention": "2025-04-17"
+      },
+      "sources": [
+        {
+          "date": "2025-04-17",
+          "handle": "mkstalin",
+          "tweetId": "1912804401074385003",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1912804401074385003",
+          "eventType": "ground_breaking",
+          "summary": "Tamil Nadu powers India’s digital surge.\n\nInaugurated @SifyTech’s cutting-edge, 'AI-ready', Platinum-rated Green Data Centre at SIPCOT Siruseri with a"
+        },
+        {
+          "date": "2025-04-17",
+          "handle": "mkstalin",
+          "tweetId": "1912886468869325136",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1912886468869325136",
+          "eventType": "ground_breaking",
+          "summary": "Tamil Nadu powers India’s digital surge.\n\nInaugurated @SifyTech’s cutting-edge, 'AI-ready', Platinum-rated Green Data Centre at SIPCOT Siruseri with a"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "sipcot-industrial-park-thenkasi-district",
+      "name": "SIPCOT Industrial Park In Thenkasi District Near Sankarankovil",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "SIPCOT Industrial Park",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-26",
+        "lastMention": "2025-07-26"
+      },
+      "sources": [
+        {
+          "date": "2025-07-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1949028599165780267",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1949028599165780267",
+          "eventType": "other",
+          "summary": "Visited the proposed site for the FIRST EVER #SIPCOT in Thenkasi district near Sankarankovil, yesterday along with the Collector and our District Secr"
+        },
+        {
+          "date": "2025-07-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1949028850194939921",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1949028850194939921",
+          "eventType": "other",
+          "summary": "Visited the proposed site for the FIRST EVER #SIPCOT in Thenkasi district near Sankarankovil, yesterday along with the Collector and our District Secr"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "virudhunagar-5-mld-stp",
+      "name": "5 Mld STP",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "STP",
+      "location": "Virudhunagar",
+      "numbers": {
+        "investmentCrore": 1894.0
+      },
+      "timeline": {
+        "firstMention": "2025-07-01",
+        "lastMention": "2025-07-01"
+      },
+      "sources": [
+        {
+          "date": "2025-07-01",
+          "handle": "TRBRajaa",
+          "tweetId": "1939931785351024964",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1939931785351024964",
+          "eventType": "milestone",
+          "summary": "🚨 Big boost for Tamil Nadu’s #textile sector !\n\nAfter continuous talks between #TeamTN led by our Honourable @CMOTamilNdu Thiru. @MKStalin avargal and"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "tweetCount": 1
+    },
+    {
+      "entityId": "sipcot-industrial-park-allikulam-industrial",
+      "name": "SIPCOT Industrial Park Allikulam Industrial Park ",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "SIPCOT Industrial Park",
+      "location": null,
+      "numbers": {
+        "investmentCrore": 1156.0
+      },
+      "timeline": {
+        "firstMention": "2025-09-24",
+        "lastMention": "2025-09-24"
+      },
+      "sources": [
+        {
+          "date": "2025-09-24",
+          "handle": "TRBRajaa",
+          "tweetId": "1970696304302137847",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1970696304302137847",
+          "eventType": "production_start",
+          "summary": "FLASH🚨\n\nAnother FMCG major chooses Tamil Nadu !\n\nReliance Consumer Products Limited has chosen Tamil Nadu for its next big unit. The company will inve"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "tweetCount": 1
+    },
+    {
+      "entityId": "see-design-upcoming-rs-100",
+      "name": "See The Design Of Upcoming Rs 100 Crore Double Decker Flyover",
+      "nameVariants": [],
+      "category": "industries",
+      "entityType": "Flyover",
+      "location": null,
+      "numbers": {
+        "investmentCrore": 100.0
+      },
+      "timeline": {
+        "firstMention": "2026-01-26",
+        "lastMention": "2026-01-26"
+      },
+      "sources": [
+        {
+          "date": "2026-01-26",
+          "handle": "IndianGems_",
+          "tweetId": "2016006352800514288",
+          "fxUrl": "https://fxtwitter.com/IndianGems_/status/2016006352800514288",
+          "eventType": "other",
+          "summary": "See the design of upcoming Rs 100 crore double decker flyover in Mumbai\n\n4 lane suddenly narrows into just 2 lanes. Just imagine the ride in night\n\nEn"
+        }
+      ],
+      "accountsCovering": [
+        "IndianGems_"
+      ],
+      "tweetCount": 1
+    }
+  ]
+}

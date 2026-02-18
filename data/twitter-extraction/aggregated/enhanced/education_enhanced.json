@@ -1,0 +1,847 @@
+{
+  "category": "education",
+  "aggregatedAt": "2026-02-17T18:24:49.259548+00:00",
+  "stats": {
+    "entries": 1073,
+    "entities": 5
+  },
+  "entities": [
+    {
+      "entityId": "educational-institution",
+      "name": "Educational Institution",
+      "nameVariants": [],
+      "category": "education",
+      "entityType": "Educational Institution",
+      "location": "Virudhunagar",
+      "numbers": {
+        "investmentCrore": 225.0
+      },
+      "timeline": {
+        "firstMention": "2023-04-10",
+        "lastMention": "2026-02-07"
+      },
+      "sources": [
+        {
+          "date": "2023-04-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1932461713850535952",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1932461713850535952",
+          "eventType": "scheme_launch",
+          "summary": "500 Crores\n30,122 Schools\n18,00,000 Students !!!\n\nOne Revolutionary Scheme to eradicate malnutrition while improving attendance & attentiveness.\n\n#CMB"
+        },
+        {
+          "date": "2024-06-07",
+          "handle": "mkstalin",
+          "tweetId": "1798971659711582628",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1798971659711582628",
+          "eventType": "other",
+          "summary": "Trends emerging from the latest #NEET results have once again vindicated our principled opposition to the exam. \n\nIssues such as question paper leaks,"
+        },
+        {
+          "date": "2024-06-07",
+          "handle": "mkstalin",
+          "tweetId": "1798972355571753362",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1798972355571753362",
+          "eventType": "other",
+          "summary": "Trends emerging from the latest #NEET results have once again vindicated our principled opposition to the exam. \n\nIssues such as question paper leaks,"
+        },
+        {
+          "date": "2024-06-16",
+          "handle": "mkstalin",
+          "tweetId": "1802227522941370588",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1802227522941370588",
+          "eventType": "other",
+          "summary": "The ongoing controversies around #NEET highlight its fundamentally inequitable nature. In a society where education has been denied for thousands of y"
+        },
+        {
+          "date": "2024-06-16",
+          "handle": "mkstalin",
+          "tweetId": "1802228150644121780",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1802228150644121780",
+          "eventType": "other",
+          "summary": "The ongoing controversies around #NEET highlight its fundamentally inequitable nature. In a society where education has been denied for thousands of y"
+        },
+        {
+          "date": "2024-06-16",
+          "handle": "mkstalin",
+          "tweetId": "1802230025787248718",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1802230025787248718",
+          "eventType": "other",
+          "summary": "The ongoing controversies around #NEET highlight its fundamentally inequitable nature. In a society where education has been denied for thousands of y"
+        },
+        {
+          "date": "2024-06-23",
+          "handle": "mkstalin",
+          "tweetId": "1804732042305053145",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1804732042305053145",
+          "eventType": "other",
+          "summary": "The cancellation of NEET-PG by NBE, following the cancellation of UGC-NET, has thrown thousands of our doctors into deep despair. Let us not forget th"
+        },
+        {
+          "date": "2024-06-23",
+          "handle": "mkstalin",
+          "tweetId": "1804740270732484759",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1804740270732484759",
+          "eventType": "other",
+          "summary": "The cancellation of NEET-PG by NBE, following the cancellation of UGC-NET, has thrown thousands of our doctors into deep despair. Let us not forget th"
+        },
+        {
+          "date": "2024-06-23",
+          "handle": "mkstalin",
+          "tweetId": "1804744529469440381",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1804744529469440381",
+          "eventType": "other",
+          "summary": "The cancellation of NEET-PG by NBE, following the cancellation of UGC-NET, has thrown thousands of our doctors into deep despair. Let us not forget th"
+        },
+        {
+          "date": "2024-07-02",
+          "handle": "Advaidism",
+          "tweetId": "1808109005027365281",
+          "fxUrl": "https://fxtwitter.com/Advaidism/status/1808109005027365281",
+          "eventType": "other",
+          "summary": "His NAME is Dixit Patel, chairman of Jay Jalaram School in Gujarat. Arrested by CBI in NEET case."
+        },
+        {
+          "date": "2024-07-11",
+          "handle": "karthickselvaa",
+          "tweetId": "1811216555902148974",
+          "fxUrl": "https://fxtwitter.com/karthickselvaa/status/1811216555902148974",
+          "eventType": "other",
+          "summary": "Tamil Nadu :  Auto driver’s son who studied in an Adidravidar welfare school in Virudhunagar district, cracks JEE, seals spot in IIT-Madras………        "
+        },
+        {
+          "date": "2024-07-15",
+          "handle": "SSivanDMK",
+          "tweetId": "1812951046094004697",
+          "fxUrl": "https://fxtwitter.com/SSivanDMK/status/1812951046094004697",
+          "eventType": "scheme_launch",
+          "summary": "Amazing stats on the TN Breakfast Scheme! 🤩\n\n- 1.14 lakh students benefited\n- 2,424 schools covered\n- 5 nutritious menu options\n- 225 crore budget all"
+        },
+        {
+          "date": "2024-07-19",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1814204254254776520",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1814204254254776520",
+          "eventType": "other",
+          "summary": "2023-2024ஆம் கல்வியாண்டில் ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலப் பள்ளிகளில் பயின்று, நாட்டின் தலைசிறந்த உயர் கல்வி நிறுவனங்களான சென்னை IIT, திருச்சி"
+        },
+        {
+          "date": "2024-08-02",
+          "handle": "kuyil_mozhi",
+          "tweetId": "1819278133918376168",
+          "fxUrl": "https://fxtwitter.com/kuyil_mozhi/status/1819278133918376168",
+          "eventType": "other",
+          "summary": "447 students from Tamil Nadu Government schools have been selected to study in premier institutions in India, Malaysia and Taiwan. Every possible trai"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "TRBRajaa",
+          "tweetId": "1841697367491239937",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1841697367491239937",
+          "eventType": "other",
+          "summary": "While the union govt in India moves towards more pressure on our school children making their school life even more stressful by introducing policies "
+        },
+        {
+          "date": "2024-10-24",
+          "handle": "dharanisalem",
+          "tweetId": "1849417804669239432",
+          "fxUrl": "https://fxtwitter.com/dharanisalem/status/1849417804669239432",
+          "eventType": "other",
+          "summary": "54 govt school teachers land in Paris France to learn innovative teaching methods. \n\n#DravidianModel serving as a model for rest of india to emulate f"
+        },
+        {
+          "date": "2024-11-14",
+          "handle": "DrNikitaMehra",
+          "tweetId": "1857106896274002126",
+          "fxUrl": "https://fxtwitter.com/DrNikitaMehra/status/1857106896274002126",
+          "eventType": "inauguration",
+          "summary": "“Announcement was made by the Hon’ble @CMOTamilnadu on 07.05.22 under Rule 110 that Breakfast will be provided to primary school children from 1st to "
+        },
+        {
+          "date": "2024-12-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1870377836194009513",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1870377836194009513",
+          "eventType": "milestone",
+          "summary": "It was an absolute honour to participate in the 80th Anniversary celebrations of AC Tech College, Anna University. This illustrious institution, found"
+        },
+        {
+          "date": "2024-12-22",
+          "handle": "jaya2016maha",
+          "tweetId": "1870893117051982331",
+          "fxUrl": "https://fxtwitter.com/jaya2016maha/status/1870893117051982331",
+          "eventType": "other",
+          "summary": "'Paper-ஐ பிரிக்க பிரிக்க Twist'.. மிரளவிட்ட Govt School 'வைரங்கள்'.. வியக்க வைக்கும் Video"
+        },
+        {
+          "date": "2025-01-02",
+          "handle": "VigneshAnand_Vm",
+          "tweetId": "1874818691789201835",
+          "fxUrl": "https://fxtwitter.com/VigneshAnand_Vm/status/1874818691789201835",
+          "eventType": "expansion",
+          "summary": "Education minister @Anbil_Mahesh condemned media outlets that released fake news and twisted information about the CSR activity for building infrastru"
+        },
+        {
+          "date": "2025-01-08",
+          "handle": "selvachidambara",
+          "tweetId": "1877191525215383963",
+          "fxUrl": "https://fxtwitter.com/selvachidambara/status/1877191525215383963",
+          "eventType": "mou_signed",
+          "summary": "I reached school at 8:00 am today. I monitored the breakfast being prepared for the students at school and then I ate it myself. Today was Pongal Samb"
+        },
+        {
+          "date": "2025-01-08",
+          "handle": "AseerAchary",
+          "tweetId": "1877191622980485252",
+          "fxUrl": "https://fxtwitter.com/AseerAchary/status/1877191622980485252",
+          "eventType": "scheme_launch",
+          "summary": "This is great. During our time of schooling, we did not have morning breakfast scheme. I recall now, many a mornings, I have gone to my school (RC Hig"
+        },
+        {
+          "date": "2025-01-27",
+          "handle": "DMKITwing",
+          "tweetId": "1883832435861057719",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1883832435861057719",
+          "eventType": "other",
+          "summary": "மாணவர்களே, நாம் படித்து வாங்கும் பட்டங்கள் செல்லாமல் போகலாம்..தெரியுமா?\n\nஒரு நிமிடம் ஒதுக்கி இதனைப் படியுங்கள்..\n\nஇனி UGC வழியாக..\n\n👉கல்விக்கு தொடர்பி"
+        },
+        {
+          "date": "2025-02-28",
+          "handle": "mkstalin",
+          "tweetId": "1895373776835289359",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1895373776835289359",
+          "eventType": "progress_update",
+          "summary": "BJP leaders advocating Hindi insist, “You must know Hindi to buy tea, pani puri, or use toilets in North India.”\n\nIn the Age of AI, forcing any langua"
+        },
+        {
+          "date": "2025-03-22",
+          "handle": "INCKerala",
+          "tweetId": "1904005966414389570",
+          "fxUrl": "https://fxtwitter.com/INCKerala/status/1904005966414389570",
+          "eventType": "other",
+          "summary": "Preaching equality among unequals is the worst form of discrimination. A child trekking the hills of Manipur to go to school and a child with educated"
+        },
+        {
+          "date": "2025-04-09",
+          "handle": "dstock_insights",
+          "tweetId": "1910258293529858454",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1910258293529858454",
+          "eventType": "other",
+          "summary": "Government School product 🤗\n\n[design_with_elak]"
+        },
+        {
+          "date": "2025-04-18",
+          "handle": "minicnair",
+          "tweetId": "1913103535404957878",
+          "fxUrl": "https://fxtwitter.com/minicnair/status/1913103535404957878",
+          "eventType": "other",
+          "summary": "This is why Kerala and Tamil Nadu have been protesting against NEP since 2021\n\nHindi made mandatory in marathi medium schools!!"
+        },
+        {
+          "date": "2025-04-29",
+          "handle": "TamilnaduStats",
+          "tweetId": "1917438946042143049",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/1917438946042143049",
+          "eventType": "other",
+          "summary": "🚽 Toilets in schools aren’t a luxury. They’re a right.\n\nYet in #TamilNadu - A state that prides itself on education 📚 but the recent #UDISE+ data is d"
+        },
+        {
+          "date": "2025-05-06",
+          "handle": "DMKITwing",
+          "tweetId": "1920139604889677908",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1920139604889677908",
+          "eventType": "other",
+          "summary": "Fund schools, not propaganda!\n\nActor-Activist Thiru. @prakashraaj slams forced #HindiImposition by the #BJP, exposing how the flawed #ThreeLanguagePol"
+        },
+        {
+          "date": "2025-05-14",
+          "handle": "TamilnaduStats",
+          "tweetId": "1922631177065656800",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/1922631177065656800",
+          "eventType": "milestone",
+          "summary": "🚀 SLAS 2025: Mapping Student Performance in #TamilNadu! 📊\n\nThe State Level Achievement Survey (SLAS) 2025, conducted by the State Planning Commission "
+        },
+        {
+          "date": "2025-05-16",
+          "handle": "TamilnaduStats",
+          "tweetId": "1923346405520740438",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/1923346405520740438",
+          "eventType": "milestone",
+          "summary": "🌟✨ #TamilNadu SSLC Results 2025 – Record-Breaking Performance! 🚀\n\n📊 Total Students Appeared: 8,71,239 📝\n🎓 Total Passed: 8,17,261 (93.80%) 🚀\n\n👧 Girl St"
+        },
+        {
+          "date": "2025-05-20",
+          "handle": "mkstalin",
+          "tweetId": "1924843025752326557",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1924843025752326557",
+          "eventType": "other",
+          "summary": "Had a momentous meeting with ISRO’s Chairperson, Dr. V. Narayanan.\n\nFrom a Tamil Nadu government school to the top of India's space agency, a journey "
+        },
+        {
+          "date": "2025-05-20",
+          "handle": "mkstalin",
+          "tweetId": "1924849864162345031",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1924849864162345031",
+          "eventType": "other",
+          "summary": "Had a momentous meeting with ISRO’s Chairperson, Dr. V. Narayanan.\n\nFrom a Tamil Nadu government school to the top of India's space agency, a journey "
+        },
+        {
+          "date": "2025-05-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1927354089253314809",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1927354089253314809",
+          "eventType": "inauguration",
+          "summary": "Hence #DravidianModel ♥️✨\n\nKudos to our School Education Minister @Anbil_Mahesh for enabling such eye-opening trips for our Govt School students 🎊\n\nBI"
+        },
+        {
+          "date": "2025-05-28",
+          "handle": "DMKITwing",
+          "tweetId": "1927661459086991620",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1927661459086991620",
+          "eventType": "other",
+          "summary": "The #BJP government in #Maharashtra seems to have shelved it's three-language policy in schools! \n\nOur Wishes and Thanks to the efforts of our #Marath"
+        },
+        {
+          "date": "2025-06-02",
+          "handle": "sathyantweets",
+          "tweetId": "1929518701545480211",
+          "fxUrl": "https://fxtwitter.com/sathyantweets/status/1929518701545480211",
+          "eventType": "other",
+          "summary": "Stunning 2.75x increase in admissions to Chennai Corporation schools!\n\n16,490 students enrolled!\n\nThat’s the power of public trust in Tamil Nadu’s gov"
+        },
+        {
+          "date": "2025-06-13",
+          "handle": "dstock_insights",
+          "tweetId": "1933650475594727718",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1933650475594727718",
+          "eventType": "other",
+          "summary": "This is the battle I want to see in schools, not all those caste fights 😶"
+        },
+        {
+          "date": "2025-06-16",
+          "handle": "DrGanesh_Japan",
+          "tweetId": "1934525654550384790",
+          "fxUrl": "https://fxtwitter.com/DrGanesh_Japan/status/1934525654550384790",
+          "eventType": "inauguration",
+          "summary": "Dreaming of Your Child Studying in India’s Premium Educational Institutions Free of Cost?\n\nAdmit Them to a Tamil Nadu Government School!\n\nNo matter yo"
+        },
+        {
+          "date": "2025-06-19",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1935617531261125050",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1935617531261125050",
+          "eventType": "scheme_launch",
+          "summary": "புதுடெல்லி Swaniti Initiative மற்றும் London School of Economics and Political Science இணைந்து நடத்துகின்ற லண்டன் காலநிலை மாற்றம் வார விழாவில், மாண்பு"
+        },
+        {
+          "date": "2025-06-20",
+          "handle": "Guidance_TN",
+          "tweetId": "1935999578563805551",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1935999578563805551",
+          "eventType": "mou_signed",
+          "summary": "Welcoming Canva to Tamil Nadu’s Education Ecosystem\n\nWe are delighted to welcome @canva as a knowledge partner in delivering its education programmes "
+        },
+        {
+          "date": "2025-07-02",
+          "handle": "com_maruthaiyan",
+          "tweetId": "1940314563788120430",
+          "fxUrl": "https://fxtwitter.com/com_maruthaiyan/status/1940314563788120430",
+          "eventType": "other",
+          "summary": "22.40 \"I completely agree with @mkstalin  that NEP is forcing Hindi through back door & imposing North Indian cow belt politics in the schooling syste"
+        },
+        {
+          "date": "2025-07-05",
+          "handle": "PTI_News",
+          "tweetId": "1941402172341748152",
+          "fxUrl": "https://fxtwitter.com/PTI_News/status/1941402172341748152",
+          "eventType": "other",
+          "summary": "VIDEO | Mumbai, Maharashtra: After two decades, the estranged Thackeray cousins -- Uddhav and Raj -- share public stage as they jointly hold a \"mega v"
+        },
+        {
+          "date": "2025-08-05",
+          "handle": "zoo_bear",
+          "tweetId": "1952734147257999684",
+          "fxUrl": "https://fxtwitter.com/zoo_bear/status/1952734147257999684",
+          "eventType": "other",
+          "summary": "Poisoned school kids because Sri Rama Sene leader wanted the Muslim Head Master to be transferred."
+        },
+        {
+          "date": "2025-08-08",
+          "handle": "mkstalin",
+          "tweetId": "1953741773861540006",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1953741773861540006",
+          "eventType": "other",
+          "summary": "எது உண்மையான பெருமை?\n\nஎளிய பின்னணியில் இருந்து, இன்று நாட்டின் முதன்மை உயர்கல்வி நிறுவனங்களுக்கு நமது அரசுப் பள்ளி மாணவர்கள் செல்கிறீர்களே... இதுதான் "
+        },
+        {
+          "date": "2025-08-08",
+          "handle": "mkstalin",
+          "tweetId": "1953742759581692034",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1953742759581692034",
+          "eventType": "other",
+          "summary": "எது உண்மையான பெருமை?\n\nஎளிய பின்னணியில் இருந்து, இன்று நாட்டின் முதன்மை உயர்கல்வி நிறுவனங்களுக்கு நமது அரசுப் பள்ளி மாணவர்கள் செல்கிறீர்களே... இதுதான் "
+        },
+        {
+          "date": "2025-08-24",
+          "handle": "KanimozhiDMK",
+          "tweetId": "1959646202548629512",
+          "fxUrl": "https://fxtwitter.com/KanimozhiDMK/status/1959646202548629512",
+          "eventType": "other",
+          "summary": "A member of parliament and former union minister asking school children who first set foot on the moon, and insisting that it was not Neil Armstrong b"
+        },
+        {
+          "date": "2025-08-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1960940058833277202",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1960940058833277202",
+          "eventType": "other",
+          "summary": "Now, Learning a foreign language, life skills must for BE, BTech students in Anna University.\n\nTHIS is a direct outcome of seamless integration of Imd"
+        },
+        {
+          "date": "2025-09-04",
+          "handle": "mkstalin",
+          "tweetId": "1963597188837019805",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963597188837019805",
+          "eventType": "inauguration",
+          "summary": "#NIRF2025: Tamil Nadu continues to set the benchmark\n\n🏅 With 17 institutions among the Top 100 in the Overall category, 33 among the Top 100 in the Co"
+        },
+        {
+          "date": "2025-09-05",
+          "handle": "tiruchisiva",
+          "tweetId": "1963858556890816911",
+          "fxUrl": "https://fxtwitter.com/tiruchisiva/status/1963858556890816911",
+          "eventType": "milestone",
+          "summary": "A HISTORICAL DAY\n——————————————\n\n              Arignar Anna the founder of DMK in 1960’s went to Yale university and made known to the world at large "
+        },
+        {
+          "date": "2025-09-05",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1963926658395807996",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1963926658395807996",
+          "eventType": "other",
+          "summary": "Scholarships for Government School Students\n\nIn 2024-25, 901 government school students of Tamilnadu secured admissions to top Indian and Internationa"
+        },
+        {
+          "date": "2025-09-05",
+          "handle": "iamyournaveen",
+          "tweetId": "1963953535462130173",
+          "fxUrl": "https://fxtwitter.com/iamyournaveen/status/1963953535462130173",
+          "eventType": "other",
+          "summary": "A historic day of pride for every Tamilian! ✨\n\nHon'ble Chief Minister Thiru. M.K. Stalin at Oxford University\n\n#CMStalinInOxford #CMStalinInOxford"
+        },
+        {
+          "date": "2025-09-06",
+          "handle": "dstock_insights",
+          "tweetId": "1964377853421900067",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1964377853421900067",
+          "eventType": "other",
+          "summary": "From Dharmapuri Govt School to Taiwan University ✨"
+        },
+        {
+          "date": "2025-10-12",
+          "handle": "lakhinathan",
+          "tweetId": "1977421562774249906",
+          "fxUrl": "https://fxtwitter.com/lakhinathan/status/1977421562774249906",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu's morning breakfast scheme in the schools and how it supports education.\n\nhttps://youtu.be/pCxuU5sZZzg?si=V2n_rIGqAx10b81x"
+        },
+        {
+          "date": "2025-10-16",
+          "handle": "rajbhagatt",
+          "tweetId": "1978860822949404894",
+          "fxUrl": "https://fxtwitter.com/rajbhagatt/status/1978860822949404894",
+          "eventType": "scheme_launch",
+          "summary": "I was at a conference conducted by Tamil Nadu govt last week & delivered some talks and reviewed some research activiti\nThe research capacity &potenti"
+        },
+        {
+          "date": "2025-11-06",
+          "handle": "ndtv",
+          "tweetId": "1986764417347059897",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/1986764417347059897",
+          "eventType": "other",
+          "summary": "Scrap Paper Replace Plates For Midday Meals In Madhya Pradesh School https://www.ndtv.com/india-news/scrap-paper-replace-plates-for-midday-meals-in-ma"
+        },
+        {
+          "date": "2025-11-07",
+          "handle": "VarierAravind",
+          "tweetId": "1986823542395261256",
+          "fxUrl": "https://fxtwitter.com/VarierAravind/status/1986823542395261256",
+          "eventType": "scheme_launch",
+          "summary": "This video from Madhya Pradesh should be a reminder for Tamilians to NEVER vote for the BJP in the 2026 Assembly elections.\n\nNOTE: The BJP should lear"
+        },
+        {
+          "date": "2025-12-02",
+          "handle": "sailaks11",
+          "tweetId": "1996081234007785741",
+          "fxUrl": "https://fxtwitter.com/sailaks11/status/1996081234007785741",
+          "eventType": "other",
+          "summary": "From 80% of schools not having access to internet to 99.9 schools access to internet facility, TN under #DravidianModel has made a giant leap. Happy t"
+        },
+        {
+          "date": "2025-12-11",
+          "handle": "Guidance_TN",
+          "tweetId": "1998984397505397003",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1998984397505397003",
+          "eventType": "other",
+          "summary": "At the International Conference on AI Infrastructure for India hosted by Centre for Responsible AI (@cerai_iitm) under the Wadhwani School of Data Sci"
+        },
+        {
+          "date": "2025-12-18",
+          "handle": "dstock_insights",
+          "tweetId": "2001542112748429717",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/2001542112748429717",
+          "eventType": "ground_breaking",
+          "summary": "Tamil Nadu Government has created the Tamil Nadu University Research Foundation under TIDCO to foster industry institution research. University Parks "
+        },
+        {
+          "date": "2025-12-18",
+          "handle": "dstock_insights",
+          "tweetId": "2001856687976968196",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/2001856687976968196",
+          "eventType": "scheme_launch",
+          "summary": "First gen voters will always go for glitter. Only time changes that.\n\nLaptop Scheme was stopped in 2019 followed by the COVID years, chip shortage iss"
+        },
+        {
+          "date": "2025-12-22",
+          "handle": "anandmahindra",
+          "tweetId": "2003381295402058237",
+          "fxUrl": "https://fxtwitter.com/anandmahindra/status/2003381295402058237",
+          "eventType": "other",
+          "summary": "In a world that loves quick wins, Supriya is a reminder that decades of steady public service can move mountains.\n\nShe’s been named a UNEP “Champion o"
+        },
+        {
+          "date": "2025-12-28",
+          "handle": "TRBRajaa",
+          "tweetId": "2005227340746653899",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2005227340746653899",
+          "eventType": "other",
+          "summary": "My heart goes out to this beautiful human being ♥️ I still remember my first meeting with #captain in the late 90's...we went to invite him for a coll"
+        },
+        {
+          "date": "2026-01-15",
+          "handle": "jpgandhi",
+          "tweetId": "2011821402211696974",
+          "fxUrl": "https://fxtwitter.com/jpgandhi/status/2011821402211696974",
+          "eventType": "scheme_launch",
+          "summary": "I had the pleasure of meeting Ms. Sindhu at Taiwan University of Science and Technology. She is the first female government school student from the Na"
+        },
+        {
+          "date": "2026-01-29",
+          "handle": "TRBRajaa",
+          "tweetId": "2016958086288912558",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2016958086288912558",
+          "eventType": "ground_breaking",
+          "summary": "🌟#TamilNadu will soon be the #KnowledgeHub of the #GlobalSouth !🌟\n\nThe innaugural \"India Global Education Summit\" -#IGES2026 was a huge hit ✨\n\nThe pre"
+        },
+        {
+          "date": "2026-01-29",
+          "handle": "TRBRajaa",
+          "tweetId": "2017146411759128613",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2017146411759128613",
+          "eventType": "ground_breaking",
+          "summary": "🌟#TamilNadu will soon be the #KnowledgeHub of the #GlobalSouth !🌟\n\nThe innaugural \"India Global Education Summit\" -#IGES2026 was a huge hit ✨\n\nThe pre"
+        },
+        {
+          "date": "2026-02-07",
+          "handle": "Guidance_TN",
+          "tweetId": "2020052918855168324",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2020052918855168324",
+          "eventType": "other",
+          "summary": "Episode 3 | Beyond the Skies\n\nGuidance Tamil Nadu presents Episode 3 of our podcast series, featuring Srinath Ravichandran (@srinathr155), Co-founder "
+        }
+      ],
+      "accountsCovering": [
+        "KanimozhiDMK",
+        "anandmahindra",
+        "zoo_bear",
+        "selvachidambara",
+        "TRBRajaa",
+        "Guidance_TN",
+        "CMOTamilnadu",
+        "Advaidism",
+        "jaya2016maha",
+        "com_maruthaiyan",
+        "lakhinathan",
+        "kuyil_mozhi",
+        "ndtv",
+        "minicnair",
+        "dstock_insights",
+        "sathyantweets",
+        "VarierAravind",
+        "sailaks11",
+        "iamyournaveen",
+        "jpgandhi",
+        "DrGanesh_Japan",
+        "rajbhagatt",
+        "VigneshAnand_Vm",
+        "INCKerala",
+        "dharanisalem",
+        "tiruchisiva",
+        "AseerAchary",
+        "TamilnaduStats",
+        "DrNikitaMehra",
+        "SSivanDMK",
+        "DMKITwing",
+        "mkstalin",
+        "PTI_News",
+        "karthickselvaa"
+      ],
+      "tweetCount": 66
+    },
+    {
+      "entityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "nameVariants": [],
+      "category": "education",
+      "entityType": "Welfare Scheme",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-08",
+        "lastMention": "2026-01-03"
+      },
+      "sources": [
+        {
+          "date": "2024-08-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1821485710660063408",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1821485710660063408",
+          "eventType": "inauguration",
+          "summary": "#TamilNadu: #CMMKStalin to launch monthly aid scheme for boys who pursue higher education tomorrow - India Today\n#ThamizhPudhalvan https://www.indiato"
+        },
+        {
+          "date": "2024-08-13",
+          "handle": "mkstalin",
+          "tweetId": "1823244088868516341",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1823244088868516341",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu continues to shine as the educational powerhouse of India! \n\nWith the highest number of top-ranked Higher Educational Institutions in the #"
+        },
+        {
+          "date": "2024-08-13",
+          "handle": "mkstalin",
+          "tweetId": "1823248281125724406",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1823248281125724406",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu continues to shine as the educational powerhouse of India! \n\nWith the highest number of top-ranked Higher Educational Institutions in the #"
+        },
+        {
+          "date": "2024-08-13",
+          "handle": "TamilnaduStats",
+          "tweetId": "1823286201278664895",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/1823286201278664895",
+          "eventType": "scheme_launch",
+          "summary": "🌟 #TamilNadu cements its place as #India's educational leader! With the highest number of top-ranked institutions in the #NIRFRankings2024, we're sett"
+        },
+        {
+          "date": "2024-09-10",
+          "handle": "Anbil_Mahesh",
+          "tweetId": "1833528211520770239",
+          "fxUrl": "https://fxtwitter.com/Anbil_Mahesh/status/1833528211520770239",
+          "eventType": "ground_breaking",
+          "summary": "With due respect, for the kind attention of Hon'ble Minister @dpradhanbjp:\n\nTamil Nadu has always been committed to preserving its linguistic heritage"
+        },
+        {
+          "date": "2024-12-18",
+          "handle": "DMKITwing",
+          "tweetId": "1869280466827972812",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1869280466827972812",
+          "eventType": "scheme_launch",
+          "summary": "Leadership that empowers women, transforms lives!\n\nUnder the visionary guidance of our Hon'ble @CMOTamilnadu Thiru @mkstalin, #DravidianModel Tamil Na"
+        },
+        {
+          "date": "2025-03-07",
+          "handle": "mkstalin",
+          "tweetId": "1897822006357217762",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1897822006357217762",
+          "eventType": "scheme_launch",
+          "summary": "🎯 \"The tree may prefer calm, but the wind will not subside.\" It was the Union Education Minister who provoked us to write this series of letters when "
+        },
+        {
+          "date": "2025-09-24",
+          "handle": "mkstalin",
+          "tweetId": "1970765696083628032",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970765696083628032",
+          "eventType": "progress_update",
+          "summary": "We in Tamil Nadu believe that education is the true measure of progress for any society. Through the #DravidianModel, our government continues to turn"
+        },
+        {
+          "date": "2025-09-24",
+          "handle": "mkstalin",
+          "tweetId": "1970767820037177671",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970767820037177671",
+          "eventType": "progress_update",
+          "summary": "We in Tamil Nadu believe that education is the true measure of progress for any society. Through the #DravidianModel, our government continues to turn"
+        },
+        {
+          "date": "2025-12-16",
+          "handle": "dstock_insights",
+          "tweetId": "2001157338020081934",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/2001157338020081934",
+          "eventType": "scheme_launch",
+          "summary": "On Spot education on naming schemes in Hindi & Sanskrit for entire India 😹\n"
+        },
+        {
+          "date": "2025-12-23",
+          "handle": "VigneshAnand_Vm",
+          "tweetId": "2003298150107554058",
+          "fxUrl": "https://fxtwitter.com/VigneshAnand_Vm/status/2003298150107554058",
+          "eventType": "expansion",
+          "summary": "Just watch the video.\n\nThe next image is the 1957 DMK manifesto.\n\nThe DMK manifesto argues that providing free education up to the 10th standard (seco"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007386112659239333",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007386112659239333",
+          "eventType": "scheme_launch",
+          "summary": "ஜாக்டோ-ஜியோ, தமிழ்நாடு ஆசிரியர் முன்னேற்ற சங்கம், தமிழ்நாடு தலைமைச் செயலக சங்கம், தமிழ்நாடு அரசு ஊழியர் சங்கம், தமிழக ஆரம்பப்பள்ளி ஆசிரியர் கூட்டணி, த"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007414006525636742",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007414006525636742",
+          "eventType": "scheme_launch",
+          "summary": "ஜாக்டோ-ஜியோ, தமிழ்நாடு ஆசிரியர் முன்னேற்ற சங்கம், தமிழ்நாடு தலைமைச் செயலக சங்கம், தமிழ்நாடு அரசு ஊழியர் சங்கம், தமிழக ஆரம்பப்பள்ளி ஆசிரியர் கூட்டணி, த"
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu",
+        "Anbil_Mahesh",
+        "TamilnaduStats",
+        "dstock_insights",
+        "DMKITwing",
+        "mkstalin",
+        "TRBRajaa",
+        "VigneshAnand_Vm"
+      ],
+      "tweetCount": 13
+    },
+    {
+      "entityId": "hospital",
+      "name": "Hospital",
+      "nameVariants": [],
+      "category": "education",
+      "entityType": "Hospital",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-15",
+        "lastMention": "2026-01-30"
+      },
+      "sources": [
+        {
+          "date": "2024-06-15",
+          "handle": "theliverdoc",
+          "tweetId": "1802225758728786067",
+          "fxUrl": "https://fxtwitter.com/theliverdoc/status/1802225758728786067",
+          "eventType": "expansion",
+          "summary": "\"Education is the only asset that no one can steal from you.\"\n\nIndian medical system - from preparation to exams to selection to education is not what"
+        },
+        {
+          "date": "2024-07-09",
+          "handle": "PWilsonDMK",
+          "tweetId": "1810958779317633043",
+          "fxUrl": "https://fxtwitter.com/PWilsonDMK/status/1810958779317633043",
+          "eventType": "expansion",
+          "summary": "Today marks the birth anniversary of the Late Thiru Panaganti Ramarayaningar, also known as the \"Raja of Panagal\". He was a prominent figure in the Ju"
+        },
+        {
+          "date": "2025-06-23",
+          "handle": "arvindgunasekar",
+          "tweetId": "1937216912943198251",
+          "fxUrl": "https://fxtwitter.com/arvindgunasekar/status/1937216912943198251",
+          "eventType": "milestone",
+          "summary": "CBI registers case against a Maharashtra based Doctor and officials of NTA (National Testing Agency) for allegedly manipulating NEET UG 2025 marks and"
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "zoo_bear",
+          "tweetId": "2017293363175907410",
+          "fxUrl": "https://fxtwitter.com/zoo_bear/status/2017293363175907410",
+          "eventType": "other",
+          "summary": "DMK leader Kanimozhi has correctly stated that there are only six government medical colleges in Gujarat. The Google Gemini 'fact check' shared by Tam"
+        }
+      ],
+      "accountsCovering": [
+        "zoo_bear",
+        "arvindgunasekar",
+        "theliverdoc",
+        "PWilsonDMK"
+      ],
+      "tweetCount": 4
+    },
+    {
+      "entityId": "manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "nameVariants": [],
+      "category": "education",
+      "entityType": "Manufacturing Unit",
+      "location": "Namakkal",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-18",
+        "lastMention": "2026-01-19"
+      },
+      "sources": [
+        {
+          "date": "2024-08-18",
+          "handle": "TNIndMin",
+          "tweetId": "1825157750441005336",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1825157750441005336",
+          "eventType": "production_start",
+          "summary": "“Taiwanese electronics manufacturing giant Foxconn is working on plans to set up a Battery Energy Storage System unit in India, its chairman Young Liu"
+        },
+        {
+          "date": "2026-01-19",
+          "handle": "anandmahindra",
+          "tweetId": "2013094937839993103",
+          "fxUrl": "https://fxtwitter.com/anandmahindra/status/2013094937839993103",
+          "eventType": "inauguration",
+          "summary": "Meet Velu.\n\nHe and his team have just introduced the world’s first suspension featuring DaVinci damping technology in the new Mahindra XUV 7XO\n\nAs you"
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin",
+        "anandmahindra"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "tidel-park-ப",
+      "name": "TIDEL Park ப",
+      "nameVariants": [],
+      "category": "education",
+      "entityType": "TIDEL Park",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-05",
+        "lastMention": "2025-11-05"
+      },
+      "sources": [
+        {
+          "date": "2025-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1985994498787143843",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1985994498787143843",
+          "eventType": "other",
+          "summary": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n🏑 #HeroAsianChampionsTrophy2023-ஐ வெற்றிகரமாக நடத்திக் காட்டிய @SportsTN_, அடுத்ததாக 24 நாடுகள் பங்குபெறும் FIH ஆடவர் "
+        },
+        {
+          "date": "2025-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1985995934929760423",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1985995934929760423",
+          "eventType": "other",
+          "summary": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n🏑 #HeroAsianChampionsTrophy2023-ஐ வெற்றிகரமாக நடத்திக் காட்டிய @SportsTN_, அடுத்ததாக 24 நாடுகள் பங்குபெறும் FIH ஆடவர் "
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "tweetCount": 2
+    }
+  ]
+}

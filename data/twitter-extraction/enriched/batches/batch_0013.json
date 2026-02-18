@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://ungaludanstalin.tn.gov.in/",
+    "urlHash": "a5187558f32f",
+    "domain": "ungaludanstalin.tn.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1944749581247582241",
+        "handle": "DMKITwing",
+        "date": "Mon Jul 14"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2149370",
+    "urlHash": "1a92ec7117c4",
+    "domain": "pib.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1950461737284800772",
+        "handle": "TRBRajaa",
+        "date": "Wed Jul 30"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://sparkmedia.news/where-is-society-heading-salute-to-the-sorrows-of-society-that-have-been-criticized-gobi-sudhakar-tn/",
+    "urlHash": "ac15eac926b0",
+    "domain": "sparkmedia.news",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1952726073126580411",
+        "handle": "SparkPluz_",
+        "date": "Tue Aug 05"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/growing-growing-grown-what-factors-contributed-to-tamil-nadus-11-2-economic-growth-in-2024-25/articleshow/123236725.cms",
+    "urlHash": "1ff0ba420a4b",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1955511100717277523",
+        "handle": "TRBRajaa",
+        "date": "Wed Aug 13"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://transtan.tn.gov.in",
+    "urlHash": "a3dd09181b22",
+    "domain": "transtan.tn.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1955665657980404149",
+        "handle": "vaishnavi_cbe",
+        "date": "Wed Aug 13"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://forms.gle/QDbB1pcg8ZhznJ6TA",
+    "urlHash": "a910b961009c",
+    "domain": "forms.gle",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1955673300195217896",
+        "handle": "NrtiaGermany",
+        "date": "Wed Aug 13"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.business-standard.com/industry/news/tamil-nadu-semiconductor-mission-2030-scheme-centres-of-excellence-125081800139_1.html",
+    "urlHash": "0be3b51e07f4",
+    "domain": "business-standard.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1957382791198634291",
+        "handle": "TRBRajaa",
+        "date": "Mon Aug 18"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-south-capital-tns-playbook-of-distributed-growth/podcast/123442933.cms",
+    "urlHash": "7f78b73c3643",
+    "domain": "economictimes.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1959151224910954589",
+        "handle": "EconomicTimes",
+        "date": "Fri Aug 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/women-led-startups-dot-the-cauvery-delta/articleshow/123485545.cms",
+    "urlHash": "8c4c17981412",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1959873162637901839",
+        "handle": "DMKITwing",
+        "date": "Mon Aug 25"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/learning-a-foreign-language-life-skills-must-for-be-btech-students/articleshow/123103173.cms",
+    "urlHash": "441fc983eec5",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1960940058833277202",
+        "handle": "TRBRajaa",
+        "date": "Thu Aug 28"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-mk-stalin-mous-europe-trip-aiadmk-foreign-trips-as-investment-eps-periyar-2783591-2025-09-08",
+    "urlHash": "0d6569aeea01",
+    "domain": "indiatoday.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1964944864375947635",
+        "handle": "IndiaToday",
+        "date": "Mon Sep 08"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/tamil-nadu-natural-partner-global-universities-innovate-conduct-o5roc",
+    "urlHash": "1d22a4dcb0fe",
+    "domain": "linkedin.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1965679317066924058",
+        "handle": "Guidance_TN",
+        "date": "Wed Sep 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://intdy.in/sgq1ki",
+    "urlHash": "01fc0a65dde6",
+    "domain": "intdy.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1965833912950927519",
+        "handle": "IndiaToday",
+        "date": "Wed Sep 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.nakkheeran.in/24-by-7-news/minister-raghupathi-says-eps-is-going-to-lock-down-the-party-by-buying-a-lock-from-dindigul-srinivasan-10483381",
+    "urlHash": "6cd0bc4fbd64",
+    "domain": "nakkheeran.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1969439879533903890",
+        "handle": "nakkheeranweb",
+        "date": "Sat Sep 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.tnjfu.ac.in/",
+    "urlHash": "9e9df2b0438b",
+    "domain": "tnjfu.ac.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1969597691576664462",
+        "handle": "tn_factcheck",
+        "date": "Sat Sep 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-mangrove-cover-doubles-in-3-years/articleshow/112614257.cms",
+    "urlHash": "6e8531d883d7",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1969597691576664462",
+        "handle": "tn_factcheck",
+        "date": "Sat Sep 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/cooum-river-bunds-turn-lush-green-stretch-after-restoration/articleshow/124031884.cms",
+    "urlHash": "b098a9b771c1",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1970446504675680496",
+        "handle": "DMKITwing",
+        "date": "Tue Sep 23"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.epw.in/journal/2010/50/verdict-ayodhya-special-issues/was-there-temple-under-babri-masjid-reading",
+    "urlHash": "2f979d49b6a1",
+    "domain": "epw.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1971176617469936116",
+        "handle": "tishasaroyan",
+        "date": "Thu Sep 25"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/blogs/gen-zedits/out-of-control-2/",
+    "urlHash": "dcffe0619ee0",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1972592233959571600",
+        "handle": "DMKITwing",
+        "date": "Mon Sep 29"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.nakkheeran.in/24-by-7-news/adhav-arjunas-post-shows-extreme-irresponsibility-kanimozhi-interview-10515265",
+    "urlHash": "12e4c12cd3be",
+    "domain": "nakkheeran.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1972903425580134691",
+        "handle": "nakkheeranweb",
+        "date": "Tue Sep 30"
+      }
+    ],
+    "status": "pending"
+  }
+]

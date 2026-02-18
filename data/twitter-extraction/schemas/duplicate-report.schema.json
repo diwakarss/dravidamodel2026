@@ -1,0 +1,180 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Duplicate Detection Report",
+  "description": "Schema for duplicate detection output (Wave 5)",
+  "type": "object",
+  "required": ["generatedAt", "summary", "matches", "newCandidates"],
+  "properties": {
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "totalEntitiesProcessed": { "type": "integer" },
+        "exactMatches": { "type": "integer" },
+        "partialMatches": { "type": "integer" },
+        "newCandidates": { "type": "integer" },
+        "byCategory": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "object",
+            "properties": {
+              "existing": { "type": "integer" },
+              "matched": { "type": "integer" },
+              "new": { "type": "integer" }
+            }
+          }
+        }
+      }
+    },
+    "matches": {
+      "type": "array",
+      "description": "Entities that match existing data",
+      "items": {
+        "type": "object",
+        "required": ["aggregatedEntityId", "existingEntryId", "matchType", "matchScore"],
+        "properties": {
+          "aggregatedEntityId": {
+            "type": "string",
+            "description": "ID from aggregated data"
+          },
+          "aggregatedEntityName": {
+            "type": "string"
+          },
+          "existingEntryId": {
+            "type": "string",
+            "description": "ID in existing data file"
+          },
+          "existingEntryName": {
+            "type": "string"
+          },
+          "existingDataFile": {
+            "type": "string",
+            "description": "Path to existing data file"
+          },
+          "category": {
+            "type": "string"
+          },
+          "matchType": {
+            "enum": ["exact", "partial", "fuzzy"]
+          },
+          "matchScore": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "matchedOn": {
+            "type": "array",
+            "items": {
+              "enum": ["name", "company", "location", "investment", "source_url"]
+            },
+            "description": "Fields that contributed to match"
+          },
+          "action": {
+            "enum": ["add_sources", "update_data", "merge", "review"],
+            "description": "Recommended action"
+          },
+          "newSourcesToAdd": {
+            "type": "integer",
+            "description": "Number of new tweet sources to add"
+          },
+          "dataUpdates": {
+            "type": "object",
+            "description": "Fields that could be updated from new data",
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "existing": {},
+                "new": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "newCandidates": {
+      "type": "array",
+      "description": "Entities with no existing match - candidates for addition",
+      "items": {
+        "type": "object",
+        "required": ["aggregatedEntityId", "category", "confidence"],
+        "properties": {
+          "aggregatedEntityId": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "subCategory": {
+            "type": "string"
+          },
+          "sourceCount": {
+            "type": "integer",
+            "description": "Number of tweets referencing this"
+          },
+          "firstMention": {
+            "type": "string",
+            "format": "date"
+          },
+          "lastMention": {
+            "type": "string",
+            "format": "date"
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Confidence this is a real, unique entity"
+          },
+          "suggestedEntry": {
+            "type": "object",
+            "description": "Proposed entry for the data file"
+          },
+          "reviewFlags": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "single_source",
+                "low_engagement",
+                "missing_location",
+                "missing_investment",
+                "possible_duplicate",
+                "needs_verification"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "sourceAdditions": {
+      "type": "array",
+      "description": "Quick list of source additions (for batch processing)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "existingEntryId": { "type": "string" },
+          "existingDataFile": { "type": "string" },
+          "newSources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "date": { "type": "string", "format": "date" },
+                "handle": { "type": "string" },
+                "tweetId": { "type": "string" },
+                "fxUrl": { "type": "string" },
+                "eventType": { "type": "string" },
+                "summary": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

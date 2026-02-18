@@ -1,0 +1,918 @@
+{
+  "category": "infrastructure",
+  "aggregatedAt": "2026-02-17T18:24:45.313954+00:00",
+  "stats": {
+    "entries": 880,
+    "entities": 9
+  },
+  "entities": [
+    {
+      "entityId": "chennai-metro",
+      "name": "Chennai Metro",
+      "nameVariants": [
+        "Chennai Metro Phase 2"
+      ],
+      "category": "infrastructure",
+      "entityType": "Chennai Metro",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 33593.0
+      },
+      "timeline": {
+        "firstMention": "2024-07-21",
+        "lastMention": "2025-11-19"
+      },
+      "sources": [
+        {
+          "date": "2024-07-21",
+          "handle": "Udhaystalin",
+          "tweetId": "1815045850806231168",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1815045850806231168",
+          "eventType": "expansion",
+          "summary": "2024-ஆம் ஆண்டுக்கான ஒன்றிய அரசு பட்ஜெட்டில் #ChennaiMetrorail Phase-2 திட்டப்பணிகளுக்கான நிதி பங்கீட்டையும் - மதுரை, கோவை மெட்ரோ ரயில் திட்டப் பணிகளுக"
+        },
+        {
+          "date": "2024-07-21",
+          "handle": "Udhaystalin",
+          "tweetId": "1815087728155140272",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1815087728155140272",
+          "eventType": "other",
+          "summary": "#ChennaiMetroRail @KN_NEHRU @RSBharathiDMK @evvelu @TThenarasu @Subramanian_ma @Dayanidhi_Maran @nchitrarasu  #DarezAhmedIAS @cmrlofficial @CumtaOffic"
+        },
+        {
+          "date": "2024-07-21",
+          "handle": "Udhaystalin",
+          "tweetId": "1815380096032629002",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1815380096032629002",
+          "eventType": "scheme_launch",
+          "summary": "சென்னை மாநகரத்தின் நவீன வளர்ச்சிகளுக்காக தி.மு.கழக அரசு செய்துள்ள பங்களிப்புகள் ஏராளமானவை. அதில், முக்கியமானது சென்னை மெட்ரோ ரயில் திட்டம். \n\nமாண்புமி"
+        },
+        {
+          "date": "2024-08-01",
+          "handle": "UpdatesChennai",
+          "tweetId": "1819021208341385221",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/1819021208341385221",
+          "eventType": "inauguration",
+          "summary": "🚨Ridership for Chennai Metro was highest in July 2024 since its inauguration. Monthly Ridership for 2024..👇👇Ⓜ️🚇 (Nos in Lakhs)\n1. Jan - 84.6 \n2. Feb- "
+        },
+        {
+          "date": "2024-08-23",
+          "handle": "georgysthomas",
+          "tweetId": "1827047173764079718",
+          "fxUrl": "https://fxtwitter.com/georgysthomas/status/1827047173764079718",
+          "eventType": "other",
+          "summary": "Greater Chennai Metropolitan region --- Chennai plus many taluks of Tiruvallur, Chengalpattu, Kanchipuram, and Ranipet districts. Served by the three "
+        },
+        {
+          "date": "2024-09-14",
+          "handle": "UpdatesChennai",
+          "tweetId": "1834774595020128507",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/1834774595020128507",
+          "eventType": "mou_signed",
+          "summary": "18,564 Crs spent on Chennai Metro Rail phase II so far, FM’s claim wrong: Thangam Thennarasu… #Chennai #Metro Ⓜ️🚊https://www.dtnext.in/news/tamilnadu/"
+        },
+        {
+          "date": "2024-09-27",
+          "handle": "mkstalin",
+          "tweetId": "1839585102231142696",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839585102231142696",
+          "eventType": "expansion",
+          "summary": "Had a cordial meeting with Hon’ble Prime Minister Thiru. @narendramodi, where I discussed key issues concerning Tamil Nadu:\n\n🚆 Requested the release o"
+        },
+        {
+          "date": "2024-09-27",
+          "handle": "mkstalin",
+          "tweetId": "1839587234921775571",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839587234921775571",
+          "eventType": "expansion",
+          "summary": "Had a cordial meeting with Hon’ble Prime Minister Thiru. @narendramodi, where I discussed key issues concerning Tamil Nadu:\n\n🚆 Requested the release o"
+        },
+        {
+          "date": "2024-09-27",
+          "handle": "mkstalin",
+          "tweetId": "1839591962363511102",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1839591962363511102",
+          "eventType": "expansion",
+          "summary": "Had a cordial meeting with Hon’ble Prime Minister Thiru. @narendramodi, where I discussed key issues concerning Tamil Nadu:\n\n🚆 Requested the release o"
+        },
+        {
+          "date": "2024-10-01",
+          "handle": "TnInvestment",
+          "tweetId": "1841130030362988643",
+          "fxUrl": "https://fxtwitter.com/TnInvestment/status/1841130030362988643",
+          "eventType": "other",
+          "summary": "Union Govt likely to announce #Chennai Metro Phase II project as Central-State project and release of fund of centre share is expected \n\n- Recently #T"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "mkstalin",
+          "tweetId": "1841861056731160938",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1841861056731160938",
+          "eventType": "other",
+          "summary": "Thank you, Hon'ble PM @narendramodi, for accepting our request during my last meeting with you and approving the second phase of the Chennai Metro Rai"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "mkstalin",
+          "tweetId": "1841862167701967320",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1841862167701967320",
+          "eventType": "other",
+          "summary": "Thank you, Hon'ble PM @narendramodi, for accepting our request during my last meeting with you and approving the second phase of the Chennai Metro Rai"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "mkstalin",
+          "tweetId": "1841867037687353621",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1841867037687353621",
+          "eventType": "other",
+          "summary": "Thank you, Hon'ble PM @narendramodi, for accepting our request during my last meeting with you and approving the second phase of the Chennai Metro Rai"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "DMKITwing",
+          "tweetId": "1841876633176694827",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1841876633176694827",
+          "eventType": "other",
+          "summary": "Massive News 🌟\nUnion Cabinet approves Second Phase of Chennai Metro Rail Project with a support of 7425 from GOI, 33,593 crore loans for CMRL and GoTN"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "sunnewstamil",
+          "tweetId": "1841906659532087384",
+          "fxUrl": "https://fxtwitter.com/sunnewstamil/status/1841906659532087384",
+          "eventType": "other",
+          "summary": "#BREAKING | சென்னை மெட்ரோ 2ம் கட்ட திட்டத்திற்கு நிதி வழங்க ஒப்புதல் அளித்த ஒன்றிய அரசு.. பிரதமருக்கு முதலமைச்சர் மு.க.ஸ்டாலின் நன்றி!\n\n#SunNews | #Ch"
+        },
+        {
+          "date": "2024-10-04",
+          "handle": "DMK4TN",
+          "tweetId": "1842165484180873726",
+          "fxUrl": "https://fxtwitter.com/DMK4TN/status/1842165484180873726",
+          "eventType": "expansion",
+          "summary": "சென்னை மெட்ரோ இரண்டாம் கட்ட திட்டப் பணிகளுக்கான நிதிப்பங்கீடு விபரம்!\n\n#DMK4TN #CMRL #Chennaimetrophase2 \n#ChennaiMetro"
+        },
+        {
+          "date": "2024-10-04",
+          "handle": "TThenarasu",
+          "tweetId": "1842244680181829878",
+          "fxUrl": "https://fxtwitter.com/TThenarasu/status/1842244680181829878",
+          "eventType": "expansion",
+          "summary": "I extend my  gratitude to the Honorable Prime Minister, Thiru @narendramodi , for approving the funds for the Chennai metro Phase 2 project.\n\nI expres"
+        },
+        {
+          "date": "2024-10-26",
+          "handle": "mkstalin",
+          "tweetId": "1850103792005722331",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1850103792005722331",
+          "eventType": "progress_update",
+          "summary": "Had the pleasure of meeting Hon'ble @mlkhattar to discuss the progress of Chennai Metro Rail's Phase-II project. Expressed our gratitude to the Union "
+        },
+        {
+          "date": "2024-10-26",
+          "handle": "mkstalin",
+          "tweetId": "1850105933390856241",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1850105933390856241",
+          "eventType": "progress_update",
+          "summary": "Had the pleasure of meeting Hon'ble @mlkhattar to discuss the progress of Chennai Metro Rail's Phase-II project. Expressed our gratitude to the Union "
+        },
+        {
+          "date": "2024-10-26",
+          "handle": "mkstalin",
+          "tweetId": "1850162787713970410",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1850162787713970410",
+          "eventType": "progress_update",
+          "summary": "Had the pleasure of meeting Hon'ble @mlkhattar to discuss the progress of Chennai Metro Rail's Phase-II project. Expressed our gratitude to the Union "
+        },
+        {
+          "date": "2025-02-13",
+          "handle": "mkstalin",
+          "tweetId": "1889976305904705658",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1889976305904705658",
+          "eventType": "inauguration",
+          "summary": "தலைவர் கலைஞர் அவர்கள் முதலமைச்சராகவும் - நான் துணை முதலமைச்சராகவும் இருந்தபோது தொடங்கப்பட்ட சென்னை மெட்ரோ இரயில் பணிகள், தற்போதைய நமது திராவிட மாடல் அ"
+        },
+        {
+          "date": "2025-02-13",
+          "handle": "mkstalin",
+          "tweetId": "1889977896607031549",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1889977896607031549",
+          "eventType": "inauguration",
+          "summary": "தலைவர் கலைஞர் அவர்கள் முதலமைச்சராகவும் - நான் துணை முதலமைச்சராகவும் இருந்தபோது தொடங்கப்பட்ட சென்னை மெட்ரோ இரயில் பணிகள், தற்போதைய நமது திராவிட மாடல் அ"
+        },
+        {
+          "date": "2025-02-13",
+          "handle": "mkstalin",
+          "tweetId": "1889999171748503636",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1889999171748503636",
+          "eventType": "expansion",
+          "summary": "The Chennai Metro Rail Project, initiated during Thalaivar Kalaignar's tenure as Chief Minister, with me serving as Deputy Chief Minister, is now adva"
+        },
+        {
+          "date": "2025-02-13",
+          "handle": "mkstalin",
+          "tweetId": "1890116765210034347",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1890116765210034347",
+          "eventType": "inauguration",
+          "summary": "தலைவர் கலைஞர் அவர்கள் முதலமைச்சராகவும் - நான் துணை முதலமைச்சராகவும் இருந்தபோது தொடங்கப்பட்ட சென்னை மெட்ரோ இரயில் பணிகள், தற்போதைய நமது திராவிட மாடல் அ"
+        },
+        {
+          "date": "2025-04-28",
+          "handle": "sunnewstamil",
+          "tweetId": "1916874308053553366",
+          "fxUrl": "https://fxtwitter.com/sunnewstamil/status/1916874308053553366",
+          "eventType": "other",
+          "summary": "#WATCH | போரூர் - பூவிருந்தவல்லி இடையே ஓட்டுநர் இல்லாத மெட்ரோ ரயிலின் 2ம் கட்ட சோதனை ஓட்டத்தின் காட்சி\n\n#SunNews | #ChennaiMetro | #Poonamalle | @cmrl"
+        },
+        {
+          "date": "2025-05-24",
+          "handle": "mkstalin",
+          "tweetId": "1926275953723875680",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1926275953723875680",
+          "eventType": "other",
+          "summary": "During the #NITIAayog meeting, met our Hon’ble Prime Minister @narendramodi and submitted a memorandum detailing key priorities for Tamil Nadu’s devel"
+        },
+        {
+          "date": "2025-05-24",
+          "handle": "mkstalin",
+          "tweetId": "1926330396850942376",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1926330396850942376",
+          "eventType": "other",
+          "summary": "During the #NITIAayog meeting, met our Hon’ble Prime Minister @narendramodi and submitted a memorandum detailing key priorities for Tamil Nadu’s devel"
+        },
+        {
+          "date": "2025-09-22",
+          "handle": "mkstalin",
+          "tweetId": "1970039237618856195",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970039237618856195",
+          "eventType": "other",
+          "summary": "📱 மக்களின் பயணங்களை எளிமையாக்கும்  @Chennai_One!\n\nபொதுமக்கள் பலரும் positive feedback கொடுத்துள்ளார்கள். #PublicTransportSystem-இல் சிறந்த உலக நகரமாக "
+        },
+        {
+          "date": "2025-11-09",
+          "handle": "dstock_insights",
+          "tweetId": "1987732698618868041",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1987732698618868041",
+          "eventType": "other",
+          "summary": "MTC bagged the Best Public Transportation Award and CMRL took home the Best Multi Modal Metro System Award along with a special commendation for Best "
+        },
+        {
+          "date": "2025-11-19",
+          "handle": "mkstalin",
+          "tweetId": "1990972459563294984",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1990972459563294984",
+          "eventType": "progress_update",
+          "summary": "'கோயில் நகர்' மதுரைக்கும், 'தென்னிந்திய மான்செஸ்டர்' கோவைக்கும் \"NO METRO\" என நிராகரித்துள்ளது ஒன்றிய பா.ஜ.க. அரசு!\n\nஅனைவருக்கும் பொதுவானதாகச் செயல்பட"
+        },
+        {
+          "date": "2025-11-19",
+          "handle": "mkstalin",
+          "tweetId": "1990974110202278220",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1990974110202278220",
+          "eventType": "progress_update",
+          "summary": "'கோயில் நகர்' மதுரைக்கும், 'தென்னிந்திய மான்செஸ்டர்' கோவைக்கும் \"NO METRO\" என நிராகரித்துள்ளது ஒன்றிய பா.ஜ.க. அரசு!\n\nஅனைவருக்கும் பொதுவானதாகச் செயல்பட"
+        },
+        {
+          "date": "2025-11-19",
+          "handle": "mkstalin",
+          "tweetId": "1991003661091418481",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1991003661091418481",
+          "eventType": "progress_update",
+          "summary": "'கோயில் நகர்' மதுரைக்கும், 'தென்னிந்திய மான்செஸ்டர்' கோவைக்கும் \"NO METRO\" என நிராகரித்துள்ளது ஒன்றிய பா.ஜ.க. அரசு!\n\nஅனைவருக்கும் பொதுவானதாகச் செயல்பட"
+        },
+        {
+          "date": "2025-11-19",
+          "handle": "dstock_insights",
+          "tweetId": "1991030466821173638",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1991030466821173638",
+          "eventType": "other",
+          "summary": "Just 170 passengers ridership in Indore Metro in September and same with many other metros that got approved. Unnecessary scrutiny only happens to Tam"
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin",
+        "georgysthomas",
+        "UpdatesChennai",
+        "TnInvestment",
+        "DMK4TN",
+        "DMKITwing",
+        "mkstalin",
+        "TThenarasu",
+        "dstock_insights",
+        "sunnewstamil"
+      ],
+      "tweetCount": 33
+    },
+    {
+      "entityId": "educational-institution",
+      "name": "Educational Institution",
+      "nameVariants": [],
+      "category": "infrastructure",
+      "entityType": "Educational Institution",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 50.0
+      },
+      "timeline": {
+        "firstMention": "2024-10-19",
+        "lastMention": "2025-12-10"
+      },
+      "sources": [
+        {
+          "date": "2024-10-19",
+          "handle": "INCKerala",
+          "tweetId": "1847587565752156475",
+          "fxUrl": "https://fxtwitter.com/INCKerala/status/1847587565752156475",
+          "eventType": "other",
+          "summary": "Dear Gov. RN Ravi,\n\nWhich are the three languages taught in North Indian states? Do they teach any of Malayalam, Tamil, Kannada, Telugu, Odiya, Bengal"
+        },
+        {
+          "date": "2025-03-14",
+          "handle": "shivanandysky",
+          "tweetId": "1900539858399175096",
+          "fxUrl": "https://fxtwitter.com/shivanandysky/status/1900539858399175096",
+          "eventType": "other",
+          "summary": "Over the years, we’ve explored setting up offices in different cities, but Chennai remains our home. The Tamil Nadu Government’s 2025 Budget reaffirms"
+        },
+        {
+          "date": "2025-08-13",
+          "handle": "journsuresh",
+          "tweetId": "1955548148623081546",
+          "fxUrl": "https://fxtwitter.com/journsuresh/status/1955548148623081546",
+          "eventType": "beneficiary_update",
+          "summary": "#AGNINEWSSERVICES\nA PhD scholar Zean Joseph  in Manonmaniam Sundaranar University convocation refused to accept her degree certificate from the Govern"
+        },
+        {
+          "date": "2025-08-24",
+          "handle": "mkstalin",
+          "tweetId": "1959622089465532622",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1959622089465532622",
+          "eventType": "other",
+          "summary": "Hon'ble Thiru. Sudershan Reddy, who has spent five decades defending the Constitution and human rights, is the right choice for #VicePresident.\n\nFrom "
+        },
+        {
+          "date": "2025-08-29",
+          "handle": "mkstalin",
+          "tweetId": "1961333642279751760",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1961333642279751760",
+          "eventType": "other",
+          "summary": "Periyar goes global!\n\n“Oppression is my enemy” the rallying cry of Periyar now resonates at #Oxford.\n\nMarking the centenary of the #SelfRespect Moveme"
+        },
+        {
+          "date": "2025-08-29",
+          "handle": "mkstalin",
+          "tweetId": "1961335405619679490",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1961335405619679490",
+          "eventType": "other",
+          "summary": "Periyar goes global!\n\n“Oppression is my enemy” the rallying cry of Periyar now resonates at #Oxford.\n\nMarking the centenary of the #SelfRespect Moveme"
+        },
+        {
+          "date": "2025-08-29",
+          "handle": "mkstalin",
+          "tweetId": "1961358261862711770",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1961358261862711770",
+          "eventType": "other",
+          "summary": "Periyar goes global!\n\n“Oppression is my enemy” the rallying cry of Periyar now resonates at #Oxford.\n\nMarking the centenary of the #SelfRespect Moveme"
+        },
+        {
+          "date": "2025-08-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1961402926158811591",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1961402926158811591",
+          "eventType": "beneficiary_update",
+          "summary": "வாழ்க பெரியார் ♥️🙏🏾\n\nHonourable @CMOTamilnadu @mkstalin the torch bearer of #DravidianModel of inclusive politics has ensured that Periyar's dream of "
+        },
+        {
+          "date": "2025-09-19",
+          "handle": "Guidance_TN",
+          "tweetId": "1969074605944938523",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1969074605944938523",
+          "eventType": "other",
+          "summary": "From a small village in Salem to a Senior Engineer in Madurai\n\n#Mugam - 10\n\nMeet Abhirami Krishnakumar from Kanganipatti, #Salem. With the support of "
+        },
+        {
+          "date": "2025-09-25",
+          "handle": "PredatorVolk",
+          "tweetId": "1971635392383500432",
+          "fxUrl": "https://fxtwitter.com/PredatorVolk/status/1971635392383500432",
+          "eventType": "other",
+          "summary": "Priest: You study in a Christian school from pre-primary, become an engineer or doctor, go abroad… and suddenly you scream 'they are converting people"
+        },
+        {
+          "date": "2025-11-21",
+          "handle": "mkstalin",
+          "tweetId": "1991728418174693420",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1991728418174693420",
+          "eventType": "other",
+          "summary": "☀️ Our fight for State rights and true federalism will continue!\n\n☀️ No rest until amending the Constitution to fix timelines for Governors to clear B"
+        },
+        {
+          "date": "2025-11-21",
+          "handle": "mkstalin",
+          "tweetId": "1991731483669852446",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1991731483669852446",
+          "eventType": "other",
+          "summary": "☀️ Our fight for State rights and true federalism will continue!\n\n☀️ No rest until amending the Constitution to fix timelines for Governors to clear B"
+        },
+        {
+          "date": "2025-11-22",
+          "handle": "awfulajay",
+          "tweetId": "1992438117366935905",
+          "fxUrl": "https://fxtwitter.com/awfulajay/status/1992438117366935905",
+          "eventType": "progress_update",
+          "summary": "Today I visited a #tribal school near Kallakurichi district, deep in a rural village. The road and the scenery were absolutely stunning 🤯. And that ro"
+        },
+        {
+          "date": "2025-12-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1998837273685799329",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1998837273685799329",
+          "eventType": "mou_signed",
+          "summary": "Dravidam going Global !\n\nSOAS University of London has announced the launch of the Ambedkar–Kalaignar Visiting Fellowship for Social Justice and Feder"
+        }
+      ],
+      "accountsCovering": [
+        "PredatorVolk",
+        "shivanandysky",
+        "mkstalin",
+        "journsuresh",
+        "awfulajay",
+        "TRBRajaa",
+        "Guidance_TN",
+        "INCKerala"
+      ],
+      "tweetCount": 14
+    },
+    {
+      "entityId": "chennai-manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "nameVariants": [],
+      "category": "infrastructure",
+      "entityType": "Manufacturing Unit",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 2905.0
+      },
+      "timeline": {
+        "firstMention": "2024-12-05",
+        "lastMention": "2026-01-20"
+      },
+      "sources": [
+        {
+          "date": "2024-12-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1864719054256173282",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1864719054256173282",
+          "eventType": "inauguration",
+          "summary": "🌟Big news for trade relationship between #TamilNadu and #Germany ! 🚨\n\nFollowing sustained engagement and as a result of our ongoing visit, the state o"
+        },
+        {
+          "date": "2025-02-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1891903739134607672",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1891903739134607672",
+          "eventType": "production_start",
+          "summary": "What does $35 billion in electronics exports from India look like?\n\nWhat does $12 billion in exports from just ONE state look like? \n\nWalk into #Sourc"
+        },
+        {
+          "date": "2025-04-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1916064404233216389",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1916064404233216389",
+          "eventType": "progress_update",
+          "summary": "Tamil Nadu is India’s top electronics exporter, but we will not rest on our laurels! \n\nTamil Nadu is now going bigger, higher, and more ambitious trus"
+        },
+        {
+          "date": "2025-06-10",
+          "handle": "Guidance_TN",
+          "tweetId": "1932463002181108040",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1932463002181108040",
+          "eventType": "mou_signed",
+          "summary": "Did You Know India’s First BLDC Fans are from Tamil Nadu?\n\nIndia’s first BLDC (Brushless DC) ceiling fans were designed, developed, and manufactured r"
+        },
+        {
+          "date": "2025-07-25",
+          "handle": "Guidance_TN",
+          "tweetId": "1948816776973713659",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1948816776973713659",
+          "eventType": "other",
+          "summary": "A major leap in green mobility! #TamilNadu Pioneers India’s First #Hydrogen Train Coach!\n\nThe country’s first hydrogen-powered Driving Power Car (DPC)"
+        },
+        {
+          "date": "2025-07-27",
+          "handle": "yazhini_pm",
+          "tweetId": "1949681716076974202",
+          "fxUrl": "https://fxtwitter.com/yazhini_pm/status/1949681716076974202",
+          "eventType": "scheme_launch",
+          "summary": "Think about this.\n\nWhat has Tamil Nadu been asking for long and what Prime Minister Modi is proposing. \n\nModi is promising that magnificent statues of"
+        },
+        {
+          "date": "2025-08-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1960966049790103947",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1960966049790103947",
+          "eventType": "production_start",
+          "summary": "Our Exporters need the URGENT ATTENTION of the Union Govt. Of India.\n\nAs a responsible state, led by a mature leader who puts our Nation's interests F"
+        },
+        {
+          "date": "2025-09-03",
+          "handle": "mkstalin",
+          "tweetId": "1963254245047881955",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963254245047881955",
+          "eventType": "mou_signed",
+          "summary": "Six strategic wins for Tamil Nadu in London today, powering growth, innovation and future readiness.\n\nOur agreements with Wilson Power and Britannia R"
+        },
+        {
+          "date": "2025-09-03",
+          "handle": "mkstalin",
+          "tweetId": "1963260259117789518",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963260259117789518",
+          "eventType": "mou_signed",
+          "summary": "Six strategic wins for Tamil Nadu in London today, powering growth, innovation and future readiness.\n\nOur agreements with Wilson Power and Britannia R"
+        },
+        {
+          "date": "2025-09-03",
+          "handle": "mkstalin",
+          "tweetId": "1963271000327675952",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963271000327675952",
+          "eventType": "mou_signed",
+          "summary": "Six strategic wins for Tamil Nadu in London today, powering growth, innovation and future readiness.\n\nOur agreements with Wilson Power and Britannia R"
+        },
+        {
+          "date": "2025-11-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1994264752927986032",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1994264752927986032",
+          "eventType": "production_start",
+          "summary": "After the #TNRising Conclave in Coimbatore, a second-generation entrepreneur spoke to us about how the food sector is one of the largest employers in "
+        },
+        {
+          "date": "2026-01-15",
+          "handle": "TRBRajaa",
+          "tweetId": "2011680886274805944",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2011680886274805944",
+          "eventType": "production_start",
+          "summary": "#TamilNadu, the Superstar Exporter State of India🌟 ! \n\n@dt_next reports that NITI Aayog has ranked Tamil Nadu second among States and Union Territorie"
+        },
+        {
+          "date": "2026-01-19",
+          "handle": "TRBRajaa",
+          "tweetId": "2013273807872757860",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2013273807872757860",
+          "eventType": "inauguration",
+          "summary": "We are not too surprised that Delhi has not given clearance for the Hosur airport. Moreover it takes a lot of iteration for anything to get cleared by"
+        },
+        {
+          "date": "2026-01-20",
+          "handle": "TamilnaduStats",
+          "tweetId": "2013665094228390261",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/2013665094228390261",
+          "eventType": "other",
+          "summary": "Export Preparedness Index (EPI) 2024: Tamil Nadu at the Front 🚢🌏\n\n#TamilNadu continues to stand tall in India’s export landscape. As per @NITIAayog  E"
+        }
+      ],
+      "accountsCovering": [
+        "TamilnaduStats",
+        "mkstalin",
+        "yazhini_pm",
+        "TRBRajaa",
+        "Guidance_TN"
+      ],
+      "tweetCount": 14
+    },
+    {
+      "entityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "nameVariants": [],
+      "category": "infrastructure",
+      "entityType": "Welfare Scheme",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-01",
+        "lastMention": "2025-08-26"
+      },
+      "sources": [
+        {
+          "date": "2024-07-01",
+          "handle": "mkstalin",
+          "tweetId": "1807683991094571270",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1807683991094571270",
+          "eventType": "scheme_launch",
+          "summary": "Absolutely thrilled to share this heartwarming news!\n\nSeeing over 25,000 polytechnic students land jobs through the #NaanMudhalvan scheme fills my hea"
+        },
+        {
+          "date": "2024-07-01",
+          "handle": "mkstalin",
+          "tweetId": "1807693718398648501",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1807693718398648501",
+          "eventType": "scheme_launch",
+          "summary": "Absolutely thrilled to share this heartwarming news!\n\nSeeing over 25,000 polytechnic students land jobs through the #NaanMudhalvan scheme fills my hea"
+        },
+        {
+          "date": "2024-07-06",
+          "handle": "Udhaystalin",
+          "tweetId": "1809552672057618813",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1809552672057618813",
+          "eventType": "scheme_launch",
+          "summary": "Heartiest congratulations to Anupama Ramachandran, Tamil Nadu government’s Mission International Medal Scheme player, for clinching the Gold at the As"
+        },
+        {
+          "date": "2024-10-11",
+          "handle": "DrJeyaranjan",
+          "tweetId": "1844739604127101230",
+          "fxUrl": "https://fxtwitter.com/DrJeyaranjan/status/1844739604127101230",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu's Vidiyal Payana Thittam is reshaping the socio-political landscape by empowering women beyond just savings. With 78% of beneficiaries from"
+        },
+        {
+          "date": "2024-11-28",
+          "handle": "mkstalin",
+          "tweetId": "1861960705659883963",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1861960705659883963",
+          "eventType": "scheme_launch",
+          "summary": "சாதிய அடிப்படையிலான தொழில்முறையை வலுப்படுத்தும் பிரதமரின் விஸ்வகர்மா திட்டத்தைத் தற்போதைய வடிவில் தமிழ்நாடு அரசு செயல்படுத்தாது. அதற்குப் பதிலாக,  'சம"
+        },
+        {
+          "date": "2024-11-28",
+          "handle": "mkstalin",
+          "tweetId": "1862017073800777949",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1862017073800777949",
+          "eventType": "scheme_launch",
+          "summary": "சாதிய அடிப்படையிலான தொழில்முறையை வலுப்படுத்தும் பிரதமரின் விஸ்வகர்மா திட்டத்தைத் தற்போதைய வடிவில் தமிழ்நாடு அரசு செயல்படுத்தாது. அதற்குப் பதிலாக,  'சம"
+        },
+        {
+          "date": "2025-01-29",
+          "handle": "mkstalin",
+          "tweetId": "1884603822670233869",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1884603822670233869",
+          "eventType": "scheme_launch",
+          "summary": "During today's DMK MPs’ meet, we adopted key resolutions, ahead of the upcoming parliamentary session in New Delhi\n\n🔹 Frame a Code of Conduct for Gove"
+        },
+        {
+          "date": "2025-01-29",
+          "handle": "mkstalin",
+          "tweetId": "1884604211263864936",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1884604211263864936",
+          "eventType": "scheme_launch",
+          "summary": "During today's DMK MPs’ meet, we adopted key resolutions, ahead of the upcoming parliamentary session in New Delhi\n\n🔹 Frame a Code of Conduct for Gove"
+        },
+        {
+          "date": "2025-03-05",
+          "handle": "mkstalin",
+          "tweetId": "1897109935244370339",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1897109935244370339",
+          "eventType": "scheme_launch",
+          "summary": "If the BJP’s claim that our Hon'ble PM has great love for Tamil is true, why is it never reflected in action?\n\n🎯Rather than installing Sengol in Parli"
+        },
+        {
+          "date": "2025-06-07",
+          "handle": "K_T_L",
+          "tweetId": "1931341237614997733",
+          "fxUrl": "https://fxtwitter.com/K_T_L/status/1931341237614997733",
+          "eventType": "inauguration",
+          "summary": "🚨 SHAME ON EDAPPADI PALANISWAMI! 🚨 \n\nHis disgusting remark mocking the women’s free bus scheme as \"lipstick buses\" for their pink color is a slap in t"
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "AAPPunjab",
+          "tweetId": "1960218727170842787",
+          "fxUrl": "https://fxtwitter.com/AAPPunjab/status/1960218727170842787",
+          "eventType": "scheme_launch",
+          "summary": "ਚੇਨੱਈ ਦੇ ਸਰਕਾਰੀ ਸਕੂਲਾਂ ‘ਚ CM Breakfast Scheme ਦੀ ਸ਼ੁਰੂਆਤ ਮੌਕੇ CM ਭਗਵੰਤ ਮਾਨ ਜੀ Live https://x.com/i/broadcasts/1dRJZaBnLzaGB"
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin",
+        "K_T_L",
+        "DrJeyaranjan",
+        "mkstalin",
+        "AAPPunjab"
+      ],
+      "tweetCount": 11
+    },
+    {
+      "entityId": "housing-hostel",
+      "name": "Housing/Hostel",
+      "nameVariants": [],
+      "category": "infrastructure",
+      "entityType": "Housing/Hostel",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-01-22",
+        "lastMention": "2026-01-06"
+      },
+      "sources": [
+        {
+          "date": "2025-01-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1882155233603678476",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1882155233603678476",
+          "eventType": "mou_signed",
+          "summary": "It was a moment of immense pride to represent Tamil Nadu at the Women In Tech Hub panel on “Driving Gender Parity in STEM for a Thriving Global Econom"
+        },
+        {
+          "date": "2025-12-22",
+          "handle": "spinesurgeon",
+          "tweetId": "2003298803882041542",
+          "fxUrl": "https://fxtwitter.com/spinesurgeon/status/2003298803882041542",
+          "eventType": "other",
+          "summary": "Just three years ago, #Chennai’s commuters were moving away from public buses, and its #transport authority was grappling with falling ridership, a sh"
+        },
+        {
+          "date": "2026-01-06",
+          "handle": "mkstalin",
+          "tweetId": "2008412066034651612",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2008412066034651612",
+          "eventType": "scheme_launch",
+          "summary": "Through #Thayumanavar programme, Tamil Nadu integrates housing, healthcare, education, nutrition, livelihood support and social security into a single"
+        },
+        {
+          "date": "2026-01-06",
+          "handle": "mkstalin",
+          "tweetId": "2008415401617879443",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2008415401617879443",
+          "eventType": "scheme_launch",
+          "summary": "Through #Thayumanavar programme, Tamil Nadu integrates housing, healthcare, education, nutrition, livelihood support and social security into a single"
+        },
+        {
+          "date": "2026-01-06",
+          "handle": "mkstalin",
+          "tweetId": "2008428669862375782",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2008428669862375782",
+          "eventType": "scheme_launch",
+          "summary": "Through #Thayumanavar programme, Tamil Nadu integrates housing, healthcare, education, nutrition, livelihood support and social security into a single"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "mkstalin",
+        "spinesurgeon"
+      ],
+      "tweetCount": 5
+    },
+    {
+      "entityId": "chennai-tidel-park-chennai",
+      "name": "TIDEL Park Chennai",
+      "nameVariants": [],
+      "category": "infrastructure",
+      "entityType": "TIDEL Park",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 403.0
+      },
+      "timeline": {
+        "firstMention": "2024-11-22",
+        "lastMention": "2025-10-04"
+      },
+      "sources": [
+        {
+          "date": "2024-11-22",
+          "handle": "mkstalin",
+          "tweetId": "1859849415453704539",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1859849415453704539",
+          "eventType": "ground_breaking",
+          "summary": "In 2000, Thalaivar Kalaignar laid the foundation for Tamil Nadu's IT revolution by inaugurating the first TIDEL Park in Chennai.\n\nToday, I proudly ina"
+        },
+        {
+          "date": "2024-11-22",
+          "handle": "mkstalin",
+          "tweetId": "1859849810544910495",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1859849810544910495",
+          "eventType": "ground_breaking",
+          "summary": "In 2000, Thalaivar Kalaignar laid the foundation for Tamil Nadu's IT revolution by inaugurating the first TIDEL Park in Chennai.\n\nToday, I proudly ina"
+        },
+        {
+          "date": "2025-02-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1891735475385163916",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1891735475385163916",
+          "eventType": "ground_breaking",
+          "summary": "🌟 BIG LEAP for Madurai and Trichy 🌟\n\nTamil Nadu’s IT revolution continues to expand beyond Chennai into all of #TamilNadu !\n\nHonourable @CMOTamilNadu "
+        },
+        {
+          "date": "2025-10-04",
+          "handle": "TRBRajaa",
+          "tweetId": "1974429093543448661",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1974429093543448661",
+          "eventType": "progress_update",
+          "summary": "Reviewed progress on the upcoming TIDEL Park in #Tiruchirappalli, one of our most important projects in taking IT and knowledge economy growth beyond "
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "mkstalin"
+      ],
+      "tweetCount": 4
+    },
+    {
+      "entityId": "salem-tidel-park",
+      "name": "TIDEL Park",
+      "nameVariants": [
+        "TIDEL Park Salem"
+      ],
+      "category": "infrastructure",
+      "entityType": "TIDEL Park",
+      "location": "Salem",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-02",
+        "lastMention": "2024-12-29"
+      },
+      "sources": [
+        {
+          "date": "2024-12-02",
+          "handle": "TheSalemNew",
+          "tweetId": "1867591034794127592",
+          "fxUrl": "https://fxtwitter.com/TheSalemNew/status/1867591034794127592",
+          "eventType": "inauguration",
+          "summary": "#Connex Info Technologies opened thier second office in #Salem at #TIDEL Neo 🧑‍💻\n\n🛑 First Office @ SKS Hospital Road.\n\nThey also have thier presence i"
+        },
+        {
+          "date": "2024-12-29",
+          "handle": "mkstalin",
+          "tweetId": "1873359007416451178",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1873359007416451178",
+          "eventType": "progress_update",
+          "summary": "The first TIDEL Park in South Tamil Nadu, at Thoothukudi, marks a new chapter of opportunity, creating a pathway for young talent.\n\nWith the Pattabira"
+        }
+      ],
+      "accountsCovering": [
+        "TheSalemNew",
+        "mkstalin"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "hospital",
+      "name": "Hospital",
+      "nameVariants": [],
+      "category": "infrastructure",
+      "entityType": "Hospital",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-20",
+        "lastMention": "2025-10-29"
+      },
+      "sources": [
+        {
+          "date": "2025-05-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1924870902162063378",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1924870902162063378",
+          "eventType": "milestone",
+          "summary": "For those of who are wondering WHO's statue that is and asking WHY is \"racer\" Ajithkumar, aka AK, literally praying to him !!!\n\n#AyrtonSenna or \"#Magi"
+        },
+        {
+          "date": "2025-10-29",
+          "handle": "JabesUSR",
+          "tweetId": "1983540398204268739",
+          "fxUrl": "https://fxtwitter.com/JabesUSR/status/1983540398204268739",
+          "eventType": "progress_update",
+          "summary": "With 20 million+ commercial space, 200+ events in Chennai Trade center, Prime Hotel Plot at Fintech City with exclusive access to CTC is an excellent "
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "JabesUSR"
+      ],
+      "tweetCount": 2
+    },
+    {
+      "entityId": "coimbatore-madurai-metro",
+      "name": "Madurai Metro",
+      "nameVariants": [],
+      "category": "infrastructure",
+      "entityType": "Madurai Metro",
+      "location": "Coimbatore",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-18",
+        "lastMention": "2025-11-18"
+      },
+      "sources": [
+        {
+          "date": "2025-11-18",
+          "handle": "VigneshAnand_Vm",
+          "tweetId": "1990742428454957138",
+          "fxUrl": "https://fxtwitter.com/VigneshAnand_Vm/status/1990742428454957138",
+          "eventType": "mou_signed",
+          "summary": "Why is the NDA against Tamil Nadu?\n\nThe Central Government rejected the Coimbatore and Madurai Metro Rail projects.\n\nIt returned the project report su"
+        },
+        {
+          "date": "2025-11-18",
+          "handle": "VigneshAnand_Vm",
+          "tweetId": "1990963135952679194",
+          "fxUrl": "https://fxtwitter.com/VigneshAnand_Vm/status/1990963135952679194",
+          "eventType": "other",
+          "summary": "Proof of deliberate betrayal:  \nUnion Ministry of Housing & Urban Affairs (MoHUA) officially REJECTS Coimbatore & Madurai Metro Rail projects.  \n\nThis"
+        }
+      ],
+      "accountsCovering": [
+        "VigneshAnand_Vm"
+      ],
+      "tweetCount": 2
+    }
+  ]
+}

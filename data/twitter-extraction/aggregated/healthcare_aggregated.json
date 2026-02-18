@@ -1,0 +1,1530 @@
+{
+  "category": "healthcare",
+  "aggregatedAt": "2026-02-17T17:44:43.322003+00:00",
+  "stats": {
+    "entries": 206,
+    "entities": 43
+  },
+  "entities": [
+    {
+      "entityId": "vice-president-thiru",
+      "name": "Vice President Thiru",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-01",
+        "lastMention": "2025-10-21"
+      },
+      "sources": [
+        {
+          "date": "2024-07-01",
+          "handle": "mkstalin",
+          "tweetId": "1807650727638229335",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1807650727638229335",
+          "eventType": "other",
+          "summary": "Warm birthday wishes to former Vice President Thiru @MVenkaiahNaidu garu. \n\nWishing you happiness and good health."
+        },
+        {
+          "date": "2024-07-01",
+          "handle": "mkstalin",
+          "tweetId": "1807652856528552113",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1807652856528552113",
+          "eventType": "other",
+          "summary": "Warm birthday wishes to former Vice President Thiru @MVenkaiahNaidu garu. \n\nWishing you happiness and good health."
+        },
+        {
+          "date": "2024-12-12",
+          "handle": "mkstalin",
+          "tweetId": "1867065596728533144",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867065596728533144",
+          "eventType": "other",
+          "summary": "Hearty birthday wishes to @NCPspeaks President Thiru @PawarSpeaks.\n\nYour remarkable contributions to public life and nation-building serve as a profou..."
+        },
+        {
+          "date": "2025-07-01",
+          "handle": "mkstalin",
+          "tweetId": "1939851448054894980",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1939851448054894980",
+          "eventType": "other",
+          "summary": "Birthday greetings to former Vice President, Thiru. @MVenkaiahNaidu garu.\n\nWishing you good health, happiness, and continued wisdom."
+        },
+        {
+          "date": "2025-07-01",
+          "handle": "mkstalin",
+          "tweetId": "1939902100038959592",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1939902100038959592",
+          "eventType": "other",
+          "summary": "Birthday greetings to former Vice President, Thiru. @MVenkaiahNaidu garu.\n\nWishing you good health, happiness, and continued wisdom."
+        },
+        {
+          "date": "2025-07-21",
+          "handle": "mkstalin",
+          "tweetId": "1947102979539996911",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1947102979539996911",
+          "eventType": "other",
+          "summary": "Warm birthday greetings to @INCIndia President Thiru @kharge avaru.\n\nYou have been pivotal in strengthening #INDIA by standing firm against forces tha..."
+        },
+        {
+          "date": "2025-07-21",
+          "handle": "mkstalin",
+          "tweetId": "1947133361895641299",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1947133361895641299",
+          "eventType": "other",
+          "summary": "Warm birthday greetings to @INCIndia President Thiru @kharge avaru.\n\nYou have been pivotal in strengthening #INDIA by standing firm against forces tha..."
+        },
+        {
+          "date": "2025-10-02",
+          "handle": "mkstalin",
+          "tweetId": "1973711364905676810",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1973711364905676810",
+          "eventType": "other",
+          "summary": "Sending my warm wishes to @INCIndia President Thiru. @kharge avaru for a speedy and complete recovery. \n\nGlad to hear he is in good health and ready t..."
+        },
+        {
+          "date": "2025-10-02",
+          "handle": "mkstalin",
+          "tweetId": "1973732848898297925",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1973732848898297925",
+          "eventType": "other",
+          "summary": "Sending my warm wishes to @INCIndia President Thiru. @kharge avaru for a speedy and complete recovery. \n\nGlad to hear he is in good health and ready t..."
+        },
+        {
+          "date": "2025-10-21",
+          "handle": "mkstalin",
+          "tweetId": "1980478110702416324",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1980478110702416324",
+          "eventType": "other",
+          "summary": "Birthday greetings to @JKNC_ President Thiru. Farooq Abdullah.\n\nHe stands as a symbol of Kashmir’s voice, fighting against the erosion of its rights a..."
+        },
+        {
+          "date": "2025-10-21",
+          "handle": "mkstalin",
+          "tweetId": "1980487773393154320",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1980487773393154320",
+          "eventType": "other",
+          "summary": "Birthday greetings to @JKNC_ President Thiru. Farooq Abdullah.\n\nHe stands as a symbol of Kashmir’s voice, fighting against the erosion of its rights a..."
+        },
+        {
+          "date": "2025-10-21",
+          "handle": "mkstalin",
+          "tweetId": "1980522439298937109",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1980522439298937109",
+          "eventType": "other",
+          "summary": "Birthday greetings to @JKNC_ President Thiru. Farooq Abdullah.\n\nHe stands as a symbol of Kashmir’s voice, fighting against the erosion of its rights a..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 12,
+      "aggregatedAt": "2026-02-17T17:44:43.321695+00:00"
+    },
+    {
+      "entityId": "chief-minister",
+      "name": "Chief Minister",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-21",
+        "lastMention": "2025-06-26",
+        "inauguration": "2024-08-21"
+      },
+      "sources": [
+        {
+          "date": "2024-08-21",
+          "handle": "sang1983",
+          "tweetId": "1826267673430466854",
+          "fxUrl": "https://fxtwitter.com/sang1983/status/1826267673430466854",
+          "eventType": "inauguration",
+          "summary": "Here is the list of projects that were inaugurated by Chief Minister @mkstalin on Wednesday at the Tamil Investment Conclave 2024\n\nInauguration of Pro..."
+        },
+        {
+          "date": "2024-10-17",
+          "handle": "mkstalin",
+          "tweetId": "1846762017849307429",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1846762017849307429",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble Chief Minister of Punjab Thiru. @BhagwantMann! \n\nWishing you a year filled with good health, strength, and success in al..."
+        },
+        {
+          "date": "2024-10-17",
+          "handle": "mkstalin",
+          "tweetId": "1846769355964796987",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1846769355964796987",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble Chief Minister of Punjab Thiru. @BhagwantMann! \n\nWishing you a year filled with good health, strength, and success in al..."
+        },
+        {
+          "date": "2025-06-26",
+          "handle": "mkstalin",
+          "tweetId": "1938139401844101605",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1938139401844101605",
+          "eventType": "other",
+          "summary": "Spoke to Dr. Rajasekar from Coimbatore, who treated former Chief Minister of Odisha Thiru. @Naveen_Odisha at a hospital in Mumbai. Glad to hear from h..."
+        },
+        {
+          "date": "2025-06-26",
+          "handle": "mkstalin",
+          "tweetId": "1938146051783069865",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1938146051783069865",
+          "eventType": "other",
+          "summary": "Spoke to Dr. Rajasekar from Coimbatore, who treated former Chief Minister of Odisha Thiru. @Naveen_Odisha at a hospital in Mumbai. Glad to hear from h..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin",
+        "sang1983"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 5,
+      "aggregatedAt": "2026-02-17T17:44:43.321709+00:00"
+    },
+    {
+      "entityId": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-28",
+        "lastMention": "2025-08-25"
+      },
+      "sources": [
+        {
+          "date": "2024-12-28",
+          "handle": "supriyasahuias",
+          "tweetId": "1872922022663340105",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/1872922022663340105",
+          "eventType": "expansion",
+          "summary": "How an effective public health system can bring positive outcomes in the lives of children born with congenital deafness can be seen in the cochlear i..."
+        },
+        {
+          "date": "2025-04-28",
+          "handle": "mkstalin",
+          "tweetId": "1916804005579350225",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1916804005579350225",
+          "eventType": "milestone",
+          "summary": "#MakkalaiThediMaruthuvam is not just delivering healthcare — it is delivering results.\n\nTamil Nadu has achieved 17% hypertension control and 16.7% dia..."
+        },
+        {
+          "date": "2025-04-28",
+          "handle": "mkstalin",
+          "tweetId": "1916821892172071380",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1916821892172071380",
+          "eventType": "milestone",
+          "summary": "#MakkalaiThediMaruthuvam is not just delivering healthcare — it is delivering results.\n\nTamil Nadu has achieved 17% hypertension control and 16.7% dia..."
+        },
+        {
+          "date": "2025-08-25",
+          "handle": "mkstalin",
+          "tweetId": "1959853109372703099",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1959853109372703099",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu has shown how sustained investments and social responsibility can make public healthcare accessible to all. From reducing malnutrition to p..."
+        },
+        {
+          "date": "2025-08-25",
+          "handle": "mkstalin",
+          "tweetId": "1959873054487765446",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1959873054487765446",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu has shown how sustained investments and social responsibility can make public healthcare accessible to all. From reducing malnutrition to p..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin",
+        "supriyasahuias"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 5,
+      "aggregatedAt": "2026-02-17T17:44:43.321728+00:00"
+    },
+    {
+      "entityId": "general-secy-com",
+      "name": "General Secy Com",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-12",
+        "lastMention": "2024-08-12"
+      },
+      "sources": [
+        {
+          "date": "2024-08-12",
+          "handle": "mkstalin",
+          "tweetId": "1822899706793443484",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1822899706793443484",
+          "eventType": "other",
+          "summary": "Birthday wishes to @cpimspeak General Secy Com. @SitaramYechury.\n\nOur camaraderie and shared values strengthen our resolve in the fight for a just and..."
+        },
+        {
+          "date": "2024-08-12",
+          "handle": "mkstalin",
+          "tweetId": "1822902619653726442",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1822902619653726442",
+          "eventType": "other",
+          "summary": "Birthday wishes to @cpimspeak General Secy Com. @SitaramYechury.\n\nOur camaraderie and shared values strengthen our resolve in the fight for a just and..."
+        },
+        {
+          "date": "2024-08-12",
+          "handle": "mkstalin",
+          "tweetId": "1822903710365942023",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1822903710365942023",
+          "eventType": "other",
+          "summary": "Birthday wishes to @cpimspeak General Secy Com. @SitaramYechury.\n\nOur camaraderie and shared values strengthen our resolve in the fight for a just and..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.321705+00:00"
+    },
+    {
+      "entityId": "district-collector",
+      "name": "District Collector",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-11",
+        "lastMention": "2024-10-11"
+      },
+      "sources": [
+        {
+          "date": "2024-10-11",
+          "handle": "mkstalin",
+          "tweetId": "1844756829735154023",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1844756829735154023",
+          "eventType": "beneficiary_update",
+          "summary": "I am heartened to hear that the #AirIndiaExpress flight has landed safely. Upon receiving news of the landing gear issue, I immediately coordinated an..."
+        },
+        {
+          "date": "2024-10-11",
+          "handle": "mkstalin",
+          "tweetId": "1844758437571313827",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1844758437571313827",
+          "eventType": "beneficiary_update",
+          "summary": "I am heartened to hear that the #AirIndiaExpress flight has landed safely. Upon receiving news of the landing gear issue, I immediately coordinated an..."
+        },
+        {
+          "date": "2024-10-11",
+          "handle": "mkstalin",
+          "tweetId": "1844759501972668830",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1844759501972668830",
+          "eventType": "beneficiary_update",
+          "summary": "I am heartened to hear that the #AirIndiaExpress flight has landed safely. Upon receiving news of the landing gear issue, I immediately coordinated an..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.321720+00:00"
+    },
+    {
+      "entityId": "aiims-delhi",
+      "name": "Aiims Delhi",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-23",
+        "lastMention": "2025-05-23"
+      },
+      "sources": [
+        {
+          "date": "2025-05-23",
+          "handle": "mkstalin",
+          "tweetId": "1925923192213750135",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1925923192213750135",
+          "eventType": "other",
+          "summary": "Just met Dr. A. Parmeswaran at AIIMS Delhi, the ENT surgeon from Tamil Nadu, who survived the #Pahalgam terror attack. \n\nCalm, composed and courageous..."
+        },
+        {
+          "date": "2025-05-23",
+          "handle": "mkstalin",
+          "tweetId": "1925923691453427859",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1925923691453427859",
+          "eventType": "other",
+          "summary": "Just met Dr. A. Parmeswaran at AIIMS Delhi, the ENT surgeon from Tamil Nadu, who survived the #Pahalgam terror attack. \n\nCalm, composed and courageous..."
+        },
+        {
+          "date": "2025-05-23",
+          "handle": "mkstalin",
+          "tweetId": "1925932662595748295",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1925932662595748295",
+          "eventType": "other",
+          "summary": "Just met Dr. A. Parmeswaran at AIIMS Delhi, the ENT surgeon from Tamil Nadu, who survived the #Pahalgam terror attack. \n\nCalm, composed and courageous..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.321744+00:00"
+    },
+    {
+      "entityId": "telangana-chief-minister-thiru",
+      "name": "Telangana Chief Minister Thiru",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-08",
+        "lastMention": "2025-11-08"
+      },
+      "sources": [
+        {
+          "date": "2025-11-08",
+          "handle": "mkstalin",
+          "tweetId": "1987003209702089153",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1987003209702089153",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble Telangana Chief Minister Thiru. @revanth_anumula garu.\n\nWishing him happiness, good health and many more years of public..."
+        },
+        {
+          "date": "2025-11-08",
+          "handle": "mkstalin",
+          "tweetId": "1987014975421096191",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1987014975421096191",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble Telangana Chief Minister Thiru. @revanth_anumula garu.\n\nWishing him happiness, good health and many more years of public..."
+        },
+        {
+          "date": "2025-11-08",
+          "handle": "mkstalin",
+          "tweetId": "1987053911182876950",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1987053911182876950",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble Telangana Chief Minister Thiru. @revanth_anumula garu.\n\nWishing him happiness, good health and many more years of public..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.321774+00:00"
+    },
+    {
+      "entityId": "tmt-droupadi-murmu-avl",
+      "name": "Tmt Droupadi Murmu Avl",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-20",
+        "lastMention": "2024-06-20"
+      },
+      "sources": [
+        {
+          "date": "2024-06-20",
+          "handle": "mkstalin",
+          "tweetId": "1803639146348696061",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1803639146348696061",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble President of India (@rashtrapatibhvn) Tmt Droupadi Murmu Avl.\n\nI extend my best wishes to our Hon'ble President for good..."
+        },
+        {
+          "date": "2024-06-20",
+          "handle": "mkstalin",
+          "tweetId": "1803642375958597798",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1803642375958597798",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble President of India (@rashtrapatibhvn) Tmt Droupadi Murmu Avl.\n\nI extend my best wishes to our Hon'ble President for good..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321676+00:00"
+    },
+    {
+      "entityId": "art-connects-women",
+      "name": "Art Connects Women",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-09",
+        "lastMention": "2024-07-09"
+      },
+      "sources": [
+        {
+          "date": "2024-07-09",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1810573861290922320",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1810573861290922320",
+          "eventType": "other",
+          "summary": "UNESCO சார்பில் துபாயில் நடைபெற்ற 108 நாடுகளைச் சேர்ந்த ஓவியர்கள் கலந்து கொண்ட \"Art Connects Women 7th Edition 2024\" ஓவியப் போட்டியில் இந்தியாவின் சார..."
+        },
+        {
+          "date": "2024-07-09",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1810733951591600520",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1810733951591600520",
+          "eventType": "other",
+          "summary": "UNESCO சார்பில் துபாயில் நடைபெற்ற 108 நாடுகளைச் சேர்ந்த ஓவியர்கள் கலந்து கொண்ட \"Art Connects Women 7th Edition 2024\" ஓவியப் போட்டியில் இந்தியாவின் சார..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321698+00:00"
+    },
+    {
+      "entityId": "kalaignar-centenary-super-speciality-government-hospital",
+      "name": "Kalaignar Centenary Super Speciality Government Hospital",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-12",
+        "lastMention": "2024-11-16"
+      },
+      "sources": [
+        {
+          "date": "2024-07-12",
+          "handle": "supriyasahuias",
+          "tweetId": "1811908719740956786",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/1811908719740956786",
+          "eventType": "other",
+          "summary": "Dinner service for patients at the Kalaignar Centenary Super Speciality Government Hospital at Chennai was the highlight during my visit to the hospit..."
+        },
+        {
+          "date": "2024-11-16",
+          "handle": "maharajan_dr",
+          "tweetId": "1857781182341042283",
+          "fxUrl": "https://fxtwitter.com/maharajan_dr/status/1857781182341042283",
+          "eventType": "other",
+          "summary": "From Kalaignar Centenary Super Specialty Hospital, Guindy \n\n👉🏻"
+        }
+      ],
+      "accountsCovering": [
+        "maharajan_dr",
+        "supriyasahuias"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321700+00:00"
+    },
+    {
+      "entityId": "prime-minister-thiru",
+      "name": "Prime Minister Thiru",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-17",
+        "lastMention": "2024-09-17"
+      },
+      "sources": [
+        {
+          "date": "2024-09-17",
+          "handle": "mkstalin",
+          "tweetId": "1835873811607986421",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1835873811607986421",
+          "eventType": "other",
+          "summary": "Warmest birthday wishes to Hon’ble Prime Minister Thiru @narendramodi. Wishing you a long life with enduring health in the years ahead."
+        },
+        {
+          "date": "2024-09-17",
+          "handle": "mkstalin",
+          "tweetId": "1835904741395546513",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1835904741395546513",
+          "eventType": "other",
+          "summary": "Warmest birthday wishes to Hon’ble Prime Minister Thiru @narendramodi. Wishing you a long life with enduring health in the years ahead."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321712+00:00"
+    },
+    {
+      "entityId": "congress-parliamentary-party-chairperson-tmt",
+      "name": "Congress Parliamentary Party Chairperson Tmt",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-09",
+        "lastMention": "2024-12-09"
+      },
+      "sources": [
+        {
+          "date": "2024-12-09",
+          "handle": "mkstalin",
+          "tweetId": "1865968896970568100",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1865968896970568100",
+          "eventType": "other",
+          "summary": "Birthday greetings to Congress Parliamentary Party Chairperson Tmt. Sonia Gandhi. From navigating formidable challenges to leading with grace, her jou..."
+        },
+        {
+          "date": "2024-12-09",
+          "handle": "mkstalin",
+          "tweetId": "1865987640048210299",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1865987640048210299",
+          "eventType": "other",
+          "summary": "Birthday greetings to Congress Parliamentary Party Chairperson Tmt. Sonia Gandhi. From navigating formidable challenges to leading with grace, her jou..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321724+00:00"
+    },
+    {
+      "entityId": "nilgiri-government-hospital",
+      "name": "Nilgiri Government Hospital",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-25",
+        "lastMention": "2025-10-31",
+        "inauguration": "2025-03-25"
+      },
+      "sources": [
+        {
+          "date": "2025-03-25",
+          "handle": "dstock_insights",
+          "tweetId": "1904600678737318214",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1904600678737318214",
+          "eventType": "inauguration",
+          "summary": "Nilgiri Government Hospital is all set to become the only 700-bed medical hospital in the hills. With 12 operation theatres, CT scan, MRI, and other f..."
+        },
+        {
+          "date": "2025-10-31",
+          "handle": "dstock_insights",
+          "tweetId": "1984308786077782509",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1984308786077782509",
+          "eventType": "other",
+          "summary": "@rishi4u Nice 🙂 \n\nPeriyar Government Hospital, Tamil Nadu 🤗\n"
+        }
+      ],
+      "accountsCovering": [
+        "dstock_insights"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321735+00:00"
+    },
+    {
+      "entityId": "president-tmt",
+      "name": "President Tmt",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-20",
+        "lastMention": "2025-06-20"
+      },
+      "sources": [
+        {
+          "date": "2025-06-20",
+          "handle": "mkstalin",
+          "tweetId": "1935868955387891929",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1935868955387891929",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble President Tmt. Droupadi Murmu. Wishing you good health, peace, and happiness in your service to the nation.\n\n@rashtrapat..."
+        },
+        {
+          "date": "2025-06-20",
+          "handle": "mkstalin",
+          "tweetId": "1935930387659907538",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1935930387659907538",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon'ble President Tmt. Droupadi Murmu. Wishing you good health, peace, and happiness in your service to the nation.\n\n@rashtrapat..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321746+00:00"
+    },
+    {
+      "entityId": "nagaland-thiru",
+      "name": "Nagaland Thiru",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-08",
+        "lastMention": "2025-08-08"
+      },
+      "sources": [
+        {
+          "date": "2025-08-08",
+          "handle": "mkstalin",
+          "tweetId": "1953700626237620561",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1953700626237620561",
+          "eventType": "other",
+          "summary": "Deeply concerned to hear about Hon’ble Governor of Nagaland Thiru. @LaGanesan’s hospitalisation. I wish him a speedy recovery and return to good healt..."
+        },
+        {
+          "date": "2025-08-08",
+          "handle": "mkstalin",
+          "tweetId": "1953702089349378148",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1953702089349378148",
+          "eventType": "other",
+          "summary": "Deeply concerned to hear about Hon’ble Governor of Nagaland Thiru. @LaGanesan’s hospitalisation. I wish him a speedy recovery and return to good healt..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321752+00:00"
+    },
+    {
+      "entityId": "aamaadmiparty-national-convenor-thiru",
+      "name": "Aamaadmiparty National Convenor Thiru",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-16",
+        "lastMention": "2025-08-16"
+      },
+      "sources": [
+        {
+          "date": "2025-08-16",
+          "handle": "mkstalin",
+          "tweetId": "1956543240045502485",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1956543240045502485",
+          "eventType": "other",
+          "summary": "Warm birthday greetings to @AamAadmiParty National Convenor Thiru. @ArvindKejriwal. Wishing you good health and success in your service to the people...."
+        },
+        {
+          "date": "2025-08-16",
+          "handle": "mkstalin",
+          "tweetId": "1956600627573698966",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1956600627573698966",
+          "eventType": "other",
+          "summary": "Warm birthday greetings to @AamAadmiParty National Convenor Thiru. @ArvindKejriwal. Wishing you good health and success in your service to the people...."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321756+00:00"
+    },
+    {
+      "entityId": "pmoindia-thiru",
+      "name": "Pmoindia Thiru",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-17",
+        "lastMention": "2025-09-17"
+      },
+      "sources": [
+        {
+          "date": "2025-09-17",
+          "handle": "mkstalin",
+          "tweetId": "1968136574912123144",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1968136574912123144",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon’ble @PMOIndia Thiru. @narendramodi. \n\nI convey my wishes for his good health, happiness, and a long life. #NarendraModi"
+        },
+        {
+          "date": "2025-09-17",
+          "handle": "mkstalin",
+          "tweetId": "1968165196360454338",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1968165196360454338",
+          "eventType": "other",
+          "summary": "Birthday greetings to Hon’ble @PMOIndia Thiru. @narendramodi. \n\nI convey my wishes for his good health, happiness, and a long life. #NarendraModi"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321761+00:00"
+    },
+    {
+      "entityId": "un-commission",
+      "name": "Un Commission",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-18",
+        "lastMention": "2025-09-18"
+      },
+      "sources": [
+        {
+          "date": "2025-09-18",
+          "handle": "mkstalin",
+          "tweetId": "1968575923730497718",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1968575923730497718",
+          "eventType": "other",
+          "summary": "Gaza is gasping, the world must not look away.\n\nI am shaken beyond words by what is unfolding in #Gaza. Every visual is gut wrenching. The cries of in..."
+        },
+        {
+          "date": "2025-09-18",
+          "handle": "mkstalin",
+          "tweetId": "1968578424349618600",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1968578424349618600",
+          "eventType": "other",
+          "summary": "Gaza is gasping, the world must not look away.\n\nI am shaken beyond words by what is unfolding in #Gaza. Every visual is gut wrenching. The cries of in..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.321763+00:00"
+    },
+    {
+      "entityId": "government-primary-health-centre",
+      "name": "Government Primary Health Centre",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-26",
+        "lastMention": "2024-06-26"
+      },
+      "sources": [
+        {
+          "date": "2024-06-26",
+          "handle": "dstock_insights",
+          "tweetId": "1805949889547047258",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1805949889547047258",
+          "eventType": "other",
+          "summary": "Happy mother's review of Government Primary Health Centre in Kammapuram Village (Near Virrudhachalam, Cuddalore district) This is her second delivery ..."
+        }
+      ],
+      "accountsCovering": [
+        "dstock_insights"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321689+00:00"
+    },
+    {
+      "entityId": "healthcare-gcc-thryve-digital",
+      "name": "Healthcare Gcc Thryve Digital",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-26",
+        "lastMention": "2024-07-26",
+        "inauguration": "2024-07-26"
+      },
+      "sources": [
+        {
+          "date": "2024-07-26",
+          "handle": "TNIndMin",
+          "tweetId": "1816723506903867469",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1816723506903867469",
+          "eventType": "inauguration",
+          "summary": "“Healthcare GCC Thryve Digital expands in Chennai”\n\n“MX Technologies opens its first India development centre in Chennai”\n\nVia @businessline \n\n#Invest..."
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321702+00:00"
+    },
+    {
+      "entityId": "cancer-centre",
+      "name": "Cancer Centre",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-20",
+        "lastMention": "2024-09-20",
+        "inauguration": "2024-09-20"
+      },
+      "sources": [
+        {
+          "date": "2024-09-20",
+          "handle": "Manothangaraj",
+          "tweetId": "1837461055670288460",
+          "fxUrl": "https://fxtwitter.com/Manothangaraj/status/1837461055670288460",
+          "eventType": "inauguration",
+          "summary": "I attended the inauguration of @hospital_kims Cancer Centre and Multi-Speciality Hospital, Nagercoil in Chennai in the presence of Honourable Minister..."
+        }
+      ],
+      "accountsCovering": [
+        "Manothangaraj"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321717+00:00"
+    },
+    {
+      "entityId": "dr-balaji",
+      "name": "Dr Balaji",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-14",
+        "lastMention": "2024-11-14"
+      },
+      "sources": [
+        {
+          "date": "2024-11-14",
+          "handle": "Dr_Ezhilan",
+          "tweetId": "1856999918847537218",
+          "fxUrl": "https://fxtwitter.com/Dr_Ezhilan/status/1856999918847537218",
+          "eventType": "other",
+          "summary": "Met my colleague Dr Balaji yesterday \nHe is stable \nHe will be back to serve the community and poor cancer patients in kalaignar centenary hospital"
+        }
+      ],
+      "accountsCovering": [
+        "Dr_Ezhilan"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321722+00:00"
+    },
+    {
+      "entityId": "frontier-lifeline-hospital",
+      "name": "Frontier Lifeline Hospital",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-01-26",
+        "lastMention": "2025-01-26"
+      },
+      "sources": [
+        {
+          "date": "2025-01-26",
+          "handle": "mkstalin",
+          "tweetId": "1883450452848857417",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1883450452848857417",
+          "eventType": "other",
+          "summary": "Deeply saddened by the passing of Dr. K.M.Cherian, Chairman and CEO of Frontier Lifeline Hospital, and a globally renowned name in cardiac surgery. \n\n..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321730+00:00"
+    },
+    {
+      "entityId": "dmk",
+      "name": "Dmk",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-17",
+        "lastMention": "2025-03-17"
+      },
+      "sources": [
+        {
+          "date": "2025-03-17",
+          "handle": "grok",
+          "tweetId": "1901835596844408985",
+          "fxUrl": "https://fxtwitter.com/grok/status/1901835596844408985",
+          "eventType": "scheme_launch",
+          "summary": "The DMK govt has shown strong performance since 2021, with Tamil Nadu's GDP growth at 7.92% (2021-22), 8.19% (2022-23), and 8.23% (2023-24), outpacing..."
+        }
+      ],
+      "accountsCovering": [
+        "grok"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321732+00:00"
+    },
+    {
+      "entityId": "mdrd-already",
+      "name": "Mdrd Already",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-19",
+        "lastMention": "2025-04-19"
+      },
+      "sources": [
+        {
+          "date": "2025-04-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1913549778086220038",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1913549778086220038",
+          "eventType": "other",
+          "summary": "@Bacteria_Offl @DrSenthil_MDRD Already processing...health min in the loop 👍🏾"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321737+00:00"
+    },
+    {
+      "entityId": "wishing-thiru",
+      "name": "Wishing Thiru",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-04",
+        "lastMention": "2025-05-04"
+      },
+      "sources": [
+        {
+          "date": "2025-05-04",
+          "handle": "TRBRajaa",
+          "tweetId": "1918887115632644337",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1918887115632644337",
+          "eventType": "other",
+          "summary": "Wishing Thiru @nramind a very happy 80th birthday and healthy year ahead !\n\nA torchbearer of fearless #journalism and a lifelong defender of democrati..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321740+00:00"
+    },
+    {
+      "entityId": "apollo-proton-cancer-centre",
+      "name": "Apollo Proton Cancer Centre",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-08",
+        "lastMention": "2025-05-08",
+        "mouSigned": "2025-05-08"
+      },
+      "sources": [
+        {
+          "date": "2025-05-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1920442379326328935",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1920442379326328935",
+          "eventType": "mou_signed",
+          "summary": "It was my honour to inaugurate yet another pioneering healthcare unit at the Apollo Proton Cancer Centre: a Bone Marrow Transplant (BMT) unit with Tot..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321742+00:00"
+    },
+    {
+      "entityId": "ungaludan-stalin",
+      "name": "Ungaludan Stalin",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-23",
+        "lastMention": "2025-07-23"
+      },
+      "sources": [
+        {
+          "date": "2025-07-23",
+          "handle": "lakhinathan",
+          "tweetId": "1947934675009523734",
+          "fxUrl": "https://fxtwitter.com/lakhinathan/status/1947934675009523734",
+          "eventType": "other",
+          "summary": "Chief minister @mkstalin interacts with the general public visiting #உங்களுடன்_ஸ்டாலின் Ungaludan Stalin camp organised by the district administration..."
+        }
+      ],
+      "accountsCovering": [
+        "lakhinathan"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321748+00:00"
+    },
+    {
+      "entityId": "so-proud",
+      "name": "So Proud",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-23",
+        "lastMention": "2025-07-23"
+      },
+      "sources": [
+        {
+          "date": "2025-07-23",
+          "handle": "TRBRajaa",
+          "tweetId": "1948003633028608261",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1948003633028608261",
+          "eventType": "other",
+          "summary": "உழைப்பு ! உழைப்பு ! உழைப்பு !\nஅதுதான் @mkstalin 🌄\n\nஇதுவே இவரது உயிர் மூச்சு ! எங்கிருந்தாலும் எந்நேரமும் தமிழ்நாட்டு மக்களின் வளர்ச்சி , தமிழ்நாட்டின்..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321750+00:00"
+    },
+    {
+      "entityId": "district-firewall",
+      "name": "District Firewall",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-20",
+        "lastMention": "2025-08-20",
+        "inauguration": "2025-08-20"
+      },
+      "sources": [
+        {
+          "date": "2025-08-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1958081792789114971",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1958081792789114971",
+          "eventType": "inauguration",
+          "summary": "கழகத் தலைவர் ஆணைப்படி\nதகவல் தொழில்நுட்ப அணியின்\n#அண்ணா_அறிவகம் #DMKDistrictFirewall !\n\nமீதமுள்ள மாவட்டங்களிலும் விரைந்து தொடங்கிடுக !\n\nமாண்புமிகு கழகத..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321758+00:00"
+    },
+    {
+      "entityId": "medical-aptitude",
+      "name": "Medical Aptitude",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-09",
+        "lastMention": "2025-09-09"
+      },
+      "sources": [
+        {
+          "date": "2025-09-09",
+          "handle": "drtharun",
+          "tweetId": "1965370997949022212",
+          "fxUrl": "https://fxtwitter.com/drtharun/status/1965370997949022212",
+          "eventType": "other",
+          "summary": "Neet is not testing -Medical Aptitude! \n\n-Honorable Minister Annan\nThiru. @Anbil_Mahesh Avl.,\n\n@Udhaystalin @TRBRajaa @arivalayam @DMKITwing"
+        }
+      ],
+      "accountsCovering": [
+        "drtharun"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321760+00:00"
+    },
+    {
+      "entityId": "karur-stampede",
+      "name": "Karur Stampede",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-28",
+        "lastMention": "2025-09-28"
+      },
+      "sources": [
+        {
+          "date": "2025-09-28",
+          "handle": "iamyournaveen",
+          "tweetId": "1972173095428673548",
+          "fxUrl": "https://fxtwitter.com/iamyournaveen/status/1972173095428673548",
+          "eventType": "other",
+          "summary": "CM’s Compassion in Action – #KarurStampede\n\n> 7:30 PM – Karur Stampede\n> 8:00 PM – Sent Ministers immediately to Karur\n> 9:30 PM – Emergency meeting w..."
+        }
+      ],
+      "accountsCovering": [
+        "iamyournaveen"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321765+00:00"
+    },
+    {
+      "entityId": "open-letter",
+      "name": "Open Letter",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-28",
+        "lastMention": "2025-09-28",
+        "inauguration": "2025-09-28"
+      },
+      "sources": [
+        {
+          "date": "2025-09-28",
+          "handle": "naveensundar87",
+          "tweetId": "1972480686067187864",
+          "fxUrl": "https://fxtwitter.com/naveensundar87/status/1972480686067187864",
+          "eventType": "inauguration",
+          "summary": "An Open Letter to @TVKVijayHQ \n\n38 lives lost. Dozens injured. Karur will never forget Sept 27. But what is harder to forget is how you, as TVK leader..."
+        }
+      ],
+      "accountsCovering": [
+        "naveensundar87"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321767+00:00"
+    },
+    {
+      "entityId": "karunanidhi",
+      "name": "Karunanidhi",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-29",
+        "lastMention": "2025-09-29"
+      },
+      "sources": [
+        {
+          "date": "2025-09-29",
+          "handle": "VamsiChandran",
+          "tweetId": "1972718181002129653",
+          "fxUrl": "https://fxtwitter.com/VamsiChandran/status/1972718181002129653",
+          "eventType": "other",
+          "summary": "In Karunanidhi's funeral, there was a stampede 3 people were killed and 50 were injured, @mkstalin visited GH that evening itself to enquire about the..."
+        }
+      ],
+      "accountsCovering": [
+        "VamsiChandran"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321769+00:00"
+    },
+    {
+      "entityId": "ironically-murderer-vijay",
+      "name": "Ironically Murderer Vijay",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-03",
+        "lastMention": "2025-10-03"
+      },
+      "sources": [
+        {
+          "date": "2025-10-03",
+          "handle": "sailaks11",
+          "tweetId": "1974023791882784782",
+          "fxUrl": "https://fxtwitter.com/sailaks11/status/1974023791882784782",
+          "eventType": "other",
+          "summary": "The robustness of TN government Medical services and the dedication of TN government drs is unparalleled. If not for us the death toll would have been..."
+        }
+      ],
+      "accountsCovering": [
+        "sailaks11"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321770+00:00"
+    },
+    {
+      "entityId": "citizens-win",
+      "name": "Citizens Win",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-31",
+        "lastMention": "2025-10-31"
+      },
+      "sources": [
+        {
+          "date": "2025-10-31",
+          "handle": "TRBRajaa",
+          "tweetId": "1984309740680429595",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1984309740680429595",
+          "eventType": "other",
+          "summary": "THIS👇🏾 is the kind of healthy competition that's needed...When it's thus,\nPEOPLE / CITIZENS WIN.\n#DravidianModel and #KeralaModel\nBoth are models that..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321772+00:00"
+    },
+    {
+      "entityId": "wishing-honourable-telangana-chief-minister",
+      "name": "Wishing Honourable Telangana Chief Minister",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-08",
+        "lastMention": "2025-11-08"
+      },
+      "sources": [
+        {
+          "date": "2025-11-08",
+          "handle": "Udhaystalin",
+          "tweetId": "1987074585880371470",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1987074585880371470",
+          "eventType": "other",
+          "summary": "Wishing Honourable Telangana Chief Minister and dear brother Thiru @revanth_anumula a very happy birthday. May he be in good health, happiness, and co..."
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321776+00:00"
+    },
+    {
+      "entityId": "indian-umrah",
+      "name": "Indian Umrah",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-17",
+        "lastMention": "2025-11-17"
+      },
+      "sources": [
+        {
+          "date": "2025-11-17",
+          "handle": "mkstalin",
+          "tweetId": "1990326978109661595",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1990326978109661595",
+          "eventType": "beneficiary_update",
+          "summary": "Deeply shocked by the tragic bus accident near Medinah in which many Indian Umrah pilgrims lost their lives. \n\nMy deepest condolences to the bereaved ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321778+00:00"
+    },
+    {
+      "entityId": "kamatchi-hospital",
+      "name": "Kamatchi Hospital",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-02",
+        "lastMention": "2025-12-02"
+      },
+      "sources": [
+        {
+          "date": "2025-12-02",
+          "handle": "TN_Streets",
+          "tweetId": "1995881392417489267",
+          "fxUrl": "https://fxtwitter.com/TN_Streets/status/1995881392417489267",
+          "eventType": "other",
+          "summary": "📍 Kamatchi Hospital, Pallikaranai — haven’t seen this junction this clear during rains.\n\nChennai is holding up really well for 10–15 cm of rain 🙌🏼\n\nHo..."
+        }
+      ],
+      "accountsCovering": [
+        "TN_Streets"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321779+00:00"
+    },
+    {
+      "entityId": "golden-hours",
+      "name": "Golden Hours",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-11",
+        "lastMention": "2026-01-11",
+        "inauguration": "2026-01-11"
+      },
+      "sources": [
+        {
+          "date": "2026-01-11",
+          "handle": "DigitalKadai",
+          "tweetId": "2011026516390658408",
+          "fxUrl": "https://fxtwitter.com/DigitalKadai/status/2011026516390658408",
+          "eventType": "inauguration",
+          "summary": "#நலத்திட்டங்களால்_மக்களின்_அப்பா \n\n🔹மனித உயிர் அளவிட முடியாத அரிய செல்வமாகும். இன்றைய காலகட்டத்தில் சாலை விபத்துகள் அதிகரித்து வருவதால், பலர் காலத்துக..."
+        }
+      ],
+      "accountsCovering": [
+        "DigitalKadai"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321781+00:00"
+    },
+    {
+      "entityId": "telangana-hospital",
+      "name": "Telangana Hospital",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-14",
+        "lastMention": "2026-01-14"
+      },
+      "sources": [
+        {
+          "date": "2026-01-14",
+          "handle": "RoshanKrRaii",
+          "tweetId": "2011356380364685663",
+          "fxUrl": "https://fxtwitter.com/RoshanKrRaii/status/2011356380364685663",
+          "eventType": "other",
+          "summary": "This is embarrassing.\n\nIndia’s official BRICS 2026 logo has been copied straight from a Telangana Hospital 😭😭😭😭😭😭😭\n\nImagine the laziness of Indian Bab..."
+        }
+      ],
+      "accountsCovering": [
+        "RoshanKrRaii"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321782+00:00"
+    },
+    {
+      "entityId": "eci",
+      "name": "Eci",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-24",
+        "lastMention": "2026-01-24"
+      },
+      "sources": [
+        {
+          "date": "2026-01-24",
+          "handle": "ptrmadurai",
+          "tweetId": "2015071437946855439",
+          "fxUrl": "https://fxtwitter.com/ptrmadurai/status/2015071437946855439",
+          "eventType": "other",
+          "summary": "For ECI, while “bias is the cardinal sin, its lack of competence is the original sin.”\n\nI am glad to see The @NewIndianXpress taking the Special Inten..."
+        }
+      ],
+      "accountsCovering": [
+        "ptrmadurai"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321784+00:00"
+    },
+    {
+      "entityId": "human-papilloma-virus",
+      "name": "Human Papilloma Virus",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-27",
+        "lastMention": "2026-01-27",
+        "inauguration": "2026-01-27"
+      },
+      "sources": [
+        {
+          "date": "2026-01-27",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2016068411311456388",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2016068411311456388",
+          "eventType": "inauguration",
+          "summary": "மாண்புமிகு தமிழ்நாடு முதலமைச்சர் திரு. @mkstalin அவர்கள் முன்னிலையில் நந்தம்பாக்கம், சென்னை வர்த்தக மையத்தில், உலக மகளிர் உச்சி மாநாடு 2026 தொடக்க விழ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.321786+00:00"
+    }
+  ]
+}

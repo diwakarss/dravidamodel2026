@@ -1,0 +1,433 @@
+{
+  "batch": 11,
+  "processedAt": "2026-02-17T11:29:35.536547+00:00",
+  "stats": {
+    "success": 15,
+    "failed": 1,
+    "not_found": 2,
+    "blocked": 2,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.nytimes.com/topic/person/narendra-modi",
+      "urlHash": "3aba7e1886a5",
+      "domain": "nytimes.com",
+      "fetchedAt": "2026-02-17T11:28:39.785429+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1443089401509150720",
+          "handle": "NYTimesPR",
+          "date": "Tue Sep 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Narendra Modi - The New York Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Narendra Modi - The New York Times",
+        "summary": "News about Narendra Modi, including commentary and archival articles published in The New York Times."
+      }
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=w6-R07x3y14&feature=youtu.be",
+      "urlHash": "b8f2d8673693",
+      "domain": "m.youtube.com",
+      "fetchedAt": "2026-02-17T11:28:42.684805+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1443257584492834819",
+          "handle": "yazhini_pm",
+          "date": "Wed Sep 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "http://toi.in/h9VJGa",
+      "urlHash": "8310f5da831b",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:28:45.222014+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1443479734277447686",
+          "handle": "TOIChennai",
+          "date": "Thu Sep 30"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu CM M K Stalin praises MSMEs for overcoming Covid woes | Salem News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu CM M K Stalin praises MSMEs for overcoming Covid woes | Salem News - Times of India",
+        "summary": "Chief minister M K Stalin interacted with MSME entrepreneurs on the SIDCO premises during his visit in the city on Wednesday. Addressing the gathering"
+      }
+    },
+    {
+      "url": "https://www.theguardian.com/environment/2021/sep/29/us-bird-species-ivory-billed-woodpecker-extinct",
+      "urlHash": "0eb8aa0a3379",
+      "domain": "theguardian.com",
+      "fetchedAt": "2026-02-17T11:28:47.637159+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1443566971312750602",
+          "handle": "ParveenKaswan",
+          "date": "Wed Sep 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "US to declare ivory-billed woodpecker and 22 more species extinct | Endangered species | The Guardian",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "US to declare ivory-billed woodpecker and 22 more species extinct | Endangered species | The Guardian",
+        "summary": "Factors behind disappearances include too much development, water pollution, logging and competition from invasive species"
+      }
+    },
+    {
+      "url": "https://es.pn/3uvg7JR",
+      "urlHash": "69a7b1eef7b5",
+      "domain": "es.pn",
+      "fetchedAt": "2026-02-17T11:28:50.019338+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1443936204882268163",
+          "handle": "ESPNcricinfo",
+          "date": "Fri Oct 01"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/10/04/minister-sekarbabu-says-that-assets-worth-rs1130-crore-belonging-to-hindu-temples-recovered-in-dmk-govt",
+      "urlHash": "ac2b9ca4bb09",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:28:53.748200+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445183514777841667",
+          "handle": "Kalaignarnews",
+          "date": "Mon Oct 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Minister Sekarbabu says that assets worth Rs.1130 crore belonging to Hindu temples recovered in DMK govt",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Minister Sekarbabu says that assets worth Rs.1130 crore belonging to Hindu temples recovered in DMK govt",
+        "summary": "Minister Sekarbabu says that assets worth Rs.1130 crore belonging to Hindu temples recovered in DMK govt."
+      }
+    },
+    {
+      "url": "http://toi.in/7clgeY/a24gk",
+      "urlHash": "dd0df0cfd1b2",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:28:56.169509+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445183667446288386",
+          "handle": "timesofindia",
+          "date": "Mon Oct 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "WhatsApp Down: Facebook, Instagram, WhatsApp partially reconnect after 6-hour global outage | International Business News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "WhatsApp Down: Facebook, Instagram, WhatsApp partially reconnect after 6-hour global outage | International Business News - Times of India",
+        "summary": "International Business News:  Top social-media platforms WhatsApp, Instagram and Facebook went down late Monday night as a suspected global outage and technical failure disrupted"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/cm-stalin-writes-12-others-chief-ministers-join-hands-against-neet-156062",
+      "urlHash": "2c3cf5134f48",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:28:59.043970+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445183840046116864",
+          "handle": "thenewsminute",
+          "date": "Mon Oct 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "CM Stalin writes to 12 others Chief Ministers to join hands against NEET",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "TNM Staff",
+      "rawText": "",
+      "extractedData": {
+        "headline": "CM Stalin writes to 12 others Chief Ministers to join hands against NEET",
+        "summary": "CM Stalin attached a copy of the AK Rajan Committee Report on the impact of NEET (Medical entrance) on underprivileged students."
+      }
+    },
+    {
+      "url": "https://www.science.org/content/article/oldest-pair-skis-unearthed-norwegian-ice#.YVyNWf5b6o0.twitter",
+      "urlHash": "b7d7e1e8124e",
+      "domain": "science.org",
+      "fetchedAt": "2026-02-17T11:29:02.209643+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445443130304577540",
+          "handle": "TRBRajaa",
+          "date": "Tue Oct 05"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/tech/technology/if-facebook-is-the-problem-is-a-social-media-regulator-the-fix/articleshow/86814484.cms",
+      "urlHash": "4d6c3757e184",
+      "domain": "economictimes.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:29:04.322780+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445796321537892358",
+          "handle": "EconomicTimes",
+          "date": "Wed Oct 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "facebook: If Facebook is the problem, is a social media regulator the fix? - The Economic Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "ET",
+      "rawText": "",
+      "extractedData": {
+        "headline": "facebook: If Facebook is the problem, is a social media regulator the fix? - The Economic Times",
+        "summary": "Facebook&#x27;s Lina Pietsch said the company had itself long called for government oversight. &quot;We have been calling for updated regulations ourselves for two and a half years,&quot; she said."
+      }
+    },
+    {
+      "url": "https://tcrn.ch/3FpFKAI",
+      "urlHash": "af87b1dd0e03",
+      "domain": "tcrn.ch",
+      "fetchedAt": "2026-02-17T11:29:06.512907+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445796364923772939",
+          "handle": "TechCrunch",
+          "date": "Wed Oct 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Facebook should cancel Instagram Kids, not put it on &#039;pause&#039; | TechCrunch",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Sean Herman",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Facebook should cancel Instagram Kids, not put it on &#039;pause&#039; | TechCrunch",
+        "summary": "A junior version of Instagram won&#039;t make the internet a better place for kids or parents. It&#039;ll just hook &#039;em young \u2014 which is something Facebook is clearly motivated to do."
+      }
+    },
+    {
+      "url": "https://www.huffpost.com/entry/whatsapp-facebook-outage-brazil-africa_n_615c7bc0e4b0548301014544",
+      "urlHash": "9beaeb7e8d94",
+      "domain": "huffpost.com",
+      "fetchedAt": "2026-02-17T11:29:11.183508+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445818642780745737",
+          "handle": "HuffPost",
+          "date": "Wed Oct 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Facebook\u2019s \u2018Digital Colonialism\u2019 Made Monday\u2019s Outage A Crisis For The World | HuffPost Latest News",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Facebook\u2019s \u2018Digital Colonialism\u2019 Made Monday\u2019s Outage A Crisis For The World | HuffPost Latest News",
+        "summary": "WhatsApp has monopolized communications in Brazil, India and across the Global South. When it goes down, everything grinds to a halt."
+      }
+    },
+    {
+      "url": "https://trib.al/UVhgrVr",
+      "urlHash": "315f01a78898",
+      "domain": "trib.al",
+      "fetchedAt": "2026-02-17T11:29:13.721064+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1446141226797846533",
+          "handle": "SudhaRamenIFS",
+          "date": "Thu Oct 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Mountain gorilla who became viral selfie star dies cradled in the arms of man who rescued her | Daily Mail Online",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Mountain gorilla who became viral selfie star dies cradled in the arms of man who rescued her | Daily Mail Online",
+        "summary": "Orphaned mountain gorilla Ndakasi was pictured taking her last breath while being held by her"
+      }
+    },
+    {
+      "url": "https://www.bbc.com/news/world-us-canada-58838332",
+      "urlHash": "2d3059ed185d",
+      "domain": "bbc.com",
+      "fetchedAt": "2026-02-17T11:29:17.664556+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1446529612876443652",
+          "handle": "TRBRajaa",
+          "date": "Fri Oct 08"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "South China Sea: US submarine collides with unknown object",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "South China Sea: US submarine collides with unknown object",
+        "summary": "Officials say it is unclear what the USS Connecticut collided with, and a number of sailors were hurt."
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Navarathri_(1964_film",
+      "urlHash": "ec3ee081baf6",
+      "domain": "en.wikipedia.org",
+      "fetchedAt": "2026-02-17T11:29:20.173415+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1446834804972920833",
+          "handle": "RagavanG",
+          "date": "Sat Oct 09"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://indianexpress.com/article/sports/ipl/ipl-2021-qualifier-1-dc-vs-csk-live-updates-7563525/",
+      "urlHash": "b672f3ae6ca8",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:29:22.984114+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1447258987540344833",
+          "handle": "GunasekaranMu",
+          "date": "Sun Oct 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "IPL 2021 Qualifier 1, DC vs CSK Highlights: Dhoni finishes off in style as CSK enter final | Ipl News - The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "IPL 2021 Qualifier 1, DC vs CSK Highlights: Dhoni finishes off in style as CSK enter final | Ipl News - The Indian Express",
+        "summary": "IPL 2021 Qualifier 1, Delhi Capitals vs Chennai Super Kings Highlights: Chennai Super Kings reach IPL final after beating Delhi Capitals by 4 wickets"
+      }
+    },
+    {
+      "url": "https://tamil.mykhel.com/cricket/dhoni-finished-the-match-against-dc-and-took-csk-to-ipl-2021-finals-029188.html",
+      "urlHash": "b9c5a39da4d0",
+      "domain": "tamil.mykhel.com",
+      "fetchedAt": "2026-02-17T11:29:26.846787+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1447266698122260481",
+          "handle": "thatsTamil",
+          "date": "Sun Oct 10"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/vhpputs-up-posters-barring-the-entry-of-non-hindus-in-durga-puja-pandals-101633892100892.html",
+      "urlHash": "b561830845af",
+      "domain": "hindustantimes.com",
+      "fetchedAt": "2026-02-17T11:29:28.930902+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1447488574501257223",
+          "handle": "htTweets",
+          "date": "Mon Oct 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "VHP\u2009puts up posters barring the entry of non-Hindus in Durga Puja pandals | Hindustan Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "VHP\u2009puts up posters barring the entry of non-Hindus in Durga Puja pandals | Hindustan Times",
+        "summary": "VHP, Dharm Prasar wing in-charge Chandan Sharma said, \u201cWe are putting posters as a section of people from other communities harass Hindu women or shoot their videos without permission. To avoid any clash and mismanagement, we have asked the administration to check the identity cards.\u201d"
+      }
+    },
+    {
+      "url": "https://reut.rs/3ACBeeG",
+      "urlHash": "b3328efb2845",
+      "domain": "reut.rs",
+      "fetchedAt": "2026-02-17T11:29:31.222453+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1448372089866502144",
+          "handle": "ReutersAsia",
+          "date": "Wed Oct 13"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_401"
+    },
+    {
+      "url": "https://www.bbc.com/news/world-us-canada-58729508",
+      "urlHash": "b345ec1cfaab",
+      "domain": "bbc.com",
+      "fetchedAt": "2026-02-17T11:29:34.780756+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1448470473382137856",
+          "handle": "TRBRajaa",
+          "date": "Thu Oct 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Afghanistan: The New York rabbi evacuating desperate Afghans",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Afghanistan: The New York rabbi evacuating desperate Afghans",
+        "summary": "Rabbi Moshe Margaretten says he gets calls in the middle of the night from people in Afghanistan asking for help."
+      }
+    }
+  ]
+}

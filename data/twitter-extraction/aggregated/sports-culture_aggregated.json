@@ -1,0 +1,1840 @@
+{
+  "category": "sports-culture",
+  "aggregatedAt": "2026-02-17T17:44:43.512595+00:00",
+  "stats": {
+    "entries": 885,
+    "entities": 55
+  },
+  "entities": [
+    {
+      "entityId": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-01",
+        "lastMention": "2025-11-02",
+        "inauguration": "2024-09-01"
+      },
+      "sources": [
+        {
+          "date": "2024-09-01",
+          "handle": "mkstalin",
+          "tweetId": "1830312055133319398",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1830312055133319398",
+          "eventType": "inauguration",
+          "summary": "Huge applause to Hon’ble @Udhaystalin and the entire @SportsTN_ team for making #Formula4Chennai a roaring success! 🏁\n\nBuilding on the victories of #C..."
+        },
+        {
+          "date": "2024-09-01",
+          "handle": "mkstalin",
+          "tweetId": "1830317417702015334",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1830317417702015334",
+          "eventType": "inauguration",
+          "summary": "Huge applause to Hon’ble @Udhaystalin and the entire @SportsTN_ team for making #Formula4Chennai a roaring success! 🏁\n\nBuilding on the victories of #C..."
+        },
+        {
+          "date": "2024-09-01",
+          "handle": "mkstalin",
+          "tweetId": "1830344759896117527",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1830344759896117527",
+          "eventType": "inauguration",
+          "summary": "Huge applause to Hon’ble @Udhaystalin and the entire @SportsTN_ team for making #Formula4Chennai a roaring success! 🏁\n\nBuilding on the victories of #C..."
+        },
+        {
+          "date": "2024-10-01",
+          "handle": "Udhaystalin",
+          "tweetId": "1841130195589169171",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1841130195589169171",
+          "eventType": "inauguration",
+          "summary": "In a fitting tribute to the remarkable achievements of our tennis legend Thiru #VijayAmritraj, the Government of Tamil Nadu, under the visionary leade..."
+        },
+        {
+          "date": "2025-04-04",
+          "handle": "Udhaystalin",
+          "tweetId": "1908351606866796783",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1908351606866796783",
+          "eventType": "other",
+          "summary": "மாண்புமிகு முதலமைச்சர் @mkstalin அவர்களின் உத்தரவின்படி, இளைஞர் நலன் மற்றும் விளையாட்டு மேம்பாட்டுத்துறை சார்பில், “தமிழ்நாடு விளையாட்டு அறிவியல் மையம..."
+        },
+        {
+          "date": "2025-07-04",
+          "handle": "DMKITwing",
+          "tweetId": "1941138357062688849",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1941138357062688849",
+          "eventType": "other",
+          "summary": "The world thought iron was born in the West. Tamil Nadu just rewrote that!\n\nUnder the visionary leadership of Hon'ble @CMOTamilnadu Thiru. @mkstalin, ..."
+        },
+        {
+          "date": "2025-10-30",
+          "handle": "mkstalin",
+          "tweetId": "1983911762396422233",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1983911762396422233",
+          "eventType": "other",
+          "summary": "Tamil Nadu’s 35th #Grandmaster Ilamparthi makes our reign on the 64 squares shine brighter! ♟️\n\nHe battles through brilliance to script history, earni..."
+        },
+        {
+          "date": "2025-10-30",
+          "handle": "mkstalin",
+          "tweetId": "1983931184783749477",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1983931184783749477",
+          "eventType": "other",
+          "summary": "Tamil Nadu’s 35th #Grandmaster Ilamparthi makes our reign on the 64 squares shine brighter! ♟️\n\nHe battles through brilliance to script history, earni..."
+        },
+        {
+          "date": "2025-10-30",
+          "handle": "Udhaystalin",
+          "tweetId": "1983936305861161197",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1983936305861161197",
+          "eventType": "scheme_launch",
+          "summary": "A remarkable milestone and yet another proud moment for Tamil Nadu and Indian chess!\n\nCongratulations to Ilamparthi A R on becoming India’s 90th Grand..."
+        },
+        {
+          "date": "2025-11-02",
+          "handle": "tnrags",
+          "tweetId": "1984903125178978695",
+          "fxUrl": "https://fxtwitter.com/tnrags/status/1984903125178978695",
+          "eventType": "other",
+          "summary": "Excellent move. This is the way forward. The Tamil Nadu government deserves a lot of praise. An indoor stadium at Kannagi Nagar will encourage more ch..."
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin",
+        "tnrags",
+        "mkstalin",
+        "DMKITwing"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 10,
+      "aggregatedAt": "2026-02-17T17:44:43.512359+00:00"
+    },
+    {
+      "entityId": "world-chess-champion",
+      "name": "World Chess Champion",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 5.0
+      },
+      "timeline": {
+        "firstMention": "2024-12-12",
+        "lastMention": "2024-12-17"
+      },
+      "sources": [
+        {
+          "date": "2024-12-12",
+          "handle": "mkstalin",
+          "tweetId": "1867201559324774650",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867201559324774650",
+          "eventType": "milestone",
+          "summary": "Congratulations to @DGukesh on becoming the youngest-ever World Chess Champion at 18!\n\nYour remarkable achievement continues India's rich chess legacy..."
+        },
+        {
+          "date": "2024-12-12",
+          "handle": "mkstalin",
+          "tweetId": "1867205807579992451",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867205807579992451",
+          "eventType": "milestone",
+          "summary": "Congratulations to @DGukesh on becoming the youngest-ever World Chess Champion at 18!\n\nYour remarkable achievement continues India's rich chess legacy..."
+        },
+        {
+          "date": "2024-12-12",
+          "handle": "mkstalin",
+          "tweetId": "1867206261412180444",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867206261412180444",
+          "eventType": "milestone",
+          "summary": "Congratulations to @DGukesh on becoming the youngest-ever World Chess Champion at 18!\n\nYour remarkable achievement continues India's rich chess legacy..."
+        },
+        {
+          "date": "2024-12-12",
+          "handle": "mkstalin",
+          "tweetId": "1867206639314755586",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867206639314755586",
+          "eventType": "milestone",
+          "summary": "Congratulations to @DGukesh on becoming the youngest-ever World Chess Champion at 18!\n\nYour remarkable achievement continues India's rich chess legacy..."
+        },
+        {
+          "date": "2024-12-13",
+          "handle": "mkstalin",
+          "tweetId": "1867477238725423478",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867477238725423478",
+          "eventType": "milestone",
+          "summary": "To honour the monumental achievement of @DGukesh, the youngest-ever World Chess Champion, I am delighted to announce a cash prize of ₹5 crore! \n\nHis h..."
+        },
+        {
+          "date": "2024-12-13",
+          "handle": "mkstalin",
+          "tweetId": "1867485237426761942",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867485237426761942",
+          "eventType": "milestone",
+          "summary": "To honour the monumental achievement of @DGukesh, the youngest-ever World Chess Champion, I am delighted to announce a cash prize of ₹5 crore! \n\nHis h..."
+        },
+        {
+          "date": "2024-12-13",
+          "handle": "mkstalin",
+          "tweetId": "1867496802603479397",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1867496802603479397",
+          "eventType": "milestone",
+          "summary": "To honour the monumental achievement of @DGukesh, the youngest-ever World Chess Champion, I am delighted to announce a cash prize of ₹5 crore! \n\nHis h..."
+        },
+        {
+          "date": "2024-12-17",
+          "handle": "mkstalin",
+          "tweetId": "1869015948335992861",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1869015948335992861",
+          "eventType": "other",
+          "summary": "#Live: World's Youngest Chess Champion @DGukesh அவர்களுக்கான பாராட்டு விழாவில் சிறப்புரை\n\nhttps://youtube.com/live/ygoddLC7XWI?feature=share"
+        },
+        {
+          "date": "2024-12-17",
+          "handle": "mkstalin",
+          "tweetId": "1869019780239520189",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1869019780239520189",
+          "eventType": "other",
+          "summary": "#Live: World's Youngest Chess Champion @DGukesh அவர்களுக்கான பாராட்டு விழாவில் சிறப்புரை\n\nhttps://youtube.com/live/ygoddLC7XWI?feature=share"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 9,
+      "aggregatedAt": "2026-02-17T17:44:43.512388+00:00"
+    },
+    {
+      "entityId": "first-indian-woman",
+      "name": "First Indian Woman",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-06",
+        "lastMention": "2025-11-24"
+      },
+      "sources": [
+        {
+          "date": "2024-08-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1820893366776897637",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1820893366776897637",
+          "eventType": "other",
+          "summary": "🌟FIRST INDIAN WOMAN🌟 to reach the #OlympicGames  #wrestling  Final... \n\n...after wrestling an insensitive oppressive patriarchal system for over a yea..."
+        },
+        {
+          "date": "2025-11-24",
+          "handle": "mkstalin",
+          "tweetId": "1993003199750717695",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1993003199750717695",
+          "eventType": "other",
+          "summary": "Congrats to the Indian Women’s Kabaddi Team on winning the #KabaddiWorldCup2025 after a strong 35 to 28 victory over Chinese Taipei in Dhaka.\n\nA secon..."
+        },
+        {
+          "date": "2025-11-24",
+          "handle": "mkstalin",
+          "tweetId": "1993008336934256764",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1993008336934256764",
+          "eventType": "other",
+          "summary": "Congrats to the Indian Women’s Kabaddi Team on winning the #KabaddiWorldCup2025 after a strong 35 to 28 victory over Chinese Taipei in Dhaka.\n\nA secon..."
+        },
+        {
+          "date": "2025-11-24",
+          "handle": "mkstalin",
+          "tweetId": "1993014216211718187",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1993014216211718187",
+          "eventType": "other",
+          "summary": "Congrats to the Indian Women’s Kabaddi Team on winning the #KabaddiWorldCup2025 after a strong 35 to 28 victory over Chinese Taipei in Dhaka.\n\nA secon..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 4,
+      "aggregatedAt": "2026-02-17T17:44:43.512347+00:00"
+    },
+    {
+      "entityId": "chess-olympiad",
+      "name": "Chess Olympiad",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-22",
+        "lastMention": "2024-09-22"
+      },
+      "sources": [
+        {
+          "date": "2024-09-22",
+          "handle": "mkstalin",
+          "tweetId": "1837868459532996616",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1837868459532996616",
+          "eventType": "milestone",
+          "summary": "India continues to rise and shine!\n\nFrom our remarkable hosting of the Chess Olympiad in Chennai to now claiming gold in both the men’s and women’s ca..."
+        },
+        {
+          "date": "2024-09-22",
+          "handle": "mkstalin",
+          "tweetId": "1837869651663192179",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1837869651663192179",
+          "eventType": "milestone",
+          "summary": "India continues to rise and shine!\n\nFrom our remarkable hosting of the Chess Olympiad in Chennai to now claiming gold in both the men’s and women’s ca..."
+        },
+        {
+          "date": "2024-09-22",
+          "handle": "mkstalin",
+          "tweetId": "1837873308684984336",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1837873308684984336",
+          "eventType": "milestone",
+          "summary": "India continues to rise and shine!\n\nFrom our remarkable hosting of the Chess Olympiad in Chennai to now claiming gold in both the men’s and women’s ca..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.512362+00:00"
+    },
+    {
+      "entityId": "amit-shah",
+      "name": "Amit Shah",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-29",
+        "lastMention": "2025-03-29"
+      },
+      "sources": [
+        {
+          "date": "2025-03-29",
+          "handle": "mkstalin",
+          "tweetId": "1905890367125553167",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1905890367125553167",
+          "eventType": "milestone",
+          "summary": "In the world-renowned magazine @TheEconomist, an article on the impending delimitation exercise has been published, based on my interview.\n\nThe articl..."
+        },
+        {
+          "date": "2025-03-29",
+          "handle": "mkstalin",
+          "tweetId": "1905909183821857060",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1905909183821857060",
+          "eventType": "milestone",
+          "summary": "In the world-renowned magazine @TheEconomist, an article on the impending delimitation exercise has been published, based on my interview.\n\nThe articl..."
+        },
+        {
+          "date": "2025-03-29",
+          "handle": "mkstalin",
+          "tweetId": "1905913338963660915",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1905913338963660915",
+          "eventType": "milestone",
+          "summary": "In the world-renowned magazine @TheEconomist, an article on the impending delimitation exercise has been published, based on my interview.\n\nThe articl..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.512397+00:00"
+    },
+    {
+      "entityId": "magnus-carlsen",
+      "name": "Magnus Carlsen",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-02",
+        "lastMention": "2025-06-02"
+      },
+      "sources": [
+        {
+          "date": "2025-06-02",
+          "handle": "mkstalin",
+          "tweetId": "1929492037310595206",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1929492037310595206",
+          "eventType": "milestone",
+          "summary": "Congratulations to @DGukesh on defeating Magnus Carlsen in classical format at #NorwayChess2025.\n\nA proud moment for Indian chess and a defining miles..."
+        },
+        {
+          "date": "2025-06-02",
+          "handle": "mkstalin",
+          "tweetId": "1929524032233156814",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1929524032233156814",
+          "eventType": "milestone",
+          "summary": "Congratulations to @DGukesh on defeating Magnus Carlsen in classical format at #NorwayChess2025.\n\nA proud moment for Indian chess and a defining miles..."
+        },
+        {
+          "date": "2025-06-02",
+          "handle": "mkstalin",
+          "tweetId": "1929575529016963077",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1929575529016963077",
+          "eventType": "milestone",
+          "summary": "Congratulations to @DGukesh on defeating Magnus Carlsen in classical format at #NorwayChess2025.\n\nA proud moment for Indian chess and a defining miles..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.512409+00:00"
+    },
+    {
+      "entityId": "gm-aravindh-chithambaram",
+      "name": "Gm Aravindh Chithambaram",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-11",
+        "lastMention": "2024-11-11"
+      },
+      "sources": [
+        {
+          "date": "2024-11-11",
+          "handle": "mkstalin",
+          "tweetId": "1855975415724314893",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1855975415724314893",
+          "eventType": "other",
+          "summary": "Congratulations to GM Aravindh Chithambaram on his remarkable title win at the @Chennai_GM, with his strategic brilliance, especially in the penultima..."
+        },
+        {
+          "date": "2024-11-11",
+          "handle": "mkstalin",
+          "tweetId": "1855982443301630382",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1855982443301630382",
+          "eventType": "other",
+          "summary": "Congratulations to GM Aravindh Chithambaram on his remarkable title win at the @Chennai_GM, with his strategic brilliance, especially in the penultima..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512368+00:00"
+    },
+    {
+      "entityId": "lic",
+      "name": "Lic",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-19",
+        "lastMention": "2024-11-19"
+      },
+      "sources": [
+        {
+          "date": "2024-11-19",
+          "handle": "mkstalin",
+          "tweetId": "1858787413776105529",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1858787413776105529",
+          "eventType": "other",
+          "summary": "The LIC website has been reduced to a propaganda tool for Hindi imposition. Even the option to select English is displayed in Hindi!\n\nThis is nothing ..."
+        },
+        {
+          "date": "2024-11-19",
+          "handle": "mkstalin",
+          "tweetId": "1858790412309454951",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1858790412309454951",
+          "eventType": "other",
+          "summary": "The LIC website has been reduced to a propaganda tool for Hindi imposition. Even the option to select English is displayed in Hindi!\n\nThis is nothing ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512370+00:00"
+    },
+    {
+      "entityId": "chief-minister-thiru",
+      "name": "Chief Minister Thiru",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-04",
+        "lastMention": "2025-10-12"
+      },
+      "sources": [
+        {
+          "date": "2024-12-04",
+          "handle": "Udhaystalin",
+          "tweetId": "1864791748850958847",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1864791748850958847",
+          "eventType": "other",
+          "summary": "Chaired a meeting to establish an international cricket stadium in #Coimbatore, as announced by Hon'ble Chief Minister Thiru @mkstalin Avargal. The Sp..."
+        },
+        {
+          "date": "2025-10-12",
+          "handle": "Udhaystalin",
+          "tweetId": "1977444290470326421",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1977444290470326421",
+          "eventType": "other",
+          "summary": "Under the leadership of our Honourable Chief Minister Thiru @mkstalin Avargal, the Sports Development Authority of Tamil Nadu has introduced E-Sports ..."
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512384+00:00"
+    },
+    {
+      "entityId": "muthulakshmi-reddy",
+      "name": "Muthulakshmi Reddy",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-22",
+        "lastMention": "2025-04-22"
+      },
+      "sources": [
+        {
+          "date": "2025-04-22",
+          "handle": "mkstalin",
+          "tweetId": "1914560337850065055",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1914560337850065055",
+          "eventType": "other",
+          "summary": "What began as a humble journey under the guidance of Dr. Muthulakshmi Reddy, the pioneering founder of the Adyar Cancer Institute, blossomed into an i..."
+        },
+        {
+          "date": "2025-04-22",
+          "handle": "mkstalin",
+          "tweetId": "1914575603476418915",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1914575603476418915",
+          "eventType": "other",
+          "summary": "What began as a humble journey under the guidance of Dr. Muthulakshmi Reddy, the pioneering founder of the Adyar Cancer Institute, blossomed into an i..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512405+00:00"
+    },
+    {
+      "entityId": "uzchess-cup-masters",
+      "name": "Uzchess Cup Masters",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-28",
+        "lastMention": "2025-06-28"
+      },
+      "sources": [
+        {
+          "date": "2025-06-28",
+          "handle": "mkstalin",
+          "tweetId": "1938955688933498934",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1938955688933498934",
+          "eventType": "other",
+          "summary": "Congratulations to @rpraggnachess on winning the #UzChess Cup Masters 2025, becoming India’s top-ranked classical player and rising to World No. 4 in ..."
+        },
+        {
+          "date": "2025-06-28",
+          "handle": "mkstalin",
+          "tweetId": "1938974985818906792",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1938974985818906792",
+          "eventType": "other",
+          "summary": "Congratulations to @rpraggnachess on winning the #UzChess Cup Masters 2025, becoming India’s top-ranked classical player and rising to World No. 4 in ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512411+00:00"
+    },
+    {
+      "entityId": "sven-wortmann",
+      "name": "Sven Wortmann",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-01",
+        "lastMention": "2025-09-01"
+      },
+      "sources": [
+        {
+          "date": "2025-09-01",
+          "handle": "mkstalin",
+          "tweetId": "1962460422193447348",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1962460422193447348",
+          "eventType": "other",
+          "summary": "பழந்தமிழ் இலக்கியச் சுவடிகள், பல முதற்பதிப்புகள் என 40 ஆயிரம் அரிய தமிழ் நூல்களைக் கொண்ட கொலோன் பல்கலைக்கழகத் தமிழ்த்துறை நூலகத்தைப் பார்வையிட்டேன்.\n\n..."
+        },
+        {
+          "date": "2025-09-01",
+          "handle": "mkstalin",
+          "tweetId": "1962466144427929989",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1962466144427929989",
+          "eventType": "other",
+          "summary": "பழந்தமிழ் இலக்கியச் சுவடிகள், பல முதற்பதிப்புகள் என 40 ஆயிரம் அரிய தமிழ் நூல்களைக் கொண்ட கொலோன் பல்கலைக்கழகத் தமிழ்த்துறை நூலகத்தைப் பார்வையிட்டேன்.\n\n..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512417+00:00"
+    },
+    {
+      "entityId": "congrats-germany",
+      "name": "Congrats Germany",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-11",
+        "lastMention": "2025-12-11"
+      },
+      "sources": [
+        {
+          "date": "2025-12-11",
+          "handle": "mkstalin",
+          "tweetId": "1998985671822946592",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1998985671822946592",
+          "eventType": "other",
+          "summary": "Spirit. Skill. Spark. That’s champion energy!\n\nCongrats Germany on lifting the #FIHMensJuniorWorldCup, big applause to Spain for a gritty fight, and f..."
+        },
+        {
+          "date": "2025-12-11",
+          "handle": "mkstalin",
+          "tweetId": "1998993301555573120",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1998993301555573120",
+          "eventType": "other",
+          "summary": "Spirit. Skill. Spark. That’s champion energy!\n\nCongrats Germany on lifting the #FIHMensJuniorWorldCup, big applause to Spain for a gritty fight, and f..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512431+00:00"
+    },
+    {
+      "entityId": "true-strength",
+      "name": "True Strength",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-24",
+        "lastMention": "2025-12-24"
+      },
+      "sources": [
+        {
+          "date": "2025-12-24",
+          "handle": "mkstalin",
+          "tweetId": "2003775161372389644",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2003775161372389644",
+          "eventType": "other",
+          "summary": "Champion-ஓட True Strength பதக்கங்கள்ல மட்டும் இல்ல, அவங்ககிட்ட இருக்குற Discipline, Pressure-ஐ handle பண்ணுற விதம், விடாமுயற்சி இது எல்லாத்துலயும்தான்..."
+        },
+        {
+          "date": "2025-12-24",
+          "handle": "mkstalin",
+          "tweetId": "2003881673604432121",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2003881673604432121",
+          "eventType": "other",
+          "summary": "Champion-ஓட True Strength பதக்கங்கள்ல மட்டும் இல்ல, அவங்ககிட்ட இருக்குற Discipline, Pressure-ஐ handle பண்ணுற விதம், விடாமுயற்சி இது எல்லாத்துலயும்தான்..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512438+00:00"
+    },
+    {
+      "entityId": "indian-olympic-association",
+      "name": "Indian Olympic Association",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-30",
+        "lastMention": "2026-01-30"
+      },
+      "sources": [
+        {
+          "date": "2026-01-30",
+          "handle": "mkstalin",
+          "tweetId": "2017099090329530466",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2017099090329530466",
+          "eventType": "other",
+          "summary": "Saddened to learn of the passing of Thiru. Srinivasan, husband of Thirumigu P.T. Usha, President of the Indian Olympic Association and Member of Parli..."
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "mkstalin",
+          "tweetId": "2017149271993434518",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2017149271993434518",
+          "eventType": "other",
+          "summary": "Saddened to learn of the passing of Thiru. Srinivasan, husband of Thirumigu P.T. Usha, President of the Indian Olympic Association and Member of Parli..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.512441+00:00"
+    },
+    {
+      "entityId": "virtual-reality",
+      "name": "Virtual Reality",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-09",
+        "lastMention": "2024-06-09"
+      },
+      "sources": [
+        {
+          "date": "2024-06-09",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1799694804160524594",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1799694804160524594",
+          "eventType": "other",
+          "summary": "கலைஞர் நூற்றாண்டு நிறைவு விழாவையொட்டி ராஜா அண்ணாமலை மன்றத்தில் அமைக்கப்பட்டுள்ள \"காலம் உள்ளவரை கலைஞர்\" என்ற நவீன கண்காட்சியகத்தில் Virtual Reality தொழ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512324+00:00"
+    },
+    {
+      "entityId": "selfie-point",
+      "name": "Selfie Point",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-09",
+        "lastMention": "2024-06-09"
+      },
+      "sources": [
+        {
+          "date": "2024-06-09",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1799705010382741664",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1799705010382741664",
+          "eventType": "other",
+          "summary": "கலைஞர் நூற்றாண்டு நிறைவு விழாவையொட்டி ராஜா அண்ணாமலை மன்றத்தில் அமைக்கப்பட்டுள்ள \"காலம் உள்ளவரை கலைஞர்\" என்ற நவீன கண்காட்சியகத்தில், முத்தமிழறிஞர் கலைஞ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512334+00:00"
+    },
+    {
+      "entityId": "maran-mp",
+      "name": "Maran Mp",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-11",
+        "lastMention": "2024-06-11"
+      },
+      "sources": [
+        {
+          "date": "2024-06-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1800594579236036966",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1800594579236036966",
+          "eventType": "other",
+          "summary": "தலைவர் கலைஞரின் மனசாட்சியான பெரியவர் #முரசொலிமாறன் அவர்களின் வழியில் சமூக நீதிக்கான குரலாக, நாடாளுமன்றத்தில் முழங்கும் கழக விளையாட்டு மேம்பாட்டு அணிச்..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512336+00:00"
+    },
+    {
+      "entityId": "awesome-news",
+      "name": "Awesome News",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-18",
+        "lastMention": "2024-06-18"
+      },
+      "sources": [
+        {
+          "date": "2024-06-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1803039554229919932",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1803039554229919932",
+          "eventType": "other",
+          "summary": "🌟Awesome News🌟We now have another #Olympian from TN🔥\n\n🎊Congratulations to my dear brother @tondaimanpr on his selection to represent #India at the #Ol..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512338+00:00"
+    },
+    {
+      "entityId": "udhayanidhi-stalin",
+      "name": "Udhayanidhi Stalin",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-27",
+        "lastMention": "2024-06-27"
+      },
+      "sources": [
+        {
+          "date": "2024-06-27",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1806314588096414010",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1806314588096414010",
+          "eventType": "other",
+          "summary": "இளைஞர் நலன் மற்றும் விளையாட்டு மேம்பாட்டுத் துறை, சிறப்புத் திட்டச் செயலாக்கத் துறை, வறுமை ஓழிப்புத் திட்டங்கள் மற்றும் ஊரகக் கடன்கள் - குறித்த சாதனை ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512340+00:00"
+    },
+    {
+      "entityId": "another-promise-fulfilled",
+      "name": "Another Promise Fulfilled",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-27",
+        "lastMention": "2024-06-27"
+      },
+      "sources": [
+        {
+          "date": "2024-06-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1806320515046601019",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1806320515046601019",
+          "eventType": "other",
+          "summary": "🚨 STADIUM for Mannai !!!🎊\nநமது #மன்னார்குடி க்கு புதிய உள் விளையாட்டு அரங்கம் வழங்கியுள்ள மாண்புமிகு இளைஞர் நலன் அமைச்சர் அவர்களுக்கு #மின்னும்_மன்னை ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512342+00:00"
+    },
+    {
+      "entityId": "government",
+      "name": "Government",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-04",
+        "lastMention": "2024-07-04"
+      },
+      "sources": [
+        {
+          "date": "2024-07-04",
+          "handle": "KanimozhiDMK",
+          "tweetId": "1808926514077127029",
+          "fxUrl": "https://fxtwitter.com/KanimozhiDMK/status/1808926514077127029",
+          "eventType": "other",
+          "summary": "'எல்லோரும் இன்புற்று இருக்க' என்ற கருத்தாக்கத்துடன் தமிழ்நாடு அரசு, தனியார் தொழில்  நிறுவனங்கள், UNHCR  மற்றும் தன்னார்வத் தொண்டு நிறுவனங்களின் ஒருங்க..."
+        }
+      ],
+      "accountsCovering": [
+        "KanimozhiDMK"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512344+00:00"
+    },
+    {
+      "entityId": "but-whatever",
+      "name": "But Whatever",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-07",
+        "lastMention": "2024-08-07"
+      },
+      "sources": [
+        {
+          "date": "2024-08-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1821077763475821024",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1821077763475821024",
+          "eventType": "other",
+          "summary": "I don't know what to say...\nMany even doubt the process and even those with her...\n\nBut Whatever be the fact...\n\n***SHE IS THE MEDAL🏅*** that India Ne..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512349+00:00"
+    },
+    {
+      "entityId": "lives-on",
+      "name": "Lives On",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-07",
+        "lastMention": "2024-08-07"
+      },
+      "sources": [
+        {
+          "date": "2024-08-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1821095301735743923",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1821095301735743923",
+          "eventType": "other",
+          "summary": "#கலைஞர் LIVES ON 🌄\n\n#KalaignarForever"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512351+00:00"
+    },
+    {
+      "entityId": "gold-medalist",
+      "name": "Gold Medalist",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-09",
+        "lastMention": "2024-08-09"
+      },
+      "sources": [
+        {
+          "date": "2024-08-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1821772283406385367",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1821772283406385367",
+          "eventType": "other",
+          "summary": "#ArshadNadeem (Gold Medalist from Pakistan) is also 'my child' - #NeerajChopra's Mother's heartfelt response after her son's silver medal🌟\n\nLove knows..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512353+00:00"
+    },
+    {
+      "entityId": "please-hand-over-world-mothers",
+      "name": "Please Hand Over World Mothers",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-09",
+        "lastMention": "2024-08-09"
+      },
+      "sources": [
+        {
+          "date": "2024-08-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1821835232732913936",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1821835232732913936",
+          "eventType": "other",
+          "summary": "Let's just PLEASE HAND OVER THE WORLD TO MOTHERS♥️♥️♥️\n\nHere's what #Pakistan's  #ArshadNadeem's #Mother spontaneously said about #NeerajChopra of #In..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512355+00:00"
+    },
+    {
+      "entityId": "big-salute",
+      "name": "Big Salute",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-31",
+        "lastMention": "2024-10-31"
+      },
+      "sources": [
+        {
+          "date": "2024-10-31",
+          "handle": "mkstalin",
+          "tweetId": "1851834264998051858",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1851834264998051858",
+          "eventType": "other",
+          "summary": "நண்பர் கலைஞானி @ikamalhaasan அவர்களது அன்பு அழைப்பை ஏற்று, நேற்று #அமரன் திரைப்படம் பார்த்தேன்.\n\nபுத்தகங்களைப் போல் -  திரைப்பட வடிவிலும் உண்மைக் கதைக..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512364+00:00"
+    },
+    {
+      "entityId": "kalaignar-karunanidhi-unforgettable-speech",
+      "name": "Kalaignar Karunanidhi Unforgettable Speech",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-01",
+        "lastMention": "2024-11-01"
+      },
+      "sources": [
+        {
+          "date": "2024-11-01",
+          "handle": "TRBRajaa",
+          "tweetId": "1852330905517371791",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1852330905517371791",
+          "eventType": "other",
+          "summary": "Dr.Kalaignar Karunanidhi Unforgettable Speech | #அண்ணா | #கலைஞர் | #kalaig... https://youtu.be/oatThuSwHsk?si=8HjQmEdpDy_nxj8x via @YouTube\n@DMKITwing"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512366+00:00"
+    },
+    {
+      "entityId": "worldbeachvolleyball-pro-chennai-challenge",
+      "name": "Worldbeachvolleyball Pro Chennai Challenge",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-21",
+        "lastMention": "2024-11-21"
+      },
+      "sources": [
+        {
+          "date": "2024-11-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1859626175737565398",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1859626175737565398",
+          "eventType": "other",
+          "summary": "Yet another incredible event for #TamilNadu! 🏐\n\nAfter the massive success of Formula 4, the #WorldBeachVolleyball Pro Chennai Challenge 2024 at Mamall..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512372+00:00"
+    },
+    {
+      "entityId": "ca",
+      "name": "Ca",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-26",
+        "lastMention": "2024-11-26"
+      },
+      "sources": [
+        {
+          "date": "2024-11-26",
+          "handle": "KanimozhiDMK",
+          "tweetId": "1861277134909764006",
+          "fxUrl": "https://fxtwitter.com/KanimozhiDMK/status/1861277134909764006",
+          "eventType": "other",
+          "summary": "Tamilnadu and the DMK have always stood up for issues that matter to our people. The CA exam being scheduled on Pongal, a festival close to our hearts..."
+        }
+      ],
+      "accountsCovering": [
+        "KanimozhiDMK"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512374+00:00"
+    },
+    {
+      "entityId": "must-watch",
+      "name": "Must Watch",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-27",
+        "lastMention": "2024-11-27"
+      },
+      "sources": [
+        {
+          "date": "2024-11-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1861665392822984886",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1861665392822984886",
+          "eventType": "other",
+          "summary": "MUST WATCH ! ♥️\nதமிழ்நாட்டில் indoor-outdoor என எந்த வகை விளையாட்டாக இருந்தாலும் 'களம் நமதே' என்ற நம்பிக்கையுடன் வீரர்களும் வீராங்கனைகளும் ஒலிம்பிக் உ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512375+00:00"
+    },
+    {
+      "entityId": "ficci-turf",
+      "name": "Ficci Turf",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-04",
+        "lastMention": "2024-12-04"
+      },
+      "sources": [
+        {
+          "date": "2024-12-04",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1864223710892421207",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1864223710892421207",
+          "eventType": "other",
+          "summary": "புதுதில்லியில் 30.11.2024 அன்று நடைபெற்ற இந்திய வர்த்தகம் மற்றும் தொழில் கூட்டமைப்பு சார்பில் FICCI Turf 2024 - 14ஆவது சர்வதேச விளையாட்டு கருத்தரங்கில..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512382+00:00"
+    },
+    {
+      "entityId": "atal-bihari-vajpayee",
+      "name": "Atal Bihari Vajpayee",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-25",
+        "lastMention": "2024-12-25"
+      },
+      "sources": [
+        {
+          "date": "2024-12-25",
+          "handle": "mkstalin",
+          "tweetId": "1871797243096748033",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1871797243096748033",
+          "eventType": "other",
+          "summary": "On the 100th birth anniversary of Atal Bihari Vajpayee, we remember his contributions to Tamil Nadu’s infrastructure and his camaraderie with our lead..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512390+00:00"
+    },
+    {
+      "entityId": "udhaystalin-anna",
+      "name": "Udhaystalin Anna",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-02-28",
+        "lastMention": "2025-02-28"
+      },
+      "sources": [
+        {
+          "date": "2025-02-28",
+          "handle": "iamyournaveen",
+          "tweetId": "1895398473610248335",
+          "fxUrl": "https://fxtwitter.com/iamyournaveen/status/1895398473610248335",
+          "eventType": "other",
+          "summary": "Medal அடித்த அடுத்த வாரமே ஊக்கத்தொகை - போட்டிகளுக்கு சென்று வர போக்குவரத்துத் தொகை.\n\nFlightல் சென்று விளையாட்டு போட்டிகளில் கலந்துக்கொண்டு தாயகம் திரு..."
+        }
+      ],
+      "accountsCovering": [
+        "iamyournaveen"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512392+00:00"
+    },
+    {
+      "entityId": "happy-birthday",
+      "name": "Happy Birthday",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-02-28",
+        "lastMention": "2025-02-28"
+      },
+      "sources": [
+        {
+          "date": "2025-02-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1895545982634668068",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1895545982634668068",
+          "eventType": "other",
+          "summary": "பிறந்தநாள் பொதுக்கூட்ட மேடையை தமிழ்நாட்டின் உரிமைகளுக்கான போராட்டக் களமாக மாற்றுவதற்கு இலட்சியத் தலைவரால் மட்டுமே முடியும்♥️ தோழமைக் கட்சி தலைவர்கள் அ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512394+00:00"
+    },
+    {
+      "entityId": "multipurpose-indoor-stadium",
+      "name": "Multipurpose Indoor Stadium",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-04",
+        "lastMention": "2025-04-04"
+      },
+      "sources": [
+        {
+          "date": "2025-04-04",
+          "handle": "Udhaystalin",
+          "tweetId": "1908351655902396683",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1908351655902396683",
+          "eventType": "other",
+          "summary": "நம் வீரர்களின் திறமைக்கு களம் அமைத்துக் கொடுப்பதில், விளையாட்டுத்துறை சார்ந்த கட்டமைப்பே அடித்தளமாக திகழ்கிறது.\n\nஅந்த வகையில், தேனி மாவட்ட விளையாட்டு ..."
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512399+00:00"
+    },
+    {
+      "entityId": "honourable-deputy-cm-thiru",
+      "name": "Honourable Deputy Cm Thiru",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-06",
+        "lastMention": "2025-04-06"
+      },
+      "sources": [
+        {
+          "date": "2025-04-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1908901641014947892",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1908901641014947892",
+          "eventType": "other",
+          "summary": "Over the last four years, Honourable Deputy CM Thiru. @UdhayStalin has done an incomparable job of placing Tamil Nadu firmly on the global sports map,..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512400+00:00"
+    },
+    {
+      "entityId": "definitelynot-csk",
+      "name": "Definitelynot Csk",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-14",
+        "lastMention": "2025-04-14"
+      },
+      "sources": [
+        {
+          "date": "2025-04-14",
+          "handle": "TRBRajaa",
+          "tweetId": "1911851029559451730",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1911851029559451730",
+          "eventType": "other",
+          "summary": "#CskWins ♥️\n\nIt's cricket.\nNo team WANTS to throw it away.\n\nAnd #DefinitelyNot CSK\n\n\"7\"வது match vera😅🔥\n\nThey are going through a rough patch.\nAnd THE..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512402+00:00"
+    },
+    {
+      "entityId": "you-thalaivaa",
+      "name": "You Thalaivaa",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-16",
+        "lastMention": "2025-04-16"
+      },
+      "sources": [
+        {
+          "date": "2025-04-16",
+          "handle": "TRBRajaa",
+          "tweetId": "1912438450613018896",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1912438450613018896",
+          "eventType": "other",
+          "summary": "எது திராவிட மாடல் ?\nஇதோ இதுதான் திராவிட மாடல்.\n\nஅதிகாரத்தில் பங்கேற்கச் செய்வது என்பது அதிகாரத்தைப் பகிர்ந்தளிப்பதன் மூலமே நிறைவேறும். பொதுச் சமூக அமை..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512403+00:00"
+    },
+    {
+      "entityId": "superbet-chess-classic",
+      "name": "Superbet Chess Classic",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-17",
+        "lastMention": "2025-05-17"
+      },
+      "sources": [
+        {
+          "date": "2025-05-17",
+          "handle": "mkstalin",
+          "tweetId": "1923641561939837294",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1923641561939837294",
+          "eventType": "other",
+          "summary": "Congratulations to our Chennai pride, Grandmaster @rpraggnachess, on winning the prestigious Superbet Chess Classic 2025 in Romania—his maiden Grand C..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512407+00:00"
+    },
+    {
+      "entityId": "thiru-kapil-dev",
+      "name": "Thiru Kapil Dev",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-12",
+        "lastMention": "2025-08-12"
+      },
+      "sources": [
+        {
+          "date": "2025-08-12",
+          "handle": "Udhaystalin",
+          "tweetId": "1955206021124853965",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1955206021124853965",
+          "eventType": "scheme_launch",
+          "summary": "Had a wonderful meeting with cricket legend Thiru @therealkapildev. His journey has been an inspiration to countless sportspersons across our country...."
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512412+00:00"
+    },
+    {
+      "entityId": "timeless-tamilnadu",
+      "name": "Timeless Tamilnadu",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-19",
+        "lastMention": "2025-08-19"
+      },
+      "sources": [
+        {
+          "date": "2025-08-19",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1957716829461176357",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1957716829461176357",
+          "eventType": "other",
+          "summary": "தமிழ்நாடு சுற்றுலாத்துறைக்காக தயாரிக்கப்பட்ட \"Timeless TamilNadu\" என்ற ஆவணப் படத்திற்கு 71ஆவது தேசிய திரைப்பட விருது பட்டியலில் சிறந்த கலை/பண்பாடுக்கா..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512414+00:00"
+    },
+    {
+      "entityId": "your-love-truly",
+      "name": "Your Love Truly",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-19",
+        "lastMention": "2025-08-19"
+      },
+      "sources": [
+        {
+          "date": "2025-08-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1957859039876116981",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1957859039876116981",
+          "eventType": "other",
+          "summary": "இன்று எனது உயிரின் உயிரான தாயின் மறைவு எங்களை இடிபோல தாக்கியபோது, குடும்பத் தலைவராக, கொள்கை நண்பராக என் தந்தையின் கைப்பற்றி நின்று இறுதி நிகழ்வு வரை உ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512415+00:00"
+    },
+    {
+      "entityId": "anandkumar-velkumar",
+      "name": "Anandkumar Velkumar",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-16",
+        "lastMention": "2025-09-16"
+      },
+      "sources": [
+        {
+          "date": "2025-09-16",
+          "handle": "Udhaystalin",
+          "tweetId": "1967886666896642282",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1967886666896642282",
+          "eventType": "scheme_launch",
+          "summary": "Congratulations to Anandkumar Velkumar from Chennai on creating history by winning India’s first-ever Gold Medal in the 1000m event at the World Rolle..."
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512418+00:00"
+    },
+    {
+      "entityId": "sports-quota",
+      "name": "Sports Quota",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-22",
+        "lastMention": "2025-09-22",
+        "groundBreaking": "2025-09-22"
+      },
+      "sources": [
+        {
+          "date": "2025-09-22",
+          "handle": "mkstalin",
+          "tweetId": "1970113159437447170",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970113159437447170",
+          "eventType": "ground_breaking",
+          "summary": "♟️ உலக அரங்கில் இந்தியாவின் புகழை நிலைநாட்டி வரும் சென்னை மகள் @chessvaishali, கால்பந்து வீராங்கனை சுமித்ரா, கூடைப்பந்து வீராங்கனை சத்யா, பாய்மரப் படக..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "under_construction",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512420+00:00"
+    },
+    {
+      "entityId": "tiruvarur-district-amateur-kabaddi-association",
+      "name": "Tiruvarur District Amateur Kabaddi Association",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-27",
+        "lastMention": "2025-10-27",
+        "inauguration": "2025-10-27"
+      },
+      "sources": [
+        {
+          "date": "2025-10-27",
+          "handle": "AG_KATHIRAVAN",
+          "tweetId": "1982732539270942908",
+          "fxUrl": "https://fxtwitter.com/AG_KATHIRAVAN/status/1982732539270942908",
+          "eventType": "inauguration",
+          "summary": "We, the Tiruvarur District Amateur Kabaddi Association and the Vaduvur Sports Academy, extend our sincere gratitude to the Hon’ble Chief Minister of T..."
+        }
+      ],
+      "accountsCovering": [
+        "AG_KATHIRAVAN"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512422+00:00"
+    },
+    {
+      "entityId": "level-up",
+      "name": "Level Up",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-28",
+        "lastMention": "2025-10-28"
+      },
+      "sources": [
+        {
+          "date": "2025-10-28",
+          "handle": "Guidance_TN",
+          "tweetId": "1983079415463780826",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1983079415463780826",
+          "eventType": "other",
+          "summary": "Level Up, #Chennai! \n\nThe gaming scene in #Chennai is about to hit the next level!\nWith @theindiagdc and Chennai Esports Global Championship @skyespor..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512424+00:00"
+    },
+    {
+      "entityId": "hockey-india",
+      "name": "Hockey India",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-07",
+        "lastMention": "2025-11-07"
+      },
+      "sources": [
+        {
+          "date": "2025-11-07",
+          "handle": "Udhaystalin",
+          "tweetId": "1986730371384557858",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1986730371384557858",
+          "eventType": "other",
+          "summary": "Happy to have taken part in the celebration of 100 years of Hockey India in #NewDelhi, where the trophy for the upcoming #FIHHockey Men’s #JuniorWorld..."
+        }
+      ],
+      "accountsCovering": [
+        "Udhaystalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512425+00:00"
+    },
+    {
+      "entityId": "tn-rising",
+      "name": "Tn Rising",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-25",
+        "lastMention": "2025-11-25"
+      },
+      "sources": [
+        {
+          "date": "2025-11-25",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1993356985333682211",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1993356985333682211",
+          "eventType": "other",
+          "summary": "மாண்புமிகு தமிழ்நாடு முதலமைச்சர் திரு. @mkstalin அவர்கள் TN Rising முதலீட்டாளர்கள் மாநாட்டில், கோவை மண்டலத்தில் புதுமையான ஆராய்ச்சி திட்டங்கள் மற்றும்..."
+        }
+      ],
+      "accountsCovering": [
+        "TNDIPRNEWS"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512427+00:00"
+    },
+    {
+      "entityId": "indian-chambers",
+      "name": "Indian Chambers",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-28",
+        "lastMention": "2025-11-28"
+      },
+      "sources": [
+        {
+          "date": "2025-11-28",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1994324389622636622",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1994324389622636622",
+          "eventType": "other",
+          "summary": "மாண்புமிகு முதலமைச்சர் திரு. @mkstalin அவர்களை மாண்புமிகு துணை முதலமைச்சர் திரு. @Udhaystalin, இளைஞர் நலன் மற்றும் விளையாட்டு மேம்பாட்டுத் துறை கூடுதல..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512428+00:00"
+    },
+    {
+      "entityId": "division-bench",
+      "name": "Division Bench",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-04",
+        "lastMention": "2025-12-04"
+      },
+      "sources": [
+        {
+          "date": "2025-12-04",
+          "handle": "VigneshAnand_Vm",
+          "tweetId": "1996763431140315577",
+          "fxUrl": "https://fxtwitter.com/VigneshAnand_Vm/status/1996763431140315577",
+          "eventType": "other",
+          "summary": "Karthigai festival is a Tamil festival celebrated by Tamils worldwide, not exclusively a political \"Hindutva\" issue.\n\nA Division Bench of Justices Bha..."
+        }
+      ],
+      "accountsCovering": [
+        "VigneshAnand_Vm"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512430+00:00"
+    },
+    {
+      "entityId": "atm-cards",
+      "name": "Atm Cards",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-12",
+        "lastMention": "2025-12-12",
+        "inauguration": "2025-12-12"
+      },
+      "sources": [
+        {
+          "date": "2025-12-12",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1999506668196110821",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1999506668196110821",
+          "eventType": "inauguration",
+          "summary": "சென்னை, நேரு உள்விளையாட்டரங்கத்தில், தமிழ்நாடு அரசு பெண்களுக்காக செயல்படுத்தும் பல்வேறு முன்னோடி திட்டங்களின் சாதனைகள், பெண்களின் முன்னேற்றத்திற்காக அ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512433+00:00"
+    },
+    {
+      "entityId": "cii-sports-business-awards",
+      "name": "Cii Sports Business Awards",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-15",
+        "lastMention": "2025-12-15"
+      },
+      "sources": [
+        {
+          "date": "2025-12-15",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2000481463083614444",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2000481463083614444",
+          "eventType": "other",
+          "summary": "3ஆவது CII Sports Business Awards 2025-இல் தமிழ்நாடு விளையாட்டு மேம்பாட்டு ஆணையத்திற்கு வழங்கப்பட்ட விளையாட்டை ஊக்குவிக்கும் சிறந்த மாநிலத்திற்கான (THE..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512435+00:00"
+    },
+    {
+      "entityId": "kanimozhidmk-mp",
+      "name": "Kanimozhidmk Mp",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-17",
+        "lastMention": "2025-12-17"
+      },
+      "sources": [
+        {
+          "date": "2025-12-17",
+          "handle": "TRBRajaa",
+          "tweetId": "2001357397672235209",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2001357397672235209",
+          "eventType": "other",
+          "summary": "தமிழ்நாட்டின் வளர்ச்சிக்கு #திமுக என்னென்ன திட்டங்கள் வைத்திருக்கிறது என்பதை  மக்களிடம் #தேர்தல்_அறிக்கை மூலம் வெளிப்படையாக தெரிவித்து வாக்கு கேட்கும்..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512436+00:00"
+    },
+    {
+      "entityId": "tamil-nadu-translation-grants-catalogue",
+      "name": "Tamil Nadu Translation Grants Catalogue",
+      "nameVariants": [],
+      "category": "sports-culture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-18",
+        "lastMention": "2026-01-18"
+      },
+      "sources": [
+        {
+          "date": "2026-01-18",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2012815821421326724",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2012815821421326724",
+          "eventType": "other",
+          "summary": "சென்னை, கலைவாணர் அரங்கத்தில் நடைபெற்ற சென்னை பன்னாட்டுப் புத்தகத் திருவிழா 2026 நிறைவு விழாவில் தமிழ்நாடு மொழிபெயர்ப்பு மானியங்கள் பட்டியலை (Tamil Nad..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.512439+00:00"
+    }
+  ]
+}

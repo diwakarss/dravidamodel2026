@@ -1,0 +1,406 @@
+{
+  "category": "agriculture",
+  "aggregatedAt": "2026-02-17T17:44:43.360254+00:00",
+  "stats": {
+    "entries": 161,
+    "entities": 12
+  },
+  "entities": [
+    {
+      "entityId": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-23",
+        "lastMention": "2025-11-28"
+      },
+      "sources": [
+        {
+          "date": "2024-07-23",
+          "handle": "mkstalin",
+          "tweetId": "1815767554629284336",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1815767554629284336",
+          "eventType": "beneficiary_update",
+          "summary": "“Go to the battlefields of election in January 2029. Till then, the only priority should be the country, its poor, farmers, women, and the youth,” our..."
+        },
+        {
+          "date": "2024-07-23",
+          "handle": "mkstalin",
+          "tweetId": "1815777857807020528",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1815777857807020528",
+          "eventType": "beneficiary_update",
+          "summary": "“Go to the battlefields of election in January 2029. Till then, the only priority should be the country, its poor, farmers, women, and the youth,” our..."
+        },
+        {
+          "date": "2024-07-23",
+          "handle": "mkstalin",
+          "tweetId": "1815937117794754893",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1815937117794754893",
+          "eventType": "beneficiary_update",
+          "summary": "“Go to the battlefields of election in January 2029. Till then, the only priority should be the country, its poor, farmers, women, and the youth,” our..."
+        },
+        {
+          "date": "2025-11-28",
+          "handle": "DrGanesh_Japan",
+          "tweetId": "1994328909244965074",
+          "fxUrl": "https://fxtwitter.com/DrGanesh_Japan/status/1994328909244965074",
+          "eventType": "scheme_launch",
+          "summary": "It's great to see initiatives that help local brands go international and that increase investments in food R&D.\n\nJapanese sweets are known for being ..."
+        }
+      ],
+      "accountsCovering": [
+        "DrGanesh_Japan",
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 4,
+      "aggregatedAt": "2026-02-17T17:44:43.359685+00:00"
+    },
+    {
+      "entityId": "union-finance-minister",
+      "name": "Union Finance Minister",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-30",
+        "lastMention": "2025-05-30"
+      },
+      "sources": [
+        {
+          "date": "2025-05-30",
+          "handle": "mkstalin",
+          "tweetId": "1928389541704179826",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1928389541704179826",
+          "eventType": "milestone",
+          "summary": "Glad to note that @FinMinIndia has responded to the concerns raised by me in my letter to the Hon'ble Union Finance Minister regarding @RBI’s draft gu..."
+        },
+        {
+          "date": "2025-05-30",
+          "handle": "mkstalin",
+          "tweetId": "1928398825347276858",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1928398825347276858",
+          "eventType": "milestone",
+          "summary": "Glad to note that @FinMinIndia has responded to the concerns raised by me in my letter to the Hon'ble Union Finance Minister regarding @RBI’s draft gu..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.359760+00:00"
+    },
+    {
+      "entityId": "comrade-suravaram-sudhakar-reddy",
+      "name": "Comrade Suravaram Sudhakar Reddy",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-23",
+        "lastMention": "2025-08-23"
+      },
+      "sources": [
+        {
+          "date": "2025-08-23",
+          "handle": "mkstalin",
+          "tweetId": "1959117752234365082",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1959117752234365082",
+          "eventType": "other",
+          "summary": "Deeply saddened by the passing of Comrade Suravaram Sudhakar Reddy, former General Secretary of @CPI_National.\n\nFrom his early days as a student leade..."
+        },
+        {
+          "date": "2025-08-23",
+          "handle": "mkstalin",
+          "tweetId": "1959181934531383384",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1959181934531383384",
+          "eventType": "other",
+          "summary": "Deeply saddened by the passing of Comrade Suravaram Sudhakar Reddy, former General Secretary of @CPI_National.\n\nFrom his early days as a student leade..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.359775+00:00"
+    },
+    {
+      "entityId": "pm-thiru",
+      "name": "Pm Thiru",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-16",
+        "lastMention": "2025-09-16"
+      },
+      "sources": [
+        {
+          "date": "2025-09-16",
+          "handle": "mkstalin",
+          "tweetId": "1967963388887151056",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1967963388887151056",
+          "eventType": "expansion",
+          "summary": "Hon’ble PM Thiru @narendramodi , despite increased paddy coverage, Tamil Nadu has received only 57 percent of its allocated fertilizers. \n\nI request y..."
+        },
+        {
+          "date": "2025-09-16",
+          "handle": "mkstalin",
+          "tweetId": "1967965737047429260",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1967965737047429260",
+          "eventType": "expansion",
+          "summary": "Hon’ble PM Thiru @narendramodi , despite increased paddy coverage, Tamil Nadu has received only 57 percent of its allocated fertilizers. \n\nI request y..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.359868+00:00"
+    },
+    {
+      "entityId": "prime-minister-thiru",
+      "name": "Prime Minister Thiru",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-18",
+        "lastMention": "2025-11-18",
+        "productionStart": "2025-11-18"
+      },
+      "sources": [
+        {
+          "date": "2025-11-18",
+          "handle": "mkstalin",
+          "tweetId": "1990680825021804963",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1990680825021804963",
+          "eventType": "production_start",
+          "summary": "கோவை வரும் மாண்புமிகு பிரதமர் அவர்களுக்குத் தமிழ்நாட்டு உழவர்களின் சார்பில் நமது கோரிக்கைகள்\n\nHon'ble Prime Minister Thiru. @narendramodi, Tamil Nadu ..."
+        },
+        {
+          "date": "2025-11-18",
+          "handle": "mkstalin",
+          "tweetId": "1990816485657161877",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1990816485657161877",
+          "eventType": "production_start",
+          "summary": "கோவை வரும் மாண்புமிகு பிரதமர் அவர்களுக்குத் தமிழ்நாட்டு உழவர்களின் சார்பில் நமது கோரிக்கைகள்\n\nHon'ble Prime Minister Thiru. @narendramodi, Tamil Nadu ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.359981+00:00"
+    },
+    {
+      "entityId": "godrejgroup-agrovet",
+      "name": "Godrejgroup Agrovet",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-08",
+        "lastMention": "2024-07-08",
+        "mouSigned": "2024-07-08"
+      },
+      "sources": [
+        {
+          "date": "2024-07-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1810249511882911762",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1810249511882911762",
+          "eventType": "mou_signed",
+          "summary": "🌾 As a people’s representative and a proud son of the #Cauvery #Delta region, it gives me immense satisfaction and happiness to be part of the launch ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.359672+00:00"
+    },
+    {
+      "entityId": "honourable-minister",
+      "name": "Honourable Minister",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-22",
+        "lastMention": "2024-07-22"
+      },
+      "sources": [
+        {
+          "date": "2024-07-22",
+          "handle": "TNIndMin",
+          "tweetId": "1815250034516222024",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1815250034516222024",
+          "eventType": "other",
+          "summary": "“Harvesting the delta: The state govt's plan for an agro-industrial corridor can transform the economy and the lives of the farmers in the Cauvery del..."
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.359681+00:00"
+    },
+    {
+      "entityId": "india-book",
+      "name": "India Book",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-25",
+        "lastMention": "2024-09-25"
+      },
+      "sources": [
+        {
+          "date": "2024-09-25",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1838854655776043195",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1838854655776043195",
+          "eventType": "milestone",
+          "summary": "திருநெல்வேலி மாவட்டத்தைச் சேர்ந்த செல்வி எஸ்.சாந்தா சர்மிளா அவர்கள் , 5 நிமிடங்களில் ஒரே நேரத்தில் இரண்டு கைகளிலும் 12 திருக்குறளை எழுதி சாதனை படைத்தத..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.359734+00:00"
+    },
+    {
+      "entityId": "praveen-chithravel",
+      "name": "Praveen Chithravel",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-28",
+        "lastMention": "2025-05-28"
+      },
+      "sources": [
+        {
+          "date": "2025-05-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1927699326605607038",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1927699326605607038",
+          "eventType": "other",
+          "summary": "Heartfelt congratulations to my hugely talented thambi Praveen Chithravel who has won the silver medal in Triple Jump, representing India at the 26th ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.359751+00:00"
+    },
+    {
+      "entityId": "april",
+      "name": "April",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-08",
+        "lastMention": "2025-06-08",
+        "productionStart": "2025-06-08"
+      },
+      "sources": [
+        {
+          "date": "2025-06-08",
+          "handle": "PWilsonDMK",
+          "tweetId": "1931727915408130281",
+          "fxUrl": "https://fxtwitter.com/PWilsonDMK/status/1931727915408130281",
+          "eventType": "production_start",
+          "summary": "In April 2025, @RBI’s draft gold loan rules proposed bans on gold-backed agri loans <₹2L & required proof of ownership. Hon. CM Thalaivar @mkstalin ra..."
+        }
+      ],
+      "accountsCovering": [
+        "PWilsonDMK"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.359766+00:00"
+    },
+    {
+      "entityId": "market-intervention-scheme",
+      "name": "Market Intervention Scheme",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-24",
+        "lastMention": "2025-06-24"
+      },
+      "sources": [
+        {
+          "date": "2025-06-24",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1937503765441184105",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1937503765441184105",
+          "eventType": "scheme_launch",
+          "summary": "தமிழ்நாட்டில் மாங்கனி விலை வீழ்ச்சியை ஈடுசெய்ய சந்தைத் தலையீட்டுத் திட்டத்தை (Market Intervention Scheme) செயல்படுத்தி விவசாயிகளுக்கு உரிய தொகையை வழங்..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.359771+00:00"
+    },
+    {
+      "entityId": "farmer-registry",
+      "name": "Farmer Registry",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-29",
+        "lastMention": "2025-11-29"
+      },
+      "sources": [
+        {
+          "date": "2025-11-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1994800223168983535",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1994800223168983535",
+          "eventType": "other",
+          "summary": "*விவசாயப் பெருங்குடி மக்களுக்கு முக்கிய அறிவிப்பு*:🚨\n\n2025-2026ஆம் ஆண்டு பயிர் காப்பீடு செய்ய குத்தகை விவசாயிகளுக்கு விவசாயி பதிவு fFarmer Registry) ம..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.359988+00:00"
+    }
+  ]
+}

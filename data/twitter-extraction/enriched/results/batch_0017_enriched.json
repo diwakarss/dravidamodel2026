@@ -1,0 +1,441 @@
+{
+  "batch": 17,
+  "processedAt": "2026-02-17T11:35:40.170918+00:00",
+  "stats": {
+    "success": 16,
+    "failed": 1,
+    "not_found": 0,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.thenewsminute.com/article/third-wave-here-karnataka-expert-panel-recommends-staggered-lockdown-159472",
+      "urlHash": "852946a81bf0",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:34:50.826744+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1478335872906842114",
+          "handle": "anna_isaac",
+          "date": "Tue Jan 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "&#x27;Third wave is here&#x27;: Karnataka expert panel recommends staggered lockdown",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Pooja Prasanna",
+      "rawText": "",
+      "extractedData": {
+        "headline": "&#x27;Third wave is here&#x27;: Karnataka expert panel recommends staggered lockdown",
+        "summary": "The night curfew in place till January 7, is most likely to be continued."
+      }
+    },
+    {
+      "url": "https://edition.cnn.com/style/article/notpla-seaweed-single-use-plastics/index.html",
+      "urlHash": "e07f8a48665a",
+      "domain": "edition.cnn.com",
+      "fetchedAt": "2026-02-17T11:34:52.919507+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1478566567696732161",
+          "handle": "TRBRajaa",
+          "date": "Wed Jan 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/if-bending-is-normal-then-a-man-standing-upright-looks-combative/articleshow/83830274.cms",
+      "urlHash": "cb08682884f0",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:34:55.051956+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1478923111101714432",
+          "handle": "ptrmadurai",
+          "date": "Wed Jan 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u2018If bending is normal, then a man standing upright looks combative\u2019 | Chennai News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u2018If bending is normal, then a man standing upright looks combative\u2019 | Chennai News - Times of India",
+        "summary": "Since May 7, when the DMK government led by CM M K Stalin assumed office, P T R Palanivel Thiagarajan has been questioning the previous AIADMK governm."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/opinion-electoral-bonds-act-akin-token-hawala-model-159500",
+      "urlHash": "0f3c6a45b55f",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:34:57.172225+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1478998872026349568",
+          "handle": "DMKNRIWing",
+          "date": "Thu Jan 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Opinion: The electoral bonds act akin to a \u2018token\u2019 in the hawala model",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Puhazh Gandhi P",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Opinion: The electoral bonds act akin to a \u2018token\u2019 in the hawala model",
+        "summary": "Introduced by the BJP government in 2017, the electoral bonds scheme seems to be a systematic design to route the black money of the ruling political party at the Centre through its crony corporates, writes the author."
+      }
+    },
+    {
+      "url": "https://blogs.nasa.gov/webb/2022/01/06/why-doesnt-webb-have-deployment-cameras/",
+      "urlHash": "be07d8624a9c",
+      "domain": "blogs.nasa.gov",
+      "fetchedAt": "2026-02-17T11:34:59.265576+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1479165839018397696",
+          "handle": "NASAWebb",
+          "date": "Thu Jan 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "James Webb Space Telescope Archives - NASA Science",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "James Webb Space Telescope Archives - NASA Science",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://m.facebook.com/story.php?story_fbid=3236900369864366&id=100006333038599&sfnsn=wiwspmo",
+      "urlHash": "1fc1f2d68b26",
+      "domain": "m.facebook.com",
+      "fetchedAt": "2026-02-17T11:35:02.759903+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1480103667625721856",
+          "handle": "TThenarasu",
+          "date": "Sun Jan 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0ca6\u0ccb\u0cb7",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0ca6\u0ccb\u0cb7",
+        "summary": "Facebook &#xca8;&#xcb2;&#xccd;&#xcb2;&#xcbf; &#xcaa;&#xccb;&#xcb8;&#xccd;&#xc9f;&#xccd;&#x200c;&#xc97;&#xcb3;&#xcc1;, &#xcab;&#xccb;&#xc9f;&#xccb;&#xc97;&#xcb3;&#xcc1; &#xcae;&#xca4;&#xccd;&#xca4;&#xcc1; &#xcb9;&#xcc6;&#xc9a;&#xccd;&#xc9a;&#xcbf;&#xca8;&#xca6;&#xca8;&#xccd;&#xca8;&#xcc1; &#xcb5;&#xcc0;&#xc95;&#xccd;&#xcb7;&#xcbf;&#xcb8;&#xcbf;."
+      }
+    },
+    {
+      "url": "https://minnambalam.com/politics/2022/01/10/6/NEET-exam-and-difference-in-Sovereignty",
+      "urlHash": "31505598fa6c",
+      "domain": "minnambalam.com",
+      "fetchedAt": "2026-02-17T11:35:05.633299+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1480390950086086656",
+          "handle": "TRBRajaa",
+          "date": "Mon Jan 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0ba8\u0bc0\u0b9f\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1: \u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2 \u0b87\u0bb1\u0bc8\u0baf\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 - \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Menu \u0bae\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0bae\u0bc2\u0b95\u0bae\u0bcd \u0baa\u0ba3\u0bae\u0bcd \u0bb2\u0bc8\u0b83\u0baa\u0bcd\u0bb8\u0bcd\u0b9f\u0bc8\u0bb2\u0bcd \u0baa\u0bca\u0bb4\u0bc1\u0ba4\u0bc1 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd \u0bb5\u0bc8\u0bb0\u0bb2\u0bcd \u0bb8\u0bcd\u0b95\u0bc2\u0baa\u0bcd \u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bcd \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8 \u0ba8\u0bc0\u0b9f\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1: \u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2 \u0b87\u0bb1\u0bc8\u0baf\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 Published On: 10 Jan 2022, 12:00 AM | By Balaji",
+      "extractedData": {
+        "headline": "\u0ba8\u0bc0\u0b9f\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1: \u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2 \u0b87\u0bb1\u0bc8\u0baf\u0bbe\u0ba3\u0bcd\u0bae\u0bc8 - \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd",
+        "summary": "\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bc8"
+      }
+    },
+    {
+      "url": "https://www.telegraphindia.com/india/free-air-time-for-parties-should-be-extended-to-private-channels-says-former-poll-body-chief/cid/1846874?utm_source=twitter&utm_medium=social&utm_campaign=tt_daily_twit",
+      "urlHash": "d61a66a36d75",
+      "domain": "telegraphindia.com",
+      "fetchedAt": "2026-02-17T11:35:08.940690+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1480394896028495872",
+          "handle": "ttindia",
+          "date": "Mon Jan 10"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://alert5.com/2022/01/10/manufacturing-of-first-tejas-mk-2-prototype-has-started/",
+      "urlHash": "be3232bef4fc",
+      "domain": "alert5.com",
+      "fetchedAt": "2026-02-17T11:35:11.003332+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1480410302306930689",
+          "handle": "alert5",
+          "date": "Mon Jan 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Manufacturing of first Tejas MK-2 prototype has started - Alert 5",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "alert5",
+      "rawText": "Alert 5 Aviation News Hindustan Aeronautics Limited (HAL) is confident that the first Tejas MK-2 prototype will be rolled out by end of this year or early next year. Josh097 , CC BY-SA 4.0 , via Wikimedia Commons R. Madhavan, Chief Managing Director, said that the design has been finalized and some manufacturing activities have started. For more information, hit the Source below Source Related posts (Automatically Generated):",
+      "extractedData": {
+        "headline": "Manufacturing of first Tejas MK-2 prototype has started - Alert 5",
+        "summary": "Hindustan Aeronautics Limited (HAL) is confident that the first Tejas MK-2 prototype will be rolled out by end of this year or early next year. Josh097, CC BY-SA 4.0, via Wikimedia Commons R. Madhavan, Chief Managing Director, said that the design has been finalized and some manufacturing activities have started. For more information, hit the [&hellip;]"
+      }
+    },
+    {
+      "url": "https://www.extendedforecast.net/recursos//imagenes/noticias/cascarudos-santa-isabel-argentina-3.jpg",
+      "urlHash": "83d66e33f2d1",
+      "domain": "extendedforecast.net",
+      "fetchedAt": "2026-02-17T11:35:15.075464+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1481176825225428995",
+          "handle": "SudhaRamenIFS",
+          "date": "Wed Jan 12"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_406"
+    },
+    {
+      "url": "https://www.straitstimes.com/asia/south-asia/china-steps-up-construction-along-disputed-bhutan-border-satellite-images-show?utm_source=twitter&utm_medium=social-organic&utm_keyword=dlvr.it",
+      "urlHash": "0bf0da2ecd07",
+      "domain": "straitstimes.com",
+      "fetchedAt": "2026-02-17T11:35:17.380446+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1481199084992331786",
+          "handle": "STForeignDesk",
+          "date": "Wed Jan 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "China steps up construction along disputed Bhutan border, satellite images show | The Straits Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "myST+ Menu Choose edition Search singapore asia world opinion life business sport Visual Podcasts SPH Rewards STClassifieds Paid press releases Advertise with us FAQs Contact us Sign up now: Get insights on Asia&#x27;s fast-moving developments The construction suggests that China is bent on resolving its border claims by giving its ambitions concrete form, said the experts and one Indian defence source. PHOTO: EPA-EFE Published Jan 12, 2022, 05:01 PM NEW DELHI (REUTERS) - China has accelerated settlement-building along its disputed border with Bhutan, with more than 200 structures, including two-storey buildings, under construction in six locations, according to satellite image analysis conducted for Reuters. The images and analysis supplied to Reuters by US data analytics firm HawkEye 360, which uses satellites to gather intelligence on ground-level activities, and vetted by two other experts, provide a detailed look into China's recent construction along its frontier with Bhutan. Construction-related activity in some of the locations along Bhutan's western border has been under way since early 2020, with China initially building tracks and clearing out areas, based on material provided by satellite imagery firms Capella Space and Planet Labs, said Mr Chris Biggers, the mission applications director at HawkEye 360. Images show the work sped up in 2021. Smaller structures were erected - possibly to house equipment and supplies - followed by the laying of foundations and then the construction of buildings, Mr Biggers said. \"To me, 2021 was the period for acceleration,\" Mr Biggers said. Two other experts who studied the locations of the new construction and recent satellite images taken by Capella Space said all six settlements appear to be in territory disputed by China and Bhutan - including a contested tract of roughly 110 sq km - with little in the way of resources or native population. \"It is Bhutan's policy not to talk about boundary issues in the public,\" Bhuta",
+      "extractedData": {
+        "headline": "China steps up construction along disputed Bhutan border, satellite images show | The Straits Times",
+        "summary": "More than 200 structures, including two-storey buildings are under construction in six locations.   Read more at straitstimes.com."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/neet-and-illusion-merit-155277?amp",
+      "urlHash": "56908abcf266",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:35:19.601123+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1481283184671494154",
+          "handle": "dharanisalem",
+          "date": "Wed Jan 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "NEET and the illusion of \u2018merit\u2019",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Salem Dharanidharan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "NEET and the illusion of \u2018merit\u2019",
+        "summary": "In many quarters \u201cmerit\u201d is simply considered to be performance in a competitive exam. However, this view remains oblivious to many external factors."
+      }
+    },
+    {
+      "url": "https://ndtv.com/india-news/16-420-new-covid-cases-in-mumbai-40-higher-than-yesterday-positivity-rate-at-24-38-2704417",
+      "urlHash": "6dac8d5f151c",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:35:22.712201+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1481283343774011395",
+          "handle": "ndtv",
+          "date": "Wed Jan 12"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://toi.in/LVPCLZ79/a24gk",
+      "urlHash": "3fa37db737e3",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:35:24.791846+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1481469584398237696",
+          "handle": "timesofindia",
+          "date": "Wed Jan 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Kartarpur: Separated by Partition, brothers reunite in Kartarpur after 74 years | Amritsar News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Kartarpur: Separated by Partition, brothers reunite in Kartarpur after 74 years | Amritsar News - Times of India",
+        "summary": "It was a showstopper \u2014 both time and a flock of pilgrims stood still for a while to soak up the scene of two turbaned old men pat each other\u2019s backs"
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-tigress-collarwali-mom-to-29-cubs-dies-in-pench-tiger-reserve/articleshow/88926150.cms",
+      "urlHash": "2751e2bee686",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:35:27.111433+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1482694265906274310",
+          "handle": "SriramMadras",
+          "date": "Sun Jan 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Collarwali: Madhya Pradesh: Tigress Collarwali, mom to 29 cubs, dies in Pench Tiger Reserve | Bhopal News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Collarwali: Madhya Pradesh: Tigress Collarwali, mom to 29 cubs, dies in Pench Tiger Reserve | Bhopal News - Times of India",
+        "summary": "In some sad news for wildlife lovers and tourists, T15, the legendary tigress from Pench Tiger Reserve (PTR), Madhya Pradesh, also popularly called C"
+      }
+    },
+    {
+      "url": "https://www.outlookindia.com/website/story/business-news-centre-would-not-want-the-consequences-of-not-extending-gst-compensation-on-their-conscience-tn-fm-p-thiaga-rajan/409698",
+      "urlHash": "eaf671924d96",
+      "domain": "outlookindia.com",
+      "fetchedAt": "2026-02-17T11:35:29.196181+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1483270953069342720",
+          "handle": "ptrmadurai",
+          "date": "Tue Jan 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Centre Would Not Want Consequences Of Not Extending GST: PTR | Outlook India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "BUSINESS MONEY TRAVELLER EATS RESPAWN LUXE Buy Latest Issue Get magazine delivered to your doorstep Get latest issue delivered instantly Only in Delhi-NCR, Mumbai, Bengaluru, Pune, Lucknow & Kolkata Buy latest issue Subscribe Get magazine delivered to your doorstep Get latest issue delivered instantly Only in Delhi-NCR, Mumbai, Bengaluru, Pune, Lucknow & Kolkata",
+      "extractedData": {
+        "headline": "Centre Would Not Want Consequences Of Not Extending GST: PTR | Outlook India",
+        "summary": "The GST has not been able to generate as much revenue as had been anticipated during its implementation in 2017."
+      }
+    },
+    {
+      "url": "https://www.news18.com/news/india/x-rays-to-replace-pcr-tests-scientists-in-scotland-develop-new-covid-diagnosis-thats-98-accurate-4677536.html",
+      "urlHash": "c6e8345007b1",
+      "domain": "news18.com",
+      "fetchedAt": "2026-02-17T11:35:32.964676+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1484112105020493831",
+          "handle": "TRBRajaa",
+          "date": "Thu Jan 20"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/opinion-rejecting-tn-s-republic-day-tableau-union-govt-undermines-state-history-160259",
+      "urlHash": "796394ee9dff",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:35:35.033005+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1486274948478177282",
+          "handle": "saravofcl",
+          "date": "Wed Jan 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Opinion: In rejecting TN\u2019s Republic Day tableau, Union govt undermines state history",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "A Saravanan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Opinion: In rejecting TN\u2019s Republic Day tableau, Union govt undermines state history",
+        "summary": "More than the rejection, the manner in which it was rejected is deeply disturbing, a DMK spokesperson writes."
+      }
+    },
+    {
+      "url": "https://sonaliranade.substack.com/p/we-the-people-?justPublished=true",
+      "urlHash": "78d07c7ee0bc",
+      "domain": "sonaliranade.substack.com",
+      "fetchedAt": "2026-02-17T11:35:38.013178+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1486344171963428864",
+          "handle": "sonaliranade",
+          "date": "Wed Jan 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "We the people ...  - by Sonali Ranade",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Sonali Ranade",
+      "rawText": "Subscribe Sign in We the people ... We, the sovereign citizens of India, gave ourselves this Constitution, and it is up to us to defend it, if we want to continue to be sovereign in the Republic. Sonali Ranade Jan 26, 2022 38 9 Share This essay was first published in the National Herald . Individuals have always herded together in tribes, clans, communities and nations for survival against the challenges that nature, and other similar herds, throw at them. Without the capacity to combine skills and divide labour efficiently, human survival would be impossible. However, each individual is born with a unique identity, and is the site for unique thoughts, skills, perspectives and experience, which makes the human species unique, and gives it the ability to gather new knowledge, and harness it to gain some mastery over nature. The tension between the individual and the herd is as old as the species itself. There is no sure-fire way of resolving this tension of who should prevail over the other. What makes the tension difficult to resolve is the fact that it is easy to confuse trees with the forest, because the forest is so much bigger, mysterious and awesome, than a humble tree. However, it is the trees that make a forest. By itself, a forest can\u2019t exist because it\u2019s essential constituent is the humble tree. A forest is thus an empty basket in which we put lots of trees to make a coherent ensemble. No doubt, the forest then has an ontology of its own, but take away the trees, and there is no forest. The same is the case between the individual and the herd. It is the individuals that make the herd and give it its unique ontology and personality. It was in recognition this primacy of an individual\u2019s ontology over that of the herd, that our forefathers gave us the Constitution that begins with the sacred and inviolate words, \u201cWe the people ..\u201d It was the people - qua individuals - that came together as a nation to give us a Republic that we now know as India. This was no i",
+      "extractedData": {
+        "headline": "We the people ...  - by Sonali Ranade",
+        "summary": "We, the sovereign citizens of India, gave ourselves this Constitution, and it is up to us to defend it, if we want to continue to be sovereign in the Republic."
+      }
+    },
+    {
+      "url": "https://www.indiatoday.in/india/story/replying-to-governor-address-tamil-nadu-minister-seeks-immediate-assent-to-anti-neet-bill-1905177-2022-01-27?utm_source=twshare&utm_medium=socialicons&utm_campaign=shareurltracking",
+      "urlHash": "85a35a5b2e96",
+      "domain": "indiatoday.in",
+      "fetchedAt": "2026-02-17T11:35:40.112801+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1486761128193495041",
+          "handle": "TThenarasu",
+          "date": "Thu Jan 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Replying to Governor\u2019s address, Tamil Nadu minister seeks immediate assent to anti-NEET Bill - India Today",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Replying to Governor\u2019s address, Tamil Nadu minister seeks immediate assent to anti-NEET Bill - India Today",
+        "summary": "The minister said that students from poor backgrounds had to pay a large amount of tuition fee and hence a bill was passed to provide exemption to Tamil Nadu from Neet and was sent to the Governor."
+      }
+    }
+  ]
+}

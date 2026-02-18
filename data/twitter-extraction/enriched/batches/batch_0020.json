@@ -1,0 +1,282 @@
+[
+  {
+    "url": "http://www.tnlip.com",
+    "urlHash": "3b706d305187",
+    "domain": "tnlip.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1500729862310735872",
+        "handle": "CMOTamilnadu",
+        "date": "Mon Mar 07"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://ranaayyub.substack.com/p/indian-students-sumy-ukraine-war?s=r&utm_campaign=post&utm_medium=web&utm_source=direct",
+    "urlHash": "ccc3837ecc89",
+    "domain": "ranaayyub.substack.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1500926354887348226",
+        "handle": "TRBRajaa",
+        "date": "Mon Mar 07"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thenewsminute.com/article/feel-remorse-over-his-lost-years-cbi-man-tells-sc-perarivalan-unaware-about-rajiv-conspiracy",
+    "urlHash": "90dd7a01e2a4",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1501616429262831617",
+        "handle": "priyankathiru",
+        "date": "Wed Mar 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/india/2022/03/10/2-bjp-executives-held-at-puducherry-who-cheats-rtd-police",
+    "urlHash": "51f0b7aa174a",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1501823466861133825",
+        "handle": "Kalaignarnews",
+        "date": "Thu Mar 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://myneta.info/party/index.php?action=all_donors&id=3",
+    "urlHash": "4d47e53cc22e",
+    "domain": "myneta.info",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1503358888447725575",
+        "handle": "angry_birdu",
+        "date": "Mon Mar 14"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.livelaw.in/top-stories/neet-ss-supreme-court-allows-50-reservation-in-super-speciality-courses-in-tamil-nadu-for-2021-202-194284",
+    "urlHash": "708b62d5c51d",
+    "domain": "livelaw.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1503998515050995712",
+        "handle": "angry_birdu",
+        "date": "Wed Mar 16"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://amp.scroll.in/article/805594/the-centre-has-made-it-clear-holi-is-national-all-other-festivals-of-colour-are-local",
+    "urlHash": "442166ebcf18",
+    "domain": "amp.scroll.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1505117334541049859",
+        "handle": "GargaC",
+        "date": "Sat Mar 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://m.youtube.com/watch?v=8tro75QlUAw&feature=youtu.be",
+    "urlHash": "f4b261e98409",
+    "domain": "m.youtube.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1505180334295453698",
+        "handle": "DravidianForum",
+        "date": "Sat Mar 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdI8_pvYZibp7kCnb3G-A1RZaG_nRrU_N1c7PDruMr8p1SODw/viewform",
+    "urlHash": "98ebf52d9a41",
+    "domain": "docs.google.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1505189225561395205",
+        "handle": "mkstalin",
+        "date": "Sat Mar 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/ESAG-2018.pdf",
+    "urlHash": "3d22ee95092b",
+    "domain": "education.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1505359806294818820",
+        "handle": "angry_birdu",
+        "date": "Sat Mar 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.hindustantimes.com/world-news/on-day-25-of-war-school-where-400-took-refuge-bombed-by-russia-says-ukraine-101647762907477.html",
+    "urlHash": "41bf9b2b9bfd",
+    "domain": "hindustantimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1505502017325711361",
+        "handle": "htTweets",
+        "date": "Sun Mar 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.indiatoday.in/india-today-insight/story/tamil-nadu-budget-how-palanivel-thiagarajan-plans-to-nudge-growth-raise-resources-1927303-2022-03-20?utm_source=twshare&utm_medium=socialicons&utm_campaign=shareurltracking",
+    "urlHash": "fa4244f9571e",
+    "domain": "indiatoday.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1505820753932918784",
+        "handle": "TRBRajaa",
+        "date": "Mon Mar 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://ppac.gov.in/WriteReadData/userfiles/file/PP_7_b_PS_oil_prices(H).pdf",
+    "urlHash": "3b6c31dc9915",
+    "domain": "ppac.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1506262672211267584",
+        "handle": "angry_birdu",
+        "date": "Tue Mar 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://toi.in/KEUluZ/a24gk",
+    "urlHash": "6aba99dbc65b",
+    "domain": "toi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1506370888286945280",
+        "handle": "timesofindia",
+        "date": "Tue Mar 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://m.economictimes.com/news/politics-and-nation/tamil-nadu-democratised-religion-over-100-years-ago-tough-for-radicalism-fm-palanivel-thiagarajan/articleshow/90628570.cms?utm_source=twitter_pwa&utm_medium=social&utm_campaign=socialsharebuttons",
+    "urlHash": "14bbd3a37989",
+    "domain": "m.economictimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1511014373946540039",
+        "handle": "TRBRajaa",
+        "date": "Mon Apr 04"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://tamil.asianetnews.com/politics/cm-stalin-speech-on-7-5-reservation-judgement-in-assembly-r9yjy4",
+    "urlHash": "5b5e3ab1e31f",
+    "domain": "tamil.asianetnews.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1512016118055313412",
+        "handle": "TRBRajaa",
+        "date": "Thu Apr 07"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.dtnext.in/News/National/2022/04/08094909/1361245/Hindi-should-be-accepted-as-an-alternative-to-English-.vpf",
+    "urlHash": "2f1ece2a2b4e",
+    "domain": "dtnext.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1512353864187490306",
+        "handle": "KanimozhiDMK",
+        "date": "Fri Apr 08"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/india/people-different-states-should-speak-hindi-not-english-shah-7858861/lite/",
+    "urlHash": "8a1b13f99322",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1512378258880303110",
+        "handle": "t_d_h_nair",
+        "date": "Fri Apr 08"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.niti.gov.in/sites/default/files/2021-11/National_MPI_India-11242021.pdf",
+    "urlHash": "8388836d94e4",
+    "domain": "niti.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1513355072482455555",
+        "handle": "angry_birdu",
+        "date": "Sun Apr 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.mhc.tn.gov.in/judis/index.php/casestatus/viewpdf/644822",
+    "urlHash": "aecc36698def",
+    "domain": "mhc.tn.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1513763865653571584",
+        "handle": "angry_birdu",
+        "date": "Tue Apr 12"
+      }
+    ],
+    "status": "pending"
+  }
+]

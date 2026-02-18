@@ -1,0 +1,433 @@
+{
+  "batch": 14,
+  "processedAt": "2026-02-17T11:32:37.193943+00:00",
+  "stats": {
+    "success": 15,
+    "failed": 2,
+    "not_found": 0,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://bbc.in/30zyWQY",
+      "urlHash": "0c7d85168dc6",
+      "domain": "bbc.in",
+      "fetchedAt": "2026-02-17T11:31:30.987074+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1461010609932144648",
+          "handle": "BBCPolitics",
+          "date": "Wed Nov 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "As it happened: MPs back government&#x27;s plan to curb second job rules - BBC News",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "As it happened: MPs back government&#x27;s plan to curb second job rules - BBC News",
+        "summary": "The government wins support for its plan to ban MPs from also being paid political consultants."
+      }
+    },
+    {
+      "url": "https://www.amazon.in/Army-Nation-Military-Democracy-Independence/dp/0674728807",
+      "urlHash": "85924b3316f7",
+      "domain": "amazon.in",
+      "fetchedAt": "2026-02-17T11:31:34.260869+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1461016502371438595",
+          "handle": "Ram_Guha",
+          "date": "Wed Nov 17"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte"
+    },
+    {
+      "url": "https://fb.me/e/4fYlsEaRJ",
+      "urlHash": "85f7b36ebf00",
+      "domain": "fb.me",
+      "fetchedAt": "2026-02-17T11:31:38.270243+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1461017138806722561",
+          "handle": "dharanisalem",
+          "date": "Wed Nov 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": "&#xcad;&#xcbe;&#xca8;&#xcc1;&#xcb5;&#xcbe;&#xcb0;, &#xca8;&#xcb5;&#xcc6;&#xc82;&#xcac;&#xcb0;&#xccd; 28 2021 &#xcb0;&#xc82;&#xca6;&#xcc1; Dravidian Professionals Forum &#xc85;&#xcb5;&#xcb0; &#xc95;&#xcbe;&#xcb0;&#xca3;&#xc97;&#xcb3;&#xcc1; &#xc88;&#xcb5;&#xcc6;&#xc82;&#xc9f;&#xccd;"
+      }
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/second-china-constructed-enclave-in-arunachal-show-new-satellite-images-2613160",
+      "urlHash": "f3775ddefa8d",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:31:45.046866+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1461385146750226435",
+          "handle": "VishnuNDTV",
+          "date": "Thu Nov 18"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://scroll.in/latest/1010920/",
+      "urlHash": "4665d55dd638",
+      "domain": "scroll.in",
+      "fetchedAt": "2026-02-17T11:31:47.161737+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1461548086824607745",
+          "handle": "scroll_in",
+          "date": "Fri Nov 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Modi announces repeal of farm laws, farmers to continue protests till they are revoked in Parliament",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Scroll Staff",
+      "rawText": "Become A Member Gift Membership Gift Membership Gift Membership Sign In Become A Member Home Common Ground The Latest Members-Only Video Eco India The Reel Magazine Trending Trending Administrative takeover of Lakshwadeep\u2019s coral atoll could disrupt rich ecology Umar Khalid\u2019s five years of incarceration: \u2018Do I even know the world any more?\u2019 Shashi Deshpande writes about a dressing table that has been with her family for three generations Why the Supreme Court\u2019s menstrual hygiene ruling may not be enough for schoolgirls Why a village in Maharashtra\u2019s Western Ghats is trying to save rainwater runoff The roots of India\u2019s disinterest in reading A bittersweet archive: The history of sohan halwa Indian flag history: How Pingali Venkayya designed one of the first versions of the tricolour Feminist fiction for children: Sisters Shukhu and Dukhu learn to be independent by becoming weavers Short fiction: The demolition of the Babri Masjid sends the journalists of a newspaper into a flurry BNP chief Tarique Rahman takes oath as Bangladesh PM Why has the JNU sedition case gone nowhere in a decade?",
+      "extractedData": {
+        "headline": "Modi announces repeal of farm laws, farmers to continue protests till they are revoked in Parliament",
+        "summary": "The prime minister said that the laws will be repealed by the end of the month in the Winter Session."
+      }
+    },
+    {
+      "url": "https://www.bbc.com/news/world-asia-india-59219595",
+      "urlHash": "4df34f2b7784",
+      "domain": "bbc.com",
+      "fetchedAt": "2026-02-17T11:31:49.456989+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1461889540981809156",
+          "handle": "sureshsambandam",
+          "date": "Sat Nov 20"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Jai Bhim: The Indian film that overtook The Godfather on IMDb",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Jai Bhim: The Indian film that overtook The Godfather on IMDb",
+        "summary": "Jai Bhim, a film on Dalit repression, is at the top of IMDb rankings in just two weeks since its release."
+      }
+    },
+    {
+      "url": "http://toi.in/udfcQZ/a24gk",
+      "urlHash": "48293dd13f1c",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:31:52.171153+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1462006701293379587",
+          "handle": "timesofindia",
+          "date": "Sat Nov 20"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "BMTC buses: BMTC bus panels to display destinations instead of ads | Bengaluru News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "+ TOI TimesPoints HOW TO EARN MY ACTIVITY FAQs more DAILY CHECK-INS: 0 /5 completed You must login to keep earning daily check-in points REDEEM YOUR TIMES POINTS VIEW ALL Lifetime Expired Redeemed Total redeemable TimesPoints * TimesPoints expire in 1 year from the day of credit",
+      "extractedData": {
+        "headline": "BMTC buses: BMTC bus panels to display destinations instead of ads | Bengaluru News - Times of India",
+        "summary": "BENGALURU: BMTC buses are in for a makeover."
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/sports/2021/11/20/tn-chief-minister-mk-stalin-praises-csk-captaion-ms-dhoni",
+      "urlHash": "52e09ebc29d5",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:31:58.946211+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1462083378988011532",
+          "handle": "Kalaignarnews",
+          "date": "Sat Nov 20"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN Chief Minister MK Stalin praises CSK Captaion MS Dhoni",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TN Chief Minister MK Stalin praises CSK Captaion MS Dhoni",
+        "summary": "TN Chief Minister MK Stalin praises CSK Captaion MS Dhoni"
+      }
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2021/11/22/muslim-mason-sculpts-shrines-for-bangladeshs-hindu-dead",
+      "urlHash": "8be519932ead",
+      "domain": "aljazeera.com",
+      "fetchedAt": "2026-02-17T11:32:01.910508+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1462753479219318789",
+          "handle": "aqliyat",
+          "date": "Mon Nov 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Muslim mason sculpts shrines for Bangladesh\u2019s Hindu dead | Religion News | Al Jazeera",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "play Live Sign up Show navigation menu Navigation menu News Show more news sections Africa Asia US & Canada Latin America Europe Asia Pacific Middle East Explained Opinion Sport Video More Show more sections Features Economy Human Rights Climate Crisis Investigations Interactives In Pictures Science & Technology Podcasts Travel play Live Click here to search search Sign up Navigation menu caret-left Trending US-Iran talks Tracking Israel&#x27;s ceasefire violations Russia-Ukraine war Donald Trump caret-right News | Religion Muslim mason sculpts shrines for Bangladesh\u2019s Hindu dead Taher Ali Khan has crafted thousands of shrines to departed loved ones at Barisal Mahashashan, the country\u2019s largest Hindu crematorium. Share",
+      "extractedData": {
+        "headline": "Muslim mason sculpts shrines for Bangladesh\u2019s Hindu dead | Religion News | Al Jazeera",
+        "summary": "Taher Ali Khan has crafted thousands of shrines at Barisal Mahashashan, the country\u2019s largest Hindu crematorium."
+      }
+    },
+    {
+      "url": "https://mybs.in/2Zj55a5",
+      "urlHash": "c5e400a06756",
+      "domain": "mybs.in",
+      "fetchedAt": "2026-02-17T11:32:05.690382+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1463145850436157442",
+          "handle": "GunasekaranMu",
+          "date": "Tue Nov 23"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/the-price-weve-paid-well-remember-this-for-life-say-farmers-at-protest-site-2621658",
+      "urlHash": "cdc31347f31e",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:32:07.880440+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1463379185104162818",
+          "handle": "ndtv",
+          "date": "Tue Nov 23"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/india/2021/11/24/india-should-be-prepared-for-extreme-sea-level-events-floods-and-droughts-meteorologists",
+      "urlHash": "ac356128774c",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:32:09.929820+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1463470694075756547",
+          "handle": "Kalaignarnews",
+          "date": "Wed Nov 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "India should be prepared for extreme sea level events floods and droughts Meteorologists",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "India should be prepared for extreme sea level events floods and droughts Meteorologists",
+        "summary": "India should be prepared for extreme sea level events floods and droughts Meteorologists"
+      }
+    },
+    {
+      "url": "http://fb.me/e/4fYlsEaRJ",
+      "urlHash": "a4270edd49c9",
+      "domain": "fb.me",
+      "fetchedAt": "2026-02-17T11:32:12.434275+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1463513902134689795",
+          "handle": "DravidianForum",
+          "date": "Wed Nov 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": "&#xcad;&#xcbe;&#xca8;&#xcc1;&#xcb5;&#xcbe;&#xcb0;, &#xca8;&#xcb5;&#xcc6;&#xc82;&#xcac;&#xcb0;&#xccd; 28 2021 &#xcb0;&#xc82;&#xca6;&#xcc1; Dravidian Professionals Forum &#xc85;&#xcb5;&#xcb0; &#xc95;&#xcbe;&#xcb0;&#xca3;&#xc97;&#xcb3;&#xcc1; &#xc88;&#xcb5;&#xcc6;&#xc82;&#xc9f;&#xccd;"
+      }
+    },
+    {
+      "url": "https://bbc.in/3l3bkMc",
+      "urlHash": "5f4fc658ac9b",
+      "domain": "bbc.in",
+      "fetchedAt": "2026-02-17T11:32:16.798859+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1463542768337244166",
+          "handle": "BBCWorld",
+          "date": "Wed Nov 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Farm laws: Sikhs being targeted by fake social media profiles",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Farm laws: Sikhs being targeted by fake social media profiles",
+        "summary": "A total of 80 accounts have been suspended following a report into the network."
+      }
+    },
+    {
+      "url": "https://cnn.it/3FKY9aE",
+      "urlHash": "7638de63d538",
+      "domain": "cnn.it",
+      "fetchedAt": "2026-02-17T11:32:20.562256+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1464074373891969034",
+          "handle": "cnni",
+          "date": "Fri Nov 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://cup.org/3p6tihT",
+      "urlHash": "38f2bc5d75e6",
+      "domain": "cup.org",
+      "fetchedAt": "2026-02-17T11:32:25.089972+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1464436747899523073",
+          "handle": "TRBRajaa",
+          "date": "Sat Nov 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Our Moral Duty to Eat Meat | Journal of the American Philosophical Association | Cambridge Core",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Our Moral Duty to Eat Meat | Journal of the American Philosophical Association | Cambridge Core",
+        "summary": "Our Moral Duty to Eat Meat - Volume 7 Issue 3"
+      }
+    },
+    {
+      "url": "https://www.independent.co.uk/climate-change/news/boris-johnson-drax-power-station-trees-b1964331.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1638009952",
+      "urlHash": "16f2c39e14da",
+      "domain": "independent.co.uk",
+      "fetchedAt": "2026-02-17T11:32:28.197282+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1464573591014363136",
+          "handle": "Independent",
+          "date": "Sat Nov 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Boris Johnson\u2019s tree planting strategy \u2018in flames\u2019, as UK spends six times more on Drax power station | The Independent",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Boris Johnson\u2019s tree planting strategy \u2018in flames\u2019, as UK spends six times more on Drax power station | The Independent",
+        "summary": "Exclusive: Spend on woodlands \u2018dwarfed\u2019 by subsidies for UK\u2019s biggest single CO2 emitter, MPs warn"
+      }
+    },
+    {
+      "url": "http://toi.in/71R77a",
+      "urlHash": "175538213b1a",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:32:31.091224+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1464573632718389252",
+          "handle": "TOIChennai",
+          "date": "Sat Nov 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN govt asks IIT-Madras to play Tamil Thai Vazhthu song at all its functions | Chennai News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TN govt asks IIT-Madras to play Tamil Thai Vazhthu song at all its functions | Chennai News - Times of India",
+        "summary": "CHENNAI: Tamil Nadu higher education minister K Ponmudy has written to IIT-Madras director Bhaskar Ramamurthi asking him to ensure that Tamil Thai Vaz."
+      }
+    },
+    {
+      "url": "https://booksc.org/book/83978595/eb9407",
+      "urlHash": "3b30e49e754d",
+      "domain": "booksc.org",
+      "fetchedAt": "2026-02-17T11:32:33.712517+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1465161935092027394",
+          "handle": "TRBRajaa",
+          "date": "Mon Nov 29"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/thangam-thennarasu-we-will-take-industries-to-hinterland-and-get-jobs-for-locals/articleshow/87971207.cms?utm_source=twitter.com&utm_source=contentofinterest&utm_medium=social&utm_medium=text&utm_campaign=toichennainews&utm_campaign=cppst&from=mdr",
+      "urlHash": "15aa55424f3d",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:32:37.058861+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1465236148582711299",
+          "handle": "TThenarasu",
+          "date": "Mon Nov 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu: Thangam Thennarasu: We will take industries to hinterland and get jobs for locals | Chennai News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu: Thangam Thennarasu: We will take industries to hinterland and get jobs for locals | Chennai News - Times of India",
+        "summary": "Seven months into his role as industry minister, Thangam Thennarasu is slowly redrafting government policies, promising to take industries to the stat"
+      }
+    }
+  ]
+}

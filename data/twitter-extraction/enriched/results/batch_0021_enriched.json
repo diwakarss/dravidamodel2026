@@ -1,0 +1,449 @@
+{
+  "batch": 21,
+  "processedAt": "2026-02-17T11:39:52.934434+00:00",
+  "stats": {
+    "success": 17,
+    "failed": 2,
+    "not_found": 0,
+    "blocked": 1,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.murasoli.in/epaper/file_view.php?paper=VFZSak5VMW5QVDA9",
+      "urlHash": "f3884d7cfc8b",
+      "domain": "murasoli.in",
+      "fetchedAt": "2026-02-17T11:38:53.914526+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1519949090737778688",
+          "handle": "DMKITwing",
+          "date": "Fri Apr 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "MurasoliNews",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "MurasoliNews",
+        "summary": ""
+      }
+    },
+    {
+      "url": "http://toi.in/TGWJ3Z/a24gj",
+      "urlHash": "00a36efb83cd",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:38:55.991192+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1521024209241186304",
+          "handle": "TRBRajaa",
+          "date": "Mon May 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Global giants rediscover Chennai - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Global giants rediscover Chennai - Times of India",
+        "summary": "India Business News: Chennai: Quality technology talent, sound infrastructure and relatively lower cost of living keep Chennai on the radar of MNCs that want to set up &quot;ba."
+      }
+    },
+    {
+      "url": "https://cbsn.ws/3KzY4sv",
+      "urlHash": "d5b32b77e70e",
+      "domain": "cbsn.ws",
+      "fetchedAt": "2026-02-17T11:38:58.643109+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1521106205095374848",
+          "handle": "60Minutes",
+          "date": "Sun May 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Starving Ukrainians blocked from receiving aid, lack of Ukrainian wheat may cause world food shortage - 60 Minutes - CBS News",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Starving Ukrainians blocked from receiving aid, lack of Ukrainian wheat may cause world food shortage - 60 Minutes - CBS News",
+        "summary": "Scott Pelley reports from Odesa, where the U.N.&amp;#039;s World Food Programme is desperately trying to reach starving Ukrainians and pleading for the reopening of Ukraine&amp;#039;s seaports."
+      }
+    },
+    {
+      "url": "https://www.google.co.in/amp/s/www.thehindu.com/sci-tech/health/who-estimates-47-million-covid-linked-deaths-in-india-10-times-official-count/article65385669.ece/amp/",
+      "urlHash": "cf22cb266d9b",
+      "domain": "google.co.in",
+      "fetchedAt": "2026-02-17T11:39:03.249816+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1522465786723401728",
+          "handle": "dharanisalem",
+          "date": "Fri May 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "WHO estimates 4.7 million COVID-linked deaths in India, 10 times official count - The Hindu",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "June 28, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "WHO estimates 4.7 million COVID-linked deaths in India, 10 times official count - The Hindu",
+        "summary": "The figure is nearly 10 times that of the government\u2019s official count for 2020, 2021; India has countered the estimate, saying the methodology used was not correct"
+      }
+    },
+    {
+      "url": "http://Pvt.Ltd",
+      "urlHash": "5061d190f862",
+      "domain": "pvt.ltd",
+      "fetchedAt": "2026-02-17T11:39:05.821796+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1522506031032520705",
+          "handle": "CMOTamilnadu",
+          "date": "Fri May 06"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://foreignpolicy.com/2019/11/27/gotabaya-mahinda-rajapaksa-ruin-sri-lanka-economy/",
+      "urlHash": "c26c03b9328a",
+      "domain": "foreignpolicy.com",
+      "fetchedAt": "2026-02-17T11:39:07.908505+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1524105344599101440",
+          "handle": "t_d_h_nair",
+          "date": "Tue May 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Gotabaya and Mahinda Rajapaksa Will Ruin Sri Lanka\u2019s Economy",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Amita Arudpragasam",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Gotabaya and Mahinda Rajapaksa Will Ruin Sri Lanka\u2019s Economy",
+        "summary": "Virulent ethnic nationalism and hateful rhetoric toward minorities might win votes, but it will lead the country to economic ruin."
+      }
+    },
+    {
+      "url": "https://ptrmadurai.com/central-govt-s-fiscal-policies-fanned-inflation-says-tn-fm-tamil",
+      "urlHash": "6b39ff64e6d0",
+      "domain": "ptrmadurai.com",
+      "fetchedAt": "2026-02-17T11:39:12.678207+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1525859572657037312",
+          "handle": "ptrmadurai",
+          "date": "Sun May 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Central govt\u2019s fiscal policies fanned inflation, says TN FM - Tamil - Dr PTR Palanivel Thiaga Rajan",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Dr PTR Palanivel Thiaga Rajan",
+      "rawText": "Published Date: May 13, 2022 CATEGORY: ECONOMY \u0bb5\u0bbe\u0b95\u0ba9 \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1&nbsp; \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd &ldquo;\u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd&rdquo; \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb0\u0bbf\u0b9a\u0bb0\u0bcd\u0bb5\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd (RBI) \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bbe\u0ba9 \u0baa\u0ba3\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8\u0baf\u0bc7 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9, \u0b87\u0ba4\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbe\u0b95&nbsp; \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9f\u0bc0\u0b9a\u0bb2\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bb0\u0bbf\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb0\u0bae\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u0b8e\u0ba9\u0b95\u0bcd \u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0bb4\u0ba9\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd. \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf\u0baf\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0b85\u0ba3\u0bcd\u0b9f\u0bc8 \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc7 \u0b9a\u0bae\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf, \u0bb5\u0bb0\u0bbf \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bc8 \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbf\u0bb0\u0bc1. \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2 \u0bb5\u0bb0\u0bc1\u0bb5\u0bbe\u0baf\u0bc8&nbsp; \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd&nbsp; \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b9a\u0bb0\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8 \u0bb5\u0bb0\u0bbf (\u0b9c\u0bbf\u0b8e\u0bb8\u0bcd\u0b9f\u0bbf) \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8 \u0b9c\u0bc2\u0ba9\u0bcd 2022 \u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bc6\u0ba9&nbsp; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. &nbsp; \u0baa\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bcd: \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bae\u0bbe\u0ba8\u0bbf\u0bb2 \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd, \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bc1\u0bae\u0bcd \u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd? \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1&nbsp; \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bae\u0bc2\u0bb2\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd, \u0b93\u0bb0\u0bb3\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1&nbsp; \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bae\u0bc2\u0bb2\u0bae\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0b95\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1. \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0b95\u0bbe\u0bb2 \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bbe\u0bb1\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bc7 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd, \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bc1 \u0b92\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0b95\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0bb5\u0bc7, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0baa\u0ba3\u0baa\u0bcd\u0baa\u0bc1\u0bb4\u0b95\u0bcd\u0b95 \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bb0\u0bca\u0b95\u0bcd\u0b95 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bc1\u0bb5\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0ba3\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bc7\u0baf\u0bc7&nbsp; \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bbe\u0b95\u0bc1\u0bae\u0bcd. \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f \u0b95\u0bbe\u0bb2 \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd&nbsp; \u0b8f\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba4\u0bb5\u0bb1\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd, \u0b85\u0ba4\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b93\u0bb0\u0bb3\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1&nbsp; \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd, \u0b8f\u0ba9\u0bc6\u0ba9\u0bbf\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd (\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0) \u0b9a\u0bc1\u0bb4\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0bb2 \u0b95\u0bbe\u0bb2\u0bae\u0bcd&nbsp; \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbe\u0ba4\u0b95\u0bae\u0bbe\u0ba9 \u0baa\u0bbe\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba8\u0bbe\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba4\u0bc1, \u0baa\u0bb2 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bc8\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0baf\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0baa\u0ba3\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0bbf\u0b9a\u0bb0\u0bcd\u0bb5\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95 \u0ba4\u0bae\u0bbe\u0ba4\u0bae\u0bbe\u0ba9 \u0b9a\u0bc6\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bcb\u0b9a\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bc7\u0baf\u0bbe\u0b95\u0bc1\u0bae. \u0b87\u0ba8\u0bcd\u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0b9a\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1, \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bb1\u0bcd\u0bb1 \u0ba4\u0ba9\u0bcd\u0bae\u0bc8 ",
+      "extractedData": {
+        "headline": "Central govt\u2019s fiscal policies fanned inflation, says TN FM - Tamil - Dr PTR Palanivel Thiaga Rajan",
+        "summary": "\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf  \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0baf\u0bc7 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1"
+      }
+    },
+    {
+      "url": "https://ptrmadurai.com/central-govt-s-fiscal-policies-fanned-inflation-says-tn-fm",
+      "urlHash": "115a18cdcf14",
+      "domain": "ptrmadurai.com",
+      "fetchedAt": "2026-02-17T11:39:15.340266+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1525859572657037312",
+          "handle": "ptrmadurai",
+          "date": "Sun May 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Central govt\u2019s fiscal policies fanned inflation, says TN FM - Dr PTR Palanivel Thiaga Rajan",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Dr PTR Palanivel Thiaga Rajan",
+      "rawText": "Published Date: May 13, 2022 CATEGORY: ECONOMY The central government&rsquo;s &ldquo;profoundly bad fiscal policies&rdquo;, including high taxes on auto fuel, and delayed monetary policy action by the Reserve Bank of India (RBI) have fanned inflation, making it hard for states to cut taxes on petrol and diesel, according to Tamil Nadu finance minister Palanivel Thiagarajan. Individual states cutting fuel taxes may create a mismatch between neighbouring states and affect tax revenues, he said in an interview. Tamil Nadu wants a two-year extension of goods and services tax (GST) compensation beyond June 2022, even as it strives to improve state revenue receipts, Thiagarajan said. Edited excerpts: &nbsp; With inflation on the rise, how can states and the Centre offer relief? Inflation is managed largely through monetary policy and to a lesser extent by fiscal policy at the Union level. At the fiscal level, you are kind of manipulating variables that are only likely to have medium to long term consequences, and relatively few variables that can have immediate consequences, whereas, monetary policy by design has immediate consequences, whether it is liquidity ratios or money supply. If you do something wrong for a long time, maybe you escape the consequences because the market and (economic) cycles are going your way for a while, but eventually, you have to pay the piper. What we&rsquo;re seeing now is a bad fiscal policy by the Union government for many years, exacerbated by the RBI being too slow to move on monetary policy. While there are external factors beyond our control, including disruption in the supply chain, uncertainty and uneven recovery from the pandemic, I would point to profoundly bad policies by the government of India over the last eight years and the lack of timely action that we are doing now, which in my opinion is too late. They should have started reacting earlier, when they first saw the signs of inflation, months ago. &nbsp; Is there still room f",
+      "extractedData": {
+        "headline": "Central govt\u2019s fiscal policies fanned inflation, says TN FM - Dr PTR Palanivel Thiaga Rajan",
+        "summary": "The central government\u2019s \u201cprofoundly bad fiscal policies\u201d, including high taxes on auto fuel, and delayed monetary policy action by the Reserve Bank of India (RBI) have fanned inflation, making it hard for states to cut taxes on petrol and diesel, according to Tamil Nadu finance minister Palanivel Thiagarajan."
+      }
+    },
+    {
+      "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/stores/High%20Value%20Purchase/RS(WTA)/PO-02-05-2022-LHB-Wheels_WTA-523_TZ-130522.pdf",
+      "urlHash": "a4381ba77a14",
+      "domain": "indianrailways.gov.in",
+      "fetchedAt": "2026-02-17T11:39:17.630448+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1526974790137184256",
+          "handle": "angry_birdu",
+          "date": "Wed May 18"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/05/18/dmk-it-wing-2-0-said-trb-rajaa?fbclid=IwAR3gIavCYkivrzcmHKzuoXiql3_DpksaDX4fP2WS9HHMrKk2jT7f8Fbamlw",
+      "urlHash": "a6f31bb0c3b5",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:39:26.554443+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1526977807192313856",
+          "handle": "VijayThamil",
+          "date": "Wed May 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "DMK IT wing 2 0  said TRB Rajaa",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "DMK IT wing 2 0  said TRB Rajaa",
+        "summary": "DMK IT wing 2 0  said TRB Rajaa"
+      }
+    },
+    {
+      "url": "https://econ.st/3wpBQnS",
+      "urlHash": "d0ab0428c181",
+      "domain": "econ.st",
+      "fetchedAt": "2026-02-17T11:39:28.624460+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1527104812130902016",
+          "handle": "TheEconomist",
+          "date": "Thu May 19"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.livelaw.in/top-stories/gst-council-recommendations-not-binidng-on-centre-states-both-centre-states-can-legilsate-on-gst-supreme-court-199519#.YoXlNy8bs_c.twitter",
+      "urlHash": "aaf634c8ae6d",
+      "domain": "livelaw.in",
+      "fetchedAt": "2026-02-17T11:39:31.949352+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1527177517991604224",
+          "handle": "TRBRajaa",
+          "date": "Thu May 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "GST Council Recommendations Not Binding On Parliament &amp; State Legislatures : Supreme Court",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Manu Sebastian",
+      "rawText": "",
+      "extractedData": {
+        "headline": "GST Council Recommendations Not Binding On Parliament &amp; State Legislatures : Supreme Court",
+        "summary": "In a significant verdict, the Supreme Court on Thursday held that the recommendations of the GST council are not binding on the Parliament and State Legislatures.Though some of the recommendations of..."
+      }
+    },
+    {
+      "url": "https://ptrmadurai.com/43rd-goods-and-services-tax-council-meeting",
+      "urlHash": "2d099a575472",
+      "domain": "ptrmadurai.com",
+      "fetchedAt": "2026-02-17T11:39:34.170213+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1527226260513951744",
+          "handle": "ptrmadurai",
+          "date": "Thu May 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "43rd Goods and Services Tax Council meeting - Dr PTR Palanivel Thiaga Rajan",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Dr PTR Palanivel Thiaga Rajan",
+      "rawText": "Published Date: May 28, 2021 &nbsp;Articles Year Wise: Copyright \u00a9 2019 - 2020. Template has been designed by Retrina",
+      "extractedData": {
+        "headline": "43rd Goods and Services Tax Council meeting - Dr PTR Palanivel Thiaga Rajan",
+        "summary": "Text of the intended remarks of Thiru Palanivel Thiaga Rajan, Minister for Finance and Human Resources Management during the 43rd Goods and Services Tax Council meeting held through video conferencing"
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/ujjwala-scheme-90l-couldnt-buy-even-1st-lpg-refill-in-21-22/articleshow/91425841.cms",
+      "urlHash": "cc0ae679ef8a",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:39:36.504955+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1528075640041156610",
+          "handle": "TRBRajaa",
+          "date": "Sat May 21"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Lpg: Ujjwala Scheme: 90l Couldn\u2019t Buy Even 1st Lpg Refill In \u201921-22 | Bhopal News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Lpg: Ujjwala Scheme: 90l Couldn\u2019t Buy Even 1st Lpg Refill In \u201921-22 | Bhopal News - Times of India",
+        "summary": "\u201cI get Rs 600 as widow pension. Should I get cylinder refilled or pay my electricity bills in that amount. So far in a year, I managed to refill my c"
+      }
+    },
+    {
+      "url": "https://m.economictimes.com/news/company/corporate-trends/notes-from-davos-beyond-summer-davos/articleshow/91780558.cms",
+      "urlHash": "2c99e6f340c2",
+      "domain": "m.economictimes.com",
+      "fetchedAt": "2026-02-17T11:39:38.594249+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1529687791226920960",
+          "handle": "TRBRajaa",
+          "date": "Thu May 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Davos: Notes from Davos: Defining themes at this year's Davos - The Economic Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Davos: Notes from Davos: Defining themes at this year's Davos - The Economic Times",
+        "summary": "Some of key words recurring at Davos this year are: ESG, Green Energy, Green Hydrogen, Geopolitics, Pandemic, Inflation, Energy cost, Metaverse and Globalisation. It is more than a subtle giveaway about the issues concerning the world&mdash;future matters."
+      }
+    },
+    {
+      "url": "https://tamil.asianetnews.com/politics/social-justice-equality-feminism-is-the-dravidian-model-chief-minister-stalin-showed-mass-speech-in-front-of-modi--rchrnz",
+      "urlHash": "730988d70827",
+      "domain": "tamil.asianetnews.com",
+      "fetchedAt": "2026-02-17T11:39:40.716596+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1529816523518275584",
+          "handle": "TRBRajaa",
+          "date": "Thu May 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf, \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd, \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bbe\u0b9f\u0bb2\u0bcd.. \u0bae\u0bcb\u0b9f\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb8\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd. | Social Justice Equality Feminism Is The Dravidian Model Chief Minister Stalin Showed Mass Speech In Front Of Modi | Asianet News Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf, \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd, \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bbe\u0b9f\u0bb2\u0bcd.. \u0bae\u0bcb\u0b9f\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb8\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd. | Social Justice Equality Feminism Is The Dravidian Model Chief Minister Stalin Showed Mass Speech In Front Of Modi | Asianet News Tamil",
+        "summary": "Read the latest news: \u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf, \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd, \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0bb0\u0bbf\u0bae\u0bc8 \u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bbe\u0b9f\u0bb2\u0bcd.. \u0bae\u0bcb\u0b9f\u0bbf \u0b8e\u0ba4\u0bbf\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb8\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd. Get the latest updates, visuals, and key highlights. Check for more trending news, videos, photos and important updates."
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-thyagraj-stadium-is-emptied-athletes-told-to-leave-so-that-ias-officer-can-walk-with-dog-7936450/lite/",
+      "urlHash": "4656732e7481",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:39:42.833039+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1530032176401907712",
+          "handle": "supriyasahuias",
+          "date": "Fri May 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": "Built for the 2010 Commonwealth Games, the centrally located sporting complex is a multi-discipline facility that attracts national and state athletes, and footballers."
+      }
+    },
+    {
+      "url": "https://frontline.thehindu.com/dispatches/davos-2022-tamil-nadu-focuses-on-green-energy-us-1-trillion-economy-goal/article65466466.ece",
+      "urlHash": "ff2bfc3614f8",
+      "domain": "frontline.thehindu.com",
+      "fetchedAt": "2026-02-17T11:39:46.575112+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1530178448680812554",
+          "handle": "TThenarasu",
+          "date": "Fri May 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Davos 2022: Tamil Nadu focuses on green energy, US $1 trillion economy goal - Frontline",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Published : May 27, 2022 15:08 IST COMMents SHARE",
+      "extractedData": {
+        "headline": "Davos 2022: Tamil Nadu focuses on green energy, US $1 trillion economy goal - Frontline",
+        "summary": "On the renewable energy front, Tamil Nadu\u2019s installed renewable energy capacity is the ninth largest in the world with 5.3 GW in solar energy and 8.6 GW in wind energy."
+      }
+    },
+    {
+      "url": "https://www.chennairains.com/north-tamil-nadu-remain-hot-afternoons/",
+      "urlHash": "f1f8ba304eaa",
+      "domain": "chennairains.com",
+      "fetchedAt": "2026-02-17T11:39:48.681587+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1530377992488517632",
+          "handle": "ChennaiRains",
+          "date": "Sat May 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "North Tamil Nadu to remain hot during afternoons - Chennairains (COMK)",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Chennaiyil Oru Mazhaikkaalam",
+      "rawText": "",
+      "extractedData": {
+        "headline": "North Tamil Nadu to remain hot during afternoons - Chennairains (COMK)",
+        "summary": "Today is the last day of what is considered as the hottest period of the year in the traditional Panjankams, more commonly known as the Kathiri Period. The talk among most common people over the past couple of days, particularly around North Tamil Nadu, is Kathiri Veyyil time is coming to an end so temperatures..."
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/baroda/vadodara-man-sustains-arm-fracture-stray-cattle-attack-7939964/",
+      "urlHash": "973744e99e40",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:39:51.148518+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1530407113205288962",
+          "handle": "t_d_h_nair",
+          "date": "Fri May 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Vadodara: Man sustains arm fracture in fifth stray cattle attack this month | Baroda News - The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Vadodara: Man sustains arm fracture in fifth stray cattle attack this month | Baroda News - The Indian Express",
+        "summary": "The corporation has announced a restart of the crackdown on people who let their cattle roam on the roads, an exercise that was initiated last year but was paused."
+      }
+    }
+  ]
+}

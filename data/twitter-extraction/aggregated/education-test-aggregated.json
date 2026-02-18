@@ -1,0 +1,105 @@
+{
+  "category": "education",
+  "aggregatedAt": "2026-02-16T15:50:00Z",
+  "testMode": true,
+  "totalEntities": 2,
+  "totalSources": 3,
+  "entities": [
+    {
+      "entityId": "education-pudhumai-penn-scheme-statewide",
+      "category": "education",
+      "subCategory": "Scholarship Scheme",
+      "name": "Pudhumai Penn Scheme",
+      "nameNormalized": "pudhumai-penn-scheme",
+      "company": null,
+      "location": {
+        "district": "Statewide",
+        "city": null
+      },
+      "extractedData": {
+        "investmentCrore": 300,
+        "beneficiaries": 250000,
+        "monthlyAssistance": 1000,
+        "academicYear": "2024-25"
+      },
+      "timeline": [
+        {
+          "date": "2024-11-20",
+          "eventType": "scheme_launch",
+          "summary": "2.5 lakh girl students to receive Rs.1000 monthly, Rs.300 crore budget"
+        },
+        {
+          "date": "2024-12-05",
+          "eventType": "beneficiary_update",
+          "summary": "Tamil announcement confirming 2.5 lakh beneficiaries"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1870000000000000001",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1870000000000000001",
+          "date": "2024-11-20",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1870000000000000001",
+          "eventType": "scheme_launch",
+          "language": "en"
+        },
+        {
+          "entryId": "TNDIPRNEWS-1875000000000000001",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1875000000000000001",
+          "date": "2024-12-05",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1875000000000000001",
+          "eventType": "beneficiary_update",
+          "language": "ta"
+        }
+      ],
+      "status": "operational",
+      "firstMention": "2024-11-20",
+      "lastMention": "2024-12-05",
+      "sourceCount": 2,
+      "confidence": 0.95
+    },
+    {
+      "entityId": "education-tn-engine-coimbatore",
+      "category": "education",
+      "subCategory": "Innovation Center",
+      "name": "Tamil Nadu Engineering and Innovation Center (TN ENGINE)",
+      "nameNormalized": "tn-engine-coimbatore",
+      "company": "TIDCO & Tata Technologies",
+      "location": {
+        "district": "Coimbatore",
+        "city": "Anna University, Coimbatore"
+      },
+      "extractedData": {
+        "investmentCrore": null,
+        "jobsCreated": null,
+        "partners": ["TIDCO", "Tata Technologies"]
+      },
+      "timeline": [
+        {
+          "date": "2024-08-21",
+          "eventType": "ground_breaking",
+          "summary": "Foundation stone laid at Anna University, Coimbatore"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1825963000000000003",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1825963000000000003",
+          "date": "2024-08-21",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000003",
+          "eventType": "ground_breaking",
+          "language": "en"
+        }
+      ],
+      "status": "under_construction",
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "sourceCount": 1,
+      "confidence": 0.90
+    }
+  ],
+  "ambiguous": []
+}

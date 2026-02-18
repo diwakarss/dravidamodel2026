@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://www.thenewsminute.com/article/chennais-ayodhya-mandapam-was-brought-under-scanner-devotee-case-history-162899",
+    "urlHash": "d0fb71b33471",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1514666879348264960",
+        "handle": "TRBRajaa",
+        "date": "Thu Apr 14"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.bbc.com/tamil/india-61128832",
+    "urlHash": "65dba31e3ed0",
+    "domain": "bbc.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1515689369960693760",
+        "handle": "mkstalin",
+        "date": "Sun Apr 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://B.sc",
+    "urlHash": "b4ca918f9551",
+    "domain": "b.sc",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1516810854444199939",
+        "handle": "drtharun",
+        "date": "Wed Apr 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.timesnownews.com/business-economy/economy/power-shortages-likely-to-continue-article-90912563",
+    "urlHash": "54d257554c44",
+    "domain": "timesnownews.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1517136834651779073",
+        "handle": "TRBRajaa",
+        "date": "Thu Apr 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://starofmysore.com/in-rare-event-elephant-at-bandipur-gives-birth-to-twins/",
+    "urlHash": "1af8386096d2",
+    "domain": "starofmysore.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1517165390807580672",
+        "handle": "ParveenKaswan",
+        "date": "Thu Apr 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/cities/ahmedabad/power-crisis-gujarat-govt-mandates-industries-to-shut-a-day-every-week-7845347/",
+    "urlHash": "9c88430d5f03",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1517208652620644352",
+        "handle": "TRBRajaa",
+        "date": "Thu Apr 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://tamil.news18.com/news/tamil-nadu/pmk-mla-sadhasivam-speech-i-think-mk-stalin-is-like-karmaveerar-kamarajar-sur-734757.html",
+    "urlHash": "615f2ed029a4",
+    "domain": "tamil.news18.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1517392035300651008",
+        "handle": "News18TamilNadu",
+        "date": "Fri Apr 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thequint.com/news/india/sakshi-dhoni-power-cuts-jharkhand-heatwaves-increased-power-demand-many-states-outages",
+    "urlHash": "5ddf002b92a8",
+    "domain": "thequint.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1518867454348640256",
+        "handle": "TRBRajaa",
+        "date": "Tue Apr 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.nakkheeran.in/24-by-7-news/thamizhagam/mla-trb-raja-who-brought-people-assembly",
+    "urlHash": "6a3564b0ab1a",
+    "domain": "nakkheeran.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1519394590830514176",
+        "handle": "nakkheeranweb",
+        "date": "Wed Apr 27"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.murasoli.in/epaper/file_view.php?paper=VFZSak5VMW5QVDA9",
+    "urlHash": "f3884d7cfc8b",
+    "domain": "murasoli.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1519949090737778688",
+        "handle": "DMKITwing",
+        "date": "Fri Apr 29"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://toi.in/TGWJ3Z/a24gj",
+    "urlHash": "00a36efb83cd",
+    "domain": "toi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1521024209241186304",
+        "handle": "TRBRajaa",
+        "date": "Mon May 02"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://cbsn.ws/3KzY4sv",
+    "urlHash": "d5b32b77e70e",
+    "domain": "cbsn.ws",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1521106205095374848",
+        "handle": "60Minutes",
+        "date": "Sun May 01"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.google.co.in/amp/s/www.thehindu.com/sci-tech/health/who-estimates-47-million-covid-linked-deaths-in-india-10-times-official-count/article65385669.ece/amp/",
+    "urlHash": "cf22cb266d9b",
+    "domain": "google.co.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1522465786723401728",
+        "handle": "dharanisalem",
+        "date": "Fri May 06"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://Pvt.Ltd",
+    "urlHash": "5061d190f862",
+    "domain": "pvt.ltd",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1522506031032520705",
+        "handle": "CMOTamilnadu",
+        "date": "Fri May 06"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://foreignpolicy.com/2019/11/27/gotabaya-mahinda-rajapaksa-ruin-sri-lanka-economy/",
+    "urlHash": "c26c03b9328a",
+    "domain": "foreignpolicy.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1524105344599101440",
+        "handle": "t_d_h_nair",
+        "date": "Tue May 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://ptrmadurai.com/central-govt-s-fiscal-policies-fanned-inflation-says-tn-fm",
+    "urlHash": "115a18cdcf14",
+    "domain": "ptrmadurai.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1525859572657037312",
+        "handle": "ptrmadurai",
+        "date": "Sun May 15"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://ptrmadurai.com/central-govt-s-fiscal-policies-fanned-inflation-says-tn-fm-tamil",
+    "urlHash": "6b39ff64e6d0",
+    "domain": "ptrmadurai.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1525859572657037312",
+        "handle": "ptrmadurai",
+        "date": "Sun May 15"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/stores/High%20Value%20Purchase/RS(WTA)/PO-02-05-2022-LHB-Wheels_WTA-523_TZ-130522.pdf",
+    "urlHash": "a4381ba77a14",
+    "domain": "indianrailways.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1526974790137184256",
+        "handle": "angry_birdu",
+        "date": "Wed May 18"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/05/18/dmk-it-wing-2-0-said-trb-rajaa?fbclid=IwAR3gIavCYkivrzcmHKzuoXiql3_DpksaDX4fP2WS9HHMrKk2jT7f8Fbamlw",
+    "urlHash": "a6f31bb0c3b5",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1526977807192313856",
+        "handle": "VijayThamil",
+        "date": "Wed May 18"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://econ.st/3wpBQnS",
+    "urlHash": "d0ab0428c181",
+    "domain": "econ.st",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1527104812130902016",
+        "handle": "TheEconomist",
+        "date": "Thu May 19"
+      }
+    ],
+    "status": "pending"
+  }
+]

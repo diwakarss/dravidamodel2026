@@ -1,0 +1,59 @@
+{
+  "batch": 25,
+  "processedAt": "2026-02-17T12:01:26.969397+00:00",
+  "stats": {
+    "success": 2,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 0,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.thehitavada.com/Encyc/2023/2/14/Rake-carrying-90-containers-from-Nagpur-to-Mumbai-goes-missing-.html",
+      "urlHash": "457db6e33666",
+      "domain": "thehitavada.com",
+      "fetchedAt": "2026-02-17T12:01:22.936897+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1625437406118957058",
+          "handle": "TRBRajaa",
+          "date": "Tue Feb 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Rake carrying 90 containers from Nagpur to Mumbai goes \u2018missing\u2019 - The Hitavada",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Rake carrying 90 containers from Nagpur to Mumbai goes \u2018missing\u2019 - The Hitavada",
+        "summary": "&nbsp;&nbsp;&nbsp;&nbsp;by niraj chinchkhedein a bizarre incident, a goods train (rake) carrying about 90 containers from nagpur to mumbai has reportedly gone &#8216;missing&#8217;. the train, which left mihan inland container depot (icd) on february 1, s"
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/murasoli-thalayangam/2023/03/11/murasoli-editorial-question-to-online-gambling-bill-governor-ravi",
+      "urlHash": "2c34d61841c4",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T12:01:26.440836+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1634450316224520193",
+          "handle": "Kalaignarnews",
+          "date": "Sat Mar 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Murasoli editorial question to Online Gambling Bill Governor Ravi",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Murasoli editorial question to Online Gambling Bill Governor Ravi",
+        "summary": "Murasoli editorial question to Online Gambling Bill Governor Ravi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "generatedAt": "2026-02-17T18:25:34.359229+00:00",
+  "category": "industries",
+  "summary": {
+    "totalEntitiesProcessed": 16,
+    "exactMatches": 0,
+    "partialMatches": 7,
+    "newCandidates": 9,
+    "existingProjects": 72
+  },
+  "matches": [
+    {
+      "aggregatedEntityId": "chennai-manufacturing-unit",
+      "aggregatedEntityName": "Manufacturing Unit",
+      "existingEntryId": "CHENNAI-PORT-EXPANSION",
+      "existingEntryName": "Chennai Port Authority Expansion",
+      "existingDataFile": "app/src/data/projects/CHENNAI-PORT-EXPANSION.json",
+      "category": "industries",
+      "matchType": "fuzzy",
+      "matchScore": 0.475,
+      "matchedOn": [
+        "location",
+        "investment"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 210
+    },
+    {
+      "aggregatedEntityId": "madurai-sipcot-industrial-park-madurai",
+      "aggregatedEntityName": "SIPCOT Industrial Park Madurai",
+      "existingEntryId": "SIPCOT-INDUSTRIAL-PARKS-11",
+      "existingEntryName": "11 New SIPCOT Industrial Parks",
+      "existingDataFile": "app/src/data/projects/SIPCOT-INDUSTRIAL-PARKS-11.json",
+      "category": "industries",
+      "matchType": "fuzzy",
+      "matchScore": 0.445,
+      "matchedOn": [
+        "name"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 33
+    },
+    {
+      "aggregatedEntityId": "tidel-park-park",
+      "aggregatedEntityName": "TIDEL Park Park",
+      "existingEntryId": "SALEM-MILK-POWDER",
+      "existingEntryName": "Salem Milk Powder Plant Upgrade",
+      "existingDataFile": "app/src/data/projects/SALEM-MILK-POWDER.json",
+      "category": "industries",
+      "matchType": "fuzzy",
+      "matchScore": 0.466,
+      "matchedOn": [
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 11
+    },
+    {
+      "aggregatedEntityId": "thanjavur-tidel-park-thanjavur",
+      "aggregatedEntityName": "TIDEL Park Thanjavur",
+      "existingEntryId": "SMART-THANJAVUR",
+      "existingEntryName": "Thanjavur Smart City Projects",
+      "existingDataFile": "app/src/data/projects/SMART-THANJAVUR.json",
+      "category": "industries",
+      "matchType": "fuzzy",
+      "matchScore": 0.535,
+      "matchedOn": [
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 2
+    },
+    {
+      "aggregatedEntityId": "chennai-metro",
+      "aggregatedEntityName": "Chennai Metro",
+      "existingEntryId": "SMART-CHENNAI",
+      "existingEntryName": "Chennai Smart City Projects",
+      "existingDataFile": "app/src/data/projects/SMART-CHENNAI.json",
+      "category": "industries",
+      "matchType": "partial",
+      "matchScore": 0.605,
+      "matchedOn": [
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 2
+    },
+    {
+      "aggregatedEntityId": "chennai-tidel-park-chennai",
+      "aggregatedEntityName": "TIDEL Park Chennai",
+      "existingEntryId": "SAFEXPRESS-LOGISTICS-PARK",
+      "existingEntryName": "Safexpress Logistics Park - Chennai",
+      "existingDataFile": "app/src/data/projects/SAFEXPRESS-LOGISTICS-PARK.json",
+      "category": "industries",
+      "matchType": "partial",
+      "matchScore": 0.651,
+      "matchedOn": [
+        "name",
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 2
+    },
+    {
+      "aggregatedEntityId": "sipcot-industrial-park-allikulam-industrial",
+      "aggregatedEntityName": "SIPCOT Industrial Park Allikulam Industrial Park ",
+      "existingEntryId": "SIPCOT-INDUSTRIAL-PARKS-11",
+      "existingEntryName": "11 New SIPCOT Industrial Parks",
+      "existingDataFile": "app/src/data/projects/SIPCOT-INDUSTRIAL-PARKS-11.json",
+      "category": "industries",
+      "matchType": "fuzzy",
+      "matchScore": 0.402,
+      "matchedOn": [
+        "name"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 1
+    }
+  ],
+  "newCandidates": [
+    {
+      "aggregatedEntityId": "educational-institution",
+      "name": "Educational Institution",
+      "category": "industries",
+      "sourceCount": 6,
+      "firstMention": "2024-07-22",
+      "lastMention": "2025-08-26",
+      "confidence": 0.85,
+      "reviewFlags": [],
+      "numbers": {
+        "investmentCrore": 400.0
+      }
+    },
+    {
+      "aggregatedEntityId": "housing-hostel",
+      "name": "Housing/Hostel",
+      "category": "industries",
+      "sourceCount": 6,
+      "firstMention": "2024-07-25",
+      "lastMention": "2025-02-03",
+      "confidence": 0.8,
+      "reviewFlags": [
+        "missing_investment",
+        "needs_verification"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "category": "industries",
+      "sourceCount": 4,
+      "firstMention": "2024-10-07",
+      "lastMention": "2026-01-29",
+      "confidence": 0.85,
+      "reviewFlags": [],
+      "numbers": {
+        "investmentCrore": 1.8
+      }
+    },
+    {
+      "aggregatedEntityId": "energy-storage",
+      "name": "Energy Storage",
+      "category": "industries",
+      "sourceCount": 3,
+      "firstMention": "2024-08-21",
+      "lastMention": "2025-09-06",
+      "confidence": 0.6,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "sipcot-industrial-park-industrial-housing",
+      "name": "SIPCOT Industrial Park Industrial Housing Facility In Thiruperumpudur",
+      "category": "industries",
+      "sourceCount": 2,
+      "firstMention": "2024-08-17",
+      "lastMention": "2024-08-17",
+      "confidence": 0.7,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "sipcot-industrial-park-siruseri-with",
+      "name": "SIPCOT Industrial Park Siruseri With An Investment Of ",
+      "category": "industries",
+      "sourceCount": 2,
+      "firstMention": "2025-04-17",
+      "lastMention": "2025-04-17",
+      "confidence": 0.75,
+      "reviewFlags": [],
+      "numbers": {
+        "investmentCrore": 1882.0
+      }
+    },
+    {
+      "aggregatedEntityId": "sipcot-industrial-park-thenkasi-district",
+      "name": "SIPCOT Industrial Park In Thenkasi District Near Sankarankovil",
+      "category": "industries",
+      "sourceCount": 2,
+      "firstMention": "2025-07-26",
+      "lastMention": "2025-07-26",
+      "confidence": 0.6,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "virudhunagar-5-mld-stp",
+      "name": "5 Mld STP",
+      "category": "industries",
+      "sourceCount": 1,
+      "firstMention": "2025-07-01",
+      "lastMention": "2025-07-01",
+      "confidence": 0.75,
+      "reviewFlags": [
+        "single_source"
+      ],
+      "numbers": {
+        "investmentCrore": 1894.0
+      }
+    },
+    {
+      "aggregatedEntityId": "see-design-upcoming-rs-100",
+      "name": "See The Design Of Upcoming Rs 100 Crore Double Decker Flyover",
+      "category": "industries",
+      "sourceCount": 1,
+      "firstMention": "2026-01-26",
+      "lastMention": "2026-01-26",
+      "confidence": 0.75,
+      "reviewFlags": [
+        "single_source"
+      ],
+      "numbers": {
+        "investmentCrore": 100.0
+      }
+    }
+  ],
+  "sourceAdditions": []
+}

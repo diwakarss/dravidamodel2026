@@ -1,0 +1,347 @@
+{
+  "category": "employment",
+  "aggregatedAt": "2026-02-17T18:24:49.938416+00:00",
+  "stats": {
+    "entries": 283,
+    "entities": 6
+  },
+  "entities": [
+    {
+      "entityId": "tidel-park-ப",
+      "name": "TIDEL Park ப",
+      "nameVariants": [
+        "TIDEL Park",
+        "TIDEL Park In",
+        "TIDEL Park த"
+      ],
+      "category": "employment",
+      "entityType": "TIDEL Park",
+      "location": "Thoothukudi",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-23",
+        "lastMention": "2025-08-11"
+      },
+      "sources": [
+        {
+          "date": "2024-09-23",
+          "handle": "TRBRajaa",
+          "tweetId": "1838095382842425395",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1838095382842425395",
+          "eventType": "inauguration",
+          "summary": "#திராவிட_நாயகன் மாண்புமிகு #தமிழ்நாடு முதலமைச்சர் @mkstalin அவர்களின் தலைமையிலான #திராவிட_மாடல அரசின் பரவலாகப்பட்ட வளர்ச்சி என்ற நோக்கத்திற்கு இன்று ம"
+        },
+        {
+          "date": "2024-10-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1850899810892874078",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1850899810892874078",
+          "eventType": "inauguration",
+          "summary": "GREAT NEWS for  #Thoothukudi. 🎊\n\n#TIDELNeo in Thoothukudi is 🌟FULLY  LEASED🌟 even before it's official Opening 🌄🙏🏾\n\nOur Honourable @CMOTamilnadu @mkst"
+        },
+        {
+          "date": "2024-10-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1851288763718385750",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1851288763718385750",
+          "eventType": "mou_signed",
+          "summary": "தென்தமிழ்நாட்டின் தொழில்வளர்ச்சியில் மிகவும் முனைப்பாக உள்ளார் நமது மாண்புமிகு தமிழ்நாடு முதலமைச்சர் #திராவிட_நாயகன் @mkstalin அவர்கள் 🙏🏾\n \nஅதன் ஒரு ப"
+        },
+        {
+          "date": "2024-10-29",
+          "handle": "DrMartinX",
+          "tweetId": "1851517151389126691",
+          "fxUrl": "https://fxtwitter.com/DrMartinX/status/1851517151389126691",
+          "eventType": "scheme_launch",
+          "summary": "@TRBRajaa DMK's path-breaking schemes:\n1. Naan Mudhalvan to skill our youth to get jobs\n2. Vidiyal Payanam & Magalir Urimai Thogai to empower our wome"
+        },
+        {
+          "date": "2024-11-22",
+          "handle": "Kalaignarnews",
+          "tweetId": "1859933824878297502",
+          "fxUrl": "https://fxtwitter.com/Kalaignarnews/status/1859933824878297502",
+          "eventType": "scheme_launch",
+          "summary": "ஒட்டுமொத்த தமிழ்நாட்டிலும் IT தொழில் புரட்சி!\n\nகோவிட் பெருந்தொற்றுக்கு பிறகு வேலைவாய்ப்பினை வீட்டில் இருந்த படியே உறுதியாக்கும் வகையில், கொண்டுவரப்பட்"
+        },
+        {
+          "date": "2025-08-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1954807579273826611",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1954807579273826611",
+          "eventType": "inauguration",
+          "summary": "🌟Western Tamil Nadu is on a roll 🎊\n\nToday our Honourable @CMOTamilNadu Thiru. @MKStalin avargal inaugurated yet another #TIDELNeo Park for TN, now in "
+        }
+      ],
+      "accountsCovering": [
+        "DrMartinX",
+        "TRBRajaa",
+        "Kalaignarnews"
+      ],
+      "tweetCount": 6
+    },
+    {
+      "entityId": "chennai-manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "Manufacturing Unit",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 300.0
+      },
+      "timeline": {
+        "firstMention": "2025-09-03",
+        "lastMention": "2026-02-06"
+      },
+      "sources": [
+        {
+          "date": "2025-09-03",
+          "handle": "Guidance_TN",
+          "tweetId": "1963271020946546743",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1963271020946546743",
+          "eventType": "mou_signed",
+          "summary": "#TamilNadu is stepping up on the global stage with strategic partnerships in niche and emerging sectors! \n\nThe #UK leg of the #TNRising #EuropeConclav"
+        },
+        {
+          "date": "2025-09-11",
+          "handle": "Guidance_TN",
+          "tweetId": "1966100076583072023",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1966100076583072023",
+          "eventType": "mou_signed",
+          "summary": "At the #Hosur chapter of #TNInvestorsConclave, #TamilNadu showcased its leadership in industry–academia–government linkages. \nThe Hon’ble Chief Minist"
+        },
+        {
+          "date": "2025-09-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1971596033215099093",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1971596033215099093",
+          "eventType": "inauguration",
+          "summary": "While the opposition consistently fails to wrap it's head around the facts which the Honourable CM of TN and myself have been stating ever so often, h"
+        },
+        {
+          "date": "2025-10-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1977570190293614607",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1977570190293614607",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu is ready for lift-off! 🚀\n\nFrom tanks to satellites...TN’s industrial ecosystem is powering India’s next big leap in Aerospace & Defence man"
+        },
+        {
+          "date": "2025-12-28",
+          "handle": "TRBRajaa",
+          "tweetId": "2005319225938985410",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2005319225938985410",
+          "eventType": "production_start",
+          "summary": "#Chennai has emerged as India’s strongest housing market in 2025 ! \n\nWhile residential sales slowed across most major cities, Chennai recorded a 15% Y"
+        },
+        {
+          "date": "2026-02-06",
+          "handle": "ndtv",
+          "tweetId": "2020013323748872210",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/2020013323748872210",
+          "eventType": "scheme_launch",
+          "summary": "'Velvom Ondraga' is empowering Tamil Nadu's women like never before. Free bus travel, ₹1,000 monthly aid, breakfast schemes, and skill programs are un"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "Guidance_TN",
+        "ndtv"
+      ],
+      "tweetCount": 6
+    },
+    {
+      "entityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "Welfare Scheme",
+      "location": "Coimbatore",
+      "numbers": {
+        "investmentCrore": 32554.0
+      },
+      "timeline": {
+        "firstMention": "2024-08-05",
+        "lastMention": "2026-02-06"
+      },
+      "sources": [
+        {
+          "date": "2024-08-05",
+          "handle": "sathyantweets",
+          "tweetId": "1820367488716280087",
+          "fxUrl": "https://fxtwitter.com/sathyantweets/status/1820367488716280087",
+          "eventType": "mou_signed",
+          "summary": "Women Empowerment in Tamil Nadu, by the Dravidian model Govt of the impeccable CM .@mkstalin \n\n1. Women in Workforce: Tamil Nadu leads in women’s work"
+        },
+        {
+          "date": "2024-11-03",
+          "handle": "DMKITwing",
+          "tweetId": "1853000457633054811",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1853000457633054811",
+          "eventType": "scheme_launch",
+          "summary": "Integration of the skill-based courses being offered for UG students under the Hon'ble @CMOTamilnadu Thiru @mkstalin dream scheme \"Naan Mudhalvan\" mas"
+        },
+        {
+          "date": "2025-08-04",
+          "handle": "mkstalin",
+          "tweetId": "1952347745463026017",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1952347745463026017",
+          "eventType": "mou_signed",
+          "summary": "📝At the #Thoothukudi #TNRising Investors Conclave, MoUs worth Rs. 32,554 crore were signed, creating over 49,800 jobs across defence, electronics, gre"
+        },
+        {
+          "date": "2025-10-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1976541517541261393",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1976541517541261393",
+          "eventType": "inauguration",
+          "summary": "Thrilled to have participated in the inauguration of Staples’ first-ever GCC in the world, right here in Chennai !\n\n#Staples, one of the world’s large"
+        },
+        {
+          "date": "2026-02-06",
+          "handle": "ndtv",
+          "tweetId": "2019965115408478511",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/2019965115408478511",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu's Dravidian model shines with 'Velvom Ondraga': CM's Breakfast Scheme cuts dropouts, ₹1,000 aid + free buses boost women (43% of India's in"
+        }
+      ],
+      "accountsCovering": [
+        "sathyantweets",
+        "DMKITwing",
+        "mkstalin",
+        "TRBRajaa",
+        "ndtv"
+      ],
+      "tweetCount": 5
+    },
+    {
+      "entityId": "educational-institution",
+      "name": "Educational Institution",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "Educational Institution",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-13",
+        "lastMention": "2026-01-24"
+      },
+      "sources": [
+        {
+          "date": "2024-11-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1856565741035643127",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1856565741035643127",
+          "eventType": "inauguration",
+          "summary": "We are thrilled to launch the 2024-25 campus #hiring season as part of the #NaanMudhalvan - #TNSLPP (Tamil Nadu State Level Placement Program)!\n\nThis "
+        },
+        {
+          "date": "2025-10-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1976558825131180299",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1976558825131180299",
+          "eventType": "mou_signed",
+          "summary": "It was a pleasure to participate in the signing of an MoU between @Guidance_TN and Ehime Nissan to establish an Automotive Technician Training School "
+        },
+        {
+          "date": "2026-01-24",
+          "handle": "TRBRajaa",
+          "tweetId": "2015001475857219845",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2015001475857219845",
+          "eventType": "inauguration",
+          "summary": "Attended the #ThriveTN Summit today at Ethiraj College and gave a few insights to the students and entrepreneurs on the growth trajectory and directio"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "tweetCount": 3
+    },
+    {
+      "entityId": "chennai-tidel-park-chennai",
+      "name": "TIDEL Park Chennai",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "TIDEL Park",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 28.55
+      },
+      "timeline": {
+        "firstMention": "2024-11-22",
+        "lastMention": "2025-06-18"
+      },
+      "sources": [
+        {
+          "date": "2024-11-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1859927133914796127",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1859927133914796127",
+          "eventType": "mou_signed",
+          "summary": "Today #TamilNadu’s #IT sector took another big stride with the inauguration of #TIDELPark #Pattabiram by our Honourable @CMOTamilNadu Thiru. @MKStalin"
+        },
+        {
+          "date": "2024-12-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1867594538652418087",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1867594538652418087",
+          "eventType": "inauguration",
+          "summary": "Another #TIDELNeo is Now FULL. 🌟\n\n#TIDELNeoSalem has reached full capacity ! 🎉 \n\nIt is now officially 100% occupied. The demand has exceeded expectati"
+        },
+        {
+          "date": "2025-06-18",
+          "handle": "Guidance_TN",
+          "tweetId": "1935336089516187794",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1935336089516187794",
+          "eventType": "expansion",
+          "summary": "Chennai has rapidly expanded its Global Capability Centre (#GCC) footprint, growing from 150 GCCs in 2021 to 305 by 2025. In 2024, 60 new GCCs were es"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "Guidance_TN"
+      ],
+      "tweetCount": 3
+    },
+    {
+      "entityId": "sipcot-industrial-park-த",
+      "name": "SIPCOT Industrial Park த",
+      "nameVariants": [
+        "SIPCOT Industrial Park Kallakurichi"
+      ],
+      "category": "employment",
+      "entityType": "SIPCOT Industrial Park",
+      "location": "Kallakurichi",
+      "numbers": {
+        "investmentCrore": 2302.0
+      },
+      "timeline": {
+        "firstMention": "2025-03-03",
+        "lastMention": "2025-12-26"
+      },
+      "sources": [
+        {
+          "date": "2025-03-03",
+          "handle": "TRBRajaa",
+          "tweetId": "1896456587956416600",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1896456587956416600",
+          "eventType": "other",
+          "summary": "🌟உதயமாகிறது நாகையில் புதிய சிப்காட் தொழில் பூங்கா🌟\n\n#டெல்டா மாவட்டங்களில் வாழும் இளைஞர்களுக்கு / பெண்களுக்கு வேலைவாய்ப்புகளை உருவாக்க மேலும் ஒரு புதிய"
+        },
+        {
+          "date": "2025-12-26",
+          "handle": "TRBRajaa",
+          "tweetId": "2004479722953351453",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2004479722953351453",
+          "eventType": "mou_signed",
+          "summary": "Honourable @CMOTamilNadu Thiru. @MKStalin avargal’s visit to High Glory Footwear factory site at SIPCOT Ulundurpet today, for the “Pou Chen Vision and"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "tweetCount": 2
+    }
+  ]
+}

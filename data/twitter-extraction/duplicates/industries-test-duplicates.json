@@ -1,0 +1,136 @@
+{
+  "generatedAt": "2026-02-16T16:00:00Z",
+  "category": "industries",
+  "testMode": true,
+  "dedupStrategy": "company+district+sector",
+  "existingDataFile": "app/src/lib/data/industries.ts",
+  "summary": {
+    "totalEntitiesProcessed": 4,
+    "exactMatches": 0,
+    "partialMatches": 0,
+    "newCandidates": 4,
+    "needsReview": 0
+  },
+  "matches": [],
+  "newCandidates": [
+    {
+      "aggregatedEntityId": "industries-tn-investment-conclave-2024-chennai",
+      "name": "Tamil Nadu Investment Conclave 2024",
+      "category": "industries",
+      "subCategory": "General Investment",
+      "dedupKeyUsed": "investment-event+chennai+2024",
+      "sourceCount": 2,
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "confidence": 0.85,
+      "suggestedEntry": {
+        "id": "tn-investment-conclave-2024",
+        "name": "Tamil Nadu Investment Conclave 2024",
+        "type": "event",
+        "investmentCrore": 68773,
+        "jobsCreated": 100000,
+        "projectsInaugurated": 19,
+        "foundationStonesLaid": 28,
+        "location": "Chennai",
+        "date": "2024-08-21",
+        "sources": [
+          {
+            "date": "2024-08-21",
+            "handle": "TNDIPRNEWS",
+            "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825962201745694968"
+          }
+        ]
+      },
+      "reviewFlags": ["event_not_project"]
+    },
+    {
+      "aggregatedEntityId": "industries-sembcorp-green-hydrogen-thoothukudi",
+      "name": "Sembcorp Green Hydrogen & Ammonia Plant",
+      "category": "industries",
+      "subCategory": "Green Energy",
+      "dedupKeyUsed": "sembcorp+thoothukudi+green-hydrogen",
+      "sourceCount": 1,
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "confidence": 0.95,
+      "suggestedEntry": {
+        "id": "sembcorp-green-hydrogen-thoothukudi",
+        "name": "Sembcorp Green Hydrogen & Ammonia Plant",
+        "company": "Sembcorp Industries",
+        "country": "Singapore",
+        "location": "Thoothukudi",
+        "district": "Thoothukudi",
+        "sector": ["Green Energy", "Hydrogen"],
+        "investmentCrore": 36200,
+        "status": "under_construction",
+        "sources": [
+          {
+            "date": "2024-08-21",
+            "handle": "TNDIPRNEWS",
+            "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000001",
+            "eventType": "ground_breaking"
+          }
+        ]
+      },
+      "reviewFlags": []
+    },
+    {
+      "aggregatedEntityId": "industries-lt-innovation-campus",
+      "name": "L&T Innovation Campus",
+      "category": "industries",
+      "subCategory": "IT & Innovation",
+      "dedupKeyUsed": "lt+unknown+innovation",
+      "sourceCount": 1,
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "confidence": 0.75,
+      "suggestedEntry": {
+        "id": "lt-innovation-campus",
+        "name": "L&T Innovation Campus",
+        "company": "L&T",
+        "sector": ["IT", "Innovation"],
+        "status": "operational",
+        "sources": [
+          {
+            "date": "2024-08-21",
+            "handle": "TNDIPRNEWS",
+            "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000002",
+            "eventType": "inauguration"
+          }
+        ]
+      },
+      "reviewFlags": ["single_source", "missing_location", "missing_investment"]
+    },
+    {
+      "aggregatedEntityId": "industries-saint-gobain-glass-tn",
+      "name": "Saint Gobain Glass Manufacturing",
+      "category": "industries",
+      "subCategory": "Manufacturing",
+      "dedupKeyUsed": "saint-gobain+unknown+glass",
+      "sourceCount": 1,
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "confidence": 0.70,
+      "suggestedEntry": {
+        "id": "saint-gobain-glass-tn",
+        "name": "Saint Gobain Glass Manufacturing",
+        "company": "Saint Gobain",
+        "sector": ["Manufacturing", "Glass"],
+        "investmentCrore": 525,
+        "status": "operational",
+        "notes": "Initial investment Rs.525 crore, grown substantially over 20 years",
+        "sources": [
+          {
+            "date": "2024-08-21",
+            "handle": "TNDIPRNEWS",
+            "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000004",
+            "eventType": "expansion"
+          }
+        ]
+      },
+      "reviewFlags": ["single_source", "missing_location"]
+    }
+  ],
+  "needsReview": [],
+  "sourceAdditions": []
+}

@@ -1,0 +1,391 @@
+{
+  "category": "welfare",
+  "generatedAt": "2026-02-17T18:46:45.929264+00:00",
+  "existingItemsCount": 112,
+  "newCandidatesCount": 9,
+  "candidates": [
+    {
+      "name": "Nadu Assured",
+      "type": "pension",
+      "confidence": 1.0,
+      "mentions": 8,
+      "locations": [],
+      "investment_crore": 13000.0,
+      "jobs": null,
+      "accounts": [
+        "muruga_TNIE",
+        "GunasekaranMu",
+        "CMOTamilnadu"
+      ],
+      "first_mention": "2026-01-03",
+      "last_mention": "2026-01-03",
+      "sample_matches": [
+        "nadu assured pension"
+      ],
+      "sources": [
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007365976040603740",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007365976040603740",
+          "eventType": "scheme_launch",
+          "text": "தமிழ்நாடு அரசு அலுவலர்கள் மற்றும் ஆசிரியர்களின் இருபதாண்டுகாலக் கோரிக்கையினை நிறைவேற்றும் வகையில், பழைய ஓய்வூதிய திட்டத்தின் பலன்களை வழங்கக்கூடிய புதிய திட்டமான “தமிழ்நாடு உறுதியளிக்கப்பட்ட ஓய்வூதியத் திட்டத்தைச் (Tamil Nadu Assured Pension Scheme – TAPS)” செயல்படுத்திட மாண்புமிகு முதலமைச்சர் @mksta"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007366156940915060",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007366156940915060",
+          "eventType": "scheme_launch",
+          "text": "தமிழ்நாடு அரசு அலுவலர்கள் மற்றும் ஆசிரியர்களின் இருபதாண்டுகாலக் கோரிக்கையினை நிறைவேற்றும் வகையில், பழைய ஓய்வூதிய திட்டத்தின் பலன்களை வழங்கக்கூடிய புதிய திட்டமான “தமிழ்நாடு உறுதியளிக்கப்பட்ட ஓய்வூதியத் திட்டத்தைச் (Tamil Nadu Assured Pension Scheme – TAPS)” செயல்படுத்திட மாண்புமிகு முதலமைச்சர் @mksta"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007384775833858175",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007384775833858175",
+          "eventType": "scheme_launch",
+          "text": "தமிழ்நாடு அரசு ஊழியர்கள் மற்றும் ஆசிரியர்களின் இருபதாண்டுகாலக் கோரிக்கையினை நிறைவேற்றும் வகையில், பழைய ஓய்வூதிய திட்டத்தின் பலன்களை வழங்கக்கூடிய புதிய திட்டமான \"தமிழ்நாடு உறுதியளிக்கப்பட்ட ஓய்வூதியத் திட்டத்தை (Tamil Nadu Assured Pension Scheme - TAPS)\" செயல்படுத்துவது குறித்த ஆலோசனைக் கூட்டம் மாண்ப"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007386112659239333",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007386112659239333",
+          "eventType": "scheme_launch",
+          "text": "ஜாக்டோ-ஜியோ, தமிழ்நாடு ஆசிரியர் முன்னேற்ற சங்கம், தமிழ்நாடு தலைமைச் செயலக சங்கம், தமிழ்நாடு அரசு ஊழியர் சங்கம், தமிழக ஆரம்பப்பள்ளி ஆசிரியர் கூட்டணி, தமிழ்நாடு அரசுப் பணியாளர் சங்கம், தமிழ்நாடு தொடக்கப்பள்ளி ஆசிரியர் மன்றம் உள்ளிட்ட பல்வேறு அரசு ஊழியர்கள் மற்றும் ஆசிரியர்கள் சங்கங்களின் நிர்வாகிகள் ம"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007414006525636742",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007414006525636742",
+          "eventType": "scheme_launch",
+          "text": "ஜாக்டோ-ஜியோ, தமிழ்நாடு ஆசிரியர் முன்னேற்ற சங்கம், தமிழ்நாடு தலைமைச் செயலக சங்கம், தமிழ்நாடு அரசு ஊழியர் சங்கம், தமிழக ஆரம்பப்பள்ளி ஆசிரியர் கூட்டணி, தமிழ்நாடு அரசுப் பணியாளர் சங்கம், தமிழ்நாடு தொடக்கப்பள்ளி ஆசிரியர் மன்றம் உள்ளிட்ட பல்வேறு அரசு ஊழியர்கள் மற்றும் ஆசிரியர்கள் சங்கங்களின் நிர்வாகிகள் ம"
+        }
+      ]
+    },
+    {
+      "name": "Oversee The",
+      "type": "relief",
+      "confidence": 0.7,
+      "mentions": 3,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2024-10-16",
+      "last_mention": "2024-10-16",
+      "sample_matches": [
+        "oversee the relief"
+      ],
+      "sources": [
+        {
+          "date": "2024-10-16",
+          "handle": "mkstalin",
+          "tweetId": "1846463520377897272",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1846463520377897272",
+          "eventType": "beneficiary_update",
+          "text": "My hearty congratulations to Hon’ble @OmarAbdullah on assuming office as the Chief Minister of Jammu and Kashmir!\n\nAlthough I received an invitation from @JKNC_ President, Respected Farooq Abdullah, to attend the swearing-in ceremony, due to the ongoing heavy rains in Tamil Nadu and my responsibilit"
+        },
+        {
+          "date": "2024-10-16",
+          "handle": "mkstalin",
+          "tweetId": "1846463977515033048",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1846463977515033048",
+          "eventType": "beneficiary_update",
+          "text": "My hearty congratulations to Hon’ble @OmarAbdullah on assuming office as the Chief Minister of Jammu and Kashmir!\n\nAlthough I received an invitation from @JKNC_ President, Respected Farooq Abdullah, to attend the swearing-in ceremony, due to the ongoing heavy rains in Tamil Nadu and my responsibilit"
+        },
+        {
+          "date": "2024-10-16",
+          "handle": "mkstalin",
+          "tweetId": "1846474344685502834",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1846474344685502834",
+          "eventType": "beneficiary_update",
+          "text": "My hearty congratulations to Hon’ble @OmarAbdullah on assuming office as the Chief Minister of Jammu and Kashmir!\n\nAlthough I received an invitation from @JKNC_ President, Respected Farooq Abdullah, to attend the swearing-in ceremony, due to the ongoing heavy rains in Tamil Nadu and my responsibilit"
+        }
+      ]
+    },
+    {
+      "name": "Urbanisation Disaster",
+      "type": "relief",
+      "confidence": 0.7,
+      "mentions": 3,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2024-11-18",
+      "last_mention": "2024-11-18",
+      "sample_matches": [
+        "urbanisation disaster relief"
+      ],
+      "sources": [
+        {
+          "date": "2024-11-18",
+          "handle": "mkstalin",
+          "tweetId": "1858450079926890920",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1858450079926890920",
+          "eventType": "other",
+          "text": "Presented Tamil Nadu's key demands to the #16thFinanceCommission:\n\n📈 Increase States' share of central taxes to 50% to ensure greater fiscal autonomy and service delivery.\n\n🤝 Ensure balanced inter-state devolution, incentivising good governance & growth.\n\n🔹Address Tamil Nadu’s challenges of rapid ur"
+        },
+        {
+          "date": "2024-11-18",
+          "handle": "mkstalin",
+          "tweetId": "1858452053686673692",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1858452053686673692",
+          "eventType": "other",
+          "text": "Presented Tamil Nadu's key demands to the #16thFinanceCommission:\n\n📈 Increase States' share of central taxes to 50% to ensure greater fiscal autonomy and service delivery.\n\n🤝 Ensure balanced inter-state devolution, incentivising good governance & growth.\n\n🔹Address Tamil Nadu’s challenges of rapid ur"
+        },
+        {
+          "date": "2024-11-18",
+          "handle": "mkstalin",
+          "tweetId": "1858452477156245924",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1858452477156245924",
+          "eventType": "other",
+          "text": "Presented Tamil Nadu's key demands to the #16thFinanceCommission:\n\n📈 Increase States' share of central taxes to 50% to ensure greater fiscal autonomy and service delivery.\n\n🤝 Ensure balanced inter-state devolution, incentivising good governance & growth.\n\n🔹Address Tamil Nadu’s challenges of rapid ur"
+        }
+      ]
+    },
+    {
+      "name": "Rescue And",
+      "type": "relief",
+      "confidence": 0.7,
+      "mentions": 3,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-06-12",
+      "last_mention": "2025-06-12",
+      "sample_matches": [
+        "rescue and relief"
+      ],
+      "sources": [
+        {
+          "date": "2025-06-12",
+          "handle": "mkstalin",
+          "tweetId": "1933103074991800649",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933103074991800649",
+          "eventType": "other",
+          "text": "Deeply shocked by the horrifying crash of Air India Flight AI171 in Ahmedabad with 242 people on board.\n\nMy thoughts are with everyone affected and the families of those on board. Hoping every possible effort is underway for rescue and relief."
+        },
+        {
+          "date": "2025-06-12",
+          "handle": "mkstalin",
+          "tweetId": "1933104038297616787",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933104038297616787",
+          "eventType": "other",
+          "text": "Deeply shocked by the horrifying crash of Air India Flight AI171 in Ahmedabad with 242 people on board.\n\nMy thoughts are with everyone affected and the families of those on board. Hoping every possible effort is underway for rescue and relief."
+        },
+        {
+          "date": "2025-06-12",
+          "handle": "mkstalin",
+          "tweetId": "1933450669853135262",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933450669853135262",
+          "eventType": "other",
+          "text": "Deeply shocked by the horrifying crash of Air India Flight AI171 in Ahmedabad with 242 people on board.\n\nMy thoughts are with everyone affected and the families of those on board. Hoping every possible effort is underway for rescue and relief."
+        }
+      ]
+    },
+    {
+      "name": "Incometax",
+      "type": "relief",
+      "confidence": 0.7,
+      "mentions": 3,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-09-23",
+      "last_mention": "2025-09-23",
+      "sample_matches": [
+        "incometax relief"
+      ],
+      "sources": [
+        {
+          "date": "2025-09-23",
+          "handle": "mkstalin",
+          "tweetId": "1970380194008490492",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970380194008490492",
+          "eventType": "milestone",
+          "text": "Hon'ble Prime Minister @narendramodi now says Indians will save Rs. 2.5 lakh crore through #GST reform and #IncomeTax relief. But this is exactly what the Opposition has been demanding from the very beginning. If these measures had been taken eight years ago, families across the country would alread"
+        },
+        {
+          "date": "2025-09-23",
+          "handle": "mkstalin",
+          "tweetId": "1970381693283639476",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970381693283639476",
+          "eventType": "milestone",
+          "text": "Hon'ble Prime Minister @narendramodi now says Indians will save Rs. 2.5 lakh crore through #GST reform and #IncomeTax relief. But this is exactly what the Opposition has been demanding from the very beginning. If these measures had been taken eight years ago, families across the country would alread"
+        },
+        {
+          "date": "2025-09-23",
+          "handle": "mkstalin",
+          "tweetId": "1970421228335964666",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970421228335964666",
+          "eventType": "milestone",
+          "text": "Hon'ble Prime Minister @narendramodi now says Indians will save Rs. 2.5 lakh crore through #GST reform and #IncomeTax relief. But this is exactly what the Opposition has been demanding from the very beginning. If these measures had been taken eight years ago, families across the country would alread"
+        }
+      ]
+    },
+    {
+      "name": "Of This",
+      "type": "relief",
+      "confidence": 0.7,
+      "mentions": 3,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-09-23",
+      "last_mention": "2025-09-23",
+      "sample_matches": [
+        "of this relief"
+      ],
+      "sources": [
+        {
+          "date": "2025-09-23",
+          "handle": "mkstalin",
+          "tweetId": "1970380194008490492",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970380194008490492",
+          "eventType": "milestone",
+          "text": "Hon'ble Prime Minister @narendramodi now says Indians will save Rs. 2.5 lakh crore through #GST reform and #IncomeTax relief. But this is exactly what the Opposition has been demanding from the very beginning. If these measures had been taken eight years ago, families across the country would alread"
+        },
+        {
+          "date": "2025-09-23",
+          "handle": "mkstalin",
+          "tweetId": "1970381693283639476",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970381693283639476",
+          "eventType": "milestone",
+          "text": "Hon'ble Prime Minister @narendramodi now says Indians will save Rs. 2.5 lakh crore through #GST reform and #IncomeTax relief. But this is exactly what the Opposition has been demanding from the very beginning. If these measures had been taken eight years ago, families across the country would alread"
+        },
+        {
+          "date": "2025-09-23",
+          "handle": "mkstalin",
+          "tweetId": "1970421228335964666",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1970421228335964666",
+          "eventType": "milestone",
+          "text": "Hon'ble Prime Minister @narendramodi now says Indians will save Rs. 2.5 lakh crore through #GST reform and #IncomeTax relief. But this is exactly what the Opposition has been demanding from the very beginning. If these measures had been taken eight years ago, families across the country would alread"
+        }
+      ]
+    },
+    {
+      "name": "For Immediate",
+      "type": "relief",
+      "confidence": 0.85,
+      "mentions": 2,
+      "locations": [
+        "Tiruppur"
+      ],
+      "investment_crore": 6000.0,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-08-28",
+      "last_mention": "2025-08-28",
+      "sample_matches": [
+        "for immediate relief"
+      ],
+      "sources": [
+        {
+          "date": "2025-08-28",
+          "handle": "mkstalin",
+          "tweetId": "1960941377648537768",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1960941377648537768",
+          "eventType": "other",
+          "text": "The #USTariff hike to 50% has hit Tamil Nadu’s exports hard, especially #Tiruppur’s textile hub, causing a trade impact of nearly Rs.3,000 crore and putting thousands of jobs at risk. \n\nI reiterate my demands to the Union Government for immediate relief and structural reforms to safeguard our indust"
+        },
+        {
+          "date": "2025-08-28",
+          "handle": "mkstalin",
+          "tweetId": "1960946343570035154",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1960946343570035154",
+          "eventType": "other",
+          "text": "The #USTariff hike to 50% has hit Tamil Nadu’s exports hard, especially #Tiruppur’s textile hub, causing a trade impact of nearly Rs.3,000 crore and putting thousands of jobs at risk. \n\nI reiterate my demands to the Union Government for immediate relief and structural reforms to safeguard our indust"
+        }
+      ]
+    },
+    {
+      "name": "Disaster",
+      "type": "relief",
+      "confidence": 0.7,
+      "mentions": 2,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-01-29",
+      "last_mention": "2025-01-29",
+      "sample_matches": [
+        "disaster relief"
+      ],
+      "sources": [
+        {
+          "date": "2025-01-29",
+          "handle": "mkstalin",
+          "tweetId": "1884603822670233869",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1884603822670233869",
+          "eventType": "scheme_launch",
+          "text": "During today's DMK MPs’ meet, we adopted key resolutions, ahead of the upcoming parliamentary session in New Delhi\n\n🔹 Frame a Code of Conduct for Governors &  time limit for approving state bills and files.\n\n🔹 Urge the Union Government to recognise Tamil Land’s 5,370-year-old #IronAge history.\n\n🔹 Pr"
+        },
+        {
+          "date": "2025-01-29",
+          "handle": "mkstalin",
+          "tweetId": "1884604211263864936",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1884604211263864936",
+          "eventType": "scheme_launch",
+          "text": "During today's DMK MPs’ meet, we adopted key resolutions, ahead of the upcoming parliamentary session in New Delhi\n\n🔹 Frame a Code of Conduct for Governors &  time limit for approving state bills and files.\n\n🔹 Urge the Union Government to recognise Tamil Land’s 5,370-year-old #IronAge history.\n\n🔹 Pr"
+        }
+      ]
+    },
+    {
+      "name": "In With",
+      "type": "relief",
+      "confidence": 0.7,
+      "mentions": 2,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-08-30",
+      "last_mention": "2025-08-30",
+      "sample_matches": [
+        "in with relief"
+      ],
+      "sources": [
+        {
+          "date": "2025-08-30",
+          "handle": "mkstalin",
+          "tweetId": "1961655120774525182",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1961655120774525182",
+          "eventType": "scheme_launch",
+          "text": "Writing in @BSIndia, I have set out how the #USTariff will strike Tamil Nadu harder than most states, and why urgent action from the Union Govt is essential. The key points highlighted are:\n\n▪ 31% of Tamil Nadu’s exports go to the US, making the state more vulnerable than the national average.\n▪ The"
+        },
+        {
+          "date": "2025-08-30",
+          "handle": "mkstalin",
+          "tweetId": "1962054139179119089",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1962054139179119089",
+          "eventType": "scheme_launch",
+          "text": "Writing in @BSIndia, I have set out how the #USTariff will strike Tamil Nadu harder than most states, and why urgent action from the Union Govt is essential. The key points highlighted are:\n\n▪ 31% of Tamil Nadu’s exports go to the US, making the state more vulnerable than the national average.\n▪ The"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "started_at": "2026-02-17T11:33:39.498827+00:00",
+  "last_update": "2026-02-17T17:44:52.662721+00:00",
+  "phases": {
+    "1": {
+      "phase": 1,
+      "name": "Tweet Fetch",
+      "status": "complete",
+      "pid": null,
+      "last_batch": 692,
+      "total_batches": 693,
+      "processed": 16311,
+      "errors": 0,
+      "last_run": null,
+      "last_error": null
+    },
+    "2": {
+      "phase": 2,
+      "name": "Link Enrich",
+      "status": "complete",
+      "pid": null,
+      "last_batch": 27,
+      "total_batches": 27,
+      "processed": 484,
+      "errors": 0,
+      "last_run": null,
+      "last_error": null
+    },
+    "3": {
+      "phase": 3,
+      "name": "Classify",
+      "status": "complete",
+      "pid": null,
+      "last_batch": 0,
+      "total_batches": 0,
+      "processed": 10576,
+      "errors": 0,
+      "last_run": null,
+      "last_error": null
+    },
+    "4": {
+      "phase": 4,
+      "name": "Aggregate",
+      "status": "complete",
+      "pid": null,
+      "last_batch": 0,
+      "total_batches": 0,
+      "processed": 1890,
+      "errors": 0,
+      "last_run": null,
+      "last_error": null
+    }
+  }
+}

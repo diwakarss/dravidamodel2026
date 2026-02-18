@@ -1,0 +1,51 @@
+{
+  "category": "infrastructure",
+  "aggregatedAt": "2026-02-16T15:50:00Z",
+  "testMode": true,
+  "totalEntities": 1,
+  "totalSources": 1,
+  "entities": [
+    {
+      "entityId": "infrastructure-chennai-metro-phase2-corridor4",
+      "category": "infrastructure",
+      "subCategory": "Metro & Rail",
+      "name": "Chennai Metro Rail Phase 2 Corridor 4",
+      "nameNormalized": "chennai-metro-phase2-corridor4",
+      "company": "CMRL",
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "extractedData": {
+        "investmentCrore": 5000,
+        "completionPercent": 45,
+        "expectedCompletion": "2027",
+        "route": "Madhavaram to SIPCOT"
+      },
+      "timeline": [
+        {
+          "date": "2024-12-15",
+          "eventType": "progress_update",
+          "summary": "Construction progress reaches 45%, expected completion 2027"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1880000000000000001",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1880000000000000001",
+          "date": "2024-12-15",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1880000000000000001",
+          "eventType": "progress_update",
+          "language": "mixed"
+        }
+      ],
+      "status": "under_construction",
+      "firstMention": "2024-12-15",
+      "lastMention": "2024-12-15",
+      "sourceCount": 1,
+      "confidence": 0.95
+    }
+  ],
+  "ambiguous": []
+}

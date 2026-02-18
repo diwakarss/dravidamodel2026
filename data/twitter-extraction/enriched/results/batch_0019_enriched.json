@@ -1,0 +1,457 @@
+{
+  "batch": 19,
+  "processedAt": "2026-02-17T11:37:42.143868+00:00",
+  "stats": {
+    "success": 18,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 2,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-urban-local-body-polls-feb-19-is-a-public-holiday/articleshow/89473319.cms",
+      "urlHash": "a21e2d3a0aba",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:36:48.228339+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1494985309200609284",
+          "handle": "TRBRajaa",
+          "date": "Sat Feb 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu urban local body polls: Feb 19 is a public holiday | Chennai News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu urban local body polls: Feb 19 is a public holiday | Chennai News - Times of India",
+        "summary": "CHENNAI: The Tamil Nadu government has announced a public holiday on February 19 as the urban local body elections are to be held on the day."
+      }
+    },
+    {
+      "url": "http://toi.in/5Zdp8Y76/a24gk",
+      "urlHash": "e8e8b17c7764",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:36:50.372259+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1495232827138674689",
+          "handle": "timesofindia",
+          "date": "Sat Feb 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Karnataka Hijab Row: First in Karnataka; Mysuru college cancels uniform rule to allow hijabs | Mysuru News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Karnataka Hijab Row: First in Karnataka; Mysuru college cancels uniform rule to allow hijabs | Mysuru News - Times of India",
+        "summary": "In the first punitive action against students seeking entry into colleges despite the interim order of the Karnataka high court banning hijabs, saffro"
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/02/22/admk-candidate-not-even-get-a-single-vote-in-karambakudi",
+      "urlHash": "47cf94a3d285",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:36:52.743221+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1496119015915331591",
+          "handle": "Kalaignarnews",
+          "date": "Tue Feb 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "ADMK candidate not even get a single vote in karambakudi",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "ADMK candidate not even get a single vote in karambakudi",
+        "summary": "ADMK candidate not even get a single vote in karambakudi"
+      }
+    },
+    {
+      "url": "https://tamil.indianexpress.com/tamilnadu/22-years-old-nilavarasi-durairaj-won-ward-number-136-chennai-415139/",
+      "urlHash": "aa0dc68f2bac",
+      "domain": "tamil.indianexpress.com",
+      "fetchedAt": "2026-02-17T11:36:55.700381+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1496864027741671428",
+          "handle": "TRBRajaa",
+          "date": "Thu Feb 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0ba9\u0bcd\u0ba9\u0bc8; \u0baf\u0bbe\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0b9a\u0bbf \u0ba4\u0bc1\u0bb0\u0bc8\u0bb0\u0bbe\u0b9c\u0bcd?",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "WebDesk",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0ba9\u0bcd\u0ba9\u0bc8; \u0baf\u0bbe\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0b9a\u0bbf \u0ba4\u0bc1\u0bb0\u0bc8\u0bb0\u0bbe\u0b9c\u0bcd?",
+        "summary": "22 years old Nilavarasi Durairaj won ward number 136 Chennai - \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0bae\u0ba9\u0bcd\u0ba9\u0bc8; \u0baf\u0bbe\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bb5\u0bb0\u0b9a\u0bbf \u0ba4\u0bc1\u0bb0\u0bc8\u0bb0\u0bbe\u0b9c\u0bcd?"
+      }
+    },
+    {
+      "url": "https://forms.gle/dqv9i9iLhPretFjR9",
+      "urlHash": "c7316cc3f6d3",
+      "domain": "forms.gle",
+      "fetchedAt": "2026-02-17T11:36:58.072591+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1497401277705187332",
+          "handle": "ItsVjKgri",
+          "date": "Sat Feb 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b85\u0ba3\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0b9f\u0bbf\u0bb5\u0bae\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b85\u0ba3\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0b9f\u0bbf\u0bb5\u0bae\u0bcd",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://thewire.in/politics/fake-nationalism-failed-foreign-policy-manmohan-singh-slams-pm-modi",
+      "urlHash": "ffffe79dd0c1",
+      "domain": "thewire.in",
+      "fetchedAt": "2026-02-17T11:37:03.641989+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1497656016208490498",
+          "handle": "t_d_h_nair",
+          "date": "Sat Feb 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "'Fake Nationalism, Failed Foreign Policy': Manmohan Singh Slams PM Modi - The Wire",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "'Fake Nationalism, Failed Foreign Policy': Manmohan Singh Slams PM Modi - The Wire",
+        "summary": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture"
+      }
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeStcjloqfjG3i7_mYMyU5atqRSPsBb2CtV6-9zQU1M2Tjl-w/viewform",
+      "urlHash": "5ffe99072cd3",
+      "domain": "docs.google.com",
+      "fetchedAt": "2026-02-17T11:37:05.933131+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1497657312823345152",
+          "handle": "skpkaruna",
+          "date": "Sat Feb 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b85\u0ba3\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0b9f\u0bbf\u0bb5\u0bae\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0ba8\u0bc1\u0b9f\u0bcd\u0baa \u0b85\u0ba3\u0bbf \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0b9f\u0bbf\u0bb5\u0bae\u0bcd",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/health-min-tops-country-in-running-challenge/articleshow/89859581.cms",
+      "urlHash": "8fcc2cff4f82",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:37:09.199860+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1497894836325662721",
+          "handle": "supriyasahuias",
+          "date": "Sun Feb 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Health Min Tops Country In Running Challenge | Chennai News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Health Min Tops Country In Running Challenge | Chennai News - Times of India",
+        "summary": "Health minister Ma Subramanian has secured the top position in the country in a running challenge involving more than 350 leaders, CEOs and commissio"
+      }
+    },
+    {
+      "url": "https://m.tribuneindia.com/news/haryana/medical-student-from-haryana-refuses-to-leave-ukraine-says-will-take-care-of-house-owners-kids-as-he-joins-war-373347",
+      "urlHash": "5bb7312e5a14",
+      "domain": "m.tribuneindia.com",
+      "fetchedAt": "2026-02-17T11:37:11.285116+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1497904782102581253",
+          "handle": "TRBRajaa",
+          "date": "Sun Feb 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Medical student from Haryana refuses to leave Ukraine, says will take care of house owner\u2019s kids as he joins war - The Tribune",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Medical student from Haryana refuses to leave Ukraine, says will take care of house owner\u2019s kids as he joins war - The Tribune",
+        "summary": "Sunit Dhawan Rohtak, February 26 It is a tale of human values, compassion and universal brotherhood \u2014 or sisterhood, precisely in this case \u2014 which bind us together even during a war. A girl from Haryana, who is studying medicine..."
+      }
+    },
+    {
+      "url": "https://tamil.asianetnews.com/politics/dmk-president-and-tamil-nadu-chief-minister-mk-stalin-political-life-r81rn8",
+      "urlHash": "5acc3f088ee7",
+      "domain": "tamil.asianetnews.com",
+      "fetchedAt": "2026-02-17T11:37:14.123746+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1498534255882010625",
+          "handle": "TRBRajaa",
+          "date": "Tue Mar 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd, \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf\u0ba9\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc8 \u0baa\u0bc2\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2; \u0bae\u0bc1\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc8..! | Dmk President And Tamil Nadu Chief Minister Mk Stalin Political Life | Asianet News Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd, \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bbf\u0ba9\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc8 \u0baa\u0bc2\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2; \u0bae\u0bc1\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc8..! | Dmk President And Tamil Nadu Chief Minister Mk Stalin Political Life | Asianet News Tamil",
+        "summary": "\u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 \u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0ba4\u0bc1 \u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0ba9\u0bae\u0bbe\u0ba9 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1, \u0b85\u0bb5\u0bb0\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0bae\u0bcd \u0b86\u0b95\u0bbf\u0baf\u0bb5\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd."
+      }
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/pressed-russia-ukraine-for-immediate-ceasefire-stay-inside-india-tells-stranded-students-in-sumy-2805242",
+      "urlHash": "d6a4391b1f48",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:37:16.572362+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1500065651335266306",
+          "handle": "ndtv",
+          "date": "Sat Mar 05"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://www.tnlip.com",
+      "urlHash": "3b706d305187",
+      "domain": "tnlip.com",
+      "fetchedAt": "2026-02-17T11:37:18.663815+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1500729862310735872",
+          "handle": "CMOTamilnadu",
+          "date": "Mon Mar 07"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://ranaayyub.substack.com/p/indian-students-sumy-ukraine-war?s=r&utm_campaign=post&utm_medium=web&utm_source=direct",
+      "urlHash": "ccc3837ecc89",
+      "domain": "ranaayyub.substack.com",
+      "fetchedAt": "2026-02-17T11:37:21.946661+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1500926354887348226",
+          "handle": "TRBRajaa",
+          "date": "Mon Mar 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Waiting Out War Underneath Sumy State University",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Sindhuja Sankaran",
+      "rawText": "Rana Ayyub's Newsletter Subscribe Sign in Waiting Out War Underneath Sumy State University 700 Indian students trying to survive in Sumy, lacking basic resources and transportation amid bureaucratic negligence. Sindhuja Sankaran Mar 07, 2022 15 2 Share The country estate Kachanovka , by Alexei Yakovlevich Voloskov (1849). A painting of an estate in Chernihiv, from the Regional Art Museum, Sumy. Via Getty. On the 15th of February, The Indian embassy in Ukraine asked Indian students to evacuate the country as the situation intensified between Ukraine and Russia. But instead of a resolute, planned evacuation, the Modi government was busy with its election campaigning, and the desperate cries from 20,000 civilians in Ukraine fell on deaf ears. By the time the Indian government started a high-PR, nationalistic approach to evacuating its civilians\u2014mostly medical students\u2014two lives had been lost. Journalist Sindhuja Sankaran reports: \u2014Rana &quot;Sumy is under attack now. We can hear a blast nearby,\u201d wrote Vivek 1 , a medical student from Tamil Nadu. \u201cI'll text you later.&quot; The blast was a sound of the battle between Russian and Ukrainian forces over the countries\u2019 border in Sumy Oblast, in northeast Ukraine; when they heard it, the students retreated to bunkers beneath the hostels where they were staying at Sumy State University. A week later in the war-torn country and still in those bunkers, these students have learned a great deal about war. Because of continuous shelling, more than 700 Indian students are marooned in the region. They have no food, no electricity, and for days they had no water. The majority are medical students; a few study engineering, agriculture, or other disciplines. Most are from the state of Kerala, on the coast. The land-locked Sumy is like mini-Kerala, says Vivek. There are six hostels in total, and most Indians are in three of them; each hostel has a separate bunker. Vivek describes the conditions of the bunker as &quot;cold, with no floor",
+      "extractedData": {
+        "headline": "Waiting Out War Underneath Sumy State University",
+        "summary": "700 Indian students trying to survive in Sumy, lacking basic resources and transportation amid bureaucratic negligence."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/feel-remorse-over-his-lost-years-cbi-man-tells-sc-perarivalan-unaware-about-rajiv-conspiracy",
+      "urlHash": "90dd7a01e2a4",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:37:24.513149+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1501616429262831617",
+          "handle": "priyankathiru",
+          "date": "Wed Mar 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u2018Feel remorse over his lost years\u2019: CBI man tells SC Perarivalan unaware about Rajiv conspiracy",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Priyanka Thirumurthy",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u2018Feel remorse over his lost years\u2019: CBI man tells SC Perarivalan unaware about Rajiv conspiracy",
+        "summary": "&quot;Wouldn&#x27;t have come forward with admission if Perarivalan\u2019s sentence was shorter,&quot; the officer tells TNM."
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/india/2022/03/10/2-bjp-executives-held-at-puducherry-who-cheats-rtd-police",
+      "urlHash": "51f0b7aa174a",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:37:27.111181+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1501823466861133825",
+          "handle": "Kalaignarnews",
+          "date": "Thu Mar 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "2 bjp executives held at puducherry who cheats rtd police",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "2 bjp executives held at puducherry who cheats rtd police",
+        "summary": "2 bjp executives held at puducherry who cheats rtd police"
+      }
+    },
+    {
+      "url": "https://myneta.info/party/index.php?action=all_donors&id=3",
+      "urlHash": "4d47e53cc22e",
+      "domain": "myneta.info",
+      "fetchedAt": "2026-02-17T11:37:29.992818+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1503358888447725575",
+          "handle": "angry_birdu",
+          "date": "Mon Mar 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Bharatiya Janata Party (BJP) : Donation for Financial year-All Years",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Bharatiya Janata Party (BJP) : Donation for Financial year-All Years",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.livelaw.in/top-stories/neet-ss-supreme-court-allows-50-reservation-in-super-speciality-courses-in-tamil-nadu-for-2021-202-194284",
+      "urlHash": "708b62d5c51d",
+      "domain": "livelaw.in",
+      "fetchedAt": "2026-02-17T11:37:33.307851+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1503998515050995712",
+          "handle": "angry_birdu",
+          "date": "Wed Mar 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "NEET-SS : Supreme Court Allows 50% Reservation In Super-Speciality Courses In Tamil Nadu For 2021-2022",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Sohini Chowdhury",
+      "rawText": "",
+      "extractedData": {
+        "headline": "NEET-SS : Supreme Court Allows 50% Reservation In Super-Speciality Courses In Tamil Nadu For 2021-2022",
+        "summary": "The Supreme Court on Wednesday allowed the State of Tamil Nadu to implement 50% reservation for in-service doctors in super speciality courses in NEET-SS admissions for the academic year 2021-2022.A..."
+      }
+    },
+    {
+      "url": "https://amp.scroll.in/article/805594/the-centre-has-made-it-clear-holi-is-national-all-other-festivals-of-colour-are-local",
+      "urlHash": "442166ebcf18",
+      "domain": "amp.scroll.in",
+      "fetchedAt": "2026-02-17T11:37:35.628730+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1505117334541049859",
+          "handle": "GargaC",
+          "date": "Sat Mar 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "The Centre has made it clear: Holi is &#39;national&#39;, all other festivals of colour are &#39;local&#39;",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Garga Chatterjee",
+      "rawText": "",
+      "extractedData": {
+        "headline": "The Centre has made it clear: Holi is &#39;national&#39;, all other festivals of colour are &#39;local&#39;",
+        "summary": "The central government&#39;s holiday calendar officially promotes and imposes a cultural hierarchy."
+      }
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=8tro75QlUAw&feature=youtu.be",
+      "urlHash": "f4b261e98409",
+      "domain": "m.youtube.com",
+      "fetchedAt": "2026-02-17T11:37:37.973147+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1505180334295453698",
+          "handle": "DravidianForum",
+          "date": "Sat Mar 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdI8_pvYZibp7kCnb3G-A1RZaG_nRrU_N1c7PDruMr8p1SODw/viewform",
+      "urlHash": "98ebf52d9a41",
+      "domain": "docs.google.com",
+      "fetchedAt": "2026-02-17T11:37:40.617789+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1505189225561395205",
+          "handle": "mkstalin",
+          "date": "Sat Mar 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Chess Olympiad  2022 - Design Contest",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Chess Olympiad  2022 - Design Contest",
+        "summary": ""
+      }
+    }
+  ]
+}

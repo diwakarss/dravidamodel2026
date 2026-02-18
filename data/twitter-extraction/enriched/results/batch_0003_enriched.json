@@ -1,0 +1,369 @@
+{
+  "batch": 3,
+  "processedAt": "2026-02-17T11:21:40.287840+00:00",
+  "stats": {
+    "success": 7,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 13,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.newindianexpress.com/nation/2021/oct/10/india-doesnt-yet-have-that-covid-safety-armour-needed-to-start-reopening-virologist-2369940.html",
+      "urlHash": "76d49ac9f6a3",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:20:55.722385+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1447033673266589696",
+          "handle": "NewIndianXpress",
+          "date": "Sun Oct 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "India doesn&#x27;t yet have that Covid safety armour needed to start reopening: Virologist",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "PTI",
+      "rawText": "",
+      "extractedData": {
+        "headline": "India doesn&#x27;t yet have that Covid safety armour needed to start reopening: Virologist",
+        "summary": "Lipkin said there were many lessons from the Spanish flu of 1918 which have not been carried forward."
+      }
+    },
+    {
+      "url": "https://www.thehindu.com/society/privatisation-cannot-be-the-answer-to-every-malaise-palanivel-thiaga-rajan/article36891641.ece",
+      "urlHash": "184a326dd34f",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:58.958942+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1447221246026924034",
+          "handle": "CholamandalPann",
+          "date": "Sun Oct 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "In conversation with Palanivel Thiaga Rajan - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "January 24, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "In conversation with Palanivel Thiaga Rajan - The Hindu",
+        "summary": "Tamil Nadu\u2019s Finance Minister on fighting corruption and social media wars"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/bjp-activist-kalyanraman-was-arrested-by-cyber-crime-police-436062.html",
+      "urlHash": "10b95a266051",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:01.077508+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449578977916456964",
+          "handle": "thatsTamil",
+          "date": "Sun Oct 17"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.dinakaran.com/news_detail.asp?Nid=712989",
+      "urlHash": "456197e4ea57",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:21:03.137037+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449720315081228294",
+          "handle": "DinakaranNews",
+          "date": "Sun Oct 17"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/photos/chief-minister-mk-stalin-s-surprise-inspection-in-a-government-bus-oi69880.html",
+      "urlHash": "2fd9e5989041",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:05.350224+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1451830319930245121",
+          "handle": "thatsTamil",
+          "date": "Sat Oct 23"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/27/single-women-now-family-in-tn-to-avail-ration-cards-2376214.html",
+      "urlHash": "5d8cc60b7a75",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:21:07.407229+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453390321153286149",
+          "handle": "anbu_madras",
+          "date": "Wed Oct 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Single women now \u2018family\u2019 in TN, to avail ration cards",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "B Anbuselvan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Single women now \u2018family\u2019 in TN, to avail ration cards",
+        "summary": "Single women in the State, who have separated from their husbands or parents, will now be recognised as \u2018family\u2019, and will be issued ration cards by the civil supplies department."
+      }
+    },
+    {
+      "url": "https://www.newindianexpress.com/cities/chennai/2021/oct/29/air-pollution-deepavali-still-days-away-but-chennai-goes-under-cover-2377074.html",
+      "urlHash": "aaa40726a344",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:21:10.156703+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453934551374258177",
+          "handle": "TRBRajaa",
+          "date": "Fri Oct 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Air pollution: Deepavali still days away, but Chennai goes under cover",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "SV Krishna Chaitanya",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Air pollution: Deepavali still days away, but Chennai goes under cover",
+        "summary": "Poor air quality due to \u2018drizzle, overcast condition\u2019, more monitoring stations set up"
+      }
+    },
+    {
+      "url": "https://www.vikatan.com/news/general-news/importance-of-archaeological-research",
+      "urlHash": "44e72b0abf6a",
+      "domain": "vikatan.com",
+      "fetchedAt": "2026-02-17T11:21:12.917003+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453953764923109386",
+          "handle": "TThenarasu",
+          "date": "Fri Oct 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Ananda Vikatan - 03 November 2021 - \u0baa\u0bb4\u0ba8\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0baf\u0ba3\u0bae\u0bcd! |importance of Archaeological research - Vikatan",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0b86.\u0baa\u0bb4\u0ba9\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0ba9\u0bcd,\u0b8e\u0bb2\u0bcd.\u0bb0\u0bbe\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd,\u0b86\u0bb0\u0bcd.\u0b8e\u0bae\u0bcd.\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb0\u0bbe\u0b9c\u0bcd",
+      "rawText": "Save the vikatan web app to Home Screen tap on",
+      "extractedData": {
+        "headline": "Ananda Vikatan - 03 November 2021 - \u0baa\u0bb4\u0ba8\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0baf\u0ba3\u0bae\u0bcd! |importance of Archaeological research - Vikatan",
+        "summary": "\u0b95\u0bc0\u0bb4\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b92\u0bb0\u0bc1 \u0b87\u0ba9\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc8 \u0b89\u0ba3\u0bb0\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd. 2,600 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc1 \u0ba8\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd. | importance of Archaeological research"
+      }
+    },
+    {
+      "url": "https://www.dinakaran.com/news_detail.asp?Nid=716380",
+      "urlHash": "690491cbc4c4",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:21:16.101559+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1454294152196153349",
+          "handle": "DinakaranNews",
+          "date": "Sat Oct 30"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.dinakaran.com/news_detail.asp?Nid=716992",
+      "urlHash": "fe907cda729b",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:21:18.353995+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1455370570531475457",
+          "handle": "DinakaranNews",
+          "date": "Tue Nov 02"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/the-robber-left-the-stolen-jewelry-and-money-intact-in-kerala-438134.html",
+      "urlHash": "bc9afa0ed252",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:20.578773+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1457225365969985544",
+          "handle": "thatsTamil",
+          "date": "Sat Nov 06"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/velachery-a-suburb-of-chennai-was-once-a-lake-see-the-map-438351.html",
+      "urlHash": "db90735f890c",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:22.643025+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1457909004294754307",
+          "handle": "thatsTamil",
+          "date": "Mon Nov 08"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/thalavanur-check-dam-again-damaged-farmers-shock-438370.html",
+      "urlHash": "da1f923497a2",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:24.731940+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1457929994160672777",
+          "handle": "thatsTamil",
+          "date": "Tue Nov 09"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/flood-around-the-house-disaster-rescue-team-rescues-postpartum-woman-with-baby-438643.html",
+      "urlHash": "7a2e311e2fa5",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:26.792621+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1458707536949878791",
+          "handle": "thatsTamil",
+          "date": "Thu Nov 11"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/jai-bhim-pmk-opposes-surya-netizens-create-tag-supporting-the-actor-439020.html",
+      "urlHash": "604e14a7c8df",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:28.841069+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1460162642861985792",
+          "handle": "thatsTamil",
+          "date": "Mon Nov 15"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/thiruvannamalai/pandiyan-and-naicker-dynasty-inscriptions-are-found-in-tiruvannamalai-439049.html",
+      "urlHash": "7b259653627b",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:30.898447+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1460173712599093250",
+          "handle": "thatsTamil",
+          "date": "Mon Nov 15"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.dinakaran.com/news_detail.asp?Nid=721075",
+      "urlHash": "aab909cc9d75",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:21:32.987564+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1461900806672695300",
+          "handle": "DinakaranNews",
+          "date": "Fri Nov 19"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/tamilnadu-rains-heavy-rain-alerted-for-many-districts-due-to-new-low-pressure-440114.html",
+      "urlHash": "7a86a4b04279",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:21:35.245728+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1463341216561459205",
+          "handle": "thatsTamil",
+          "date": "Wed Nov 24"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ban-on-registering-properties-on-waterbodies-to-be-enforced/article37673590.ece",
+      "urlHash": "3607c63e4a72",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:21:37.298951+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1463922002444443650",
+          "handle": "vijaythehindu",
+          "date": "Thu Nov 25"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Ban on registering properties on waterbodies to be enforced - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "November 10, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Ban on registering properties on waterbodies to be enforced - The Hindu",
+        "summary": "Registration officials warned of action if they violate rule"
+      }
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2021/nov/29/deft-dam-control-helps-keep-tamil-nadu-afloat-despite-heavy-rains-2389326.html",
+      "urlHash": "20b2fb6efc00",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:21:39.425896+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1465236557967753219",
+          "handle": "saravofcl",
+          "date": "Mon Nov 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Deft dam control helps keep Tamil Nadu afloat despite heavy rains",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "K V Navya",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Deft dam control helps keep Tamil Nadu afloat despite heavy rains",
+        "summary": "The recent waterlogging in several parts of the State stemmed from lack of infrastructure and poor planning rather than sudden release of water from dams."
+      }
+    }
+  ]
+}

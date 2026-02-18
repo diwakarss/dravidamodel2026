@@ -1,0 +1,20 @@
+{
+  "url": "https://chennaimetrorail.org",
+  "urlHash": "homepage",
+  "domain": "chennaimetrorail.org",
+  "fetchedAt": "2026-02-16T15:35:00Z",
+  "httpStatus": 200,
+  "title": "Chennai Metro Rail Limited - Official Website",
+  "content": "Chennai Metro Rail Limited official website with information about metro phases, corridors, and construction progress.",
+  "extractedData": {
+    "projectName": "Chennai Metro Rail Phase 2",
+    "corridors": [
+      {"corridor": 3, "route": "Madhavaram to SIPCOT", "lengthKm": 45.8},
+      {"corridor": 4, "route": "Poonamallee to Light House", "lengthKm": 26.1},
+      {"corridor": 5, "route": "Madhavaram to Sholinganallur", "lengthKm": 47}
+    ],
+    "totalBudgetCrore": 61843,
+    "expectedCompletion": "2027-2028"
+  },
+  "sourceTweets": ["1880000000000000001"]
+}

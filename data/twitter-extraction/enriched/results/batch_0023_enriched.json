@@ -1,0 +1,151 @@
+{
+  "batch": 23,
+  "processedAt": "2026-02-17T11:41:02.459043+00:00",
+  "stats": {
+    "success": 6,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 0,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "http://Cr.No",
+      "urlHash": "977c31f8fc31",
+      "domain": "cr.no",
+      "fetchedAt": "2026-02-17T11:40:47.940928+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1535667447713660928",
+          "handle": "ITWreports",
+          "date": "Sat Jun 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "cr.no in parked",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "cr.no is registered, but the owner has currently not an active website here. Other services, such as e-mail, may be actively used by the owner.",
+      "extractedData": {
+        "headline": "cr.no in parked",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://m.thewire.in/article/south-asia/rajapaksa-said-modi-insisted-on-adani-for-power-project-says-sri-lanka-electricity-chief",
+      "urlHash": "9e43db7b06e9",
+      "domain": "m.thewire.in",
+      "fetchedAt": "2026-02-17T11:40:50.923709+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1535856834497880064",
+          "handle": "pbhushan1",
+          "date": "Sun Jun 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "&#x27;Rajapaksa Said Modi Insisted on Adani for Power Project&#x27;, Says Sri Lanka Electricity Chief - The Wire",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "&#x27;Rajapaksa Said Modi Insisted on Adani for Power Project&#x27;, Says Sri Lanka Electricity Chief - The Wire",
+        "summary": "After Sri Lankan President Gotabaya Rajapaksa denied authorising the award of the project &#x27;to any specific person or entity,&#x27; the CEB chief also retracted his claim."
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/congress-president-sonia-gandhi-admitted-to-gangaram-hospital-covid-19-7965699/",
+      "urlHash": "2d60f397e388",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:40:53.349716+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1536047700659273728",
+          "handle": "ThamizhachiTh",
+          "date": "Sun Jun 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Congress president Sonia Gandhi admitted to Ganga Ram hospital over Covid-related issues | Delhi News - The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Congress president Sonia Gandhi admitted to Ganga Ram hospital over Covid-related issues | Delhi News - The Indian Express",
+        "summary": "Sonia Gandhi was diagnosed with Covid-19 10 days ago. Randeep Surjewala at the time said she had developed a mild fever, and some other symptoms, and had isolated herself."
+      }
+    },
+    {
+      "url": "https://frontline.thehindu.com/cover-story/reluctant-leader-mk-stalin-is-this-reluctant-leader-underplaying-himself-nationally/article65518368.ece",
+      "urlHash": "8104d333523f",
+      "domain": "frontline.thehindu.com",
+      "fetchedAt": "2026-02-17T11:40:57.218210+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1536367395408752640",
+          "handle": "frontline_india",
+          "date": "Mon Jun 13"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "M.K. Stalin: Reluctant leader - Frontline",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Published : Jun 12, 2022 18:00 IST COMMents SHARE",
+      "extractedData": {
+        "headline": "M.K. Stalin: Reluctant leader - Frontline",
+        "summary": "In the past year, Stalin has deliberately underplayed his role at the national level, while trying to create an ideological base for the larger struggle against the BJP."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/tn-bjp-makes-man-accused-smuggling-cases-office-bearer-removes-after-row-164942",
+      "urlHash": "580a34204afc",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:40:59.343892+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1536917942666858496",
+          "handle": "Ahmedshabbir20",
+          "date": "Wed Jun 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN BJP makes man accused in smuggling cases an office bearer, removes after row",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Shabbir Ahmed",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TN BJP makes man accused in smuggling cases an office bearer, removes after row",
+        "summary": "K Venkatesan was arrested in 2015 by the Andhra Pradesh police under charges of smuggling red sandalwood to foreign countries."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/coimbatore-abvp-man-arrested-post-reiterating-nupur-sharmas-remarks-prophet-164955",
+      "urlHash": "e52c722849ec",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:41:01.771554+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1536923475276771329",
+          "handle": "thenewsminute",
+          "date": "Wed Jun 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Coimbatore ABVP man arrested for post reiterating Nupur Sharma&#x27;s remarks on Prophet",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "TNM Staff",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Coimbatore ABVP man arrested for post reiterating Nupur Sharma&#x27;s remarks on Prophet",
+        "summary": "The man, identified as 24-year-old Karthi, was arrested from Sennanur on the outskirts of Coimbatore."
+      }
+    }
+  ]
+}

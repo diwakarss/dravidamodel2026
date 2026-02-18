@@ -1,0 +1,2088 @@
+{
+  "category": "employment",
+  "aggregatedAt": "2026-02-17T17:44:43.355347+00:00",
+  "stats": {
+    "entries": 283,
+    "entities": 60
+  },
+  "entities": [
+    {
+      "entityId": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 10000.0,
+        "jobsCreated": 600
+      },
+      "timeline": {
+        "firstMention": "2024-08-19",
+        "lastMention": "2026-02-06",
+        "productionStart": "2024-10-14",
+        "inauguration": "2025-08-11",
+        "mouSigned": "2025-11-28"
+      },
+      "sources": [
+        {
+          "date": "2024-08-19",
+          "handle": "TNIndMin",
+          "tweetId": "1825520470000570782",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1825520470000570782",
+          "eventType": "expansion",
+          "summary": "“Made in TN for mega kitchens world over”\n\n“Tamil Nadu is throwing a challenge to China, Germany and Italy in the manufacture of cooking equipment. It..."
+        },
+        {
+          "date": "2024-10-14",
+          "handle": "mkstalin",
+          "tweetId": "1845869210016059826",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1845869210016059826",
+          "eventType": "production_start",
+          "summary": "Thank you, Hon’ble @PiyushGoyal, for fully accepting my demands by banning single-use plastic cigarette lighters under ₹20 and now restricting the imp..."
+        },
+        {
+          "date": "2024-10-14",
+          "handle": "mkstalin",
+          "tweetId": "1845871783376732290",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1845871783376732290",
+          "eventType": "production_start",
+          "summary": "Thank you, Hon’ble @PiyushGoyal, for fully accepting my demands by banning single-use plastic cigarette lighters under ₹20 and now restricting the imp..."
+        },
+        {
+          "date": "2024-12-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1865058671077507166",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1865058671077507166",
+          "eventType": "other",
+          "summary": "As someone deeply interested and passionate about #QuantumComputing, I was thrilled to see a quantum computer in Frankfurt, developed by @XeedQ_xq, a ..."
+        },
+        {
+          "date": "2025-04-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1908378600304501254",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1908378600304501254",
+          "eventType": "other",
+          "summary": "#TamilNadu sets a new high with 9.69% growth 🎊\n\nTamil Nadu’s real economic growth rate of 9.69% for 2024-25 marks the highest for any State in the cou..."
+        },
+        {
+          "date": "2025-04-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1908379455237554420",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1908379455237554420",
+          "eventType": "other",
+          "summary": "Tamil Nadu sets a new high with 9.69% growth - The Hindu\n\nTN tops All States in India🎊\n\n#DravidianModel #InvestInTN #JobsForTN https://www.thehindu.co..."
+        },
+        {
+          "date": "2025-04-25",
+          "handle": "yazhini_pm",
+          "tweetId": "1915799755193827423",
+          "fxUrl": "https://fxtwitter.com/yazhini_pm/status/1915799755193827423",
+          "eventType": "progress_update",
+          "summary": "When global investors come to Tamil Nadu, they find something rare, a government that doesn't just attract investments, but ensures that the local you..."
+        },
+        {
+          "date": "2025-04-25",
+          "handle": "WeDravidians",
+          "tweetId": "1916099729982951542",
+          "fxUrl": "https://fxtwitter.com/WeDravidians/status/1916099729982951542",
+          "eventType": "scheme_launch",
+          "summary": "When global investors come to Tamil Nadu, they find something rare — a govt that not only attracts investments, but ensures local youth are 🎓 skilled,..."
+        },
+        {
+          "date": "2025-08-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1954807579273826611",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1954807579273826611",
+          "eventType": "inauguration",
+          "summary": "🌟Western Tamil Nadu is on a roll 🎊\n\nToday our Honourable @CMOTamilNadu Thiru. @MKStalin avargal inaugurated yet another #TIDELNeo Park for TN, now in ..."
+        },
+        {
+          "date": "2025-10-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1976541517541261393",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1976541517541261393",
+          "eventType": "inauguration",
+          "summary": "Thrilled to have participated in the inauguration of Staples’ first-ever GCC in the world, right here in Chennai !\n\n#Staples, one of the world’s large..."
+        },
+        {
+          "date": "2025-10-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1977570190293614607",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1977570190293614607",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu is ready for lift-off! 🚀\n\nFrom tanks to satellites...TN’s industrial ecosystem is powering India’s next big leap in Aerospace & Defence man..."
+        },
+        {
+          "date": "2025-10-29",
+          "handle": "Sidprabhakar7",
+          "tweetId": "1983533610096615703",
+          "fxUrl": "https://fxtwitter.com/Sidprabhakar7/status/1983533610096615703",
+          "eventType": "other",
+          "summary": "Tamil Nadu MAWS minister KN Nehru denies ED's allegations of cash-for-jobs in the 2538 appointments, says it's yet another attempt by ED to discredit ..."
+        },
+        {
+          "date": "2025-11-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1985901681557856712",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1985901681557856712",
+          "eventType": "inauguration",
+          "summary": "#TamilNadu treads on strongly down the GCC path with another global name choosing Tamil Nadu for its GCC 🌟\n\nHD Supply, one of North America’s leaders ..."
+        },
+        {
+          "date": "2025-11-28",
+          "handle": "Guidance_TN",
+          "tweetId": "1994402270621073741",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1994402270621073741",
+          "eventType": "mou_signed",
+          "summary": "Tamil Nadu welcomes the LEGO brand as Chennai becomes home to the State’s first LEGO® Certified Store.\n\nLaunched through a partnership between the the..."
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "Guidance_TN",
+          "tweetId": "1996976546649985482",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1996976546649985482",
+          "eventType": "other",
+          "summary": "In the first nine months of 2025, Tamil Nadu has witnessed an unprecedented office space absorption of over 8 million sq. ft.\n\nThe State has welcomed ..."
+        },
+        {
+          "date": "2026-01-13",
+          "handle": "TRBRajaa",
+          "tweetId": "2011053347021664320",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2011053347021664320",
+          "eventType": "mou_signed",
+          "summary": "India’s first #SovereignAIPark journey begins in Tamil Nadu ! \n\nToday, we signed a landmark MoU in the presence of Honourable @CMOTamilNadu Thiru. @MK..."
+        },
+        {
+          "date": "2026-02-06",
+          "handle": "ndtv",
+          "tweetId": "2019965115408478511",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/2019965115408478511",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu's Dravidian model shines with 'Velvom Ondraga': CM's Breakfast Scheme cuts dropouts, ₹1,000 aid + free buses boost women (43% of India's in..."
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin",
+        "Guidance_TN",
+        "ndtv",
+        "WeDravidians",
+        "TRBRajaa",
+        "yazhini_pm",
+        "Sidprabhakar7",
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 17,
+      "aggregatedAt": "2026-02-17T17:44:43.355028+00:00"
+    },
+    {
+      "entityId": "cmotamilnadu-on-job",
+      "name": "Cmotamilnadu On Job",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 2302.0,
+        "jobsCreated": 20000
+      },
+      "timeline": {
+        "firstMention": "2024-09-08",
+        "lastMention": "2025-12-28",
+        "mouSigned": "2024-11-22",
+        "productionStart": "2025-12-28"
+      },
+      "sources": [
+        {
+          "date": "2024-09-08",
+          "handle": "TRBRajaa",
+          "tweetId": "1832650758786855267",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1832650758786855267",
+          "eventType": "other",
+          "summary": "Honourable @CMOTamilnadu  ON THE JOB 24X7 ♥️\n\n#CMStalinInUS"
+        },
+        {
+          "date": "2024-09-30",
+          "handle": "TRBRajaa",
+          "tweetId": "1840749205767233543",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1840749205767233543",
+          "eventType": "milestone",
+          "summary": "#Jobs, jobs, and more #JobsForTN!\n\nAs our Honourable @CMOTamilNadu Thiru. @MKStalin avargal has always emphasised, every rupee of the lakhs of crores ..."
+        },
+        {
+          "date": "2024-11-03",
+          "handle": "DMKITwing",
+          "tweetId": "1853000457633054811",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1853000457633054811",
+          "eventType": "scheme_launch",
+          "summary": "Integration of the skill-based courses being offered for UG students under the Hon'ble @CMOTamilnadu Thiru @mkstalin dream scheme \"Naan Mudhalvan\" mas..."
+        },
+        {
+          "date": "2024-11-22",
+          "handle": "TRBRajaa",
+          "tweetId": "1859927133914796127",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1859927133914796127",
+          "eventType": "mou_signed",
+          "summary": "Today #TamilNadu’s #IT sector took another big stride with the inauguration of #TIDELPark #Pattabiram by our Honourable @CMOTamilNadu Thiru. @MKStalin..."
+        },
+        {
+          "date": "2025-02-17",
+          "handle": "DMKITwing",
+          "tweetId": "1891379326509031923",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1891379326509031923",
+          "eventType": "scheme_launch",
+          "summary": "#TamilNadu is setting new benchmarks in skill development!\n\nUnder the visionary leadership of Hon'ble @CMOTamilnadu Thiru. @mkstalin, the #DravidaMode..."
+        },
+        {
+          "date": "2025-12-26",
+          "handle": "TRBRajaa",
+          "tweetId": "2004479722953351453",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2004479722953351453",
+          "eventType": "mou_signed",
+          "summary": "Honourable @CMOTamilNadu Thiru. @MKStalin avargal’s visit to High Glory Footwear factory site at SIPCOT Ulundurpet today, for the “Pou Chen Vision and..."
+        },
+        {
+          "date": "2025-12-28",
+          "handle": "TRBRajaa",
+          "tweetId": "2005319225938985410",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2005319225938985410",
+          "eventType": "production_start",
+          "summary": "#Chennai has emerged as India’s strongest housing market in 2025 ! \n\nWhile residential sales slowed across most major cities, Chennai recorded a 15% Y..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "DMKITwing"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 7,
+      "aggregatedAt": "2026-02-17T17:44:43.355039+00:00"
+    },
+    {
+      "entityId": "union-govt",
+      "name": "Union Govt",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-20",
+        "lastMention": "2025-03-30",
+        "inauguration": "2025-03-30"
+      },
+      "sources": [
+        {
+          "date": "2024-08-20",
+          "handle": "mkstalin",
+          "tweetId": "1825868467964379617",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1825868467964379617",
+          "eventType": "other",
+          "summary": "💪🏾Victory for #SocialJustice! The Union Govt has withdrawn the lateral entry recruitment after strong opposition from our #INDIA bloc.\n\n💂‍♀ But we mus..."
+        },
+        {
+          "date": "2024-08-20",
+          "handle": "mkstalin",
+          "tweetId": "1825869826482487656",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1825869826482487656",
+          "eventType": "other",
+          "summary": "💪🏾Victory for #SocialJustice! The Union Govt has withdrawn the lateral entry recruitment after strong opposition from our #INDIA bloc.\n\n💂‍♀ But we mus..."
+        },
+        {
+          "date": "2024-08-20",
+          "handle": "mkstalin",
+          "tweetId": "1825894321037390279",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1825894321037390279",
+          "eventType": "other",
+          "summary": "💪🏾Victory for #SocialJustice! The Union Govt has withdrawn the lateral entry recruitment after strong opposition from our #INDIA bloc.\n\n💂‍♀ But we mus..."
+        },
+        {
+          "date": "2025-03-30",
+          "handle": "mkstalin",
+          "tweetId": "1906219603442999392",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1906219603442999392",
+          "eventType": "inauguration",
+          "summary": "The Union Government urged everyone to open bank accounts. Then came demonetisation, pitching #DigitalIndia.\n\nWhat followed? Charges on digital transa..."
+        },
+        {
+          "date": "2025-03-30",
+          "handle": "mkstalin",
+          "tweetId": "1906220012131549425",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1906220012131549425",
+          "eventType": "inauguration",
+          "summary": "The Union Government urged everyone to open bank accounts. Then came demonetisation, pitching #DigitalIndia.\n\nWhat followed? Charges on digital transa..."
+        },
+        {
+          "date": "2025-03-30",
+          "handle": "mkstalin",
+          "tweetId": "1906221879234273656",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1906221879234273656",
+          "eventType": "inauguration",
+          "summary": "The Union Government urged everyone to open bank accounts. Then came demonetisation, pitching #DigitalIndia.\n\nWhat followed? Charges on digital transa..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 6,
+      "aggregatedAt": "2026-02-17T17:44:43.355032+00:00"
+    },
+    {
+      "entityId": "british-council",
+      "name": "British Council",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-17",
+        "lastMention": "2024-06-17"
+      },
+      "sources": [
+        {
+          "date": "2024-06-17",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1802697367189356856",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1802697367189356856",
+          "eventType": "other",
+          "summary": "\"நான் முதல்வன்\" மற்றும் பிரிட்டிஷ் கவுன்சில் (British Council) இணைந்து நடத்திய S.C.O.U.T. (Scholars for Outstanding Undergraduate Talent in Tamilnadu)..."
+        },
+        {
+          "date": "2024-06-17",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1802698425294795058",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1802698425294795058",
+          "eventType": "other",
+          "summary": "\"நான் முதல்வன்\" மற்றும் பிரிட்டிஷ் கவுன்சில் (British Council) இணைந்து நடத்திய S.C.O.U.T. (Scholars for Outstanding Undergraduate Talent in Tamilnadu)..."
+        },
+        {
+          "date": "2024-06-17",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1802701409072320702",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1802701409072320702",
+          "eventType": "other",
+          "summary": "\"நான் முதல்வன்\" மற்றும் பிரிட்டிஷ் கவுன்சில் (British Council) இணைந்து நடத்திய S.C.O.U.T. (Scholars for Outstanding Undergraduate Talent in Tamilnadu)..."
+        },
+        {
+          "date": "2024-06-17",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1802704683145826407",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1802704683145826407",
+          "eventType": "other",
+          "summary": "\"நான் முதல்வன்\" மற்றும் பிரிட்டிஷ் கவுன்சில் (British Council) இணைந்து நடத்திய S.C.O.U.T. (Scholars for Outstanding Undergraduate Talent in Tamilnadu)..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 4,
+      "aggregatedAt": "2026-02-17T17:44:43.355006+00:00"
+    },
+    {
+      "entityId": "tnrising-investors-conclave",
+      "name": "Tnrising Investors Conclave",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 32554.0,
+        "jobsCreated": 49800
+      },
+      "timeline": {
+        "firstMention": "2025-08-04",
+        "lastMention": "2025-12-15",
+        "mouSigned": "2025-08-04"
+      },
+      "sources": [
+        {
+          "date": "2025-08-04",
+          "handle": "mkstalin",
+          "tweetId": "1952347745463026017",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1952347745463026017",
+          "eventType": "mou_signed",
+          "summary": "📝At the #Thoothukudi #TNRising Investors Conclave, MoUs worth Rs. 32,554 crore were signed, creating over 49,800 jobs across defence, electronics, gre..."
+        },
+        {
+          "date": "2025-11-22",
+          "handle": "Guidance_TN",
+          "tweetId": "1992322334041276565",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1992322334041276565",
+          "eventType": "other",
+          "summary": "TN Rising Conclave - Coimbatore\n\nStay tuned..\n\n@TRBRajaa @TNIndMin\n\n#BullishonTN #InvestinTN #JobsforTN #ProductNationTN #TNRising"
+        },
+        {
+          "date": "2025-11-24",
+          "handle": "Guidance_TN",
+          "tweetId": "1992855043020866030",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1992855043020866030",
+          "eventType": "other",
+          "summary": "Coimbatore: Where engineering grit built India’s backbone.\n\nTN Rising Conclave – Coimbatore.\n\nStay Tuned..\n\n@CMOTamilnadu @mkstalin @TRBRajaa @TNIndMi..."
+        },
+        {
+          "date": "2025-12-15",
+          "handle": "Guidance_TN",
+          "tweetId": "2000780505713934508",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2000780505713934508",
+          "eventType": "mou_signed",
+          "summary": "At the TN Rising Conclave – Madurai, Advanced International Aviation Academy excahnged an MoU in the presence of the Hon’ble Chief Minister (@CMOTamil..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin",
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 4,
+      "aggregatedAt": "2026-02-17T17:44:43.355102+00:00"
+    },
+    {
+      "entityId": "tn-sc",
+      "name": "Tn Sc",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-27",
+        "lastMention": "2025-06-25",
+        "inauguration": "2025-06-25"
+      },
+      "sources": [
+        {
+          "date": "2024-06-27",
+          "handle": "mkstalin",
+          "tweetId": "1806241298409816311",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1806241298409816311",
+          "eventType": "scheme_launch",
+          "summary": "இன்று #MSMEDay!\n\nநமது #DravidianModel அரசு அமைந்த பிறகு,\n\n🕴🏾அண்ணல் அம்பேத்கர் தொழில் முன்னோடிகள் திட்டம் (AABCS),\n\n💰 பட்டியலினத்தவர் மற்றும் பழங்குடிய..."
+        },
+        {
+          "date": "2024-06-27",
+          "handle": "mkstalin",
+          "tweetId": "1806242943139012895",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1806242943139012895",
+          "eventType": "scheme_launch",
+          "summary": "இன்று #MSMEDay!\n\nநமது #DravidianModel அரசு அமைந்த பிறகு,\n\n🕴🏾அண்ணல் அம்பேத்கர் தொழில் முன்னோடிகள் திட்டம் (AABCS),\n\n💰 பட்டியலினத்தவர் மற்றும் பழங்குடிய..."
+        },
+        {
+          "date": "2025-06-25",
+          "handle": "TRBRajaa",
+          "tweetId": "1937878570182791518",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1937878570182791518",
+          "eventType": "inauguration",
+          "summary": "#திராவிட_நாயகன் அழைக்கிறார் !\n\nஓரணியில் தமிழ்நாட்டை ஒருங்கிணைக்க உடன்பிறப்பே வா !\n\nதமிழ்நாட்டை வஞ்சிக்கும் பாஜகவையும் அதற்கு துணை போகும் துரோகத்தை செய..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.355010+00:00"
+    },
+    {
+      "entityId": "southern-tamil-nadu",
+      "name": "Southern Tamil Nadu",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-21",
+        "lastMention": "2025-09-21"
+      },
+      "sources": [
+        {
+          "date": "2025-09-21",
+          "handle": "mkstalin",
+          "tweetId": "1969661411543695692",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1969661411543695692",
+          "eventType": "other",
+          "summary": "சங்கப்பாடல்கள் சொல்லும் கப்பற்கலையில் தமிழரின் பெருமைமிகு வரலாற்றை!\n\nஇப்போது, தூத்துக்குடியில் 30 ஆயிரம் கோடி ரூபாய் முதலீட்டில், 55 ஆயிரம் பேர் வேலைவ..."
+        },
+        {
+          "date": "2025-09-21",
+          "handle": "mkstalin",
+          "tweetId": "1969664740747329668",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1969664740747329668",
+          "eventType": "other",
+          "summary": "சங்கப்பாடல்கள் சொல்லும் கப்பற்கலையில் தமிழரின் பெருமைமிகு வரலாற்றை!\n\nஇப்போது, தூத்துக்குடியில் 30 ஆயிரம் கோடி ரூபாய் முதலீட்டில், 55 ஆயிரம் பேர் வேலைவ..."
+        },
+        {
+          "date": "2025-09-21",
+          "handle": "mkstalin",
+          "tweetId": "1969667467757961690",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1969667467757961690",
+          "eventType": "other",
+          "summary": "சங்கப்பாடல்கள் சொல்லும் கப்பற்கலையில் தமிழரின் பெருமைமிகு வரலாற்றை!\n\nஇப்போது, தூத்துக்குடியில் 30 ஆயிரம் கோடி ரூபாய் முதலீட்டில், 55 ஆயிரம் பேர் வேலைவ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.355128+00:00"
+    },
+    {
+      "entityId": "nettur-technical-training-foundation",
+      "name": "Nettur Technical Training Foundation",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-06",
+        "lastMention": "2024-07-06",
+        "groundBreaking": "2024-07-06"
+      },
+      "sources": [
+        {
+          "date": "2024-07-06",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1809505894750908478",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1809505894750908478",
+          "eventType": "ground_breaking",
+          "summary": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலத்துறையின் விரிவான பழங்குடியினர் மேம்பாட்டுத் திட்டத்தின் கீழ்,  Nettur Technical  Training Foundation (NTTF) நிற..."
+        },
+        {
+          "date": "2024-07-06",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1809506652313514097",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1809506652313514097",
+          "eventType": "ground_breaking",
+          "summary": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலத்துறையின் விரிவான பழங்குடியினர் மேம்பாட்டுத் திட்டத்தின் கீழ்,  Nettur Technical  Training Foundation (NTTF) நிற..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "under_construction",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.355017+00:00"
+    },
+    {
+      "entityId": "advanced-development-center-focussed",
+      "name": "Advanced Development Center Focussed",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-30",
+        "lastMention": "2024-08-30",
+        "mouSigned": "2024-08-30"
+      },
+      "sources": [
+        {
+          "date": "2024-08-30",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1829390474232418504",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1829390474232418504",
+          "eventType": "mou_signed",
+          "summary": "அமெரிக்கா நாட்டின் சான்பிரான்சிஸ்கோ நகரில் நடைபெற்ற முதலீட்டாளர்கள் மாநாட்டில் பேபால் நிறுவனத்திற்கும் தமிழ்நாடு அரசிற்கும் இடையே சுமார் 1000 நபர்களுக..."
+        },
+        {
+          "date": "2024-08-30",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1829402375154786518",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1829402375154786518",
+          "eventType": "mou_signed",
+          "summary": "அமெரிக்கா நாட்டின் சான்பிரான்சிஸ்கோ நகரில் நடைபெற்ற முதலீட்டாளர்கள் மாநாட்டில் பேபால் நிறுவனத்திற்கும் தமிழ்நாடு அரசிற்கும் இடையே சுமார் 1000 நபர்களுக..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.355035+00:00"
+    },
+    {
+      "entityId": "trbrajaa-dmk",
+      "name": "Trbrajaa Dmk",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-29",
+        "lastMention": "2025-01-21"
+      },
+      "sources": [
+        {
+          "date": "2024-10-29",
+          "handle": "DrMartinX",
+          "tweetId": "1851517151389126691",
+          "fxUrl": "https://fxtwitter.com/DrMartinX/status/1851517151389126691",
+          "eventType": "scheme_launch",
+          "summary": "@TRBRajaa DMK's path-breaking schemes:\n1. Naan Mudhalvan to skill our youth to get jobs\n2. Vidiyal Payanam & Magalir Urimai Thogai to empower our wome..."
+        },
+        {
+          "date": "2025-01-21",
+          "handle": "ndtv",
+          "tweetId": "1881787065161175339",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/1881787065161175339",
+          "eventType": "other",
+          "summary": "#NDTVAtDavos | \"We are keen on creating high-end and high-value jobs\": TRB Rajaa (@TRBRajaa), Industries Minister, Tamil Nadu, to NDTV's Vishnu Som (@..."
+        }
+      ],
+      "accountsCovering": [
+        "DrMartinX",
+        "ndtv"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.355055+00:00"
+    },
+    {
+      "entityId": "sectoral-gccs",
+      "name": "Sectoral Gccs",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-20",
+        "lastMention": "2025-08-20"
+      },
+      "sources": [
+        {
+          "date": "2025-08-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1958133410041655590",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1958133410041655590",
+          "eventType": "expansion",
+          "summary": "Come what may, we must keep moving forward !🙏🏾\n\nSectoral GCCs are the way to go for Tamil Nadu ! \n\nAt @Guidance_TN this afternoon, I had the opportuni..."
+        },
+        {
+          "date": "2025-08-20",
+          "handle": "TRBRajaa",
+          "tweetId": "1958395747310923819",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1958395747310923819",
+          "eventType": "expansion",
+          "summary": "Come what may, we must keep moving forward !🙏🏾\n\nSectoral GCCs are the way to go for Tamil Nadu ! \n\nAt @Guidance_TN this afternoon, I had the opportuni..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.355114+00:00"
+    },
+    {
+      "entityId": "ags-health",
+      "name": "Ags Health",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-05",
+        "lastMention": "2025-11-05"
+      },
+      "sources": [
+        {
+          "date": "2025-11-05",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1985989600997675248",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1985989600997675248",
+          "eventType": "other",
+          "summary": "தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் வேலூரில் 32 கோடி ரூபாய் செலவில் 600 தகவல் தொழில்நுட்ப வல்லுநர்களுக்கு புதிய வேலைவாய்ப்பு..."
+        },
+        {
+          "date": "2025-11-05",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1985989763632181264",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1985989763632181264",
+          "eventType": "other",
+          "summary": "தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் வேலூரில் 32 கோடி ரூபாய் செலவில் 600 தகவல் தொழில்நுட்ப வல்லுநர்களுக்கு புதிய வேலைவாய்ப்பு..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.355135+00:00"
+    },
+    {
+      "entityId": "roy-overseas",
+      "name": "Roy Overseas",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-14",
+        "lastMention": "2024-06-14"
+      },
+      "sources": [
+        {
+          "date": "2024-06-14",
+          "handle": "SparkPluz_",
+          "tweetId": "1801627851814539755",
+          "fxUrl": "https://fxtwitter.com/SparkPluz_/status/1801627851814539755",
+          "eventType": "other",
+          "summary": "#BREAKING | குஜராத்தில் நீட் தேர்வில் மோசடி நடந்தது போலீஸ் விசாரணையில் கண்டுபிடிப்பு\n\nபயிற்சி மைய நிர்வாகி, ஆசிரியர்கள், பெற்றோர் இடையே ₹2.68 கோடி பணப..."
+        }
+      ],
+      "accountsCovering": [
+        "SparkPluz_"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.354992+00:00"
+    },
+    {
+      "entityId": "another-global-giant",
+      "name": "Another Global Giant",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-04",
+        "lastMention": "2024-07-04",
+        "inauguration": "2024-07-04"
+      },
+      "sources": [
+        {
+          "date": "2024-07-04",
+          "handle": "TRBRajaa",
+          "tweetId": "1808821100731629755",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1808821100731629755",
+          "eventType": "inauguration",
+          "summary": "Another Global Giant's world's largest GCC is now in #Chennai🎊\n\nIt was my pleasure to participate in the inauguration of Astra Zeneca’s new campus in ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355012+00:00"
+    },
+    {
+      "entityId": "cardio-pulmonary-resuscitation",
+      "name": "Cardio Pulmonary Resuscitation",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-06",
+        "lastMention": "2024-07-06",
+        "inauguration": "2024-07-06"
+      },
+      "sources": [
+        {
+          "date": "2024-07-06",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1809495322084999443",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1809495322084999443",
+          "eventType": "inauguration",
+          "summary": "இந்திய மருத்துவ சங்கம் தமிழ்நாடு கிளையின் சார்பில் தமிழ்நாட்டில் உள்ள அனைத்து மக்களுக்கும் அடிப்படை உயிா்காக்கும் பயிற்சி (Cardio Pulmonary Resuscitat..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355015+00:00"
+    },
+    {
+      "entityId": "women-empowerment",
+      "name": "Women Empowerment",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 8.0
+      },
+      "timeline": {
+        "firstMention": "2024-08-05",
+        "lastMention": "2024-08-05",
+        "mouSigned": "2024-08-05"
+      },
+      "sources": [
+        {
+          "date": "2024-08-05",
+          "handle": "sathyantweets",
+          "tweetId": "1820367488716280087",
+          "fxUrl": "https://fxtwitter.com/sathyantweets/status/1820367488716280087",
+          "eventType": "mou_signed",
+          "summary": "Women Empowerment in Tamil Nadu, by the Dravidian model Govt of the impeccable CM .@mkstalin \n\n1. Women in Workforce: Tamil Nadu leads in women’s work..."
+        }
+      ],
+      "accountsCovering": [
+        "sathyantweets"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355020+00:00"
+    },
+    {
+      "entityId": "number-one",
+      "name": "Number One",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-30",
+        "lastMention": "2024-09-30"
+      },
+      "sources": [
+        {
+          "date": "2024-09-30",
+          "handle": "Kalaignarnews",
+          "tweetId": "1840788644493222397",
+          "fxUrl": "https://fxtwitter.com/Kalaignarnews/status/1840788644493222397",
+          "eventType": "other",
+          "summary": "வேலைவாய்ப்பு வழங்குவதில்  Number One மாநிலம் தமிழ்நாடு ! \n\n#CMMKStalin #TNInvest #TNGovernment #KalaignarSeithigal"
+        }
+      ],
+      "accountsCovering": [
+        "Kalaignarnews"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355041+00:00"
+    },
+    {
+      "entityId": "hrd-awards",
+      "name": "Hrd Awards",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-07",
+        "lastMention": "2024-10-07"
+      },
+      "sources": [
+        {
+          "date": "2024-10-07",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1843191265468510530",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1843191265468510530",
+          "eventType": "other",
+          "summary": "பஹ்ரைன் நாட்டின் முன்னாள் அமைச்சரும், ஆசிய HRD விருது குழுத் தலைவருமான திரு. ஃபாமி ஜோவ்தர், மாலத்தீவு நாட்டின் முன்னாள் ஜனாதிபதியும், ஆசிய HRD விருது ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355048+00:00"
+    },
+    {
+      "entityId": "fantastic-news",
+      "name": "Fantastic News",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-09",
+        "lastMention": "2024-10-09"
+      },
+      "sources": [
+        {
+          "date": "2024-10-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1844046921368850649",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1844046921368850649",
+          "eventType": "other",
+          "summary": "🌟FANTASTIC NEWS 🌟\nOur Honourable @CMOTamilnadu @mkstalin's dream of taking growth to every corner of #TamilNadu is gaining huge traction !\n\n#Thanjavur..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355050+00:00"
+    },
+    {
+      "entityId": "great-news",
+      "name": "Great News",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-28",
+        "lastMention": "2024-10-28",
+        "inauguration": "2024-10-28"
+      },
+      "sources": [
+        {
+          "date": "2024-10-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1850899810892874078",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1850899810892874078",
+          "eventType": "inauguration",
+          "summary": "GREAT NEWS for  #Thoothukudi. 🎊\n\n#TIDELNeo in Thoothukudi is 🌟FULLY  LEASED🌟 even before it's official Opening 🌄🙏🏾\n\nOur Honourable @CMOTamilnadu @mkst..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355053+00:00"
+    },
+    {
+      "entityId": "tamil-nadu-state-level-placement-program",
+      "name": "Tamil Nadu State Level Placement Program",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-13",
+        "lastMention": "2024-11-13",
+        "inauguration": "2024-11-13"
+      },
+      "sources": [
+        {
+          "date": "2024-11-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1856565741035643127",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1856565741035643127",
+          "eventType": "inauguration",
+          "summary": "We are thrilled to launch the 2024-25 campus #hiring season as part of the #NaanMudhalvan - #TNSLPP (Tamil Nadu State Level Placement Program)!\n\nThis ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355057+00:00"
+    },
+    {
+      "entityId": "otto-yang",
+      "name": "Otto Yang",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-15",
+        "lastMention": "2024-11-15",
+        "groundBreaking": "2024-11-15"
+      },
+      "sources": [
+        {
+          "date": "2024-11-15",
+          "handle": "TRBRajaa",
+          "tweetId": "1857345059512816072",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1857345059512816072",
+          "eventType": "ground_breaking",
+          "summary": "தமிழ்நாட்டில் மேலும் ஒரு தோல் அல்லாத காலணித் தொழிற்சாலை! 🚀\n\n #TNGIM2024ன் மேலும் ஒரு ஒப்பந்தம் இன்று முதலீடாக மாறியது! 🎊\n\nஇன்று #Ariyalur மாவட்டத்தில்..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "under_construction",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355059+00:00"
+    },
+    {
+      "entityId": "tidel-neo",
+      "name": "Tidel Neo",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-22",
+        "lastMention": "2024-11-22"
+      },
+      "sources": [
+        {
+          "date": "2024-11-22",
+          "handle": "Kalaignarnews",
+          "tweetId": "1859933824878297502",
+          "fxUrl": "https://fxtwitter.com/Kalaignarnews/status/1859933824878297502",
+          "eventType": "scheme_launch",
+          "summary": "ஒட்டுமொத்த தமிழ்நாட்டிலும் IT தொழில் புரட்சி!\n\nகோவிட் பெருந்தொற்றுக்கு பிறகு வேலைவாய்ப்பினை வீட்டில் இருந்த படியே உறுதியாக்கும் வகையில், கொண்டுவரப்பட்..."
+        }
+      ],
+      "accountsCovering": [
+        "Kalaignarnews"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355060+00:00"
+    },
+    {
+      "entityId": "now-full",
+      "name": "Now Full",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-13",
+        "lastMention": "2024-12-13",
+        "inauguration": "2024-12-13"
+      },
+      "sources": [
+        {
+          "date": "2024-12-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1867594538652418087",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1867594538652418087",
+          "eventType": "inauguration",
+          "summary": "Another #TIDELNeo is Now FULL. 🌟\n\n#TIDELNeoSalem has reached full capacity ! 🎉 \n\nIt is now officially 100% occupied. The demand has exceeded expectati..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355062+00:00"
+    },
+    {
+      "entityId": "scouts-jamboree",
+      "name": "Scouts Jamboree",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-02-02",
+        "lastMention": "2025-02-02"
+      },
+      "sources": [
+        {
+          "date": "2025-02-02",
+          "handle": "TRBRajaa",
+          "tweetId": "1886046275214201262",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1886046275214201262",
+          "eventType": "other",
+          "summary": "Scouts salute @Anbil_Mahesh ⚜️\nFantastic job in organising the Scouts Jamboree 2025👏🏽👏🏽👏🏽⚜️\n\nYou have once again showcased the organisational skills o..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355064+00:00"
+    },
+    {
+      "entityId": "tamil-nadu-deputy-cm-udhayanidhi-stalin",
+      "name": "Tamil Nadu Deputy Cm Udhayanidhi Stalin",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-22",
+        "lastMention": "2025-03-22"
+      },
+      "sources": [
+        {
+          "date": "2025-03-22",
+          "handle": "ANI",
+          "tweetId": "1903345859397554614",
+          "fxUrl": "https://fxtwitter.com/ANI/status/1903345859397554614",
+          "eventType": "milestone",
+          "summary": "#WATCH | Chennai: At the meeting on delimitation, Tamil Nadu Deputy CM Udhayanidhi Stalin says, \"...For decades, States present here have made signifi..."
+        }
+      ],
+      "accountsCovering": [
+        "ANI"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355070+00:00"
+    },
+    {
+      "entityId": "deputy-cm-thiru",
+      "name": "Deputy Cm Thiru",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-22",
+        "lastMention": "2025-03-22"
+      },
+      "sources": [
+        {
+          "date": "2025-03-22",
+          "handle": "DMKITwing",
+          "tweetId": "1903345955929293138",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1903345955929293138",
+          "eventType": "milestone",
+          "summary": "Our state successfully controlled population growth through policies and awareness, achieving the replacement rate early. However, instead of being re..."
+        }
+      ],
+      "accountsCovering": [
+        "DMKITwing"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355075+00:00"
+    },
+    {
+      "entityId": "iit-madras",
+      "name": "Iit Madras",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-19",
+        "lastMention": "2025-04-19",
+        "inauguration": "2025-04-19"
+      },
+      "sources": [
+        {
+          "date": "2025-04-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1913502664622481512",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1913502664622481512",
+          "eventType": "inauguration",
+          "summary": "எந்தத் துறையாக இருந்தாலும் அதில் இந்தியாவுக்கே முன்னோடியாகத் திகழும் திராவிட மாடல் தமிழ்நாட்டின் மற்றுமொரு அறிவியல் பாய்ச்சல்தான் மாண்புமிகு முதலமைச்ச..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355077+00:00"
+    },
+    {
+      "entityId": "governors",
+      "name": "Governors",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-27",
+        "lastMention": "2025-04-27"
+      },
+      "sources": [
+        {
+          "date": "2025-04-27",
+          "handle": "DMKITwing",
+          "tweetId": "1916534650324869236",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1916534650324869236",
+          "eventType": "other",
+          "summary": "The Governors are not agents of the Centre. \n\nThe Governor is not a super-legislature!\n\nThe Governor is not a super-government. \n\nThe Governor's job i..."
+        }
+      ],
+      "accountsCovering": [
+        "DMKITwing"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355079+00:00"
+    },
+    {
+      "entityId": "gedee-technical-training-institute",
+      "name": "Gedee Technical Training Institute",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-09",
+        "lastMention": "2025-05-09",
+        "mouSigned": "2025-05-09"
+      },
+      "sources": [
+        {
+          "date": "2025-05-09",
+          "handle": "Guidance_TN",
+          "tweetId": "1921059578940100799",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1921059578940100799",
+          "eventType": "mou_signed",
+          "summary": "Did you know?\n\nGedee Technical Training Institute (GTTI), located in #Coimbatore, is the first-of-its-kind institute in India to offer vocational trai..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355081+00:00"
+    },
+    {
+      "entityId": "delhi-control",
+      "name": "Delhi Control",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-09",
+        "lastMention": "2025-06-09",
+        "inauguration": "2025-06-09"
+      },
+      "sources": [
+        {
+          "date": "2025-06-09",
+          "handle": "regupathymla",
+          "tweetId": "1932008279896740351",
+          "fxUrl": "https://fxtwitter.com/regupathymla/status/1932008279896740351",
+          "eventType": "inauguration",
+          "summary": "*‘டெல்லி அடிமை’ என்பதை மீண்டும் மீண்டும் நிரூபித்து வருகிறார் பழனிசாமி.\n\nதாம்பரம் அரசு சேவை இல்லத்தில் காவலாளியால் மாணவிக்கு நிகழ்ந்த பாலியல் துன்புறு..."
+        }
+      ],
+      "accountsCovering": [
+        "regupathymla"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355083+00:00"
+    },
+    {
+      "entityId": "global-capability-centre",
+      "name": "Global Capability Centre",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-18",
+        "lastMention": "2025-06-18"
+      },
+      "sources": [
+        {
+          "date": "2025-06-18",
+          "handle": "Guidance_TN",
+          "tweetId": "1935336089516187794",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1935336089516187794",
+          "eventType": "expansion",
+          "summary": "Chennai has rapidly expanded its Global Capability Centre (#GCC) footprint, growing from 150 GCCs in 2021 to 305 by 2025. In 2024, 60 new GCCs were es..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355084+00:00"
+    },
+    {
+      "entityId": "tn-skills",
+      "name": "Tn Skills",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-01",
+        "lastMention": "2025-07-01",
+        "inauguration": "2025-07-01"
+      },
+      "sources": [
+        {
+          "date": "2025-07-01",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1939965458578313454",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1939965458578313454",
+          "eventType": "inauguration",
+          "summary": "சென்னை, ஜவஹர்லால் நேரு உள்விளையாட்டு அரங்கத்தில் நடைபெற்ற \"நான் முதல்வன்\" மூன்றாண்டு வெற்றி விழா மற்றும் \"வெற்றி நிச்சயம்\" திட்ட தொடக்க விழாவில், தமிழ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355091+00:00"
+    },
+    {
+      "entityId": "thirdwave-corporation",
+      "name": "Thirdwave Corporation",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-01",
+        "lastMention": "2025-07-01",
+        "inauguration": "2025-07-01"
+      },
+      "sources": [
+        {
+          "date": "2025-07-01",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1939967944672383247",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1939967944672383247",
+          "eventType": "inauguration",
+          "summary": "சென்னை, ஜவஹர்லால் நேரு உள்விளையாட்டு அரங்கத்தில் நடைபெற்ற \"நான் முதல்வன்\" மூன்றாண்டு வெற்றி விழா நிகழ்ச்சியில், \"வெற்றி நிச்சயம்\" திட்டத்தினை மாண்புமி..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355092+00:00"
+    },
+    {
+      "entityId": "texas-instruments",
+      "name": "Texas Instruments",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-01",
+        "lastMention": "2025-07-01",
+        "inauguration": "2025-07-01"
+      },
+      "sources": [
+        {
+          "date": "2025-07-01",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1939968713400172893",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1939968713400172893",
+          "eventType": "inauguration",
+          "summary": "சென்னை, ஜவஹர்லால் நேரு உள்விளையாட்டு அரங்கத்தில் நடைபெற்ற \"நான் முதல்வன்\" மூன்றாண்டு வெற்றி விழா நிகழ்ச்சியில், \"வெற்றி நிச்சயம்\" திட்டத்தினை மாண்புமி..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355094+00:00"
+    },
+    {
+      "entityId": "seaweed-scenario",
+      "name": "Seaweed Scenario",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-23",
+        "lastMention": "2025-07-23"
+      },
+      "sources": [
+        {
+          "date": "2025-07-23",
+          "handle": "Guidance_TN",
+          "tweetId": "1948032199640678721",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1948032199640678721",
+          "eventType": "other",
+          "summary": "Thoothukudi’s #Seaweed Scenario is Making Waves\n\nIn #Thoothukudi, this ocean-grown wonder is poised to become a game-changer in creating sustainable j..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355096+00:00"
+    },
+    {
+      "entityId": "prime-location",
+      "name": "Prime Location",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-29",
+        "lastMention": "2025-07-29"
+      },
+      "sources": [
+        {
+          "date": "2025-07-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1950208169474662668",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1950208169474662668",
+          "eventType": "other",
+          "summary": "#TNRising to greater heights in the Fintech sector too and so is the #FintechTower being built by @TIDCO_1965 🌟\n\nInspected works this evening and lear..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355097+00:00"
+    },
+    {
+      "entityId": "guidance-tamil-nadu",
+      "name": "Guidance Tamil Nadu",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-02",
+        "lastMention": "2025-08-02",
+        "mouSigned": "2025-08-02"
+      },
+      "sources": [
+        {
+          "date": "2025-08-02",
+          "handle": "Guidance_TN",
+          "tweetId": "1951564692293578891",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1951564692293578891",
+          "eventType": "mou_signed",
+          "summary": "Guidance Tamil Nadu has signed an MoU with KritiLabs Technologies!\n\nKritiLabs is a #Chennai-based deep tech company building #AI and #IoT-driven solut..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355100+00:00"
+    },
+    {
+      "entityId": "tata-power-solar",
+      "name": "Tata Power Solar",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-04",
+        "lastMention": "2025-08-04",
+        "inauguration": "2025-08-04"
+      },
+      "sources": [
+        {
+          "date": "2025-08-04",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1952374320325628308",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1952374320325628308",
+          "eventType": "inauguration",
+          "summary": "தூத்துக்குடி மாவட்டம், சிப்காட் சிலாநத்தம் தொழிற்பூங்காவில் வின்ஃபாஸ்ட் நிறுவனத்தின் மின் வாகன உற்பத்தி ஆலையை மாண்புமிகு முதலமைச்சர் @mkstalin அவர்கள்..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355108+00:00"
+    },
+    {
+      "entityId": "jobsfortn-pic",
+      "name": "Jobsfortn Pic",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-06",
+        "lastMention": "2025-08-06"
+      },
+      "sources": [
+        {
+          "date": "2025-08-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1952917191592157563",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1952917191592157563",
+          "eventType": "other",
+          "summary": "🎊🎊🎊அற்புதமான செய்தி 🎊🎊🎊\n\nபுதிய உச்சம் தொட்டது தமிழ்நாடு !!!\n \nஇந்தியாவிலேயே மிக விரைவாக வளரும் பொருளாதாரமாகத் திகழ்கிறது மாண்புமிகு திராவிட நாயகன் @CM..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355110+00:00"
+    },
+    {
+      "entityId": "gcc-next-summit",
+      "name": "Gcc Next Summit",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-07",
+        "lastMention": "2025-08-07"
+      },
+      "sources": [
+        {
+          "date": "2025-08-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1953527038197084441",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1953527038197084441",
+          "eventType": "milestone",
+          "summary": "🌟What a pleasant surprise at the the GCC NEXT Summit 2025 this morning !\n\nI had the privilege of joining my dear friend @sureshsambandam for a lively ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355112+00:00"
+    },
+    {
+      "entityId": "rahulgandhi-great",
+      "name": "Rahulgandhi Great",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-27",
+        "lastMention": "2025-08-27"
+      },
+      "sources": [
+        {
+          "date": "2025-08-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1960729540634050758",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1960729540634050758",
+          "eventType": "other",
+          "summary": "@AlimAlbuhari @SPK_TNCC @mkstalin @KanimozhiDMK @RahulGandhi Great job 🌟👏🏽👏🏽👏🏽"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355116+00:00"
+    },
+    {
+      "entityId": "jobsfortn-photo-courtesy",
+      "name": "Jobsfortn Photo Courtesy",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-28",
+        "lastMention": "2025-08-28",
+        "mouSigned": "2025-08-28"
+      },
+      "sources": [
+        {
+          "date": "2025-08-28",
+          "handle": "Guidance_TN",
+          "tweetId": "1960937016327069845",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1960937016327069845",
+          "eventType": "mou_signed",
+          "summary": "All hands on deck: the future of shipbuilding is anchored in #TamilNadu.\n\nWith a coastline that connects worlds, advanced industrial infrastructure, a..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355118+00:00"
+    },
+    {
+      "entityId": "chief-minister",
+      "name": "Chief Minister",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 300.0,
+        "jobsCreated": 543
+      },
+      "timeline": {
+        "firstMention": "2025-09-03",
+        "lastMention": "2025-09-03",
+        "mouSigned": "2025-09-03"
+      },
+      "sources": [
+        {
+          "date": "2025-09-03",
+          "handle": "Guidance_TN",
+          "tweetId": "1963271020946546743",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1963271020946546743",
+          "eventType": "mou_signed",
+          "summary": "#TamilNadu is stepping up on the global stage with strategic partnerships in niche and emerging sectors! \n\nThe #UK leg of the #TNRising #EuropeConclav..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355120+00:00"
+    },
+    {
+      "entityId": "hon",
+      "name": "Hon",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-11",
+        "lastMention": "2025-09-11",
+        "mouSigned": "2025-09-11"
+      },
+      "sources": [
+        {
+          "date": "2025-09-11",
+          "handle": "Guidance_TN",
+          "tweetId": "1966100076583072023",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1966100076583072023",
+          "eventType": "mou_signed",
+          "summary": "At the #Hosur chapter of #TNInvestorsConclave, #TamilNadu showcased its leadership in industry–academia–government linkages. \nThe Hon’ble Chief Minist..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355126+00:00"
+    },
+    {
+      "entityId": "honourable-cm",
+      "name": "Honourable Cm",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-26",
+        "lastMention": "2025-09-26",
+        "inauguration": "2025-09-26"
+      },
+      "sources": [
+        {
+          "date": "2025-09-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1971596033215099093",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1971596033215099093",
+          "eventType": "inauguration",
+          "summary": "While the opposition consistently fails to wrap it's head around the facts which the Honourable CM of TN and myself have been stating ever so often, h..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355130+00:00"
+    },
+    {
+      "entityId": "ehime-nissan",
+      "name": "Ehime Nissan",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-10",
+        "lastMention": "2025-10-10",
+        "mouSigned": "2025-10-10"
+      },
+      "sources": [
+        {
+          "date": "2025-10-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1976558825131180299",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1976558825131180299",
+          "eventType": "mou_signed",
+          "summary": "It was a pleasure to participate in the signing of an MoU between @Guidance_TN and Ehime Nissan to establish an Automotive Technician Training School ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355132+00:00"
+    },
+    {
+      "entityId": "skilled-talent",
+      "name": "Skilled Talent",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-04",
+        "lastMention": "2025-11-04",
+        "mouSigned": "2025-11-04"
+      },
+      "sources": [
+        {
+          "date": "2025-11-04",
+          "handle": "Guidance_TN",
+          "tweetId": "1985735692451004480",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1985735692451004480",
+          "eventType": "mou_signed",
+          "summary": "Taking #TamilNadu’s Skilled Talent to the World!\n\nTeam @Guidance_TN participated in a high-impact roundtable organised by @TamilNaduSDG and @TN_Plan, ..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355134+00:00"
+    },
+    {
+      "entityId": "scm-garments",
+      "name": "Scm Garments",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-13",
+        "lastMention": "2025-11-13",
+        "mouSigned": "2025-11-13"
+      },
+      "sources": [
+        {
+          "date": "2025-11-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1988886782843486541",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1988886782843486541",
+          "eventType": "mou_signed",
+          "summary": "🎊வரலாற்று சிறப்புமிக்க நாள்🌟\n\nதிருவாரூர் மாவட்டம் #மன்னார்குடி யில் கிராமப்புற பெண்களுக்கு ஆயிரக்கணக்கான புதிய வேலைவாய்ப்புகள் ! SCM Garments (சென்னை ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355137+00:00"
+    },
+    {
+      "entityId": "leading-smbc",
+      "name": "Leading Smbc",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-18",
+        "lastMention": "2025-11-18"
+      },
+      "sources": [
+        {
+          "date": "2025-11-18",
+          "handle": "Guidance_TN",
+          "tweetId": "1990794129786483185",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1990794129786483185",
+          "eventType": "other",
+          "summary": "Chennaiite at the Helm: Leading SMBC’s Global Journey from Home\n\nIt’s a double delight for us, welcoming SMBC Group (Sumitomo Mitsui Banking Corporati..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355143+00:00"
+    },
+    {
+      "entityId": "with-wonderla-chennai",
+      "name": "With Wonderla Chennai",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-01",
+        "lastMention": "2025-12-01",
+        "inauguration": "2025-12-01"
+      },
+      "sources": [
+        {
+          "date": "2025-12-01",
+          "handle": "Guidance_TN",
+          "tweetId": "1995438564096774514",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1995438564096774514",
+          "eventType": "inauguration",
+          "summary": "From culture and nature to adventure and world-class entertainment, Chennai’s leisure landscape offers something for everyone. With Wonderla Chennai n..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355145+00:00"
+    },
+    {
+      "entityId": "driving-employment",
+      "name": "Driving Employment",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-09",
+        "lastMention": "2025-12-09"
+      },
+      "sources": [
+        {
+          "date": "2025-12-09",
+          "handle": "Guidance_TN",
+          "tweetId": "1998451467687178398",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1998451467687178398",
+          "eventType": "expansion",
+          "summary": "Driving Employment & Growth Across Southern Tamil Nadu\n\nAt TN Rising – Madurai 2025, Hon’ble Chief Minister (@CMOTamilnadu) Thiru M.K. Stalin (@mkstal..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355147+00:00"
+    },
+    {
+      "entityId": "itwing-hq",
+      "name": "Itwing Hq",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-13",
+        "lastMention": "2025-12-13"
+      },
+      "sources": [
+        {
+          "date": "2025-12-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1999902400300408945",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1999902400300408945",
+          "eventType": "other",
+          "summary": "#திராவிட_நாயகன் நம் கழகத்தலைவர் மாண்புமிகு முதலமைச்சர் @mkstalin அவர்களின் வழிகாட்டுதலில் 2026 சட்டமன்றத் தேர்தலில் புதுச்சேரி மாநிலத்திலும் தி.மு.கழக..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355149+00:00"
+    },
+    {
+      "entityId": "times-india",
+      "name": "Times India",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-28",
+        "lastMention": "2025-12-28",
+        "inauguration": "2025-12-28"
+      },
+      "sources": [
+        {
+          "date": "2025-12-28",
+          "handle": "Rebellionaire1",
+          "tweetId": "2005150890345542010",
+          "fxUrl": "https://fxtwitter.com/Rebellionaire1/status/2005150890345542010",
+          "eventType": "inauguration",
+          "summary": "தமிழ்நாட்டில் IAS, IPS \nவெற்றியாளர்கள்  எண்ணிக்கை \nஅதிகமானது எப்படி?\n👇👇👇👇👇\n----------\nTIMES OF INDIA வில் \nதுணை முதலமைச்சர் \nஉதயநிதி ஸ்டாலின் பதிவு \n-..."
+        }
+      ],
+      "accountsCovering": [
+        "Rebellionaire1"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355151+00:00"
+    },
+    {
+      "entityId": "hyundai-chennai",
+      "name": "Hyundai Chennai",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-15",
+        "lastMention": "2026-01-15"
+      },
+      "sources": [
+        {
+          "date": "2026-01-15",
+          "handle": "TRBRajaa",
+          "tweetId": "2011757403172409369",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2011757403172409369",
+          "eventType": "other",
+          "summary": "Fantastic #Pongal at #Hyundai Chennai ♥️\nGreat job guys !!! \n\nLove the way @HyundaiIndia celebrates with its indian family here in #TamilNadu and all ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355153+00:00"
+    },
+    {
+      "entityId": "startupsingam-season",
+      "name": "Startupsingam Season",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-22",
+        "lastMention": "2026-01-22",
+        "groundBreaking": "2026-01-22"
+      },
+      "sources": [
+        {
+          "date": "2026-01-22",
+          "handle": "TRBRajaa",
+          "tweetId": "2014302816484077819",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2014302816484077819",
+          "eventType": "ground_breaking",
+          "summary": "It was pleasure to be a part of the launch of #StartupSingam Season 2 ! \n\nStartup Singam brings founders, investors, and the public onto one common st..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "under_construction",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355154+00:00"
+    },
+    {
+      "entityId": "thrivetn-summit",
+      "name": "Thrivetn Summit",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-24",
+        "lastMention": "2026-01-24",
+        "inauguration": "2026-01-24"
+      },
+      "sources": [
+        {
+          "date": "2026-01-24",
+          "handle": "TRBRajaa",
+          "tweetId": "2015001475857219845",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2015001475857219845",
+          "eventType": "inauguration",
+          "summary": "Attended the #ThriveTN Summit today at Ethiraj College and gave a few insights to the students and entrepreneurs on the growth trajectory and directio..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355156+00:00"
+    },
+    {
+      "entityId": "namma-office",
+      "name": "Namma Office",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-31",
+        "lastMention": "2026-01-31"
+      },
+      "sources": [
+        {
+          "date": "2026-01-31",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2017537681891463656",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2017537681891463656",
+          "eventType": "other",
+          "summary": "தொழில், முதலீட்டு ஊக்குவிப்பு மற்றும் வர்த்தகத் துறை சார்பில் சிவகங்கை மாவட்டம் காரைக்குடியில் 28 கோடி ரூபாய் செலவில் 600 தகவல் தொழிற்நுட்ப வல்லுநர்கள..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355157+00:00"
+    },
+    {
+      "entityId": "tamil-nadu-global-tourism-summit",
+      "name": "Tamil Nadu Global Tourism Summit",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-02-03",
+        "lastMention": "2026-02-03",
+        "mouSigned": "2026-02-03"
+      },
+      "sources": [
+        {
+          "date": "2026-02-03",
+          "handle": "Guidance_TN",
+          "tweetId": "2018600655850758513",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/2018600655850758513",
+          "eventType": "mou_signed",
+          "summary": "At the Tamil Nadu Global Tourism Summit 2026, Tamil Nadu further deepened its long-standing partnership with the Vingroup, exchanging an MoU in the pr..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355159+00:00"
+    },
+    {
+      "entityId": "velvom-ondraga",
+      "name": "Velvom Ondraga",
+      "nameVariants": [],
+      "category": "employment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-02-06",
+        "lastMention": "2026-02-06"
+      },
+      "sources": [
+        {
+          "date": "2026-02-06",
+          "handle": "ndtv",
+          "tweetId": "2020013323748872210",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/2020013323748872210",
+          "eventType": "scheme_launch",
+          "summary": "'Velvom Ondraga' is empowering Tamil Nadu's women like never before. Free bus travel, ₹1,000 monthly aid, breakfast schemes, and skill programs are un..."
+        }
+      ],
+      "accountsCovering": [
+        "ndtv"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.355161+00:00"
+    }
+  ]
+}

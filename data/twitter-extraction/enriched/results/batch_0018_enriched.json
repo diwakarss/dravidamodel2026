@@ -1,0 +1,433 @@
+{
+  "batch": 18,
+  "processedAt": "2026-02-17T11:36:49.024999+00:00",
+  "stats": {
+    "success": 15,
+    "failed": 3,
+    "not_found": 1,
+    "blocked": 1,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://dmk4tn.in/stalin-showcased-three-tableaus-to-show-tamils-pride-in-r-day-parade/",
+      "urlHash": "84cbb19998f5",
+      "domain": "dmk4tn.in",
+      "fetchedAt": "2026-02-17T11:35:41.174406+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1486913224339431430",
+          "handle": "DMKITwing",
+          "date": "Thu Jan 27"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://theprint.in/opinion/neet-stalins-tamil-nadu-has-new-social-justice-formula-mandal-market/814968/",
+      "urlHash": "debe527767d3",
+      "domain": "theprint.in",
+      "fetchedAt": "2026-02-17T11:35:43.197332+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1487021370101751815",
+          "handle": "TRBRajaa",
+          "date": "Fri Jan 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "NEET to temples, Stalin&#039;s Tamil Nadu has a new social justice formula \u2014 Mandal plus market",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Dilip Mandal",
+      "rawText": "",
+      "extractedData": {
+        "headline": "NEET to temples, Stalin&#039;s Tamil Nadu has a new social justice formula \u2014 Mandal plus market",
+        "summary": "Stalin can perhaps sense the opposition void in the north where politics has been reduced to Hindu-Muslim binary. The DMK leader has taken the social justice baton."
+      }
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/9656717",
+      "urlHash": "50e08b80cee0",
+      "domain": "ieeexplore.ieee.org",
+      "fetchedAt": "2026-02-17T11:35:45.356477+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1488005964704129029",
+          "handle": "TRBRajaa",
+          "date": "Mon Jan 31"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones | IEEE Journals &amp; Magazine | IEEE Xplore",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. &copy; Copyright 2026 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.",
+      "extractedData": {
+        "headline": "Autonomous Detection and Deterrence of Pigeons on Buildings by Drones | IEEE Journals &amp; Magazine | IEEE Xplore",
+        "summary": "Pigeons may transmit diseases to humans and cause damages to buildings, monuments, and other infrastructure. Therefore, several control strategies have been dev"
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/opinion/columns/voices-the-budget-didnt-hear-7752120/",
+      "urlHash": "87ef03947bc3",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:35:47.748274+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1488936116539760640",
+          "handle": "ptrmadurai",
+          "date": "Wed Feb 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Palanivel Thiaga Rajan writes: Right voices are missing from budget",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Palanivel Thiaga Rajan writes: Right voices are missing from budget",
+        "summary": "Palanivel Thiaga Rajan writes: It encroaches on state&#039;s rights and domains, its politics is evident in low allocations to health, MNREGA and absence of policy push on employment generation and protection"
+      }
+    },
+    {
+      "url": "https://www.hindutamil.in/news/opinion/columns/764025-genetically-modified-dangerous-food.html",
+      "urlHash": "bf2236859ef1",
+      "domain": "hindutamil.in",
+      "fetchedAt": "2026-02-17T11:35:49.826742+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1489450151400083462",
+          "handle": "TRBRajaa",
+          "date": "Fri Feb 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0bae\u0bb0\u0baa\u0ba3\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b89\u0ba3\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bc8\u0bae\u0bc1\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf?",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0b85\u0ba9\u0ba8\u0bcd\u0ba4\u0bc1",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0bae\u0bb0\u0baa\u0ba3\u0bc1 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9 \u0b89\u0ba3\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bc8\u0bae\u0bc1\u0b95 \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf?",
+        "summary": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1, \u0ba4\u0bb0\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bae\u0bcd (FSSAI), \u0b85\u0ba4\u0ba9\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc8\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbe\u0ba9, \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0ba9 - \u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0b89\u0ba3\u0bb5\u0bc8 \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc1 \u0b9a\u0bbe\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1"
+      }
+    },
+    {
+      "url": "https://www.indiatoday.in/india/story/owaisi-shot-sachin-pandit-accused-bjp-member-up-polls-1908593-2022-02-04",
+      "urlHash": "fcff4081538a",
+      "domain": "indiatoday.in",
+      "fetchedAt": "2026-02-17T11:35:51.898512+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1489500992794406913",
+          "handle": "sardesairajdeep",
+          "date": "Fri Feb 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Man who shot at Owaisi claims to be a BJP worker - India Today",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Man who shot at Owaisi claims to be a BJP worker - India Today",
+        "summary": "Sachin Pandit, the man who shot at All India Majlis-e-Ittehadul Muslimeen chief Asaduddin Owaisi, posted a BJP membership slip on his social media profile."
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/dmk/2022/02/05/chief-minister-mk-stalin-advice-to-dmk-it-wing-cadres",
+      "urlHash": "7fdf7bb7b3aa",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:35:53.966129+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1490013761872494594",
+          "handle": "Kalaignarnews",
+          "date": "Sat Feb 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Chief Minister MK Stalin advice to DMK IT Wing cadres",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Chief Minister MK Stalin advice to DMK IT Wing cadres",
+        "summary": "Chief Minister MK Stalin advice to DMK IT Wing cadres"
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/dmk/2022/02/05/chief-minister-mk-stalin-lists-out-dmk-govts-achievements-in-dmk-it-wing-meeting",
+      "urlHash": "40dbe018595c",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:35:56.056498+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1490013766297460736",
+          "handle": "TRBRajaa",
+          "date": "Sat Feb 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Chief Minister MK Stalin lists out DMK Govt&#x27;s achievements in dmk it wing meeting",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Chief Minister MK Stalin lists out DMK Govt&#x27;s achievements in dmk it wing meeting",
+        "summary": "Chief Minister MK Stalin lists out DMK Govt&#x27;s achievements in dmk it wing meeting"
+      }
+    },
+    {
+      "url": "http://abpnadu.com",
+      "urlHash": "d64bc232a540",
+      "domain": "abpnadu.com",
+      "fetchedAt": "2026-02-17T11:35:58.133428+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1490578821464354818",
+          "handle": "abpnadu",
+          "date": "Mon Feb 07"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_301"
+    },
+    {
+      "url": "https://indianexpress.com/audio/the-sandip-roy-show/what-we-dont-understand-about-indias-data-with-rukmini-s/7759265/",
+      "urlHash": "47260453dbb9",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:36:15.933397+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1490881407623000064",
+          "handle": "VishalChoradiya",
+          "date": "Mon Feb 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "What we don\u2019t understand about India\u2019s data, with Rukmini S | The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "What we don\u2019t understand about India\u2019s data, with Rukmini S | The Indian Express",
+        "summary": "Data journalist Rukmini S joins host Sandip Roy to talk about her new book Whole Numbers and Half Truths, and what we don\u2019t understand about India\u2019s data."
+      }
+    },
+    {
+      "url": "http://unf.pa/fgm",
+      "urlHash": "78ffcc536ef6",
+      "domain": "unf.pa",
+      "fetchedAt": "2026-02-17T11:36:18.030599+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1491026753774825473",
+          "handle": "SDG2030",
+          "date": "Sun Feb 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Female genital mutilation | United Nations Population Fund",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Donate Main navigation UNFPA is the United Nations sexual and reproductive health agency. Our goal is ending unmet need for family planning, preventable maternal death, and gender-based violence and harmful practices including child marriage and female genital mutilation by 2030.",
+      "extractedData": {
+        "headline": "Female genital mutilation | United Nations Population Fund",
+        "summary": "&lt;p&gt;\ud83d\udca1 #DidYouKnow: 68 million girls are at risk of undergoing female genital mutilation (FGM) by 2030?&lt;/p"
+      }
+    },
+    {
+      "url": "http://Ex.Mc",
+      "urlHash": "47e8c9b98597",
+      "domain": "ex.mc",
+      "fetchedAt": "2026-02-17T11:36:21.832794+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1491327026367967233",
+          "handle": "APNandakumarMLA",
+          "date": "Wed Feb 09"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "http://164.100.47.5/newcommittee/reports/EnglishCommittees/Committee%20on%20Health%20and%20Family%20Welfare/92.pdf",
+      "urlHash": "1ac34a9cb675",
+      "domain": "164.100.47.5",
+      "fetchedAt": "2026-02-17T11:36:24.113365+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1491448738279489537",
+          "handle": "angry_birdu",
+          "date": "Wed Feb 09"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://www.engadget.com/scientists-see-a-red-giant-star-go-supernova-for-the-first-time-104442583.html",
+      "urlHash": "f2a658c36c2e",
+      "domain": "engadget.com",
+      "fetchedAt": "2026-02-17T11:36:26.321395+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1491468116135530496",
+          "handle": "TRBRajaa",
+          "date": "Wed Feb 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Scientists observe a red supergiant going supernova for the first time",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Sign in Advertisement Advertisement Advertisement Trending : Best Presidents&#x27; Day tech sales Meta is fighting the concept of social media addiction Ring nixes Flock partnership after Super Bowl backlash Fire TV sticks add NVIDIA&#x27;s GeForce Now app Samsung Galaxy Unpacked 2026 is Feb. 25 ASUS Zenbook Duo (2026) review Mullvad VPN review Valve&#x27;s Steam Machine: Everything we know The best VPNs with free trials What exactly is Moltbook? Scientists observe a red supergiant going supernova for the first time They witnessed a &quot;tumultuous ejection of gas&quot; just before it collapsed. Steve Dent Reporter Mon, January 10, 2022 at 10:44 AM UTC Keck Observatory Despite the massive number of stars in the sky, spotting one in the throes of a supernova is still an incredibly rare event. Now, astronomers have captured a red supergiant before, during and after a supernova explosion for the first time, gathering crucial new information about these dramatic events. &quot;This is a breakthrough in our understanding of what massive stars do moments before they die,&quot; said lead author Wynn Jacobson-Gal\u00e1n (UC Berkeley). &quot;Direct detection of pre-supernova activity in a red supergiant star has never been observed before in an ordinary Type II supernova. For the first time, we watched a red supergiant star explode!&quot; Using the Pan-STARRS telescope in Maui, Hawai&#39;i, scientists detected the doomed red supergiant star in the summer of 2020 thanks to the huge amount of light it was emitting. Later in the fall when it went supernova, the team captured the powerful flash using the Hawai&#39;i-based Keck Observatory &#39;s Low Resolution Imaging Spectrometer (LRIS). They also captured the very first spectrum of the supernova, known as SN 2020tlf. The observations showed that the star likely ejected massive amounts of dense circumstellar material just ahead of the explosion. Previous observations showed that red giants were relatively calm before going supernova",
+      "extractedData": {
+        "headline": "Scientists observe a red supergiant going supernova for the first time",
+        "summary": "Astronomers have captured a red supergiant supernova explosion for the first time, gathering crucial new information about these dramatic events."
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/opinion/editorials/tamil-nadu-governor-must-not-delay-assent-to-anti-neet-bill-7764904/",
+      "urlHash": "cdfa6d82b0a2",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:36:38.549803+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1491641595837706240",
+          "handle": "TRBRajaa",
+          "date": "Thu Feb 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu governor must not delay assent to anti-NEET bill. Doing so will invite suspicions of overreach | The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu governor must not delay assent to anti-NEET bill. Doing so will invite suspicions of overreach | The Indian Express",
+        "summary": "The Tamil Nadu government\u2019s displeasure at what it considers the governor\u2019s uncalled-for critique and his \u201cbig brother\u201d attitude is not entirely without basis."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/opinion-budget-should-put-money-hands-poor-not-call-capital-expenditure-160803",
+      "urlHash": "7da9023095b0",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:36:40.613860+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1491707233784111107",
+          "handle": "TRBRajaa",
+          "date": "Thu Feb 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Opinion: Budget should put money in the hands of poor, not call for capital expenditure",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Salem Dharanidharan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Opinion: Budget should put money in the hands of poor, not call for capital expenditure",
+        "summary": "With unprecedented levels of unemployment, low output and aggregate demand, the Indian economy is already in the ICU. And the FY 22-23 Budget had nothing to propel growth in the short term, writes the author."
+      }
+    },
+    {
+      "url": "https://www.murasoli.in/epaper/file_view.php?paper=VFZSamQwOUJQVDA9",
+      "urlHash": "4f29ac102c35",
+      "domain": "murasoli.in",
+      "fetchedAt": "2026-02-17T11:36:42.711873+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1492026652796518401",
+          "handle": "DMKITwing",
+          "date": "Fri Feb 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "MurasoliNews",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "MurasoliNews",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.economist.com/asia/2022/02/12/the-organs-of-indias-democracy-are-decaying",
+      "urlHash": "72639bac5eff",
+      "domain": "economist.com",
+      "fetchedAt": "2026-02-17T11:36:44.783739+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1492454486794993667",
+          "handle": "dharanisalem",
+          "date": "Sat Feb 12"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/02/17/karu-pazhaniyappan-election-campaign-in-supporting-of-dmk",
+      "urlHash": "54a9bb4a3080",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:36:46.859572+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1494602234348584961",
+          "handle": "Kalaignarnews",
+          "date": "Thu Feb 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Karu Pazhaniyappan election campaign in supporting of dmk",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Karu Pazhaniyappan election campaign in supporting of dmk",
+        "summary": "Karu Pazhaniyappan election campaign in supporting of dmk"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/bjp-called-me-maun-mohan-now-country-remembers-my-good-work-manmohan-singh-161096",
+      "urlHash": "0fdb0b9c4617",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:36:48.925475+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1494625604544901121",
+          "handle": "thenewsminute",
+          "date": "Thu Feb 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "BJP called me \u2018Maun Mohan\u2019 but now country remembers my good work: Manmohan Singh",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Agencies",
+      "rawText": "",
+      "extractedData": {
+        "headline": "BJP called me \u2018Maun Mohan\u2019 but now country remembers my good work: Manmohan Singh",
+        "summary": "The former PM appealed to the voters of Punjab, UP and Manipur to vote for the Congress."
+      }
+    }
+  ]
+}

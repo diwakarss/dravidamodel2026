@@ -1,0 +1,50 @@
+{
+  "category": "healthcare",
+  "aggregatedAt": "2026-02-16T15:50:00Z",
+  "testMode": true,
+  "totalEntities": 1,
+  "totalSources": 1,
+  "entities": [
+    {
+      "entityId": "healthcare-gh-trichy-new-wing",
+      "category": "healthcare",
+      "subCategory": "Government Hospital",
+      "name": "Government Hospital Tiruchirappalli New Wing",
+      "nameNormalized": "gh-trichy-new-wing",
+      "company": null,
+      "location": {
+        "district": "Tiruchirappalli",
+        "city": "Tiruchirappalli"
+      },
+      "extractedData": {
+        "investmentCrore": 250,
+        "bedCapacity": 500,
+        "facilities": ["ICU", "Modern Equipment"]
+      },
+      "timeline": [
+        {
+          "date": "2024-10-15",
+          "eventType": "inauguration",
+          "summary": "500 bed hospital wing inaugurated, Rs.250 crore investment"
+        }
+      ],
+      "sources": [
+        {
+          "entryId": "TNDIPRNEWS-1860000000000000001",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1860000000000000001",
+          "date": "2024-10-15",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1860000000000000001",
+          "eventType": "inauguration",
+          "language": "en"
+        }
+      ],
+      "status": "operational",
+      "firstMention": "2024-10-15",
+      "lastMention": "2024-10-15",
+      "sourceCount": 1,
+      "confidence": 0.90
+    }
+  ],
+  "ambiguous": []
+}

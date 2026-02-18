@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-02-16T16:00:00Z",
+  "category": "education",
+  "testMode": true,
+  "dedupStrategy": "scheme_name+beneficiary_group",
+  "existingDataFile": "app/src/lib/data/education.ts",
+  "summary": {
+    "totalEntitiesProcessed": 2,
+    "exactMatches": 1,
+    "partialMatches": 0,
+    "newCandidates": 1,
+    "needsReview": 0
+  },
+  "matches": [
+    {
+      "aggregatedEntityId": "education-pudhumai-penn-scheme-statewide",
+      "aggregatedEntityName": "Pudhumai Penn Scheme",
+      "existingEntryId": "pudhumai-penn",
+      "existingEntryName": "Pudhumai Penn (Moovalur Ramamirtham Scheme)",
+      "existingDataFile": "app/src/lib/data/education.ts",
+      "matchType": "exact",
+      "matchScore": 0.98,
+      "matchedOn": {
+        "primaryKey": "pudhumai-penn-scheme",
+        "secondaryMatches": ["beneficiary_group:girl_students"]
+      },
+      "action": "add_sources",
+      "newSourcesToAdd": 2,
+      "dataUpdates": {
+        "beneficiaries2024": {
+          "existing": null,
+          "new": 250000,
+          "tweetSource": "TNDIPRNEWS-1870000000000000001",
+          "recommendation": "add_field",
+          "reason": "2024-25 beneficiary count not in existing entry"
+        },
+        "budget2024": {
+          "existing": null,
+          "new": 300,
+          "tweetSource": "TNDIPRNEWS-1870000000000000001",
+          "recommendation": "add_field",
+          "reason": "2024-25 budget not in existing entry"
+        }
+      }
+    }
+  ],
+  "newCandidates": [
+    {
+      "aggregatedEntityId": "education-tn-engine-coimbatore",
+      "name": "Tamil Nadu Engineering and Innovation Center (TN ENGINE)",
+      "category": "education",
+      "subCategory": "Innovation Center",
+      "dedupKeyUsed": "tn-engine+coimbatore",
+      "sourceCount": 1,
+      "firstMention": "2024-08-21",
+      "lastMention": "2024-08-21",
+      "confidence": 0.90,
+      "suggestedEntry": {
+        "id": "tn-engine",
+        "name": {
+          "en": "Tamil Nadu Engineering and Innovation Center (TN ENGINE)",
+          "ta": "தமிழ்நாடு பொறியியல் மற்றும் புத்தாக்க மையம்"
+        },
+        "description": {
+          "en": "Joint initiative of TIDCO and Tata Technologies at Anna University, Coimbatore",
+          "ta": "அண்ணா பல்கலைக்கழகம், கோயம்புத்தூரில் TIDCO மற்றும் டாடா டெக்னாலஜீஸ் கூட்டு முன்முயற்சி"
+        },
+        "location": {
+          "district": "Coimbatore",
+          "city": "Anna University, Coimbatore"
+        },
+        "status": "under_construction",
+        "partners": ["TIDCO", "Tata Technologies"],
+        "sources": [
+          {
+            "date": "2024-08-21",
+            "handle": "TNDIPRNEWS",
+            "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1825963000000000003",
+            "eventType": "ground_breaking"
+          }
+        ]
+      },
+      "reviewFlags": ["single_source", "missing_budget"]
+    }
+  ],
+  "needsReview": [],
+  "sourceAdditions": [
+    {
+      "existingEntryId": "pudhumai-penn",
+      "existingDataFile": "app/src/lib/data/education.ts",
+      "newSources": [
+        {
+          "date": "2024-11-20",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1870000000000000001",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1870000000000000001",
+          "eventType": "scheme_launch",
+          "summary": "2.5 lakh beneficiaries, Rs.300 crore budget for 2024-25"
+        },
+        {
+          "date": "2024-12-05",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1875000000000000001",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1875000000000000001",
+          "eventType": "beneficiary_update",
+          "summary": "Tamil announcement confirming scheme details"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "batch": 10,
+  "processedAt": "2026-02-17T11:28:38.779853+00:00",
+  "stats": {
+    "success": 13,
+    "failed": 5,
+    "not_found": 1,
+    "blocked": 1,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.news9live.com/india/from-sanatana-dharma-to-sangh-parivar-meena-kandasamy-on-the-evolution-of-political-hindutva-86514.html/amp?__twitter_impression=true",
+      "urlHash": "c0868be2509a",
+      "domain": "news9live.com",
+      "fetchedAt": "2026-02-17T11:27:38.918363+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1437049439529570307",
+          "handle": "meenakandasamy",
+          "date": "Sun Sep 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u2018This is India\u2019s year\u2019! Meme by geopolitical strategist garners love, awe on internet | India News - News9live",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u2018This is India\u2019s year\u2019! Meme by geopolitical strategist garners love, awe on internet | India News - News9live",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://frontline.thehindu.com/dispatches/tamil-nadu-assembly-passes-bill-seeking-exemption-from-neet-in-the-state/article36428665.ece",
+      "urlHash": "8576a0e252e7",
+      "domain": "frontline.thehindu.com",
+      "fetchedAt": "2026-02-17T11:27:41.728349+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1437452262201192451",
+          "handle": "GunasekaranMu",
+          "date": "Mon Sep 13"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu Assembly passes Bill seeking exemption from NEET in the State - Frontline",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Published : Sep 13, 2021 15:31 IST COMMents SHARE READ LATER SEE ALL Remove At a NEET centre in Madurai, on September 12.",
+      "extractedData": {
+        "headline": "Tamil Nadu Assembly passes Bill seeking exemption from NEET in the State - Frontline",
+        "summary": "Dispatches News:Tamil Nadu Assembly passes Bill seeking exemption from NEET in the State"
+      }
+    },
+    {
+      "url": "http://ecoti.in/ml3QKZ",
+      "urlHash": "ca8417a60e1d",
+      "domain": "ecoti.in",
+      "fetchedAt": "2026-02-17T11:27:43.824247+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1437727237017505792",
+          "handle": "TRBRajaa",
+          "date": "Tue Sep 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Jet Airways 2.0: Airline set to take off in first quarter of 2022 - Domestic ops from Q1 2022 | The Economic Times",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Jet Airways 2.0: Airline set to take off in first quarter of 2022 - Domestic ops from Q1 2022 | The Economic Times",
+        "summary": "Jet Airways will restart domestic operations by the first quarter of 2022 and short haul international flights by the last quarter of the next year. This was announced by Jalan Kalrock Consortium, the new owners of the grounded airline. Domestic ops from Q1 2022"
+      }
+    },
+    {
+      "url": "https://www.amazon.in/dp/B09FVPJYJX",
+      "urlHash": "3ece0e48a9db",
+      "domain": "amazon.in",
+      "fetchedAt": "2026-02-17T11:27:51.525792+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1438362699813900292",
+          "handle": "KanimozhiDMK",
+          "date": "Wed Sep 15"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte"
+    },
+    {
+      "url": "https://www.businessinsider.in/science/heres-what-scientists-really-wanted-to-call-the-worlds-most-famous-particle/articleshow/47362459.cms",
+      "urlHash": "3eebdec3b7e0",
+      "domain": "businessinsider.in",
+      "fetchedAt": "2026-02-17T11:27:54.067706+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1439052942569467904",
+          "handle": "sureshsambandam",
+          "date": "Sat Sep 18"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://www.theweek.in/theweek/statescan/2021/09/16/tn-stalin-blunts-bjp-hindutva-ploy-by-engaging-with-tamil-hindus.html",
+      "urlHash": "1044f16ac8fc",
+      "domain": "theweek.in",
+      "fetchedAt": "2026-02-17T11:27:56.243591+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1439778239728144384",
+          "handle": "TRBRajaa",
+          "date": "Mon Sep 20"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN: Stalin blunts BJP\u2019s hindutva ploy by engaging with Tamil Hindus- The Week",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "TN: Stalin blunts BJP\u2019s hindutva ploy by engaging with Tamil Hindus By Lakshmi Subramanian Issue Date: September 26, 2021 Updated: September 16, 2021 21:27 IST Faces of Change: Chief Minister M.K. Stalin (right) with HR&amp;CE Minister P.K. Sekar Babu | R.G. Sastha ON AUGUST 14, Tamil Nadu Chief Minister M.K. Stalin handed over appointment orders to priests, 24 of them non-Brahmins, in temples that come under the Hindu Religious and Charitable Endowments (HR&amp;CE) department. Posts for othuvars (hymn reciters), poosaris, mahouts and garland stringers were also filled. \u201cWith these appointments, the wish of our leader Karunanidhi\u2014who sought to fulfil Periyar\u2019s dream of making people of all castes archakas (priests)\u2014has been realised. It was achieved after drawn-out legal battles,\u201d said HR&amp;CE Minister P.K. Sekar Babu. Periyar E.V. Ramasamy had held a meeting on the issue a week before his death in 1973. Karunanidhi had, in May 2006, passed a special government order facilitating the appointment of qualified archakas of all castes. A decade and a half later, Stalin has gone a step further with the appointments. \u201cThis has been a long battle and the new appointments are a triumph of Stalin and the DMK, who follow in the footsteps of Periyar,\u201d says political observer and academic P. Ramajayam. A week after the appointments, a series of writ petitions were filed in the Madras High Court assailing the appointment of non-Brahmin priests. Stalin had challenged the domain of the right-wing groups, particularly the BJP, which had been trying to \u201cliberate temples from the clutches of the government\u201d. The party\u2019s manifesto for this year\u2019s assembly elections had promised to curtail the HR&amp;CE department\u2019s powers. It proposed handing over administration of Hindu temples to a separate board consisting of Hindu scholars and saints. Stalin, however, went the other way. In the past three months, the hitherto low-profile department has received attention like never before. Stali",
+      "extractedData": {
+        "headline": "TN: Stalin blunts BJP\u2019s hindutva ploy by engaging with Tamil Hindus- The Week",
+        "summary": "ON AUGUST 14, Tamil Nadu Chief Minister M.K. Stalin handed over appointment orders"
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/opinion/columns/national-eligibility-cum-entrance-test-neet-tamil-nadu-suicide-7516836/",
+      "urlHash": "586096a8b716",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:27:59.380045+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1439779122155163655",
+          "handle": "GunasekaranMu",
+          "date": "Sun Sep 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "P Chidambaram writes: On the dubious theory of \u201cmerit\u201d, NEET is heralding an era of great inequity and injustice.",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "P Chidambaram writes: On the dubious theory of \u201cmerit\u201d, NEET is heralding an era of great inequity and injustice.",
+        "summary": "P Chidambaram writes: On the dubious theory of \u201cmerit\u201d, NEET is heralding an era of great inequity and injustice."
+      }
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/major-scam-in-neet-medical-exams-found-says-cbi-amid-student-suicides-2550206",
+      "urlHash": "04627d2730f1",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:28:03.071781+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1440744679201382406",
+          "handle": "TRBRajaa",
+          "date": "Wed Sep 22"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.rediff.com/news/report/remove-pms-pic-slogan-from-our-e-mails-sc-tells-nic/20210924.htm",
+      "urlHash": "634a7a785074",
+      "domain": "rediff.com",
+      "fetchedAt": "2026-02-17T11:28:05.170333+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1441579349770063873",
+          "handle": "ShashiTharoor",
+          "date": "Fri Sep 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Remove PM's pic, slogan from our e-mails, SC tells NIC - Rediff.com India News",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "September 24, 2021 21:41 IST The Supreme Court has put to rest the alleged controversy over the &lsquo;Sabka Sath, Saath, Sabka Vikas' slogan along with the prime minister's picture being carried as a footer on apex court's official e-mails by asking the NIC to remove and replace them with the image of the top court. Sources in the apex court told PTI that the slogan and the picture were put inadvertently by National Informatics Centre (NIC) which provides the e-mail services to the top court. A controversy, out of an inadvertent error, has been sought to be created by some, they said. \"Late last evening it was brought to the notice of the Registry of the Supreme Court of India that the official e-mails of the Supreme Court of India were carrying an image as footer which has no connection whatsoever with the functioning of the Judiciary,\" said a clarificatory note issued by an official. The NIC, which was directed to drop that image from the footer of the e-mails originating from the Supreme Court, has replaced them with the picture of the top court, they said. An official also shared the screenshot of the e-mail from @sci.nic.in carrying the image of the court instead of the slogan and the picture of the prime minister. More News Coverage 9 Aphrodisiac Recipes To Spice Up Your Life 8 Questions To Ask Your Date. 8 Questions To A-V-O-I-D Get Fizzical! 9 Ultimate Cocktail Recipes NEWS",
+      "extractedData": {
+        "headline": "Remove PM's pic, slogan from our e-mails, SC tells NIC - Rediff.com India News",
+        "summary": "Sources in the apex court told PTI that the slogan and the picture were put inadvertently by National Informatics Centre (NIC) which provides the e-mail services to the top court."
+      }
+    },
+    {
+      "url": "http://es.pn/IPL2021-M35",
+      "urlHash": "2d5bd195be0f",
+      "domain": "es.pn",
+      "fetchedAt": "2026-02-17T11:28:07.764994+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1441604883933634565",
+          "handle": "ESPNcricinfo",
+          "date": "Fri Sep 24"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://www.nationalheraldindia.com/amp/story/india/on-dr-manmohan-singhs-birthday-here-are-15-reasons-to-be-grateful-to-him?__twitter_impression=true",
+      "urlHash": "14673bdf2fd2",
+      "domain": "nationalheraldindia.com",
+      "fetchedAt": "2026-02-17T11:28:12.643297+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1441964026460729347",
+          "handle": "jamewils",
+          "date": "Sun Sep 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "On Dr Manmohan Singh\u2019s birthday, here are 15 reasons to be grateful to him",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "Dhiraj Kumar",
+      "rawText": "",
+      "extractedData": {
+        "headline": "On Dr Manmohan Singh\u2019s birthday, here are 15 reasons to be grateful to him",
+        "summary": "A grateful nation remembers with thanks and gratitude the remarkable achievements of Dr Manmohan Singh as Prime Minister on his 89th birthday on September 26, 2021"
+      }
+    },
+    {
+      "url": "https://www.hindutamil.in/news/tamilnadu/720174-palm-food-items-should-be-included-in-the-midday-meal.html",
+      "urlHash": "b7d61201fe8a",
+      "domain": "hindutamil.in",
+      "fetchedAt": "2026-02-17T11:28:15.348765+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442148319447322625",
+          "handle": "GreenNeeda",
+          "date": "Sun Sep 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0baa\u0ba9\u0bc8 \u0b89\u0ba3\u0bb5\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd : \u0baa\u0ba9\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0b8e\u0bb8\u0bcd.\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0baa\u0ba9\u0bc8 \u0b89\u0ba3\u0bb5\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd : \u0baa\u0ba9\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+        "summary": "\u0bae\u0ba4\u0bbf\u0baf \u0b89\u0ba3\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0ba9\u0bc8\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bc6\u0ba9,\u00a0 \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd\u0b95\u0bc1\u0b9f\u0bbf \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u00a0\u0baa\u0ba9\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0b85\u0bb0\u0b9a\u0bc8 \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1."
+      }
+    },
+    {
+      "url": "http://public.app/video/sp_vtbo2mmknnlrs",
+      "urlHash": "4320e0a7bf70",
+      "domain": "public.app",
+      "fetchedAt": "2026-02-17T11:28:18.260320+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442315938842365961",
+          "handle": "GreenNeeda",
+          "date": "Sun Sep 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.nytimes.com/2021/09/26/opinion/do-masks-work-for-covid-prevention.html?smid=tw-share",
+      "urlHash": "b4570fd2296b",
+      "domain": "nytimes.com",
+      "fetchedAt": "2026-02-17T11:28:21.484438+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442353486780256257",
+          "handle": "karthickselvaa",
+          "date": "Mon Sep 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Opinion | We Did the Research: Masks Work, and You Should Choose a Surgical Mask - The New York Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Opinion | We Did the Research: Masks Work, and You Should Choose a Surgical Mask - The New York Times",
+        "summary": "One of the largest studies to date shows masks work."
+      }
+    },
+    {
+      "url": "https://www.therisingsunmagazine.com/",
+      "urlHash": "9f2682481fd8",
+      "domain": "therisingsunmagazine.com",
+      "fetchedAt": "2026-02-17T11:28:24.280877+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442369428574785542",
+          "handle": "DMKNRIWing",
+          "date": "Mon Sep 27"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://dopt.gov.in/sites/default/files/ewsf28fT.PDF",
+      "urlHash": "0f37f743590e",
+      "domain": "dopt.gov.in",
+      "fetchedAt": "2026-02-17T11:28:26.300679+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442518669351784450",
+          "handle": "angry_birdu",
+          "date": "Mon Sep 27"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0xf1 in position 10: invalid continuation byte"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-prices-hiked-across-metros/articleshow/86575329.cms",
+      "urlHash": "7981484a49e3",
+      "domain": "economictimes.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:28:28.887592+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442712288230719489",
+          "handle": "MKumaramangalam",
+          "date": "Tue Sep 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Petrol price hiked for first time in 2 months as diesel continues to surge - The Economic Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Petrol price hiked for first time in 2 months as diesel continues to surge - The Economic Times",
+        "summary": "According to a price statement from state-owned fuel dealers, in Delhi, petrol rates reached Rs 101.39 per litre, with a hike of Rs 0.20, while diesel saw a hike of Rs 0.25 for the second consecutive day and reached Rs 89.57 per litre."
+      }
+    },
+    {
+      "url": "https://buff.ly/2Kmw6az",
+      "urlHash": "e54b52a3c954",
+      "domain": "buff.ly",
+      "fetchedAt": "2026-02-17T11:28:30.999567+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442856389613744131",
+          "handle": "Rainmaker1973",
+          "date": "Tue Sep 28"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_429"
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/public-health-and-state-rights-curious-case-tamil-nadu-union-govt-and-supreme-court-155843",
+      "urlHash": "2d912c81e79e",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:28:33.153526+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442858157106085888",
+          "handle": "yazhini_pm",
+          "date": "Tue Sep 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Public health and state rights: Curious case of Tamil Nadu, Union govt and Supreme Court",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Dr Yazhini PM,Jeyannathann Karunanithi",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Public health and state rights: Curious case of Tamil Nadu, Union govt and Supreme Court",
+        "summary": "There is a systematic dismantling of incentive structures devised by Tamil Nadu to reinforce its state medical infrastructure to provide high quality advanced medical facilities to its residents, say the authors."
+      }
+    },
+    {
+      "url": "https://bigthink.com/starts-with-a-bang/see-back-space-time",
+      "urlHash": "42743336ad62",
+      "domain": "bigthink.com",
+      "fetchedAt": "2026-02-17T11:28:36.407190+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442876485337972737",
+          "handle": "TRBRajaa",
+          "date": "Tue Sep 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "How is the 13.8 billion year old expanding universe so large? - Big Think",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "How is the 13.8 billion year old expanding universe so large? - Big Think",
+        "summary": "The expanding universe lets us see back 46.1 billion light years, despite the fact that the the universe is only 13.8 billion years young."
+      }
+    }
+  ]
+}

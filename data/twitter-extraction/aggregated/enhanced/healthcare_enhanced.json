@@ -1,0 +1,285 @@
+{
+  "category": "healthcare",
+  "aggregatedAt": "2026-02-17T18:24:49.494566+00:00",
+  "stats": {
+    "entries": 206,
+    "entities": 2
+  },
+  "entities": [
+    {
+      "entityId": "cuddalore-hospital",
+      "name": "Hospital",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "Hospital",
+      "location": "Cuddalore",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-26",
+        "lastMention": "2026-01-14"
+      },
+      "sources": [
+        {
+          "date": "2024-06-26",
+          "handle": "dstock_insights",
+          "tweetId": "1805949889547047258",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1805949889547047258",
+          "eventType": "other",
+          "summary": "Happy mother's review of Government Primary Health Centre in Kammapuram Village (Near Virrudhachalam, Cuddalore district) This is her second delivery "
+        },
+        {
+          "date": "2024-07-12",
+          "handle": "supriyasahuias",
+          "tweetId": "1811908719740956786",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/1811908719740956786",
+          "eventType": "other",
+          "summary": "Dinner service for patients at the Kalaignar Centenary Super Speciality Government Hospital at Chennai was the highlight during my visit to the hospit"
+        },
+        {
+          "date": "2024-09-20",
+          "handle": "Manothangaraj",
+          "tweetId": "1837461055670288460",
+          "fxUrl": "https://fxtwitter.com/Manothangaraj/status/1837461055670288460",
+          "eventType": "inauguration",
+          "summary": "I attended the inauguration of @hospital_kims Cancer Centre and Multi-Speciality Hospital, Nagercoil in Chennai in the presence of Honourable Minister"
+        },
+        {
+          "date": "2024-11-14",
+          "handle": "Dr_Ezhilan",
+          "tweetId": "1856999918847537218",
+          "fxUrl": "https://fxtwitter.com/Dr_Ezhilan/status/1856999918847537218",
+          "eventType": "other",
+          "summary": "Met my colleague Dr Balaji yesterday \nHe is stable \nHe will be back to serve the community and poor cancer patients in kalaignar centenary hospital"
+        },
+        {
+          "date": "2024-11-16",
+          "handle": "maharajan_dr",
+          "tweetId": "1857781182341042283",
+          "fxUrl": "https://fxtwitter.com/maharajan_dr/status/1857781182341042283",
+          "eventType": "other",
+          "summary": "From Kalaignar Centenary Super Specialty Hospital, Guindy \n\n👉🏻"
+        },
+        {
+          "date": "2024-12-11",
+          "handle": "mkstalin",
+          "tweetId": "1866763781948444807",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1866763781948444807",
+          "eventType": "progress_update",
+          "summary": "Arrived in #Kerala, the land of vibrant culture, serene beauty, and progressiveness, for the #VaikomSatyagrahaCentenary celebrations. Each time I come"
+        },
+        {
+          "date": "2024-12-11",
+          "handle": "mkstalin",
+          "tweetId": "1866797529419092107",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1866797529419092107",
+          "eventType": "progress_update",
+          "summary": "Arrived in #Kerala, the land of vibrant culture, serene beauty, and progressiveness, for the #VaikomSatyagrahaCentenary celebrations. Each time I come"
+        },
+        {
+          "date": "2024-12-11",
+          "handle": "mkstalin",
+          "tweetId": "1866863610473091169",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1866863610473091169",
+          "eventType": "progress_update",
+          "summary": "Arrived in #Kerala, the land of vibrant culture, serene beauty, and progressiveness, for the #VaikomSatyagrahaCentenary celebrations. Each time I come"
+        },
+        {
+          "date": "2024-12-28",
+          "handle": "supriyasahuias",
+          "tweetId": "1872922022663340105",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/1872922022663340105",
+          "eventType": "expansion",
+          "summary": "How an effective public health system can bring positive outcomes in the lives of children born with congenital deafness can be seen in the cochlear i"
+        },
+        {
+          "date": "2025-01-26",
+          "handle": "mkstalin",
+          "tweetId": "1883450452848857417",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1883450452848857417",
+          "eventType": "other",
+          "summary": "Deeply saddened by the passing of Dr. K.M.Cherian, Chairman and CEO of Frontier Lifeline Hospital, and a globally renowned name in cardiac surgery. \n\n"
+        },
+        {
+          "date": "2025-03-25",
+          "handle": "dstock_insights",
+          "tweetId": "1904600678737318214",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1904600678737318214",
+          "eventType": "inauguration",
+          "summary": "Nilgiri Government Hospital is all set to become the only 700-bed medical hospital in the hills. With 12 operation theatres, CT scan, MRI, and other f"
+        },
+        {
+          "date": "2025-06-26",
+          "handle": "mkstalin",
+          "tweetId": "1938139401844101605",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1938139401844101605",
+          "eventType": "other",
+          "summary": "Spoke to Dr. Rajasekar from Coimbatore, who treated former Chief Minister of Odisha Thiru. @Naveen_Odisha at a hospital in Mumbai. Glad to hear from h"
+        },
+        {
+          "date": "2025-06-26",
+          "handle": "mkstalin",
+          "tweetId": "1938146051783069865",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1938146051783069865",
+          "eventType": "other",
+          "summary": "Spoke to Dr. Rajasekar from Coimbatore, who treated former Chief Minister of Odisha Thiru. @Naveen_Odisha at a hospital in Mumbai. Glad to hear from h"
+        },
+        {
+          "date": "2025-07-23",
+          "handle": "lakhinathan",
+          "tweetId": "1947934675009523734",
+          "fxUrl": "https://fxtwitter.com/lakhinathan/status/1947934675009523734",
+          "eventType": "other",
+          "summary": "Chief minister @mkstalin interacts with the general public visiting #உங்களுடன்_ஸ்டாலின் Ungaludan Stalin camp organised by the district administration"
+        },
+        {
+          "date": "2025-08-08",
+          "handle": "mkstalin",
+          "tweetId": "1953700626237620561",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1953700626237620561",
+          "eventType": "other",
+          "summary": "Deeply concerned to hear about Hon’ble Governor of Nagaland Thiru. @LaGanesan’s hospitalisation. I wish him a speedy recovery and return to good healt"
+        },
+        {
+          "date": "2025-08-08",
+          "handle": "mkstalin",
+          "tweetId": "1953702089349378148",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1953702089349378148",
+          "eventType": "other",
+          "summary": "Deeply concerned to hear about Hon’ble Governor of Nagaland Thiru. @LaGanesan’s hospitalisation. I wish him a speedy recovery and return to good healt"
+        },
+        {
+          "date": "2025-09-18",
+          "handle": "mkstalin",
+          "tweetId": "1968575923730497718",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1968575923730497718",
+          "eventType": "other",
+          "summary": "Gaza is gasping, the world must not look away.\n\nI am shaken beyond words by what is unfolding in #Gaza. Every visual is gut wrenching. The cries of in"
+        },
+        {
+          "date": "2025-09-18",
+          "handle": "mkstalin",
+          "tweetId": "1968578424349618600",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1968578424349618600",
+          "eventType": "other",
+          "summary": "Gaza is gasping, the world must not look away.\n\nI am shaken beyond words by what is unfolding in #Gaza. Every visual is gut wrenching. The cries of in"
+        },
+        {
+          "date": "2025-09-28",
+          "handle": "iamyournaveen",
+          "tweetId": "1972173095428673548",
+          "fxUrl": "https://fxtwitter.com/iamyournaveen/status/1972173095428673548",
+          "eventType": "other",
+          "summary": "CM’s Compassion in Action – #KarurStampede\n\n> 7:30 PM – Karur Stampede\n> 8:00 PM – Sent Ministers immediately to Karur\n> 9:30 PM – Emergency meeting w"
+        },
+        {
+          "date": "2025-09-28",
+          "handle": "naveensundar87",
+          "tweetId": "1972480686067187864",
+          "fxUrl": "https://fxtwitter.com/naveensundar87/status/1972480686067187864",
+          "eventType": "inauguration",
+          "summary": "An Open Letter to @TVKVijayHQ \n\n38 lives lost. Dozens injured. Karur will never forget Sept 27. But what is harder to forget is how you, as TVK leader"
+        },
+        {
+          "date": "2025-09-29",
+          "handle": "VamsiChandran",
+          "tweetId": "1972718181002129653",
+          "fxUrl": "https://fxtwitter.com/VamsiChandran/status/1972718181002129653",
+          "eventType": "other",
+          "summary": "In Karunanidhi's funeral, there was a stampede 3 people were killed and 50 were injured, @mkstalin visited GH that evening itself to enquire about the"
+        },
+        {
+          "date": "2025-10-10",
+          "handle": "Gabbar0099",
+          "tweetId": "1976677886104162723",
+          "fxUrl": "https://fxtwitter.com/Gabbar0099/status/1976677886104162723",
+          "eventType": "other",
+          "summary": "\"Chennai is one of the best hospitality and civilized City in India\"\n\nA Japanese girl sharing her beautiful experience of living in Chennai ❤️"
+        },
+        {
+          "date": "2025-10-31",
+          "handle": "dstock_insights",
+          "tweetId": "1984308786077782509",
+          "fxUrl": "https://fxtwitter.com/dstock_insights/status/1984308786077782509",
+          "eventType": "other",
+          "summary": "@rishi4u Nice 🙂 \n\nPeriyar Government Hospital, Tamil Nadu 🤗\n"
+        },
+        {
+          "date": "2025-12-02",
+          "handle": "TN_Streets",
+          "tweetId": "1995881392417489267",
+          "fxUrl": "https://fxtwitter.com/TN_Streets/status/1995881392417489267",
+          "eventType": "other",
+          "summary": "📍 Kamatchi Hospital, Pallikaranai — haven’t seen this junction this clear during rains.\n\nChennai is holding up really well for 10–15 cm of rain 🙌🏼\n\nHo"
+        },
+        {
+          "date": "2026-01-14",
+          "handle": "RoshanKrRaii",
+          "tweetId": "2011356380364685663",
+          "fxUrl": "https://fxtwitter.com/RoshanKrRaii/status/2011356380364685663",
+          "eventType": "other",
+          "summary": "This is embarrassing.\n\nIndia’s official BRICS 2026 logo has been copied straight from a Telangana Hospital 😭😭😭😭😭😭😭\n\nImagine the laziness of Indian Bab"
+        }
+      ],
+      "accountsCovering": [
+        "VamsiChandran",
+        "RoshanKrRaii",
+        "TN_Streets",
+        "maharajan_dr",
+        "Manothangaraj",
+        "dstock_insights",
+        "Dr_Ezhilan",
+        "naveensundar87",
+        "mkstalin",
+        "Gabbar0099",
+        "iamyournaveen",
+        "lakhinathan",
+        "supriyasahuias"
+      ],
+      "tweetCount": 25
+    },
+    {
+      "entityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "nameVariants": [],
+      "category": "healthcare",
+      "entityType": "Welfare Scheme",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-17",
+        "lastMention": "2025-08-25"
+      },
+      "sources": [
+        {
+          "date": "2025-03-17",
+          "handle": "grok",
+          "tweetId": "1901835596844408985",
+          "fxUrl": "https://fxtwitter.com/grok/status/1901835596844408985",
+          "eventType": "scheme_launch",
+          "summary": "The DMK govt has shown strong performance since 2021, with Tamil Nadu's GDP growth at 7.92% (2021-22), 8.19% (2022-23), and 8.23% (2023-24), outpacing"
+        },
+        {
+          "date": "2025-08-25",
+          "handle": "mkstalin",
+          "tweetId": "1959853109372703099",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1959853109372703099",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu has shown how sustained investments and social responsibility can make public healthcare accessible to all. From reducing malnutrition to p"
+        },
+        {
+          "date": "2025-08-25",
+          "handle": "mkstalin",
+          "tweetId": "1959873054487765446",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1959873054487765446",
+          "eventType": "scheme_launch",
+          "summary": "Tamil Nadu has shown how sustained investments and social responsibility can make public healthcare accessible to all. From reducing malnutrition to p"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin",
+        "grok"
+      ],
+      "tweetCount": 3
+    }
+  ]
+}

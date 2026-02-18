@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.thehindubusinessline.com/data-stories/data-focus/why-april-cpi-for-tamil-nadu-kerala-at-5-is-lower-than-national-average/article65426189.ece",
+    "urlHash": "965b1c86e03d",
+    "domain": "thehindubusinessline.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1527146896393125888", "handle": "TRBRajaa"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/opinion/op-ed/the-dravidian-model-of-public-health/article38330101.ece",
+    "urlHash": "0494874d0d34",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1487340165387329539", "handle": "TRBRajaa"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.livemint.com/news/india/fuel-price-hike-petrol-crosses-rs-105-in-mumbai-rs-100-in-chennai-check-latest-rates-11625190608972.html",
+    "urlHash": "16524e2fd19e",
+    "domain": "livemint.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1410798319870222339", "handle": "TRBRajaa"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/kerala/2021/jun/27/10-years-ago-she-sold-lemonades-at-varkala-now-shes-a-sub-inspector-there-2322183.html",
+    "urlHash": "c899f0d3a6ea",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1409450584730705921", "handle": "supriyasahuias"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.deccanherald.com/national/in-5-months-5-target-population-fully-vaccinated-in-india-998948.html",
+    "urlHash": "39501a1eebd5",
+    "domain": "deccanherald.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1406195076909305856", "handle": "SitaramYechury"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/cities/chennai/Stalin-pledges-to-donate-organs/article16877626.ece",
+    "urlHash": "5637b6ac7a9c",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1426095709174964230", "handle": "mkstalin"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/opinion/op-ed/the-union-government-has-a-unifying-effect/article34938894.ece",
+    "urlHash": "39a9de5cd86c",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1408659969042305028", "handle": "Karthikmohandmk"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/police-on-alert-as-china-gets-control-of-hambantota-port/article34684689.ece",
+    "urlHash": "4a5a1641a1af",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1399181119346528258", "handle": "arvindgunasekar"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.dinakaran.com/News_Detail.asp?Nid=683247",
+    "urlHash": "ded7fffdeec1",
+    "domain": "dinakaran.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1404260062948827140", "handle": "DinakaranNews"}],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.dinakaran.com/News_Detail.asp?Nid=689117",
+    "urlHash": "2994326dba30",
+    "domain": "dinakaran.com",
+    "priority": "high",
+    "sourceTweets": [{"tweetId": "1413420256765235204", "handle": "DinakaranNews"}],
+    "status": "pending"
+  }
+]

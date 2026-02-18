@@ -1,0 +1,305 @@
+{
+  "batch": 26,
+  "processedAt": "2026-02-17T12:19:31.334408+00:00",
+  "stats": {
+    "success": 12,
+    "failed": 1,
+    "not_found": 0,
+    "blocked": 0,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.dtnext.in/news/tamilnadu/at-goa-airport-cisf-cops-ask-tn-woman-to-learn-hindi-754350",
+      "urlHash": "b3f9e97fedbe",
+      "domain": "dtnext.in",
+      "fetchedAt": "2026-02-17T12:18:54.223591+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1735186635304902664",
+          "handle": "mkstalin",
+          "date": "Thu Dec 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "At Goa Airport, TN woman asked to learn Hindi by CISF cops",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Srikkanth Dhasarathy",
+      "rawText": "",
+      "extractedData": {
+        "headline": "At Goa Airport, TN woman asked to learn Hindi by CISF cops",
+        "summary": "When the passenger told the CISF (Central Industrial Security Force) personnel that she did not know Hindi, the CISF personnel argued that Hindi is the national"
+      }
+    },
+    {
+      "url": "https://vinfastauto.com/vn_en/vinfast-to-build-integrated-electric-vehicle-facility-in-tamil-nadu-india",
+      "urlHash": "94bac9cef41e",
+      "domain": "vinfastauto.com",
+      "fetchedAt": "2026-02-17T12:18:56.907811+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1743610026517008894",
+          "handle": "TRBRajaa",
+          "date": "Sat Jan 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "VinFast To Build Integrated Electric Vehicle Facility In Tamil Nadu, India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "About us Car EV ICE Commercial Vehicles VF 3 VF 5 VF 6 MPV 7 VF 7 VF 8 VF 9 Fadil LUX A2.0 LUX SA2.0 President Minio Green Herio Green Nerio Green Limo Green EC Van EBus E-Scooters Aftersales services Car E-scooters WARRANTY &amp; MAINTENANCE Warranty information Periodic maintenance information Repair service information USER MANUAL Car user manual E-scooter user manual VinFast App user manual Emergency Response Guides SCHEDULE WARRANTY &amp; SUPPORT Warranty policy Maintaince service DOWNLOAD BROCHURE E-scooter MAINTAINCE SERVICE Routine maintaince Battery &amp; Charging stations Car battery &amp; Charging station Energy Storage Account Test drive registration \u0110\u0103ng nh\u1eadp / \u0110\u0103ng k\u00fd Homepage News Company VINFAST TO BUILD INTEGRATED ELECTRIC VEHICLE FACILITY IN TAMIL NADU, INDIA Tamil Nadu, India \u2013 January 06, 2024, VinFast, Vietnam\u2019s leading electric vehicle (EV) manufacturer, and the Tamil Nadu State Government announce a landmark partnership in a Memorandum of Understanding (MoU) to charge the development of green transportation in India. VinFast and the State Government will work toward a total investment of up to USD 2 billion, with an intended commitment of USD 500 million for the first phase of the Project, spanning five years from the commencement date. This move indicates a significant step in VinFast&#039;s expansion into the world&#039;s third-largest vehicle market. The plan to expand into India aims to seize growth opportunities in the world's most populous nation and rapidly expanding EV market. This initiative forms a crucial part of VinFast's strategy to establish a strong presence in key markets and strengthen its supply chain for global expansion. The establishment of VinFast's integrated electric vehicle facility in Tamil Nadu is anticipated to generate approximately 3,000 - 3,500 employment opportunities locally. In addition to creating jobs and improving the skills of the local workforce, VinFast remains dedicated to fostering gender equality and ",
+      "extractedData": {
+        "headline": "VinFast To Build Integrated Electric Vehicle Facility In Tamil Nadu, India",
+        "summary": "Tamil Nadu, India \u2013 January 06, 2024, VinFast, Vietnam\u2019s leading electric vehicle (EV) manufacturer, and the Tamil Nadu State Government announce a landmark partnership in a Memorandum of Understanding (MoU) to charge the development of green transportation in India. VinFast and the State Government will work toward a total investment of up to USD 2 billion, with an intended commitment of USD 500 million for the first phase of the Project, spanning five years from the commencement date. This mov",
+        "jobs": 3500
+      }
+    },
+    {
+      "url": "https://www.un.org/en/observances/anti-islamophobia-day",
+      "urlHash": "86de5184b36d",
+      "domain": "un.org",
+      "fetchedAt": "2026-02-17T12:18:59.309785+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1768530288223924270",
+          "handle": "mkstalin",
+          "date": "Fri Mar 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "International Day to Combat Islamophobia | United Nations",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "United Nations",
+      "rawText": "",
+      "extractedData": {
+        "headline": "International Day to Combat Islamophobia | United Nations",
+        "summary": "The International Day to Combat Islamophobia stresses that terrorism and violent extremism cannot and should not be associated with any religion, nationality, civilization, or ethnic group. It calls for a global dialogue on the promotion of a culture of tolerance and peace, based on respect for human rights and for the diversity of religions and belief."
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/express-exclusive/since-2014-25-opposition-leaders-facing-corruption-probe-crossed-over-to-bjp-23-of-them-got-reprieve-9247737/",
+      "urlHash": "613c14132b29",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T12:19:02.430836+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1775451125862248633",
+          "handle": "mkstalin",
+          "date": "Wed Apr 03"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Since 2014, 25 Opposition leaders facing corruption probe crossed over to BJP, 23 of them got reprieve | Express Investigations News - The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Since 2014, 25 Opposition leaders facing corruption probe crossed over to BJP, 23 of them got reprieve | Express Investigations News - The Indian Express",
+        "summary": "3 cases closed, 20 stalled; officials say probe is open, will act if required."
+      }
+    },
+    {
+      "url": "https://zeenews.india.com/gujarati/gujarat/bjp-leader-son-booth-capturing-goes-live-on-social-media-on-dahod-loksabha-340490",
+      "urlHash": "8633017294dc",
+      "domain": "zeenews.india.com",
+      "fetchedAt": "2026-02-17T12:19:06.025677+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1788210092459917353",
+          "handle": "zoo_bear",
+          "date": "Wed May 08"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0aad\u0abe\u0a9c\u0aaa\u0aa8\u0abe \u0aa8\u0ac7\u0aa4\u0abe\u0aa8\u0abe \u0aaa\u0ac1\u0aa4\u0acd\u0ab0\u0a8f \u0aac\u0ac1\u0aa5 \u0ab9\u0abe\u0a88\u0a9c\u0ac7\u0a95 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82, \u0a86 \u0aa4\u0acb \u0aae\u0abe\u0ab0\u0abe \u0aac\u0abe\u0aaa\u0aa8\u0ac0 \u0a9c\u0abe\u0a97\u0ac0\u0ab0, \u0aa4\u0a82\u0aa4\u0acd\u0ab0\u0a8f \u0aa4\u0aae\u0abe\u0ab6\u0acb \u0a9c\u0acb\u0aaf\u0acb",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0aad\u0abe\u0a9c\u0aaa\u0aa8\u0abe \u0aa8\u0ac7\u0aa4\u0abe\u0aa8\u0abe \u0aaa\u0ac1\u0aa4\u0acd\u0ab0\u0a8f \u0aac\u0ac1\u0aa5 \u0ab9\u0abe\u0a88\u0a9c\u0ac7\u0a95 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82, \u0a86 \u0aa4\u0acb \u0aae\u0abe\u0ab0\u0abe \u0aac\u0abe\u0aaa\u0aa8\u0ac0 \u0a9c\u0abe\u0a97\u0ac0\u0ab0, \u0aa4\u0a82\u0aa4\u0acd\u0ab0\u0a8f \u0aa4\u0aae\u0abe\u0ab6\u0acb \u0a9c\u0acb\u0aaf\u0acb",
+        "summary": "Booth Capturing : \u0aae\u0ab9\u0ac0\u0ab8\u0abe\u0a97\u0ab0\u0aa8\u0abe \u0aaa\u0ab0\u0aa5\u0aae\u0aaa\u0ac1\u0ab0\u0aae\u0abe\u0a82 \u0aac\u0ac2\u0aa5 \u0a95\u0ac7\u0aaa\u0acd\u0a9a\u0ab0\u0abf\u0a82\u0a97\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0aaf\u0abe\u0ab8.. \u0aad\u0abe\u0a9c\u0aaa \u0aa8\u0ac7\u0aa4\u0abe\u0aa8\u0abe \u0aaa\u0ac1\u0aa4\u0acd\u0ab0 \u0ab5\u0abf\u0a9c\u0aaf \u0aad\u0abe\u0aad\u0acb\u0ab0\u0ac7 \u0aac\u0ac2\u0aa5\u0aae\u0abe\u0a82 \u0a98\u0ac2\u0ab8\u0ac0\u0aa8\u0ac7 \u0aac\u0acb\u0a97\u0ab8 \u0ab5\u0acb\u0a9f\u0abf\u0a82\u0a97 \u0a95\u0ab0\u0acd\u0aaf\u0abe\u0aa8\u0acb \u0a86\u0ab0\u0acb\u0aaa.. \u0ab5\u0ac0\u0aa1\u0abf\u0aaf\u0acb \u0ab5\u0abe\u0aaf\u0ab0\u0ab2 \u0aa5\u0aa4\u0abe \u0a95\u0acb\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0ab8 \u0a89\u0aae\u0ac7\u0aa6\u0ab5\u0abe\u0ab0\u0ac7 \u0a95\u0ab0\u0ac0 \u0a95\u0ab2\u0ac7\u0a95\u0acd\u0a9f\u0ab0\u0aa8\u0ac7 \u0aab\u0ab0\u0abf\u0aaf\u0abe\u0aa6"
+      }
+    },
+    {
+      "url": "https://awards.fametn.com",
+      "urlHash": "556be7824d8d",
+      "domain": "awards.fametn.com",
+      "fetchedAt": "2026-02-17T12:19:08.686476+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1792100757828985201",
+          "handle": "fametamilnadu",
+          "date": "Sat May 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN MSME AWARDS 2023-24",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TN MSME AWARDS 2023-24",
+        "summary": ""
+      }
+    },
+    {
+      "url": "http://tnwwhcl.in",
+      "urlHash": "8d2d0016a8e3",
+      "domain": "tnwwhcl.in",
+      "fetchedAt": "2026-02-17T12:19:11.313436+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1792124170031304771",
+          "handle": "ThamizhachiTh",
+          "date": "Sun May 19"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_301"
+    },
+    {
+      "url": "https://www.tnwwhcl.in/hostel-details",
+      "urlHash": "282b54b4e39b",
+      "domain": "tnwwhcl.in",
+      "fetchedAt": "2026-02-17T12:19:14.926976+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1792124170031304771",
+          "handle": "ThamizhachiTh",
+          "date": "Sun May 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "hostel details | Tamil Nadu Working Women's Hostels Corporation",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Home About Us Our Team Locations Chennai Coimbatore Cuddalore Dharmapuri Hosur Madurai Perambalur Pudukkottai Ranipet Salem Thanjavur Tiruchirappalli Tirunelveli Tiruvallur Tiruvannamalai Tuticorin Vellore Viluppuram FAQ More Contact More Rules and Regulations Privacy Policy News and Events Tenders &amp; Documents Careers Gallery Login Book Now --> \u00a9 2023 - TNWWHCL",
+      "extractedData": {
+        "headline": "hostel details | Tamil Nadu Working Women's Hostels Corporation",
+        "summary": ""
+      }
+    },
+    {
+      "url": "http://B.Sc",
+      "urlHash": "124488233aab",
+      "domain": "b.sc",
+      "fetchedAt": "2026-02-17T12:19:17.331966+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1793539642924683337",
+          "handle": "CMOTamilnadu",
+          "date": "Thu May 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "B.Sc Degrees Online 2025 - Best Course After 12th | Compare Top Programs",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "B.sc",
+      "rawText": "",
+      "extractedData": {
+        "headline": "B.Sc Degrees Online 2025 - Best Course After 12th | Compare Top Programs",
+        "summary": "Find the best B.Sc course after 12th. Compare accredited online B.Sc degrees in Computer Science, Data Science, Nursing & more. Expert guides on admissions, fees & career outcomes."
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2024/05/27/tn-govt-achieved-a-record-in-green-hydrogen-by-attracting-investment-of-rs-1-lakh-40-thousand-crores",
+      "urlHash": "07be5ec0cd6c",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T12:19:21.927939+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1795308545673658726",
+          "handle": "Kalaignarnews",
+          "date": "Tue May 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN Govt achieved a record in green hydrogen by attracting investment of Rs. 1 lakh 40 thousand crores!",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TN Govt achieved a record in green hydrogen by attracting investment of Rs. 1 lakh 40 thousand crores!",
+        "summary": "The Dravidian model government has achieved a record in green hydrogen by attracting investment of Rs. 1 lakh 40 thousand crores!"
+      }
+    },
+    {
+      "url": "https://muthamizhmuruganmaanadu2024.com/",
+      "urlHash": "3dc06c762874",
+      "domain": "muthamizhmuruganmaanadu2024.com",
+      "fetchedAt": "2026-02-17T12:19:24.862083+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1795437350660788589",
+          "handle": "tnhrcedept",
+          "date": "Tue May 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Teen Patti Game India - Download Now &amp; Get \u20b93000 Free",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Teen Patti Game India - Download Now &amp; Get \u20b93000 Free",
+        "summary": "Download Teen Patti Game India and get \u20b93000 cash. Experience exciting card gameplay on mobile."
+      }
+    },
+    {
+      "url": "https://www.hindutamil.in/news/opinion/columns/1259094-an-unrelenting-self-deprecating-voice.html",
+      "urlHash": "1621f80ed816",
+      "domain": "hindutamil.in",
+      "fetchedAt": "2026-02-17T12:19:27.967132+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1797538236291850321",
+          "handle": "srinileaks",
+          "date": "Mon Jun 03"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0b93\u0baf\u0bbe\u0ba4 \u0b9a\u0bc1\u0baf\u0bae\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb0\u0bb2\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0bae\u0bc2\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0b93\u0baf\u0bbe\u0ba4 \u0b9a\u0bc1\u0baf\u0bae\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb0\u0bb2\u0bcd",
+        "summary": "\u0b95\u0bbe\u0bb2\u0ba9\u0bbf\u0baf\u0bae\u0bc1\u0bae\u0bcd, \u0ba8\u0bbf\u0bb2\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bc1\u0bae\u0bcd \u0b86\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1, \u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95 \u0baf\u0bc1\u0b95\u0bae\u0bcd \u0bb5\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b95\u0bb0\u0bc1\u0ba3\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf. \u2018\u0bae\u0bbe\u0ba3\u0bb5 \u0ba8\u0bc7\u0b9a\u0ba9\u0bcd\u2019 \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0ba4\u0bb4\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf, \u0b9f\u0bcd\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd, \u0b83\u0baa\u0bc7\u0bb8\u0bcd\u0baa\u0bc1\u0b95\u0bcd \u0bb5\u0bb0\u0bc8 \u0b8e\u0bb4\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd."
+      }
+    },
+    {
+      "url": "https://sparkmedia.news/kalaignar100-tamilcinema-karunanithi-dmk-sivaji-mgr/",
+      "urlHash": "4f3ddef91078",
+      "domain": "sparkmedia.news",
+      "fetchedAt": "2026-02-17T12:19:30.832329+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1797571305409253600",
+          "handle": "SparkPluz_",
+          "date": "Mon Jun 03"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "#HBD \u0baa\u0bbe\u0bae\u0bb0 \u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bb1\u0bbf\u0bb5\u0bc8 \u0bb5\u0bbf\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4 \u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd! - Spark Media",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Nila K",
+      "rawText": "",
+      "extractedData": {
+        "headline": "#HBD \u0baa\u0bbe\u0bae\u0bb0 \u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bb1\u0bbf\u0bb5\u0bc8 \u0bb5\u0bbf\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4 \u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd! - Spark Media",
+        "summary": "-\u0b95\u0bcb\u0bb5\u0bbf.\u0bb2\u0bc6\u0ba9\u0bbf\u0ba9\u0bcd \u201c\u0b8e\u0ba9\u0bcd\u0ba9\u0b9f\u0bbe \u0b86\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf \u0baa\u0bcb\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0baf\u0bcd?\u201d \u201c\u0b86\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bbe\u0ba9\u0bcd \u0b9c\u0bae\u0bc0\u0ba9\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc7.. \u0b95\u0bca\u0b9e\u0bcd\u0b9a\u0bae\u0bcd \u0bb5\u0bb3\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b85\u0ba4\u0bc1\u0bb5\u0bc7 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0baf\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bcd. \u0b9e\u0bbe\u0baa\u0b95\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd! \u0b85\u0bb0\u0bbf\u0bb5\u0bbe\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95"
+      }
+    }
+  ]
+}

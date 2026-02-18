@@ -1,0 +1,425 @@
+{
+  "batch": 7,
+  "processedAt": "2026-02-17T11:25:17.780748+00:00",
+  "stats": {
+    "success": 14,
+    "failed": 2,
+    "not_found": 1,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "http://poovulagu.org/?p=2882",
+      "urlHash": "51a2fa987205",
+      "domain": "poovulagu.org",
+      "fetchedAt": "2026-02-17T11:24:22.608252+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1401043184881258496",
+          "handle": "TRBRajaa",
+          "date": "Sat Jun 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0baa\u0bc6\u0ba3\u0bcd \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba8\u0bc0\u0bb2\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bc1\u0bae\u0bcd \u2018Reverse Zoonoses&#039; \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bc1\u0bae\u0bcd - \u0baa\u0bc2\u0bb5\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0ba3\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0baa\u0bc6\u0ba3\u0bcd \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba8\u0bc0\u0bb2\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bc1\u0bae\u0bcd \u2018Reverse Zoonoses&#039; \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bc1\u0bae\u0bcd - \u0baa\u0bc2\u0bb5\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0ba3\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+        "summary": "\u0bb0\u0bbe\u0bae\u0ba8\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb9\u0bc8\u0b9f\u0bcd\u0bb0\u0bcb\u0b95\u0bbe\u0bb0\u0bcd\u0baa\u0ba9\u0bcd \u0b95\u0bbf\u0ba3\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb2\u0bc1\u0bae\u0bcd ONGC \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bc2\u0bb5\u0bc1\u0bb2\u0b95\u0bbf\u0ba9\u0bcd \u0ba8\u0ba3\u0bcd\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd"
+      }
+    },
+    {
+      "url": "http://toi.in/5stsKa",
+      "urlHash": "3a0884b581dc",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:24:26.225942+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1401124857673175047",
+          "handle": "TOIChennai",
+          "date": "Fri Jun 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu lost Rs 2,000 crore in PDS tenders in five years, says NGO in graft complaint | Chennai News - The Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu lost Rs 2,000 crore in PDS tenders in five years, says NGO in graft complaint | Chennai News - The Times of India",
+        "summary": "Tamil Nadu lost at least Rs 2,000 crore since 2015 in 50 tenders awarded for procuring sugar, palm oil and pulses for ration shops in the state, says"
+      }
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tn-banks-on-finance-minister-with-sharp-tongue-practical-knowledge/articleshow/83290621.cms",
+      "urlHash": "708fd4eab729",
+      "domain": "timesofindia.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:24:29.193508+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1401882616870043650",
+          "handle": "TRBRajaa",
+          "date": "Mon Jun 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu banks on finance minister with sharp tongue, practical knowledge | Chennai News - Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu banks on finance minister with sharp tongue, practical knowledge | Chennai News - Times of India",
+        "summary": "When P T R Palanivel Thiagarajan questioned the \u2018one state, one vote\u2019 principle that governs GST council\u2019s decision-making and issue of compensation t"
+      }
+    },
+    {
+      "url": "http://www.hrce.tn.gov.in",
+      "urlHash": "b174f31acab8",
+      "domain": "hrce.tn.gov.in",
+      "fetchedAt": "2026-02-17T11:24:31.362616+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1402497329823850496",
+          "handle": "bshivakumar1971",
+          "date": "Wed Jun 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "HR-CE",
+      "contentType": "government",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "HR-CE",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/06/11/cm-mk-stalin-statement-on-anti-child-labour-day",
+      "urlHash": "e17680d4c53a",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:24:34.625133+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1403653063647240197",
+          "handle": "Kalaignarnews",
+          "date": "Fri Jun 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "chief minister mk stalin statement on anti child labour day",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "chief minister mk stalin statement on anti child labour day",
+        "summary": "chief minister mk stalin statement on anti child labour day"
+      }
+    },
+    {
+      "url": "https://www.news18.com/news/sports/french-open-2021-novak-djokovic-beats-stefanos-tsitsipas-in-a-five-set-thriller-to-lift-his-19th-grand-slam-title-3843365.html",
+      "urlHash": "0023f5aa3c70",
+      "domain": "news18.com",
+      "fetchedAt": "2026-02-17T11:24:37.950522+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1404272985050009602",
+          "handle": "news18dotcom",
+          "date": "Mon Jun 14"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://toi.in/qAqUja",
+      "urlHash": "e4df6b48b7c3",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:24:40.065798+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1404313584666963968",
+          "handle": "TOIChennai",
+          "date": "Mon Jun 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu lockdown: Relaxations could be withdrawn anytime, Stalin warns | Chennai News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu lockdown: Relaxations could be withdrawn anytime, Stalin warns | Chennai News - Times of India",
+        "summary": "If people show restraint, the state could move ahead and permit public transport and reopen schools and colleges, Stalin said."
+      }
+    },
+    {
+      "url": "https://m.facebook.com/story.php?story_fbid=4664707573555770&id=100000497193618",
+      "urlHash": "bb0b0e584f7b",
+      "domain": "m.facebook.com",
+      "fetchedAt": "2026-02-17T11:24:44.289858+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1406191262248542209",
+          "handle": "DMKNRIWing",
+          "date": "Sat Jun 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0ca6\u0ccb\u0cb7",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0ca6\u0ccb\u0cb7",
+        "summary": "Facebook &#xca8;&#xcb2;&#xccd;&#xcb2;&#xcbf; &#xcaa;&#xccb;&#xcb8;&#xccd;&#xc9f;&#xccd;&#x200c;&#xc97;&#xcb3;&#xcc1;, &#xcab;&#xccb;&#xc9f;&#xccb;&#xc97;&#xcb3;&#xcc1; &#xcae;&#xca4;&#xccd;&#xca4;&#xcc1; &#xcb9;&#xcc6;&#xc9a;&#xccd;&#xc9a;&#xcbf;&#xca8;&#xca6;&#xca8;&#xccd;&#xca8;&#xcc1; &#xcb5;&#xcc0;&#xc95;&#xccd;&#xcb7;&#xcbf;&#xcb8;&#xcbf;."
+      }
+    },
+    {
+      "url": "https://ptrmadurai.com/if-bending-is-normal-then-a-man-standing-upright-looks-combative-tamil",
+      "urlHash": "55151ca582a8",
+      "domain": "ptrmadurai.com",
+      "fetchedAt": "2026-02-17T11:24:46.919580+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1408660290791612425",
+          "handle": "DMKITwing",
+          "date": "Sat Jun 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "If bending is normal then a man standing upright looks combative tamil - Dr PTR Palanivel Thiaga Rajan",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Dr PTR Palanivel Thiaga Rajan",
+      "rawText": "Published Date: June 25, 2021 \u0ba4\u0bbf\u0bb0\u0bc1 \u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc7 7\u0b86\u0bae\u0bcd \u0ba4\u0bc7\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 , \u0ba4\u0bbf\u0bb0\u0bc1 \u0baa\u0bbf.\u0b9f\u0bbf.\u0b86\u0bb0\u0bcd. \u0baa\u0bb4\u0ba9\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd \u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf \u0b85\u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd,&lsquo;\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd&rsquo; \u0b86\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0b9c\u0b95 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0baa\u0bb2 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd. \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0ba8\u0bbf\u0bb2\u0bc8 \u0b87\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9 \u0b9a\u0bc2\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b85\u0ba4\u0bc8 \u0b9a\u0bb0\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbe\u0bb3\u0bbe\u0bb0\u0bbe\u0b95 \u0baa\u0ba3\u0bbf\u0baa\u0bc1\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4 \u0b85\u0bb5\u0bb0\u0bcd \u0ba4\u0ba9\u0bcd\u0ba9\u0bc1\u0b9f\u0bc8\u0baf \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc7 \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bc8 2014 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0baa\u0bcb\u0bb2 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. &nbsp; \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1 \u0ba4\u0bb5\u0bb1\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb5\u0bc7 ? \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bbe\u0ba9 \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95 \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bbf\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd. \u0b85\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bb2 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0ba4\u0bc7\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0bb1 \u0b95\u0bbe\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0bbe\u0ba9\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc8 \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0ba8\u0bbe\u0ba9\u0bcb, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcb \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b8e\u0ba9\u0bcd\u0ba9 \u0ba8\u0bbf\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bb2\u0bcd\u0bb2. \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf MLA \u0bb5\u0bbe\u0b95 5 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0baa\u0bb2 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bb2 \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bbe\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0ba9. \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bbe\u0b95 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf \u0bb0\u0bc0\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1 \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe \u0bb5\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0baa\u0bbe\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bcb\u0bae\u0bcd. \u0ba8\u0bbe\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bc7 \u0b92\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd&nbsp; GSDP\u0baf\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd. \u0ba4\u0bae\u0bbf\u0bb4\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd GSDP 20 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0b95\u0bcb\u0b9f\u0bbf.&nbsp; \u0ba8\u0bae\u0ba4\u0bc1 \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b85\u0ba8\u0bcd\u0ba4 20 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0b95\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 15%-18% \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd 3% \u0b86\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd GSDP \u0b9a\u0bbe\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0ba9\u0bc8\u0b95\u0bb3\u0bc8 \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0bb5\u0bc7\u0b95\u0bae\u0bbe\u0b95 \u0baa\u0bb2 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd. \u0bb5\u0bc7\u0bb1\u0bc1 \u0b92\u0bb0\u0bc1 \u0b87\u0b9f\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0b87\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8f\u0ba9\u0bc6\u0ba9\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0b9f \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b92\u0bb0\u0bc1 \u0bb5\u0bb4\u0bbf\u0baf\u0bbe\u0b95 20 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0b95\u0bcb\u0b9f\u0bbf\u0baf\u0bc8 \u0b95\u0bcb\u0bb5\u0bbf\u0b9f\u0bcd \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd, 4000 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bb0\u0bc1\u0baa\u0bbe\u0baf\u0bcd \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0bb0\u0bc7\u0bb7\u0ba9\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0bc8\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1 9 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bc8 \u0b9a\u0bc6\u0bb2\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1. \u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd 45 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87",
+      "extractedData": {
+        "headline": "If bending is normal then a man standing upright looks combative tamil - Dr PTR Palanivel Thiaga Rajan",
+        "summary": "\u0bb5\u0bb3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd, \u0ba8\u0bbf\u0bae\u0bbf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb1\u0bcd\u0baa\u0ba4\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bae\u0bbe\u0b95\u0ba4\u0bbe\u0ba9\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd"
+      }
+    },
+    {
+      "url": "https://www.economist.com/asia/2021/07/01/tamil-nadus-leader-offers-something-indias-does-not-competence",
+      "urlHash": "a2777bf1db6b",
+      "domain": "economist.com",
+      "fetchedAt": "2026-02-17T11:24:49.216529+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1411151307017101317",
+          "handle": "SriramMadras",
+          "date": "Sat Jul 03"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://www.straitstimes.com/asia/australianz/climate-change-link-as-new-zealand-records-warmest-june-on-record?utm_source=twitter&utm_medium=social-organic&utm_keyword=dlvr.it",
+      "urlHash": "8055ac82e355",
+      "domain": "straitstimes.com",
+      "fetchedAt": "2026-02-17T11:24:51.362447+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1412243992675164164",
+          "handle": "STForeignDesk",
+          "date": "Tue Jul 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Climate change link as New Zealand records warmest June on record | The Straits Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "myST+ Menu Choose edition Search singapore asia world opinion life business sport Visual Podcasts SPH Rewards STClassifieds Paid press releases Advertise with us FAQs Contact us Sign up now: Get insights on Asia&#x27;s fast-moving developments Daily temperatures averaged 10.6 degrees Celsius - 1.9 deg C above average despite a cold snap late in the month. PHOTO: REUTERS Published Jul 06, 2021, 09:56 AM WELLINGTON (AFP) - New Zealand recorded its hottest June on record as temperatures continued to soar in a pattern consistent with global warming, a government scientific agency said on Tuesday (July 6). Daily temperatures averaged 10.6 degrees Celsius - 1.9 deg C above average despite a cold snap late in the month, the National Institute of Water and Atmospheric Research (NIWA) said. \"It's huge. There's only been 13 times since 1909 that we've had such an anomaly,\" NIWA scientist Chris Brandolino told public radio. \"What's alarming is that over the past 10 years that's happened six times.\" Mr Brandolino said that while shorter-term factors such as warmer ocean temperatures helped heat the air over New Zealand, climate change was a constant underlying factor. \"We've had more north-easterly air flows than normal (from the Pacific), so they're coming from a warm place, and ocean temperatures are also warmer than average,\" he said. \"Then you throw in the background of climate change and it adds up to a record warm month for June.\" New Zealand had its seventh-hottest year in 2020, which was also the seventh year in a decade that temperatures have been in the top 10 highest ever recorded. The country's centre-left Prime Minister Jacinda Ardern declared a 'climate emergency' last year, saying urgent action was needed for the sake of future generations. New Zealand has committed to becoming carbon neutral by 2050 and to generating all its energy from renewable sources by 2035. See more on New Zealand Weather Climate change",
+      "extractedData": {
+        "headline": "Climate change link as New Zealand records warmest June on record | The Straits Times",
+        "summary": "WELLINGTON (AFP) - New Zealand recorded its hottest June on record as temperatures continued to soar in a pattern consistent with global warming, a government scientific agency said on Tuesday (July 6).   Read more at straitstimes.com."
+      }
+    },
+    {
+      "url": "https://sports.ndtv.com/football/lionel-messi-led-argentina-beat-brazil-1-0-in-the-final-to-clinch-copa-america-title-2483914",
+      "urlHash": "7e9e30f8ec4f",
+      "domain": "sports.ndtv.com",
+      "fetchedAt": "2026-02-17T11:24:54.763960+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1414067915616243716",
+          "handle": "ndtv",
+          "date": "Sun Jul 11"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://virg.in/4wfe",
+      "urlHash": "fef507fca8f9",
+      "domain": "virg.in",
+      "fetchedAt": "2026-02-17T11:24:56.915173+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1414264291302154240",
+          "handle": "richardbranson",
+          "date": "Sun Jul 11"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "http://widerimage.reuters.com/photographer/danish-siddiqui",
+      "urlHash": "383d38a01ec2",
+      "domain": "widerimage.reuters.com",
+      "fetchedAt": "2026-02-17T11:24:59.394518+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1416234511864455168",
+          "handle": "PARInetwork",
+          "date": "Fri Jul 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Danish Siddiqui Profile | The Wider Image | Reuters",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Danish Siddiqui",
+      "rawText": "Haridwar Shah Porir Dwip Danish Siddiqui in New Delhi Kaljikhal New Delhi New Delhi Koraput Bhagalpur New Delhi New Delhi Shah Porir Dwip Srinagar Negombo Pyongyang Jalore Shah Porir Dwip Devprayag Fangane Kodaikanal Trimbakeshwar Denganmal Mumbai Bhopal Varanasi Mumbai Mumbai Mumbai Betul Baran Mumbai Kabul Apart from daily features and \u201cbread and butter\u201d assignments, I love shooting in-depth features around the country \u2013 and also cricket, the most popular religion in India!",
+      "extractedData": {
+        "headline": "Danish Siddiqui Profile | The Wider Image | Reuters",
+        "summary": "Reuters photographer Danish Siddiqui profile: \u201cWhile I enjoy covering news stories \u2013 from business to politics to sports \u2013 what I enjoy most is capturing the human face of a breaking story.\u201d. Based: New Delhi, India"
+      }
+    },
+    {
+      "url": "https://www.amnesty.org/en/latest/news/2021/07/pegasus-project-apple-iphones-compromised-by-nso-spyware/",
+      "urlHash": "6f18eed3ca1c",
+      "domain": "amnesty.org",
+      "fetchedAt": "2026-02-17T11:25:02.479384+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1417182437390516224",
+          "handle": "amnesty",
+          "date": "Mon Jul 19"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Pegasus Project: Apple iPhones compromised by NSO spyware - Amnesty International",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Pegasus Project: Apple iPhones compromised by NSO spyware - Amnesty International",
+        "summary": "New evidence has revealed a massive wave of attacks by NSO Group\u2019s customers on iPhones, potentially affecting thousands of Apple users worldwide."
+      }
+    },
+    {
+      "url": "https://www.amnesty.org/en/latest/news/2021/07/amnesty-categorically-pegasus-project-data-linked-to-nso/",
+      "urlHash": "a36cb2aa749e",
+      "domain": "amnesty.org",
+      "fetchedAt": "2026-02-17T11:25:05.587095+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1418137387893346304",
+          "handle": "dhanyarajendran",
+          "date": "Thu Jul 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Amnesty categorically stands by Pegasus Project data set - Amnesty International",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Amnesty categorically stands by Pegasus Project data set - Amnesty International",
+        "summary": "Amnesty International categorically stands by the findings of the Pegasus Project, and that the data is irrefutably linked to potential targets of NSO Group\u2019s Pegasus spyware."
+      }
+    },
+    {
+      "url": "https://www.bgr.in/news/massive-internet-outage-zomato-paytm-disney-hotstar-psn-and-more-services-were-down-974473/",
+      "urlHash": "f636e67f0598",
+      "domain": "bgr.in",
+      "fetchedAt": "2026-02-17T11:25:08.453982+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1418261902191325187",
+          "handle": "TRBRajaa",
+          "date": "Thu Jul 22"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "http://www.greenneeda.org",
+      "urlHash": "0fe717734f5e",
+      "domain": "greenneeda.org",
+      "fetchedAt": "2026-02-17T11:25:12.342808+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1418398333018640385",
+          "handle": "GreenNeeda",
+          "date": "Thu Jul 22"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://www.hindustantimes.com/world-news/china-gets-new-world-heritage-site-with-links-to-hinduism-tamil-nadu-101627225226902-amp.html?__twitter_impression=true",
+      "urlHash": "522be42d9f9e",
+      "domain": "hindustantimes.com",
+      "fetchedAt": "2026-02-17T11:25:14.554115+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1419315870136893440",
+          "handle": "TRBRajaa",
+          "date": "Sun Jul 25"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "China gets new World Heritage Site with links to Hinduism, Tamil Nadu | World News",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "China gets new World Heritage Site with links to Hinduism, Tamil Nadu | World News",
+        "summary": "Indian PM Narendra Modi and Chinese President Xi Jinping had agreed to establish \u201csister-state relations\u201d between Tamil Nadu and Fujian during the latter\u2019s visit to Mamallapuram in October, 2019. | World News"
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/07/26/350kg-gutkha-seized-at-chennai-icf-and-2-arrested",
+      "urlHash": "3c1eec17f0d9",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:25:16.879007+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1419618874605989889",
+          "handle": "Kalaignarnews",
+          "date": "Mon Jul 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "350kg gutkha seized at chennai icf and 2 arrested",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "350kg gutkha seized at chennai icf and 2 arrested",
+        "summary": "350kg gutkha seized at chennai icf and 2 arrested"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+17:03:49 [ORCH] Starting orchestrator
+17:03:49 [P1] Starting Phase 1 from batch 291
+17:03:49 [P2] Refreshing links from new tweets...
+17:03:49 [P2] Starting Phase 2 from batch 16
+17:03:49 [P3] Starting Phase 3 classification
+17:03:49 [P4] Starting Phase 4 aggregation
+17:18:33 [ORCH] Received shutdown signal, stopping...
+17:18:33 [ORCH] Orchestrator stopped

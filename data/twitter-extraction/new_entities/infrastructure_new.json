@@ -1,0 +1,107 @@
+{
+  "category": "infrastructure",
+  "generatedAt": "2026-02-17T18:47:36.770698+00:00",
+  "existingItemsCount": 450,
+  "newCandidatesCount": 2,
+  "candidates": [
+    {
+      "name": "Building A",
+      "type": "bridge",
+      "confidence": 0.75,
+      "mentions": 4,
+      "locations": [
+        "Ranipet"
+      ],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "TRBRajaa",
+        "Guidance_TN"
+      ],
+      "first_mention": "2024-09-28",
+      "last_mention": "2025-07-17",
+      "sample_matches": [
+        "building a rob"
+      ],
+      "sources": [
+        {
+          "date": "2024-09-28",
+          "handle": "TRBRajaa",
+          "tweetId": "1839996022954574110",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1839996022954574110",
+          "eventType": "mou_signed",
+          "text": "🌟Welcome to #TamilNadu #TataJLR 🎊\n\nToday we broke ground for the new #Tata - #JLR facility marking a transformative milestone for Tamil Nadu's #auto / #EV sector, and a new dawn of industrial growth for #Ranipet !!!\n\nThis new facility will create 5000 direct #JobsForTN and also benefit tens of thous"
+        },
+        {
+          "date": "2025-06-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1936345118165864481",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1936345118165864481",
+          "eventType": "mou_signed",
+          "text": "Earlier this week, we had the privilege of representing #TamilNadu at the prestigious #ParisAirShow2025, one of the world’s most significant events in the aerospace and defence sector ! \n\nAt the inauguration of the India Pavilion, it was a proud moment to see #TamilNadu recognised as a leader in A&D"
+        },
+        {
+          "date": "2025-07-17",
+          "handle": "Guidance_TN",
+          "tweetId": "1945769634411794661",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1945769634411794661",
+          "eventType": "mou_signed",
+          "text": "Team #TamilNadu successfully concluded an investment roadshow to #Taiwan (#Taichung & #Taipei) and #Vietnam (Ho Chi Minh City), engaging with potential investors and exploring new collaborations.\n\nThe team, led by Dr. K. Senthil Raj, I.A.S., MD, State Industries Promotion Corporation of Tamil Nadu L"
+        },
+        {
+          "date": "2025-07-17",
+          "handle": "Guidance_TN",
+          "tweetId": "1945769634411794661",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1945769634411794661",
+          "eventType": "mou_signed",
+          "text": "Team #TamilNadu successfully concluded an investment roadshow to #Taiwan (#Taichung & #Taipei) and #Vietnam (Ho Chi Minh City), engaging with potential investors and exploring new collaborations.\n\nThe team, led by Dr. K. Senthil Raj, I.A.S., MD, State Industries Promotion Corporation of Tamil Nadu L"
+        }
+      ]
+    },
+    {
+      "name": "Driven",
+      "type": "bridge",
+      "confidence": 0.85,
+      "mentions": 3,
+      "locations": [
+        "Ranipet"
+      ],
+      "investment_crore": 1425.0,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-06-04",
+      "last_mention": "2025-06-04",
+      "sample_matches": [
+        "driven rob"
+      ],
+      "sources": [
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930180022888985030",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930180022888985030",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930183827613462621",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930183827613462621",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930196151493337508",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930196151493337508",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        }
+      ]
+    }
+  ]
+}

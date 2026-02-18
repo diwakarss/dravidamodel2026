@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Enriched Link Data",
+  "description": "Schema for enriched external link data (Wave 2)",
+  "type": "object",
+  "required": ["url", "fetchedAt", "status"],
+  "properties": {
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "urlHash": {
+      "type": "string",
+      "description": "MD5 hash of URL for filename"
+    },
+    "fetchedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "status": {
+      "enum": ["success", "failed", "blocked", "timeout", "not_found"]
+    },
+    "sourceTweets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tweetId": { "type": "string" },
+          "handle": { "type": "string" },
+          "date": { "type": "string", "format": "date" }
+        }
+      },
+      "description": "Tweets that linked to this URL"
+    },
+    "domain": {
+      "type": "string"
+    },
+    "pageTitle": {
+      "type": "string"
+    },
+    "publishDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "author": {
+      "type": "string"
+    },
+    "contentType": {
+      "enum": ["news_article", "press_release", "government", "corporate", "other"]
+    },
+    "extractedData": {
+      "type": "object",
+      "description": "Structured data extracted from article",
+      "properties": {
+        "headline": { "type": "string" },
+        "summary": { "type": "string", "maxLength": 500 },
+        "projectName": { "type": "string" },
+        "companyName": { "type": "string" },
+        "location": {
+          "type": "object",
+          "properties": {
+            "district": { "type": "string" },
+            "city": { "type": "string" }
+          }
+        },
+        "investment": {
+          "type": "object",
+          "properties": {
+            "amount": { "type": "number" },
+            "currency": { "enum": ["INR", "USD", "EUR"] },
+            "unit": { "enum": ["crore", "lakh", "million", "billion"] }
+          }
+        },
+        "jobs": {
+          "type": "integer"
+        },
+        "eventType": {
+          "enum": ["mou_signed", "ground_breaking", "inauguration", "progress", "expansion", "production_start", "other"]
+        },
+        "eventDate": {
+          "type": "string",
+          "format": "date"
+        },
+        "keyFacts": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "rawText": {
+      "type": "string",
+      "description": "First 2000 chars of article text (for backup)"
+    },
+    "errorMessage": {
+      "type": "string",
+      "description": "Error details if status is not success"
+    }
+  }
+}

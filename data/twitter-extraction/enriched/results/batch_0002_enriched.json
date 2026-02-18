@@ -1,0 +1,369 @@
+{
+  "batch": 2,
+  "processedAt": "2026-02-17T11:20:54.717669+00:00",
+  "stats": {
+    "success": 7,
+    "failed": 0,
+    "not_found": 1,
+    "blocked": 12,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://tamil.oneindia.com/news/india/dmk-urges-centre-to-evacuate-including-muslims-from-afghan-431080.html",
+      "urlHash": "92fb5cf37f53",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:13.399376+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1430840012858224641",
+          "handle": "thatsTamil",
+          "date": "Thu Aug 26"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/international/african-pastor-claimed-himself-a-messenger-of-jesus-died-431321.html",
+      "urlHash": "274fd9091b58",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:15.457851+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1431904741806669831",
+          "handle": "thatsTamil",
+          "date": "Sun Aug 29"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/voter-list-of-nine-newly-formed-districts-has-now-been-released-431596.html",
+      "urlHash": "c88bd0436f20",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:17.530202+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1432756054480199680",
+          "handle": "thatsTamil",
+          "date": "Tue Aug 31"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chandigarh/haryana-officer-who-told-cops-to-crack-the-heads-of-farmers-transferred-431727.html",
+      "urlHash": "51cc97833508",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:19.600293+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1433243815708667909",
+          "handle": "thatsTamil",
+          "date": "Wed Sep 01"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/Readers-Editor/we-cannot-save-journalism-if-we-fail-to-save-journalists/article36311168.ece",
+      "urlHash": "65ed8cc6396f",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:21.692683+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1434733737632174080",
+          "handle": "CholamandalPann",
+          "date": "Sun Sep 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "We cannot save journalism if we fail to save journalists - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 3, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "We cannot save journalism if we fail to save journalists - The Hindu",
+        "summary": "Quality journalism is tied to the well-being of journalists"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/reservation-need-to-be-implemented-in-private-sectors-says-tamilnadu-govt-in-policy-brief-432343.html",
+      "urlHash": "6f6028fae0af",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:23.786774+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1435560196516954121",
+          "handle": "thatsTamil",
+          "date": "Wed Sep 08"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/gangai-amaran-request-mk-stalin-to-help-to-recover-payyanur-bungalow-432459.html",
+      "urlHash": "df3fa803e880",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:25.855985+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1436001460693520395",
+          "handle": "thatsTamil",
+          "date": "Thu Sep 09"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.dinakaran.com/News_Detail.asp?Nid=704361",
+      "urlHash": "68d39953ba07",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:20:27.911081+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1436620286216982535",
+          "handle": "DinakaranNews",
+          "date": "Sat Sep 11"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/Readers-Editor/not-dropping-the-vase/article36419938.ece",
+      "urlHash": "89b034d1693c",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:30.154245+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1437392605948497925",
+          "handle": "CholamandalPann",
+          "date": "Sun Sep 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Not dropping the vase - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "November 7, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Not dropping the vase - The Hindu",
+        "summary": "Being an interlocutor helps one to endure criticism without resentment"
+      }
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/a-government-order-that-heralded-the-social-justice-movement-100-years-ago/article36486308.ece",
+      "urlHash": "43eea6e8a50c",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:32.241741+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1438500192810983426",
+          "handle": "KanimozhiDMK",
+          "date": "Thu Sep 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "The Communal G.O. | A government order that heralded the social justice movement 100 years ago - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "October 20, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "The Communal G.O. | A government order that heralded the social justice movement 100 years ago - The Hindu",
+        "summary": "The Communal G.O. proved to be a leveller, securing non-Brahmins the space due to them in administration and politics"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/india/bjp-loksabha-mp-babul-supriyo-joins-tmc-433318.html",
+      "urlHash": "2e2efecfbe5e",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:34.361997+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1439229769803988998",
+          "handle": "thatsTamil",
+          "date": "Sat Sep 18"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/cuddalore/minister-mrk-pannerselvam-rescued-the-couple-injured-in-the-accident-433393.html",
+      "urlHash": "49ba0ac47e1b",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:36.423514+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1439611811951640585",
+          "handle": "thatsTamil",
+          "date": "Sun Sep 19"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/bangalore/hindu-mahasabha-leader-arrested-for-issuing-death-threat-to-karnataka-chief-minister-433507.html",
+      "urlHash": "79baa8bbafde",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:38.505977+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1440160279333990406",
+          "handle": "thatsTamil",
+          "date": "Tue Sep 21"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/op-ed/rulings-that-impact-a-states-medical-infrastructure/article36619937.ece",
+      "urlHash": "c4a8af4e9033",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:40.561283+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1441008542710841346",
+          "handle": "TRBRajaa",
+          "date": "Thu Sep 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Rulings that impact a State\u2019s medical infrastructure - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "December 26, 2025 e-Paper",
+      "extractedData": {
+        "headline": "Rulings that impact a State\u2019s medical infrastructure - The Hindu",
+        "summary": "The removal of domicile requirement and in-service quota is affecting super-specialty medical education in Tamil Nadu"
+      }
+    },
+    {
+      "url": "https://cms.tn.gov.in/sites/default/files/go/revenue_e_504_2021.pdf",
+      "urlHash": "34831d67496d",
+      "domain": "cms.tn.gov.in",
+      "fetchedAt": "2026-02-17T11:20:42.704663+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1441786338282377219",
+          "handle": "angry_birdu",
+          "date": "Sat Sep 25"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/tamilnadu-holds-3rd-mega-vaccination-camp-today-434003.html",
+      "urlHash": "d9aeae263646",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:44.942332+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1441963916150460420",
+          "handle": "thatsTamil",
+          "date": "Sun Sep 26"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2021/sep/26/kovalam-beach-awarded-blue-flag-certification-2363904.html",
+      "urlHash": "bf550896d0e5",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:20:47.042219+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442369109136609285",
+          "handle": "TRBRajaa",
+          "date": "Mon Sep 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Kovalam beach awarded Blue Flag certification",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "Express News Service",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Kovalam beach awarded Blue Flag certification",
+        "summary": "The Kovalam beach near East Coast Road has been awarded the coveted Blue Flag Certification by Denmark Environment Agency."
+      }
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/internet/facebook-instagram-whatsapp-start-reconnecting-after-nearly-6-hour-outage/article36833271.ece",
+      "urlHash": "15d3b4036bd4",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:50.363397+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1445184787963006981",
+          "handle": "karthickselvaa",
+          "date": "Mon Oct 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Facebook, Instagram, WhatsApp start reconnecting after nearly 6-hour outage - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 9, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective.",
+      "extractedData": {
+        "headline": "Facebook, Instagram, WhatsApp start reconnecting after nearly 6-hour outage - The Hindu",
+        "summary": "Facebook and its WhatsApp and Instagram apps went dark at around 9:30 pm IST"
+      }
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/editorial/killing-the-chills-the-hindu-editorial-on-the-malaria-vaccine/article36886318.ece",
+      "urlHash": "26e86f726011",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:52.520056+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1446470759480582145",
+          "handle": "ramyakannan",
+          "date": "Fri Oct 08"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Killing the chills: The Hindu Editorial on the malaria vaccine - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 5, 2026 e-Paper",
+      "extractedData": {
+        "headline": "Killing the chills: The Hindu Editorial on the malaria vaccine - The Hindu",
+        "summary": "The malaria vaccine must see speedy implementation from the lab to the field"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/do-not-harass-the-public-reduce-the-convoy-cars-chief-stalin-s-order-435302.html",
+      "urlHash": "f4cef5f89886",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:54.654663+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1446834936216883203",
+          "handle": "thatsTamil",
+          "date": "Sat Oct 09"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    }
+  ]
+}

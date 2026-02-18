@@ -1,0 +1,108 @@
+{
+  "version": "1.0",
+  "startedAt": null,
+  "currentWave": 0,
+  "targetAccounts": [
+    { "handle": "CMOTamilnadu", "priority": "critical", "focus": "all" },
+    { "handle": "mkstalin", "priority": "critical", "focus": "all" },
+    { "handle": "TNDIPRNEWS", "priority": "critical", "focus": "all" },
+    { "handle": "TRBRajaa", "priority": "critical", "focus": "industries" },
+    { "handle": "Guidance_TN", "priority": "critical", "focus": "industries" },
+    { "handle": "TNIndMin", "priority": "high", "focus": "industries" },
+    { "handle": "TN_SIPCOT", "priority": "high", "focus": "industries,infrastructure" },
+    { "handle": "SIPCOTTN", "priority": "medium", "focus": "industries,infrastructure" },
+    { "handle": "Udhaystalin", "priority": "high", "focus": "sports,youth,welfare" },
+    { "handle": "ptrmadurai", "priority": "high", "focus": "it,industries" },
+    { "handle": "TNeGA_Official", "priority": "medium", "focus": "it,digital" },
+    { "handle": "ELCOT_TN", "priority": "medium", "focus": "it,industries" }
+  ],
+  "dateRange": {
+    "from": "2021-05-07",
+    "to": "2026-02-16"
+  },
+  "waves": {
+    "1": {
+      "name": "Tweet Fetching",
+      "status": "pending",
+      "description": "Fetch all relevant tweets from target accounts",
+      "workerCount": 12,
+      "completed": 0,
+      "failed": 0,
+      "workers": [],
+      "startedAt": null,
+      "completedAt": null
+    },
+    "2": {
+      "name": "Link Enrichment",
+      "status": "blocked",
+      "description": "Fetch external URLs found in tweets",
+      "workerCount": 0,
+      "completed": 0,
+      "failed": 0,
+      "workers": [],
+      "startedAt": null,
+      "completedAt": null,
+      "dependsOn": [1]
+    },
+    "3": {
+      "name": "Classification & Verification",
+      "status": "blocked",
+      "description": "Classify tweets by category and extract entities",
+      "workerCount": 12,
+      "completed": 0,
+      "failed": 0,
+      "workers": [],
+      "startedAt": null,
+      "completedAt": null,
+      "dependsOn": [1, 2]
+    },
+    "4": {
+      "name": "Aggregation",
+      "status": "blocked",
+      "description": "Merge verified entries by entity across accounts",
+      "workerCount": 10,
+      "completed": 0,
+      "failed": 0,
+      "workers": [],
+      "startedAt": null,
+      "completedAt": null,
+      "dependsOn": [3],
+      "note": "One worker per category (10 categories)"
+    },
+    "5": {
+      "name": "Duplicate Detection",
+      "status": "blocked",
+      "description": "Compare against existing data and generate report",
+      "workerCount": 10,
+      "completed": 0,
+      "failed": 0,
+      "workers": [],
+      "startedAt": null,
+      "completedAt": null,
+      "dependsOn": [4],
+      "note": "One worker per category (10 categories)"
+    }
+  },
+  "stats": {
+    "totalTweetsFetched": 0,
+    "totalLinksFound": 0,
+    "totalLinksEnriched": 0,
+    "totalEntriesVerified": 0,
+    "totalEntriesAggregated": 0,
+    "totalDuplicatesFound": 0,
+    "totalNewCandidates": 0,
+    "totalSourceAdditions": 0
+  },
+  "categories": [
+    "infrastructure",
+    "industries",
+    "education",
+    "healthcare",
+    "employment",
+    "agriculture",
+    "environment",
+    "social-welfare",
+    "sports-culture",
+    "tamil-history"
+  ]
+}

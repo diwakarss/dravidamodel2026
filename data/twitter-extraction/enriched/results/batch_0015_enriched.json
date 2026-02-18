@@ -1,0 +1,433 @@
+{
+  "batch": 15,
+  "processedAt": "2026-02-17T11:33:46.341486+00:00",
+  "stats": {
+    "success": 15,
+    "failed": 3,
+    "not_found": 0,
+    "blocked": 2,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.bbc.com/news/av/uk-59450988",
+      "urlHash": "ab560a4071f1",
+      "domain": "bbc.com",
+      "fetchedAt": "2026-02-17T11:32:38.205756+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1465236463033802758",
+          "handle": "GunasekaranMu",
+          "date": "Mon Nov 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Omicron symptoms mild so far, says South African doctor who spotted it",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Omicron symptoms mild so far, says South African doctor who spotted it",
+        "summary": "The South African doctor who found the new variant says patients are showing very mild symptoms so far."
+      }
+    },
+    {
+      "url": "https://www.amazon.in/-/hi/Rukmini-S/dp/9391234674?language=en_IN&ref=in_wplc_social&tag=wlsocial-21_wholenumbersandhalftruths",
+      "urlHash": "32048c590cd8",
+      "domain": "amazon.in",
+      "fetchedAt": "2026-02-17T11:32:41.129692+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1465329148910440454",
+          "handle": "Rukmini",
+          "date": "Mon Nov 29"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte"
+    },
+    {
+      "url": "https://www.businessinsider.in/thelife/news/toyota-is-building-a-175-acre-smart-city-in-japan-where-residents-will-test-out-tech-like-ai-robotics-and-smart-homes-heres-what-the-city-of-the-future-will-look-like-/articleshow/73674742.cms",
+      "urlHash": "64d2762763ea",
+      "domain": "businessinsider.in",
+      "fetchedAt": "2026-02-17T11:32:45.379214+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1467155268177776641",
+          "handle": "Prasanna558123",
+          "date": "Sat Dec 04"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://archive.pib.gov.in/archive/releases98/lyr2001/rmay2001/16052001/r1605200114.html",
+      "urlHash": "1b7f632f96c2",
+      "domain": "archive.pib.gov.in",
+      "fetchedAt": "2026-02-17T11:32:47.552549+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1467487113662779396",
+          "handle": "AdityaGoswami_",
+          "date": "Sun Dec 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Latest Releases",
+      "contentType": "government",
+      "publishDate": "",
+      "author": "",
+      "rawText": "May 16, 2001 '34' CIVIL SERVICES [MAIN] EXAMINATION, 2000 - PRESS NOTE &nbsp;&nbsp;&nbsp; F ollowing is the list, in order of merit, of candidates who have been recommended for appointment to: [i] Indian Administrative Service; [ii] Indian Foreign Service; [iii] Indian Police Service; and [iv] Central Services Group &#145;A&#146; and Group &#145;B&#146; based on the results of the Civil Services [Main] Examination held by the Union Public Service Commission in November, 2000 and interviews for Personality Test held in April &#150; May, 2001. The total number of candidates recommended for appointment is 427 including 128 belonging to the Other Backward Classes, 58 to the Scheduled Castes and 34 to the Scheduled Tribes. &nbsp;&nbsp;&nbsp; Appointment to the various Services will be made according to the number of vacancies available with due consideration to the provisions contained in Rules 2 and 18 of the Rules for the Examination relating to restriction on the eligibility of candidates appointed to Indian Police Service and Police Service Group &#145;B&#146; / Central Services Group &#145;A&#146; and Group &#145;B&#146; based on the results of an earlier examination and subject to final decision of the Supreme Court / High Courts / C.A.Ts. on the S.L.Ps. / R.As. / W.Ps. / O.As. pending therein. The number of vacancies reported by the Government for the Indian Administrative Service is 59 [30 General, 15 Other Backward Classes, 09 Scheduled Castes and 30 Scheduled Tribes]; for the Indian Foreign Service is 18 [09 General, 07 Other Backward Classes and 02 Scheduled Tribes]; for Indian Police Service is 36 [18 General, 09 Other Backward Classes, 06 Scheduled Castes and 03 Scheduled Tribes]; for Central Services Group &#145;A&#146; is 226 [121 General, 53 Other Backward Classes 36 Scheduled Castes and 16 Scheduled Tribes]; and for Central Services Group &#145;B&#146; is 88 [66 General, 16 Other Backward Classes; 3 Scheduled Castes; and 3 Scheduled Tribes]. The vacancie",
+      "extractedData": {
+        "headline": "Latest Releases",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://tnhorticulture.tn.gov.in/kit/",
+      "urlHash": "57c95c4b9a2b",
+      "domain": "tnhorticulture.tn.gov.in",
+      "fetchedAt": "2026-02-17T11:32:50.015958+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1467763186862485505",
+          "handle": "mkstalin",
+          "date": "Mon Dec 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Kit",
+      "contentType": "government",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Kit",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://rsdebate.nic.in/bitstream/123456789/588187/1/PD_04_02091953_7_p844_p924_3.pdf",
+      "urlHash": "fd08b8fd33a8",
+      "domain": "rsdebate.nic.in",
+      "fetchedAt": "2026-02-17T11:32:52.515107+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1467805462519169029",
+          "handle": "angry_birdu",
+          "date": "Mon Dec 06"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte"
+    },
+    {
+      "url": "https://www.forbes.com/sites/lisakim/2021/12/07/uae-to-adopt-4--day-working-week-to-match-global-markets/?sh=17ff6a1f1871&utm_medium=social&utm_campaign=socialflowForbesMainTwitter&utm_source=ForbesMainTwitter",
+      "urlHash": "d62f7994a609",
+      "domain": "forbes.com",
+      "fetchedAt": "2026-02-17T11:32:55.013519+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1468483867447226368",
+          "handle": "TRBRajaa",
+          "date": "Wed Dec 08"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://toi.in/RriGnZ62/a24gk",
+      "urlHash": "77a5779d9d1a",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:32:57.141403+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1469306272738541570",
+          "handle": "timesofindia",
+          "date": "Fri Dec 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Been 25 years, when will women\u2019s reservation bill be passed: DMK MP Kanimozhi | Chennai News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Been 25 years, when will women\u2019s reservation bill be passed: DMK MP Kanimozhi | Chennai News - Times of India",
+        "summary": "DMK MP Kanimozhi on Thursday raised the issue of providing 33% reservation to women in Lok Sabha and asked the government when will a bill for this b"
+      }
+    },
+    {
+      "url": "http://buff.ly/3omOsJG\u2026",
+      "urlHash": "cdb1ded0eb8d",
+      "domain": "buff.ly",
+      "fetchedAt": "2026-02-17T11:32:59.618949+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1470352204145913860",
+          "handle": "TRBRajaa",
+          "date": "Mon Dec 13"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.livelaw.in/top-stories/cabinet-clears-proposal-to-increase-age-of-marriage-for-women-to-21-years-187799?utm_source=mobile-social-share&utm_partner=livelaw&utm_campaign=share&utm_medium=twitter",
+      "urlHash": "54d364e6cfd3",
+      "domain": "livelaw.in",
+      "fetchedAt": "2026-02-17T11:33:02.466770+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1471374311139074048",
+          "handle": "karthickselvaa",
+          "date": "Thu Dec 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Cabinet Clears Proposal to Increase Age Of Marriage for Women To 21 Years",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Sneha Rao",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Cabinet Clears Proposal to Increase Age Of Marriage for Women To 21 Years",
+        "summary": "The Union Cabinet on Wednesday cleared the proposal to raise the  legal age of marriage for women from 18 to 21 years. This move would bring the  legal age of marriage for women at par with men which..."
+      }
+    },
+    {
+      "url": "http://go.nasa.gov/2U43zuH",
+      "urlHash": "1d71a8b21571",
+      "domain": "go.nasa.gov",
+      "fetchedAt": "2026-02-17T11:33:04.697682+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1472106599011405826",
+          "handle": "NASAJPL",
+          "date": "Fri Dec 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Ingenuity Mars Helicopter - NASA Science",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Ingenuity Mars Helicopter - NASA Science",
+        "summary": "NASA&#039;s Ingenuity Mars Helicopter completed 72 historic flights since first taking to the skies above the Red Planet."
+      }
+    },
+    {
+      "url": "http://www.cocoatrait.com",
+      "urlHash": "aa8dc947aef8",
+      "domain": "cocoatrait.com",
+      "fetchedAt": "2026-02-17T11:33:10.816963+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1472139381687291908",
+          "handle": "TRBRajaa",
+          "date": "Sat Dec 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Sustainable Bean to Bar Chocolates India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Sustainable Bean to Bar Chocolates India",
+        "summary": "Sustainable Bean to Bar Chocolates online India curated by Poonam &amp; L Nitin Chordia, India&#039;s 1st certified chocolate tasters."
+      }
+    },
+    {
+      "url": "https://cocoatrait.com/product-category/shop/kocoatrait-chocolates/",
+      "urlHash": "75ea64a0f3b4",
+      "domain": "cocoatrait.com",
+      "fetchedAt": "2026-02-17T11:33:17.548516+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1472166359215730690",
+          "handle": "TRBRajaa",
+          "date": "Sat Dec 18"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Bean to Bar Chocolates India Sustainable Order Now!",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "We've saved 300+ kg of plastic from landfills, becoming a Plastic Positive brand. Each Kocoatrait dark chocolate bar emits 1.3 Kgs of CO2 on average. Enjoy free shipping for orders over Rs 1000! Dismiss",
+      "extractedData": {
+        "headline": "Bean to Bar Chocolates India Sustainable Order Now!",
+        "summary": "Kocoatrait Bean to Bar Chocolates India is the world&#039;s 1st Vegan,\u00a0Ecofriendly, Zero Waste, Sustainable, Plastic Free Chocolate conceived by Poonam Chordia."
+      }
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/selling-psu-banks-to-corporates-colossal-mistake-says-raghuram-rajan-as-workers-plan-strike/articleshow/81494577.cms?utm_source%3Dtwitter_web%26utm_medium%3Dsocial%26utm_campaign%3Dsocialsharebuttons",
+      "urlHash": "413bdb49712b",
+      "domain": "economictimes.indiatimes.com",
+      "fetchedAt": "2026-02-17T11:33:21.888834+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1472846327348224000",
+          "handle": "t_d_h_nair",
+          "date": "Mon Dec 20"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "bank strike: Selling PSU banks to corporates &lsquo;colossal mistake&rsquo;, says Raghuram\u200b Rajan as workers plan strike - The Economic Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "bank strike: Selling PSU banks to corporates &lsquo;colossal mistake&rsquo;, says Raghuram\u200b Rajan as workers plan strike - The Economic Times",
+        "summary": "Many PSU banks, including  SBI, have informed their customers that their normal working could be affected at the branches and offices if the planned strike materialises."
+      }
+    },
+    {
+      "url": "https://go.nasa.gov/3Engjhn",
+      "urlHash": "ca842a892d8f",
+      "domain": "go.nasa.gov",
+      "fetchedAt": "2026-02-17T11:33:24.006567+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473533816820015106",
+          "handle": "NASASolarSystem",
+          "date": "Wed Dec 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Solar System Exploration Stories - NASA Science",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Solar System Exploration Stories - NASA Science",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.livelaw.in/columns/authority-for-advanced-ruling-aar-goods-and-service-tax-gst-madras-high-court-residential-welfare-associations-rwas-188099?utm_source=mobile-social-share&utm_partner=livelaw&utm_campaign=share&utm_medium=twitter",
+      "urlHash": "73d0e6e8dd92",
+      "domain": "livelaw.in",
+      "fetchedAt": "2026-02-17T11:33:29.431769+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473559477588664321",
+          "handle": "puhazh_gandhi",
+          "date": "Wed Dec 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "A Critical Approach To Madras High Court Single Bench Decision On GST On Maintenance Charges By Resident Welfare Associations",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Puhazh Gandhi P",
+      "rawText": "",
+      "extractedData": {
+        "headline": "A Critical Approach To Madras High Court Single Bench Decision On GST On Maintenance Charges By Resident Welfare Associations",
+        "summary": "The recent judgement of the Madras High Court in Greenwood Owners Association v. Union of India WP 5518&amp;1555 of 2020 dated 01.07 2021  quashing the order of the Authority for Advanced Ruling (\\&quot;AAR\\&quot;)..."
+      }
+    },
+    {
+      "url": "https://www.archaeology.org/issues/451-2201/features/10187-new-mexico-earliest-americans#.YcLZAh7-MpQ.twitter",
+      "urlHash": "a5db1432ab2b",
+      "domain": "archaeology.org",
+      "fetchedAt": "2026-02-17T11:33:31.566945+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473562485093388288",
+          "handle": "TRBRajaa",
+          "date": "Wed Dec 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Top 10 Discoveries of 2021 - The First Americans - Archaeology Magazine - January/February 2022",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Top 10 Discoveries of 2021 - The First Americans - Archaeology Magazine - January/February 2022",
+        "summary": "White Sands, New Mexico"
+      }
+    },
+    {
+      "url": "https://www.abc.net.au/news/2021-12-23/gay-trans-rights-in-india/100697904?utm_source=abc_news_web&utm_medium=content_shared&utm_campaign=abc_news_web",
+      "urlHash": "145f7106d90d",
+      "domain": "abc.net.au",
+      "fetchedAt": "2026-02-17T11:33:40.295473+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473853472189472768",
+          "handle": "TRBRajaa",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "In India, gay, lesbian and trans people can face witchdoctors, exorcists and &#x27;corrective rape&#x27; - ABC News",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "In India, gay, lesbian and trans people can face witchdoctors, exorcists and &#x27;corrective rape&#x27; - ABC News",
+        "summary": "When Sonia asked\u00a0a court for protection, her sexuality was still illegal. But when another young couple did the same, they made history in India."
+      }
+    },
+    {
+      "url": "https://thewire.in/communalism/hindutva-leaders-dharma-sansad-muslim-genocide",
+      "urlHash": "af96a2655a04",
+      "domain": "thewire.in",
+      "fetchedAt": "2026-02-17T11:33:43.653818+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473854508190945281",
+          "handle": "meenakandasamy",
+          "date": "Thu Dec 23"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Hindutva Leaders at Haridwar Event Call for Muslim Genocide - The Wire",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Hindutva Leaders at Haridwar Event Call for Muslim Genocide - The Wire",
+        "summary": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/supportus",
+      "urlHash": "a3cef4225d47",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:33:45.998015+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1473854776118943746",
+          "handle": "thenewsminute",
+          "date": "Wed Dec 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "The News Minute | South News | Latest Breaking News and Headlines From South India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "The News Minute | South News | Latest Breaking News and Headlines From South India",
+        "summary": "The News Minute \u2013 TNM is an independent digital platform covering south India&#x27;s latest news from the five states of Andhra Pradesh, Telangana, Karnataka, Tamil Nadu and Kerala. Stay updated with the current events, news, weather, insights on political and social issues from south India."
+      }
+    }
+  ]
+}

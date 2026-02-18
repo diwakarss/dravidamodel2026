@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://thewire.in/media/statement-by-the-wire-on-the-governments-blocking-and-unblocking-of-its-website",
+    "urlHash": "1bc4618f5060",
+    "domain": "thewire.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1921108218161266723",
+        "handle": "nramind",
+        "date": "Sat May 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://m.thewire.in/article/security/cnn-french-official-iaf-rafale-downed-by-pakistan",
+    "urlHash": "e2cbd4380563",
+    "domain": "m.thewire.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1921108218161266723",
+        "handle": "nramind",
+        "date": "Sat May 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.dtnext.in/news/tamilnadu/fir-after-12-days-accused-released-without-registering-case-in-pollachi-case-cm-stalin-818491",
+    "urlHash": "82736e8197ed",
+    "domain": "dtnext.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1922259117311209770",
+        "handle": "PWilsonDMK",
+        "date": "Tue May 13"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/state-offers-grants-jobs-visas-to-bring-researchers-leaving-the-us/articleshow/121240743.cms",
+    "urlHash": "b030aa5c27a8",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1924344497527513185",
+        "handle": "DMKITwing",
+        "date": "Mon May 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.indiatoday.in/india-today-insight/story/battleground-tamil-nadu-why-stalins-dmk-appears-to-hold-the-pole-position-2730280-2025-05-25?utm_source=story_twitter&utm_medium=twitter&utm_campaign=storyshareurl",
+    "urlHash": "f96e827623f8",
+    "domain": "indiatoday.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1926643520305062240",
+        "handle": "TRBRajaa",
+        "date": "Sun May 25"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/cities/mumbai/three-language-policy-from-class-1-currently-on-hold-dada-bhuse-10030533/",
+    "urlHash": "da96f8c30821",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1927661459086991620",
+        "handle": "DMKITwing",
+        "date": "Wed May 28"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.freepressjournal.in/india/monster-rapes-5-year-old-girl-inside-temple-in-ups-agra-arrested-after-shocking-video-surfaces",
+    "urlHash": "9b0505ab2956",
+    "domain": "freepressjournal.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1927753588220023088",
+        "handle": "DMKITwing",
+        "date": "Wed May 28"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.news18.com/india/pm-modi-lauds-women-naval-officers-who-sailed-50000-km-what-is-navika-sagar-parikrama-9361356.html?1748679138",
+    "urlHash": "26e5979e824a",
+    "domain": "news18.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1928727835461456176",
+        "handle": "CNNnews18",
+        "date": "Sat May 31"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://M.Sc",
+    "urlHash": "1ccf0bc12da2",
+    "domain": "m.sc",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1928836548180496654",
+        "handle": "Bacteria_Offl",
+        "date": "Fri May 30"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://bbc.in/3ZclY7u",
+    "urlHash": "46586f01d810",
+    "domain": "bbc.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1929552511326716093",
+        "handle": "BBCWorld",
+        "date": "Mon Jun 02"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/explained/population-census-2027-why-this-reopens-debate-on-delimitation-timeline-10048868/",
+    "urlHash": "d9e3baebd223",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1930452307709440445",
+        "handle": "TRBRajaa",
+        "date": "Thu Jun 05"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.adda247.com/jobs/wp-content/uploads/sites/12/2025/06/02122749/HPCL-Notification-2025-2.pdf",
+    "urlHash": "7d1aee8cefe7",
+    "domain": "adda247.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1934596395077714309",
+        "handle": "teakkadai1",
+        "date": "Mon Jun 16"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.reuters.com/science/astronomers-locate-universes-missing-matter-2025-06-16/",
+    "urlHash": "abc88b4172b2",
+    "domain": "reuters.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1934733384120717723",
+        "handle": "TRBRajaa",
+        "date": "Mon Jun 16"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/delhi/they-lost-their-homes-in-delhi-help-came-from-a-home-2000-km-away/articleshow/121959308.cms",
+    "urlHash": "dad2c439e741",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1935999666988237268",
+        "handle": "DMKITwing",
+        "date": "Fri Jun 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://m.timesofindia.com/articleshow/121657956.cms#?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+    "urlHash": "af00e5ab1003",
+    "domain": "m.timesofindia.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1936456039794430129",
+        "handle": "DrGanesh_Japan",
+        "date": "Sat Jun 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.hindustantimes.com/india-news/sanskrit-got-lion-s-share-of-language-promotion-funds-rti-data-101750704203655.html",
+    "urlHash": "1ac1bdfa076d",
+    "domain": "hindustantimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1937371620114595955",
+        "handle": "DMKITwing",
+        "date": "Tue Jun 24"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.hindustantimes.com/real-estate/chennai-only-city-to-see-increase-in-housing-demand-as-overall-sales-drop-20-in-april-june-quarter-101751362467478.html",
+    "urlHash": "eaf42eb687b2",
+    "domain": "hindustantimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1940031637028577730",
+        "handle": "TRBRajaa",
+        "date": "Tue Jul 01"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://viewpoint.eiu.com/analysis/article/1122159112/",
+    "urlHash": "6c228dc4d2b8",
+    "domain": "viewpoint.eiu.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1942427869814350205",
+        "handle": "TRBRajaa",
+        "date": "Tue Jul 08"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2025-07-08/will-trade-war-make-south-india-the-next-manufacturing-hub",
+    "urlHash": "22da3207f2b8",
+    "domain": "bloomberg.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1942786000079516055",
+        "handle": "TRBRajaa",
+        "date": "Wed Jul 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/vinfast-auto-india-inducts-first-200-hires-at-thoothukudi-ev-plant/122342643",
+    "urlHash": "d91c88c73420",
+    "domain": "auto.economictimes.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1942917692765397137",
+        "handle": "TRBRajaa",
+        "date": "Wed Jul 09"
+      }
+    ],
+    "status": "pending"
+  }
+]

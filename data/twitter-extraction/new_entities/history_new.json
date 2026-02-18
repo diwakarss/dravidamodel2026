@@ -1,0 +1,112 @@
+{
+  "category": "history",
+  "generatedAt": "2026-02-17T18:48:00.203025+00:00",
+  "existingItemsCount": 63,
+  "newCandidatesCount": 2,
+  "candidates": [
+    {
+      "name": "Tnhrcedept",
+      "type": "temple",
+      "confidence": 0.8,
+      "mentions": 6,
+      "locations": [],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-10-06",
+      "last_mention": "2025-11-05",
+      "sample_matches": [
+        "tnhrcedept திருக்கோயில்"
+      ],
+      "sources": [
+        {
+          "date": "2025-10-06",
+          "handle": "mkstalin",
+          "tweetId": "1975201970538336521",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1975201970538336521",
+          "eventType": "ground_breaking",
+          "text": "இன்றைய நிகழ்வுகளில்,\n\n🏫 ஆதிதிராவிடர் & பழங்குடியினர் நலத்துறை சார்பில் பள்ளி மற்றும் கல்லூரி மாணவர்களுக்கான 20 சமூகநீதி விடுதிகள், அறிவுசார் மையங்கள் உள்ளிட்டவற்றைத் திறந்து வைத்து,\n\n📖 @tnschoolsedu சார்பில், திரு. ஆர். பாலகிருஷ்ணன் அவர்கள் எழுதிய Journey of a Civilization: Indus to Vaigai நூலின் இந"
+        },
+        {
+          "date": "2025-10-06",
+          "handle": "mkstalin",
+          "tweetId": "1975205411587518943",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1975205411587518943",
+          "eventType": "ground_breaking",
+          "text": "இன்றைய நிகழ்வுகளில்,\n\n🏫 ஆதிதிராவிடர் & பழங்குடியினர் நலத்துறை சார்பில் பள்ளி மற்றும் கல்லூரி மாணவர்களுக்கான 20 சமூகநீதி விடுதிகள், அறிவுசார் மையங்கள் உள்ளிட்டவற்றைத் திறந்து வைத்து,\n\n📖 @tnschoolsedu சார்பில், திரு. ஆர். பாலகிருஷ்ணன் அவர்கள் எழுதிய Journey of a Civilization: Indus to Vaigai நூலின் இந"
+        },
+        {
+          "date": "2025-10-06",
+          "handle": "mkstalin",
+          "tweetId": "1975491464852611494",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1975491464852611494",
+          "eventType": "ground_breaking",
+          "text": "இன்றைய நிகழ்வுகளில்,\n\n🏫 ஆதிதிராவிடர் & பழங்குடியினர் நலத்துறை சார்பில் பள்ளி மற்றும் கல்லூரி மாணவர்களுக்கான 20 சமூகநீதி விடுதிகள், அறிவுசார் மையங்கள் உள்ளிட்டவற்றைத் திறந்து வைத்து,\n\n📖 @tnschoolsedu சார்பில், திரு. ஆர். பாலகிருஷ்ணன் அவர்கள் எழுதிய Journey of a Civilization: Indus to Vaigai நூலின் இந"
+        },
+        {
+          "date": "2025-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1985994498787143843",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1985994498787143843",
+          "eventType": "other",
+          "text": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n🏑 #HeroAsianChampionsTrophy2023-ஐ வெற்றிகரமாக நடத்திக் காட்டிய @SportsTN_, அடுத்ததாக 24 நாடுகள் பங்குபெறும் FIH ஆடவர் ஹாக்கி இளையோர் உலகக் கோப்பையைச் சென்னை & மதுரையில் நடத்தப்போகிறது. இதற்கான FIH Hockey Men’s Junior World Cup 2025 வெற்றிக்கோப்பையினை அறிமுகம் செய்துவை"
+        },
+        {
+          "date": "2025-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1985995934929760423",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1985995934929760423",
+          "eventType": "other",
+          "text": "இன்றைய நிகழ்வுகளின் தொகுப்பில்,\n🏑 #HeroAsianChampionsTrophy2023-ஐ வெற்றிகரமாக நடத்திக் காட்டிய @SportsTN_, அடுத்ததாக 24 நாடுகள் பங்குபெறும் FIH ஆடவர் ஹாக்கி இளையோர் உலகக் கோப்பையைச் சென்னை & மதுரையில் நடத்தப்போகிறது. இதற்கான FIH Hockey Men’s Junior World Cup 2025 வெற்றிக்கோப்பையினை அறிமுகம் செய்துவை"
+        }
+      ]
+    },
+    {
+      "name": "Chennai Egmore",
+      "type": "museum",
+      "confidence": 0.95,
+      "mentions": 3,
+      "locations": [
+        "Chennai"
+      ],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-03-19",
+      "last_mention": "2025-03-19",
+      "sample_matches": [
+        "chennai egmore museum"
+      ],
+      "sources": [
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902247349856170170",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902247349856170170",
+          "eventType": "ground_breaking",
+          "text": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir John Marshall, who discovered and announced the #IndusValleyCivilisation to the world, opened a new chapter in Indian archaeology. His discovery disma"
+        },
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902251432281305265",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902251432281305265",
+          "eventType": "ground_breaking",
+          "text": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir John Marshall, who discovered and announced the #IndusValleyCivilisation to the world, opened a new chapter in Indian archaeology. His discovery disma"
+        },
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902353261371519461",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902353261371519461",
+          "eventType": "ground_breaking",
+          "text": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir John Marshall, who discovered and announced the #IndusValleyCivilisation to the world, opened a new chapter in Indian archaeology. His discovery disma"
+        }
+      ]
+    }
+  ]
+}

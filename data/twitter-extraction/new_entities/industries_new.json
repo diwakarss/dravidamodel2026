@@ -1,0 +1,189 @@
+{
+  "category": "industries",
+  "generatedAt": "2026-02-17T18:47:39.328763+00:00",
+  "existingItemsCount": 216,
+  "newCandidatesCount": 4,
+  "candidates": [
+    {
+      "name": "Manufacturing Oragadam",
+      "type": "factory",
+      "confidence": 1.0,
+      "mentions": 3,
+      "locations": [
+        "Chennai",
+        "Oragadam"
+      ],
+      "investment_crore": 525.0,
+      "jobs": 2000,
+      "accounts": [
+        "UpdatesChennai",
+        "TRBRajaa"
+      ],
+      "first_mention": "2025-04-09",
+      "last_mention": "2026-02-04",
+      "sample_matches": [
+        "manufacturing facility at oragadam",
+        "manufacturing facility in oragadam"
+      ],
+      "sources": [
+        {
+          "date": "2025-04-09",
+          "handle": "TRBRajaa",
+          "tweetId": "1909904116865785938",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1909904116865785938",
+          "eventType": "mou_signed",
+          "text": "HP laptops, soon to be #MadeInTamilNadu ! \n\nAnother big day for #electronics manufacturing in #TamilNadu! \n\nToday in the presence of Honourable @CMOTamilNadu Thiru. @MKStalin avargal, Dixon Technologies has signed an MoU for a brand-new, state-of-the-art manufacturing facility at Oragadam near Chenn"
+        },
+        {
+          "date": "2026-02-04",
+          "handle": "TRBRajaa",
+          "tweetId": "2019008912050225525",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2019008912050225525",
+          "eventType": "mou_signed",
+          "text": "Fasten your Fastners it's MoU time🔩!!!\n\nAnother global manufacturing leader chooses #TamilNadu 🌟\n\nBulten Group, through its Indian arm PSM Fasteners India, has signed an MoU with the Government of Tamil Nadu to establish a new fastners manufacturing facility in Oragadam. \n\nThis project will see an i"
+        },
+        {
+          "date": "2026-02-04",
+          "handle": "UpdatesChennai",
+          "tweetId": "2019034737323700709",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/2019034737323700709",
+          "eventType": "mou_signed",
+          "text": "🚨Another Investment!!\n🇸🇪Swedish Engineering Major Bulten Group through its Indian subsidiary PSM Fasteners India signs MoU to establish a new fasteners manufacturing facility in Oragadam at an investment of 525 Crs & creating 2000 jobs.... #InvestInTN #OneTrillion"
+        }
+      ]
+    },
+    {
+      "name": "Pillaipakkam",
+      "type": "sipcot",
+      "confidence": 1.0,
+      "mentions": 3,
+      "locations": [],
+      "investment_crore": 3009.0,
+      "jobs": 2520,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-12-05",
+      "last_mention": "2025-12-05",
+      "sample_matches": [
+        "sipcot pillaipakkam"
+      ],
+      "sources": [
+        {
+          "date": "2025-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1996859783899763035",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1996859783899763035",
+          "eventType": "mou_signed",
+          "text": "#SIPCOT பிள்ளைப்பாக்கத்தில் உற்பத்தியைத் தொடங்கிய கார்னிங் கூட்டுநிறுவனமான BIG Tech: எவராலும் தடுக்க முடியாத தமிழ்நாட்டின் வளர்ச்சி!\n\nInaugurated BIG Tech, at #SIPCOT Pillaipakkam, the joint venture of #Corning International Corporation and #Optiemus Infracom that brings India’s first advanced front"
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1996862179174502576",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1996862179174502576",
+          "eventType": "mou_signed",
+          "text": "#SIPCOT பிள்ளைப்பாக்கத்தில் உற்பத்தியைத் தொடங்கிய கார்னிங் கூட்டுநிறுவனமான BIG Tech: எவராலும் தடுக்க முடியாத தமிழ்நாட்டின் வளர்ச்சி!\n\nInaugurated BIG Tech, at #SIPCOT Pillaipakkam, the joint venture of #Corning International Corporation and #Optiemus Infracom that brings India’s first advanced front"
+        },
+        {
+          "date": "2025-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1996862337178095715",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1996862337178095715",
+          "eventType": "mou_signed",
+          "text": "#SIPCOT பிள்ளைப்பாக்கத்தில் உற்பத்தியைத் தொடங்கிய கார்னிங் கூட்டுநிறுவனமான BIG Tech: எவராலும் தடுக்க முடியாத தமிழ்நாட்டின் வளர்ச்சி!\n\nInaugurated BIG Tech, at #SIPCOT Pillaipakkam, the joint venture of #Corning International Corporation and #Optiemus Infracom that brings India’s first advanced front"
+        }
+      ]
+    },
+    {
+      "name": "Robotics Irungattukottai",
+      "type": "factory",
+      "confidence": 0.95,
+      "mentions": 3,
+      "locations": [
+        "Ranipet"
+      ],
+      "investment_crore": 1425.0,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-06-04",
+      "last_mention": "2025-06-04",
+      "sample_matches": [
+        "robotics plant at irungattukottai"
+      ],
+      "sources": [
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930180022888985030",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930180022888985030",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930183827613462621",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930183827613462621",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930196151493337508",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930196151493337508",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        }
+      ]
+    },
+    {
+      "name": "Separation Ranipet",
+      "type": "factory",
+      "confidence": 0.95,
+      "mentions": 3,
+      "locations": [
+        "Ranipet"
+      ],
+      "investment_crore": 1425.0,
+      "jobs": null,
+      "accounts": [
+        "mkstalin"
+      ],
+      "first_mention": "2025-06-04",
+      "last_mention": "2025-06-04",
+      "sample_matches": [
+        "separation facility at ranipet"
+      ],
+      "sources": [
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930180022888985030",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930180022888985030",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930183827613462621",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930183827613462621",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        },
+        {
+          "date": "2025-06-04",
+          "handle": "mkstalin",
+          "tweetId": "1930196151493337508",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930196151493337508",
+          "eventType": "inauguration",
+          "text": "Inaugurated Agile Robots SE’s AI-driven robotics plant at Irungattukottai SIPCOT and SOL’s air separation facility at Ranipet SIPCOT today, attracting Rs. 475 crore investment and creating jobs for our youth. \n\nTamil Nadu is the only state where manufacturing contributes 25% to GSDP. The #DravidianM"
+        }
+      ]
+    }
+  ]
+}

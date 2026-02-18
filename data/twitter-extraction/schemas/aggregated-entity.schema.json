@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aggregated Entity",
+  "description": "Schema for aggregated entity with all tweet sources (Wave 4)",
+  "type": "object",
+  "required": ["entityId", "name", "category", "sources"],
+  "properties": {
+    "entityId": {
+      "type": "string",
+      "description": "Normalized ID for entity matching: lowercase-hyphenated"
+    },
+    "name": {
+      "type": "string",
+      "description": "Primary name of project/scheme/company"
+    },
+    "nameVariants": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Alternative names found across tweets"
+    },
+    "category": {
+      "type": "string"
+    },
+    "subCategory": {
+      "type": "string"
+    },
+    "entityType": {
+      "enum": ["project", "scheme", "investment", "company"]
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "object",
+      "properties": {
+        "district": { "type": "string" },
+        "city": { "type": "string" },
+        "coordinates": {
+          "type": "object",
+          "properties": {
+            "lat": { "type": "number" },
+            "lng": { "type": "number" }
+          }
+        }
+      }
+    },
+    "latestStatus": {
+      "enum": ["announced", "under_construction", "operational", "completed", "ongoing"],
+      "description": "Derived from most recent event"
+    },
+    "numbers": {
+      "type": "object",
+      "description": "Latest/highest values from all sources",
+      "properties": {
+        "investmentCrore": { "type": "number" },
+        "jobsCreated": { "type": "integer" },
+        "beneficiaries": { "type": "integer" },
+        "budgetCrore": { "type": "number" },
+        "capacity": { "type": "string" },
+        "area": { "type": "string" }
+      }
+    },
+    "timeline": {
+      "type": "object",
+      "properties": {
+        "firstMention": { "type": "string", "format": "date" },
+        "lastMention": { "type": "string", "format": "date" },
+        "mouSigned": { "type": "string", "format": "date" },
+        "groundBreaking": { "type": "string", "format": "date" },
+        "inauguration": { "type": "string", "format": "date" },
+        "productionStart": { "type": "string", "format": "date" }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "description": "All tweet sources for this entity, chronologically ordered",
+      "items": {
+        "type": "object",
+        "required": ["date", "handle", "tweetId", "eventType"],
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "handle": { "type": "string" },
+          "tweetId": { "type": "string" },
+          "fxUrl": { "type": "string", "format": "uri" },
+          "eventType": { "type": "string" },
+          "summary": {
+            "type": "string",
+            "maxLength": 200,
+            "description": "Brief summary of what this tweet announced"
+          },
+          "enrichedLinks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "url": { "type": "string" },
+                "title": { "type": "string" },
+                "type": { "enum": ["government", "media", "press", "other"] }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tweetCount": {
+      "type": "integer",
+      "description": "Total number of tweets referencing this entity"
+    },
+    "accountsCovering": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Which accounts tweeted about this"
+    },
+    "aggregatedAt": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}

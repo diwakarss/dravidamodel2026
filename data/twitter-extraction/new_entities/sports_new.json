@@ -1,0 +1,69 @@
+{
+  "category": "sports",
+  "generatedAt": "2026-02-17T18:47:57.406043+00:00",
+  "existingItemsCount": 77,
+  "newCandidatesCount": 1,
+  "candidates": [
+    {
+      "name": "Shooting",
+      "type": "tournament",
+      "confidence": 0.85,
+      "mentions": 9,
+      "locations": [
+        "Chennai"
+      ],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "TRBRajaa"
+      ],
+      "first_mention": "2025-01-17",
+      "last_mention": "2025-12-31",
+      "sample_matches": [
+        "shooting championship"
+      ],
+      "sources": [
+        {
+          "date": "2025-01-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1880186567802696069",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1880186567802696069",
+          "eventType": "inauguration",
+          "text": "Extremely elated that my daughter Nilaa continues to bring glory to the state ♥️\nOur Tamil Nadu shooters are coming home with a bag of medals from the National Shotgun Shooting Championship held in Delhi🎊🎊🎊\n\nHH Rajah Rajagopala Tondaiman avl won the individual Silver in the Senior Skeet event🌟\n\nMy b"
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1960255219352105470",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1960255219352105470",
+          "eventType": "other",
+          "text": "On the morning of 19th of August my entire family was with my mother by her bedside. My daughter came to take her grandmother's blessings as she had to go to Kazakhstan for the 16th #ISSF #AsianShootingChampionship. She was boarding the flight when my mother left us. We didn't know what to do...she "
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1960326947411837352",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1960326947411837352",
+          "eventType": "other",
+          "text": "On the morning of 19th of August my entire family was with my mother by her bedside. My daughter came to take her grandmother's blessings as she had to go to Kazakhstan for the 16th #ISSF #AsianShootingChampionship. She was boarding the flight when my mother left us. We didn't know what to do...she "
+        },
+        {
+          "date": "2025-12-31",
+          "handle": "TRBRajaa",
+          "tweetId": "2006233111999439179",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2006233111999439179",
+          "eventType": "other",
+          "text": "Proud to see our very own Tanisska win the individual Silver at the tightly fought National Shooting Championship being held in NewDelhi 🎉🌟\n\nOur sports champions are making us proud at every level and with the added support of our Honourable #DyCMUdhay under the guidance of"
+        },
+        {
+          "date": "2025-12-31",
+          "handle": "TRBRajaa",
+          "tweetId": "2006240053165695482",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2006240053165695482",
+          "eventType": "other",
+          "text": "Proud to see our very own Tanisska win the individual Silver at the tightly fought National Trap Shooting Championship being held in NewDelhi 🎉🌟\n\nOur sports champions are making us proud at every level and with the added support of our Honourable #DyCMUdhay under the guidance of Honourable @CMOTamil"
+        }
+      ]
+    }
+  ]
+}

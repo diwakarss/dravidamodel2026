@@ -1,0 +1,449 @@
+{
+  "batch": 13,
+  "processedAt": "2026-02-17T11:31:29.979657+00:00",
+  "stats": {
+    "success": 17,
+    "failed": 3,
+    "not_found": 0,
+    "blocked": 0,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://edition.cnn.com/2021/11/01/asia/afghanistan-child-marriage-crisis-taliban-intl-hnk-dst/index.html?utm_medium=social&utm_source=twCNNi&utm_term=link&utm_content=2021-11-02T01%3A16%3A03",
+      "urlHash": "c641b540581c",
+      "domain": "edition.cnn.com",
+      "fetchedAt": "2026-02-17T11:30:31.066296+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1455345769779585027",
+          "handle": "TRBRajaa",
+          "date": "Tue Nov 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.indcoserve.com/products/indcos-kahwa/",
+      "urlHash": "f7a97f2c5dc1",
+      "domain": "indcoserve.com",
+      "fetchedAt": "2026-02-17T11:30:35.163492+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1455491439224184838",
+          "handle": "TRBRajaa",
+          "date": "Tue Nov 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Indcoserve | Indco&#8217;s Kahwa",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "https://www.indcoserve.com/",
+      "rawText": "Coffee culture is a great coffee taste and it rests on the basis of responsible &amp; respectful Grown traditionally, harvested naturally and roasted lovingly, they're the star of every cup &#8377; 680.00 8 in stock",
+      "extractedData": {
+        "headline": "Indcoserve | Indco&#8217;s Kahwa",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.technologyreview.com/2021/05/27/1025453/artificial-intelligence-learning-create-itself-agi/?utm_campaign=site_visitor.unpaid.engagement&utm_medium=tr_social&utm_source=Twitter",
+      "urlHash": "d4d449c466b6",
+      "domain": "technologyreview.com",
+      "fetchedAt": "2026-02-17T11:30:41.078509+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1456350668348813330",
+          "handle": "TRBRajaa",
+          "date": "Thu Nov 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "AI is learning how to create itself | MIT Technology Review",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "AI is learning how to create itself | MIT Technology Review",
+        "summary": "Is AI that learns on its own the path to truly intelligent machines?"
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/dmk/2021/11/04/cm-mk-stalin-remembring-misa-incident-after-watching-jai-bhim",
+      "urlHash": "3421b0f5fd91",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:30:44.351424+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1456611107888455685",
+          "handle": "Kalaignarnews",
+          "date": "Fri Nov 05"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "cm mk stalin remembring misa incident after watching jai bhim",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "cm mk stalin remembring misa incident after watching jai bhim",
+        "summary": "cm mk stalin remembring misa incident after watching jai bhim"
+      }
+    },
+    {
+      "url": "https://hoote.page.link/1LX1aSQvyzJMZc3V6",
+      "urlHash": "c0aa2fc6e2ae",
+      "domain": "hoote.page.link",
+      "fetchedAt": "2026-02-17T11:30:46.809492+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1456987943780773894",
+          "handle": "CMOTamilnadu",
+          "date": "Sat Nov 06"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_302"
+    },
+    {
+      "url": "https://hoote.page.link/V7sF3E4tKLUg1vYy9",
+      "urlHash": "5b58184c2764",
+      "domain": "hoote.page.link",
+      "fetchedAt": "2026-02-17T11:30:51.157773+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1456990454470242308",
+          "handle": "mkstalin",
+          "date": "Sat Nov 06"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_302"
+    },
+    {
+      "url": "https://theprint.in/world/sri-lanka-junks-organic-farming-6-months-after-overnight-ban-on-chemical-fertiliser-imports/761250/",
+      "urlHash": "4d531c851978",
+      "domain": "theprint.in",
+      "fetchedAt": "2026-02-17T11:30:53.620779+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1457186506955624448",
+          "handle": "TRBRajaa",
+          "date": "Sun Nov 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Sri Lanka junks organic farming 6 months after overnight ban on chemical fertiliser imports",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Samyak Pandey",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Sri Lanka junks organic farming 6 months after overnight ban on chemical fertiliser imports",
+        "summary": "Sri Lanka has distributed consignment of nano urea fertiliser imported from India for paddy cultivation. There was a lot of anger among farmers over the earlier ban."
+      }
+    },
+    {
+      "url": "https://spaceflightnow.com/2021/11/08/spacex-crew-2-return-mission-status-center/",
+      "urlHash": "57ccf9f018f2",
+      "domain": "spaceflightnow.com",
+      "fetchedAt": "2026-02-17T11:30:56.519779+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1457930130983043074",
+          "handle": "SpaceflightNow",
+          "date": "Tue Nov 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Live coverage: Dragon crew capsule splashes down in Gulf of Mexico &#8211; Spaceflight Now",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Live coverage: Dragon crew capsule splashes down in Gulf of Mexico &#8211; Spaceflight Now",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.theweek.in/news/india/2021/11/09/tn-bjp-chief-annamalai-trolled-for-photo-op-while-visiting-flooded-areas-in-chennai.html",
+      "urlHash": "eb78efa6924b",
+      "domain": "theweek.in",
+      "fetchedAt": "2026-02-17T11:31:00.548620+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1458450478027579394",
+          "handle": "lakhinathan",
+          "date": "Wed Nov 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN BJP chief Annamalai criticised for photo-op while visiting flooded areas in Chennai- The Week",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "TN BJP chief Annamalai criticised for photo-op while visiting flooded areas in Chennai Some videos show Annamalai using a boat in ankle-deep water Screenshot of a video in which Annamalai is seen travelling by boat in a flooded district of Chennai | Twitter In an attempt to expose the mismanagement of floods in chief minister MK Stalin\u2019s constituency, Tamil Nadu BJP chief K. Annamalai visited Kolathur but ended up getting criticised for staging a photo-op. The video of Annamalai sitting on a boat in ankle-deep water, with his party colleague Karu Nagarajan, went viral on social media. Ready!!!Take!!!Action!!! #Goat_on_Boat . \u2066 @DhivCM \u2069 \u2066 @rajakumaari \u2069 \u2066 @kaajalActress \u2069 \u2066 @annamalai_k \u2069 \u2066 @khushsundar \u2069 \u2066 @BJP_Gayathri_R \u2069 pic.twitter.com/SFPJYJJREC In the backdrop, one can hear his aides instructing the lensman to shoot a video in a particular manner. The videographer capturing Annamalai is heard asking others walking beside the boat, in ankle-deep water, to move so that Annamalai and Nagarajan get visibility. The video which went viral on social media was trolled extensively by the netizens, as Annamalai used a boat to traverse a street with ankle-deep water, where he could have walked to meet the people. In the video, Annamalai is seen asking a woman to go upstairs to avoid flood and stay safe. In another video, Annamalai said that Hindu Religious and Charitable Endowments Minister P. Sekar Babu had threatened BJP party men. This was called a bluff by the DMK IT wing. In the video, a few BJP supporters are heard shouting, \u201cBolo. Bharat Mata ki Jai,\u201d as Chief minister MK Stalin\u2019s convoy slows down to stop hearing the slogans. Sekar Babu, who alights from the vehicle walks to the protesters asking them, \u201cWhat is the noise for?\u201d And one BJPian is heard saying, \u201cNo brother, we came to give a petition.\u201d Sekar Babu then says, \u201cAny one person come and give the petition.\u201d Annamalai spent the day visiting flooded regions, and accused the DMK government had failed in man",
+      "extractedData": {
+        "headline": "TN BJP chief Annamalai criticised for photo-op while visiting flooded areas in Chennai- The Week",
+        "summary": "Some videos show Annamalai using a boat in ankle-deep water"
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/11/11/during-admk-tenure-8820-crore-spent-for-rainwater-drainage-scheme-in-chennai",
+      "urlHash": "631473596e38",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:31:03.586249+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1458707196452098051",
+          "handle": "Kalaignarnews",
+          "date": "Thu Nov 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "during admk tenure 8820 crore spent for rainwater drainage scheme in chennai",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "during admk tenure 8820 crore spent for rainwater drainage scheme in chennai",
+        "summary": "during admk tenure 8820 crore spent for rainwater drainage scheme in chennai"
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/11/12/chennai-advocates-oppose-hc-cj-sanjib-banerjee-transfers-to-meghalaya",
+      "urlHash": "a8372b57a3bb",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:31:06.109981+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1459094998738112524",
+          "handle": "Kalaignarnews",
+          "date": "Fri Nov 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "chennai advocates oppose hc cj sanjib banerjee transfers to meghalaya",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "chennai advocates oppose hc cj sanjib banerjee transfers to meghalaya",
+        "summary": "chennai advocates oppose hc cj sanjib banerjee transfers to meghalaya"
+      }
+    },
+    {
+      "url": "https://www.chennairains.com/heavy-rains-continue-over-kanyakumari/",
+      "urlHash": "a3ccbf06668f",
+      "domain": "chennairains.com",
+      "fetchedAt": "2026-02-17T11:31:08.924029+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1459370886641770502",
+          "handle": "ChennaiRains",
+          "date": "Sat Nov 13"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Heavy Rains to continue over Kanyakumari District - Chennairains (COMK)",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Chennaiyil Oru Mazhaikkaalam",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Heavy Rains to continue over Kanyakumari District - Chennairains (COMK)",
+        "summary": "Kanyakumari district has been under a literal siege of heavy rains for the past 36 hours or so with many places coming under heavy to very heavy spell of rains that does not seem to stop. Last evening traffic was suspended between Nagerkoil &amp; Tirunelveli due to overflowing flood waters in between. As many would..."
+      }
+    },
+    {
+      "url": "https://www.independent.co.uk/arts-entertainment/films/news/jai-bhim-suriya-movie-review-imdb-b1955747.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1636632744",
+      "urlHash": "341d75e9f2b6",
+      "domain": "independent.co.uk",
+      "fetchedAt": "2026-02-17T11:31:11.543401+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1459371159707795456",
+          "handle": "Independent",
+          "date": "Thu Nov 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Jai Bhim: Glowing reviews for \u2018hard-hitting, honest\u2019 Indian film that \u2018outranks Shawshank Redemption\u2019 on IMDb | The Independent",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Jai Bhim: Glowing reviews for \u2018hard-hitting, honest\u2019 Indian film that \u2018outranks Shawshank Redemption\u2019 on IMDb | The Independent",
+        "summary": "Tamil language film earns an impressive 9.6 score on IMDb"
+      }
+    },
+    {
+      "url": "https://cag.gov.in/cag_old/sites/default/files/audit_report_files/Report_No_4_of_2017_-_Performance_Audit_of_Flood_Management_and_Response_in_Chennai_and_its_Suburban_Area.pdf",
+      "urlHash": "fe9d51d04589",
+      "domain": "cag.gov.in",
+      "fetchedAt": "2026-02-17T11:31:14.378652+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1459602061239021570",
+          "handle": "angry_birdu",
+          "date": "Sat Nov 13"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "government",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.chennairains.com/relief-ahead-from-extreme-rains-for-tamil-nadu/",
+      "urlHash": "59cabefe2ec7",
+      "domain": "chennairains.com",
+      "fetchedAt": "2026-02-17T11:31:17.265842+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1459747224775114752",
+          "handle": "ChennaiRains",
+          "date": "Sun Nov 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Relief ahead from Extreme Rains for Tamil Nadu - Chennairains (COMK)",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Chennaiyil Oru Mazhaikkaalam",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Relief ahead from Extreme Rains for Tamil Nadu - Chennairains (COMK)",
+        "summary": "Since the early days of November Northeast Monsoon has been pretty much vigorous over Tamil Nadu. This spell has also seen a few extreme rainfall episodes as well starting with parts of Chennai seeing sudden burst of rains exactly a week back, subsequently parts of delta came under extreme spell that brought more than 20..."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/mild-tremors-felt-vizag-residents-report-explosion-sound-157578",
+      "urlHash": "8e65ecab5d31",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:31:19.618924+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1459750546823278595",
+          "handle": "thenewsminute",
+          "date": "Sun Nov 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Mild tremors felt in Vizag, residents report explosion-like sound",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "TNM Staff",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Mild tremors felt in Vizag, residents report explosion-like sound",
+        "summary": "According to the National Center for Seismology, the quake was 5 km deep and its epicentre was close to the VUDA Park Lighthouse."
+      }
+    },
+    {
+      "url": "https://tn181whl.org/181-women-helpline/",
+      "urlHash": "8460550a9b2d",
+      "domain": "tn181whl.org",
+      "fetchedAt": "2026-02-17T11:31:22.168689+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1460233905047359495",
+          "handle": "riya_anbu",
+          "date": "Mon Nov 15"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://m.thewire.in/article/political-economy/electoral-bonds-are-a-threat-to-indian-democracy",
+      "urlHash": "90ad421caaa9",
+      "domain": "m.thewire.in",
+      "fetchedAt": "2026-02-17T11:31:24.995594+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1460287331630342146",
+          "handle": "TRBRajaa",
+          "date": "Mon Nov 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Electoral Bonds Are a Threat to Indian Democracy - The Wire",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Electoral Bonds Are a Threat to Indian Democracy - The Wire",
+        "summary": "The electoral bonds system allows corporates to anonymously donate theoretically infinite amounts of money to political parties, triggering concerns that the ruling party will return the favour through corporate-friendly public policy."
+      }
+    },
+    {
+      "url": "https://www.chennairains.com/increase-rains-expected-coastal-tn-today-evening/",
+      "urlHash": "065316d3deb2",
+      "domain": "chennairains.com",
+      "fetchedAt": "2026-02-17T11:31:27.410935+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1460810892262604805",
+          "handle": "ChennaiRains",
+          "date": "Wed Nov 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Increase in Rains expected for Coastal TN from later today evening - Chennairains (COMK)",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Chennaiyil Oru Mazhaikkaalam",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Increase in Rains expected for Coastal TN from later today evening - Chennairains (COMK)",
+        "summary": "The popular proverb Man Proposes God Disposes becomes Models Propose Bay Disposes for Weather Bloggers. Weather models struggling even in the short term is nothing new especially with weak to moderate intensity disturbances which tend to have their own dynamics at a much smaller scale than getting involved with larger scale factors like Indo China..."
+      }
+    },
+    {
+      "url": "https://www.theweek.in/theweek/cover/2021/11/11/justice-chandru-whose-life-inspired-Jai%20Bhim-was-a-lawyer-who-fought-for-people-rights.html",
+      "urlHash": "b79172ab0fe5",
+      "domain": "theweek.in",
+      "fetchedAt": "2026-02-17T11:31:29.798209+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1460814214373601290",
+          "handle": "imanojprabakar",
+          "date": "Tue Nov 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Justice Chandru, whose life inspired \u2018Jai Bhim\u2019, was a lawyer who fought for people\u2019s rights- The Week",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Justice Chandru, whose life inspired \u2018Jai Bhim\u2019, was a lawyer who fought for people\u2019s rights- The Week",
+        "summary": "As advocate Chandru reads the newspaper, back straight, legs crossed, a tentative"
+      }
+    }
+  ]
+}

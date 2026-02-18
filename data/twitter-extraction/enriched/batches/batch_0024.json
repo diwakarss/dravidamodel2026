@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://mybs.in/2awLpBJ",
+    "urlHash": "548425e1dacc",
+    "domain": "mybs.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1539121431031992320",
+        "handle": "TRBRajaa",
+        "date": "Tue Jun 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://bbc.in/3xKL6U3",
+    "urlHash": "5903d2aec094",
+    "domain": "bbc.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1539190903453413377",
+        "handle": "bbctamil",
+        "date": "Tue Jun 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.narendramodi.in/mother-562570",
+    "urlHash": "7b9c1b505c8a",
+    "domain": "narendramodi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1539293194101268481",
+        "handle": "t_d_h_nair",
+        "date": "Tue Jun 21"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/chennai/scam-accused-on-the-run-gets-posting-in-bjp/articleshow/92372549.cms",
+    "urlHash": "a43c849e4ce0",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1539443693920215041",
+        "handle": "sureshkumarTOI",
+        "date": "Wed Jun 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/hyderabad/drdl-engineer-leaked-data-on-nuke-capable-missiles/articleshow/92347466.cms",
+    "urlHash": "2c9b61b829c6",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1539544804383944704",
+        "handle": "t_d_h_nair",
+        "date": "Wed Jun 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/tamilnadu/2022/06/22/manimandapam-for-king-rajagopala-thondaiman-announcement-by-chief-minister-mk-stalin",
+    "urlHash": "ec881a2064f6",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1539586242622345217",
+        "handle": "Kalaignarnews",
+        "date": "Wed Jun 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSej77NxCAzQDr9aowETJEYxrNZoyRBEPnprFbd88LGfSck6Yg/viewform",
+    "urlHash": "dfa1d3a3f27f",
+    "domain": "docs.google.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1539917974232268805",
+        "handle": "Surya_BornToWin",
+        "date": "Thu Jun 23"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://solarsystem.nasa.gov/skywatching/whats-up/?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=170503680",
+    "urlHash": "d380afa9ae2b",
+    "domain": "solarsystem.nasa.gov",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1541033748661096449",
+        "handle": "TRBRajaa",
+        "date": "Sun Jun 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://thewire.in/video/watch-zubair-targeted-because-his-consistent-debunking-of-fake-news-became-a-roadblock-for-bjp",
+    "urlHash": "acdf99a1bbed",
+    "domain": "thewire.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1544646495143882753",
+        "handle": "thewire_in",
+        "date": "Wed Jul 06"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.hindustantimes.com/india-news/shunning-deep-rooted-caste-biases-in-tn-s-equality-villages-101657735071712.html?utm_source=twitter",
+    "urlHash": "67b9a017b0c4",
+    "domain": "hindustantimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1547503837505761280",
+        "handle": "TRBRajaa",
+        "date": "Thu Jul 14"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.nytimes.com/2022/07/31/world/asia/india-plastic-ban.html",
+    "urlHash": "8469696e964b",
+    "domain": "nytimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1554331108522991616",
+        "handle": "CMOTamilnadu",
+        "date": "Tue Aug 02"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://theprint.in/opinion/more-bad-policies-caste-disputes-thats-what-keeping-census-on-union-list-will-bring/1070055/",
+    "urlHash": "9c5dea9e97d7",
+    "domain": "theprint.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1555448230586249216",
+        "handle": "Profdilipmandal",
+        "date": "Fri Aug 05"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://minnambalam.com/what-happened-to-5g-if-the-loss-of-2g",
+    "urlHash": "64cd8cd7bac4",
+    "domain": "minnambalam.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1557293278793695234",
+        "handle": "TRBRajaa",
+        "date": "Wed Aug 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://thelogicalindian.com/history/surayya-tyabji-indian-flag-34816",
+    "urlHash": "3d1a6f642ef8",
+    "domain": "thelogicalindian.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1558749293313667072",
+        "handle": "TRBRajaa",
+        "date": "Sun Aug 14"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newscientist.com/article/2335413-artemis-i-livestream-watch-nasas-historic-sls-rocket-launch/",
+    "urlHash": "bd2ca1695ec2",
+    "domain": "newscientist.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1563223051164327936",
+        "handle": "TRBRajaa",
+        "date": "Fri Aug 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://naanmudhalvan.tn.gov.in/",
+    "urlHash": "28fa7ae3f82b",
+    "domain": "naanmudhalvan.tn.gov.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1564188272099610624",
+        "handle": "mkstalin",
+        "date": "Mon Aug 29"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://minnambalam.com/dravidian-month-celebration-t-r-b-raja-dmk-it-wing-september",
+    "urlHash": "c01fd77125ae",
+    "domain": "minnambalam.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1565561408443428868",
+        "handle": "TRBRajaa",
+        "date": "Fri Sep 02"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://toi.in/XzpF1b/a24gj",
+    "urlHash": "14d5a554cf02",
+    "domain": "toi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1565908262100545536",
+        "handle": "TRBRajaa",
+        "date": "Sat Sep 03"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://toi.in/HNmbBa10/a24gj",
+    "urlHash": "94eb9fc6b8c2",
+    "domain": "toi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1567754200230277123",
+        "handle": "TRBRajaa",
+        "date": "Thu Sep 08"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.wionews.com/science/nasas-webb-telescope-captures-cosmic-tarantula-161000-light-years-away-513553",
+    "urlHash": "7951536471b8",
+    "domain": "wionews.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1567767501714632704",
+        "handle": "TRBRajaa",
+        "date": "Thu Sep 08"
+      }
+    ],
+    "status": "pending"
+  }
+]

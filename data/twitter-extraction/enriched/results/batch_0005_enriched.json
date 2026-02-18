@@ -1,0 +1,738 @@
+{
+  "batch": 5,
+  "processedAt": "2026-02-17T11:23:17.523601+00:00",
+  "stats": {
+    "success": 15,
+    "failed": 1,
+    "not_found": 1,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2022/apr/07/cm-mk-stalin-will-interact-with-1-lakh-farmers-tamil-naduelectricity-minister-v-senthil-balaji-2438943.html",
+      "urlHash": "5556fc46274b",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:22:25.718088+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1512020592597164038",
+          "handle": "DMKITwing",
+          "date": "Thu Apr 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "CM MK Stalin will interact with 1 lakh farmers: Tamil Nadu Electricity Minister V Senthil Balaji",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "Express News Service",
+      "rawText": "",
+      "extractedData": {
+        "headline": "CM MK Stalin will interact with 1 lakh farmers: Tamil Nadu Electricity Minister V Senthil Balaji",
+        "summary": "The minister added that the CM had announced on September 21 last year that the State government would provide free power connections to one lakh farmers for agrarian activities."
+      }
+    },
+    {
+      "url": "https://www.dinakaran.com/news_detail.asp?Nid=756281",
+      "urlHash": "969abad5cae1",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:22:29.012360+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1512622253154127873",
+          "handle": "DinakaranNews",
+          "date": "Sat Apr 09"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/indias-founders-did-not-create-a-unitary-monolith-government-mk-stalin/article65306169.ece",
+      "urlHash": "a189add98fb0",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:22:31.222947+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1513012464253767688",
+          "handle": "TRBRajaa",
+          "date": "Sun Apr 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Constitution-makers did not envisage a monolithic government: M.K. Stalin - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 2, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective.",
+      "extractedData": {
+        "headline": "Constitution-makers did not envisage a monolithic government: M.K. Stalin - The Hindu",
+        "summary": "But the Union government is showing tendencies to concentrate powers with an intent to subjugate the States and local bodies, something that even the British didn\u2019t"
+      }
+    },
+    {
+      "url": "https://www.newindianexpress.com/cities/chennai/2022/mar/31/madras-hc-upholds-hrce-order-to-take-over-ayodhya-mandapam-designate-it-as-temple-2436169.html",
+      "urlHash": "f085fea021dd",
+      "domain": "newindianexpress.com",
+      "fetchedAt": "2026-02-17T11:22:33.352029+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1513549739513442306",
+          "handle": "TRBRajaa",
+          "date": "Mon Apr 11"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Madras HC upholds HR&amp;CE order to take over Ayodhya Mandapam, designate it as temple",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "Express News Service",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Madras HC upholds HR&amp;CE order to take over Ayodhya Mandapam, designate it as temple",
+        "summary": "This question of fact cannot be decided in writ proceedings, she said. However the judge said it was open to the petitioner to challenge the proceedings of the HR&amp;CE before the appropriate forum."
+      }
+    },
+    {
+      "url": "https://www.deccanherald.com/state/top-karnataka-stories/mekedatu-to-submerge-karnataka-forests-worth-rs-816-bn-1099582.html",
+      "urlHash": "2a8cadb41f7b",
+      "domain": "deccanherald.com",
+      "fetchedAt": "2026-02-17T11:22:35.943456+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1513762047745728515",
+          "handle": "TRBRajaa",
+          "date": "Tue Apr 12"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Mekedatu to submerge Karnataka forests worth Rs 81.6 bn",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Mekedatu to submerge Karnataka forests worth Rs 81.6 bn",
+        "summary": "Karnataka might be determined to execute the Mekedatu project but the state government is perhaps unaware of what it is likely to lose in terms of economy. The reservoir project will submerge more than 52 sq km of forests. According to ecological scientists from the Indian Institute of Science (IISc), Karnataka is set to lose forests worth about \u201cRs 81.60 billion\u201d."
+      }
+    },
+    {
+      "url": "https://www.thehindu.com/news/cities/Madurai/pariyerum-perumal-thangarasu-now-has-a-roof-over-his-head-thanks-to-tirunelveli-collector/article65320672.ece",
+      "urlHash": "4074ebca5801",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:22:39.238370+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1514651013558726656",
+          "handle": "TRBRajaa",
+          "date": "Thu Apr 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u2018Pariyerum Perumal\u2019 Thangarasu now has a roof over his head, thanks to Tirunelveli Collector - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "October 20, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "\u2018Pariyerum Perumal\u2019 Thangarasu now has a roof over his head, thanks to Tirunelveli Collector - The Hindu",
+        "summary": "TIRUNELVELI"
+      }
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/neither-fair-nor-feasible-for-state-governments-to-further-cut-fuel-taxes-finance-minister/article65361365.ece",
+      "urlHash": "8efa2792de82",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:22:42.058589+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1519635466508967936",
+          "handle": "DMKITwing",
+          "date": "Thu Apr 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Neither fair nor feasible for State governments to further cut fuel taxes: TN Finance Minister  - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "January 19, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Neither fair nor feasible for State governments to further cut fuel taxes: TN Finance Minister  - The Hindu",
+        "summary": "He was replying to Prime Minister\u2019s request to select States, including T.N., to cut taxes on fuel"
+      }
+    },
+    {
+      "url": "https://www.dinakaran.com/news_detail.asp?Nid=762302",
+      "urlHash": "6c1ecf9b673f",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:22:45.296705+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1521363642952085504",
+          "handle": "DinakaranNews",
+          "date": "Tue May 03"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/business/economy/indias-gdp-to-hit-5-trillion-in-fy29-rupee-at-94-a-dollar-suggests-imf-data-8446811.html",
+      "urlHash": "fbceb9e3d882",
+      "domain": "moneycontrol.com",
+      "fetchedAt": "2026-02-17T11:22:47.511698+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1527486249153736706",
+          "handle": "SriramMadras",
+          "date": "Thu May 19"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "http://www.news7tamil.live",
+      "urlHash": "de63705ec169",
+      "domain": "news7tamil.live",
+      "fetchedAt": "2026-02-17T11:22:49.636757+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1393191482874417163",
+          "handle": "news7tamil",
+          "date": "Fri May 14"
+        },
+        {
+          "tweetId": "1393608416573095937",
+          "handle": "news7tamil",
+          "date": "Sat May 15"
+        },
+        {
+          "tweetId": "1393842170163990537",
+          "handle": "news7tamil",
+          "date": "Sun May 16"
+        },
+        {
+          "tweetId": "1394003129520119813",
+          "handle": "news7tamil",
+          "date": "Sun May 16"
+        },
+        {
+          "tweetId": "1394646523292438532",
+          "handle": "news7tamil",
+          "date": "Tue May 18"
+        },
+        {
+          "tweetId": "1394855696760459264",
+          "handle": "news7tamil",
+          "date": "Tue May 18"
+        },
+        {
+          "tweetId": "1394879048531124224",
+          "handle": "news7tamil",
+          "date": "Wed May 19"
+        },
+        {
+          "tweetId": "1395994335372406785",
+          "handle": "news7tamil",
+          "date": "Fri May 21"
+        },
+        {
+          "tweetId": "1397552388471357443",
+          "handle": "news7tamil",
+          "date": "Wed May 26"
+        },
+        {
+          "tweetId": "1398991925454131200",
+          "handle": "news7tamil",
+          "date": "Sun May 30"
+        },
+        {
+          "tweetId": "1402579904772775938",
+          "handle": "news7tamil",
+          "date": "Wed Jun 09"
+        },
+        {
+          "tweetId": "1404270827823001604",
+          "handle": "news7tamil",
+          "date": "Sun Jun 13"
+        },
+        {
+          "tweetId": "1406826596837642245",
+          "handle": "news7tamil",
+          "date": "Sun Jun 20"
+        },
+        {
+          "tweetId": "1407301810184888321",
+          "handle": "news7tamil",
+          "date": "Tue Jun 22"
+        },
+        {
+          "tweetId": "1407631595150876675",
+          "handle": "news7tamil",
+          "date": "Tue Jun 22"
+        },
+        {
+          "tweetId": "1409365060510617607",
+          "handle": "news7tamil",
+          "date": "Mon Jun 28"
+        },
+        {
+          "tweetId": "1411626430148976641",
+          "handle": "news7tamil",
+          "date": "Sun Jul 04"
+        },
+        {
+          "tweetId": "1412454525223403524",
+          "handle": "news7tamil",
+          "date": "Tue Jul 06"
+        },
+        {
+          "tweetId": "1414934948834725899",
+          "handle": "news7tamil",
+          "date": "Tue Jul 13"
+        },
+        {
+          "tweetId": "1417411155237109768",
+          "handle": "news7tamil",
+          "date": "Tue Jul 20"
+        },
+        {
+          "tweetId": "1420698129687404544",
+          "handle": "news7tamil",
+          "date": "Thu Jul 29"
+        },
+        {
+          "tweetId": "1421550705748238337",
+          "handle": "news7tamil",
+          "date": "Sat Jul 31"
+        },
+        {
+          "tweetId": "1423334475572776965",
+          "handle": "news7tamil",
+          "date": "Thu Aug 05"
+        },
+        {
+          "tweetId": "1425533293731094529",
+          "handle": "news7tamil",
+          "date": "Wed Aug 11"
+        },
+        {
+          "tweetId": "1425713167942918154",
+          "handle": "news7tamil",
+          "date": "Thu Aug 12"
+        },
+        {
+          "tweetId": "1430840044382609413",
+          "handle": "news7tamil",
+          "date": "Thu Aug 26"
+        },
+        {
+          "tweetId": "1431807832723099651",
+          "handle": "news7tamil",
+          "date": "Sun Aug 29"
+        },
+        {
+          "tweetId": "1433245001669087234",
+          "handle": "news7tamil",
+          "date": "Wed Sep 01"
+        },
+        {
+          "tweetId": "1434132882763788297",
+          "handle": "news7tamil",
+          "date": "Sat Sep 04"
+        },
+        {
+          "tweetId": "1434830134180155396",
+          "handle": "news7tamil",
+          "date": "Mon Sep 06"
+        },
+        {
+          "tweetId": "1435555123321737220",
+          "handle": "news7tamil",
+          "date": "Wed Sep 08"
+        },
+        {
+          "tweetId": "1435560143207337984",
+          "handle": "news7tamil",
+          "date": "Wed Sep 08"
+        },
+        {
+          "tweetId": "1437268609026310147",
+          "handle": "news7tamil",
+          "date": "Sun Sep 12"
+        },
+        {
+          "tweetId": "1439822666479796228",
+          "handle": "news7tamil",
+          "date": "Mon Sep 20"
+        },
+        {
+          "tweetId": "1447033974929252354",
+          "handle": "news7tamil",
+          "date": "Sat Oct 09"
+        },
+        {
+          "tweetId": "1454364974948634627",
+          "handle": "news7tamil",
+          "date": "Sat Oct 30"
+        },
+        {
+          "tweetId": "1471457229014376449",
+          "handle": "news7tamil",
+          "date": "Thu Dec 16"
+        },
+        {
+          "tweetId": "1481196370518507527",
+          "handle": "news7tamil",
+          "date": "Wed Jan 12"
+        },
+        {
+          "tweetId": "1481229850988126209",
+          "handle": "news7tamil",
+          "date": "Wed Jan 12"
+        },
+        {
+          "tweetId": "1483043800457297922",
+          "handle": "news7tamil",
+          "date": "Mon Jan 17"
+        },
+        {
+          "tweetId": "1483117848503357445",
+          "handle": "news7tamil",
+          "date": "Mon Jan 17"
+        },
+        {
+          "tweetId": "1490897120169455619",
+          "handle": "news7tamil",
+          "date": "Mon Feb 07"
+        },
+        {
+          "tweetId": "1505501919762010115",
+          "handle": "news7tamil",
+          "date": "Sun Mar 20"
+        },
+        {
+          "tweetId": "1517181731488829440",
+          "handle": "news7tamil",
+          "date": "Thu Apr 21"
+        },
+        {
+          "tweetId": "1526428204965060609",
+          "handle": "news7tamil",
+          "date": "Mon May 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "News 7 Tamil - News7 Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "News 7 Tamil - News7 Tamil",
+        "summary": ""
+      }
+    },
+    {
+      "url": "http://news7tamil.live",
+      "urlHash": "d2c539e2f208",
+      "domain": "news7tamil.live",
+      "fetchedAt": "2026-02-17T11:22:53.013646+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1409890618327797762",
+          "handle": "news7tamil",
+          "date": "Tue Jun 29"
+        },
+        {
+          "tweetId": "1438436491038887937",
+          "handle": "news7tamil",
+          "date": "Thu Sep 16"
+        },
+        {
+          "tweetId": "1462082715033821185",
+          "handle": "news7tamil",
+          "date": "Sat Nov 20"
+        },
+        {
+          "tweetId": "1496058892304158722",
+          "handle": "news7tamil",
+          "date": "Tue Feb 22"
+        },
+        {
+          "tweetId": "1513377791139790848",
+          "handle": "news7tamil",
+          "date": "Sun Apr 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "News 7 Tamil - News7 Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "News 7 Tamil - News7 Tamil",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://illamthedikalvi.tnschools.gov.in/volunteer_registration",
+      "urlHash": "0128ad82e4b1",
+      "domain": "illamthedikalvi.tnschools.gov.in",
+      "fetchedAt": "2026-02-17T11:22:55.500320+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453379232315240454",
+          "handle": "mkstalin",
+          "date": "Wed Oct 27"
+        },
+        {
+          "tweetId": "1453379469016633350",
+          "handle": "mkstalin",
+          "date": "Wed Oct 27"
+        },
+        {
+          "tweetId": "1453595573739671559",
+          "handle": "CMOTamilnadu",
+          "date": "Thu Oct 28"
+        },
+        {
+          "tweetId": "1453595607185063936",
+          "handle": "CMOTamilnadu",
+          "date": "Thu Oct 28"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://us02web.zoom.us/j/81768023339",
+      "urlHash": "9976bffcaa2c",
+      "domain": "us02web.zoom.us",
+      "fetchedAt": "2026-02-17T11:22:57.703217+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1467844714124570625",
+          "handle": "DravidianForum",
+          "date": "Mon Dec 06"
+        },
+        {
+          "tweetId": "1468223631469674499",
+          "handle": "dharanisalem",
+          "date": "Tue Dec 07"
+        },
+        {
+          "tweetId": "1468228099720585234",
+          "handle": "DravidianForum",
+          "date": "Tue Dec 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Launch Meeting - Zoom",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Launch Meeting - Zoom",
+        "summary": "Zoom is the leader in modern enterprise communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems."
+      }
+    },
+    {
+      "url": "https://us02web.zoom.us/j/89410713540",
+      "urlHash": "a821520dd1cb",
+      "domain": "us02web.zoom.us",
+      "fetchedAt": "2026-02-17T11:23:00.761417+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1470209066613886983",
+          "handle": "dharanisalem",
+          "date": "Sun Dec 12"
+        },
+        {
+          "tweetId": "1470344347308617728",
+          "handle": "DravidianForum",
+          "date": "Mon Dec 13"
+        },
+        {
+          "tweetId": "1470344423254888453",
+          "handle": "DravidianForum",
+          "date": "Mon Dec 13"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Launch Meeting - Zoom",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Launch Meeting - Zoom",
+        "summary": "Zoom is the leader in modern enterprise communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/opinion-why-tamil-nadu-s-welfare-politics-can-t-be-called-freebies-153902",
+      "urlHash": "547c9678d2a4",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:23:03.853738+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426480764833521668",
+          "handle": "TRBRajaa",
+          "date": "Sat Aug 14"
+        },
+        {
+          "tweetId": "1426514939322064899",
+          "handle": "sureshsambandam",
+          "date": "Sat Aug 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Opinion: Why Tamil Nadu\u2019s welfare politics can\u2019t be called \u2018freebies\u2019",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Bethanavel Kuppusamy,Salem Dharanidharan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Opinion: Why Tamil Nadu\u2019s welfare politics can\u2019t be called \u2018freebies\u2019",
+        "summary": "One highly criticised Tamil Nadu government scheme was giving colour TV sets to households. While it was derided as a \u2018freebie\u2019, research has proved otherwise, write Dharanidharan Sivagnanaselvam and Bethanavel Kuppusamy."
+      }
+    },
+    {
+      "url": "https://www.nakkheeran.in/24-by-7-news/thamizhagam/trb-raja-met-traders-members",
+      "urlHash": "97652cddcc90",
+      "domain": "nakkheeran.in",
+      "fetchedAt": "2026-02-17T11:23:06.663909+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1432034439337414660",
+          "handle": "TRBRajaa",
+          "date": "Sun Aug 29"
+        },
+        {
+          "tweetId": "1432214689891553284",
+          "handle": "TRBRajaa",
+          "date": "Sun Aug 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u201c\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd\u201d - \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bcd\u0baa\u0bc1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9f\u0bbf.\u0b86\u0bb0\u0bcd.\u0baa\u0bbf. \u0bb0\u0bbe\u0b9c\u0bbe",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0ba8\u0b95\u0bcd\u0b95\u0bc0\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u201c\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8 \u0ba8\u0bbe\u0ba9\u0bcd\u201d - \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bcd\u0baa\u0bc1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9f\u0bbf.\u0b86\u0bb0\u0bcd.\u0baa\u0bbf. \u0bb0\u0bbe\u0b9c\u0bbe",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://timesofindia.onelink.me/mjFd/toisupershare",
+      "urlHash": "f4ecf64b73c7",
+      "domain": "timesofindia.onelink.me",
+      "fetchedAt": "2026-02-17T11:23:09.046268+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1437024581991030789",
+          "handle": "TRBRajaa",
+          "date": "Sun Sep 12"
+        },
+        {
+          "tweetId": "1474312593980329987",
+          "handle": "TRBRajaa",
+          "date": "Fri Dec 24"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TOI - Breaking News,  Latest News, India News, World News, Bollywood, Sports, Business and Political News | The Times of India",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "TOI - Breaking News,  Latest News, India News, World News, Bollywood, Sports, Business and Political News | The Times of India",
+        "summary": "Breaking News in India: Read Latest News on Sports, Business, Entertainment, Blogs and Opinions from leading columnists. Times of India brings the Breaking News and Latest News."
+      }
+    },
+    {
+      "url": "http://www.therisingsunmagazine.com",
+      "urlHash": "48b1db55138a",
+      "domain": "therisingsunmagazine.com",
+      "fetchedAt": "2026-02-17T11:23:11.841290+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1442151022265131010",
+          "handle": "mkstalin",
+          "date": "Sun Sep 26"
+        },
+        {
+          "tweetId": "1442328139409944577",
+          "handle": "arivalayam",
+          "date": "Sun Sep 26"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/video/2021/nov/08/girl-rescued-in-us-after-using-tiktok-domestic-violence-hand-signal-video",
+      "urlHash": "a63cd44aa7ab",
+      "domain": "theguardian.com",
+      "fetchedAt": "2026-02-17T11:23:14.156707+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1458123920750510083",
+          "handle": "TRBRajaa",
+          "date": "Tue Nov 09"
+        },
+        {
+          "tweetId": "1458706432656699394",
+          "handle": "TRBRajaa",
+          "date": "Tue Nov 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Girl rescued in US after using TikTok domestic violence hand signal \u2013 video | TikTok | The Guardian",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Girl rescued in US after using TikTok domestic violence hand signal \u2013 video | TikTok | The Guardian",
+        "summary": "&#x3C;p&#x3E;A teenager was rescued after using a hand gesture described on the social media app&#x26;nbsp;TikTok&#x26;nbsp;to signal to motorists that she was in trouble&#x3C;/p&#x3E;"
+      }
+    },
+    {
+      "url": "http://toi.in/db59LY/a24gk",
+      "urlHash": "b92fa8bdce83",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:23:16.752007+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1464826108906381313",
+          "handle": "timesofindia",
+          "date": "Sat Nov 27"
+        },
+        {
+          "tweetId": "1464847523030339587",
+          "handle": "timesofindia",
+          "date": "Sun Nov 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Kovind:  \u2018Judges-appointing-judges\u2019 system needs reform: President Kovind | India News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Kovind:  \u2018Judges-appointing-judges\u2019 system needs reform: President Kovind | India News - Times of India",
+        "summary": "India News: Six years after the Supreme Court nixed Parliament\u2019s NJAC Act that had replaced the \u201cjudges-selecting-judges\u201d collegium system, President Ram Nath Kov"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Raw Tweet Data",
+  "description": "Schema for raw tweet extraction output (Wave 1)",
+  "type": "object",
+  "required": ["account", "extractedAt", "dateRange", "tweets"],
+  "properties": {
+    "account": {
+      "type": "string",
+      "description": "Twitter handle without @"
+    },
+    "extractedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "dateRange": {
+      "type": "object",
+      "properties": {
+        "from": { "type": "string", "format": "date" },
+        "to": { "type": "string", "format": "date" }
+      }
+    },
+    "totalTweets": {
+      "type": "integer"
+    },
+    "filteredTweets": {
+      "type": "integer",
+      "description": "Tweets matching keywords"
+    },
+    "tweets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "date", "text"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Tweet ID"
+          },
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "time": {
+            "type": "string",
+            "description": "Time in HH:MM format"
+          },
+          "text": {
+            "type": "string",
+            "description": "Full tweet text"
+          },
+          "fxUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "FxTwitter URL for embedding"
+          },
+          "originalUrl": {
+            "type": "string",
+            "format": "uri"
+          },
+          "media": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": { "enum": ["photo", "video", "gif"] },
+                "url": { "type": "string", "format": "uri" },
+                "altText": { "type": "string" }
+              }
+            }
+          },
+          "externalLinks": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            },
+            "description": "URLs mentioned in tweet (excluding twitter/x.com)"
+          },
+          "mentions": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "@mentions in tweet"
+          },
+          "hashtags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "isRetweet": {
+            "type": "boolean",
+            "default": false
+          },
+          "isReply": {
+            "type": "boolean",
+            "default": false
+          },
+          "engagement": {
+            "type": "object",
+            "properties": {
+              "likes": { "type": "integer" },
+              "retweets": { "type": "integer" },
+              "replies": { "type": "integer" },
+              "quotes": { "type": "integer" }
+            }
+          },
+          "matchedKeywords": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Keywords that matched filter"
+          }
+        }
+      }
+    }
+  }
+}

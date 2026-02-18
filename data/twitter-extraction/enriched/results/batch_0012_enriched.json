@@ -1,0 +1,425 @@
+{
+  "batch": 12,
+  "processedAt": "2026-02-17T11:30:30.059545+00:00",
+  "stats": {
+    "success": 14,
+    "failed": 1,
+    "not_found": 2,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.google.com/amp/s/www.thehindu.com/news/national/global-hunger-index-ranks-india-at-101-out-of-116-countries/article36998777.ece/amp/",
+      "urlHash": "91306c6d3dea",
+      "domain": "google.com",
+      "fetchedAt": "2026-02-17T11:29:36.543407+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1448675231980134400",
+          "handle": "niranjan2428",
+          "date": "Thu Oct 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Global Hunger Index ranks India at 101 out of 116 countries - The Hindu",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 11, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Global Hunger Index ranks India at 101 out of 116 countries - The Hindu",
+        "summary": "Only 15 countries fare worse than India."
+      }
+    },
+    {
+      "url": "https://tiny.cc/karurmpinternship",
+      "urlHash": "1f5eecac29fa",
+      "domain": "tiny.cc",
+      "fetchedAt": "2026-02-17T11:29:39.170993+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449213969546166273",
+          "handle": "jothims",
+          "date": "Fri Oct 15"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/10/16/un-director-praise-tamilnadu-govt-on-environmental-protection",
+      "urlHash": "969e200fa73c",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:29:41.983124+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449312418752958464",
+          "handle": "Kalaignarnews",
+          "date": "Sat Oct 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "un director praise tamilnadu govt on environmental protection",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "un director praise tamilnadu govt on environmental protection",
+        "summary": "un director praise tamilnadu govt on environmental protection"
+      }
+    },
+    {
+      "url": "https://scroll.in/latest/1007809/",
+      "urlHash": "fb843ff1c935",
+      "domain": "scroll.in",
+      "fetchedAt": "2026-02-17T11:29:44.391837+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449345031978897411",
+          "handle": "scroll_in",
+          "date": "Fri Oct 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Calcutta HC refuses to pass order to remove slippers from Durga Puja pandal showing farmers\u2019 plight",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Scroll Staff",
+      "rawText": "Become A Member Gift Membership Gift Membership Gift Membership Sign In Become A Member Home Common Ground The Latest Members-Only Video Eco India The Reel Magazine Trending Trending Administrative takeover of Lakshwadeep\u2019s coral atoll could disrupt rich ecology Umar Khalid\u2019s five years of incarceration: \u2018Do I even know the world any more?\u2019 Shashi Deshpande writes about a dressing table that has been with her family for three generations Why the Supreme Court\u2019s menstrual hygiene ruling may not be enough for schoolgirls Why a village in Maharashtra\u2019s Western Ghats is trying to save rainwater runoff The roots of India\u2019s disinterest in reading A bittersweet archive: The history of sohan halwa Indian flag history: How Pingali Venkayya designed one of the first versions of the tricolour Feminist fiction for children: Sisters Shukhu and Dukhu learn to be independent by becoming weavers Short fiction: The demolition of the Babri Masjid sends the journalists of a newspaper into a flurry BNP chief Tarique Rahman takes oath as Bangladesh PM Why has the JNU sedition case gone nowhere in a decade?",
+      "extractedData": {
+        "headline": "Calcutta HC refuses to pass order to remove slippers from Durga Puja pandal showing farmers\u2019 plight",
+        "summary": "A Kolkata resident had filed a plea seeking directions to remove the slippers alleging that it disrespected the Hindu deity."
+      }
+    },
+    {
+      "url": "https://www.telegraphindia.com/india/minister-hospital-is-not-a-zoo-manmohans-daughter/cid/1834737?utm_source=twitter&utm_medium=social&utm_campaign=tt_daily_twit",
+      "urlHash": "2d03aa8ce391",
+      "domain": "telegraphindia.com",
+      "fetchedAt": "2026-02-17T11:29:46.666605+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449356157064073228",
+          "handle": "ttindia",
+          "date": "Sat Oct 16"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.elections.tn.gov.in/SSR2021_20032021/dt23/ac187/ac187237.pdf",
+      "urlHash": "a9251faab9c8",
+      "domain": "elections.tn.gov.in",
+      "fetchedAt": "2026-02-17T11:29:48.793234+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449578335399411714",
+          "handle": "angry_birdu",
+          "date": "Sun Oct 17"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://gulfnews.com/opinion/op-eds/aryan-khan-should-not-be-in-jail-here-is-why-1.83003581",
+      "urlHash": "06f3df6047ba",
+      "domain": "gulfnews.com",
+      "fetchedAt": "2026-02-17T11:29:51.033875+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449697959558336521",
+          "handle": "Nidhi",
+          "date": "Sun Oct 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Aryan Khan should not be in jail. Here is why",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Nidhi Razdan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Aryan Khan should not be in jail. Here is why",
+        "summary": "Proportionality has gone out of the window here because it involves Shah Rukh Khan\u2019s son"
+      }
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/viral-video-shows-teacher-kicking-and-flogging-student-in-tamil-nadu-2575848?amp=1&akamai-rum=off",
+      "urlHash": "06d1febafdb4",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:29:53.973397+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1449784096545140744",
+          "handle": "arvindgunasekar",
+          "date": "Sun Oct 17"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.livescience.com/earth-inside-giant-magnetic-tunnel",
+      "urlHash": "fdc44379b91a",
+      "domain": "livescience.com",
+      "fetchedAt": "2026-02-17T11:29:56.123619+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453045590992973827",
+          "handle": "TRBRajaa",
+          "date": "Tue Oct 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Earth may be trapped inside a giant magnetic tunnel | Live Science",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Earth may be trapped inside a giant magnetic tunnel | Live Science",
+        "summary": "The magnetic ropes may surround our planet."
+      }
+    },
+    {
+      "url": "https://thewire.in/lgbtqia/dabur-pulls-down-same-sex-karwa-chauth-ad-after-online-abuse-threats-from-bjp-leaders",
+      "urlHash": "71fe349c52fa",
+      "domain": "thewire.in",
+      "fetchedAt": "2026-02-17T11:29:58.620157+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453315208751902720",
+          "handle": "thewire_in",
+          "date": "Wed Oct 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Dabur Pulls Down Same-Sex Karwa Chauth Ad After Online Abuse, Threats from BJP Leaders - The Wire",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Dabur Pulls Down Same-Sex Karwa Chauth Ad After Online Abuse, Threats from BJP Leaders - The Wire",
+        "summary": "The Wire: The Wire News India, Latest News,News from India, Politics, External Affairs, Science, Economics, Gender and Culture"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/no-drugs-him-behind-bars-inconsistencies-aryan-case-probe-156969",
+      "urlHash": "dc8f3fc47e88",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:30:00.920958+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453315948794941440",
+          "handle": "thenewsminute",
+          "date": "Wed Oct 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "No drugs on him but behind bars: The inconsistencies in Aryan case probe",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Sanyukta Dharmadhikari",
+      "rawText": "",
+      "extractedData": {
+        "headline": "No drugs on him but behind bars: The inconsistencies in Aryan case probe",
+        "summary": "Aryan Khan\u2019s bail plea is in the Bombay High Court, but here is an explainer on the reasons why he continues to be in jail when the court has also accepted that he has no criminal antecedents and no drugs were seized from him."
+      }
+    },
+    {
+      "url": "https://wapo.st/3pZxlir",
+      "urlHash": "035be10952d2",
+      "domain": "wapo.st",
+      "fetchedAt": "2026-02-17T11:30:04.293531+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453746529529851908",
+          "handle": "washingtonpost",
+          "date": "Thu Oct 28"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_301"
+    },
+    {
+      "url": "https://www.livelaw.in/news-updates/win-for-investigative-journalism-n-ram-on-supreme-courts-pegasus-order-184558",
+      "urlHash": "b17eb0e985c5",
+      "domain": "livelaw.in",
+      "fetchedAt": "2026-02-17T11:30:08.426187+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453932053318156293",
+          "handle": "mkvenu1",
+          "date": "Fri Oct 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Win For Investigative Journalism : N Ram On Supreme Court's Pegasus Order",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Sneha Rao",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Win For Investigative Journalism : N Ram On Supreme Court's Pegasus Order",
+        "summary": "A 3-judge bench of the Supreme  Court of India of Justices N.V.Ramana, Surya Kant and Hima Kohli ordered the constitution of an independent expert committee to look into the allegations of ..."
+      }
+    },
+    {
+      "url": "http://antonyparimalam.blogspot.com/2017/06/2g.html?m=1",
+      "urlHash": "b45951d0fa78",
+      "domain": "antonyparimalam.blogspot.com",
+      "fetchedAt": "2026-02-17T11:30:10.629574+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1453984023043182597",
+          "handle": "IlovemyNOAH2019",
+          "date": "Fri Oct 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "ANTONY PARIMALAM : 2G \u0baa&#3007;\u0ba4&#3021;\u0ba4\u0bb2&#3006;\u0b9f&#3021;\u0b9f \u0b95\u0ba4&#3016; \u0b89\u0bb0&#3009;\u0bb5&#3006;\u0ba9 \u0bb5\u0bb0\u0bb2&#3006;\u0bb1&#3009;",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "\u0b85\u0baf&#3019;\u0b95&#3021;\u0b95&#3007;\u0baf \u0baa\u0baf\u0bb2&#3021;\u0b95\u0bb3&#3021; \u0b85\u0baf&#3019;\u0b95&#3021;\u0b95&#3007;\u0baf \u0baa\u0baf\u0bb2&#3009;\u0b99&#3021;\u0b95&#3006; \u0bb5&#3007;\u0ba9&#3019;\u0ba4&#3021; \u0bb0&#3006;\u0baf&#3021; \u0ba8&#3006;\u0baf&#3021;",
+      "extractedData": {
+        "headline": "ANTONY PARIMALAM : 2G \u0baa&#3007;\u0ba4&#3021;\u0ba4\u0bb2&#3006;\u0b9f&#3021;\u0b9f \u0b95\u0ba4&#3016; \u0b89\u0bb0&#3009;\u0bb5&#3006;\u0ba9 \u0bb5\u0bb0\u0bb2&#3006;\u0bb1&#3009;",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://www.space.com/sun-unleashes-major-x-class-solar-flare-october-2021",
+      "urlHash": "67118d74417f",
+      "domain": "space.com",
+      "fetchedAt": "2026-02-17T11:30:13.878475+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1454064529659154434",
+          "handle": "TRBRajaa",
+          "date": "Fri Oct 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Sun fires off major solar flare from Earth-facing sunspot | Space",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Sun fires off major solar flare from Earth-facing sunspot | Space",
+        "summary": "A major solar flare erupted from the sun on Thursday (Oct. 28) in the strongest storm yet of our star"
+      }
+    },
+    {
+      "url": "https://astronomy.com/news/2019/10/planet-nine-may-be-a-black-hole-the-size-of-a-baseball",
+      "urlHash": "fbdc63c0d19f",
+      "domain": "astronomy.com",
+      "fetchedAt": "2026-02-17T11:30:17.384596+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1454153237985050629",
+          "handle": "TRBRajaa",
+          "date": "Fri Oct 29"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Planet Nine may be a black hole the size of a baseball",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Jake Parks",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Planet Nine may be a black hole the size of a baseball",
+        "summary": "A slew of oddly orbiting objects indicates a massive planet is hiding in the outer solar system. But one group of astronomers says it might be a tiny black hole instead."
+      }
+    },
+    {
+      "url": "https://www.telegraphindia.com/india/vinod-rais-lies-exposes-others-who-aided-narendra-modis-rise-congress/cid/1836523?utm_source=twitter&utm_medium=social&utm_campaign=tt_daily_twit",
+      "urlHash": "b9095e143a33",
+      "domain": "telegraphindia.com",
+      "fetchedAt": "2026-02-17T11:30:21.368422+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1454293233404575746",
+          "handle": "ttindia",
+          "date": "Sat Oct 30"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/mumbai/aryan-khan-drugs-case-witness-ncb-7598165/",
+      "urlHash": "5a472493e54c",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:30:23.435031+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1454329589027672066",
+          "handle": "thaver_mohamed",
+          "date": "Sat Oct 30"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "In 5 cases since last year, NCB used same panch witness | Mumbai News - The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "In 5 cases since last year, NCB used same panch witness | Mumbai News - The Indian Express",
+        "summary": "Questions have been raised regarding two others \u2014 K P Gosavi, a wanted accused at the time who is now under arrest, and Manish Bhanushali, who has links to the BJP."
+      }
+    },
+    {
+      "url": "https://www.nationalheraldindia.com/opinion/why-sympathise-with-shah-rukh-khan-he-does-not-deserve-it",
+      "urlHash": "77a76e4d3e34",
+      "domain": "nationalheraldindia.com",
+      "fetchedAt": "2026-02-17T11:30:26.872313+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1454985292478255109",
+          "handle": "jamewils",
+          "date": "Mon Nov 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Why sympathise with Shah Rukh Khan? He does not deserve it",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "Avay Shukla",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Why sympathise with Shah Rukh Khan? He does not deserve it",
+        "summary": "There is no safety in remaining silent as Shah Rukh has learnt and others will in due course. Lesson from Aryan Khan\u2019s arrest is that time is running out. Speak up lest you have to be silent forever"
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/jailed-month-uttar-pradesh-3-kerala-woman-finally-reach-home-157157",
+      "urlHash": "268beff47194",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:30:29.373413+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1455210765128851457",
+          "handle": "anna_isaac",
+          "date": "Mon Nov 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Jailed for a month in Uttar Pradesh, 3 Kerala women finally reach home",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Saritha S Balan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Jailed for a month in Uttar Pradesh, 3 Kerala women finally reach home",
+        "summary": "The Lucknow Additional Sessions Court while granting bail noted that the police placed no evidence on record to show that any of the women had Covid-19 infection."
+      }
+    }
+  ]
+}

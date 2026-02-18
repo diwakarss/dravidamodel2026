@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-02-17T18:24:59.481891+00:00",
+  "category": "tamil-history",
+  "summary": {
+    "totalEntitiesProcessed": 5,
+    "exactMatches": 0,
+    "partialMatches": 0,
+    "newCandidates": 5,
+    "existingProjects": 0
+  },
+  "matches": [],
+  "newCandidates": [
+    {
+      "aggregatedEntityId": "keezhadi-archaeological-site",
+      "name": "Keezhadi Archaeological Site",
+      "category": "tamil-history",
+      "sourceCount": 9,
+      "firstMention": "2025-06-13",
+      "lastMention": "2025-06-29",
+      "confidence": 0.8,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "tirunelveli-porunai-museum",
+      "name": "Porunai Museum",
+      "category": "tamil-history",
+      "sourceCount": 8,
+      "firstMention": "2025-12-20",
+      "lastMention": "2025-12-21",
+      "confidence": 0.8,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "chennai-chennai-museum",
+      "name": "Chennai Museum",
+      "category": "tamil-history",
+      "sourceCount": 3,
+      "firstMention": "2025-03-19",
+      "lastMention": "2025-03-19",
+      "confidence": 0.6,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "tidel-park-\u0baa",
+      "name": "TIDEL Park \u0baa",
+      "category": "tamil-history",
+      "sourceCount": 2,
+      "firstMention": "2024-11-05",
+      "lastMention": "2024-11-05",
+      "confidence": 0.6,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "category": "tamil-history",
+      "sourceCount": 2,
+      "firstMention": "2025-04-13",
+      "lastMention": "2025-12-16",
+      "confidence": 0.5,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    }
+  ],
+  "sourceAdditions": []
+}

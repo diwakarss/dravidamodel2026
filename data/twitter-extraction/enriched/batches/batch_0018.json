@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://www.thenewsminute.com/article/neet-and-illusion-merit-155277?amp",
+    "urlHash": "56908abcf266",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1481283184671494154",
+        "handle": "dharanisalem",
+        "date": "Wed Jan 12"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://ndtv.com/india-news/16-420-new-covid-cases-in-mumbai-40-higher-than-yesterday-positivity-rate-at-24-38-2704417",
+    "urlHash": "6dac8d5f151c",
+    "domain": "ndtv.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1481283343774011395",
+        "handle": "ndtv",
+        "date": "Wed Jan 12"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://toi.in/LVPCLZ79/a24gk",
+    "urlHash": "3fa37db737e3",
+    "domain": "toi.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1481469584398237696",
+        "handle": "timesofindia",
+        "date": "Wed Jan 12"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-tigress-collarwali-mom-to-29-cubs-dies-in-pench-tiger-reserve/articleshow/88926150.cms",
+    "urlHash": "2751e2bee686",
+    "domain": "timesofindia.indiatimes.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1482694265906274310",
+        "handle": "SriramMadras",
+        "date": "Sun Jan 16"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.outlookindia.com/website/story/business-news-centre-would-not-want-the-consequences-of-not-extending-gst-compensation-on-their-conscience-tn-fm-p-thiaga-rajan/409698",
+    "urlHash": "eaf671924d96",
+    "domain": "outlookindia.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1483270953069342720",
+        "handle": "ptrmadurai",
+        "date": "Tue Jan 18"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.news18.com/news/india/x-rays-to-replace-pcr-tests-scientists-in-scotland-develop-new-covid-diagnosis-thats-98-accurate-4677536.html",
+    "urlHash": "c6e8345007b1",
+    "domain": "news18.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1484112105020493831",
+        "handle": "TRBRajaa",
+        "date": "Thu Jan 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thenewsminute.com/article/opinion-rejecting-tn-s-republic-day-tableau-union-govt-undermines-state-history-160259",
+    "urlHash": "796394ee9dff",
+    "domain": "thenewsminute.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1486274948478177282",
+        "handle": "saravofcl",
+        "date": "Wed Jan 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://sonaliranade.substack.com/p/we-the-people-?justPublished=true",
+    "urlHash": "78d07c7ee0bc",
+    "domain": "sonaliranade.substack.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1486344171963428864",
+        "handle": "sonaliranade",
+        "date": "Wed Jan 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.indiatoday.in/india/story/replying-to-governor-address-tamil-nadu-minister-seeks-immediate-assent-to-anti-neet-bill-1905177-2022-01-27?utm_source=twshare&utm_medium=socialicons&utm_campaign=shareurltracking",
+    "urlHash": "85a35a5b2e96",
+    "domain": "indiatoday.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1486761128193495041",
+        "handle": "TThenarasu",
+        "date": "Thu Jan 27"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://dmk4tn.in/stalin-showcased-three-tableaus-to-show-tamils-pride-in-r-day-parade/",
+    "urlHash": "84cbb19998f5",
+    "domain": "dmk4tn.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1486913224339431430",
+        "handle": "DMKITwing",
+        "date": "Thu Jan 27"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://theprint.in/opinion/neet-stalins-tamil-nadu-has-new-social-justice-formula-mandal-market/814968/",
+    "urlHash": "debe527767d3",
+    "domain": "theprint.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1487021370101751815",
+        "handle": "TRBRajaa",
+        "date": "Fri Jan 28"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/9656717",
+    "urlHash": "50e08b80cee0",
+    "domain": "ieeexplore.ieee.org",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1488005964704129029",
+        "handle": "TRBRajaa",
+        "date": "Mon Jan 31"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/article/opinion/columns/voices-the-budget-didnt-hear-7752120/",
+    "urlHash": "87ef03947bc3",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1488936116539760640",
+        "handle": "ptrmadurai",
+        "date": "Wed Feb 02"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.hindutamil.in/news/opinion/columns/764025-genetically-modified-dangerous-food.html",
+    "urlHash": "bf2236859ef1",
+    "domain": "hindutamil.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1489450151400083462",
+        "handle": "TRBRajaa",
+        "date": "Fri Feb 04"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.indiatoday.in/india/story/owaisi-shot-sachin-pandit-accused-bjp-member-up-polls-1908593-2022-02-04",
+    "urlHash": "fcff4081538a",
+    "domain": "indiatoday.in",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1489500992794406913",
+        "handle": "sardesairajdeep",
+        "date": "Fri Feb 04"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/dmk/2022/02/05/chief-minister-mk-stalin-advice-to-dmk-it-wing-cadres",
+    "urlHash": "7fdf7bb7b3aa",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1490013761872494594",
+        "handle": "Kalaignarnews",
+        "date": "Sat Feb 05"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.kalaignarseithigal.com/dmk/2022/02/05/chief-minister-mk-stalin-lists-out-dmk-govts-achievements-in-dmk-it-wing-meeting",
+    "urlHash": "40dbe018595c",
+    "domain": "kalaignarseithigal.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1490013766297460736",
+        "handle": "TRBRajaa",
+        "date": "Sat Feb 05"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://abpnadu.com",
+    "urlHash": "d64bc232a540",
+    "domain": "abpnadu.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1490578821464354818",
+        "handle": "abpnadu",
+        "date": "Mon Feb 07"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://indianexpress.com/audio/the-sandip-roy-show/what-we-dont-understand-about-indias-data-with-rukmini-s/7759265/",
+    "urlHash": "47260453dbb9",
+    "domain": "indianexpress.com",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1490881407623000064",
+        "handle": "VishalChoradiya",
+        "date": "Mon Feb 07"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://unf.pa/fgm",
+    "urlHash": "78ffcc536ef6",
+    "domain": "unf.pa",
+    "priority": "normal",
+    "sourceTweets": [
+      {
+        "tweetId": "1491026753774825473",
+        "handle": "SDG2030",
+        "date": "Sun Feb 06"
+      }
+    ],
+    "status": "pending"
+  }
+]

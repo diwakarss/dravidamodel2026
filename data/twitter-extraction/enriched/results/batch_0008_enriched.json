@@ -1,0 +1,449 @@
+{
+  "batch": 8,
+  "processedAt": "2026-02-17T11:26:24.325756+00:00",
+  "stats": {
+    "success": 17,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/#",
+      "urlHash": "1286e632e2c5",
+      "domain": "scientificamerican.com",
+      "fetchedAt": "2026-02-17T11:25:18.788065+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1419736958847180803",
+          "handle": "TRBRajaa",
+          "date": "Mon Jul 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Pesticides Are Killing the Organisms That Keep Our Soils Healthy | Scientific American",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "Nathan Donley, Tari Gunstone",
+      "rawText": "Opinion June 1, 2021 3 min read Pesticides Are Killing the Organisms That Keep Our Soils Healthy They harm worms, beetles and thousands of other subterranean species that are vital to agriculture By Nathan Donley &amp; Tari Gunstone Qian Ling Join Our Community of Science Lovers! Scoop up a shovelful of healthy soil, and you&rsquo;ll likely be holding more living organisms than there are people on Earth. Like citizens of an underground city that never sleeps, tens of thousands of subterranean species of invertebrates, nematodes, bacteria and fungi are constantly filtering our water, recycling nutrients and helping to regulate the planet&rsquo;s temperature. But under fields covered in tightly knit rows of corn, soybeans, wheat and other monoculture crops, a toxic soup of insecticides, herbicides and fungicides is wreaking havoc, according to our recent analysis in the journal Frontiers in Environmental Science . The study&mdash;to our knowledge the most comprehensive review ever conducted on how pesticides affect soil health&mdash;should trigger immediate and substantive changes in how the Environmental Protection Agency assesses the risks posed by the nearly 850 pesticide ingredients approved for use in the U.S. Regulations currently ignore pesticides&rsquo; harm to soil species. Our study leaves no doubt that this disregard must change. For our analysis, conducted by researchers at the Center for Biological Diversity, Friends of the Earth and the University of Maryland, we looked at nearly 400 published studies comprising more than 2,800 experiments on how pesticides affect soil organisms. Our review encompassed 275 unique species or types of soil organisms and 284 different pesticides or pesticide mixtures. If you&#x27;re enjoying this article, consider supporting our award-winning journalism by subscribing . By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today. In just over",
+      "extractedData": {
+        "headline": "Pesticides Are Killing the Organisms That Keep Our Soils Healthy | Scientific American",
+        "summary": "They harm worms, beetles and thousands of other subterranean species that are vital to agriculture"
+      }
+    },
+    {
+      "url": "https://www.paalputhumai.com/tnsdpc-discusses-challenges-faced-by-lgbtqia-community/",
+      "urlHash": "bb0ba954fa6d",
+      "domain": "paalputhumai.com",
+      "fetchedAt": "2026-02-17T11:25:21.806272+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1419998126392307719",
+          "handle": "QCChronicles",
+          "date": "Tue Jul 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0baa\u0bbe\u0bb2\u0bcd\u0baa\u0bc1\u0ba4\u0bc1\u0bae\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd | \u0baa\u0bbe\u0bb2\u0bcd\u0baa\u0bc1\u0ba4\u0bc1 \u0baa\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0baa\u0bbe\u0bb2\u0bcd\u0baa\u0bc1\u0ba4\u0bc1\u0bae\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd | \u0baa\u0bbe\u0bb2\u0bcd\u0baa\u0bc1\u0ba4\u0bc1 \u0baa\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+        "summary": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bae\u0bc1. \u0b95"
+      }
+    },
+    {
+      "url": "https://www.bbc.com/tamil/arts-and-culture-58037319.amp",
+      "urlHash": "b815290310cd",
+      "domain": "bbc.com",
+      "fetchedAt": "2026-02-17T11:25:27.722767+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1421731829455880194",
+          "handle": "TRBRajaa",
+          "date": "Sun Aug 01"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bc1: \u0b95\u0bc0\u0bb4\u0b9f\u0bbf \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bcb\u0ba3\u0bcd\u0b9f \u0ba4\u0bcb\u0ba3\u0bcd\u0b9f \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bb4\u0ba8\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd - \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0ba9 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bcd - BBC News \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bc1: \u0b95\u0bc0\u0bb4\u0b9f\u0bbf \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0bb2 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bcb\u0ba3\u0bcd\u0b9f \u0ba4\u0bcb\u0ba3\u0bcd\u0b9f \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bb4\u0ba8\u0bcd\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bcd - \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0ba9 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bcd - BBC News \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "summary": "\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95 \u0ba8\u0b95\u0bb0\u0bae\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bca\u0bb1\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b85\u0b95\u0bb4\u0bbe\u0baf\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd, \u0baa\u0bb2 \u0baa\u0bbe\u0ba9\u0bc8 \u0b93\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9. \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bc1\u0bb4\u0bbe\u0baf\u0bcd\u0b95\u0bb3\u0bcd \u0b92\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0b85\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9. \u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b86\u0baf\u0bcd\u0bb5\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0baa\u0bbf\u0bb1\u0b95\u0bc1, \u0b87\u0bb5\u0bc8 \u0b8e\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bb0\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd."
+      }
+    },
+    {
+      "url": "http://dvkperiyar.com/?page_id=36356",
+      "urlHash": "ceaa5f48b90e",
+      "domain": "dvkperiyar.com",
+      "fetchedAt": "2026-02-17T11:25:31.033658+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1422607371503693824",
+          "handle": "sunnewstamil",
+          "date": "Tue Aug 03"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0b85\u0bae\u0bc7\u0b9a\u0bbe\u0ba9\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bb4\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95 &#8211; \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd Dravidar Viduthalai Kazhagam",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0b85\u0bae\u0bc7\u0b9a\u0bbe\u0ba9\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bb4\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0b99\u0bcd\u0b95 &#8211; \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd Dravidar Viduthalai Kazhagam",
+        "summary": ""
+      }
+    },
+    {
+      "url": "http://toi.in/I8TiUa21/a24gk",
+      "urlHash": "081c44d0cc26",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:25:36.811007+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1423466068673122305",
+          "handle": "karthickselvaa",
+          "date": "Fri Aug 06"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Is being Dalit a crime?: Olympics star Vandana speaks out against casteist slurs | Dehradun News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Is being Dalit a crime?: Olympics star Vandana speaks out against casteist slurs | Dehradun News - Times of India",
+        "summary": "A day after her family was subjected to casteist slurs, hockey star Vandana Katariya, the first Indian woman to score a hat-trick at the Olympics, hit"
+      }
+    },
+    {
+      "url": "https://ndtv.com/india-news/after-rajiv-gandhi-khel-ratna-award-renamed-after-major-dhyan-chand-twitter-says-rename-narendra-modi-stadium-too-2504179",
+      "urlHash": "900c42538447",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:25:39.338655+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1423836651202043908",
+          "handle": "ndtv",
+          "date": "Fri Aug 06"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://thebridge.in/tokyo-2020/india-javelin-coach-uwe-hohn-blasts-afi-sai-olympics-22142",
+      "urlHash": "f55a3ed914f8",
+      "domain": "thebridge.in",
+      "fetchedAt": "2026-02-17T11:25:41.597030+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1424274513139621894",
+          "handle": "sumanthraman",
+          "date": "Sat Aug 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "India's Javelin coach Uwe Hohn blasts Athletics Federation and SAI on Olympics preparation",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Abhijit Nair",
+      "rawText": "",
+      "extractedData": {
+        "headline": "India's Javelin coach Uwe Hohn blasts Athletics Federation and SAI on Olympics preparation",
+        "summary": "In an interview with The Indian Express, Uwe Hohn has blasted out at the AFI and SAI for their \u2018lack of knowledge of the sport\u2019 and sending the athletics underprepared to the Olympics."
+      }
+    },
+    {
+      "url": "https://tamil.abplive.com/crime/fake-e-mail-in-the-name-of-finance-minister-ptr-palanivel-thiagarajan-case-registered-12296",
+      "urlHash": "0cbaaaccc758",
+      "domain": "tamil.abplive.com",
+      "fetchedAt": "2026-02-17T11:25:43.940836+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1424587105431216134",
+          "handle": "imanojprabakar",
+          "date": "Mon Aug 09"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Fake e-mail in the name of Finance Minister PTR Palanivel Thiagarajan- case registered | PTR Palanivel Thiagarajan: \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0b86\u0bb0\u0bcd \u0baa\u0bb4\u0ba9\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb2\u0bbf \u0b87-\u0bae\u0bc6\u0baf\u0bbf\u0bb2\u0bcd - \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0bb0\u0bbe\u0b9c\u0bc7\u0bb7\u0bcd. \u0b8e\u0bb8\u0bcd",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Fake e-mail in the name of Finance Minister PTR Palanivel Thiagarajan- case registered | PTR Palanivel Thiagarajan: \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0bbf\u0b9f\u0bbf\u0b86\u0bb0\u0bcd \u0baa\u0bb4\u0ba9\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb2\u0bbf \u0b87-\u0bae\u0bc6\u0baf\u0bbf\u0bb2\u0bcd - \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1",
+        "summary": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0ba8\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0bb4\u0ba9\u0bbf\u0bb5\u0bc7\u0bb2\u0bcd \u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bb0\u0bbe\u0b9c\u0ba9\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0b85\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb2\u0bbf \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0b9e\u0bcd\u0b9a\u0bb2\u0bc8 \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf \u0b85\u0bb5\u0ba4\u0bc2\u0bb1\u0bc1 \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u0bb0\u0bcd."
+      }
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/story-how-chennai-zoo-saved-13-lions-had-covid-19-153709",
+      "urlHash": "56587fcba3d8",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:25:52.284431+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1425062045087539204",
+          "handle": "TRBRajaa",
+          "date": "Tue Aug 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "The story of how a Chennai zoo saved 13 lions that had COVID-19",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Sreedevi Jayarajan",
+      "rawText": "",
+      "extractedData": {
+        "headline": "The story of how a Chennai zoo saved 13 lions that had COVID-19",
+        "summary": "The zoo doctors and animal keepers spent 50 sleepless nights to save the lions that tested positive for the novel coronavirus."
+      }
+    },
+    {
+      "url": "https://trib.al/MagGRpW",
+      "urlHash": "378fcf2ee4ec",
+      "domain": "trib.al",
+      "fetchedAt": "2026-02-17T11:25:55.073858+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1425122622812024842",
+          "handle": "Forbes",
+          "date": "Tue Aug 10"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://cutt.ly/BQI6uLG",
+      "urlHash": "e3a3ce31fbe8",
+      "domain": "cutt.ly",
+      "fetchedAt": "2026-02-17T11:25:58.284144+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1425125417136971780",
+          "handle": "Kalaignarnews",
+          "date": "Tue Aug 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "dmk environment wing met prof jayaranjan on Purified Sewage Project",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "dmk environment wing met prof jayaranjan on Purified Sewage Project",
+        "summary": "dmk environment wing met prof jayaranjan on Purified Sewage Project"
+      }
+    },
+    {
+      "url": "http://toi.in/nwu6qY/a24gj",
+      "urlHash": "c0b561f618d1",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:26:01.150866+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1425126318115475461",
+          "handle": "shanmughamsj",
+          "date": "Tue Aug 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "HR&amp;CE dept to engage pool of licensed surveyors to check encroachment of temple properties | Chennai News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "HR&amp;CE dept to engage pool of licensed surveyors to check encroachment of temple properties | Chennai News - Times of India",
+        "summary": "CHENNAI: The Hindu religious &amp; charitable endowments (HR&amp;CE) department will have a pool of licensed surveyors to conduct periodical inspection of the."
+      }
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/mamata-banerjee-tears-into-upsc-for-bjp-question-on-bengal-poll-violence-2508887",
+      "urlHash": "ab21abd4381f",
+      "domain": "ndtv.com",
+      "fetchedAt": "2026-02-17T11:26:03.785154+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1425990551707348998",
+          "handle": "ndtv",
+          "date": "Thu Aug 12"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://frontline.thehindu.com/dispatches/tamil-nadu-government-dedicates-first-ever-agriculture-budget-to-the-protesting-farmers-in-delhi/article35909679.ece",
+      "urlHash": "16c163f3113b",
+      "domain": "frontline.thehindu.com",
+      "fetchedAt": "2026-02-17T11:26:05.828616+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426514865397530629",
+          "handle": "RKRadhakrishn",
+          "date": "Sat Aug 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu government presents State&#039;s first agriculture Budget, dedicates it to the protesting farmers in Delhi - Frontline",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "Published : Aug 14, 2021 14:24 IST COMMents SHARE READ LATER SEE ALL Remove",
+      "extractedData": {
+        "headline": "Tamil Nadu government presents State&#039;s first agriculture Budget, dedicates it to the protesting farmers in Delhi - Frontline",
+        "summary": "Dispatches News:Tamil Nadu government presents State&#039;s first agriculture Budget, dedicates it to the protesting farmers in Delhi"
+      }
+    },
+    {
+      "url": "https://www.nakkheeran.in/24-by-7-news/thamizhagam/agricultural-financial-statement-legislator-comes-by-wearing-green-towel",
+      "urlHash": "311464fb428b",
+      "domain": "nakkheeran.in",
+      "fetchedAt": "2026-02-17T11:26:07.955360+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426535753211727876",
+          "handle": "TRBRajaa",
+          "date": "Sat Aug 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf\u0ba8\u0bbf\u0bb2\u0bc8 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8: \u0baa\u0b9a\u0bcd\u0b9a\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0ba8\u0bcd\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd..! (\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd)",
+      "contentType": "press_release",
+      "publishDate": "",
+      "author": "\u0ba8\u0b95\u0bcd\u0b95\u0bc0\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0bb5\u0bc7\u0bb3\u0bbe\u0ba3\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf\u0ba8\u0bbf\u0bb2\u0bc8 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8: \u0baa\u0b9a\u0bcd\u0b9a\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0b85\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0ba8\u0bcd\u0ba4 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd..! (\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd)",
+        "summary": ""
+      }
+    },
+    {
+      "url": "https://bbc.in/3CNqkoB",
+      "urlHash": "761e48f7a189",
+      "domain": "bbc.in",
+      "fetchedAt": "2026-02-17T11:26:10.317251+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426979249148207105",
+          "handle": "BBCWorld",
+          "date": "Sun Aug 15"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Afghanistan: Taliban carrying out door-to-door manhunt - BBC News",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Afghanistan: Taliban carrying out door-to-door manhunt - BBC News",
+        "summary": "Militants are searching for government employees and those who worked with US forces, the BBC is told."
+      }
+    },
+    {
+      "url": "https://www.puthiyathalaimurai.com/newsview/112994/Who-are-these-Taliban-What-is-their-background-taliban-history",
+      "urlHash": "735e62e3bd73",
+      "domain": "puthiyathalaimurai.com",
+      "fetchedAt": "2026-02-17T11:26:13.560888+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427118807760310276",
+          "handle": "karthickselvaa",
+          "date": "Mon Aug 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Puthiyathalaimurai - Tamil News | Latest Tamil News | Tamil News Online | Tamilnadu News | India, World, Politics, Trending &amp; Sports news in tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Puthiyathalaimurai - Tamil News | Latest Tamil News | Tamil News Online | Tamilnadu News | India, World, Politics, Trending &amp; Sports news in tamil",
+        "summary": "Puthiyathalaimurai.com is India\u2019s No.1 Tamil News portal. Get the latest breaking and exclusive updates on Tamil Nadu politics, national news, world news, cricket, Tamil cinema, tamil newspaper, tamil daily newspaper, tamil nadu news, trending and viral stories"
+      }
+    },
+    {
+      "url": "http://bbc.in/3CRWKhN",
+      "urlHash": "5dbb029f8ff6",
+      "domain": "bbc.in",
+      "fetchedAt": "2026-02-17T11:26:16.421110+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427216554245066760",
+          "handle": "BBCWorld",
+          "date": "Mon Aug 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Afghanistan: Taliban carrying out door-to-door manhunt - BBC News",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Afghanistan: Taliban carrying out door-to-door manhunt - BBC News",
+        "summary": "Militants are searching for government employees and those who worked with US forces, the BBC is told."
+      }
+    },
+    {
+      "url": "https://bbc.in/2W3RCGJ",
+      "urlHash": "c674daab372d",
+      "domain": "bbc.in",
+      "fetchedAt": "2026-02-17T11:26:19.928579+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427468390252175361",
+          "handle": "BBCWorld",
+          "date": "Mon Aug 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Afghanistan: UK and US must protect Afghan activists - Malala - BBC News",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Afghanistan: UK and US must protect Afghan activists - Malala - BBC News",
+        "summary": "The Nobel Peace Prize winner, who was shot by the Taliban, calls for countries to take in refugees."
+      }
+    },
+    {
+      "url": "https://www.kalaignarseithigal.com/tamilnadu/2021/08/17/health-minister-ma-subramanian-says-that-admission-will-be-started-for-new-medical-colleges-this-year",
+      "urlHash": "4d76743525fe",
+      "domain": "kalaignarseithigal.com",
+      "fetchedAt": "2026-02-17T11:26:23.869067+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427532735996825605",
+          "handle": "Kalaignarnews",
+          "date": "Tue Aug 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Health Minister Ma subramanian says that admission will be started for new medical colleges this year",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Health Minister Ma subramanian says that admission will be started for new medical colleges this year",
+        "summary": "Health Minister Ma subramanian says that admission will be started for new medical colleges this year"
+      }
+    }
+  ]
+}

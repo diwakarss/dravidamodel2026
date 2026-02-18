@@ -1,0 +1,622 @@
+{
+  "category": "social-welfare",
+  "aggregatedAt": "2026-02-17T18:24:51.605772+00:00",
+  "stats": {
+    "entries": 757,
+    "entities": 5
+  },
+  "entities": [
+    {
+      "entityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "nameVariants": [],
+      "category": "social-welfare",
+      "entityType": "Welfare Scheme",
+      "location": "Chennai",
+      "numbers": {
+        "investmentCrore": 13000.0
+      },
+      "timeline": {
+        "firstMention": "2024-06-17",
+        "lastMention": "2026-01-30"
+      },
+      "sources": [
+        {
+          "date": "2024-06-17",
+          "handle": "PEN_Offl",
+          "tweetId": "1802728707343421451",
+          "fxUrl": "https://fxtwitter.com/PEN_Offl/status/1802728707343421451",
+          "eventType": "scheme_launch",
+          "summary": "Another chapter added to the success stories of Tamil Nadu governance!\n\nThe CM Breakfast Scheme is a testament to a government that foresees the welfa"
+        },
+        {
+          "date": "2024-06-26",
+          "handle": "Tamilbeast",
+          "tweetId": "1931240611295727618",
+          "fxUrl": "https://fxtwitter.com/Tamilbeast/status/1931240611295727618",
+          "eventType": "scheme_launch",
+          "summary": "Day 3 Government Schemes, Do's and Don'ts Entrepreneur, Characteristic of an Entrepreneur"
+        },
+        {
+          "date": "2024-07-15",
+          "handle": "TamilnaduStats",
+          "tweetId": "1812848806331117738",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/1812848806331117738",
+          "eventType": "scheme_launch",
+          "summary": "🚀 #TamilNadu's No Poverty Index by #SDG #India Index score jumps to 92. An incredible improvement from last year's (2020-2021) is 86, well above the I"
+        },
+        {
+          "date": "2024-07-15",
+          "handle": "DMK_Updates",
+          "tweetId": "1812943053738680653",
+          "fxUrl": "https://fxtwitter.com/DMK_Updates/status/1812943053738680653",
+          "eventType": "scheme_launch",
+          "summary": "Procedure of Chief Minister's Breakfast Scheme. 👇📢\n#TNBreakfastScheme"
+        },
+        {
+          "date": "2024-07-21",
+          "handle": "DMKITwing",
+          "tweetId": "1815025986364219641",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1815025986364219641",
+          "eventType": "scheme_launch",
+          "summary": "The #DMK government's social welfare schemes resonate deeply with the people of #Chennai!\n\nThe 2024 Lok Sabha polls reveal overwhelming support for @a"
+        },
+        {
+          "date": "2024-07-27",
+          "handle": "dharanisalem",
+          "tweetId": "1817404904446799987",
+          "fxUrl": "https://fxtwitter.com/dharanisalem/status/1817404904446799987",
+          "eventType": "scheme_launch",
+          "summary": "Not just Khelo-Bharat, in every schcme Centrally sponsored scheme, BJP ruled states have been allotted a lot of funds and non BJP ruled states are dis"
+        },
+        {
+          "date": "2024-10-01",
+          "handle": "VigneshAnand_Vm",
+          "tweetId": "1840937870103605677",
+          "fxUrl": "https://fxtwitter.com/VigneshAnand_Vm/status/1840937870103605677",
+          "eventType": "scheme_launch",
+          "summary": "Minister @Udhaystalin  has proved his mettle as a minister in charge of the department disbursing the Rs 1,000 monthly assistance to poor women, under"
+        },
+        {
+          "date": "2024-10-03",
+          "handle": "DMKITwing",
+          "tweetId": "1841788451554734283",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/1841788451554734283",
+          "eventType": "expansion",
+          "summary": "Muthamizharignar Kalaignar's legacy is more than just about #politics and political victories; it represents the unyielding fight for #socialjustice, "
+        },
+        {
+          "date": "2024-10-07",
+          "handle": "mkstalin",
+          "tweetId": "1843240159862575438",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1843240159862575438",
+          "eventType": "scheme_launch",
+          "summary": "Delighted to announce that #MakkalaiThediMaruthuvam, our #DravidianModel Government's pioneering healthcare scheme for the Indian subcontinent, has ea"
+        },
+        {
+          "date": "2024-10-07",
+          "handle": "mkstalin",
+          "tweetId": "1843243992227750101",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1843243992227750101",
+          "eventType": "scheme_launch",
+          "summary": "Delighted to announce that #MakkalaiThediMaruthuvam, our #DravidianModel Government's pioneering healthcare scheme for the Indian subcontinent, has ea"
+        },
+        {
+          "date": "2024-10-26",
+          "handle": "DrJeyaranjan",
+          "tweetId": "1850042572628164616",
+          "fxUrl": "https://fxtwitter.com/DrJeyaranjan/status/1850042572628164616",
+          "eventType": "scheme_launch",
+          "summary": "India faces a severe malnourishment crisis. In 2024, Global Hunger Index, India stands at 105th rank out of 127 countries. However, Tamil Nadu stands "
+        },
+        {
+          "date": "2024-12-15",
+          "handle": "AmalJos95950131",
+          "tweetId": "1868158225562108299",
+          "fxUrl": "https://fxtwitter.com/AmalJos95950131/status/1868158225562108299",
+          "eventType": "scheme_launch",
+          "summary": "Good study on Pudumai Penn Scheme of GoTN. Please read."
+        },
+        {
+          "date": "2024-12-15",
+          "handle": "mkstalin",
+          "tweetId": "1868197927933661335",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1868197927933661335",
+          "eventType": "scheme_launch",
+          "summary": "#DravidianModel: Educate a woman, transform generations.\n\nThis @the_hindu article highlights #PuthumaiPenn scheme’s profound impact.\n\n@sang1983 @megam"
+        },
+        {
+          "date": "2024-12-15",
+          "handle": "mkstalin",
+          "tweetId": "1868198920003936349",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1868198920003936349",
+          "eventType": "scheme_launch",
+          "summary": "#DravidianModel: Educate a woman, transform generations.\n\nThis @the_hindu article highlights #PuthumaiPenn scheme’s profound impact.\n\n@sang1983 @megam"
+        },
+        {
+          "date": "2024-12-15",
+          "handle": "mkstalin",
+          "tweetId": "1868211580044972046",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1868211580044972046",
+          "eventType": "scheme_launch",
+          "summary": "#DravidianModel: Educate a woman, transform generations.\n\nThis @the_hindu article highlights #PuthumaiPenn scheme’s profound impact.\n\n@sang1983 @megam"
+        },
+        {
+          "date": "2025-02-13",
+          "handle": "dharanisalem",
+          "tweetId": "1889898156244279556",
+          "fxUrl": "https://fxtwitter.com/dharanisalem/status/1889898156244279556",
+          "eventType": "scheme_launch",
+          "summary": "Apart from devolution of funds under the formula, another point of contention is opposition ruled states like Tamil Nadu are denied funds under 1) cen"
+        },
+        {
+          "date": "2025-03-14",
+          "handle": "TRBRajaa",
+          "tweetId": "1900531337255330157",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1900531337255330157",
+          "eventType": "scheme_launch",
+          "summary": "Someday in the future the entire population will see the effects and thank our Leader for the DEPTH at which he goes to look at minute details for wel"
+        },
+        {
+          "date": "2025-03-20",
+          "handle": "grok",
+          "tweetId": "1902793981232308547",
+          "fxUrl": "https://fxtwitter.com/grok/status/1902793981232308547",
+          "eventType": "scheme_launch",
+          "summary": "M. Karunanidhi is widely seen as the architect of modern Tamil Nadu for his leadership as Chief Minister over five terms and his welfare schemes like "
+        },
+        {
+          "date": "2025-03-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1904914563625263503",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1904914563625263503",
+          "eventType": "scheme_launch",
+          "summary": "Listen in to Kavignar @KanimozhiDMK MP avl as she highlights the women welfare schemes of this #DravidianModel Govt 🖤♥️"
+        },
+        {
+          "date": "2025-05-06",
+          "handle": "mkstalin",
+          "tweetId": "1919723310725968359",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1919723310725968359",
+          "eventType": "scheme_launch",
+          "summary": "Had a warm and thoughtful interaction with journalists who strengthen our democracy and #DravidianModel governance by appreciating our welfare schemes"
+        },
+        {
+          "date": "2025-05-06",
+          "handle": "mkstalin",
+          "tweetId": "1919723661948551500",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1919723661948551500",
+          "eventType": "scheme_launch",
+          "summary": "Had a warm and thoughtful interaction with journalists who strengthen our democracy and #DravidianModel governance by appreciating our welfare schemes"
+        },
+        {
+          "date": "2025-05-14",
+          "handle": "DrGanesh_Japan",
+          "tweetId": "1922826267314810956",
+          "fxUrl": "https://fxtwitter.com/DrGanesh_Japan/status/1922826267314810956",
+          "eventType": "progress_update",
+          "summary": "If you're visiting Chennai or Tamil Nadu after 2021, you will notice significant changes in infrastructure, industries, and people's spending power.\n\n"
+        },
+        {
+          "date": "2025-05-15",
+          "handle": "nramind",
+          "tweetId": "1922945827191828923",
+          "fxUrl": "https://fxtwitter.com/nramind/status/1922945827191828923",
+          "eventType": "scheme_launch",
+          "summary": "Absolutely right: The Union Government’s Presidential reference, bristling with mala fide and authoritarian intent, demonstrates scant respect for par"
+        },
+        {
+          "date": "2025-06-14",
+          "handle": "TThenarasu",
+          "tweetId": "1933827430164418636",
+          "fxUrl": "https://fxtwitter.com/TThenarasu/status/1933827430164418636",
+          "eventType": "scheme_launch",
+          "summary": "Despite being called \"Central schemes\", Tamil Nadu ends up bearing a higher share of the cost. \n\nFor example, in PMAY (Rural), the Centre is supposed "
+        },
+        {
+          "date": "2025-06-19",
+          "handle": "TamilnaduStats",
+          "tweetId": "1935680346365829171",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/1935680346365829171",
+          "eventType": "scheme_launch",
+          "summary": "📊 Tamil Nadu Beats Europe in Poverty Reduction!\n\nAs per @NITIAayog  MPI 2023, #TamilNadu Multi-Dimensional Poverty Index is 2.20%, lower than many dev"
+        },
+        {
+          "date": "2025-06-24",
+          "handle": "rocket_isro",
+          "tweetId": "1937402286495662504",
+          "fxUrl": "https://fxtwitter.com/rocket_isro/status/1937402286495662504",
+          "eventType": "scheme_launch",
+          "summary": "கலைஞர் அறிமுகப்படுத்திய\nகுழந்தைகளுக்கான cochlear implant scheme (செவித்திறன் கருவி பொருத்தும் திட்டம்) இத்திட்டதின் மூலம் இதுவரை 4000த்திக்கும் மேற்ப்"
+        },
+        {
+          "date": "2025-08-06",
+          "handle": "TRBRajaa",
+          "tweetId": "1952919795512525272",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1952919795512525272",
+          "eventType": "scheme_launch",
+          "summary": "\"Proud see TN creating history\" says our Honourable FinMin @TThenarasu 🌟\n\nIt's your Consistent hardwork Anna ! \n\nUnder the guidance of our Honourable "
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "mkstalin",
+          "tweetId": "1960218475177422931",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1960218475177422931",
+          "eventType": "scheme_launch",
+          "summary": "The Chief Minister’s Breakfast Scheme in Tamil Nadu continues to inspire beyond our borders. \n\nHon’ble Punjab CM Thiru. @BhagwantMann honoured us by a"
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "mkstalin",
+          "tweetId": "1960231664354779570",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1960231664354779570",
+          "eventType": "scheme_launch",
+          "summary": "The Chief Minister’s Breakfast Scheme in Tamil Nadu continues to inspire beyond our borders. \n\nHon’ble Punjab CM Thiru. @BhagwantMann honoured us by a"
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "mkstalin",
+          "tweetId": "1960255491365642411",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1960255491365642411",
+          "eventType": "scheme_launch",
+          "summary": "The Chief Minister’s Breakfast Scheme in Tamil Nadu continues to inspire beyond our borders. \n\nHon’ble Punjab CM Thiru. @BhagwantMann honoured us by a"
+        },
+        {
+          "date": "2025-09-26",
+          "handle": "mkstalin",
+          "tweetId": "1971402217954672967",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1971402217954672967",
+          "eventType": "scheme_launch",
+          "summary": "Thank you, Hon'ble Thiru. @revanth_anumula garu, for joining the \"Tamil Nadu Excels in Education\" celebrations. Your announcement to take the #CMBreak"
+        },
+        {
+          "date": "2025-09-26",
+          "handle": "mkstalin",
+          "tweetId": "1971419663256125515",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1971419663256125515",
+          "eventType": "scheme_launch",
+          "summary": "Thank you, Hon'ble Thiru. @revanth_anumula garu, for joining the \"Tamil Nadu Excels in Education\" celebrations. Your announcement to take the #CMBreak"
+        },
+        {
+          "date": "2025-09-26",
+          "handle": "mkstalin",
+          "tweetId": "1971470246340067695",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1971470246340067695",
+          "eventType": "scheme_launch",
+          "summary": "Thank you, Hon'ble Thiru. @revanth_anumula garu, for joining the \"Tamil Nadu Excels in Education\" celebrations. Your announcement to take the #CMBreak"
+        },
+        {
+          "date": "2025-10-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1979108405714522343",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1979108405714522343",
+          "eventType": "scheme_launch",
+          "summary": "More than Rs. 8.28 crore in relief for Salt Workers ! \n\nA defining feature of Honourable @CMOTamilNadu Thiru. @MKStalin avargal’s governance model is "
+        },
+        {
+          "date": "2025-11-12",
+          "handle": "Udhaystalin",
+          "tweetId": "1988601299018113441",
+          "fxUrl": "https://fxtwitter.com/Udhaystalin/status/1988601299018113441",
+          "eventType": "progress_update",
+          "summary": "Tamil Nadu Shines in #UPSC Mains 2025. About 155 aspirants from TN have cleared the UPSC Mains. \n\nWe take immense pride in noting that all these achie"
+        },
+        {
+          "date": "2025-12-12",
+          "handle": "Jayakanagaraja",
+          "tweetId": "1999513061414068255",
+          "fxUrl": "https://fxtwitter.com/Jayakanagaraja/status/1999513061414068255",
+          "eventType": "scheme_launch",
+          "summary": "Father of Schemes M K ஸ்டாலின்..\n🔥🔥🔥🔥🖤❤️\n#வெல்லும்_தமிழ்ப்_பெண்கள்"
+        },
+        {
+          "date": "2025-12-12",
+          "handle": "Surya_BornToWin",
+          "tweetId": "1999822444375531611",
+          "fxUrl": "https://fxtwitter.com/Surya_BornToWin/status/1999822444375531611",
+          "eventType": "progress_update",
+          "summary": "Absolutely. \nTamil Nadu’s success is not luck, not a one cycle miracle and definitely not the “freebie state” myth. It is not freebies. It is decades "
+        },
+        {
+          "date": "2025-12-29",
+          "handle": "TRBRajaa",
+          "tweetId": "2005467952825692267",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2005467952825692267",
+          "eventType": "scheme_launch",
+          "summary": "Urge our ecosystem to please avoid engaging with anyone with private agendas. We have a larger war to fight with those trying to curtail the growth of"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007365976040603740",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007365976040603740",
+          "eventType": "scheme_launch",
+          "summary": "தமிழ்நாடு அரசு அலுவலர்கள் மற்றும் ஆசிரியர்களின் இருபதாண்டுகாலக் கோரிக்கையினை நிறைவேற்றும் வகையில், பழைய ஓய்வூதிய திட்டத்தின் பலன்களை வழங்கக்கூடிய புதி"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007366156940915060",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007366156940915060",
+          "eventType": "scheme_launch",
+          "summary": "தமிழ்நாடு அரசு அலுவலர்கள் மற்றும் ஆசிரியர்களின் இருபதாண்டுகாலக் கோரிக்கையினை நிறைவேற்றும் வகையில், பழைய ஓய்வூதிய திட்டத்தின் பலன்களை வழங்கக்கூடிய புதி"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2007384775833858175",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2007384775833858175",
+          "eventType": "scheme_launch",
+          "summary": "தமிழ்நாடு அரசு ஊழியர்கள் மற்றும் ஆசிரியர்களின் இருபதாண்டுகாலக் கோரிக்கையினை நிறைவேற்றும் வகையில், பழைய ஓய்வூதிய திட்டத்தின் பலன்களை வழங்கக்கூடிய புதிய"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "muruga_TNIE",
+          "tweetId": "2007423343734206635",
+          "fxUrl": "https://fxtwitter.com/muruga_TNIE/status/2007423343734206635",
+          "eventType": "expansion",
+          "summary": "Tamil Nadu Chief Minister MK Stalin announces that a new pension scheme titled Tamil Nadu Assured Pension Scheme (TAPS) will be implemented to provide"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "TamilnaduStats",
+          "tweetId": "2007426606894329910",
+          "fxUrl": "https://fxtwitter.com/TamilnaduStats/status/2007426606894329910",
+          "eventType": "scheme_launch",
+          "summary": "👉 OPS vs NPS vs TAPS: Overview Comparison of Pension Schemes ✔️\n\n@CMOTamilnadu \n\n#TamilNadu | #TamilNaduAssuredPensionScheme"
+        },
+        {
+          "date": "2026-01-03",
+          "handle": "GunasekaranMu",
+          "tweetId": "2007485931415355713",
+          "fxUrl": "https://fxtwitter.com/GunasekaranMu/status/2007485931415355713",
+          "eventType": "scheme_launch",
+          "summary": "தமிழ்நாடு உறுதியளிக்கப்பட்ட ஓய்வூதியத் திட்டம் (Tamil Nadu Assured Pension Scheme) - முதல்அமைச்சர் ⁦@mkstalin⁩ அறிவிப்பு #TAPS #PensionScheme #TamilNa"
+        },
+        {
+          "date": "2026-01-06",
+          "handle": "CMOTamilnadu",
+          "tweetId": "2008463548809441697",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/2008463548809441697",
+          "eventType": "scheme_launch",
+          "summary": "மாண்புமிகு தமிழ்நாடு முதலமைச்சர் திரு. @mkstalin அவர்களை தமிழ்நாடு தொடக்கப் பள்ளி ஆசிரியர்கள் மன்றத்தின் மாநிலத் தலைவர் திரு. ரவி, பொதுச் செயலாளர் திர"
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "ndtv",
+          "tweetId": "2017134863816810687",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/2017134863816810687",
+          "eventType": "scheme_launch",
+          "summary": "#NDTVTNSummit | \"People of India have huge expectations from #Budget2026. Would love to see more women centric schemes. Urge union government to learn"
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "ndtv",
+          "tweetId": "2017271918131548301",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/2017271918131548301",
+          "eventType": "scheme_launch",
+          "summary": "#NDTVTNSummit | Tamil Nadu Deputy Chief Minister Udhayanidhi Stalin (@Udhaystalin) lists the ongoing welfare schemes by the state government"
+        }
+      ],
+      "accountsCovering": [
+        "grok",
+        "Tamilbeast",
+        "DMK_Updates",
+        "TRBRajaa",
+        "AmalJos95950131",
+        "muruga_TNIE",
+        "GunasekaranMu",
+        "nramind",
+        "rocket_isro",
+        "CMOTamilnadu",
+        "Udhaystalin",
+        "DrJeyaranjan",
+        "TThenarasu",
+        "Jayakanagaraja",
+        "ndtv",
+        "Surya_BornToWin",
+        "DrGanesh_Japan",
+        "VigneshAnand_Vm",
+        "dharanisalem",
+        "PEN_Offl",
+        "TamilnaduStats",
+        "DMKITwing",
+        "mkstalin"
+      ],
+      "tweetCount": 47
+    },
+    {
+      "entityId": "manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "nameVariants": [],
+      "category": "social-welfare",
+      "entityType": "Manufacturing Unit",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-05",
+        "lastMention": "2025-07-29"
+      },
+      "sources": [
+        {
+          "date": "2024-08-05",
+          "handle": "drmahendran_r",
+          "tweetId": "1820479336572649491",
+          "fxUrl": "https://fxtwitter.com/drmahendran_r/status/1820479336572649491",
+          "eventType": "scheme_launch",
+          "summary": "42% of all factory workers in Tamil Nadu are women. Tamil Nadu is home to 4,400 startups with at least one woman co-founder. The Entrepreneurship Deve"
+        },
+        {
+          "date": "2024-12-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1867604322860871881",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1867604322860871881",
+          "eventType": "mou_signed",
+          "summary": "During my recent visit to #Frankfurt, it was an honour to participate in the #TamilNaduDay celebrations organised by the Non-Resident Tamil Indian Ass"
+        },
+        {
+          "date": "2025-07-05",
+          "handle": "TIDCO_1965",
+          "tweetId": "1941462319491579936",
+          "fxUrl": "https://fxtwitter.com/TIDCO_1965/status/1941462319491579936",
+          "eventType": "production_start",
+          "summary": "Tamil Nadu Defence Industry Meet \n\nTIDCO participated in the Tamil Nadu Defence Industry Meet, organised in collaboration with SIDM and CII, held at I"
+        },
+        {
+          "date": "2025-07-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1950029799134540041",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1950029799134540041",
+          "eventType": "production_start",
+          "summary": "Even as the union continues to stifle the flow of funds to our State we continue to Shine Bright in Performance 🌟\n\nTamil Nadu has the highest MNREGA f"
+        },
+        {
+          "date": "2025-07-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1950134300478742612",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1950134300478742612",
+          "eventType": "production_start",
+          "summary": "Even as the union continues to stifle the flow of funds to our State we continue to Shine Bright in Performance 🌟\n\nTamil Nadu has the highest MNREGA f"
+        }
+      ],
+      "accountsCovering": [
+        "TIDCO_1965",
+        "TRBRajaa",
+        "drmahendran_r"
+      ],
+      "tweetCount": 5
+    },
+    {
+      "entityId": "coimbatore-housing-hostel",
+      "name": "Housing/Hostel",
+      "nameVariants": [],
+      "category": "social-welfare",
+      "entityType": "Housing/Hostel",
+      "location": "Coimbatore",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-13",
+        "lastMention": "2025-07-01"
+      },
+      "sources": [
+        {
+          "date": "2024-06-13",
+          "handle": "TNIndMin",
+          "tweetId": "1801470403921031667",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1801470403921031667",
+          "eventType": "other",
+          "summary": "Hon’ble Minister for Industries Thiru. @TRBRajaa participated in the 21st anniversary celebrations of Coimbatore-based environment nonprofit Siruthuli"
+        },
+        {
+          "date": "2025-02-19",
+          "handle": "ANI",
+          "tweetId": "1892503786989740306",
+          "fxUrl": "https://fxtwitter.com/ANI/status/1892503786989740306",
+          "eventType": "other",
+          "summary": "#WATCH | Tamil Nadu: In Ayapakkam Housing Board area of Villivakkam Panchayat Union in Tiruvallur District, locals registered their protest against th"
+        },
+        {
+          "date": "2025-07-01",
+          "handle": "TRBRajaa",
+          "tweetId": "1940031637028577730",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1940031637028577730",
+          "eventType": "other",
+          "summary": "Chennai only city to see increase in housing demand as overall sales drop 20% in April–June quarter - Hindustan Times https://www.hindustantimes.com/r"
+        },
+        {
+          "date": "2025-07-01",
+          "handle": "TRBRajaa",
+          "tweetId": "1940031999571284286",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1940031999571284286",
+          "eventType": "milestone",
+          "summary": "🎊More Proof that the TN Economy is in Top Shape ! Thanks to the influx of large Investments into all sectors including GCCs !📈\n\n#Chennai was the only "
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin",
+        "TRBRajaa",
+        "ANI"
+      ],
+      "tweetCount": 4
+    },
+    {
+      "entityId": "hospital",
+      "name": "Hospital",
+      "nameVariants": [],
+      "category": "social-welfare",
+      "entityType": "Hospital",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-20",
+        "lastMention": "2025-03-20"
+      },
+      "sources": [
+        {
+          "date": "2025-03-20",
+          "handle": "mkstalin",
+          "tweetId": "1902721065929109789",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902721065929109789",
+          "eventType": "progress_update",
+          "summary": "Thoughtful planning isn't just about solving immediate issues. It transforms society in ways we never imagined.\n\nThe #CMBreakfastScheme has significan"
+        },
+        {
+          "date": "2025-03-20",
+          "handle": "mkstalin",
+          "tweetId": "1902745978819756328",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902745978819756328",
+          "eventType": "progress_update",
+          "summary": "Thoughtful planning isn't just about solving immediate issues. It transforms society in ways we never imagined.\n\nThe #CMBreakfastScheme has significan"
+        },
+        {
+          "date": "2025-03-20",
+          "handle": "mkstalin",
+          "tweetId": "1902750879805235610",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902750879805235610",
+          "eventType": "progress_update",
+          "summary": "Thoughtful planning isn't just about solving immediate issues. It transforms society in ways we never imagined.\n\nThe #CMBreakfastScheme has significan"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "tweetCount": 3
+    },
+    {
+      "entityId": "educational-institution",
+      "name": "Educational Institution",
+      "nameVariants": [],
+      "category": "social-welfare",
+      "entityType": "Educational Institution",
+      "location": "Chennai",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-02-11",
+        "lastMention": "2025-08-26"
+      },
+      "sources": [
+        {
+          "date": "2025-02-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1889232859992650130",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1889232859992650130",
+          "eventType": "milestone",
+          "summary": "It was a pleasure to meet the team from the RWTH Aachen University, Germany, with whom TIDCO is considering collaborations for the upcoming #TNKnowled"
+        },
+        {
+          "date": "2025-08-26",
+          "handle": "PTI_News",
+          "tweetId": "1960215127073960015",
+          "fxUrl": "https://fxtwitter.com/PTI_News/status/1960215127073960015",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu CM Stalin inaugurates expansion of breakfast scheme in Chennai to State-aided schools in urban regions. \n\nTamil Nadu CM Stalin, Punjab CM B"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa",
+        "PTI_News"
+      ],
+      "tweetCount": 2
+    }
+  ]
+}

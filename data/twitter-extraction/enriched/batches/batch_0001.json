@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/26/cm-stalin-visits-guidance-celebrates-bagging-rs-10-lakh-crore-investments-in-three-years",
+    "urlHash": "ccebe218ab86",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1839484698793238714",
+        "handle": "xpresstn",
+        "date": "Thu Sep 26"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/schwing-stetter-india-launches-all-women-service-centre-in-chennai/article68687266.ece",
+    "urlHash": "2e6719da7181",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1839583294247321733",
+        "handle": "sang1983",
+        "date": "Fri Sep 27"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/as-tamil-nadu-would-be-severely-impacted-by-heat-planning-commission-lays-out-mitigation-road-map/article68709882.ece",
+    "urlHash": "16b860843718",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1841705484044382476",
+        "handle": "TRBRajaa",
+        "date": "Thu Oct 03"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/info-tech/tata-electronics-resumes-partial-operations-at-fire-hit-hosur-factory-employees-to-receive-full-pay/article68712492.ece",
+    "urlHash": "265e07acaf00",
+    "domain": "thehindubusinessline.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1841906601868906548",
+        "handle": "TRBRajaa",
+        "date": "Thu Oct 03"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Oct/04/75-years-of-defining-tns-socio-political-course",
+    "urlHash": "58b79472e7b4",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1842164055013806354",
+        "handle": "DMKITwing",
+        "date": "Fri Oct 04"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Oct/19/not-in-grams-but-in-kg-tn-cops-drug-data-proves-governor-wrong?s=09",
+    "urlHash": "57796e2b23e2",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1847707215991374245",
+        "handle": "DMKITwing",
+        "date": "Sat Oct 19"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/opinion/editorial/sun-signs-on-extreme-heat-and-tamil-nadus-policy-decision/article68815083.ece",
+    "urlHash": "96436142f6cd",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1852222634030961126",
+        "handle": "ramyakannan",
+        "date": "Thu Oct 31"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/naan-mudhalvan-upskilling-initiative-starts-delivering-intended-impact-say-heads-of-heis/article68823300.ece",
+    "urlHash": "54b6ec9bdada",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1853000457633054811",
+        "handle": "DMKITwing",
+        "date": "Sun Nov 03"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tirunelveli-emerges-as-a-thriving-startup-hub/article68849910.ece",
+    "urlHash": "7e9639c29cb9",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1855587574313595128",
+        "handle": "TNIndMin",
+        "date": "Sun Nov 10"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Nov/15/lubrizol-signs-mou-to-create-medical-manufacturing-facility-near-chennai",
+    "urlHash": "d50c57a1bf7f",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1857788593089253692",
+        "handle": "TRBRajaa",
+        "date": "Sat Nov 16"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Dec/03/tamil-nadu-cm-announces-comprehensive-relief-package-for-people-affected-by-cyclone-fengal",
+    "urlHash": "5a236ed52066",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1863887001419727329",
+        "handle": "xpresstn",
+        "date": "Tue Dec 03"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/kerala/tamil-nadu-keen-on-collaborating-with-csir-niist-tn-industries-minister-trb-rajaa/article69044312.ece",
+    "urlHash": "c51a970f0e58",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1873893751858618446",
+        "handle": "TNIndMin",
+        "date": "Mon Dec 30"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/opinion/editorial/%E2%80%8Bcontrived-grievance-the-hindu-editorial-on-the-tamil-nadu-governor/article69068113.ece",
+    "urlHash": "289e48f79622",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1876497288178368692",
+        "handle": "the_hindu",
+        "date": "Tue Jan 07"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/news/tamil-nadu-looks-to-highlight-its-talent-pool-and-manufacturing-strength-at-davos-2025/article69104940.ece",
+    "urlHash": "c688deee0b2b",
+    "domain": "thehindubusinessline.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1879957067135623325",
+        "handle": "SindhuHarih",
+        "date": "Thu Jan 16"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/arunthathiyars-special-quota-benefits-community-reveals-rti/article69104128.ece/amp/",
+    "urlHash": "89de5fd9d0c4",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1880099522388578341",
+        "handle": "DMKITwing",
+        "date": "Fri Jan 17"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "http://www.dinamalar.com",
+    "urlHash": "6d3dcd9f5cc8",
+    "domain": "dinamalar.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1881281039215276498",
+        "handle": "dinamalarweb",
+        "date": "Mon Jan 20"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-is-one-of-the-frontrunners-in-ev-infrastructure-union-minister/article69196533.ece",
+    "urlHash": "aa184c13339a",
+    "domain": "thehindu.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1888459709608591540",
+        "handle": "TNIndMin",
+        "date": "Sun Feb 09"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/news/chennai-leads-warehousing-transaction-volume-growth-expands-29-per-cent-yoy-knight-frank-india/article69322105.ece",
+    "urlHash": "89a3f4dbb04c",
+    "domain": "thehindubusinessline.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1900101749652021333",
+        "handle": "TRBRajaa",
+        "date": "Thu Mar 13"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Mar/22/vinfast-likely-to-start-production-in-three-months-thoothukudi-turns-tns-fourth-big-auto-cluster",
+    "urlHash": "36afc48aafab",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1903742352034058262",
+        "handle": "UpdatesChennai",
+        "date": "Sat Mar 22"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "url": "https://www.newindianexpress.com/amp/story/states/tamil-nadu/2025/Mar/22/interview-rising-debt-as-centre-has-clipped-our-financial-autonomy-tn-finance-minister-thangam-thennarasu",
+    "urlHash": "8d05a0e63294",
+    "domain": "newindianexpress.com",
+    "priority": "high",
+    "sourceTweets": [
+      {
+        "tweetId": "1903742816486048182",
+        "handle": "TThenarasu",
+        "date": "Sun Mar 23"
+      }
+    ],
+    "status": "pending"
+  }
+]

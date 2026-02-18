@@ -1,0 +1,144 @@
+{
+  "generatedAt": "2026-02-17T18:24:25.410350+00:00",
+  "category": "infrastructure",
+  "summary": {
+    "totalEntitiesProcessed": 9,
+    "exactMatches": 0,
+    "partialMatches": 6,
+    "newCandidates": 3,
+    "existingProjects": 47
+  },
+  "matches": [
+    {
+      "aggregatedEntityId": "chennai-metro",
+      "aggregatedEntityName": "Chennai Metro",
+      "existingEntryId": "CMRL-P2-C3",
+      "existingEntryName": "Chennai Metro Phase II - Corridor 3 (Madhavaram to SIPCOT)",
+      "existingDataFile": "app/src/data/projects/CMRL-P2-C3.json",
+      "category": "infrastructure",
+      "matchType": "fuzzy",
+      "matchScore": 0.454,
+      "matchedOn": [],
+      "action": "review",
+      "newSourcesToAdd": 33
+    },
+    {
+      "aggregatedEntityId": "educational-institution",
+      "aggregatedEntityName": "Educational Institution",
+      "existingEntryId": "TIDEL-PARK-FLYOVER",
+      "existingEntryName": "U-Shaped Flyover at Tidel Park Junction",
+      "existingDataFile": "app/src/data/projects/TIDEL-PARK-FLYOVER.json",
+      "category": "infrastructure",
+      "matchType": "fuzzy",
+      "matchScore": 0.465,
+      "matchedOn": [
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 14
+    },
+    {
+      "aggregatedEntityId": "housing-hostel",
+      "aggregatedEntityName": "Housing/Hostel",
+      "existingEntryId": "SHOLINGANALLUR-STP",
+      "existingEntryName": "Sholinganallur Sewage Treatment Plant (36 MLD)",
+      "existingDataFile": "app/src/data/projects/SHOLINGANALLUR-STP.json",
+      "category": "infrastructure",
+      "matchType": "fuzzy",
+      "matchScore": 0.478,
+      "matchedOn": [
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 5
+    },
+    {
+      "aggregatedEntityId": "chennai-tidel-park-chennai",
+      "aggregatedEntityName": "TIDEL Park Chennai",
+      "existingEntryId": "KCBT-KILAMBAKKAM",
+      "existingEntryName": "Kalaignar Centenary Bus Terminus (KCBT) - Kilambakkam",
+      "existingDataFile": "app/src/data/projects/KCBT-KILAMBAKKAM.json",
+      "category": "infrastructure",
+      "matchType": "fuzzy",
+      "matchScore": 0.584,
+      "matchedOn": [
+        "location",
+        "investment"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 4
+    },
+    {
+      "aggregatedEntityId": "hospital",
+      "aggregatedEntityName": "Hospital",
+      "existingEntryId": "KODUNGAIYUR-STP-UPGRADE",
+      "existingEntryName": "Kodungaiyur STP Capacity Upgrade (110 MLD)",
+      "existingDataFile": "app/src/data/projects/KODUNGAIYUR-STP-UPGRADE.json",
+      "category": "infrastructure",
+      "matchType": "fuzzy",
+      "matchScore": 0.463,
+      "matchedOn": [
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 2
+    },
+    {
+      "aggregatedEntityId": "coimbatore-madurai-metro",
+      "aggregatedEntityName": "Madurai Metro",
+      "existingEntryId": "MADURAI-METRO-DPR",
+      "existingEntryName": "Madurai Metro Rapid Transit System (DPR Phase)",
+      "existingDataFile": "app/src/data/projects/MADURAI-METRO-DPR.json",
+      "category": "infrastructure",
+      "matchType": "fuzzy",
+      "matchScore": 0.579,
+      "matchedOn": [
+        "location"
+      ],
+      "action": "review",
+      "newSourcesToAdd": 2
+    }
+  ],
+  "newCandidates": [
+    {
+      "aggregatedEntityId": "chennai-manufacturing-unit",
+      "name": "Manufacturing Unit",
+      "category": "infrastructure",
+      "sourceCount": 14,
+      "firstMention": "2024-12-05",
+      "lastMention": "2026-01-20",
+      "confidence": 0.95,
+      "reviewFlags": [],
+      "numbers": {
+        "investmentCrore": 2905.0
+      }
+    },
+    {
+      "aggregatedEntityId": "welfare-scheme",
+      "name": "Welfare Scheme",
+      "category": "infrastructure",
+      "sourceCount": 11,
+      "firstMention": "2024-07-01",
+      "lastMention": "2025-08-26",
+      "confidence": 0.8,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    },
+    {
+      "aggregatedEntityId": "salem-tidel-park",
+      "name": "TIDEL Park",
+      "category": "infrastructure",
+      "sourceCount": 2,
+      "firstMention": "2024-12-02",
+      "lastMention": "2024-12-29",
+      "confidence": 0.6,
+      "reviewFlags": [
+        "missing_investment"
+      ],
+      "numbers": {}
+    }
+  ],
+  "sourceAdditions": []
+}

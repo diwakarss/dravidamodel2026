@@ -1,0 +1,369 @@
+{
+  "batch": 1,
+  "processedAt": "2026-02-17T11:20:12.378674+00:00",
+  "stats": {
+    "success": 7,
+    "failed": 0,
+    "not_found": 0,
+    "blocked": 13,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-govt-will-fulfil-poll-promise-of-reserving-75-jobs-for-tamils/article35573721.ece",
+      "urlHash": "60fd41f44582",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:19:30.496390+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1420227238566383618",
+          "handle": "sang1983",
+          "date": "Wed Jul 28"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u2018DMK govt. will fulfil poll promise of reserving 75% jobs for Tamils\u2019 - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "October 22, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "\u2018DMK govt. will fulfil poll promise of reserving 75% jobs for Tamils\u2019 - The Hindu",
+        "summary": "Tamil Nadu will make a pitch to Tesla when it evinces interest in foraying into India; talks are on at various levels for investment by Kitex: Industries Minister"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/videos/positive-story-tiruvaroor-kuru-vanamaga-mariya-kuppai-medu-3-000-marakkanrukalai-nattu-asathal-dhnt-1687900.html",
+      "urlHash": "d65febfe14e7",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:19:32.611329+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1420619241888260096",
+          "handle": "GreenNeeda",
+          "date": "Wed Jul 28"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/opinion/editorial/long-overdue-the-hindu-editorial-on-obc-reservation-in-all-india-quota-medical-seats/article35670924.ece",
+      "urlHash": "c4bd5a4ed814",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:19:34.692073+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1422143710591021059",
+          "handle": "TThenarasu",
+          "date": "Mon Aug 02"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Long overdue: The Hindu Editorial on OBC reservation in All-India Quota medical seats - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 8, 2026 e-Paper",
+      "extractedData": {
+        "headline": "Long overdue: The Hindu Editorial on OBC reservation in All-India Quota medical seats - The Hindu",
+        "summary": "OBC reservation in All-India Quota medical seats puts an end to a discriminatory policy"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/dmk-mla-trp-raja-want-his-seat-near-karunanidhi-portrait-428886.html",
+      "urlHash": "1d3b8766827d",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:19:36.828829+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1422515816755388418",
+          "handle": "TRBRajaa",
+          "date": "Tue Aug 03"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.dinakaran.com/News_Detail.asp?Nid=695124",
+      "urlHash": "47735f1a26d9",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:19:38.909657+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1422590510493945858",
+          "handle": "DinakaranNews",
+          "date": "Tue Aug 03"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-fiscal-position-unsustainable-says-white-paper-on-state-finances/article35812351.ece",
+      "urlHash": "94bebf1548ce",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:19:41.113291+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1424976774887137280",
+          "handle": "sang1983",
+          "date": "Tue Aug 10"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "TN fiscal position &#039;unsustainable&#039;, says White Paper on State Finances - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "January 22, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "TN fiscal position &#039;unsustainable&#039;, says White Paper on State Finances - The Hindu",
+        "summary": "Lack of political, administrative will of AIADMK led to this situation, says Finance Minister Palanivel Thiaga Rajan"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/patna/bihar-citizens-protest-for-aiims-delay-in-darbhanga-429614.html",
+      "urlHash": "e6b19f0c936f",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:19:43.240312+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1425448485210386434",
+          "handle": "TRBRajaa",
+          "date": "Wed Aug 11"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.dinakaran.com/News_Detail.asp?Nid=697545",
+      "urlHash": "980805eef660",
+      "domain": "dinakaran.com",
+      "fetchedAt": "2026-02-17T11:19:45.294860+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1425993098451054596",
+          "handle": "DinakaranNews",
+          "date": "Fri Aug 13"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.vikatan.com/government-and-politics/politics/what-did-the-chief-minister-mk-stalin-in-first100-days",
+      "urlHash": "7c8dd8408e56",
+      "domain": "vikatan.com",
+      "fetchedAt": "2026-02-17T11:19:47.534167+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426513327656640527",
+          "handle": "TRBRajaa",
+          "date": "Sat Aug 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd 100 \u0ba8\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bcd... \u0b8e\u0ba9\u0bcd\u0ba9\u0bc6\u0ba9\u0bcd\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd! | What did the Chief Minister MK Stalin in first100 days?! - Vikatan",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Guest Contributor",
+      "rawText": "Save the vikatan web app to Home Screen tap on",
+      "extractedData": {
+        "headline": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd 100 \u0ba8\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bcd... \u0b8e\u0ba9\u0bcd\u0ba9\u0bc6\u0ba9\u0bcd\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd! | What did the Chief Minister MK Stalin in first100 days?! - Vikatan",
+        "summary": "100 \u0ba8\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0bb5\u0bc8 \u0b8e\u0ba8\u0bcd\u0ba4 \u0b93\u0bb0\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0ba4\u0bbe\u0b95 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f \u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2 \u0b85\u0bb3\u0bb5\u0bc1 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8. \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd, \u0b93\u0bb0\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd \u0ba4\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8, \u0b85\u0ba8\u0bcd\u0ba4 100 \u0ba8\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bc8\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bbf\u0b9f \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd. | What did the Chief Minister MK Stalin in first100 days?!"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/mla-t-r-b-rajaa-has-come-to-assembly-by-tuck-in-pant-with-green-colour-towel-429970.html",
+      "urlHash": "8ff7231838cf",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:19:50.798680+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426530775898284037",
+          "handle": "thatsTamil",
+          "date": "Sat Aug 14"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/cm-mk-stalin-issues-58-appointment-orders-under-the-ordinance-that-all-castes-can-become-priests-429929.html",
+      "urlHash": "f4c23f956788",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:19:52.882327+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426541891965837315",
+          "handle": "thatsTamil",
+          "date": "Sat Aug 14"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/t-r-b-rajaa-says-that-he-was-not-felt-sad-not-to-get-ministerial-berth-430018.html",
+      "urlHash": "ccb0d8dba1a3",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:19:54.969239+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1426884465360465926",
+          "handle": "TRBRajaa",
+          "date": "Sun Aug 15"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/from-periphery-to-sanctum-sanctorum-a-long-journey-for-some-new-archakas/article35931747.ece",
+      "urlHash": "02d544e72a65",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:19:57.037148+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427124753727246339",
+          "handle": "GunasekaranMu",
+          "date": "Mon Aug 16"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "From periphery to sanctum sanctorum: a long journey for some new TN archakas  - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "October 20, 2025 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "From periphery to sanctum sanctorum: a long journey for some new TN archakas  - The Hindu",
+        "summary": "Many who have been appointed priests suffered for long before a new dawn broke"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/t-r-b-rajaa-says-that-udhayanidhi-is-working-in-his-chepauk-constituency-430094.html",
+      "urlHash": "0c6e790e462c",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:19:59.171771+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427186716566122500",
+          "handle": "thatsTamil",
+          "date": "Mon Aug 16"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/delhi/who-is-the-popular-cm-in-india-india-today-survey-says-it-tn-cm-m-k-stalin-430146.html",
+      "urlHash": "91f9179cb772",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:01.231950+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427554963303981057",
+          "handle": "thatsTamil",
+          "date": "Mon Aug 16"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thehindu.com/business/Economy/finmin-accuses-tn-of-double-speak-over-fuel-taxes/article35946806.ece",
+      "urlHash": "60312a999b82",
+      "domain": "thehindu.com",
+      "fetchedAt": "2026-02-17T11:20:03.297707+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1427580135117492225",
+          "handle": "ptrmadurai",
+          "date": "Tue Aug 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Finance Minister accuses TN of double speak over fuel taxes - The Hindu",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "February 10, 2026 e-Paper The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming.",
+      "extractedData": {
+        "headline": "Finance Minister accuses TN of double speak over fuel taxes - The Hindu",
+        "summary": "Says State hiked rates by \u20b97 before reduction of \u20b93"
+      }
+    },
+    {
+      "url": "https://tamil.oneindia.com/photos/chief-minister-stalin-workout-in-gym-oi66741.html",
+      "urlHash": "58f085271d6b",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:05.416275+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1429107715066896390",
+          "handle": "thatsTamil",
+          "date": "Sat Aug 21"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/greater-chennai-corporation-celebrates-madras-day-382-on-today-430633.html",
+      "urlHash": "4c806bf41954",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:07.510596+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1429257294873645057",
+          "handle": "thatsTamil",
+          "date": "Sun Aug 22"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://tamil.oneindia.com/news/chennai/mannargudi-mla-trb-rajaa-says-that-his-constituency-will-get-good-projects-by-this-week-430717.html",
+      "urlHash": "c5c138af1870",
+      "domain": "tamil.oneindia.com",
+      "fetchedAt": "2026-02-17T11:20:09.574284+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1429697390886285314",
+          "handle": "thatsTamil",
+          "date": "Mon Aug 23"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.vikatan.com/government-and-politics/politics/some-of-the-important-events-happened-in-tamil-nadu-assembly-on-25-08-2021",
+      "urlHash": "2d5bda98ea36",
+      "domain": "vikatan.com",
+      "fetchedAt": "2026-02-17T11:20:11.640183+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1430568165738569733",
+          "handle": "JuniorVikatan",
+          "date": "Wed Aug 25"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "``\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb2\u0bbf \u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2.7 \u0b95\u0bcb\u0b9f\u0bbf \u0bae\u0bcb\u0b9a\u0b9f\u0bbf&quot; - \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb2 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bcd... | Some of the important events happened in Tamil Nadu  Assembly  on 25-08-2021 - Vikatan",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0ba4\u0bc1\u0bb0\u0bc8\u0bb0\u0bbe\u0b9c\u0bcd \u0b95\u0bc1\u0ba3\u0b9a\u0bc7\u0b95\u0bb0\u0ba9\u0bcd",
+      "rawText": "Save the vikatan web app to Home Screen tap on",
+      "extractedData": {
+        "headline": "``\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb2\u0bbf \u0ba8\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0bc2.7 \u0b95\u0bcb\u0b9f\u0bbf \u0bae\u0bcb\u0b9a\u0b9f\u0bbf&quot; - \u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb2 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bcd... | Some of the important events happened in Tamil Nadu  Assembly  on 25-08-2021 - Vikatan",
+        "summary": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1  \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b9a\u0bbf\u0bb2 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1.| Some of the important events happened in Tamil Nadu  Assembly  on 25-08-2021"
+      }
+    }
+  ]
+}

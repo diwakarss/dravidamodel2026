@@ -1,0 +1,753 @@
+{
+  "category": "environment",
+  "aggregatedAt": "2026-02-17T17:44:43.365928+00:00",
+  "stats": {
+    "entries": 103,
+    "entities": 21
+  },
+  "entities": [
+    {
+      "entityId": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-07",
+        "lastMention": "2025-10-22",
+        "productionStart": "2025-05-13",
+        "inauguration": "2025-10-22"
+      },
+      "sources": [
+        {
+          "date": "2024-06-07",
+          "handle": "mkstalin",
+          "tweetId": "1798981033834295520",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1798981033834295520",
+          "eventType": "other",
+          "summary": "Tamil Nadu lost a leading light today, Dr. A.J.T. Johnsingh, a luminary in wildlife conservation. His humility, compassion, and dedication to science-..."
+        },
+        {
+          "date": "2024-06-07",
+          "handle": "mkstalin",
+          "tweetId": "1798981697721237907",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1798981697721237907",
+          "eventType": "other",
+          "summary": "Tamil Nadu lost a leading light today, Dr. A.J.T. Johnsingh, a luminary in wildlife conservation. His humility, compassion, and dedication to science-..."
+        },
+        {
+          "date": "2025-02-04",
+          "handle": "mkstalin",
+          "tweetId": "1886693791219724705",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1886693791219724705",
+          "eventType": "other",
+          "summary": "Tamil Nadu is setting the benchmark in Climate Action!\n\n#TNClimateSummit 3.0 focuses on awareness, innovation, and sustainability."
+        },
+        {
+          "date": "2025-02-04",
+          "handle": "mkstalin",
+          "tweetId": "1886707765965447331",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1886707765965447331",
+          "eventType": "other",
+          "summary": "Tamil Nadu is setting the benchmark in Climate Action!\n\n#TNClimateSummit 3.0 focuses on awareness, innovation, and sustainability."
+        },
+        {
+          "date": "2025-02-04",
+          "handle": "mkstalin",
+          "tweetId": "1886765658534453417",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1886765658534453417",
+          "eventType": "other",
+          "summary": "Tamil Nadu is setting the benchmark in Climate Action!\n\n#TNClimateSummit 3.0 focuses on awareness, innovation, and sustainability."
+        },
+        {
+          "date": "2025-02-05",
+          "handle": "mkstalin",
+          "tweetId": "1887152999795155352",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1887152999795155352",
+          "eventType": "other",
+          "summary": "Highlights from #TNClimateSummit 3.0 as Tamil Nadu drives awareness and action on #CimateChange. Watch the glimpses."
+        },
+        {
+          "date": "2025-05-13",
+          "handle": "Guidance_TN",
+          "tweetId": "1922219391367643143",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1922219391367643143",
+          "eventType": "production_start",
+          "summary": "#TamilNadu is now among the top three states for both solar module and cell manufacturing, contributing over 10% of India’s module capacity and 12% of..."
+        },
+        {
+          "date": "2025-07-26",
+          "handle": "Guidance_TN",
+          "tweetId": "1949023406827209081",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1949023406827209081",
+          "eventType": "other",
+          "summary": "Tamil Nadu #Mangrove are making a Comeback \n\n#TamilNadu is witnessing a green revival as mangrove cover has more than doubled, from 4,500 hectares in ..."
+        },
+        {
+          "date": "2025-07-29",
+          "handle": "mkstalin",
+          "tweetId": "1950047595075948641",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1950047595075948641",
+          "eventType": "other",
+          "summary": "On #InternationalTigerDay, Tamil Nadu roars with pride.\n\nWith 306 tigers as per NTCA, this success rests on the shoulders of our forest staff and anti..."
+        },
+        {
+          "date": "2025-07-29",
+          "handle": "mkstalin",
+          "tweetId": "1950051729208213984",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1950051729208213984",
+          "eventType": "other",
+          "summary": "On #InternationalTigerDay, Tamil Nadu roars with pride.\n\nWith 306 tigers as per NTCA, this success rests on the shoulders of our forest staff and anti..."
+        },
+        {
+          "date": "2025-10-22",
+          "handle": "supriyasahuias",
+          "tweetId": "1981036615184372115",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/1981036615184372115",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu gears up for the 2025-26  Olive Ridley Nesting Season. As the new nesting season approaches, we held a comprehensive review meeting with th..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin",
+        "Guidance_TN",
+        "supriyasahuias"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 11,
+      "aggregatedAt": "2026-02-17T17:44:43.365735+00:00"
+    },
+    {
+      "entityId": "watch-hon",
+      "name": "Watch Hon",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-22",
+        "lastMention": "2025-03-22"
+      },
+      "sources": [
+        {
+          "date": "2025-03-22",
+          "handle": "mkstalin",
+          "tweetId": "1903436587851231523",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1903436587851231523",
+          "eventType": "progress_update",
+          "summary": "Watch Hon'ble Dy CM of Karnataka Thiru. @DKShivakumar deliver a clear message to the Union Government on #FairDelimitation:\n\n\"We will fight in the cou..."
+        },
+        {
+          "date": "2025-03-22",
+          "handle": "mkstalin",
+          "tweetId": "1903442264422301951",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1903442264422301951",
+          "eventType": "progress_update",
+          "summary": "Watch Hon'ble Dy CM of Karnataka Thiru. @DKShivakumar deliver a clear message to the Union Government on #FairDelimitation:\n\n\"We will fight in the cou..."
+        },
+        {
+          "date": "2025-03-22",
+          "handle": "mkstalin",
+          "tweetId": "1903459381800222796",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1903459381800222796",
+          "eventType": "progress_update",
+          "summary": "Watch Hon'ble Dy CM of Karnataka Thiru. @DKShivakumar deliver a clear message to the Union Government on #FairDelimitation:\n\n\"We will fight in the cou..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "under_construction",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.365760+00:00"
+    },
+    {
+      "entityId": "cmotamilnadu-thiru",
+      "name": "Cmotamilnadu Thiru",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-18",
+        "lastMention": "2026-01-12",
+        "mouSigned": "2026-01-12"
+      },
+      "sources": [
+        {
+          "date": "2024-07-18",
+          "handle": "TRBRajaa",
+          "tweetId": "1813965772445855787",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1813965772445855787",
+          "eventType": "other",
+          "summary": "Another day, and another report illustrating the top-notch performance of #TamilNadu, proving the immense success of our inclusive #DravidianModel! 🌟\n..."
+        },
+        {
+          "date": "2026-01-12",
+          "handle": "TRBRajaa",
+          "tweetId": "2010642446720639000",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2010642446720639000",
+          "eventType": "mou_signed",
+          "summary": "A brand new fully Air-conditioned electric #DoubleDeckerBusis is all set to hit the streets of Chennai to ferry tourists around ! \n\nToday, our Honoura..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.365744+00:00"
+    },
+    {
+      "entityId": "electric-blue",
+      "name": "Electric Blue",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-10-19",
+        "lastMention": "2024-10-19"
+      },
+      "sources": [
+        {
+          "date": "2024-10-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1847534046945169877",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1847534046945169877",
+          "eventType": "other",
+          "summary": "இதற்கு காரணம் \"உயிரொளிர்வு\" (Bioluminescence). கடலில் சில சமயங்களில் ஒருவகை கடல் பாசி படரும் போது அதன் உயிரொளிர்வு தன்மை இப்படி பிரமிக்க வைக்கும். ஒரு..."
+        },
+        {
+          "date": "2024-10-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1848037207396753853",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1848037207396753853",
+          "eventType": "other",
+          "summary": "இதற்கு காரணம் \"உயிரொளிர்வு\" (Bioluminescence). கடலில் சில சமயங்களில் ஒருவகை கடல் பாசி படரும் போது அதன் உயிரொளிர்வு தன்மை இப்படி பிரமிக்க வைக்கும். ஒரு..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.365753+00:00"
+    },
+    {
+      "entityId": "tamil-nadu-governing-council",
+      "name": "Tamil Nadu Governing Council",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 500.0
+      },
+      "timeline": {
+        "firstMention": "2024-12-05",
+        "lastMention": "2024-12-05"
+      },
+      "sources": [
+        {
+          "date": "2024-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1864658388707365098",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1864658388707365098",
+          "eventType": "scheme_launch",
+          "summary": "Addressed the Tamil Nadu Governing Council on Climate Change today. Tamil Nadu is a pioneer in combating #ClimateChange with visionary initiatives lik..."
+        },
+        {
+          "date": "2024-12-05",
+          "handle": "mkstalin",
+          "tweetId": "1864736140248387938",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1864736140248387938",
+          "eventType": "scheme_launch",
+          "summary": "Addressed the Tamil Nadu Governing Council on Climate Change today. Tamil Nadu is a pioneer in combating #ClimateChange with visionary initiatives lik..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.365755+00:00"
+    },
+    {
+      "entityId": "london",
+      "name": "London",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-04",
+        "lastMention": "2025-09-04",
+        "mouSigned": "2025-09-04"
+      },
+      "sources": [
+        {
+          "date": "2025-09-04",
+          "handle": "mkstalin",
+          "tweetId": "1963410433546608901",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963410433546608901",
+          "eventType": "mou_signed",
+          "summary": "In London, I met UK Minister Thirumigu @CatherineWest1 to deepen the TN–UK partnership.\n\nWe discussed opportunities in green economy, education, resea..."
+        },
+        {
+          "date": "2025-09-04",
+          "handle": "mkstalin",
+          "tweetId": "1963525191130312848",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963525191130312848",
+          "eventType": "mou_signed",
+          "summary": "In London, I met UK Minister Thirumigu @CatherineWest1 to deepen the TN–UK partnership.\n\nWe discussed opportunities in green economy, education, resea..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.365770+00:00"
+    },
+    {
+      "entityId": "omcar-foundation",
+      "name": "Omcar Foundation",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-25",
+        "lastMention": "2025-09-25",
+        "groundBreaking": "2025-09-25"
+      },
+      "sources": [
+        {
+          "date": "2025-09-25",
+          "handle": "mkstalin",
+          "tweetId": "1971094098590515386",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1971094098590515386",
+          "eventType": "ground_breaking",
+          "summary": "தஞ்சை - புதுக்கோட்டை மாவட்டங்களில் அமைந்த பாக் வளைகுடாவில், நமது #DravidianModel அரசு அறிவித்த இந்தியாவின் முதல் கடற்பசுப் பாதுகாப்பகத்துக்கு உலகளாவிய..."
+        },
+        {
+          "date": "2025-09-25",
+          "handle": "mkstalin",
+          "tweetId": "1971101853724332320",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1971101853724332320",
+          "eventType": "ground_breaking",
+          "summary": "தஞ்சை - புதுக்கோட்டை மாவட்டங்களில் அமைந்த பாக் வளைகுடாவில், நமது #DravidianModel அரசு அறிவித்த இந்தியாவின் முதல் கடற்பசுப் பாதுகாப்பகத்துக்கு உலகளாவிய..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "under_construction",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.365772+00:00"
+    },
+    {
+      "entityId": "honourable-minister",
+      "name": "Honourable Minister",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-13",
+        "lastMention": "2024-06-13"
+      },
+      "sources": [
+        {
+          "date": "2024-06-13",
+          "handle": "TNIndMin",
+          "tweetId": "1801160479949353424",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1801160479949353424",
+          "eventType": "other",
+          "summary": "Honourable Minister for Industries Thiru. @TRBRajaa participated in the Indo-French Sustainability Conclave 2024, in the presence of the Honourable Co..."
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365741+00:00"
+    },
+    {
+      "entityId": "groundbreaking-policy-decisions-taken",
+      "name": "Groundbreaking Policy Decisions Taken",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-13",
+        "lastMention": "2024-08-13",
+        "mouSigned": "2024-08-13"
+      },
+      "sources": [
+        {
+          "date": "2024-08-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1823369712828363137",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1823369712828363137",
+          "eventType": "mou_signed",
+          "summary": "Groundbreaking Policy Decisions Taken at the #Cabinet Meeting today !!!\n\nFurther proof of how under the leadership of Honourable @CMOTamilNadu Thiru. ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365746+00:00"
+    },
+    {
+      "entityId": "nanjarayan-bird-sanctuary",
+      "name": "Nanjarayan Bird Sanctuary",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-14",
+        "lastMention": "2024-08-14"
+      },
+      "sources": [
+        {
+          "date": "2024-08-14",
+          "handle": "mkstalin",
+          "tweetId": "1823716179048898951",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1823716179048898951",
+          "eventType": "milestone",
+          "summary": "With the addition of Nanjarayan Bird Sanctuary in Tiruppur District and Kazhuveli Bird Sanctuary in Villupuram District, our Tamil Nadu now boasts 18 ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365749+00:00"
+    },
+    {
+      "entityId": "tamilnadu-experience-shared",
+      "name": "Tamilnadu Experience Shared",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-30",
+        "lastMention": "2024-08-30"
+      },
+      "sources": [
+        {
+          "date": "2024-08-30",
+          "handle": "TNDIPRNEWS",
+          "tweetId": "1829527459571904775",
+          "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1829527459571904775",
+          "eventType": "other",
+          "summary": "TAMILNADU Experience Shared by Mr. Mark Widmar, CEO of First Solar \n\n#CMMKSTALIN | #TNDIPR | #CMStalinInUS\n@CMOTamilnadu @mkstalin\n@mp_saminathan @TRB..."
+        }
+      ],
+      "accountsCovering": [
+        "TNDIPRNEWS"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365751+00:00"
+    },
+    {
+      "entityId": "former-indian-cricketer",
+      "name": "Former Indian Cricketer",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-21",
+        "lastMention": "2025-03-21"
+      },
+      "sources": [
+        {
+          "date": "2025-03-21",
+          "handle": "omjasvinMD",
+          "tweetId": "1903016399045620044",
+          "fxUrl": "https://fxtwitter.com/omjasvinMD/status/1903016399045620044",
+          "eventType": "other",
+          "summary": "Breaking: Former Indian Cricketer @ashwinravi99’s residential street in Chennai to be named after him\n\nThe Greater Chennai Corporation (GCC) has decid..."
+        }
+      ],
+      "accountsCovering": [
+        "omjasvinMD"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365757+00:00"
+    },
+    {
+      "entityId": "tamilnadu-unveils-green",
+      "name": "Tamilnadu Unveils Green",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-30",
+        "lastMention": "2025-04-30",
+        "productionStart": "2025-04-30"
+      },
+      "sources": [
+        {
+          "date": "2025-04-30",
+          "handle": "Guidance_TN",
+          "tweetId": "1917434416592310502",
+          "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1917434416592310502",
+          "eventType": "production_start",
+          "summary": "Powering the Future, Sustainably: #TamilNadu Unveils Green #Thoothukudi Cluster\n\nMr V Arun Roy, Secretary, Industries, Investment Promotion & Commerce..."
+        }
+      ],
+      "accountsCovering": [
+        "Guidance_TN"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365762+00:00"
+    },
+    {
+      "entityId": "nilgiri-tahr",
+      "name": "Nilgiri Tahr",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-06",
+        "lastMention": "2025-05-06"
+      },
+      "sources": [
+        {
+          "date": "2025-05-06",
+          "handle": "supriyasahuias",
+          "tweetId": "1920047494924505145",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/1920047494924505145",
+          "eventType": "milestone",
+          "summary": "While cutting-edge tools like drones, thermal cameras, radio collaring, and DNA sampling are driving Nilgiri Tahr conservation in Tamil Nadu, at the s..."
+        }
+      ],
+      "accountsCovering": [
+        "supriyasahuias"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365763+00:00"
+    },
+    {
+      "entityId": "elephant",
+      "name": "Elephant",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 6.0
+      },
+      "timeline": {
+        "firstMention": "2025-05-14",
+        "lastMention": "2025-05-14",
+        "inauguration": "2025-05-14"
+      },
+      "sources": [
+        {
+          "date": "2025-05-14",
+          "handle": "supriyasahuias",
+          "tweetId": "1923055416532931045",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/1923055416532931045",
+          "eventType": "inauguration",
+          "summary": "Today, a dream comes true ! The Elephant whisperers of India get a village dedicated to them at Theppakadu Elephant Camp  in the  Mudumalai Tiger Rese..."
+        }
+      ],
+      "accountsCovering": [
+        "supriyasahuias"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365765+00:00"
+    },
+    {
+      "entityId": "electric-bus-revolution-begins",
+      "name": "Electric Bus Revolution Begins",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-29",
+        "lastMention": "2025-05-29",
+        "inauguration": "2025-05-29"
+      },
+      "sources": [
+        {
+          "date": "2025-05-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1928054808604250259",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1928054808604250259",
+          "eventType": "inauguration",
+          "summary": "Chennai’s Electric Bus Revolution Begins! 🚍⚡ | MTC e-Bus Launch 2025| TN... https://youtube.com/shorts/GuAAqLc_MjI?si=cnZWxziMEcDmtb3h via @YouTube"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365767+00:00"
+    },
+    {
+      "entityId": "city-biodiversity-index",
+      "name": "City Biodiversity Index",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-08-25",
+        "lastMention": "2025-08-25"
+      },
+      "sources": [
+        {
+          "date": "2025-08-25",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1959916043784393043",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1959916043784393043",
+          "eventType": "other",
+          "summary": "சுற்றுச்சூழல், காலநிலை மாற்றம் மற்றும் வனத்துறை சார்பில், தமிழ்நாட்டின் உயிரியல் பல்வகை பாதுகாப்பு முயற்சிகளை வலுப்படுத்தும் வகையில் சென்னை மாநகரின் உ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365768+00:00"
+    },
+    {
+      "entityId": "tamil-nadu-chief-minister",
+      "name": "Tamil Nadu Chief Minister",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-24",
+        "lastMention": "2025-10-24"
+      },
+      "sources": [
+        {
+          "date": "2025-10-24",
+          "handle": "Vijayasankar_FL",
+          "tweetId": "1981654157410091183",
+          "fxUrl": "https://fxtwitter.com/Vijayasankar_FL/status/1981654157410091183",
+          "eventType": "other",
+          "summary": "Tamil Nadu Chief Minister M.K. Stalin today released my translation of தெற்கிலிருந்து ஒரு சூரியன், published by The Hindu Tamilthisai"
+        }
+      ],
+      "accountsCovering": [
+        "Vijayasankar_FL"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365774+00:00"
+    },
+    {
+      "entityId": "mother-nature",
+      "name": "Mother Nature",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-11-17",
+        "lastMention": "2025-11-17",
+        "mouSigned": "2025-11-17"
+      },
+      "sources": [
+        {
+          "date": "2025-11-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1990267197961412759",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1990267197961412759",
+          "eventType": "mou_signed",
+          "summary": "The #AmurFalcon is basically what you’d get if Mother Nature decided to make a bird sized Bugatti 🔥\n\nThis tiny birdie which barely weighs as much as a..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365776+00:00"
+    },
+    {
+      "entityId": "unep-champions",
+      "name": "Unep Champions",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-11",
+        "lastMention": "2025-12-11",
+        "mouSigned": "2025-12-11"
+      },
+      "sources": [
+        {
+          "date": "2025-12-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1999118791599644952",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1999118791599644952",
+          "eventType": "mou_signed",
+          "summary": "Heartfelt congratulations to @supriyasahuias on being honoured with the UNEP Champions of the Earth award 🎊 You truly deserve this unique honour mam !..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365777+00:00"
+    },
+    {
+      "entityId": "population",
+      "name": "Population",
+      "nameVariants": [],
+      "category": "environment",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 94.0
+      },
+      "timeline": {
+        "firstMention": "2026-02-05",
+        "lastMention": "2026-02-05"
+      },
+      "sources": [
+        {
+          "date": "2026-02-05",
+          "handle": "supriyasahuias",
+          "tweetId": "2019400377913995339",
+          "fxUrl": "https://fxtwitter.com/supriyasahuias/status/2019400377913995339",
+          "eventType": "scheme_launch",
+          "summary": "Big big news in wildlife conservation ! The Population estimation of Dugongs undertaken by the Wildlife Institute of India (WII) in TN with collaborat..."
+        }
+      ],
+      "accountsCovering": [
+        "supriyasahuias"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.365779+00:00"
+    }
+  ]
+}

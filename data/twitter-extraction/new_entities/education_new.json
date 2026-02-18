@@ -1,0 +1,53 @@
+{
+  "category": "education",
+  "generatedAt": "2026-02-17T18:47:41.838092+00:00",
+  "existingItemsCount": 105,
+  "newCandidatesCount": 1,
+  "candidates": [
+    {
+      "name": "Rwth Aachen",
+      "type": "university",
+      "confidence": 0.9,
+      "mentions": 3,
+      "locations": [
+        "Chennai"
+      ],
+      "investment_crore": null,
+      "jobs": null,
+      "accounts": [
+        "TRBRajaa"
+      ],
+      "first_mention": "2025-02-11",
+      "last_mention": "2026-01-29",
+      "sample_matches": [
+        "rwth aachen university"
+      ],
+      "sources": [
+        {
+          "date": "2025-02-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1889232859992650130",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1889232859992650130",
+          "eventType": "milestone",
+          "text": "It was a pleasure to meet the team from the RWTH Aachen University, Germany, with whom TIDCO is considering collaborations for the upcoming #TNKnowledgeCity.\n\nOur discussions focused on leveraging German engineering excellence and technology transfer to foster industry-academia collaboration, streng"
+        },
+        {
+          "date": "2026-01-29",
+          "handle": "TRBRajaa",
+          "tweetId": "2016958086288912558",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2016958086288912558",
+          "eventType": "ground_breaking",
+          "text": "🌟#TamilNadu will soon be the #KnowledgeHub of the #GlobalSouth !🌟\n\nThe innaugural \"India Global Education Summit\" -#IGES2026 was a huge hit ✨\n\nThe presence of our Honourable @CMOTamilNadu Thiru. @MKStalin avargal at the summit was the icing on the cake ! Thankful to the Honourable Higher Education M"
+        },
+        {
+          "date": "2026-01-29",
+          "handle": "TRBRajaa",
+          "tweetId": "2017146411759128613",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2017146411759128613",
+          "eventType": "ground_breaking",
+          "text": "🌟#TamilNadu will soon be the #KnowledgeHub of the #GlobalSouth !🌟\n\nThe innaugural \"India Global Education Summit\" -#IGES2026 was a huge hit ✨\n\nThe presence of our Honourable @CMOTamilNadu Thiru. @MKStalin avargal at the summit was the icing on the cake ! Thankful to the Honourable Higher Education M"
+        }
+      ]
+    }
+  ]
+}

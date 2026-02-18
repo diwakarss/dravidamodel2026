@@ -1,0 +1,41 @@
+{
+  "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-cm-stalin-inaugurates-lays-foundation-stone-of-projects-worth-rs-70000-crore-3158646",
+  "urlHash": "3158646",
+  "domain": "deccanherald.com",
+  "fetchedAt": "2026-02-16T15:35:00Z",
+  "httpStatus": 200,
+  "title": "Tamil Nadu CM Stalin inaugurates, lays foundation stone of projects worth Rs 70,000 crore",
+  "articleDate": "2024-08-21",
+  "content": "Tamil Nadu Chief Minister M K Stalin inaugurated 19 projects worth Rs 17,616 crores and laid the foundation stone for 28 projects worth Rs 51,157 crores at the Tamil Nadu Investment Conclave 2024 in Chennai. The projects are expected to create over 1 lakh jobs.",
+  "extractedData": {
+    "eventType": "inauguration",
+    "eventDate": "2024-08-21",
+    "totalProjects": 47,
+    "inauguratedProjects": 19,
+    "inauguratedValue": 17616,
+    "foundationProjects": 28,
+    "foundationValue": 51157,
+    "totalValueCrore": 68773,
+    "jobsCreated": 100000,
+    "location": "Chennai",
+    "companies": [
+      {"name": "Sembcorp Industries", "country": "Singapore", "investment": 36200, "project": "Green Hydrogen & Ammonia", "location": "Thoothukudi"},
+      {"name": "Omron Healthcare", "country": "Japan", "project": "Manufacturing facility"},
+      {"name": "L&T", "project": "Innovation Campus"},
+      {"name": "Motherson Electronics", "project": "Electronics facility"},
+      {"name": "Sundaram Fasteners", "project": "Manufacturing"},
+      {"name": "Royal Enfield", "project": "Facility"},
+      {"name": "Saint Gobain", "project": "Glass manufacturing"},
+      {"name": "Milky Mist", "project": "Dairy/production"},
+      {"name": "TIDCO & Tata Technologies", "project": "TN ENGINE", "location": "Anna University, Coimbatore"}
+    ],
+    "keyFigures": {
+      "mouSigned": 631,
+      "mouValue": 664000,
+      "directJobs": 1400000,
+      "indirectJobs": 1200000,
+      "fortune500Companies": 130
+    }
+  },
+  "sourceTweets": ["1825962201745694968"]
+}

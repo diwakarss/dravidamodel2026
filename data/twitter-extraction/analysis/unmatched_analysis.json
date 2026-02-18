@@ -1,0 +1,115 @@
+{
+  "total_tweets": 10576,
+  "matched_tweets": 9718,
+  "unmatched_tweets": 858,
+  "important_unmatched": 7,
+  "by_category": {
+    "uncategorized": 675,
+    "tamil-history": 46,
+    "infrastructure": 21,
+    "industries": 27,
+    "healthcare": 13,
+    "sports-culture": 28,
+    "social-welfare": 32,
+    "agriculture": 7,
+    "education": 6,
+    "employment": 3
+  },
+  "entities_by_type": {
+    "industrial": [
+      {
+        "count": 1,
+        "type": "industrial",
+        "tweets": [
+          {
+            "date": "2025-01-23",
+            "handle": "TRBRajaa",
+            "tweetId": "1882550002498842807",
+            "category": "uncategorized",
+            "summary": "Wishing my beloved brother and a huge asset for Andhra Pradesh, @naralokesh a VERY HAPPY BIRTHDAY 🎊 ! It was wonderful meeting you at #WEF25 and listening to your views on governance 👍🏾\n\nHere's a hug "
+          }
+        ],
+        "handles": [
+          "TRBRajaa"
+        ],
+        "investment_total": 0,
+        "jobs_total": 0,
+        "name": "Fab",
+        "entity_type": "industrial"
+      }
+    ]
+  },
+  "top_entities": [
+    {
+      "count": 1,
+      "type": "industrial",
+      "tweets": [
+        {
+          "date": "2025-01-23",
+          "handle": "TRBRajaa",
+          "tweetId": "1882550002498842807",
+          "category": "uncategorized",
+          "summary": "Wishing my beloved brother and a huge asset for Andhra Pradesh, @naralokesh a VERY HAPPY BIRTHDAY 🎊 ! It was wonderful meeting you at #WEF25 and listening to your views on governance 👍🏾\n\nHere's a hug "
+        }
+      ],
+      "handles": [
+        "TRBRajaa"
+      ],
+      "investment_total": 0,
+      "jobs_total": 0,
+      "name": "Fab",
+      "entity_type": "industrial"
+    }
+  ],
+  "important_samples": [
+    {
+      "date": "2025-12-01",
+      "handle": "Guidance_TN",
+      "category": "industries",
+      "text": "With an investment of INR 611 crore, Wonderla brings 43 world-class rides, 8 themed dining venues, capacity for 6,500 daily visitors, and over 1,000 jobs, redefining experiential entertainment for the city.\n\n🧵6/6",
+      "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1995438648242872819"
+    },
+    {
+      "date": "2025-11-22",
+      "handle": "TRBRajaa",
+      "category": "uncategorized",
+      "text": "We are told that uploading of SIR forms has been hampered for the past two days with what is said to be slow server issues. Many completed #SIR Forms are lying idle without being uploaded !  Why is the server not responding faster???\n\n@TNelectionsCEO @ECISVEEP Kindly look into the issue immediately !",
+      "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1992255119854014811"
+    },
+    {
+      "date": "2025-11-22",
+      "handle": "TRBRajaa",
+      "category": "uncategorized",
+      "text": "We are told that uploading of SIR forms has been hampered for the past two days with what is said to be slow server issues. Many completed #SIR Forms are lying idle without being uploaded !  Why is the server not responding faster???\n\n@TNelectionsCEO @ECISVEEP Kindly look into the issue immediately !",
+      "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1992539739380207656"
+    },
+    {
+      "date": "2025-07-11",
+      "handle": "mkstalin",
+      "category": "industries",
+      "text": "Deeply moved by the gracious gesture of gratitude from the @Dawoodi_Bohras. It was a privilege to host them at my residence and I sincerely appreciate their generous contribution of ₹1 crore to the #CMPRF.\n\n#DawoodiBohras",
+      "fxUrl": "https://fxtwitter.com/mkstalin/status/1943658219856965638"
+    },
+    {
+      "date": "2025-07-11",
+      "handle": "mkstalin",
+      "category": "industries",
+      "text": "Deeply moved by the gracious gesture of gratitude from the @Dawoodi_Bohras. It was a privilege to host them at my residence and I sincerely appreciate their generous contribution of ₹1 crore to the #CMPRF.\n\n#DawoodiBohras",
+      "fxUrl": "https://fxtwitter.com/mkstalin/status/1943660018491969850"
+    },
+    {
+      "date": "2025-07-11",
+      "handle": "mkstalin",
+      "category": "industries",
+      "text": "Deeply moved by the gracious gesture of gratitude from the @Dawoodi_Bohras. It was a privilege to host them at my residence and I sincerely appreciate their generous contribution of ₹1 crore to the #CMPRF.\n\n#DawoodiBohras",
+      "fxUrl": "https://fxtwitter.com/mkstalin/status/1943683079618343295"
+    },
+    {
+      "date": "2024-10-19",
+      "handle": "mkstalin",
+      "category": "social-welfare",
+      "text": "Honoured to inaugurate the Southern States DsGP Coordination Conference 2024.\n\nI am confident that this meeting will strengthen inter-state cooperation to combat illicit liquor, drugs, banned tobacco, cybercrime, inter-state gangs, and misinformation.\n\nThrough collaboration, we can ensure public peace, internal security, and safety for all.",
+      "fxUrl": "https://fxtwitter.com/mkstalin/status/1847565698320498753"
+    }
+  ]
+}

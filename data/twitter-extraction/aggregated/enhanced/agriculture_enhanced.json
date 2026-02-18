@@ -1,0 +1,45 @@
+{
+  "category": "agriculture",
+  "aggregatedAt": "2026-02-17T18:24:50.135899+00:00",
+  "stats": {
+    "entries": 161,
+    "entities": 1
+  },
+  "entities": [
+    {
+      "entityId": "porunai-museum",
+      "name": "Porunai Museum",
+      "nameVariants": [],
+      "category": "agriculture",
+      "entityType": "Porunai Museum",
+      "location": null,
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-21",
+        "lastMention": "2025-12-21"
+      },
+      "sources": [
+        {
+          "date": "2025-12-21",
+          "handle": "mkstalin",
+          "tweetId": "2002633243422847192",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2002633243422847192",
+          "eventType": "ground_breaking",
+          "summary": "பொருநை தாலாட்டும் நெல்லையின் நெஞ்சை நிறைக்கும் நலத்திட்டங்கள்!\n\nநெல்லை மக்களின் அறிவுப்பசியைத் தீர்க்கவுள்ள கண்ணியத்தென்றல் காயிதே மில்லத் அவர்கள் பெய"
+        },
+        {
+          "date": "2025-12-21",
+          "handle": "mkstalin",
+          "tweetId": "2002672137497387209",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2002672137497387209",
+          "eventType": "ground_breaking",
+          "summary": "பொருநை தாலாட்டும் நெல்லையின் நெஞ்சை நிறைக்கும் நலத்திட்டங்கள்!\n\nநெல்லை மக்களின் அறிவுப்பசியைத் தீர்க்கவுள்ள கண்ணியத்தென்றல் காயிதே மில்லத் அவர்கள் பெய"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "tweetCount": 2
+    }
+  ]
+}

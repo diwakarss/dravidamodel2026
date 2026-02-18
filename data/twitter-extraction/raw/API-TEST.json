@@ -1,0 +1,200 @@
+{
+  "testRun": true,
+  "apiEndpoint": "https://api.fxtwitter.com",
+  "extractedAt": "2026-02-16T16:00:00Z",
+  "totalTweets": 10,
+  "handlesUsed": ["TRBRajaa", "CMOTamilnadu", "TNDIPRNEWS", "Guidance_TN", "TnInvestment", "tnstcbus"],
+  "tweets": [
+    {
+      "id": "1978453632665420261",
+      "handle": "TRBRajaa",
+      "date": "2025-10-15",
+      "text": "#Hitachi's Chennai GCC is going to get much much more bigger! Today, Honourable @CMOTamilNadu Thiru. @MKStalin avargal met with Hitachi Energy's leadership to finalise their next phase of expansion in the state - a proposed investment of up to Rs. 2000 crore which will create up to 3000 new jobs - and these are all high-value, high-paying, hi-tech jobs!",
+      "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1978453632665420261",
+      "apiUrl": "https://api.fxtwitter.com/TRBRajaa/status/1978453632665420261",
+      "extractedNumbers": {
+        "investmentCrore": 2000,
+        "investmentQuote": "Rs. 2000 crore",
+        "jobsCreated": 3000,
+        "jobsQuote": "3000 new jobs"
+      },
+      "hashtags": ["#Hitachi", "#CMMKStalin", "#InvestInTN", "#BullishOnTN", "#JobsForTN", "#DravidianModel"],
+      "mentions": ["@CMOTamilNadu", "@MKStalin"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/..."],
+      "language": "en",
+      "category": "industries"
+    },
+    {
+      "id": "1977615850397106201",
+      "handle": "TRBRajaa",
+      "date": "2025-10-13",
+      "text": "✨LARGEST EVER #engineering #JobsForTN commitment for Tamil Nadu! #Foxconn commits Rs. 15,000 CRORE in investments and 14,000 JOBS high value jobs! Engineers get ready! Tamil Nadu's investment promotion agency @Guidance_TN will be the 'first in India' to have a dedicated #FoxconnDesk!",
+      "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1977615850397106201",
+      "apiUrl": "https://api.fxtwitter.com/TRBRajaa/status/1977615850397106201",
+      "extractedNumbers": {
+        "investmentCrore": 15000,
+        "investmentQuote": "Rs. 15,000 CRORE",
+        "jobsCreated": 14000,
+        "jobsQuote": "14,000 JOBS"
+      },
+      "hashtags": ["#engineering", "#JobsForTN", "#Foxconn", "#FoxconnDesk", "#DravidianModel"],
+      "mentions": ["@Guidance_TN", "@CMOTamilNadu", "@MKStalin"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/G3HnIc5asAA6QJh.jpg", "https://pbs.twimg.com/media/G3HnIc-bMAAO_PA.jpg"],
+      "language": "en",
+      "category": "industries"
+    },
+    {
+      "id": "1944692310614347851",
+      "handle": "TRBRajaa",
+      "date": "2025-07-14",
+      "text": "Historic day for trade ties between #Japan and #TamilNadu 🎊 @Guidance_TN's Japan Desk is now officially open! The Guidance Desk in #Osaka will be a dedicated effort to facilitate trade, investment and cultural exchange between Tamil Nadu and Japan. With over 580 Japanese establishments already present in Tamil Nadu...",
+      "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1944692310614347851",
+      "apiUrl": "https://api.fxtwitter.com/TRBRajaa/status/1944692310614347851",
+      "extractedNumbers": {
+        "japaneseEstablishments": 580,
+        "quote": "580 Japanese establishments"
+      },
+      "hashtags": ["#Japan", "#TamilNadu", "#Osaka", "#InvestInTN", "#JobsForTN", "#BullishOnTN"],
+      "mentions": ["@Guidance_TN", "@CMOTamilNadu", "@MKStalin"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/GvzvVTCXYAAfBn9.jpg"],
+      "language": "en",
+      "category": "industries"
+    },
+    {
+      "id": "1743902864068759634",
+      "handle": "TNDIPRNEWS",
+      "date": "2024-01-07",
+      "text": "JSW Energy invests Rs.10,000 Cr in Tamil Nadu. An MOU was signed in the august presence of Hon'ble Chief Minister of Tamil Nadu Thiru.M.K.Stalin",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1743902864068759634",
+      "apiUrl": "https://api.fxtwitter.com/TNDIPRNEWS/status/1743902864068759634",
+      "extractedNumbers": {
+        "investmentCrore": 10000,
+        "investmentQuote": "Rs.10,000 Cr"
+      },
+      "hashtags": ["#CMMKSTALIN", "#TNDIPR", "#TNGIM2024"],
+      "mentions": ["@CMOTamilnadu", "@mkstalin", "@PiyushGoyal", "@mp_saminathan", "@TRBRajaa", "@Chief_Secy_TN"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/GDOWQHpbQAAJkxi.jpg"],
+      "language": "en",
+      "category": "industries"
+    },
+    {
+      "id": "1826130159214153751",
+      "handle": "TnInvestment",
+      "date": "2024-08-21",
+      "text": "#TamilNadu Investment Conclave 2024. TamilNadu CM #MKStalin inaugurated #TVS Indeon (Lucas TVS) EV Battery pack manufacturing unit in Tiruvallur near #Chennai. Unit was made with investment of Rs 2,850 Cr with employment potential of 800 persons.",
+      "fxUrl": "https://fxtwitter.com/TnInvestment/status/1826130159214153751",
+      "apiUrl": "https://api.fxtwitter.com/TnInvestment/status/1826130159214153751",
+      "extractedNumbers": {
+        "investmentCrore": 2850,
+        "investmentQuote": "Rs 2,850 Cr",
+        "jobsCreated": 800,
+        "jobsQuote": "800 persons"
+      },
+      "hashtags": ["#TamilNadu", "#MKStalin", "#TVS", "#Chennai"],
+      "mentions": ["@TNIndMin", "@Guidance_TN"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/GVe3s8FWoAApEkV.jpg"],
+      "language": "en",
+      "category": "industries"
+    },
+    {
+      "id": "1948633511197544498",
+      "handle": "Guidance_TN",
+      "date": "2025-07-25",
+      "text": "In #Tamil Nadu, we don't just attract investments. We build for the long term. Our strong and evolving partnership with #Singapore reflects this long-term approach. Tamil Nadu–Singapore Investment Roundtable held at the Guidance Office was a key step in strengthening bilateral ties...",
+      "fxUrl": "https://fxtwitter.com/Guidance_TN/status/1948633511197544498",
+      "apiUrl": "https://api.fxtwitter.com/Guidance_TN/status/1948633511197544498",
+      "extractedNumbers": {},
+      "hashtags": ["#Tamil", "#Singapore", "#aftercare", "#TNSWP", "#BizBuddy", "#BullishonTN", "#InvestinTN"],
+      "mentions": ["@TNIndMin", "@enterprise_sg"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/GwrvItXXYAAAufJ.jpg", "https://pbs.twimg.com/media/GwrvMuIWYAATeKu.jpg"],
+      "language": "en",
+      "category": "industries"
+    },
+    {
+      "id": "1887786554015338801",
+      "handle": "CMOTamilnadu",
+      "date": "2025-02-07",
+      "text": "திருநெல்வேலியில் நடைபெற்ற அரசு விழாவில் பல்வேறு துறைகளின் சார்பில் அமைக்கப்பட்டிருந்த கண்காட்சி அரங்குகளை மாண்புமிகு முதலமைச்சர் @mkstalin அவர்கள் பார்வையிட்டார்.",
+      "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1887786554015338801",
+      "apiUrl": "https://api.fxtwitter.com/CMOTamilnadu/status/1887786554015338801",
+      "extractedNumbers": {},
+      "hashtags": [],
+      "mentions": ["@mkstalin"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/GjLD2rcXQAAocSW.jpg"],
+      "language": "ta",
+      "category": "general"
+    },
+    {
+      "id": "1943595853866045515",
+      "handle": "CMOTamilnadu",
+      "date": "2025-07-11",
+      "text": "முதல்வரின் முகவரி துறையின் கீழ், மக்கள் அன்றாடம் அணுகும் அரசுத் துறைகளின் சேவைகள் / திட்டங்களை அவர்களின் இல்லங்களுக்கே சென்று வழங்கும் 'உங்களுடன் ஸ்டாலின்' என்ற புதிய திட்டம் 15.7.2025 அன்று...",
+      "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1943595853866045515",
+      "apiUrl": "https://api.fxtwitter.com/CMOTamilnadu/status/1943595853866045515",
+      "extractedNumbers": {},
+      "hashtags": [],
+      "mentions": ["@mkstalin"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/GvkKHp7bQAArb2Z.jpg"],
+      "language": "ta",
+      "category": "social-welfare"
+    },
+    {
+      "id": "2003730147472785497",
+      "handle": "tnstcbus",
+      "date": "2025-12-24",
+      "text": "Honourable Tamil Nadu Chief Minister M.K. Stalin @mkstalin @CMOTamilnadu has inaugurated 20 new luxury Volvo-type buses (Volvo 9600 seater coaches) for the State Express Transport Corporation (SETC) as part of efforts to modernize public bus services in the state.",
+      "fxUrl": "https://fxtwitter.com/tnstcbus/status/2003730147472785497",
+      "apiUrl": "https://api.fxtwitter.com/tnstcbus/status/2003730147472785497",
+      "extractedNumbers": {
+        "busCount": 20,
+        "quote": "20 new luxury Volvo-type buses"
+      },
+      "hashtags": [],
+      "mentions": ["@mkstalin", "@CMOTamilnadu", "@tnstcbus"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/G86t8OXa4AArOmj.jpg"],
+      "language": "en",
+      "category": "infrastructure"
+    },
+    {
+      "id": "1859968690814587323",
+      "handle": "TNDIPRNEWS",
+      "date": "2024-11-22",
+      "text": "TAMIL NADU CHIEF MINISTER'S FELLOWSHIP PROGRAMME 2024-26 List of Selected Candidates",
+      "fxUrl": "https://fxtwitter.com/TNDIPRNEWS/status/1859968690814587323",
+      "apiUrl": "https://api.fxtwitter.com/TNDIPRNEWS/status/1859968690814587323",
+      "extractedNumbers": {},
+      "hashtags": ["#CMMKSTALIN", "#DyCMUdhay", "#TNDIPR"],
+      "mentions": ["@CMOTamilnadu", "@mkstalin", "@Udhaystalin", "@mp_saminathan"],
+      "hasMedia": true,
+      "mediaUrls": ["https://pbs.twimg.com/media/Gc_viSBboAAM3-N.jpg"],
+      "language": "en",
+      "category": "education"
+    }
+  ],
+  "summary": {
+    "byCategory": {
+      "industries": 6,
+      "infrastructure": 1,
+      "social-welfare": 1,
+      "education": 1,
+      "general": 1
+    },
+    "byLanguage": {
+      "en": 8,
+      "ta": 2
+    },
+    "withMedia": 10,
+    "withInvestmentData": 5,
+    "totalInvestmentCrore": 29850,
+    "totalJobsCreated": 17800
+  }
+}

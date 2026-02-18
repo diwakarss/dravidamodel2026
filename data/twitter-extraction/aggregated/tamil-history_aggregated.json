@@ -1,0 +1,1762 @@
+{
+  "category": "tamil-history",
+  "aggregatedAt": "2026-02-17T17:44:43.538017+00:00",
+  "stats": {
+    "entries": 379,
+    "entities": 51
+  },
+  "entities": [
+    {
+      "entityId": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-03",
+        "lastMention": "2026-01-30",
+        "inauguration": "2025-11-18"
+      },
+      "sources": [
+        {
+          "date": "2024-09-03",
+          "handle": "dmuthuk",
+          "tweetId": "1834587903365722387",
+          "fxUrl": "https://fxtwitter.com/dmuthuk/status/1834587903365722387",
+          "eventType": "progress_update",
+          "summary": "Getting trolled is not new to me. I've always been authentic. Going to share something which may irritate BJP trolls.\n\nI was speaking today to a profe..."
+        },
+        {
+          "date": "2025-02-27",
+          "handle": "mkstalin",
+          "tweetId": "1894980170122936599",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1894980170122936599",
+          "eventType": "other",
+          "summary": "My dear sisters and brothers from other states,\n\nEver wondered how many Indian languages Hindi has swallowed? Bhojpuri, Maithili, Awadhi, Braj, Bundel..."
+        },
+        {
+          "date": "2025-02-27",
+          "handle": "mkstalin",
+          "tweetId": "1895329508456333613",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1895329508456333613",
+          "eventType": "other",
+          "summary": "My dear sisters and brothers from other states,\n\nEver wondered how many Indian languages Hindi has swallowed? Bhojpuri, Maithili, Awadhi, Braj, Bundel..."
+        },
+        {
+          "date": "2025-08-06",
+          "handle": "Surya_BornToWin",
+          "tweetId": "1952922606757396534",
+          "fxUrl": "https://fxtwitter.com/Surya_BornToWin/status/1952922606757396534",
+          "eventType": "other",
+          "summary": "Wow, just wow👌👏🏻👏🏻👏🏻\n11.19% growth - Tamil Nadu is on fire! 🔥🔥🔥\n\nDouble-digit growth after 14 long years isn’t just a number. It’s a statement.\nAnd gu..."
+        },
+        {
+          "date": "2025-08-06",
+          "handle": "mkstalin",
+          "tweetId": "1952941635509338455",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1952941635509338455",
+          "eventType": "milestone",
+          "summary": "💥 இந்தியாவிலேயே இரட்டை இலக்க வளர்ச்சி விகிதத்தை எட்டிக் காட்டியுள்ள ஒரே அரசு தமிழ்நாட்டின் #DravidianModel அரசு!\n\n🔝 இந்தியாவிலேயே அதிகபட்சமாக 9.69% பொ..."
+        },
+        {
+          "date": "2025-08-06",
+          "handle": "mkstalin",
+          "tweetId": "1952944724370931712",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1952944724370931712",
+          "eventType": "milestone",
+          "summary": "💥 இந்தியாவிலேயே இரட்டை இலக்க வளர்ச்சி விகிதத்தை எட்டிக் காட்டியுள்ள ஒரே அரசு தமிழ்நாட்டின் #DravidianModel அரசு!\n\n🔝 இந்தியாவிலேயே அதிகபட்சமாக 9.69% பொ..."
+        },
+        {
+          "date": "2025-11-18",
+          "handle": "HereWorks",
+          "tweetId": "1990793958117814454",
+          "fxUrl": "https://fxtwitter.com/HereWorks/status/1990793958117814454",
+          "eventType": "inauguration",
+          "summary": "Tamil Nadu’s archaeological footprint has reached Egypt as Tamil Nadu government archaeologists join new excavations at Berenike, where Tamil-Brahmi p..."
+        },
+        {
+          "date": "2026-01-15",
+          "handle": "mkstalin",
+          "tweetId": "2011702618524172777",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2011702618524172777",
+          "eventType": "other",
+          "summary": "The soul of Tamil Nadu speaks through its music. It inspires, it preserves, it evolves.🎶\n\nSpent time with some of our talented musicians, to understan..."
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "mkstalin",
+          "tweetId": "2017148252068683796",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2017148252068683796",
+          "eventType": "milestone",
+          "summary": "At the #NDTVTNSummit, I once again placed before the nation the just questions of Tamil Nadu. Drawing on the achievements of the #DravidianModel, I ex..."
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "mkstalin",
+          "tweetId": "2017150681254449171",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2017150681254449171",
+          "eventType": "milestone",
+          "summary": "At the #NDTVTNSummit, I once again placed before the nation the just questions of Tamil Nadu. Drawing on the achievements of the #DravidianModel, I ex..."
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "mkstalin",
+          "tweetId": "2017191628122083470",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2017191628122083470",
+          "eventType": "milestone",
+          "summary": "At the #NDTVTNSummit, I once again placed before the nation the just questions of Tamil Nadu. Drawing on the achievements of the #DravidianModel, I ex..."
+        }
+      ],
+      "accountsCovering": [
+        "HereWorks",
+        "Surya_BornToWin",
+        "mkstalin",
+        "dmuthuk"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 11,
+      "aggregatedAt": "2026-02-17T17:44:43.537709+00:00"
+    },
+    {
+      "entityId": "dravidian-stock",
+      "name": "Dravidian Stock",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-11",
+        "lastMention": "2026-01-30",
+        "inauguration": "2025-09-02",
+        "productionStart": "2025-12-16"
+      },
+      "sources": [
+        {
+          "date": "2024-06-11",
+          "handle": "TRBRajaa",
+          "tweetId": "1800411781594308623",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1800411781594308623",
+          "eventType": "other",
+          "summary": "Dravidian Stockஆக நாடாளுமன்றத்தில் பெரியார், அண்ணா, அம்பேத்கர் கருத்துகளை முன் வைத்து முழங்கும் அன்பு அண்ணன் @dmk_raja அவர்களைக் கழகத் தலைவர் அவர்கள் ..."
+        },
+        {
+          "date": "2025-09-02",
+          "handle": "ezhil_jkm",
+          "tweetId": "1962763052396511556",
+          "fxUrl": "https://fxtwitter.com/ezhil_jkm/status/1962763052396511556",
+          "eventType": "inauguration",
+          "summary": "The practice of observing September as ‘Dravidian Month’ began a few years ago since the birthdays of Periyar E V Ramasamy, C N Annadurai, the foundin..."
+        },
+        {
+          "date": "2025-12-13",
+          "handle": "mkstalin",
+          "tweetId": "1999756081388777498",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1999756081388777498",
+          "eventType": "other",
+          "summary": "தமிழ்நாட்டின் தலைமகன், நம்மையெல்லாம் ஆளாக்கிய பேரறிஞர் அண்ணா அவர்கள் நாடாளுமன்ற மாநிலங்களவையில் பேசும்போது, “I belong to the Dravidian Stock\" என்று தம..."
+        },
+        {
+          "date": "2025-12-13",
+          "handle": "mkstalin",
+          "tweetId": "1999769086503608396",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1999769086503608396",
+          "eventType": "other",
+          "summary": "தமிழ்நாட்டின் தலைமகன், நம்மையெல்லாம் ஆளாக்கிய பேரறிஞர் அண்ணா அவர்கள் நாடாளுமன்ற மாநிலங்களவையில் பேசும்போது, “I belong to the Dravidian Stock\" என்று தம..."
+        },
+        {
+          "date": "2025-12-16",
+          "handle": "DMKITwing",
+          "tweetId": "2000841791684456569",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/2000841791684456569",
+          "eventType": "production_start",
+          "summary": "🔥 🌅Dravidian Model in Action: Tamil Nadu’s Record Growth Story📈 📊\n\n➡️Tamil Nadu delivered a blockbuster 2024–25, recording a stellar 15.98% nominal GS..."
+        },
+        {
+          "date": "2026-01-30",
+          "handle": "ndtv",
+          "tweetId": "2017134634182856712",
+          "fxUrl": "https://fxtwitter.com/ndtv/status/2017134634182856712",
+          "eventType": "other",
+          "summary": "#NDTVTNSummit | \"We are the original Dravidian Model creators. Dravidian Model is all about questioning those in power. Dravidian Model belongs to the..."
+        }
+      ],
+      "accountsCovering": [
+        "ezhil_jkm",
+        "ndtv",
+        "TRBRajaa",
+        "DMKITwing",
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 6,
+      "aggregatedAt": "2026-02-17T17:44:43.537662+00:00"
+    },
+    {
+      "entityId": "accelerator-mass-spectrometry",
+      "name": "Accelerator Mass Spectrometry",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-13",
+        "lastMention": "2025-06-13"
+      },
+      "sources": [
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933447203135369332",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933447203135369332",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca..."
+        },
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933447542437786036",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933447542437786036",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca..."
+        },
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933450347856495027",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933450347856495027",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca..."
+        },
+        {
+          "date": "2025-06-13",
+          "handle": "mkstalin",
+          "tweetId": "1933465679690383732",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1933465679690383732",
+          "eventType": "other",
+          "summary": "Even when confronted with carbon-dated artefacts and Accelerator Mass Spectrometry (AMS) reports from International Laboratories on the #Keezhadi exca..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 4,
+      "aggregatedAt": "2026-02-17T17:44:43.537756+00:00"
+    },
+    {
+      "entityId": "john-marshall",
+      "name": "John Marshall",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-20",
+        "lastMention": "2024-09-20"
+      },
+      "sources": [
+        {
+          "date": "2024-09-20",
+          "handle": "mkstalin",
+          "tweetId": "1836941754542473429",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1836941754542473429",
+          "eventType": "other",
+          "summary": "Exactly 100 years ago, on 20th September 1924, Sir #JohnMarshall announced the discovery of the #IndusValleyCivilisation, reshaping the history of the..."
+        },
+        {
+          "date": "2024-09-20",
+          "handle": "mkstalin",
+          "tweetId": "1836945667773681756",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1836945667773681756",
+          "eventType": "other",
+          "summary": "Exactly 100 years ago, on 20th September 1924, Sir #JohnMarshall announced the discovery of the #IndusValleyCivilisation, reshaping the history of the..."
+        },
+        {
+          "date": "2024-09-20",
+          "handle": "mkstalin",
+          "tweetId": "1836973910136406425",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1836973910136406425",
+          "eventType": "other",
+          "summary": "Exactly 100 years ago, on 20th September 1924, Sir #JohnMarshall announced the discovery of the #IndusValleyCivilisation, reshaping the history of the..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.537711+00:00"
+    },
+    {
+      "entityId": "iron-age",
+      "name": "Iron Age",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-01-23",
+        "lastMention": "2025-01-23"
+      },
+      "sources": [
+        {
+          "date": "2025-01-23",
+          "handle": "mkstalin",
+          "tweetId": "1882324551788621915",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1882324551788621915",
+          "eventType": "other",
+          "summary": "With immense pride and unmatched satisfaction, I have declared to the world:\n\n“The Iron Age began on Tamil soil!”\n\nBased on results from world-renowne..."
+        },
+        {
+          "date": "2025-01-23",
+          "handle": "mkstalin",
+          "tweetId": "1882326542145277962",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1882326542145277962",
+          "eventType": "other",
+          "summary": "With immense pride and unmatched satisfaction, I have declared to the world:\n\n“The Iron Age began on Tamil soil!”\n\nBased on results from world-renowne..."
+        },
+        {
+          "date": "2025-01-23",
+          "handle": "mkstalin",
+          "tweetId": "1882825191501549953",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1882825191501549953",
+          "eventType": "other",
+          "summary": "With immense pride and unmatched satisfaction, I have declared to the world:\n\n“The Iron Age began on Tamil soil!”\n\nBased on results from world-renowne..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.537724+00:00"
+    },
+    {
+      "entityId": "chennai-egmore-museum-complex",
+      "name": "Chennai Egmore Museum Complex",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-03-19",
+        "lastMention": "2025-03-19",
+        "groundBreaking": "2025-03-19"
+      },
+      "sources": [
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902247349856170170",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902247349856170170",
+          "eventType": "ground_breaking",
+          "summary": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir ..."
+        },
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902251432281305265",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902251432281305265",
+          "eventType": "ground_breaking",
+          "summary": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir ..."
+        },
+        {
+          "date": "2025-03-19",
+          "handle": "mkstalin",
+          "tweetId": "1902353261371519461",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1902353261371519461",
+          "eventType": "ground_breaking",
+          "summary": "I unveiled the statue of Sir #JohnMarshall, former Director-General of the ASI, at Chennai Egmore Museum Complex today on his birth anniversary.\n\nSir ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "under_construction",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.537733+00:00"
+    },
+    {
+      "entityId": "out-control",
+      "name": "Out Control",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-18",
+        "lastMention": "2025-04-18"
+      },
+      "sources": [
+        {
+          "date": "2025-04-18",
+          "handle": "mkstalin",
+          "tweetId": "1913207328444440977",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1913207328444440977",
+          "eventType": "other",
+          "summary": "தமிழன் என்றோர் இனமுண்டு, தனியே அவற்கொரு குணமுண்டு!\n\nதமிழ்நாட்டுக்குள் எப்படியாவது நுழைந்து இந்த மண்ணைப் பாழாக்கத் துடிக்கும் பா.ஜ.க.வுக்கும், அதற்குத்..."
+        },
+        {
+          "date": "2025-04-18",
+          "handle": "mkstalin",
+          "tweetId": "1913212956760002581",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1913212956760002581",
+          "eventType": "other",
+          "summary": "தமிழன் என்றோர் இனமுண்டு, தனியே அவற்கொரு குணமுண்டு!\n\nதமிழ்நாட்டுக்குள் எப்படியாவது நுழைந்து இந்த மண்ணைப் பாழாக்கத் துடிக்கும் பா.ஜ.க.வுக்கும், அதற்குத்..."
+        },
+        {
+          "date": "2025-04-18",
+          "handle": "mkstalin",
+          "tweetId": "1913234499246473382",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1913234499246473382",
+          "eventType": "other",
+          "summary": "தமிழன் என்றோர் இனமுண்டு, தனியே அவற்கொரு குணமுண்டு!\n\nதமிழ்நாட்டுக்குள் எப்படியாவது நுழைந்து இந்த மண்ணைப் பாழாக்கத் துடிக்கும் பா.ஜ.க.வுக்கும், அதற்குத்..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.537738+00:00"
+    },
+    {
+      "entityId": "cambridge-companion-periyar",
+      "name": "Cambridge Companion Periyar",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-05",
+        "lastMention": "2025-09-05",
+        "inauguration": "2025-09-05"
+      },
+      "sources": [
+        {
+          "date": "2025-09-05",
+          "handle": "mkstalin",
+          "tweetId": "1963909558310666603",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963909558310666603",
+          "eventType": "inauguration",
+          "summary": "#Oxford-இல் சுயமரியாதை இயக்க நூற்றாண்டுக் கருத்தரங்கு!\n\n #தந்தை_பெரியார் நிகழ்த்திக் காட்டியதெல்லாம் ஆயுதமேந்தாத - இரத்தம் சிந்தாத புரட்சிகள்!\n\nஇந்நிக..."
+        },
+        {
+          "date": "2025-09-05",
+          "handle": "mkstalin",
+          "tweetId": "1963917472912023771",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963917472912023771",
+          "eventType": "inauguration",
+          "summary": "#Oxford-இல் சுயமரியாதை இயக்க நூற்றாண்டுக் கருத்தரங்கு!\n\n #தந்தை_பெரியார் நிகழ்த்திக் காட்டியதெல்லாம் ஆயுதமேந்தாத - இரத்தம் சிந்தாத புரட்சிகள்!\n\nஇந்நிக..."
+        },
+        {
+          "date": "2025-09-05",
+          "handle": "mkstalin",
+          "tweetId": "1963953493850378479",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1963953493850378479",
+          "eventType": "inauguration",
+          "summary": "#Oxford-இல் சுயமரியாதை இயக்க நூற்றாண்டுக் கருத்தரங்கு!\n\n #தந்தை_பெரியார் நிகழ்த்திக் காட்டியதெல்லாம் ஆயுதமேந்தாத - இரத்தம் சிந்தாத புரட்சிகள்!\n\nஇந்நிக..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 3,
+      "aggregatedAt": "2026-02-17T17:44:43.537772+00:00"
+    },
+    {
+      "entityId": "cmotamilnadu-thiru",
+      "name": "Cmotamilnadu Thiru",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-09-30",
+        "lastMention": "2025-09-26"
+      },
+      "sources": [
+        {
+          "date": "2024-09-30",
+          "handle": "TRBRajaa",
+          "tweetId": "1840689440097726752",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1840689440097726752",
+          "eventType": "beneficiary_update",
+          "summary": "இதோ #திராவிட_மாடல் #தமிழ்நாடு அரசின் வானிலை முன்னெச்சரிக்கை செயலி !\n\nThe optimum use of science and tech is the hallmark of our Honourable @CMOTamilna..."
+        },
+        {
+          "date": "2025-09-26",
+          "handle": "TRBRajaa",
+          "tweetId": "1971555022896091419",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1971555022896091419",
+          "eventType": "other",
+          "summary": "#கல்வியில்_சிறந்த_தமிழ்நாடு was an immensely emotional event ♥️\n\nThe lives of people in every single family touched by this #DravidianModel government..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537714+00:00"
+    },
+    {
+      "entityId": "cyber-city",
+      "name": "Cyber City",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-05",
+        "lastMention": "2024-11-05"
+      },
+      "sources": [
+        {
+          "date": "2024-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1853769336160223727",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1853769336160223727",
+          "eventType": "other",
+          "summary": "கடந்த 2010-ஆம் ஆண்டு பீளமேடு பகுதியில் திறந்து வைக்கப்பட்ட #TIDEL பூங்காவால், அந்தப் பகுதியே “Cyber City” என்றானது.\n\nஇன்று, விளாங்குறிச்சியில் கட்டப்ப..."
+        },
+        {
+          "date": "2024-11-05",
+          "handle": "mkstalin",
+          "tweetId": "1853782688441991555",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1853782688441991555",
+          "eventType": "other",
+          "summary": "கடந்த 2010-ஆம் ஆண்டு பீளமேடு பகுதியில் திறந்து வைக்கப்பட்ட #TIDEL பூங்காவால், அந்தப் பகுதியே “Cyber City” என்றானது.\n\nஇன்று, விளாங்குறிச்சியில் கட்டப்ப..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537716+00:00"
+    },
+    {
+      "entityId": "dravidianmodel-version",
+      "name": "Dravidianmodel Version",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-10",
+        "lastMention": "2025-12-31"
+      },
+      "sources": [
+        {
+          "date": "2025-07-10",
+          "handle": "TRBRajaa",
+          "tweetId": "1943196281381245404",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1943196281381245404",
+          "eventType": "other",
+          "summary": "வெறும் 7 நாட்களில் 50,00,000+ உடன்பிறப்புகள்🌄\n\nLoading #DravidianModel Version2.0 🌄\n\n#ஓரணியில்_தமிழ்நாடு #OraniyilTamilNadu"
+        },
+        {
+          "date": "2025-12-31",
+          "handle": "TRBRajaa",
+          "tweetId": "2006371483401240891",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2006371483401240891",
+          "eventType": "other",
+          "summary": "#DravidianModel Version 2.0 Loading \n\nvia உழைப்பு #உழைப்பு உழைப்பு 🔥✨🌟\n\n#Loading2Point0🌄 #HappyNewYear2026"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537764+00:00"
+    },
+    {
+      "entityId": "unesco-world-heritage-site",
+      "name": "Unesco World Heritage Site",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-07-12",
+        "lastMention": "2025-07-12"
+      },
+      "sources": [
+        {
+          "date": "2025-07-12",
+          "handle": "mkstalin",
+          "tweetId": "1943994580346732603",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1943994580346732603",
+          "eventType": "other",
+          "summary": "Delighted that #GingeeFort, famously known as the “Troy of the East”, has been inscribed as a UNESCO World Heritage Site as part of the Maratha Milita..."
+        },
+        {
+          "date": "2025-07-12",
+          "handle": "mkstalin",
+          "tweetId": "1943997796090360098",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1943997796090360098",
+          "eventType": "other",
+          "summary": "Delighted that #GingeeFort, famously known as the “Troy of the East”, has been inscribed as a UNESCO World Heritage Site as part of the Maratha Milita..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537770+00:00"
+    },
+    {
+      "entityId": "sangam-era",
+      "name": "Sangam Era",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-09-19",
+        "lastMention": "2025-09-19"
+      },
+      "sources": [
+        {
+          "date": "2025-09-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1969056855382176020",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1969056855382176020",
+          "eventType": "other",
+          "summary": "A long pending dream of mine and many many others like me becomes a reality ♥️\n\nBeneath the churning Bay of Bengal lies a city that once connected the..."
+        },
+        {
+          "date": "2025-09-19",
+          "handle": "TRBRajaa",
+          "tweetId": "1969057010915393625",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1969057010915393625",
+          "eventType": "other",
+          "summary": "A long pending dream of mine and many many others like me becomes a reality ♥️\n\nBeneath the churning Bay of Bengal lies a city that once connected the..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537775+00:00"
+    },
+    {
+      "entityId": "washing-machine",
+      "name": "Washing Machine",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-03",
+        "lastMention": "2025-10-03"
+      },
+      "sources": [
+        {
+          "date": "2025-10-03",
+          "handle": "mkstalin",
+          "tweetId": "1974006913659777355",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1974006913659777355",
+          "eventType": "other",
+          "summary": "தவறு செய்தவர்கள் தவழ்ந்து சென்று தஞ்சமடையும் Washing Machine-தான் பா.ஜ.க.\n\nஅங்கு சரணாகதி அடைந்துவிட்டு, தமிழ்நாட்டுக்கு எதிரான செயல்களுக்குத் துணைபோகு..."
+        },
+        {
+          "date": "2025-10-03",
+          "handle": "mkstalin",
+          "tweetId": "1974015093596713292",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1974015093596713292",
+          "eventType": "other",
+          "summary": "தவறு செய்தவர்கள் தவழ்ந்து சென்று தஞ்சமடையும் Washing Machine-தான் பா.ஜ.க.\n\nஅங்கு சரணாகதி அடைந்துவிட்டு, தமிழ்நாட்டுக்கு எதிரான செயல்களுக்குத் துணைபோகு..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537777+00:00"
+    },
+    {
+      "entityId": "dont-miss-this",
+      "name": "Dont Miss This",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-31",
+        "lastMention": "2025-12-31"
+      },
+      "sources": [
+        {
+          "date": "2025-12-31",
+          "handle": "TRBRajaa",
+          "tweetId": "2006339680443457584",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2006339680443457584",
+          "eventType": "other",
+          "summary": "♥️♥️♥️🎉 DONT MISS THIS 🌟♥️♥️♥️\n\nHere's a short 2025 recap of the journey of the Most Hardworking #ChiefMinister in India✨\n\nThis phenom has turned ever..."
+        },
+        {
+          "date": "2025-12-31",
+          "handle": "TRBRajaa",
+          "tweetId": "2006646337731969077",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2006646337731969077",
+          "eventType": "other",
+          "summary": "♥️♥️♥️🎉 DONT MISS THIS 🌟♥️♥️♥️\n\nHere's a short 2025 recap of the journey of the Most Hardworking #ChiefMinister in India✨\n\nThis phenom has turned ever..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537798+00:00"
+    },
+    {
+      "entityId": "recalcitrant-governor",
+      "name": "Recalcitrant Governor",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-20",
+        "lastMention": "2026-01-20"
+      },
+      "sources": [
+        {
+          "date": "2026-01-20",
+          "handle": "mkstalin",
+          "tweetId": "2013511937158717479",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2013511937158717479",
+          "eventType": "other",
+          "summary": "இந்தியாவில் எதிர்க்கட்சிகள் ஆளும் அனைத்து மாநிலங்களுக்காக, 'ஆளுநர் உரை தேவையில்லை' என #ConstitutionalAmendment கோருவோம்!\n\nஅரசு தயாரித்தளித்த அறிக்கையை..."
+        },
+        {
+          "date": "2026-01-20",
+          "handle": "mkstalin",
+          "tweetId": "2013518146250915910",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2013518146250915910",
+          "eventType": "other",
+          "summary": "இந்தியாவில் எதிர்க்கட்சிகள் ஆளும் அனைத்து மாநிலங்களுக்காக, 'ஆளுநர் உரை தேவையில்லை' என #ConstitutionalAmendment கோருவோம்!\n\nஅரசு தயாரித்தளித்த அறிக்கையை..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537805+00:00"
+    },
+    {
+      "entityId": "get-out",
+      "name": "Get Out",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-26",
+        "lastMention": "2026-01-26"
+      },
+      "sources": [
+        {
+          "date": "2026-01-26",
+          "handle": "mkstalin",
+          "tweetId": "2015795853060170037",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2015795853060170037",
+          "eventType": "other",
+          "summary": "#களம்2026: மதச்சார்பற்ற முற்போக்குக் கூட்டணி vs NDA அல்ல; தமிழ்நாடு vs NDA!\n\nமீண்டும் மீண்டும் தோற்கடிக்கப்பட்ட கூட்டணியை, உடைந்து போனதை எல்லாம் ஒட்ட ..."
+        },
+        {
+          "date": "2026-01-26",
+          "handle": "mkstalin",
+          "tweetId": "2015810048136773859",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2015810048136773859",
+          "eventType": "other",
+          "summary": "#களம்2026: மதச்சார்பற்ற முற்போக்குக் கூட்டணி vs NDA அல்ல; தமிழ்நாடு vs NDA!\n\nமீண்டும் மீண்டும் தோற்கடிக்கப்பட்ட கூட்டணியை, உடைந்து போனதை எல்லாம் ஒட்ட ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537807+00:00"
+    },
+    {
+      "entityId": "installing-marx",
+      "name": "Installing Marx",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-02-06",
+        "lastMention": "2026-02-06",
+        "inauguration": "2026-02-06"
+      },
+      "sources": [
+        {
+          "date": "2026-02-06",
+          "handle": "mkstalin",
+          "tweetId": "2019653868607664532",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2019653868607664532",
+          "eventType": "inauguration",
+          "summary": "Installing Marx. Uninstalling inequality. Chennai reaffirms red.\n\nThe commanding statue of #KarlMarx now stands at the Connemara Public Library, Chenn..."
+        },
+        {
+          "date": "2026-02-06",
+          "handle": "mkstalin",
+          "tweetId": "2019663391741419867",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2019663391741419867",
+          "eventType": "inauguration",
+          "summary": "Installing Marx. Uninstalling inequality. Chennai reaffirms red.\n\nThe commanding statue of #KarlMarx now stands at the Connemara Public Library, Chenn..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 2,
+      "aggregatedAt": "2026-02-17T17:44:43.537816+00:00"
+    },
+    {
+      "entityId": "ancient-jain-legacy",
+      "name": "Ancient Jain Legacy",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-13",
+        "lastMention": "2024-06-13"
+      },
+      "sources": [
+        {
+          "date": "2024-06-13",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1801142499186258072",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1801142499186258072",
+          "eventType": "other",
+          "summary": "மாண்புமிகு முதலமைச்சர் திரு. @mkstalin அவர்கள், கூடுதல் தலைமைச் செயலாளர் திரு. குமார் ஜயந்த், இ.ஆ.ப., அவர்களின் மனைவி திருமதி ருச்சி ப்ரீதம் அவர்கள் எ..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537679+00:00"
+    },
+    {
+      "entityId": "honourable-minister",
+      "name": "Honourable Minister",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-06-27",
+        "lastMention": "2024-06-27"
+      },
+      "sources": [
+        {
+          "date": "2024-06-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1806246926427324875",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1806246926427324875",
+          "eventType": "other",
+          "summary": "#DravidianAlgorithm 🌄🌟🔥\n\nAwesome speech by Honourable Minister @Udhaystalin avargal 🌟"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537682+00:00"
+    },
+    {
+      "entityId": "udhaystalin-wins",
+      "name": "Udhaystalin Wins",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-13",
+        "lastMention": "2024-07-13"
+      },
+      "sources": [
+        {
+          "date": "2024-07-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1812056250013622610",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1812056250013622610",
+          "eventType": "other",
+          "summary": "#DravidianModel of @arivalayam Wins🌟\n#DravidaNayagan @mkstalin Wins🙏🏾\nCampaign of #IlamThalaivar @Udhaystalin Wins🎊\n\n#SocialJusticeWins⚖️ #DmkWins🌄\n\n#..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537688+00:00"
+    },
+    {
+      "entityId": "dr-sudhagar",
+      "name": "Dr Sudhagar",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-07-17",
+        "lastMention": "2024-07-17"
+      },
+      "sources": [
+        {
+          "date": "2024-07-17",
+          "handle": "TRBRajaa",
+          "tweetId": "1813414701272818096",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1813414701272818096",
+          "eventType": "other",
+          "summary": "Here's a look at #DravidathaalNaan, a series featuring amazing journeys of people who's lives had been transformed as an outcome of the  #DravidianIde..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537694+00:00"
+    },
+    {
+      "entityId": "tamil-nadu-looks-women",
+      "name": "Tamil Nadu Looks Women",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-05",
+        "lastMention": "2024-08-05"
+      },
+      "sources": [
+        {
+          "date": "2024-08-05",
+          "handle": "TNIndMin",
+          "tweetId": "1820358753641693531",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1820358753641693531",
+          "eventType": "other",
+          "summary": "“Tamil Nadu Looks To Women to Boost Growth”\n\n“The state has unleashed targeted policy measures to boost entrepreneurship by women and their participat..."
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537697+00:00"
+    },
+    {
+      "entityId": "new-hitech-chapter",
+      "name": "New Hitech Chapter",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-07",
+        "lastMention": "2024-08-07"
+      },
+      "sources": [
+        {
+          "date": "2024-08-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1821046857768038667",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1821046857768038667",
+          "eventType": "other",
+          "summary": "Vanakkam #Madhavaram. 🙏🏾\n\nA brand New HiTech Chapter begins for #NorthChennai ♥️🌄\n\nAll thanks to Honourable ⁦@CMOTamilnadu⁩ ⁦@mkstalin⁩ avl and his #D..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537700+00:00"
+    },
+    {
+      "entityId": "viksit-bharat",
+      "name": "Viksit Bharat",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-08-14",
+        "lastMention": "2024-08-14"
+      },
+      "sources": [
+        {
+          "date": "2024-08-14",
+          "handle": "TNIndMin",
+          "tweetId": "1823938657482387639",
+          "fxUrl": "https://fxtwitter.com/TNIndMin/status/1823938657482387639",
+          "eventType": "other",
+          "summary": "“Viksit Bharat is possible only when Delhi learns Dravidian model: @TRBRajaa” \n\nVia @DeccanChronicle \n\n#DravidianModel"
+        }
+      ],
+      "accountsCovering": [
+        "TNIndMin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537703+00:00"
+    },
+    {
+      "entityId": "map-one",
+      "name": "Map One",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-11-19",
+        "lastMention": "2024-11-19"
+      },
+      "sources": [
+        {
+          "date": "2024-11-19",
+          "handle": "rajbhagatt",
+          "tweetId": "1858861956578291779",
+          "fxUrl": "https://fxtwitter.com/rajbhagatt/status/1858861956578291779",
+          "eventType": "other",
+          "summary": "#Map\nOne of the oldest land-use & land-cover classification systems is the #Tamil Sangam era Agathinai system which was used for compilation of poems\n..."
+        }
+      ],
+      "accountsCovering": [
+        "rajbhagatt"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537718+00:00"
+    },
+    {
+      "entityId": "our-dmk",
+      "name": "Our Dmk",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2024-12-30",
+        "lastMention": "2024-12-30"
+      },
+      "sources": [
+        {
+          "date": "2024-12-30",
+          "handle": "iamyournaveen",
+          "tweetId": "1873684698431648066",
+          "fxUrl": "https://fxtwitter.com/iamyournaveen/status/1873684698431648066",
+          "eventType": "other",
+          "summary": "“Whatever we do, it must be done with unwavering commitment to quality. Our DMK government is setting benchmarks, accomplishing feats that leave the w..."
+        }
+      ],
+      "accountsCovering": [
+        "iamyournaveen"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537719+00:00"
+    },
+    {
+      "entityId": "million-dollar-prize-money",
+      "name": "Million Dollar Prize Money",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {
+        "investmentCrore": 2.0
+      },
+      "timeline": {
+        "firstMention": "2025-01-05",
+        "lastMention": "2025-01-05"
+      },
+      "sources": [
+        {
+          "date": "2025-01-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1875787229039358046",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1875787229039358046",
+          "eventType": "other",
+          "summary": "🎊MILLION DOLLAR PRIZE MONEY🎊 has been announced by the Honourable @CMOTamilnadu @mkstalin to the person or organisation that can establish a system to..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537721+00:00"
+    },
+    {
+      "entityId": "therthangal-bird-sanctuaries",
+      "name": "Therthangal Bird Sanctuaries",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-02-02",
+        "lastMention": "2025-02-02",
+        "inauguration": "2025-02-02"
+      },
+      "sources": [
+        {
+          "date": "2025-02-02",
+          "handle": "mkstalin",
+          "tweetId": "1885922738432618538",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1885922738432618538",
+          "eventType": "inauguration",
+          "summary": "On this #WorldWetlandsDay, I am extremely delighted to share the designation of two more Ramsar sites, Sakkarakottai and Therthangal Bird Sanctuaries ..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537730+00:00"
+    },
+    {
+      "entityId": "allison-transmission",
+      "name": "Allison Transmission",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-13",
+        "lastMention": "2025-04-13"
+      },
+      "sources": [
+        {
+          "date": "2025-04-13",
+          "handle": "TRBRajaa",
+          "tweetId": "1911392065298284565",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1911392065298284565",
+          "eventType": "other",
+          "summary": "During my recent visit to the Allison Transmission factory, I met someone who reminded me why those of us who are part of the Dravidian movement do wh..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537736+00:00"
+    },
+    {
+      "entityId": "awesome-speech",
+      "name": "Awesome Speech",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-29",
+        "lastMention": "2025-04-29"
+      },
+      "sources": [
+        {
+          "date": "2025-04-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1917081854903259382",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1917081854903259382",
+          "eventType": "other",
+          "summary": "Awesome Speech by @CMOTamilnadu @mkstalin avargal today in the #TNAssembly 🔥\n\n#DravidianModel Version2.0 Loading🔥\n\n#MKStalinEra 🌄"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537740+00:00"
+    },
+    {
+      "entityId": "social-justice",
+      "name": "Social Justice",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-04-30",
+        "lastMention": "2025-04-30"
+      },
+      "sources": [
+        {
+          "date": "2025-04-30",
+          "handle": "TRBRajaa",
+          "tweetId": "1917618401083810215",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1917618401083810215",
+          "eventType": "other",
+          "summary": "Every single time the DMK pitches for Social Justice and the betterment of the country on the whole,those from the opposing ideologies...and those who..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537741+00:00"
+    },
+    {
+      "entityId": "week",
+      "name": "Week",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-07",
+        "lastMention": "2025-05-07"
+      },
+      "sources": [
+        {
+          "date": "2025-05-07",
+          "handle": "CMOTamilnadu",
+          "tweetId": "1920049867533209819",
+          "fxUrl": "https://fxtwitter.com/CMOTamilnadu/status/1920049867533209819",
+          "eventType": "other",
+          "summary": "மாண்புமிகு முதலமைச்சர் திரு. @mkstalin அவர்கள் முன்னிலையில் திராவிட மாடல் அரசின் நான்காண்டு நிறைவு விழாவில், மாண்புமிகு முதலமைச்சர் அவர்களின் 50 ஆண்டு..."
+        }
+      ],
+      "accountsCovering": [
+        "CMOTamilnadu"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537745+00:00"
+    },
+    {
+      "entityId": "thiru-meeran",
+      "name": "Thiru Meeran",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-05-27",
+        "lastMention": "2025-05-27"
+      },
+      "sources": [
+        {
+          "date": "2025-05-27",
+          "handle": "TRBRajaa",
+          "tweetId": "1927401446305112477",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1927401446305112477",
+          "eventType": "other",
+          "summary": "Following this matter via the #NRTWB member Thiru Meeran. Brothers from the AIMAN SANGAM have located them and are taking good care of the two people...."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537751+00:00"
+    },
+    {
+      "entityId": "tnhrcedept-team",
+      "name": "Tnhrcedept Team",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-05",
+        "lastMention": "2025-06-05"
+      },
+      "sources": [
+        {
+          "date": "2025-06-05",
+          "handle": "mkstalin",
+          "tweetId": "1930526753837158857",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/1930526753837158857",
+          "eventType": "other",
+          "summary": "#DravidianModel ஆட்சிப் பொறுப்பேற்று 1491 நாட்களில், தமிழ்நாட்டிலுள்ள 3000 திருக்கோயில்களில் குடமுழுக்குப் பெருவிழாக்கள்!\n\n#எல்லோருக்கும்_எல்லாம் எனும..."
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537753+00:00"
+    },
+    {
+      "entityId": "ms-swaminathan",
+      "name": "Ms Swaminathan",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-15",
+        "lastMention": "2025-06-15",
+        "inauguration": "2025-06-15"
+      },
+      "sources": [
+        {
+          "date": "2025-06-15",
+          "handle": "Nandhini1360381",
+          "tweetId": "1935517853668524242",
+          "fxUrl": "https://fxtwitter.com/Nandhini1360381/status/1935517853668524242",
+          "eventType": "inauguration",
+          "summary": "Dr M. kalaignar Karunanidhi was a scientists’ scientist. \n\nMS Swaminathan said this. \nSee the full thread very inspiring... \n\nAmong his numerous contr..."
+        }
+      ],
+      "accountsCovering": [
+        "Nandhini1360381"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537758+00:00"
+    },
+    {
+      "entityId": "human-history",
+      "name": "Human History",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-21",
+        "lastMention": "2025-06-21"
+      },
+      "sources": [
+        {
+          "date": "2025-06-21",
+          "handle": "TRBRajaa",
+          "tweetId": "1936327364071333943",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1936327364071333943",
+          "eventType": "other",
+          "summary": "#TamilNadu is a treasure trove of Human History !\nNeolithic grooves found at Adiperumal temple near Vannamparai in Tiruppur district - The Hindu\n#கீழட..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537760+00:00"
+    },
+    {
+      "entityId": "first-look",
+      "name": "First Look",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-06-29",
+        "lastMention": "2025-06-29"
+      },
+      "sources": [
+        {
+          "date": "2025-06-29",
+          "handle": "TRBRajaa",
+          "tweetId": "1939160397501591754",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1939160397501591754",
+          "eventType": "other",
+          "summary": "FIRST LOOK 🎊\n\nThe #FacesOfKeezhadi♥️ \n\nVia @TThenarasu @TOIChennai \n\n#கீழடி_காப்போம் #CMMKStalin"
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537762+00:00"
+    },
+    {
+      "entityId": "dmk",
+      "name": "Dmk",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-05",
+        "lastMention": "2025-10-05"
+      },
+      "sources": [
+        {
+          "date": "2025-10-05",
+          "handle": "TRBRajaa",
+          "tweetId": "1974864805145292849",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1974864805145292849",
+          "eventType": "other",
+          "summary": "The DMK's #DravidianModel ideologically driven governments ensured in the past, and will continue to ensure in the future too, that the two language p..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537778+00:00"
+    },
+    {
+      "entityId": "ibla-leadership-collective",
+      "name": "Ibla Leadership Collective",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-07",
+        "lastMention": "2025-10-07"
+      },
+      "sources": [
+        {
+          "date": "2025-10-07",
+          "handle": "TRBRajaa",
+          "tweetId": "1975584764385263973",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/1975584764385263973",
+          "eventType": "other",
+          "summary": "Had a great conversation with @ShereenBhan at the IBLA Leadership Collective – Chennai Edition this evening! \n\nThe conversation covered a wide canvas ..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537780+00:00"
+    },
+    {
+      "entityId": "tn",
+      "name": "Tn",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-10-24",
+        "lastMention": "2025-10-24"
+      },
+      "sources": [
+        {
+          "date": "2025-10-24",
+          "handle": "VamsiChandran",
+          "tweetId": "1981587599866343929",
+          "fxUrl": "https://fxtwitter.com/VamsiChandran/status/1981587599866343929",
+          "eventType": "other",
+          "summary": "Adapavigala idhuve ippo dhan start pannareengala🤦‍♂️.\nIn TN, under the Dravidian parties followed a policy of at least 1 SIPCOT in each district, now ..."
+        }
+      ],
+      "accountsCovering": [
+        "VamsiChandran"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537782+00:00"
+    },
+    {
+      "entityId": "babri-masjid",
+      "name": "Babri Masjid",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-05",
+        "lastMention": "2025-12-05"
+      },
+      "sources": [
+        {
+          "date": "2025-12-05",
+          "handle": "DrGanesh_Japan",
+          "tweetId": "1997125473760125373",
+          "fxUrl": "https://fxtwitter.com/DrGanesh_Japan/status/1997125473760125373",
+          "eventType": "other",
+          "summary": "Their intention is not just to light the Deepam atop the mountain. Planning for another Babri Masjid. \n\nThis 700-year-old mosque features the Dravidia..."
+        }
+      ],
+      "accountsCovering": [
+        "DrGanesh_Japan"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537783+00:00"
+    },
+    {
+      "entityId": "young-dravidians",
+      "name": "Young Dravidians",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-14",
+        "lastMention": "2025-12-14"
+      },
+      "sources": [
+        {
+          "date": "2025-12-14",
+          "handle": "mkstalin",
+          "tweetId": "2000070077367124277",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2000070077367124277",
+          "eventType": "other",
+          "summary": "மலை நகரில் மாலை சந்திப்போம்! \n\nYoung Dravidians! Prepare for Glory!\n\n#Youth4DMK2026"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537785+00:00"
+    },
+    {
+      "entityId": "thalaivar-kalaignar",
+      "name": "Thalaivar Kalaignar",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-15",
+        "lastMention": "2025-12-15",
+        "inauguration": "2025-12-15"
+      },
+      "sources": [
+        {
+          "date": "2025-12-15",
+          "handle": "yazhini_pm",
+          "tweetId": "2000778487272190450",
+          "fxUrl": "https://fxtwitter.com/yazhini_pm/status/2000778487272190450",
+          "eventType": "inauguration",
+          "summary": "Shelter is dignity.\n\nIt was Thalaivar Kalaignar who institutionalised this belief by establishing the Tamil Nadu Slum Clearance Board, recognising dec..."
+        }
+      ],
+      "accountsCovering": [
+        "yazhini_pm"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537787+00:00"
+    },
+    {
+      "entityId": "porunai-museum",
+      "name": "Porunai Museum",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-20",
+        "lastMention": "2025-12-20",
+        "inauguration": "2025-12-20"
+      },
+      "sources": [
+        {
+          "date": "2025-12-20",
+          "handle": "UpdatesChennai",
+          "tweetId": "2002320401884713468",
+          "fxUrl": "https://fxtwitter.com/UpdatesChennai/status/2002320401884713468",
+          "eventType": "inauguration",
+          "summary": "Porunai Museum in Tirunelveli. The lighting in the night looks stunning. 😍 Will be opened by CM Mk Stalin today!"
+        }
+      ],
+      "accountsCovering": [
+        "UpdatesChennai"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537792+00:00"
+    },
+    {
+      "entityId": "anna-thiru",
+      "name": "Anna Thiru",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-22",
+        "lastMention": "2025-12-22"
+      },
+      "sources": [
+        {
+          "date": "2025-12-22",
+          "handle": "TRBRajaa",
+          "tweetId": "2003056725449211959",
+          "fxUrl": "https://fxtwitter.com/TRBRajaa/status/2003056725449211959",
+          "eventType": "other",
+          "summary": "#TIDELMadurai coming up at good pace♥️\nInspected the construction yesterday along with my beloved Anna Thiru. Ko Thalapathy MLA avargal 🙏🏾\n\n#InvestInT..."
+        }
+      ],
+      "accountsCovering": [
+        "TRBRajaa"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537794+00:00"
+    },
+    {
+      "entityId": "victoria-public-hall",
+      "name": "Victoria Public Hall",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2025-12-24",
+        "lastMention": "2025-12-24",
+        "inauguration": "2025-12-24"
+      },
+      "sources": [
+        {
+          "date": "2025-12-24",
+          "handle": "HereWorks",
+          "tweetId": "2003675603413925993",
+          "fxUrl": "https://fxtwitter.com/HereWorks/status/2003675603413925993",
+          "eventType": "inauguration",
+          "summary": "The restored Victoria Public Hall has been inaugurated in Chennai after a ₹32.62-crore conservation project. Built in 1887, the former town hall is hi..."
+        }
+      ],
+      "accountsCovering": [
+        "HereWorks"
+      ],
+      "latestStatus": "operational",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537796+00:00"
+    },
+    {
+      "entityId": "cm-thiru",
+      "name": "Cm Thiru",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-01",
+        "lastMention": "2026-01-01"
+      },
+      "sources": [
+        {
+          "date": "2026-01-01",
+          "handle": "DMKITwing",
+          "tweetId": "2006983258513486102",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/2006983258513486102",
+          "eventType": "milestone",
+          "summary": "It is not just a recap of 2025; it is a visual record of how #TamilNadu moved forward under the #DravidianModel!\n\nUnder the leadership of Hon’ble CM T..."
+        }
+      ],
+      "accountsCovering": [
+        "DMKITwing"
+      ],
+      "latestStatus": "ongoing",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537800+00:00"
+    },
+    {
+      "entityId": "taking-tamil",
+      "name": "Taking Tamil",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-14",
+        "lastMention": "2026-01-14"
+      },
+      "sources": [
+        {
+          "date": "2026-01-14",
+          "handle": "mkstalin",
+          "tweetId": "2011408795512275082",
+          "fxUrl": "https://fxtwitter.com/mkstalin/status/2011408795512275082",
+          "eventType": "other",
+          "summary": "Bringing the world to Tamil;\nTaking Tamil to the World.\n\n@Anbil_Mahesh #CIBF #CIBF2026 #DravidianModel\n\n"
+        }
+      ],
+      "accountsCovering": [
+        "mkstalin"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537802+00:00"
+    },
+    {
+      "entityId": "dravidian-ideology",
+      "name": "Dravidian Ideology",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-30",
+        "lastMention": "2026-01-30"
+      },
+      "sources": [
+        {
+          "date": "2026-01-30",
+          "handle": "DMKITwing",
+          "tweetId": "2017270074659524820",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/2017270074659524820",
+          "eventType": "other",
+          "summary": "2026 Election is a battle between Dravidian Ideology and Fascist Force!\n\n- Thiru. @Udhaystalin Hon'ble Deputy Chief Minister Avargal\n\n#DMK4TN"
+        }
+      ],
+      "accountsCovering": [
+        "DMKITwing"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537812+00:00"
+    },
+    {
+      "entityId": "union-government",
+      "name": "Union Government",
+      "nameVariants": [],
+      "category": "tamil-history",
+      "entityType": "project",
+      "numbers": {},
+      "timeline": {
+        "firstMention": "2026-01-30",
+        "lastMention": "2026-01-30"
+      },
+      "sources": [
+        {
+          "date": "2026-01-30",
+          "handle": "DMKITwing",
+          "tweetId": "2017270270197932208",
+          "fxUrl": "https://fxtwitter.com/DMKITwing/status/2017270270197932208",
+          "eventType": "other",
+          "summary": "The Union Government learns from the Dravidian Model Governance!\n\n#DMK4TN"
+        }
+      ],
+      "accountsCovering": [
+        "DMKITwing"
+      ],
+      "latestStatus": "announced",
+      "tweetCount": 1,
+      "aggregatedAt": "2026-02-17T17:44:43.537814+00:00"
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "batch": 20,
+  "processedAt": "2026-02-17T11:38:52.910528+00:00",
+  "stats": {
+    "success": 14,
+    "failed": 2,
+    "not_found": 1,
+    "blocked": 3,
+    "timeout": 0
+  },
+  "results": [
+    {
+      "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/ESAG-2018.pdf",
+      "urlHash": "3d22ee95092b",
+      "domain": "education.gov.in",
+      "fetchedAt": "2026-02-17T11:37:42.871014+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1505359806294818820",
+          "handle": "angry_birdu",
+          "date": "Sat Mar 19"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.hindustantimes.com/world-news/on-day-25-of-war-school-where-400-took-refuge-bombed-by-russia-says-ukraine-101647762907477.html",
+      "urlHash": "41bf9b2b9bfd",
+      "domain": "hindustantimes.com",
+      "fetchedAt": "2026-02-17T11:37:45.184401+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1505502017325711361",
+          "handle": "htTweets",
+          "date": "Sun Mar 20"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "On Day 25 of war, school where 400 took refuge bombed by Russia, says Ukraine | World News",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "On Day 25 of war, school where 400 took refuge bombed by Russia, says Ukraine | World News",
+        "summary": "The incident comes days after Russian forces bombed a theatre in Mariupol where civilians had taken shelter. | World News"
+      }
+    },
+    {
+      "url": "https://www.indiatoday.in/india-today-insight/story/tamil-nadu-budget-how-palanivel-thiagarajan-plans-to-nudge-growth-raise-resources-1927303-2022-03-20?utm_source=twshare&utm_medium=socialicons&utm_campaign=shareurltracking",
+      "urlHash": "fa4244f9571e",
+      "domain": "indiatoday.in",
+      "fetchedAt": "2026-02-17T11:37:47.518087+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1505820753932918784",
+          "handle": "TRBRajaa",
+          "date": "Mon Mar 21"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Tamil Nadu budget: How Palanivel Thiagarajan plans to nudge growth, raise resources",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Tamil Nadu budget: How Palanivel Thiagarajan plans to nudge growth, raise resources",
+        "summary": "The finance minister showed he means business by steering clear of populism and focusing on jobs, broad-based socio-economic development and plugging leakages"
+      }
+    },
+    {
+      "url": "https://ppac.gov.in/WriteReadData/userfiles/file/PP_7_b_PS_oil_prices(H).pdf",
+      "urlHash": "3b6c31dc9915",
+      "domain": "ppac.gov.in",
+      "fetchedAt": "2026-02-17T11:37:50.550429+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1506262672211267584",
+          "handle": "angry_birdu",
+          "date": "Tue Mar 22"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "http_0"
+    },
+    {
+      "url": "http://toi.in/KEUluZ/a24gk",
+      "urlHash": "6aba99dbc65b",
+      "domain": "toi.in",
+      "fetchedAt": "2026-02-17T11:38:07.589033+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1506370888286945280",
+          "handle": "timesofindia",
+          "date": "Tue Mar 22"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Raut:  Jinnah partitioned India once but BJP leaders are dividing country every day: Sanjay Raut | India News - Times of India",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Raut:  Jinnah partitioned India once but BJP leaders are dividing country every day: Sanjay Raut | India News - Times of India",
+        "summary": "India News: NAGPUR: Muhammad Ali Jinnah had partitioned India only once to create Pakistan but BJP leaders are dividing the country every day by creating a rift b."
+      }
+    },
+    {
+      "url": "https://m.economictimes.com/news/politics-and-nation/tamil-nadu-democratised-religion-over-100-years-ago-tough-for-radicalism-fm-palanivel-thiagarajan/articleshow/90628570.cms?utm_source=twitter_pwa&utm_medium=social&utm_campaign=socialsharebuttons",
+      "urlHash": "14bbd3a37989",
+      "domain": "m.economictimes.com",
+      "fetchedAt": "2026-02-17T11:38:10.319012+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1511014373946540039",
+          "handle": "TRBRajaa",
+          "date": "Mon Apr 04"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "palanivel thiagarajan: Tamil Nadu democratised religion over 100 years ago...tough for radicalism: FM Palanivel Thiagarajan - The Economic Times",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "palanivel thiagarajan: Tamil Nadu democratised religion over 100 years ago...tough for radicalism: FM Palanivel Thiagarajan - The Economic Times",
+        "summary": "Palanivel Thiagarajan  also said the DMK government, under chief minister MK Stalin, would seek to attract investment in the state from around the world and also work to accommodate employers who may want to shift their businesses from Karnataka to TN owing to growing communal tensions in Karnataka."
+      }
+    },
+    {
+      "url": "https://tamil.asianetnews.com/politics/cm-stalin-speech-on-7-5-reservation-judgement-in-assembly-r9yjy4",
+      "urlHash": "5b5e3ab1e31f",
+      "domain": "tamil.asianetnews.com",
+      "fetchedAt": "2026-02-17T11:38:12.418119+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1512016118055313412",
+          "handle": "TRBRajaa",
+          "date": "Thu Apr 07"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 3 \u0bb5\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf.. \u0b87\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bbe\u0b9f\u0bb2\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf.. \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd.. | Cm Stalin Speech On 7 5 Reservation Judgement In Assembly | Asianet News Tamil",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 3 \u0bb5\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf.. \u0b87\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb0\u0bbe\u0bb5\u0bbf\u0b9f \u0bae\u0bbe\u0b9f\u0bb2\u0bcd \u0b86\u0b9f\u0bcd\u0b9a\u0bbf.. \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bc7\u0bb0\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd.. | Cm Stalin Speech On 7 5 Reservation Judgement In Assembly | Asianet News Tamil",
+        "summary": "7.5% \u0b87\u0b9f \u0b92\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b9f\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3 \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bae\u0bc2\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bc8 \u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 3\u0bb5\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bae\u0bc1.\u0b95.\u0bb8\u0bcd\u0b9f\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0bb0\u0bcd."
+      }
+    },
+    {
+      "url": "https://www.dtnext.in/News/National/2022/04/08094909/1361245/Hindi-should-be-accepted-as-an-alternative-to-English-.vpf",
+      "urlHash": "2f1ece2a2b4e",
+      "domain": "dtnext.in",
+      "fetchedAt": "2026-02-17T11:38:14.599775+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1512353864187490306",
+          "handle": "KanimozhiDMK",
+          "date": "Fri Apr 08"
+        }
+      ],
+      "status": "not_found",
+      "errorMessage": "not_found"
+    },
+    {
+      "url": "https://indianexpress.com/article/india/people-different-states-should-speak-hindi-not-english-shah-7858861/lite/",
+      "urlHash": "8a1b13f99322",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:38:18.547460+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1512378258880303110",
+          "handle": "t_d_h_nair",
+          "date": "Fri Apr 08"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "",
+        "summary": "Shah, however, clarified that Hindi should be accepted as an alternative to English, and not local languages. He also suggested that Hindi should be made more flexible by accepting words from other local languages."
+      }
+    },
+    {
+      "url": "https://www.niti.gov.in/sites/default/files/2021-11/National_MPI_India-11242021.pdf",
+      "urlHash": "8388836d94e4",
+      "domain": "niti.gov.in",
+      "fetchedAt": "2026-02-17T11:38:21.880482+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1513355072482455555",
+          "handle": "angry_birdu",
+          "date": "Sun Apr 10"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.mhc.tn.gov.in/judis/index.php/casestatus/viewpdf/644822",
+      "urlHash": "aecc36698def",
+      "domain": "mhc.tn.gov.in",
+      "fetchedAt": "2026-02-17T11:38:24.058105+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1513763865653571584",
+          "handle": "angry_birdu",
+          "date": "Tue Apr 12"
+        }
+      ],
+      "status": "failed",
+      "errorMessage": "'utf-8' codec can't decode byte 0x9c in position 196: invalid start byte"
+    },
+    {
+      "url": "https://www.thenewsminute.com/article/chennais-ayodhya-mandapam-was-brought-under-scanner-devotee-case-history-162899",
+      "urlHash": "d0fb71b33471",
+      "domain": "thenewsminute.com",
+      "fetchedAt": "2026-02-17T11:38:26.901711+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1514666879348264960",
+          "handle": "TRBRajaa",
+          "date": "Thu Apr 14"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Chennai&#x27;s Ayodhya Mandapam was brought under scanner by a devotee: The case history",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Shabbir Ahmed",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Chennai&#x27;s Ayodhya Mandapam was brought under scanner by a devotee: The case history",
+        "summary": "The takeover of the administration of the Ayodhya Mandapam by a state agency is the culmination of a court case that started in 2013, on the basis of corruption complaints."
+      }
+    },
+    {
+      "url": "https://www.bbc.com/tamil/india-61128832",
+      "urlHash": "65dba31e3ed0",
+      "domain": "bbc.com",
+      "fetchedAt": "2026-02-17T11:38:30.100242+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1515689369960693760",
+          "handle": "mkstalin",
+          "date": "Sun Apr 17"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf \u0b89\u0ba3\u0bb5\u0b95\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bb0\u0bcd - BBC News \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf \u0b89\u0ba3\u0bb5\u0b95\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bae\u0bc1\u0b95 \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bb0\u0bcd - BBC News \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "summary": "\u0b9a\u0bc7\u0bb2\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b86\u0ba4\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0ba8\u0bb0\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0bb5\u0bc1\u0ba9\u0bcd\u0b9a\u0bbf\u0bb2\u0bb0\u0bcd \u0baa\u0bc1\u0bb7\u0bcd\u0baa\u0bbe\u0bb5\u0ba4\u0bbf. \u0ba4\u0ba9\u0bcd \u0b95\u0ba3\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1, \u0baa\u0bb2 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bcb\u0bb0\u0bae\u0bcd \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0ba3\u0bb5\u0b95\u0bae\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd."
+      }
+    },
+    {
+      "url": "http://B.sc",
+      "urlHash": "b4ca918f9551",
+      "domain": "b.sc",
+      "fetchedAt": "2026-02-17T11:38:32.666821+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1516810854444199939",
+          "handle": "drtharun",
+          "date": "Wed Apr 20"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "B.Sc Degrees Online 2025 - Best Course After 12th | Compare Top Programs",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "B.sc",
+      "rawText": "",
+      "extractedData": {
+        "headline": "B.Sc Degrees Online 2025 - Best Course After 12th | Compare Top Programs",
+        "summary": "Find the best B.Sc course after 12th. Compare accredited online B.Sc degrees in Computer Science, Data Science, Nursing & more. Expert guides on admissions, fees & career outcomes."
+      }
+    },
+    {
+      "url": "https://www.timesnownews.com/business-economy/economy/power-shortages-likely-to-continue-article-90912563",
+      "urlHash": "54d257554c44",
+      "domain": "timesnownews.com",
+      "fetchedAt": "2026-02-17T11:38:39.787080+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1517136834651779073",
+          "handle": "TRBRajaa",
+          "date": "Thu Apr 21"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Power shortages likely to continue | Economy - Times Now",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Power shortages likely to continue | Economy - Times Now",
+        "summary": "The power sector is likely to face more shortages in the coming months. While demand is expected to be robust given the higher than average summer temperature. The international coal prices have doubled on a YOY basis resulting in crowding for domestic coal supply. While the production of domestic coal has been ramped up; it is unlikely to meet the increased demand from across all sectors., Economy, Times Now"
+      }
+    },
+    {
+      "url": "https://starofmysore.com/in-rare-event-elephant-at-bandipur-gives-birth-to-twins/",
+      "urlHash": "1af8386096d2",
+      "domain": "starofmysore.com",
+      "fetchedAt": "2026-02-17T11:38:42.626931+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1517165390807580672",
+          "handle": "ParveenKaswan",
+          "date": "Thu Apr 21"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "In rare event, elephant at Bandipur gives birth to twins - Star of Mysore",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "Author",
+      "rawText": "",
+      "extractedData": {
+        "headline": "In rare event, elephant at Bandipur gives birth to twins - Star of Mysore",
+        "summary": "Mysuru: An elephant at Bandipur Tiger Reserve has given birth to twins, an event said to be extremely rare and a first in India, according to wildlife conservationists. The baby elephants were discovered by a group of safari goers near the old campus on the Mysuru-Ooty Road, close to the Reception Road. The first photo..."
+      }
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/ahmedabad/power-crisis-gujarat-govt-mandates-industries-to-shut-a-day-every-week-7845347/",
+      "urlHash": "9c88430d5f03",
+      "domain": "indianexpress.com",
+      "fetchedAt": "2026-02-17T11:38:45.222585+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1517208652620644352",
+          "handle": "TRBRajaa",
+          "date": "Thu Apr 21"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Power crisis: Gujarat govt mandates industries to shut a day every week | Ahmedabad News - The Indian Express",
+      "contentType": "news_article",
+      "publishDate": "",
+      "author": "",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Power crisis: Gujarat govt mandates industries to shut a day every week | Ahmedabad News - The Indian Express",
+        "summary": "According to the order issued by state-run Gujarat Urja Vikas Nigam Limited (GUVNL), the weekly staggered holiday comes into immediate effect for all high-tension and low-tension users. However, the order is restricted to only industries with non-continuous processes."
+      }
+    },
+    {
+      "url": "https://tamil.news18.com/news/tamil-nadu/pmk-mla-sadhasivam-speech-i-think-mk-stalin-is-like-karmaveerar-kamarajar-sur-734757.html",
+      "urlHash": "615f2ed029a4",
+      "domain": "tamil.news18.com",
+      "fetchedAt": "2026-02-17T11:38:47.349429+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1517392035300651008",
+          "handle": "News18TamilNadu",
+          "date": "Fri Apr 22"
+        }
+      ],
+      "status": "blocked",
+      "errorMessage": "blocked"
+    },
+    {
+      "url": "https://www.thequint.com/news/india/sakshi-dhoni-power-cuts-jharkhand-heatwaves-increased-power-demand-many-states-outages",
+      "urlHash": "5ddf002b92a8",
+      "domain": "thequint.com",
+      "fetchedAt": "2026-02-17T11:38:49.472296+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1518867454348640256",
+          "handle": "TRBRajaa",
+          "date": "Tue Apr 26"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "Dhoni\u2019s Wife Tweets About Power Cuts in Jharkhand; Many Other States See Outages",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "The Quint",
+      "rawText": "",
+      "extractedData": {
+        "headline": "Dhoni\u2019s Wife Tweets About Power Cuts in Jharkhand; Many Other States See Outages",
+        "summary": "Sakshi Dhoni, wife of former India cricket captain MS Dhoni, on Monday, 25 April, questioned the &quot;power crisis in Jharkhand&quot; in a tweet, as several states face massive electricity demands in lieu of the heatwaves spreading across the country."
+      }
+    },
+    {
+      "url": "https://www.nakkheeran.in/24-by-7-news/thamizhagam/mla-trb-raja-who-brought-people-assembly",
+      "urlHash": "6a3564b0ab1a",
+      "domain": "nakkheeran.in",
+      "fetchedAt": "2026-02-17T11:38:52.798741+00:00",
+      "sourceTweets": [
+        {
+          "tweetId": "1519394590830514176",
+          "handle": "nakkheeranweb",
+          "date": "Wed Apr 27"
+        }
+      ],
+      "status": "success",
+      "pageTitle": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b9f\u0bbf.\u0b86\u0bb0\u0bcd.\u0baa\u0bbf. \u0bb0\u0bbe\u0b9c\u0bbe!",
+      "contentType": "other",
+      "publishDate": "",
+      "author": "\u0ba8\u0b95\u0bcd\u0b95\u0bc0\u0bb0\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1",
+      "rawText": "",
+      "extractedData": {
+        "headline": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0b9f\u0bbf.\u0b86\u0bb0\u0bcd.\u0baa\u0bbf. \u0bb0\u0bbe\u0b9c\u0bbe!",
+        "summary": ""
+      }
+    }
+  ]
+}

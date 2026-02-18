@@ -1,0 +1,157 @@
+[0;34m[INFO][0m Checking prerequisites...
+[0;32m[SUCCESS][0m Prerequisites OK
+
+╔════════════════════════════════════════════════════════════════╗
+║     Twitter Extraction Pipeline - NalaN Worker Orchestrator    ║
+╠════════════════════════════════════════════════════════════════╣
+║  Target: 12 TN Government Twitter accounts                   ║
+║  Date Range: 20210101 - 20260201                         ║
+║  Batch Size: 50 tweets per worker                          ║
+╚════════════════════════════════════════════════════════════════╝
+
+[0;34m[INFO][0m === PHASE 0: Tweet ID Discovery via Wayback Machine ===
+[0;34m[INFO][0m Spawning Gemini worker for @CMOTamilnadu...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @CMOTamilnadu: Spawned worker: nalan-223d75bb
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 91737
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-223d75bb/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-223d75bb
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-223d75bb/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @mkstalin...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @mkstalin: Spawned worker: nalan-44f54f90
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 91781
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-44f54f90/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-44f54f90
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-44f54f90/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @TNDIPRNEWS...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @TNDIPRNEWS: Spawned worker: nalan-540e673c
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 91844
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-540e673c/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-540e673c
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-540e673c/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @TRBRajaa...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @TRBRajaa: Spawned worker: nalan-ce6384ed
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 91978
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-ce6384ed/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-ce6384ed
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-ce6384ed/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @Guidance_TN...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @Guidance_TN: Spawned worker: nalan-df1c80eb
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 92117
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-df1c80eb/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-df1c80eb
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-df1c80eb/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @TNIndMin...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @TNIndMin: Spawned worker: nalan-9519b60f
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 92270
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-9519b60f/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-9519b60f
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-9519b60f/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @TN_SIPCOT...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @TN_SIPCOT: Spawned worker: nalan-97ab5503
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 92430
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-97ab5503/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-97ab5503
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-97ab5503/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @SIPCOTTN...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @SIPCOTTN: Spawned worker: nalan-32fe04af
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 92633
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-32fe04af/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-32fe04af
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-32fe04af/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @Udhaystalin...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @Udhaystalin: Spawned worker: nalan-1e5a4bb9
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 92865
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-1e5a4bb9/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-1e5a4bb9
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-1e5a4bb9/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @ptrmadurai...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @ptrmadurai: Spawned worker: nalan-c38dd389
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 93091
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-c38dd389/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-c38dd389
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-c38dd389/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @TNeGA_Official...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @TNeGA_Official: Spawned worker: nalan-e6e43322
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 93294
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-e6e43322/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-e6e43322
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-e6e43322/status.json
+[0;34m[INFO][0m Spawning Gemini worker for @ELCOT_TN...
+grep: invalid option -- P
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+[0;31m[ERROR][0m Failed to spawn worker for @ELCOT_TN: Spawned worker: nalan-c6f43ac7
+Profile: profile-migration-ops (task_type=implementation, difficulty=hard)
+Launcher PID: 93429
+Launcher log: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-c6f43ac7/launcher.log
+Worktree: /private/tmp/nalan-workers/nalan-c6f43ac7
+Status file: /Users/b2sell/claude-projects/.nalan/agents/active/nalan-c6f43ac7/status.json
+./data/twitter-extraction/scripts/orchestrate-extraction.sh: line 272: worker_ids[@]: unbound variable
