@@ -314,12 +314,22 @@
       "sources": [
         {
           "title": "TN Archaeology Dept",
-          "url": "https://tnarch.gov.in/",
+          "url": "https://www.tnarch.gov.in/",
           "type": "government"
         },
         {
-          "title": "Oldest Iron Age Site Discovery",
-          "url": "https://www.thenewsminute.com/article/mayiladumparai-indias-oldest-iron-age-site-discovered-tamil-nadu-163789",
+          "title": "Deccan Herald - Iron Age 5300 Years",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/indias-iron-age-began-in-tamil-nadu-5300-years-ago-report-3370356",
+          "type": "media"
+        },
+        {
+          "title": "Tamil Guardian - Iron Age Research",
+          "url": "https://www.tamilguardian.com/content/did-iron-age-begin-tamils-groundbreaking-new-research-challenges-history",
+          "type": "media"
+        },
+        {
+          "title": "The Print - Iron Age Tamil Soil",
+          "url": "https://theprint.in/india/iron-age-began-on-tamil-soil-5300-yrs-ago-stalin-declares-citing-artefacts-tested-in-labs-abroad/2459041/",
           "type": "media"
         }
       ]
@@ -364,12 +374,22 @@
       "sources": [
         {
           "title": "TN Archaeology Dept",
-          "url": "https://tnarch.gov.in/",
+          "url": "https://www.tnarch.gov.in/",
           "type": "government"
         },
         {
-          "title": "ASI Site Museum Work",
-          "url": "https://www.thenewsminute.com/article/asi-begins-work-site-museum-adichanallur-tamil-nadu-156321",
+          "title": "Swarajya - Adichanallur Iron Age Significance",
+          "url": "https://swarajyamag.com/heritage/adichanallur-significance-of-the-iron-age-burial-site-in-indias-ancient-history",
+          "type": "media"
+        },
+        {
+          "title": "Study IQ - Adichanallur Archaeological Site",
+          "url": "https://www.studyiq.com/articles/adichanallur-archaeological-site/",
+          "type": "media"
+        },
+        {
+          "title": "The Print - Largest Iron-Age Urn Burial",
+          "url": "https://theprint.in/opinion/tamil-nadu-has-the-largest-iron-age-urn-burial-site-we-must-look-beyond-our-harappa-frenzy/2338006/",
           "type": "media"
         }
       ]
@@ -414,12 +434,22 @@
       "sources": [
         {
           "title": "TN Archaeology Dept",
-          "url": "https://tnarch.gov.in/",
+          "url": "https://www.tnarch.gov.in/",
           "type": "government"
         },
         {
-          "title": "Keeladi-Indus Link Research",
-          "url": "https://www.indiatoday.in/science/story/keeladi-excavations-establish-link-between-tamil-nadu-indus-valley-civilization-1601270-2019-09-20",
+          "title": "Smithsonian - $1 Million Indus Script Prize",
+          "url": "https://www.smithsonianmag.com/smart-news/officials-are-offering-1-million-to-anyone-who-can-decode-this-ancient-script-180985922/",
+          "type": "media"
+        },
+        {
+          "title": "Business Standard - Indus Script Prize",
+          "url": "https://www.business-standard.com/india-news/tamil-nadu-cm-announces-1-million-for-deciphering-indus-valley-script-nc-125020400475_1.html",
+          "type": "media"
+        },
+        {
+          "title": "Heritage Daily - Indus Script Decipherment",
+          "url": "https://www.heritagedaily.com/2025/01/1-million-prize-offered-for-deciphering-the-indus-valley-script/154376",
           "type": "media"
         }
       ]
@@ -463,14 +493,19 @@
       "icon": "🔬",
       "sources": [
         {
-          "title": "TN Archaeology Dept",
-          "url": "https://www.tn.gov.in/detail_contact/1810/4",
+          "title": "TN Archaeology Dept Official",
+          "url": "https://www.tnarch.gov.in/",
           "type": "government"
         },
         {
           "title": "Policy Note 2024-25",
-          "url": "https://cms.tn.gov.in/sites/default/files/documents/archaeology_e_pn_2024_25.pdf",
+          "url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/archaeology_e_pn_2024_25.pdf",
           "type": "government"
+        },
+        {
+          "title": "Wikipedia - TN Archaeology Dept",
+          "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_State_Department_of_Archaeology",
+          "type": "media"
         }
       ]
     },
