@@ -89,6 +89,10 @@
         {
           "en": "Beneficiaries: SC 38.6%, MBC 34.4%, BC 24.8%",
           "ta": "பயனாளிகள்: SC 38.6%, MBC 34.4%, BC 24.8%"
+        },
+        {
+          "en": "Dec 2024: ₹601 crore expansion to Tamil medium girls in aided schools",
+          "ta": "டிசம்பர் 2024: உதவி பெறும் பள்ளிகளில் தமிழ் வழி பெண்களுக்கு ₹601 கோடி விரிவாக்கம்"
         }
       ],
       "icon": "👩‍🎓",
@@ -171,8 +175,8 @@
       "beneficiaries": {
         "count": "20.73 lakh",
         "description": {
-          "en": "Classes 1-5 in 31K schools",
-          "ta": "31K பள்ளிகளில் 1-5 வகுப்பு"
+          "en": "Classes 1-5 in 37,416 schools",
+          "ta": "37,416 பள்ளிகளில் 1-5 வகுப்பு"
         }
       },
       "budget": {
@@ -180,7 +184,7 @@
         "year": "2024-25",
         "details": "Phase 1: ₹33.56 crore (2022)"
       },
-      "coverage": "Government and Government-aided primary schools",
+      "coverage": "Government and Government-aided primary schools (including urban expansion)",
       "highlights": [
         {
           "en": "2.50 lakh new school admissions attributed to scheme",
@@ -193,6 +197,10 @@
         {
           "en": "Phase 3 (2024): Extended to 3,995 aided schools",
           "ta": "கட்டம் 3 (2024): 3,995 உதவி பெறும் பள்ளிகளுக்கு விரிவாக்கம்"
+        },
+        {
+          "en": "Urban expansion (Aug 2025): Extended to urban aided schools",
+          "ta": "நகர்ப்புற விரிவாக்கம் (ஆகஸ்ட் 2025): நகர்ப்புற உதவி பெறும் பள்ளிகளுக்கு விரிவாக்கம்"
         }
       ],
       "icon": "🍳",
@@ -609,11 +617,19 @@
         }
       },
       "budget": {
-        "amount": "₹2,245 crore (2024-25)",
-        "details": "₹1,000 cr classrooms + ₹300 cr smart + ₹745 cr upgrades"
+        "amount": "₹2,801 crore (2024-25)",
+        "details": "₹1,000 cr classrooms + ₹455 cr smart classrooms + ₹101 cr tablets + ₹745 cr upgrades"
       },
-      "coverage": "15,000 smart classrooms, 8,200+ high-tech labs",
+      "coverage": "22,931 smart classrooms, 8,200+ high-tech labs, 79,723 tablets",
       "highlights": [
+        {
+          "en": "22,931 smart classrooms completed (₹455 crore)",
+          "ta": "22,931 ஸ்மார்ட் வகுப்பறைகள் நிறைவு (₹455 கோடி)"
+        },
+        {
+          "en": "79,723 tablets distributed to primary teachers (₹101 crore)",
+          "ta": "79,723 டேப்லெட்டுகள் ஆரம்பப் பள்ளி ஆசிரியர்களுக்கு வழங்கப்பட்டன (₹101 கோடி)"
+        },
         {
           "en": "100 Vaanavil Mandrams (mobile science labs) for remote areas",
           "ta": "தொலைதூர பகுதிகளுக்கு 100 வானவில் மன்றங்கள் (நடமாடும் அறிவியல் ஆய்வகங்கள்)"
@@ -724,6 +740,347 @@
           "title": "TN Budget 2025-26",
           "url": "https://www.tnbudget.tn.gov.in/tnweb_files/BS_2025_26_ENG_FINAL.pdf",
           "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "knowledge-city",
+      "name": {
+        "en": "Tamil Nadu Knowledge City",
+        "ta": "தமிழ்நாடு அறிவுசார் நகரம்"
+      },
+      "description": {
+        "en": "An 870+ acre integrated knowledge hub in Tiruvallur district to host international university branches, research centers, skill training facilities, and knowledge industries.",
+        "ta": "திருவள்ளூர் மாவட்டத்தில் 870+ ஏக்கர் பரப்பளவில் சர்வதேச பல்கலைக்கழக கிளைகள், ஆராய்ச்சி மையங்கள், திறன் பயிற்சி மையங்கள் மற்றும் அறிவுசார் தொழில்களை கொண்ட ஒருங்கிணைந்த அறிவு மையம்."
+      },
+      "launchDate": "January 29, 2026 (Foundation)",
+      "beneficiaries": {
+        "count": "Multiple universities",
+        "description": {
+          "en": "Students, researchers, knowledge industries",
+          "ta": "மாணவர்கள், ஆராய்ச்சியாளர்கள், அறிவுசார் தொழில்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Multi-thousand crore",
+        "year": "2026-onwards",
+        "details": "Phase 1: Academic infrastructure, housing, sports facilities"
+      },
+      "coverage": "Uthukottai taluk, Vengal village, Tiruvallur District",
+      "highlights": [
+        {
+          "en": "MoUs with 8 international universities at IGES 2026",
+          "ta": "IGES 2026-ல் 8 சர்வதேச பல்கலைக்கழகங்களுடன் புரிந்துணர்வு ஒப்பந்தங்கள்"
+        },
+        {
+          "en": "Knowledge Tower with plug-and-play infrastructure for quick university setup",
+          "ta": "விரைவான பல்கலைக்கழக அமைப்புக்கு பிளக்-அண்ட்-ப்ளே உள்கட்டமைப்புடன் நாலெட்ஜ் டவர்"
+        },
+        {
+          "en": "University of Melbourne signed LOI for research centre",
+          "ta": "மெல்போர்ன் பல்கலைக்கழகம் ஆராய்ச்சி மையத்திற்கு LOI கையெழுத்திட்டது"
+        },
+        {
+          "en": "Phase 1 allocation expected by end of 2026",
+          "ta": "கட்டம் 1 ஒதுக்கீடு 2026 இறுதிக்குள் எதிர்பார்க்கப்படுகிறது"
+        }
+      ],
+      "icon": "🎓",
+      "sources": [
+        {
+          "title": "CM Stalin Lays Foundation Stone",
+          "url": "https://www.newkerala.com/news/a/cm-stalin-lay-foundation-stone-knowledge-city-today-789.htm",
+          "type": "media"
+        },
+        {
+          "title": "TIDCO Official",
+          "url": "https://tidco.com/",
+          "type": "government"
+        },
+        {
+          "title": "University of Melbourne LOI",
+          "url": "https://themachinemaker.com/news/university-of-melbourne-and-tidco-sign-loi-to-establish-research-centre-at-tamil-nadu-knowledge-city/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "chennai-journalism-institute",
+      "name": {
+        "en": "Chennai Institute of Journalism",
+        "ta": "சென்னை இதழியல் நிறுவனம்"
+      },
+      "description": {
+        "en": "South India's first government-funded autonomous journalism institute offering PG Diploma in Journalism with bilingual instruction.",
+        "ta": "தெற்கு இந்தியாவின் முதல் அரசு நிதியுதவி பெற்ற தன்னாட்சி இதழியல் நிறுவனம், இருமொழி கற்பித்தலுடன் இதழியலில் முதுகலை டிப்ளமோ வழங்குகிறது."
+      },
+      "launchDate": "August 25, 2025",
+      "beneficiaries": {
+        "count": "Journalism students",
+        "description": {
+          "en": "Aspiring journalists and media professionals",
+          "ta": "இதழியலாளர்கள் மற்றும் ஊடக நிபுணர்கள் ஆக விரும்புபவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 7.75 crore",
+        "year": "2025-26",
+        "details": "Initial establishment grant"
+      },
+      "coverage": "Kotturpuram, Chennai (adjacent to Anna Centenary Library)",
+      "highlights": [
+        {
+          "en": "First government journalism institute in South India",
+          "ta": "தெற்கு இந்தியாவின் முதல் அரசு இதழியல் நிறுவனம்"
+        },
+        {
+          "en": "1-year PG Diploma in Journalism",
+          "ta": "1 வருட இதழியலில் முதுகலை டிப்ளமோ"
+        },
+        {
+          "en": "Bilingual instruction in Tamil and English",
+          "ta": "தமிழ் மற்றும் ஆங்கிலத்தில் இருமொழி கற்பித்தல்"
+        },
+        {
+          "en": "Covers print, broadcast, radio and digital media",
+          "ta": "அச்சு, ஒளிபரப்பு, வானொலி மற்றும் டிஜிட்டல் ஊடகங்களை உள்ளடக்கியது"
+        }
+      ],
+      "icon": "📰",
+      "sources": [
+        {
+          "title": "Chennai Institute of Journalism Official",
+          "url": "https://cij.tn.gov.in/en",
+          "type": "government"
+        },
+        {
+          "title": "Inauguration News",
+          "url": "https://edinbox.com/council/media-gmec/5808-tamil-nadu-cm-m-k-stalin-inaugurates-chennai-institute-of-journalism-in-kotturpuram",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "upsc-training-centre",
+      "name": {
+        "en": "Residential UPSC Training Centre",
+        "ta": "குடியிருப்பு UPSC பயிற்சி மையம்"
+      },
+      "description": {
+        "en": "State-of-the-art residential training centre for UPSC Civil Services aspirants with capacity for 500 students.",
+        "ta": "500 மாணவர்களுக்கான திறனுடன் UPSC சிவில் சர்வீசஸ் விண்ணப்பதாரர்களுக்கான நவீன குடியிருப்பு பயிற்சி மையம்."
+      },
+      "launchDate": "2025 (Announced)",
+      "beneficiaries": {
+        "count": "500 students",
+        "description": {
+          "en": "UPSC Civil Services aspirants from Tamil Nadu",
+          "ta": "தமிழ்நாட்டைச் சேர்ந்த UPSC சிவில் சர்வீசஸ் விண்ணப்பதாரர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 40 crore",
+        "year": "2025-26",
+        "details": "Full residential training facility"
+      },
+      "coverage": "Shenoy Nagar, Chennai",
+      "highlights": [
+        {
+          "en": "Part of Naan Mudhalvan scheme expansion",
+          "ta": "நான் முதல்வன் திட்ட விரிவாக்கத்தின் பகுதி"
+        },
+        {
+          "en": "Response to declining TN representation in civil services",
+          "ta": "சிவில் சர்வீசில் தமிழ்நாடு பிரதிநிதித்துவம் குறைவதற்கு பதில்"
+        },
+        {
+          "en": "57 TN candidates cleared UPSC in 2025 (up from 27 in 2021)",
+          "ta": "2025-ல் 57 தமிழ்நாடு விண்ணப்பதாரர்கள் UPSC தேர்ச்சி (2021-ல் 27-லிருந்து உயர்வு)"
+        },
+        {
+          "en": "Full residential accommodation for focused preparation",
+          "ta": "கவனமான தயாரிப்புக்கு முழு குடியிருப்பு வசதி"
+        }
+      ],
+      "icon": "🏛️",
+      "sources": [
+        {
+          "title": "News Today",
+          "url": "https://newstodaynet.com/2025/04/25/residential-training-centre-in-chennai-for-upsc-aspirants/",
+          "type": "media"
+        },
+        {
+          "title": "Dinamalar",
+          "url": "https://www.dinamalar.com/amp/news/kalvimalar-news-en/tn-to-launch-rs-40-crore-residential-coaching-facility-for-upsc-aspirants/55202",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "kamarajar-library-trichy",
+      "name": {
+        "en": "Perunthalaivar Kamarajar Grand Library and Intellectual Centre",
+        "ta": "பெருந்தலைவர் காமராசர் பேரூர் நூலகம் மற்றும் அறிவுசார் மையம்"
+      },
+      "description": {
+        "en": "World-class 8-storey grand library and intellectual centre in Tiruchirappalli to serve as a knowledge and innovation hub.",
+        "ta": "திருச்சிராப்பள்ளியில் அறிவு மற்றும் புதுமை மையமாக செயல்பட 8 மாடி உலகத்தரம் வாய்ந்த பேரூர் நூலகம் மற்றும் அறிவுசார் மையம்."
+      },
+      "launchDate": "March 21, 2025 (Foundation)",
+      "beneficiaries": {
+        "count": "Trichy residents and students",
+        "description": {
+          "en": "Students, researchers, general public",
+          "ta": "மாணவர்கள், ஆராய்ச்சியாளர்கள், பொது மக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 290 crore",
+        "year": "2025-26",
+        "details": "Rs 235 cr construction, Rs 50 cr books/e-books, Rs 5 cr digital equipment"
+      },
+      "coverage": "TVS Tollgate area, Tiruchirappalli - 4.5 acres, 1.8 lakh sqft",
+      "highlights": [
+        {
+          "en": "G+7 floors spanning 1.8 lakh square feet",
+          "ta": "1.8 லட்சம் சதுர அடியில் G+7 தளங்கள்"
+        },
+        {
+          "en": "Named after Perunthalaivar Kamarajar",
+          "ta": "பெருந்தலைவர் காமராசர் பெயரில் பெயரிடப்பட்டது"
+        },
+        {
+          "en": "Advanced digital infrastructure and e-resources",
+          "ta": "மேம்பட்ட டிஜிட்டல் உள்கட்டமைப்பு மற்றும் மின்-வளங்கள்"
+        },
+        {
+          "en": "Two strategically designed entrances",
+          "ta": "இரண்டு மூலோபாயமாக வடிவமைக்கப்பட்ட நுழைவாயில்கள்"
+        }
+      ],
+      "icon": "📖",
+      "sources": [
+        {
+          "title": "Tiruchirappalli District Official",
+          "url": "https://tiruchirappalli.nic.in/honble-chief-minister-inaugurated-the-trichy-kalaignar-library-building-and-intellectual-centre-news/",
+          "type": "government"
+        },
+        {
+          "title": "Biltrax Media",
+          "url": "https://media.biltrax.com/tamil-nadu-government-sanctions-290-inr-crore-for-grand-library-in-trichy/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "namma-school-foundation",
+      "name": {
+        "en": "Namma School Namma Ooru Palli",
+        "ta": "நம்ம ஸ்கூல் நம்ம ஊரு பள்ளி"
+      },
+      "description": {
+        "en": "Community-driven CSR initiative transforming government schools through corporate partnerships, alumni engagement, and donor contributions.",
+        "ta": "கார்ப்பரேட் கூட்டாண்மைகள், முன்னாள் மாணவர் ஈடுபாடு மற்றும் நன்கொடையாளர் பங்களிப்புகள் மூலம் அரசு பள்ளிகளை மாற்றும் சமூக உந்துதல் CSR முயற்சி."
+      },
+      "launchDate": "2023",
+      "beneficiaries": {
+        "count": "10,903+ schools",
+        "description": {
+          "en": "Government school students across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் அரசு பள்ளி மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 1,000+ crore (CSR contributions)",
+        "year": "As of November 2025",
+        "details": "885 companies and 1500+ donors contributing"
+      },
+      "coverage": "All 38 districts, 150+ partner organizations",
+      "highlights": [
+        {
+          "en": "Rs 1,000 crore milestone reached in CSR contributions",
+          "ta": "CSR பங்களிப்புகளில் ரூ.1,000 கோடி மைல்கல் எட்டப்பட்டது"
+        },
+        {
+          "en": "STEM labs and smart classrooms funded",
+          "ta": "STEM ஆய்வகங்கள் மற்றும் ஸ்மார்ட் வகுப்பறைகளுக்கு நிதியளிக்கப்பட்டது"
+        },
+        {
+          "en": "Palli Chaalaram alumni portal for donations and mentoring",
+          "ta": "நன்கொடைகள் மற்றும் வழிகாட்டுதலுக்கான பள்ளி சாளரம் முன்னாள் மாணவர் போர்ட்டல்"
+        },
+        {
+          "en": "885 companies and 1,500+ individual donors",
+          "ta": "885 நிறுவனங்கள் மற்றும் 1,500+ தனிநபர் நன்கொடையாளர்கள்"
+        }
+      ],
+      "icon": "🤝",
+      "sources": [
+        {
+          "title": "Namma School Official Portal",
+          "url": "https://nammaschool.tnschools.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "Current Affairs Analysis",
+          "url": "https://www.usthadian.com/namma-school-namma-ooru-palli-a-community-driven-education-revolution-in-tamil-nadu/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "women-student-hostels",
+      "name": {
+        "en": "Women Student Hostels (Chennai, Coimbatore, Madurai)",
+        "ta": "மாணவியர் விடுதிகள் (சென்னை, கோவை, மதுரை)"
+      },
+      "description": {
+        "en": "Construction of three large-capacity women student hostels in major cities to support higher education access for women.",
+        "ta": "பெண்களுக்கான உயர்கல்வி அணுகலை ஆதரிக்க முக்கிய நகரங்களில் மூன்று பெரிய திறன் கொண்ட மாணவியர் விடுதிகள் கட்டுமானம்."
+      },
+      "launchDate": "2025-26 (Budget allocation)",
+      "beneficiaries": {
+        "count": "3,000 students",
+        "description": {
+          "en": "1,000 women students per hostel in each city",
+          "ta": "ஒவ்வொரு நகரத்திலும் ஒவ்வொரு விடுதியிலும் 1,000 மாணவிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 275 crore",
+        "year": "2025-26",
+        "details": "Three hostels with 1,000 capacity each"
+      },
+      "coverage": "Chennai, Coimbatore, Madurai",
+      "highlights": [
+        {
+          "en": "1,000 student capacity per hostel",
+          "ta": "ஒவ்வொரு விடுதிக்கும் 1,000 மாணவர் திறன்"
+        },
+        {
+          "en": "Priority for SC, ST, MBC, OBC, minority communities",
+          "ta": "SC, ST, MBC, OBC, சிறுபான்மை சமூகங்களுக்கு முன்னுரிமை"
+        },
+        {
+          "en": "Located in three major education hub cities",
+          "ta": "மூன்று முக்கிய கல்வி மைய நகரங்களில் அமைந்துள்ளது"
+        },
+        {
+          "en": "Part of efforts to increase women's higher education enrollment",
+          "ta": "பெண்களின் உயர்கல்வி சேர்க்கையை அதிகரிக்கும் முயற்சிகளின் பகுதி"
+        }
+      ],
+      "icon": "🏠",
+      "sources": [
+        {
+          "title": "TN Budget 2025-26",
+          "url": "https://rajkaran.in/tamil-nadu-budget-2025-26-rs-6668-crore-water-projects-1-lakh-new-houses-and-thozhi-hostels-for-women-announced/",
+          "type": "media"
+        },
+        {
+          "title": "The South First",
+          "url": "https://thesouthfirst.com/news/tamil-nadu-live-finance-minister-thangam-thenarasu-to-present-the-budget-for-2025-26/",
+          "type": "media"
         }
       ]
     }
