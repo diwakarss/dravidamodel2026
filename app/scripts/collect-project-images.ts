@@ -13,7 +13,7 @@ import fs from "fs";
 import path from "path";
 import https from "https";
 import http from "http";
-import projectsJson from "../src/data/projects.json";
+import projectsJson from "../src/data/infrastructure.json";
 
 const IMAGES_DIR = path.join(__dirname, "../public/images/projects");
 const PLACEHOLDER_URL = "https://placehold.co/800x600/e2e8f0/64748b?text=Project+Image";

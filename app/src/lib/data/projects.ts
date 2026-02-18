@@ -4,7 +4,7 @@ import {
   type Project,
   type ProjectStatus,
 } from "../schemas/project";
-import projectsJson from "@/data/projects.json";
+import projectsJson from "@/data/infrastructure.json";
 import { normalizeDistrictName, isSingleDistrict } from "../utils/mapHelpers";
 
 const validationResult = ProjectsDataSchema.safeParse(projectsJson);

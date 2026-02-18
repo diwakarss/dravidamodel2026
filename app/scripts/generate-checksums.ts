@@ -14,9 +14,9 @@ console.log("Generating checksums...");
 
 const checksums: Record<string, string> = {};
 
-// Main projects file
-const projectsPath = path.join(dataDir, "projects.json");
-checksums["projects.json"] = generateChecksum(projectsPath);
+// Main infrastructure file
+const infrastructurePath = path.join(dataDir, "infrastructure.json");
+checksums["infrastructure.json"] = generateChecksum(infrastructurePath);
 
 // Individual project files (if they exist)
 const projectsDir = path.join(dataDir, "projects");

@@ -2,7 +2,7 @@ import { ProjectsDataSchema } from "../src/lib/schemas/project";
 import * as fs from "fs";
 import * as path from "path";
 
-const dataPath = path.join(__dirname, "../src/data/projects.json");
+const dataPath = path.join(__dirname, "../src/data/infrastructure.json");
 
 console.log("Validating project data...");
 
