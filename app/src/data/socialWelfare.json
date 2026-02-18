@@ -963,6 +963,770 @@
           "type": "media"
         }
       ]
+    },
+    {
+      "id": "tn-wesafe",
+      "name": {
+        "en": "Tamil Nadu Women Employment and Safety (WESAFE) Program",
+        "ta": "தமிழ்நாடு பெண்கள் வேலைவாய்ப்பு மற்றும் பாதுகாப்பு (WESAFE) திட்டம்"
+      },
+      "description": {
+        "en": "World Bank-assisted program to improve access to quality jobs for 1.6 million women through skills training, entrepreneurship support, and enabling services like safety, housing and childcare.",
+        "ta": "16 லட்சம் பெண்களுக்கு தரமான வேலைவாய்ப்புகளை வழங்க உலக வங்கி உதவியுடன் திறன் பயிற்சி, தொழில்முனைவோர் ஆதரவு மற்றும் பாதுகாப்பு, வீட்டு வசதி, குழந்தை பராமரிப்பு போன்ற துணை சேவைகள்."
+      },
+      "launchDate": "January 27, 2026",
+      "beneficiaries": {
+        "count": "1.6 million women",
+        "description": {
+          "en": "Women workers and entrepreneurs across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் பெண் தொழிலாளர்கள் மற்றும் தொழில்முனைவோர்"
+        }
+      },
+      "budget": {
+        "amount": "$150 million (World Bank loan)",
+        "year": "2025-2030",
+        "details": "600,000 women to receive skills training; 18,000 women entrepreneurs to receive incubation support"
+      },
+      "eligibility": {
+        "en": "Women seeking employment or entrepreneurship opportunities in Tamil Nadu",
+        "ta": "தமிழ்நாட்டில் வேலைவாய்ப்பு அல்லது தொழில்முனைவோர் வாய்ப்புகளை நாடும் பெண்கள்"
+      },
+      "highlights": [
+        {
+          "en": "First state-level program with World Bank support for women's employment",
+          "ta": "பெண்கள் வேலைவாய்ப்புக்கான உலக வங்கி ஆதரவுடன் முதல் மாநில அளவிலான திட்டம்"
+        },
+        {
+          "en": "Skills training for 6 lakh women",
+          "ta": "6 லட்சம் பெண்களுக்கு திறன் பயிற்சி"
+        },
+        {
+          "en": "Incubation support for 18,000 women entrepreneurs",
+          "ta": "18,000 பெண் தொழில்முனைவோருக்கு இன்குபேஷன் ஆதரவு"
+        },
+        {
+          "en": "Integrated housing, mobility and childcare services",
+          "ta": "ஒருங்கிணைந்த வீட்டு வசதி, போக்குவரத்து மற்றும் குழந்தை பராமரிப்பு சேவைகள்"
+        }
+      ],
+      "icon": "👩‍💼",
+      "sources": [
+        {
+          "title": "World Bank Press Release",
+          "url": "https://www.worldbank.org/en/news/press-release/2025/06/24/new-world-bank-program-to-improve-access-to-quality-jobs-for-1-6-million-women-in-the-indian-state-of-tamil-nadu",
+          "type": "other"
+        },
+        {
+          "title": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/world-bank-clears-150m-boost-for-women-jobs-in-tamil-nadu-1887475",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "thayumanavar-scheme",
+      "name": {
+        "en": "CM Thayumanavar Scheme",
+        "ta": "முதலமைச்சர் தாயுமானவர் திட்டம்"
+      },
+      "description": {
+        "en": "Doorstep delivery of ration items to elderly citizens above 70 years and persons with disabilities through PDS vehicles on second Saturday and Sunday of every month.",
+        "ta": "70 வயதுக்கு மேற்பட்ட முதியவர்கள் மற்றும் மாற்றுத்திறனாளிகளுக்கு ஒவ்வொரு மாதமும் இரண்டாவது சனி மற்றும் ஞாயிற்றுக்கிழமைகளில் PDS வாகனங்கள் மூலம் ரேஷன் பொருட்கள் வீட்டிலேயே வழங்கல்."
+      },
+      "launchDate": "August 12, 2025",
+      "beneficiaries": {
+        "count": "21.7 lakh persons",
+        "description": {
+          "en": "20.42 lakh senior citizens (70+) and 1.27 lakh differently abled persons",
+          "ta": "20.42 லட்சம் மூத்த குடிமக்கள் (70+) மற்றும் 1.27 லட்சம் மாற்றுத்திறனாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "~Rs 30-36 crore",
+        "year": "2025-26",
+        "details": "Through 34,809 fair price shops"
+      },
+      "eligibility": {
+        "en": "Senior citizens aged 70+ or persons with disabilities holding family ration card",
+        "ta": "70+ வயது மூத்த குடிமக்கள் அல்லது குடும்ப ரேஷன் அட்டை வைத்திருக்கும் மாற்றுத்திறனாளிகள்"
+      },
+      "highlights": [
+        {
+          "en": "Doorstep delivery of rice, sugar and PDS items",
+          "ta": "அரிசி, சர்க்கரை மற்றும் PDS பொருட்கள் வீட்டிலேயே வழங்கல்"
+        },
+        {
+          "en": "E-POS devices and electronic weighing machines in vehicles",
+          "ta": "வாகனங்களில் E-POS சாதனங்கள் மற்றும் மின்னணு எடை இயந்திரங்கள்"
+        },
+        {
+          "en": "Auto-enrollment for eligible beneficiaries",
+          "ta": "தகுதியுள்ள பயனாளிகளுக்கு தானியங்கி பதிவு"
+        },
+        {
+          "en": "Delivery on 2nd Saturday and Sunday monthly",
+          "ta": "மாதாந்திர 2வது சனி மற்றும் ஞாயிற்றுக்கிழமை வழங்கல்"
+        }
+      ],
+      "icon": "🚚",
+      "sources": [
+        {
+          "title": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/mk-stalin-launches-thayumanavar-scheme-in-tamil-nadu-to-deliver-ration-products-at-doorsteps-of-elderly-disabled/article69923244.ece",
+          "type": "media"
+        },
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-to-launch-door-delivery-of-ration-items-to-elderly-differently-abled-3676756",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "ungaludan-stalin",
+      "name": {
+        "en": "Ungaludan Stalin (Stalin With You)",
+        "ta": "உங்களுடன் ஸ்டாலின்"
+      },
+      "description": {
+        "en": "Doorstep delivery of 43-46 government services through 10,000 special camps across rural and urban areas, bringing governance directly to citizens' doorsteps.",
+        "ta": "கிராமப்புற மற்றும் நகர்ப்புறங்களில் 10,000 சிறப்பு முகாம்கள் மூலம் 43-46 அரசு சேவைகளை குடிமக்களின் வீட்டு வாசலிலேயே வழங்கல்."
+      },
+      "launchDate": "July 15, 2025",
+      "beneficiaries": {
+        "count": "All citizens",
+        "description": {
+          "en": "Citizens across all 38 districts",
+          "ta": "அனைத்து 38 மாவட்டங்களிலும் உள்ள குடிமக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Not specified",
+        "details": "10,000 camps (6,232 rural + 3,768 urban) from July to November 2025"
+      },
+      "eligibility": {
+        "en": "All Tamil Nadu residents requiring government services",
+        "ta": "அரசு சேவைகள் தேவைப்படும் அனைத்து தமிழ்நாடு குடியிருப்பாளர்கள்"
+      },
+      "highlights": [
+        {
+          "en": "46 services from 15 departments in rural camps",
+          "ta": "கிராமப்புற முகாம்களில் 15 துறைகளிலிருந்து 46 சேவைகள்"
+        },
+        {
+          "en": "43 services from 13 departments in urban camps",
+          "ta": "நகர்ப்புற முகாம்களில் 13 துறைகளிலிருந்து 43 சேவைகள்"
+        },
+        {
+          "en": "Caste certificate, Patta changes, pension, Aadhaar corrections",
+          "ta": "சாதி சான்றிதழ், பட்டா மாற்றங்கள், ஓய்வூதியம், ஆதார் திருத்தங்கள்"
+        },
+        {
+          "en": "10,000 camps across the state",
+          "ta": "மாநிலம் முழுவதும் 10,000 முகாம்கள்"
+        }
+      ],
+      "icon": "🏛️",
+      "sources": [
+        {
+          "title": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/india/tn-cm-launches-outreach-scheme-ungaludan-stalin-to-provide-govt-services-at-doorstep/",
+          "type": "media"
+        },
+        {
+          "title": "Madhyamam",
+          "url": "https://madhyamamonline.com/india/tamil-nadu-rolls-out-ungaludan-stalin-scheme-for-doorstep-delivery-of-public-services-1428386",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "unga-kanava-sollungal",
+      "name": {
+        "en": "Unga Kanava Sollungal (Tell Us Your Dreams)",
+        "ta": "உங்க கனவை சொல்லுங்க"
+      },
+      "description": {
+        "en": "Unique citizen engagement scheme where 50,000 SHG volunteers visit door-to-door to collect people's dreams and aspirations to shape Tamil Nadu's development path for 2030.",
+        "ta": "2030க்கான தமிழ்நாட்டின் வளர்ச்சிப் பாதையை வடிவமைக்க 50,000 SHG தன்னார்வலர்கள் வீடு வீடாகச் சென்று மக்களின் கனவுகளை சேகரிக்கும் தனித்துவமான குடிமக்கள் ஈடுபாட்டு திட்டம்."
+      },
+      "launchDate": "January 9, 2026",
+      "beneficiaries": {
+        "count": "1.91 crore households",
+        "description": {
+          "en": "All rural and urban households",
+          "ta": "அனைத்து கிராமப்புற மற்றும் நகர்ப்புற குடும்பங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Not specified",
+        "details": "Implemented by TN Corporation for Development of Women"
+      },
+      "eligibility": {
+        "en": "All Tamil Nadu households",
+        "ta": "அனைத்து தமிழ்நாடு குடும்பங்கள்"
+      },
+      "highlights": [
+        {
+          "en": "50,000 SHG volunteers for door-to-door collection",
+          "ta": "வீடு வீடாக சேகரிப்புக்கு 50,000 SHG தன்னார்வலர்கள்"
+        },
+        {
+          "en": "Each family can register 3 most important dreams",
+          "ta": "ஒவ்வொரு குடும்பமும் 3 முக்கியமான கனவுகளை பதிவு செய்யலாம்"
+        },
+        {
+          "en": "Shapes TN development vision for 2030",
+          "ta": "2030க்கான தமிழ்நாடு வளர்ச்சி தொலைநோக்கை வடிவமைக்கிறது"
+        },
+        {
+          "en": "Demands converted into government schemes",
+          "ta": "கோரிக்கைகள் அரசு திட்டங்களாக மாற்றப்படும்"
+        }
+      ],
+      "icon": "💭",
+      "sources": [
+        {
+          "title": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tell-us-your-dreams-cms-latest-scheme-1929397",
+          "type": "media"
+        },
+        {
+          "title": "Kalaignar Seithigal",
+          "url": "https://www.kalaignarseithigal.com/m-k-stalin/2026/01/09/tamil-nadu-governments-unga-kanava-sollunga-scheme-how-to-share-your-future-dreams-details-inside",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "thozhi-hostels",
+      "name": {
+        "en": "Thozhi Working Women's Hostels",
+        "ta": "தோழி வேலை செய்யும் பெண்கள் விடுதிகள்"
+      },
+      "description": {
+        "en": "Safe, affordable accommodation for working women through public-private partnership model, with priority to women from SC, ST, MBC, OBC, and minority communities.",
+        "ta": "SC, ST, MBC, OBC மற்றும் சிறுபான்மை சமூகங்களைச் சேர்ந்த பெண்களுக்கு முன்னுரிமையுடன், பொது-தனியார் கூட்டு மாதிரியில் வேலை செய்யும் பெண்களுக்கு பாதுகாப்பான, மலிவான தங்குமிடம்."
+      },
+      "launchDate": "2023 (ongoing expansion)",
+      "beneficiaries": {
+        "count": "2,624+ working women",
+        "description": {
+          "en": "Working women across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் வேலை செய்யும் பெண்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 253.93 crore",
+        "year": "2025-26",
+        "details": "14 new hostels under construction at Rs 176.93 crore, 10 more hostels at Rs 77 crore"
+      },
+      "eligibility": {
+        "en": "Working women, priority to SC/ST/MBC/OBC/minorities",
+        "ta": "வேலை செய்யும் பெண்கள், SC/ST/MBC/OBC/சிறுபான்மையினருக்கு முன்னுரிமை"
+      },
+      "highlights": [
+        {
+          "en": "19 hostels operational benefiting 1,824 women",
+          "ta": "19 விடுதிகள் செயல்பாட்டில் 1,824 பெண்களுக்கு பயன்"
+        },
+        {
+          "en": "14 new hostels under construction",
+          "ta": "14 புதிய விடுதிகள் கட்டுமானத்தில்"
+        },
+        {
+          "en": "PPP model with government oversight",
+          "ta": "அரசு மேற்பார்வையுடன் PPP மாதிரி"
+        },
+        {
+          "en": "Priority for SC, ST, MBC, OBC, minorities",
+          "ta": "SC, ST, MBC, OBC, சிறுபான்மையினருக்கு முன்னுரிமை"
+        }
+      ],
+      "icon": "🏨",
+      "sources": [
+        {
+          "title": "TN Social Welfare - Working Women Hostels",
+          "url": "https://www.tnsocialwelfare.tn.gov.in/en/state-resource-centre-for-women/working-women-hostels",
+          "type": "government"
+        },
+        {
+          "title": "World Bank Feature",
+          "url": "https://www.worldbank.org/en/news/feature/2024/09/23/tamil-nadu-working-women-s-hostels-a-home-away-from-home",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "id": "anbu-solai",
+      "name": {
+        "en": "Anbu Solai (Grove of Love) Day Care Centers",
+        "ta": "அன்புச்சோலை முதியோர் நாள் பராமரிப்பு மையங்கள்"
+      },
+      "description": {
+        "en": "Day care centers for senior citizens offering physiotherapy, indoor games, handicraft training, yoga, cultural activities, and meals to reduce loneliness and foster community participation.",
+        "ta": "தனிமையை குறைக்கவும் சமூக பங்கேற்பை ஊக்குவிக்கவும் உடலியக்க சிகிச்சை, உள்விளையாட்டுகள், கைவினை பயிற்சி, யோகா, கலாச்சார நடவடிக்கைகள் மற்றும் உணவு வழங்கும் முதியோர் நாள் பராமரிப்பு மையங்கள்."
+      },
+      "launchDate": "November 10, 2025",
+      "beneficiaries": {
+        "count": "Senior citizens",
+        "description": {
+          "en": "Elderly from working-class families in 10 corporations + industrial hubs",
+          "ta": "10 மாநகராட்சிகள் + தொழில்துறை மையங்களில் தொழிலாளர் குடும்ப முதியவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Not specified",
+        "year": "2025-26",
+        "details": "25 centers in Phase 1"
+      },
+      "eligibility": {
+        "en": "Senior citizens, especially from working-class families",
+        "ta": "முதியவர்கள், குறிப்பாக தொழிலாளர் குடும்பங்களிலிருந்து"
+      },
+      "highlights": [
+        {
+          "en": "25 centers in 10 municipal corporations",
+          "ta": "10 மாநகராட்சிகளில் 25 மையங்கள்"
+        },
+        {
+          "en": "Physiotherapy, yoga, counselling services",
+          "ta": "உடலியக்க சிகிச்சை, யோகா, ஆலோசனை சேவைகள்"
+        },
+        {
+          "en": "Tiffin and lunch provided",
+          "ta": "சிற்றுண்டி மற்றும் மதிய உணவு வழங்கப்படும்"
+        },
+        {
+          "en": "Indoor games and cultural activities",
+          "ta": "உள்விளையாட்டுகள் மற்றும் கலாச்சார நடவடிக்கைகள்"
+        }
+      ],
+      "icon": "🧓",
+      "sources": [
+        {
+          "title": "Outlook Money",
+          "url": "https://www.outlookmoney.com/retirement/news/tamil-nadu-launches-25-day-care-centres-for-senior-citizens-to-boost-wellbeing-community-engagement",
+          "type": "media"
+        },
+        {
+          "title": "The Statesman",
+          "url": "https://www.thestatesman.com/india/cm-stalin-inaugurates-anbucholai-day-care-centres-for-elderly-plays-carrom-with-senior-citizens-1503509972.html",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "vizhuthugal",
+      "name": {
+        "en": "Vizhuthugal (Roots) - Integrated Rehabilitation Service Centers",
+        "ta": "விழுதுகள் - ஒருங்கிணைந்த மறுவாழ்வு சேவை மையங்கள்"
+      },
+      "description": {
+        "en": "First-in-India one-stop rehabilitation centers for differently abled persons providing special education, optometry, audiology, speech therapy, physiotherapy, occupational therapy, and psychological counselling under one roof.",
+        "ta": "மாற்றுத்திறனாளிகளுக்கான இந்தியாவின் முதல் ஒரே கூரையின் கீழ் சிறப்புக் கல்வி, பார்வை சோதனை, காது நோய், பேச்சு சிகிச்சை, உடலியக்க சிகிச்சை, தொழில் சிகிச்சை மற்றும் உளவியல் ஆலோசனை வழங்கும் ஒருங்கிணைந்த மறுவாழ்வு மையங்கள்."
+      },
+      "launchDate": "February 27, 2025 (first center)",
+      "beneficiaries": {
+        "count": "Differently abled persons",
+        "description": {
+          "en": "273 centers planned across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் 273 மையங்கள் திட்டமிடப்பட்டுள்ளன"
+        }
+      },
+      "budget": {
+        "amount": "Rs 10.82 crore (Phase 1)",
+        "year": "2025",
+        "details": "World Bank-assisted TN RIGHTS Project"
+      },
+      "eligibility": {
+        "en": "Differently abled persons requiring rehabilitation services",
+        "ta": "மறுவாழ்வு சேவைகள் தேவைப்படும் மாற்றுத்திறனாளிகள்"
+      },
+      "highlights": [
+        {
+          "en": "First-in-India integrated rehabilitation model",
+          "ta": "இந்தியாவில் முதல் ஒருங்கிணைந்த மறுவாழ்வு மாதிரி"
+        },
+        {
+          "en": "6 types of professionals under one roof",
+          "ta": "ஒரே கூரையின் கீழ் 6 வகை நிபுணர்கள்"
+        },
+        {
+          "en": "273 centers planned statewide",
+          "ta": "மாநிலம் முழுவதும் 273 மையங்கள் திட்டமிடப்பட்டுள்ளன"
+        },
+        {
+          "en": "Mobile rehabilitation service vehicles",
+          "ta": "நடமாடும் மறுவாழ்வு சேவை வாகனங்கள்"
+        }
+      ],
+      "icon": "♿",
+      "sources": [
+        {
+          "title": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/health/3170066-breaking-new-ground-tamil-nadus-first-integrated-rehab-service-centre-for-differently-abled",
+          "type": "media"
+        },
+        {
+          "title": "Commissionerate for Welfare of Differently Abled",
+          "url": "https://scd.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "pink-patrol",
+      "name": {
+        "en": "Pink Patrol Vehicles for Women Safety",
+        "ta": "பெண்கள் பாதுகாப்புக்கான பிங்க் ரோந்து வாகனங்கள்"
+      },
+      "description": {
+        "en": "Women-led police patrol initiative with dedicated vehicles to curb eve-teasing and harassment against women and children, along with Pink Auto scheme for safe transport.",
+        "ta": "பெண்கள் மற்றும் குழந்தைகளுக்கு எதிரான சீண்டல் மற்றும் தொந்தரவைத் தடுக்க பெண்கள் தலைமையிலான காவல் ரோந்து முன்முயற்சி, பாதுகாப்பான போக்குவரத்துக்கு பிங்க் ஆட்டோ திட்டத்துடன்."
+      },
+      "launchDate": "November 11, 2025",
+      "beneficiaries": {
+        "count": "Women across major cities",
+        "description": {
+          "en": "Women and children in urban areas",
+          "ta": "நகர்ப்புறங்களில் பெண்கள் மற்றும் குழந்தைகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 12 crore",
+        "year": "2025",
+        "details": "80 Pink Patrol vehicles + Pink Auto scheme (Rs 1 lakh subsidy per driver)"
+      },
+      "eligibility": {
+        "en": "All women and children across Tamil Nadu cities",
+        "ta": "தமிழ்நாடு நகரங்களில் அனைத்து பெண்கள் மற்றும் குழந்தைகள்"
+      },
+      "highlights": [
+        {
+          "en": "80 Pink Patrol vehicles across city commissionerates",
+          "ta": "நகர ஆணையங்களில் 80 பிங்க் ரோந்து வாகனங்கள்"
+        },
+        {
+          "en": "Women-led patrol teams",
+          "ta": "பெண்கள் தலைமையிலான ரோந்து குழுக்கள்"
+        },
+        {
+          "en": "GPS-enabled Pink Autos with police helpline",
+          "ta": "காவல் உதவி எண்ணுடன் GPS-இயக்கப்படும் பிங்க் ஆட்டோக்கள்"
+        },
+        {
+          "en": "Rs 1 lakh subsidy for 200 women auto drivers",
+          "ta": "200 பெண் ஆட்டோ ஓட்டுநர்களுக்கு ரூ 1 லட்சம் மானியம்"
+        }
+      ],
+      "icon": "🚔",
+      "sources": [
+        {
+          "title": "News9Live",
+          "url": "https://www.news9live.com/state/tamil-nadu/tamil-nadu-pink-auto-scheme-women-safety-2824644",
+          "type": "media"
+        },
+        {
+          "title": "CarToq",
+          "url": "https://www.cartoq.com/car-life/hyundai-creta-tamil-nadu-pink-patrol-enforcement/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "aran-illam",
+      "name": {
+        "en": "Aran Illam (Shelter Homes for Transgender Persons)",
+        "ta": "அரண் இல்லம் (திருநங்கையர் தங்குமிட இல்லங்கள்)"
+      },
+      "description": {
+        "en": "Safe accommodation facilities for transgender individuals during their transition, providing housing, food, clothing, counselling, and legal aid for up to 3 years.",
+        "ta": "திருநங்கையர்களுக்கு அவர்களின் மாற்றத்தின் போது பாதுகாப்பான தங்குமிட வசதிகள், 3 ஆண்டுகள் வரை வீட்டு வசதி, உணவு, ஆடை, ஆலோசனை மற்றும் சட்ட உதவி வழங்குதல்."
+      },
+      "launchDate": "October 13, 2025",
+      "beneficiaries": {
+        "count": "50 residents per center (2 centers)",
+        "description": {
+          "en": "Transgender persons aged 18+ during transition",
+          "ta": "மாற்றத்தின் போது 18+ வயது திருநங்கையர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 43.88 lakh",
+        "year": "2025",
+        "details": "Chennai and Madurai centers"
+      },
+      "eligibility": {
+        "en": "Transgender persons 18+ with TN Transgender Welfare Board ID card",
+        "ta": "TN திருநங்கை நலவாரிய அடையாள அட்டை கொண்ட 18+ வயது திருநங்கையர்கள்"
+      },
+      "highlights": [
+        {
+          "en": "Stay from 1 month to 3 years",
+          "ta": "1 மாதம் முதல் 3 ஆண்டுகள் வரை தங்கலாம்"
+        },
+        {
+          "en": "Accommodation, food, clothing provided",
+          "ta": "தங்குமிடம், உணவு, ஆடை வழங்கப்படும்"
+        },
+        {
+          "en": "Psychological and career counselling",
+          "ta": "உளவியல் மற்றும் தொழில் ஆலோசனை"
+        },
+        {
+          "en": "Legal aid services",
+          "ta": "சட்ட உதவி சேவைகள்"
+        }
+      ],
+      "icon": "🏠",
+      "sources": [
+        {
+          "title": "YourStory",
+          "url": "https://yourstory.com/socialstory/2025/10/tamil-nadu-launches-homes-to-support-transitioning-transpersons",
+          "type": "media"
+        },
+        {
+          "title": "TN Social Welfare",
+          "url": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationstransgenders-welfare/tamil-nadu-transgender-welfare-board",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "sanitary-workers-meal",
+      "name": {
+        "en": "CM's Free Meal Scheme for Sanitary Workers",
+        "ta": "தூய்மைப் பணியாளர்களுக்கான முதலமைச்சரின் இலவச உணவுத் திட்டம்"
+      },
+      "description": {
+        "en": "First-in-India scheme providing three free meals daily (breakfast, lunch, dinner) to sanitary workers employed by municipal corporations and contractors.",
+        "ta": "மாநகராட்சிகள் மற்றும் ஒப்பந்ததாரர்களால் வேலைவாய்ப்பு பெற்ற தூய்மைப் பணியாளர்களுக்கு தினசரி மூன்று இலவச உணவுகள் (காலை உணவு, மதிய உணவு, இரவு உணவு) வழங்கும் இந்தியாவின் முதல் திட்டம்."
+      },
+      "launchDate": "November 15, 2025",
+      "beneficiaries": {
+        "count": "29,455+ workers (GCC)",
+        "description": {
+          "en": "Sanitary workers including contract employees",
+          "ta": "ஒப்பந்த ஊழியர்கள் உட்பட தூய்மைப் பணியாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 186.94 crore",
+        "year": "2025-28",
+        "details": "3-year allocation for Greater Chennai Corporation"
+      },
+      "eligibility": {
+        "en": "Sanitary workers employed by GCC and municipal corporations",
+        "ta": "GCC மற்றும் மாநகராட்சிகளால் வேலைவாய்ப்பு பெற்ற தூய்மைப் பணியாளர்கள்"
+      },
+      "highlights": [
+        {
+          "en": "First-in-India three free meals daily",
+          "ta": "இந்தியாவில் முதல் தினசரி மூன்று இலவச உணவுகள்"
+        },
+        {
+          "en": "512 meal distribution locations in Chennai",
+          "ta": "சென்னையில் 512 உணவு விநியோக இடங்கள்"
+        },
+        {
+          "en": "Expansion to all corporations from Dec 2025",
+          "ta": "டிசம்பர் 2025 முதல் அனைத்து மாநகராட்சிகளுக்கும் விரிவாக்கம்"
+        },
+        {
+          "en": "SHG-partnered meal preparation",
+          "ta": "SHG கூட்டுடன் உணவு தயாரிப்பு"
+        }
+      ],
+      "icon": "🍽️",
+      "sources": [
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/free-meal-for-sanitary-workers-in-chennai-cm-stalin-launches-scheme-3799387",
+          "type": "media"
+        },
+        {
+          "title": "The Federal",
+          "url": "https://thefederal.com/category/states/south/tamil-nadu/tn-sanctions-rs-18694-crore-for-free-meals-for-chennai-sanitation-workers-212951",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "sipcot-creche",
+      "name": {
+        "en": "SIPCOT Creche Facilities for Working Mothers",
+        "ta": "வேலை செய்யும் தாய்மார்களுக்கான SIPCOT குழந்தை காப்பகங்கள்"
+      },
+      "description": {
+        "en": "First-of-kind creche facilities in SIPCOT industrial parks for working mothers, addressing childcare needs of women factory workers through public-private partnership.",
+        "ta": "பொது-தனியார் கூட்டு மூலம் பெண் தொழிற்சாலை தொழிலாளர்களின் குழந்தை பராமரிப்பு தேவைகளை நிறைவேற்றும் SIPCOT தொழில்துறை பூங்காக்களில் முதல் வகையான குழந்தை காப்பகங்கள்."
+      },
+      "launchDate": "December 2024 (expansion 2025)",
+      "beneficiaries": {
+        "count": "3.23 lakh SIPCOT employees",
+        "description": {
+          "en": "Working mothers in industrial parks",
+          "ta": "தொழில்துறை பூங்காக்களில் வேலை செய்யும் தாய்மார்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Not specified",
+        "details": "PPP model with FICCI Ladies Organisation"
+      },
+      "eligibility": {
+        "en": "Women employees in SIPCOT industrial parks",
+        "ta": "SIPCOT தொழில்துறை பூங்காக்களில் பெண் ஊழியர்கள்"
+      },
+      "highlights": [
+        {
+          "en": "Creches in 16-17 SIPCOT industrial parks",
+          "ta": "16-17 SIPCOT தொழில்துறை பூங்காக்களில் குழந்தை காப்பகங்கள்"
+        },
+        {
+          "en": "43% of India's women factory workers are in TN",
+          "ta": "இந்தியாவின் பெண் தொழிற்சாலை தொழிலாளர்களில் 43% தமிழ்நாட்டில்"
+        },
+        {
+          "en": "FICCI Ladies Organisation manages facilities",
+          "ta": "FICCI பெண்கள் அமைப்பு வசதிகளை நிர்வகிக்கிறது"
+        },
+        {
+          "en": "First-of-kind in Indian industrial parks",
+          "ta": "இந்திய தொழில்துறை பூங்காக்களில் முதல் வகை"
+        }
+      ],
+      "icon": "👶",
+      "sources": [
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/business/tamil-nadus-sipcot-inaugurates-creches-in-16-industrial-parks-3763069",
+          "type": "media"
+        },
+        {
+          "title": "SIPCOT Official",
+          "url": "https://sipcotweb.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "mahout-village",
+      "name": {
+        "en": "Mahout Village - Housing for Elephant Keepers",
+        "ta": "மாவூத் கிராமம் - யானை பாகர்களுக்கான வீட்டு வசதி"
+      },
+      "description": {
+        "en": "India's first dedicated village for mahouts (elephant keepers) with 44 eco-friendly houses, inspired by Oscar-winning film 'The Elephant Whisperers', at Theppakadu Elephant Camp in Mudumalai Tiger Reserve.",
+        "ta": "ஆஸ்கார் விருது பெற்ற 'The Elephant Whisperers' திரைப்படத்தால் ஈர்க்கப்பட்டு, முதுமலை புலிகள் சரணாலயத்தில் தெப்பக்காடு யானை முகாமில் 44 சூழல் நட்பு வீடுகளுடன் மாவூத்களுக்கான (யானை பாகர்கள்) இந்தியாவின் முதல் அர்ப்பணிப்பு கிராமம்."
+      },
+      "launchDate": "May 14, 2025",
+      "beneficiaries": {
+        "count": "44 mahout families",
+        "description": {
+          "en": "Tribal elephant keepers and caretakers",
+          "ta": "பழங்குடியின யானை பாகர்கள் மற்றும் பராமரிப்பாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 5.06 crore",
+        "year": "2025",
+        "details": "Eco-friendly houses with modern amenities"
+      },
+      "eligibility": {
+        "en": "Mahouts and elephant caretakers (cavadies) at Theppakadu",
+        "ta": "தெப்பக்காட்டில் மாவூத்கள் மற்றும் யானை பராமரிப்பாளர்கள் (கவாடிகள்)"
+      },
+      "highlights": [
+        {
+          "en": "First mahout village in India",
+          "ta": "இந்தியாவில் முதல் மாவூத் கிராமம்"
+        },
+        {
+          "en": "Inspired by Oscar-winning 'The Elephant Whisperers'",
+          "ta": "ஆஸ்கார் விருது பெற்ற 'The Elephant Whisperers' ஈர்ப்பு"
+        },
+        {
+          "en": "Solar lighting, playground, basketball court",
+          "ta": "சூரிய ஒளி, விளையாட்டு மைதானம், கூடைப்பந்து மைதானம்"
+        },
+        {
+          "en": "Lanes named after elephants",
+          "ta": "யானைகளின் பெயரால் வழிகள்"
+        }
+      ],
+      "icon": "🐘",
+      "sources": [
+        {
+          "title": "YourStory",
+          "url": "https://yourstory.com/socialstory/2025/05/indias-first-mahout-village-inaugurated-at-tamil-nadu",
+          "type": "media"
+        },
+        {
+          "title": "DD News",
+          "url": "https://ddnews.gov.in/tamil-nadu-indias-first-mahout-village-inaugurated-in-theppakadu-elephant-keepers-get-new-homes/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "iyothee-thass-habitation",
+      "name": {
+        "en": "Iyothee Thass Pandithar Habitation Development Scheme",
+        "ta": "அயோத்திதாசர் குடியிருப்புகள் மேம்பாட்டுத் திட்டம்"
+      },
+      "description": {
+        "en": "Rs 1,000 crore scheme to improve basic amenities like roads, streetlights, drinking water, and community halls in Adi Dravidar and tribal habitations over 5 years.",
+        "ta": "5 ஆண்டுகளில் ஆதிதிராவிடர் மற்றும் பழங்குடியினர் குடியிருப்புகளில் சாலைகள், தெரு விளக்குகள், குடிநீர் மற்றும் சமூக கூடங்கள் போன்ற அடிப்படை வசதிகளை மேம்படுத்த ரூ 1,000 கோடி திட்டம்."
+      },
+      "launchDate": "May 20, 2025 (named after Pandithar)",
+      "beneficiaries": {
+        "count": "Adi Dravidar and tribal communities",
+        "description": {
+          "en": "SC/ST habitations across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் SC/ST குடியிருப்புகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 1,000 crore",
+        "year": "2023-2028 (5 years)",
+        "details": "Rs 200 crore annually (Rs 100 cr Rural + Rs 50 cr Municipal + Rs 50 cr Housing Board)"
+      },
+      "eligibility": {
+        "en": "Adi Dravidar and tribal habitations across Tamil Nadu",
+        "ta": "தமிழ்நாடு முழுவதும் ஆதிதிராவிடர் மற்றும் பழங்குடியினர் குடியிருப்புகள்"
+      },
+      "highlights": [
+        {
+          "en": "Rs 1,000 crore over 5 years",
+          "ta": "5 ஆண்டுகளில் ரூ 1,000 கோடி"
+        },
+        {
+          "en": "Roads, streetlights, drinking water infrastructure",
+          "ta": "சாலைகள், தெரு விளக்குகள், குடிநீர் உள்கட்டமைப்பு"
+        },
+        {
+          "en": "120 community halls constructed",
+          "ta": "120 சமூக கூடங்கள் கட்டப்பட்டன"
+        },
+        {
+          "en": "Village Knowledge Centres included",
+          "ta": "கிராம அறிவு மையங்கள் சேர்க்கப்பட்டுள்ளன"
+        }
+      ],
+      "icon": "🏘️",
+      "sources": [
+        {
+          "title": "TN Adi Dravidar Welfare Department",
+          "url": "https://www.tnadw.in/iyothe_dhass",
+          "type": "government"
+        },
+        {
+          "title": "The News Minute",
+          "url": "https://www.thenewsminute.com/tamil-nadu/tn-budget-2025-schemes-for-women-trans-persons-scst-communities",
+          "type": "media"
+        }
+      ]
     }
   ],
   "welfareStats": {
