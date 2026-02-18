@@ -6,6 +6,20 @@ interface MobileIndustriesStatsProps {
   locale: string;
 }
 
+function formatLakhCrore(value: number): string {
+  if (value >= 100000) {
+    return `₹${(value / 100000).toFixed(2)}L Cr`;
+  }
+  return `₹${(value / 1000).toFixed(1)}K Cr`;
+}
+
+function formatLakh(value: number): string {
+  if (value >= 100000) {
+    return `${(value / 100000).toFixed(1)}L`;
+  }
+  return `${(value / 1000).toFixed(1)}K`;
+}
+
 export function MobileIndustriesStats({ locale }: MobileIndustriesStatsProps) {
   const stats = getIndustriesStats();
 
@@ -20,9 +34,9 @@ export function MobileIndustriesStats({ locale }: MobileIndustriesStatsProps) {
           </p>
         </div>
 
-        {/* Total Investment */}
+        {/* Total Investment - from summary for MoU totals */}
         <div className="text-center px-1 border-l border-slate-200">
-          <p className="text-base font-bold text-amber-700 leading-none">₹8.17L Cr</p>
+          <p className="text-base font-bold text-amber-700 leading-none">{formatLakhCrore(industriesSummary.totalInvestmentSince2021)}</p>
           <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
             {locale === "ta" ? "முதலீடு" : "Investment"}
           </p>
@@ -30,7 +44,7 @@ export function MobileIndustriesStats({ locale }: MobileIndustriesStatsProps) {
 
         {/* Jobs */}
         <div className="text-center px-1 border-l border-slate-200">
-          <p className="text-base font-bold text-teal-700 leading-none">28.9L</p>
+          <p className="text-base font-bold text-teal-700 leading-none">{formatLakh(industriesSummary.projectedJobs)}</p>
           <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
             {locale === "ta" ? "வேலைகள்" : "Jobs"}
           </p>
@@ -38,7 +52,7 @@ export function MobileIndustriesStats({ locale }: MobileIndustriesStatsProps) {
 
         {/* Conversion Rate */}
         <div className="text-center px-1 border-l border-slate-200">
-          <p className="text-base font-bold text-green-700 leading-none">82.2%</p>
+          <p className="text-base font-bold text-green-700 leading-none">{industriesSummary.mouConversionRate}%</p>
           <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
             {locale === "ta" ? "நிறைவேற்றம்" : "Converted"}
           </p>

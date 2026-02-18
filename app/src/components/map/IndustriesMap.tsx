@@ -283,18 +283,18 @@ export function IndustriesMap({
             }}
           >
             <Tooltip direction="top" offset={[0, -20]}>
-              <div className="max-w-[280px]">
+              <div className="max-w-[260px]">
                 {park.company && (
-                  <p className="text-xs text-teal-700 font-semibold">{park.company}</p>
+                  <p className="text-xs text-teal-700 font-semibold truncate">{park.company}</p>
                 )}
-                <p className="font-semibold text-slate-900 text-sm">{park.name}</p>
-                <p className="text-xs text-slate-600 mt-0.5">
+                <p className="font-semibold text-slate-900 text-sm line-clamp-2">{park.name}</p>
+                <p className="text-xs text-slate-600 mt-0.5 truncate">
                   {park.location}, {park.district}
                 </p>
                 <div className="flex items-center gap-2 mt-1.5 text-xs">
                   <span
                     className={cn(
-                      "px-1.5 py-0.5 rounded text-white font-medium",
+                      "px-1.5 py-0.5 rounded text-white font-medium whitespace-nowrap",
                       park.status === "operational" && "bg-green-600",
                       park.status === "announced" && "bg-blue-600",
                       park.status === "under_construction" && "bg-amber-600"
@@ -307,7 +307,7 @@ export function IndustriesMap({
                         : "Under Construction"}
                   </span>
                   {park.investmentCrore && (
-                    <span className="text-amber-700 font-semibold">
+                    <span className="text-amber-700 font-semibold whitespace-nowrap">
                       ₹{park.investmentCrore.toLocaleString()} Cr
                     </span>
                   )}
