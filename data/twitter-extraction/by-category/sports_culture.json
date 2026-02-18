@@ -1,0 +1,423 @@
+[
+  {
+    "tweet_id": "2014620210452639950",
+    "category": "sports_culture",
+    "name_en": "Jallikattu Reforms",
+    "name_ta": "ஜல்லிக்கட்டு சீர்திருத்தங்கள்",
+    "investment_crore": 2,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Madurai",
+      "city": "Alanganallur"
+    },
+    "event_type": "announcement",
+    "date": "2026-01-23",
+    "summary_en": "CM announced Rs 2 crore for Jallikattu bull training and treatment centre in Alanganallur, priority jobs for bull tamers, and relaxation of registration rules."
+  },
+  {
+    "tweet_id": "2011450371886191064",
+    "category": "sports_culture",
+    "name_en": "Chennai Sangamam 2026",
+    "name_ta": "சென்னை சங்கமம் 2026",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Egmore"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-14",
+    "summary_en": "CM inaugurated Chennai Sangamam 2026 cultural festival at Rajarathnam Stadium to celebrate Pongal and Tamil heritage."
+  },
+  {
+    "tweet_id": "2009286535724597742",
+    "category": "sports_culture",
+    "name_en": "Chennai Book Fair 2026",
+    "name_ta": "சென்னை புத்தகக் காட்சி 2026",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Nandanam"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-08",
+    "summary_en": "CM inaugurated 49th Chennai Book Fair 2026 and unveiled Thiruvalluvar statue at YMCA grounds, Nandanam."
+  },
+  {
+    "tweet_id": "2006307442607677658",
+    "category": "sports_culture",
+    "name_en": "International Trap Shooting Range",
+    "name_ta": "சர்வதேச டிராப் மற்றும் சூட்டிங் பயிற்சி அகாடமி",
+    "investment_crore": 17.01,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Keerapakkam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-12-31",
+    "summary_en": "Deputy CM laid foundation for international standard trap shooting range at Rs 17.01 crore near Vandalur."
+  },
+  {
+    "tweet_id": "2006372800085578169",
+    "category": "sports_culture",
+    "name_en": "Sports Infrastructure Development",
+    "name_ta": "விளையாட்டு உட்கட்டமைப்பு வளர்ச்சி",
+    "investment_crore": 48.76,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-12-31",
+    "summary_en": "Deputy CM laid foundation for sports infrastructure worth Rs 48.76 crore in Chennai, Chengalpattu, Salem, and Ramanathapuram districts including natural grass football grounds and synthetic running tracks.",
+    "related_tweet_ids": [
+      "2006372800085578169",
+      "1955922469736595948"
+    ]
+  },
+  {
+    "tweet_id": "2000483028771221778",
+    "category": "sports_culture",
+    "name_en": "Carrom World Championship Cash Prize",
+    "name_ta": "கேரம் உலக போட்டி பணப்பரிசு",
+    "investment_crore": 1,
+    "jobs_created": null,
+    "beneficiaries": "Sports persons",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2025-12-15",
+    "summary_en": "CM presented Rs 1 crore cash prize to Keerthana who won medals at 7th Carrom World Championship in Maldives."
+  },
+  {
+    "tweet_id": "1997944919269498961",
+    "category": "sports_culture",
+    "name_en": "CM Mini Stadiums - 23 Constituencies",
+    "name_ta": "முதலமைச்சர் சிறு விளையாட்டரங்கங்கள் - 23 தொகுதிகள்",
+    "investment_crore": 69,
+    "jobs_created": null,
+    "beneficiaries": "Sports enthusiasts",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-12-08",
+    "summary_en": "CM laid foundation for 23 CM Mini Stadiums across constituencies at Rs 69 crore investment."
+  },
+  {
+    "tweet_id": "1994303474704765102",
+    "category": "sports_culture",
+    "name_en": "FIH Hockey Junior World Cup 2025",
+    "name_ta": "எஃப்ஐஎச் ஹாக்கி இளையோர் உலகக் கோப்பை 2025",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Sports enthusiasts",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-11-28",
+    "summary_en": "FIH Hockey Men's Junior World Cup 2025 with 24 nations to be hosted in Chennai and Madurai."
+  },
+  {
+    "tweet_id": "1982376533949104498",
+    "category": "sports_culture",
+    "name_en": "Asian Youth Games 2025 Gold Medal Cash Award",
+    "name_ta": "ஆசிய இளையோர் விளையாட்டுப் போட்டி 2025 தங்கப் பதக்க பணப்பரிசு",
+    "investment_crore": 0.5,
+    "jobs_created": null,
+    "beneficiaries": "Kabaddi players",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2025-10-26",
+    "summary_en": "CM awarded Rs 25 lakh each to Karthika and Abinesh Mohandas who won gold medals in Kabaddi at Asian Youth Games in Bahrain."
+  },
+  {
+    "tweet_id": "1978125875498631229",
+    "category": "sports_culture",
+    "name_en": "CM Trophy 2025",
+    "name_ta": "முதலமைச்சர் கோப்பை 2025",
+    "investment_crore": 37,
+    "jobs_created": null,
+    "beneficiaries": 1200000,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2025-10-14",
+    "summary_en": "CM Trophy 2025 concluded with 12 lakh participants. Rs 37 crore allocated for sports competitions"
+  },
+  {
+    "tweet_id": "1977662330092519494",
+    "category": "sports_culture",
+    "name_en": "Tourism Development Projects",
+    "name_ta": "சுற்றுலா மேம்பாட்டு திட்டங்கள்",
+    "investment_crore": 23.76,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-13",
+    "summary_en": "4 completed tourism projects worth Rs 7.46 crore inaugurated at Javvadu Hills, Kolli Hills, Ponnaniyar Dam. 5 new projects worth Rs 16.30 crore foundation laid"
+  },
+  {
+    "tweet_id": "1971607635486199897",
+    "category": "sports_culture",
+    "name_en": "Paventhar Bharathidasan Sports Ground Upgrade",
+    "name_ta": "பாவேந்தர் பாரதிதாசன் விளையாட்டுத் திடல் மேம்பாடு",
+    "investment_crore": 10.56,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Senai Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-26",
+    "summary_en": "Paventhar Bharathidasan sports ground upgraded at Rs 10.56 crore with modern facilities"
+  },
+  {
+    "tweet_id": "1959904239431696747",
+    "category": "sports_culture",
+    "name_en": "MGR Film and Television Training Institute Studio",
+    "name_ta": "எம்.ஜி.ஆர் திரைப்படம் மற்றும் தொலைக்காட்சி பயிற்சி நிறுவன படப்பிடிப்புத்தளம்",
+    "investment_crore": 5.1,
+    "jobs_created": null,
+    "beneficiaries": "Film industry trainees",
+    "location": {
+      "district": "Chennai",
+      "city": "Taramani"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-25",
+    "summary_en": "Inaugurated fully renovated air-conditioned studio at Government MGR Film and Television Training Institute"
+  },
+  {
+    "tweet_id": "1960001432851194046",
+    "category": "sports_culture",
+    "name_en": "CM Mini Stadium - GKM Colony",
+    "name_ta": "முதலமைச்சர் சிறுவிளையாட்டரங்கம் - ஜி.கே.எம். காலனி",
+    "investment_crore": 7.5,
+    "jobs_created": null,
+    "beneficiaries": "Local youth and athletes",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-25",
+    "summary_en": "Inaugurated CM Mini Stadium at GKM Colony for local sports activities"
+  },
+  {
+    "tweet_id": "1908351606866796783",
+    "category": "sports_culture",
+    "name_en": "Tamil Nadu Centre for Sports Science",
+    "name_ta": "தமிழ்நாடு விளையாட்டு அறிவியல் மையம்",
+    "investment_crore": 3,
+    "jobs_created": null,
+    "beneficiaries": "Sports Athletes",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-04",
+    "summary_en": "Deputy CM inaugurated Rs 3 crore Sports Science Centre at Nehru Stadium with modern training equipment"
+  },
+  {
+    "tweet_id": "1908351655902396683",
+    "category": "sports_culture",
+    "name_en": "Theni Indoor Stadium and Ramanathapuram Weightlifting Centre",
+    "name_ta": "தேனி பல்நோக்கு உள்விளையாட்டு அரங்கம் மற்றும் இராமநாதபுரம் பளு தூக்கும் பயிற்சி மையம்",
+    "investment_crore": 6.5,
+    "jobs_created": null,
+    "beneficiaries": "Athletes in Theni and Ramanathapuram",
+    "location": {
+      "district": "Theni, Ramanathapuram",
+      "city": "Theni, Paramakudi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-04",
+    "summary_en": "Deputy CM inaugurated Rs 6 crore multipurpose indoor stadium in Theni and Rs 50 lakh weightlifting centre in Paramakudi"
+  },
+  {
+    "tweet_id": "1886047450600771856",
+    "category": "sports_culture",
+    "name_en": "International Water Sports Academy",
+    "name_ta": "சர்வதேச நீர் விளையாட்டு அகாடமி",
+    "investment_crore": 42,
+    "jobs_created": null,
+    "beneficiaries": "Water sports athletes",
+    "location": {
+      "district": "Ramanathapuram",
+      "city": "Pirappanvalasai"
+    },
+    "event_type": "other",
+    "date": "2025-02-02",
+    "summary_en": "Dy CM inspected Rs 42 crore international standard water sports academy under construction in Ramanathapuram."
+  },
+  {
+    "tweet_id": "1876632118484402249",
+    "category": "sports_culture",
+    "name_en": "Sports Infrastructure Projects",
+    "name_ta": "விளையாட்டு உள்கட்டமைப்பு திட்டங்கள்",
+    "investment_crore": 128.83,
+    "jobs_created": null,
+    "beneficiaries": "Athletes and sports enthusiasts",
+    "location": {
+      "district": "Multiple",
+      "city": "Multiple"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-01-07",
+    "summary_en": "CM inaugurated Rs 4.93 crore indoor stadium in Yelagiri, laid foundation for district sports complexes in Tirupathur and Kallakurichi (Rs 15 crore each), Olympic Academy in Trichy (Rs 50 crore), Water Sports Academy in Ramanathapuram (Rs 42.90 crore), and 5 para sports arenas (Rs 1 crore each)."
+  },
+  {
+    "tweet_id": "1867476171773944082",
+    "category": "sports_culture",
+    "name_en": "Gukesh World Chess Champion Prize",
+    "name_ta": "குகேஷ் உலக செஸ் சாம்பியன் பரிசு",
+    "investment_crore": 5,
+    "jobs_created": null,
+    "beneficiaries": "D. Gukesh",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-12-13",
+    "summary_en": "Rs 5 crore cash prize announced for D. Gukesh, youngest World Chess Champion."
+  },
+  {
+    "tweet_id": "1847587884586434620",
+    "category": "sports_culture",
+    "name_en": "Kalaignar Sports Equipment Distribution",
+    "name_ta": "கலைஞர் விளையாட்டு உபகரணங்கள் வழங்கும் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "1480 panchayats, 1850 sports kits",
+    "location": {
+      "district": "Tiruvannamalai, Kallakurichi, Tirupathur",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-10-19",
+    "summary_en": "Distribution of 1850 sports equipment kits to approximately 1480 panchayats across three districts."
+  },
+  {
+    "tweet_id": "1842503818199597065",
+    "category": "sports_culture",
+    "name_en": "CM Trophy Sports Competition 2024",
+    "name_ta": "முதலமைச்சர் கோப்பை விளையாட்டு போட்டி 2024",
+    "investment_crore": 82,
+    "jobs_created": null,
+    "beneficiaries": "Athletes across Tamil Nadu",
+    "location": {
+      "district": null,
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2024-10-05",
+    "summary_en": "Rs.82 crore allocated for state-level CM Trophy sports competitions.",
+    "related_tweet_ids": [
+      "1842503818199597065",
+      "1820363328738267146"
+    ]
+  },
+  {
+    "tweet_id": "1838849805076041751",
+    "category": "sports_culture",
+    "name_en": "Paralympic Medal Winners Incentive",
+    "name_ta": "பாராலிம்பிக் பதக்க வெற்றியாளர்கள் ஊக்கத்தொகை",
+    "investment_crore": 5,
+    "jobs_created": null,
+    "beneficiaries": "Paralympic athletes",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-09-25",
+    "summary_en": "Rs.5 crore incentive distributed to Paris Paralympic silver and bronze medal winners."
+  },
+  {
+    "tweet_id": "1813263843805831535",
+    "category": "sports_culture",
+    "name_en": "Boxing Ground Development",
+    "name_ta": "குத்துச்சண்டை மைதான மேம்பாடு",
+    "investment_crore": 7.79,
+    "jobs_created": null,
+    "beneficiaries": "Boxing athletes",
+    "location": {
+      "district": "Chennai",
+      "city": "Gopalapuram"
+    },
+    "event_type": "other",
+    "date": "2024-07-16",
+    "summary_en": "Rs 7.79 crore boxing ground under construction in Chennai Gopalapuram with 1000 spectator capacity"
+  },
+  {
+    "tweet_id": "1813278425962193262",
+    "category": "sports_culture",
+    "name_en": "CM's Mini Sports Arena",
+    "name_ta": "முதலமைச்சர் சிறு விளையாட்டு அரங்கம்",
+    "investment_crore": 3,
+    "jobs_created": null,
+    "beneficiaries": "Local sports enthusiasts",
+    "location": {
+      "district": "Chennai",
+      "city": "Chepauk-Triplicane"
+    },
+    "event_type": "other",
+    "date": "2024-07-16",
+    "summary_en": "Rs 3 crore CM's Mini Sports Arena with hockey ground and gym under construction in Chepauk-Triplicane"
+  },
+  {
+    "tweet_id": "1802167096287326637",
+    "category": "sports_culture",
+    "name_en": "Kalaignar Sports Kit Distribution",
+    "name_ta": "கலைஞர் விளையாட்டு உபகரணங்கள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Every panchayat",
+    "location": null,
+    "event_type": "scheme_launch",
+    "date": "2024-06-15",
+    "summary_en": "Sports equipment distribution to every panchayat under Kalaignar centenary"
+  },
+  {
+    "tweet_id": "1801607201062048255",
+    "category": "sports_culture",
+    "name_en": "Coimbatore International Cricket Stadium",
+    "name_ta": "கோவை சர்வதேச கிரிக்கெட் ஸ்டேடியம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "announcement",
+    "date": "2024-06-14",
+    "summary_en": "International cricket stadium announced for Coimbatore"
+  }
+]

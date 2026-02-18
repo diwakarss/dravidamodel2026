@@ -47,8 +47,8 @@
           "type": "government"
         },
         {
-          "title": "School Education Dept GOs",
-          "url": "https://www.tn.gov.in/go_view/dept/28",
+          "title": "Illam Thedi Kalvi Official Portal",
+          "url": "https://illamthedikalvi.tnschools.gov.in/",
           "type": "government"
         }
       ]
@@ -314,9 +314,14 @@
           "type": "government"
         },
         {
-          "title": "ELCOT Student Info",
-          "url": "https://elcot.tn.gov.in/student-free-laptop",
+          "title": "ELCOT Official",
+          "url": "https://elcot.in/student-free-laptop",
           "type": "government"
+        },
+        {
+          "title": "Goodreturns - TN Free Laptop Scheme",
+          "url": "https://www.goodreturns.in/classroom/tamil-nadu-government-launches-free-laptop-scheme-for-students-2024-1333803.html",
+          "type": "media"
         }
       ]
     },
@@ -411,8 +416,13 @@
       "sources": [
         {
           "title": "School Education Dept",
-          "url": "https://www.tn.gov.in/scheme/data_view/26799",
+          "url": "https://www.tn.gov.in/dept_profile.php?dep_id=Mjg%3D",
           "type": "government"
+        },
+        {
+          "title": "Tamil Nadu Government Schemes",
+          "url": "https://www.govtschemes.in/tamil-nadu-free-laptop-scheme",
+          "type": "media"
         }
       ]
     },
@@ -456,8 +466,13 @@
       "icon": "🚌",
       "sources": [
         {
-          "title": "TN Government Schemes",
-          "url": "https://www.tn.gov.in/scheme",
+          "title": "TN Transport Dept",
+          "url": "https://www.tnstc.in/",
+          "type": "government"
+        },
+        {
+          "title": "MTC Chennai",
+          "url": "https://mtcbus.tn.gov.in/",
           "type": "government"
         }
       ]
@@ -593,7 +608,12 @@
       "sources": [
         {
           "title": "School Education Dept",
-          "url": "https://www.tn.gov.in/scheme",
+          "url": "https://www.tn.gov.in/dept_profile.php?dep_id=Mjg%3D",
+          "type": "government"
+        },
+        {
+          "title": "Textbook Corporation",
+          "url": "https://textbooksonline.tn.gov.in/",
           "type": "government"
         }
       ]

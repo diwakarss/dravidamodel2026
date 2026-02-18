@@ -1,0 +1,2418 @@
+[
+  {
+    "tweet_id": "2020845712876130628",
+    "category": "industries",
+    "name_en": "Tata Motors JLR Factory",
+    "name_ta": "டாடா மோட்டார்ஸ் JLR தொழிற்சாலை",
+    "investment_crore": 9000,
+    "jobs_created": 5000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Ranipet",
+      "city": "Panapakkam"
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-09",
+    "summary_en": "CM inaugurated first unit of Tata Motors JLR vehicle manufacturing plant built at Rs 900 crore (of total Rs 9,000 crore investment), creating 5,000 jobs at SIPCOT Panapakkam."
+  },
+  {
+    "tweet_id": "2019682017223536719",
+    "category": "industries",
+    "name_en": "Mitsubishi Electric AC Factory",
+    "name_ta": "மிட்சுபிஷி எலக்ட்ரிக் ஏசி தொழிற்சாலை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruvallur",
+      "city": "Gummidipoondi"
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-06",
+    "summary_en": "CM inaugurated Mitsubishi Electric India's air conditioner manufacturing facility in Gummidipoondi SIPCOT."
+  },
+  {
+    "tweet_id": "2019008912050225525",
+    "category": "industries",
+    "name_en": "Bulten PSM Fasteners Factory",
+    "name_ta": "புல்டன் PSM ஃபாஸ்ட்னர்ஸ் தொழிற்சாலை",
+    "investment_crore": 525,
+    "jobs_created": 2000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Kancheepuram",
+      "city": "Oragadam"
+    },
+    "event_type": "announcement",
+    "date": "2026-02-04",
+    "summary_en": "Bulten Group (Sweden) signed MoU to establish micro-fasteners manufacturing facility at Oragadam with Rs 525 crore investment creating 2,000 jobs."
+  },
+  {
+    "tweet_id": "2018247260044468642",
+    "category": "industries",
+    "name_en": "Tamil Nadu Global Tourism Summit 2026",
+    "name_ta": "தமிழ்நாடு உலகளாவிய சுற்றுலா உச்சி மாநாடு 2026",
+    "investment_crore": 22794.78,
+    "jobs_created": 65937,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Mamallapuram"
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-02",
+    "summary_en": "CM inaugurated first TN Global Tourism Summit with 127 MoUs worth Rs 22,794.78 crore committed investment and 65,937 job opportunities."
+  },
+  {
+    "tweet_id": "2017512244763120051",
+    "category": "industries",
+    "name_en": "Karaikudi TIDEL Neo IT Park",
+    "name_ta": "காரைக்குடி டைடல் நியோ IT பூங்கா",
+    "investment_crore": 28,
+    "jobs_created": 600,
+    "beneficiaries": null,
+    "location": {
+      "district": "Sivaganga",
+      "city": "Karaikudi"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-31",
+    "summary_en": "CM inaugurated 7th TIDEL Neo IT Park in Karaikudi built at Rs 28 crore on 5 acres with 50,000 sqft workspace for 600 IT professionals."
+  },
+  {
+    "tweet_id": "2016792137329688658",
+    "category": "industries",
+    "name_en": "International Textile Summit 360",
+    "name_ta": "சர்வதேச ஜவுளித் தொழில் மாநாடு 360",
+    "investment_crore": 915,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-29",
+    "summary_en": "CM inaugurated International Textile Summit in Coimbatore with 55 MoUs worth Rs 915 crore and announced 20% capital investment subsidy for modern textile machinery."
+  },
+  {
+    "tweet_id": "2013291901534036188",
+    "category": "industries",
+    "name_en": "IKEA E-commerce Launch",
+    "name_ta": "IKEA இணையவழி விற்பனை தொடக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-19",
+    "summary_en": "Industries Minister inaugurated IKEA e-commerce launch in Tamil Nadu, marking entry of world's largest home retail brand."
+  },
+  {
+    "tweet_id": "2011053347021664320",
+    "category": "industries",
+    "name_en": "Sarvam AI Sovereign AI Park",
+    "name_ta": "சர்வம் AI சார்வபௌம AI பூங்கா",
+    "investment_crore": 10000,
+    "jobs_created": 1000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2026-01-13",
+    "summary_en": "MoU signed with Sarvam AI to establish India's first Sovereign AI Park in Tamil Nadu with Rs 10,000 crore investment creating 1,000 high-skilled jobs."
+  },
+  {
+    "tweet_id": "2009610561596924173",
+    "category": "industries",
+    "name_en": "Eros Gen AI Investment MoU",
+    "name_ta": "Eros Gen AI முதலீடு புரிந்துணர்வு ஒப்பந்தம்",
+    "investment_crore": 3320,
+    "jobs_created": 1000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2026-01-09",
+    "summary_en": "MoU signed with Eros Gen AI (UK) for Rs 3,320 crore investment creating 1,000 jobs at Umagine 2026 summit."
+  },
+  {
+    "tweet_id": "2009182483468964125",
+    "category": "industries",
+    "name_en": "Umagine TN 2026 IT Summit",
+    "name_ta": "Umagine TN 2026 தகவல் தொழில்நுட்ப உச்சி மாநாடு",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Nandambakkam"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-08",
+    "summary_en": "CM inaugurated Umagine TN-2026 IT Summit and released Tamil Nadu Deep Tech Startup Policy 2025-26."
+  },
+  {
+    "tweet_id": "2008627148538736809",
+    "category": "industries",
+    "name_en": "Securin Cybersecurity Facility",
+    "name_ta": "செக்யூரின் சைபர் பாதுகாப்பு வசதி",
+    "investment_crore": 427,
+    "jobs_created": 300,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "IIT Madras Research Park"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-06",
+    "summary_en": "Industries Minister inaugurated Securin (US) cybersecurity facility at IIT Madras Research Park, investing Rs 427 crore to create 300 high-quality jobs."
+  },
+  {
+    "tweet_id": "2007090942915015104",
+    "category": "industries",
+    "name_en": "ECMS Third Tranche Approvals",
+    "name_ta": "ECMS மூன்றாம் தவணை ஒப்புதல்கள்",
+    "investment_crore": 27166,
+    "jobs_created": 23451,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": "Chennai, Hosur"
+    },
+    "event_type": "announcement",
+    "date": "2026-01-02",
+    "summary_en": "Tamil Nadu secured 69% of jobs (23,451) in ECMS third tranche with Rs 27,166 crore investments from Tata Electronics (1,500 jobs), Motherson (5,741 jobs), and Foxconn (16,210 jobs)."
+  },
+  {
+    "tweet_id": "2006785353483694230",
+    "category": "industries",
+    "name_en": "TN Industries 2025 MoU Summary",
+    "name_ta": "தமிழ்நாடு தொழில் முதலீடுகள் 2025",
+    "investment_crore": 207000,
+    "jobs_created": 400000,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2026-01-01",
+    "summary_en": "In 2025, Tamil Nadu signed over 270 MoUs worth Rs 2.07 lakh crore committed investments, creating over 4 lakh job opportunities."
+  },
+  {
+    "tweet_id": "2004439808719122528",
+    "category": "industries",
+    "name_en": "Pou Chen High Glory Footwear Factory",
+    "name_ta": "பெள சென் காலணி உற்பத்தி ஆலை",
+    "investment_crore": 2302,
+    "jobs_created": 20000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Kallakurichi",
+      "city": "Ulundurpet"
+    },
+    "event_type": "other",
+    "date": "2025-12-26",
+    "summary_en": "CM visited Pou Chen (Taiwan) High Glory Footwear facility at SIPCOT Ulundurpet investing Rs 2,302 crore to create 20,000 jobs for Nike footwear manufacturing."
+  },
+  {
+    "tweet_id": "2001579738163482754",
+    "category": "industries",
+    "name_en": "Schneider Electric Expansion",
+    "name_ta": "ஷ்னைடர் எலெக்ட்ரிக் விரிவாக்கம்",
+    "investment_crore": 718,
+    "jobs_created": 663,
+    "beneficiaries": "Manufacturing workers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-12-18",
+    "summary_en": "Schneider Electric to invest Rs 718 crore for expansion in Chennai, Coimbatore and new plant in Hosur creating 663 jobs."
+  },
+  {
+    "tweet_id": "2001589484840956336",
+    "category": "industries",
+    "name_en": "Schneider Electric MoU Investment",
+    "name_ta": "ஷ்னைடர் எலக்ட்ரிக் புரிந்துணர்வு ஒப்பந்தம்",
+    "investment_crore": 718,
+    "jobs_created": 663,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": "Chennai, Coimbatore, Hosur"
+    },
+    "event_type": "announcement",
+    "date": "2025-12-18",
+    "summary_en": "Schneider Electric signed MoU with Tamil Nadu for Rs 718 crore investment, creating 663 jobs through brownfield expansion in Chennai and Coimbatore, and new greenfield project in Hosur."
+  },
+  {
+    "tweet_id": "1999365815087632605",
+    "category": "industries",
+    "name_en": "Tamil Nadu GSDP Growth 16%",
+    "name_ta": "தமிழ்நாடு மொத்த மாநில உள்நாட்டு உற்பத்தி 16% வளர்ச்சி",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "State economy",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-12-12",
+    "summary_en": "RBI reports Tamil Nadu achieved 16% nominal GSDP growth - highest among large states, reaching Rs 31.19 lakh crore."
+  },
+  {
+    "tweet_id": "1998451540420612243",
+    "category": "industries",
+    "name_en": "JioHotstar Content Production MoU",
+    "name_ta": "ஜியோஹாட்ஸ்டார் உள்ளடக்க உற்பத்தி புரிந்துணர்வு ஒப்பந்தம்",
+    "investment_crore": 4000,
+    "jobs_created": null,
+    "beneficiaries": "Film and media industry",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-12-09",
+    "summary_en": "Rs 4,000 crore MoU signed with JioHotstar for film and web series content production in Tamil Nadu."
+  },
+  {
+    "tweet_id": "1997742612451926378",
+    "category": "industries",
+    "name_en": "Pei Hai Group Footwear Manufacturing",
+    "name_ta": "பீஹாய் குழுமம் காலணி உற்பத்தி",
+    "investment_crore": 720,
+    "jobs_created": 15000,
+    "beneficiaries": "Women workers",
+    "location": {
+      "district": "Madurai",
+      "city": "Melur"
+    },
+    "event_type": "announcement",
+    "date": "2025-12-07",
+    "summary_en": "Taiwan's Pei Hai Group to invest Rs 720 crore at SIPCOT Melur creating 15,000 jobs, majority for women."
+  },
+  {
+    "tweet_id": "1996763320502956045",
+    "category": "industries",
+    "name_en": "BIG Tech Gorilla Glass Manufacturing Plant",
+    "name_ta": "பிக் டெக் கோரில்லா கண்ணாடி உற்பத்தி ஆலை",
+    "investment_crore": 1003,
+    "jobs_created": 840,
+    "beneficiaries": "Electronics manufacturing workers",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Pillaipakkam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-05",
+    "summary_en": "CM inaugurated Corning-Optiemus JV BIG Tech's Rs 1003 crore Gorilla Glass manufacturing plant creating 840 jobs - India's first."
+  },
+  {
+    "tweet_id": "1996926555969532067",
+    "category": "industries",
+    "name_en": "VinFast Electric Vehicles Plant Expansion",
+    "name_ta": "வின்ஃபாஸ்ட் மின்சார வாகன ஆலை விரிவாக்கம்",
+    "investment_crore": 4150,
+    "jobs_created": null,
+    "beneficiaries": "EV manufacturing workers",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "announcement",
+    "date": "2025-12-05",
+    "summary_en": "VinFast expanding Thoothukudi plant with $500 million investment in 500 acres for electric buses and scooters manufacturing."
+  },
+  {
+    "tweet_id": "1996603535148962129",
+    "category": "industries",
+    "name_en": "Tsugami Precision Engineering Expansion",
+    "name_ta": "சுகாமி துல்லிய பொறியியல் விரிவாக்கம்",
+    "investment_crore": 250,
+    "jobs_created": 500,
+    "beneficiaries": "Manufacturing workers",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Vallam Vadagal"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-04",
+    "summary_en": "Japanese company Tsugami expanded with Rs 250 crore investment creating 500 jobs for CNC equipment manufacturing."
+  },
+  {
+    "tweet_id": "1995414437482893459",
+    "category": "industries",
+    "name_en": "Wonderla Amusement Park Chennai",
+    "name_ta": "வொண்டர்லா பொழுதுபோக்கு பூங்கா சென்னை",
+    "investment_crore": 611,
+    "jobs_created": 1000,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Thiruporur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-01",
+    "summary_en": "CM inaugurated Wonderla's largest amusement park in India at Rs 611 crore investment creating 1000 jobs with 43 rides."
+  },
+  {
+    "tweet_id": "1993672279923061088",
+    "category": "industries",
+    "name_en": "Sakthi Aircraft Manufacturing Hub",
+    "name_ta": "சக்தி ஏர்கிராப்ட் உற்பத்தி மையம்",
+    "investment_crore": 500,
+    "jobs_created": 1200,
+    "beneficiaries": "Aerospace industry workers",
+    "location": {
+      "district": "Tiruppur",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-11-26",
+    "summary_en": "Sakthi Aircraft to set up 2/4-seater trainer aircraft manufacturing hub in Tiruppur with Rs 500 crore investment creating 1,200 jobs."
+  },
+  {
+    "tweet_id": "1993692554009903539",
+    "category": "industries",
+    "name_en": "Mindox Semiconductor Equipment Manufacturing",
+    "name_ta": "மைண்டாக்ஸ் செமிகண்டக்டர் உபகரண உற்பத்தி",
+    "investment_crore": 398,
+    "jobs_created": 460,
+    "beneficiaries": "Semiconductor industry workers",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "announcement",
+    "date": "2025-11-26",
+    "summary_en": "Mindox Techno to invest Rs 398 crore for semiconductor equipment manufacturing facility in Coimbatore creating 460 jobs."
+  },
+  {
+    "tweet_id": "1993323887044841686",
+    "category": "industries",
+    "name_en": "Pumps and Motors Centre of Excellence",
+    "name_ta": "பம்புகள் மற்றும் மோட்டார் திறன்மிகு மையம்",
+    "investment_crore": 14.43,
+    "jobs_created": null,
+    "beneficiaries": "Pump and motor manufacturers",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Avarampalayam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-11-25",
+    "summary_en": "CM laid foundation for Advanced Pumps and Motors Centre of Excellence at Rs 14.43 crore in Coimbatore."
+  },
+  {
+    "tweet_id": "1993324785015964081",
+    "category": "industries",
+    "name_en": "Foundry Skill and Castings Development Centre",
+    "name_ta": "வார்ப்பு திறன் மற்றும் மேம்பாட்டு மையம்",
+    "investment_crore": 26.5,
+    "jobs_created": null,
+    "beneficiaries": "Foundry industry workers",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Moopperipalayam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-11-25",
+    "summary_en": "CM laid foundation for Foundry Skill and Castings Development Centre at Rs 26.50 crore in Coimbatore."
+  },
+  {
+    "tweet_id": "1993325771436458277",
+    "category": "industries",
+    "name_en": "TN Rising Coimbatore - Investment MoUs",
+    "name_ta": "டிஎன் ரைசிங் கோயம்புத்தூர் - முதலீட்டு புரிந்துணர்வு ஒப்பந்தங்கள்",
+    "investment_crore": 43844,
+    "jobs_created": 100709,
+    "beneficiaries": "Job seekers across Tamil Nadu",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "announcement",
+    "date": "2025-11-25",
+    "summary_en": "At TN Rising Coimbatore, 158 MoUs signed worth Rs 43,844 crore investment creating 1,00,709 jobs."
+  },
+  {
+    "tweet_id": "1991880682889748626",
+    "category": "industries",
+    "name_en": "Lloyd's List Intelligence Centre of Excellence Chennai",
+    "name_ta": "லாய்ட்ஸ் லிஸ்ட் இன்டலிஜென்ஸ் சிறப்பு மையம் சென்னை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "IT professionals",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-21",
+    "summary_en": "290-year-old Lloyd's List Intelligence inaugurated GCC in Chennai processing 1 billion maritime data points daily."
+  },
+  {
+    "tweet_id": "1988884708114006391",
+    "category": "industries",
+    "name_en": "SCM Garments Manufacturing Unit Mannargudi",
+    "name_ta": "எஸ்சிஎம் ஆடை உற்பத்தி அலகு மன்னார்குடி",
+    "investment_crore": 50,
+    "jobs_created": 2500,
+    "beneficiaries": "Rural women workers",
+    "location": {
+      "district": "Tiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "announcement",
+    "date": "2025-11-13",
+    "summary_en": "MoU signed with SCM Garments (Chennai Silks Group) for Rs 50 crore investment creating 2500 jobs in garment manufacturing."
+  },
+  {
+    "tweet_id": "1988884365527642613",
+    "category": "industries",
+    "name_en": "Anna Silk Sales Complex Renovation Kanchipuram",
+    "name_ta": "அண்ணா பட்டு விற்பனை வளாகம் புனரமைப்பு காஞ்சிபுரம்",
+    "investment_crore": 3,
+    "jobs_created": null,
+    "beneficiaries": "Silk weavers",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Kanchipuram"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-13",
+    "summary_en": "CM inaugurated renovated Anna Silk Sales Complex rebuilt at Rs 3 crore for Kanchipuram silk weavers cooperative."
+  },
+  {
+    "tweet_id": "1985988690955624793",
+    "category": "industries",
+    "name_en": "Vellore Mini TIDEL Park",
+    "name_ta": "வேலூர் மினி டைடல் பூங்கா",
+    "investment_crore": 32,
+    "jobs_created": 600,
+    "beneficiaries": "IT professionals",
+    "location": {
+      "district": "Vellore",
+      "city": "Vellore"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-05",
+    "summary_en": "CM inaugurated Vellore Mini TIDEL Park built at Rs 32 crore creating 600 IT job opportunities."
+  },
+  {
+    "tweet_id": "1985901681557856712",
+    "category": "industries",
+    "name_en": "HD Supply GCC Chennai",
+    "name_ta": "எச்டி சப்ளை ஜிசிசி சென்னை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "IT professionals",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-05",
+    "summary_en": "HD Supply inaugurated its first-ever GCC in India in Chennai focusing on digital transformation and AI-driven analytics."
+  },
+  {
+    "tweet_id": "1984162268205215871",
+    "category": "industries",
+    "name_en": "Ford Motor Company Return to Tamil Nadu",
+    "name_ta": "ஃபோர்டு நிறுவனம் தமிழ்நாடு திரும்புதல்",
+    "investment_crore": 3250,
+    "jobs_created": 600,
+    "beneficiaries": "Auto industry workers",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Maraimalai Nagar"
+    },
+    "event_type": "announcement",
+    "date": "2025-10-31",
+    "summary_en": "Ford to invest Rs 3,250 crore and create 600 jobs to restart Chennai facility for next-gen engine manufacturing."
+  },
+  {
+    "tweet_id": "1983814701932073468",
+    "category": "industries",
+    "name_en": "India Maritime Week MoUs - Chennai, Kamarajar, VOC Ports",
+    "name_ta": "இந்திய கடல் வாரம் புரிந்துணர்வு ஒப்பந்தங்கள்",
+    "investment_crore": 120000,
+    "jobs_created": null,
+    "beneficiaries": "Port workers and maritime sector",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-10-30",
+    "summary_en": "Tamil Nadu port authorities signed MoUs worth Rs 1.2 lakh crore including Rs 42,000 crore for Chennai Port and Rs 80,000 crore for VOC Port."
+  },
+  {
+    "tweet_id": "1983457095534919952",
+    "category": "industries",
+    "name_en": "Maritime and Shipbuilding MoUs at India Maritime Week",
+    "name_ta": "இந்திய கடல் வாரம் கப்பல் கட்டும் புரிந்துணர்வு ஒப்பந்தங்கள்",
+    "investment_crore": 30000,
+    "jobs_created": 55000,
+    "beneficiaries": "Maritime industry workers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-10-29",
+    "summary_en": "MoUs worth Rs 30,000 crore signed in shipbuilding sector creating 55,000 new jobs at India Maritime Week 2025."
+  },
+  {
+    "tweet_id": "1982812508286230538",
+    "category": "industries",
+    "name_en": "Electronics Component Manufacturing Scheme",
+    "name_ta": "மின்னணு உதிரிபாகங்கள் உற்பத்தி திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Electronics manufacturers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-10-27",
+    "summary_en": "Tamil Nadu leads with 5 out of 7 approved projects and 77% of investments in Union Government's ECMS scheme first round."
+  },
+  {
+    "tweet_id": "1980874295971876899",
+    "category": "industries",
+    "name_en": "Startup Grant Scheme - Rs 10 Lakh",
+    "name_ta": "ஸ்டார்ட்அப் மானியத் திட்டம் - ரூ.10 லட்சம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Startups",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-10-21",
+    "summary_en": "TN Government providing Rs 10 lakh grant to startups under the startup ecosystem development program."
+  },
+  {
+    "tweet_id": "1978454638396666186",
+    "category": "industries",
+    "name_en": "Hitachi Energy GCC Expansion",
+    "name_ta": "ஹிட்டாச்சி எனர்ஜி உலகளாவிய திறன் மையம் விரிவாக்கம்",
+    "investment_crore": 2000,
+    "jobs_created": 3000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Porur"
+    },
+    "event_type": "announcement",
+    "date": "2025-10-15",
+    "summary_en": "Hitachi Energy to expand Global Technology and Innovation Centre in Chennai with Rs 2000 crore investment, creating 3000 jobs over 5 years"
+  },
+  {
+    "tweet_id": "1977615850397106201",
+    "category": "industries",
+    "name_en": "Foxconn Investment Commitment",
+    "name_ta": "பாக்ஸ்கான் முதலீட்டு உறுதி",
+    "investment_crore": 15000,
+    "jobs_created": 14000,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-10-13",
+    "summary_en": "Foxconn commits Rs 15,000 crore investment and 14,000 high-value engineering jobs. India's first Foxconn Desk to be set up at Guidance TN"
+  },
+  {
+    "tweet_id": "1977660669903458465",
+    "category": "industries",
+    "name_en": "SIPCOT Early Childhood Care Centres and Mega Food Parks",
+    "name_ta": "சிப்காட் குழந்தைகள் காப்பகங்கள் மற்றும் மெகா உணவு பூங்காக்கள்",
+    "investment_crore": 190,
+    "jobs_created": 1000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Theni",
+      "city": "Tindivanam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-13",
+    "summary_en": "16 childcare centres in SIPCOT parks, Mega Food Parks in Theni (Rs 70 cr, 123 acres) and Tindivanam (Rs 120 cr, 158 acres) inaugurated"
+  },
+  {
+    "tweet_id": "1977664376946700293",
+    "category": "industries",
+    "name_en": "Mega Food Parks Theni and Tindivanam",
+    "name_ta": "மெகா உணவு பூங்காக்கள் தேனி மற்றும் திண்டிவனம்",
+    "investment_crore": 190,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Theni",
+      "city": "Tindivanam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-13",
+    "summary_en": "Tindivanam Mega Food Park (Rs 120 cr, 157.91 acres) and Theni Mega Food Park (Rs 70 cr, 123.49 acres) inaugurated"
+  },
+  {
+    "tweet_id": "1977043899131802078",
+    "category": "industries",
+    "name_en": "Kolathur Ornamental Fish Trade Centre",
+    "name_ta": "கொளத்தூர் வண்ணமீன் வர்த்தக மையம்",
+    "investment_crore": 53,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Villivakkam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-11",
+    "summary_en": "India's first international-standard ornamental fish trade centre built at Rs 53 crore at Villivakkam inaugurated"
+  },
+  {
+    "tweet_id": "1976541517541261393",
+    "category": "industries",
+    "name_en": "Staples First Global GCC",
+    "name_ta": "ஸ்டேப்பிள்ஸ் முதல் உலகளாவிய திறன் மையம்",
+    "investment_crore": 100,
+    "jobs_created": 600,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-10",
+    "summary_en": "Staples inaugurated its first-ever GCC worldwide in Chennai with Rs 100+ crore investment, creating 600-1000 tech jobs"
+  },
+  {
+    "tweet_id": "1976200319852749272",
+    "category": "industries",
+    "name_en": "Global StartUp Summit 2025",
+    "name_ta": "உலக புத்தொழில் மாநாடு 2025",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "other",
+    "date": "2025-10-09",
+    "summary_en": "Global StartUp Summit 2025 launched in Coimbatore with focus on social justice in startups - women, SC/ST, rural entrepreneurs"
+  },
+  {
+    "tweet_id": "1976217951020704066",
+    "category": "industries",
+    "name_en": "Gold Jewellery Park Coimbatore",
+    "name_ta": "தங்கநகை பூங்கா கோயம்புத்தூர்",
+    "investment_crore": 126.12,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Kurichi"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-10-09",
+    "summary_en": "Foundation laid for Gold Jewellery Park at SIDCO Kurichi with total investment of Rs 126.12 crore (Phase 1: Rs 81.40 crore)"
+  },
+  {
+    "tweet_id": "1975475556276965465",
+    "category": "industries",
+    "name_en": "AeroDefCon 2025",
+    "name_ta": "AeroDefCon 2025 வான்வெளி மற்றும் பாதுகாப்பு மாநாடு",
+    "investment_crore": 23000,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2025-10-07",
+    "summary_en": "AeroDefCon 2025 launched with 300+ enterprises and 8000+ B2B meetings. TN Defence Industrial Corridor has Rs 23,000 crore investments"
+  },
+  {
+    "tweet_id": "1974429093543448661",
+    "category": "industries",
+    "name_en": "TIDEL Park Tiruchirappalli",
+    "name_ta": "டைடல் பார்க் திருச்சிராப்பள்ளி",
+    "investment_crore": 403,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruchirappalli",
+      "city": "Panjappur"
+    },
+    "event_type": "other",
+    "date": "2025-10-04",
+    "summary_en": "TIDEL Park under construction at Rs 403 crore over 14.16 acres with 5.58 lakh sq ft workspace across 6 floors"
+  },
+  {
+    "tweet_id": "1970696304302137847",
+    "category": "industries",
+    "name_en": "Reliance Consumer Products Manufacturing Facility",
+    "name_ta": "ரிலையன்ஸ் நுகர்வோர் பொருட்கள் உற்பத்தி தொழிற்சாலை",
+    "investment_crore": 1156,
+    "jobs_created": 2000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Allikulam"
+    },
+    "event_type": "announcement",
+    "date": "2025-09-24",
+    "summary_en": "Reliance Consumer Products to invest Rs 1156 crore for integrated FMCG manufacturing over 60 acres, creating 2000 jobs in 5 years"
+  },
+  {
+    "tweet_id": "1969300568830328908",
+    "category": "industries",
+    "name_en": "Cochin Shipyard and Mazagon Dock Shipyards",
+    "name_ta": "கொச்சின் கப்பல் கட்டுமான தளம் மற்றும் மசகான் டாக்",
+    "investment_crore": 30000,
+    "jobs_created": 55000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thoothukudi",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-09-20",
+    "summary_en": "Two ultra mega shipyard MoUs signed - Cochin Shipyard Rs 15000 crore (10000 jobs) and Mazagon Dock Rs 15000 crore (45000 jobs)"
+  },
+  {
+    "tweet_id": "1968994686108045558",
+    "category": "industries",
+    "name_en": "Equinix Data Centre Siruseri",
+    "name_ta": "ஈக்வினிக்ஸ் தரவு மையம் சிறுசேரி",
+    "investment_crore": 574,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Siruseri"
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-19",
+    "summary_en": "Equinix data centre inaugurated with Rs 574 crore investment at SIPCOT Siruseri, placing Chennai on global digital grid"
+  },
+  {
+    "tweet_id": "1967887882758320495",
+    "category": "industries",
+    "name_en": "SIDCO Industrial Estate Developments",
+    "name_ta": "சிட்கோ தொழிற்பேட்டை வளர்ச்சி",
+    "investment_crore": 145.91,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-16",
+    "summary_en": "4 new industrial estates worth Rs 67.34 crore inaugurated, 20 new projects worth Rs 78.57 crore foundation laid across districts"
+  },
+  {
+    "tweet_id": "1966059842076102667",
+    "category": "industries",
+    "name_en": "TNRising Hosur Investors Conclave",
+    "name_ta": "TNRising ஓசூர் முதலீட்டாளர்கள் மாநாடு",
+    "investment_crore": 24307,
+    "jobs_created": 49353,
+    "beneficiaries": null,
+    "location": {
+      "district": "Krishnagiri",
+      "city": "Hosur"
+    },
+    "event_type": "announcement",
+    "date": "2025-09-11",
+    "summary_en": "92 MoUs signed worth Rs 24,307 crore creating 49,353 jobs across large industries and MSMEs at Hosur Conclave"
+  },
+  {
+    "tweet_id": "1966063354084245741",
+    "category": "industries",
+    "name_en": "Hosur New Industrial Projects Groundbreaking",
+    "name_ta": "ஓசூர் புதிய தொழில் திட்டங்கள் அடிக்கல்",
+    "investment_crore": 1210,
+    "jobs_created": 7900,
+    "beneficiaries": null,
+    "location": {
+      "district": "Krishnagiri",
+      "city": "Hosur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-09-11",
+    "summary_en": "Foundation stone laid for 4 new projects worth Rs 1210 crore creating 7900 jobs at Hosur"
+  },
+  {
+    "tweet_id": "1966064410532942323",
+    "category": "industries",
+    "name_en": "Hosur Completed Projects Inauguration",
+    "name_ta": "ஓசூர் முடிவுற்ற திட்டங்கள் திறப்பு",
+    "investment_crore": 250,
+    "jobs_created": 1100,
+    "beneficiaries": null,
+    "location": {
+      "district": "Krishnagiri",
+      "city": "Hosur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-11",
+    "summary_en": "3 completed projects worth Rs 250 crore inaugurated, creating 1100 jobs"
+  },
+  {
+    "tweet_id": "1966084291395518784",
+    "category": "industries",
+    "name_en": "Ascent Circuits PCB Manufacturing Unit 2",
+    "name_ta": "அசென்ட் சர்க்யூட்ஸ் PCB உற்பத்தி அலகு 2",
+    "investment_crore": 1100,
+    "jobs_created": 1200,
+    "beneficiaries": null,
+    "location": {
+      "district": "Krishnagiri",
+      "city": "Hosur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-09-11",
+    "summary_en": "Ascent Circuits to establish India's largest PCB manufacturing facility with Rs 1100 crore investment at ELCOT SEZ Hosur"
+  },
+  {
+    "tweet_id": "1964239390588489926",
+    "category": "industries",
+    "name_en": "Hinduja Group EV Battery and Charging Infrastructure",
+    "name_ta": "இந்துஜா குழுமம் மின்சார வாகன பேட்டரி மற்றும் சார்ஜிங் நிலையம்",
+    "investment_crore": 7500,
+    "jobs_created": 1000,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-09-06",
+    "summary_en": "Hinduja Group to invest Rs 7500 crore in EV cell/battery manufacturing, BESS, and charging stations, creating 1000+ jobs"
+  },
+  {
+    "tweet_id": "1964240250714091695",
+    "category": "industries",
+    "name_en": "AstraZeneca GITC Expansion",
+    "name_ta": "அஸ்ட்ரா ஜெனெகா உலகளாவிய கண்டுபிடிப்பு மையம் விரிவாக்கம்",
+    "investment_crore": 176,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2025-09-06",
+    "summary_en": "AstraZeneca to expand its Global Innovation and Technology Centre in Chennai with Rs 176 crore investment"
+  },
+  {
+    "tweet_id": "1964321291277857240",
+    "category": "industries",
+    "name_en": "TNRising Europe Total Investment",
+    "name_ta": "TNRising ஐரோப்பா மொத்த முதலீடு",
+    "investment_crore": 15516,
+    "jobs_created": 17613,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-09-06",
+    "summary_en": "CM Europe mission secured Rs 15,516 crore in investments across UK and Germany, generating 17,613 jobs"
+  },
+  {
+    "tweet_id": "1963271020946546743",
+    "category": "industries",
+    "name_en": "UK Investment MoUs - Wilson Power and Labels Britannia",
+    "name_ta": "இங்கிலாந்து முதலீட்டு புரிந்துணர்வு ஒப்பந்தங்கள்",
+    "investment_crore": 820,
+    "jobs_created": 1093,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruppur",
+      "city": "Namakkal"
+    },
+    "event_type": "announcement",
+    "date": "2025-09-03",
+    "summary_en": "Wilson Power investing Rs 300 crore (543 jobs) for transformers, Labels Britannia Rs 520 crore (550 jobs) for RFID manufacturing"
+  },
+  {
+    "tweet_id": "1962685657790456071",
+    "category": "industries",
+    "name_en": "TNRising Germany Conclave MoUs",
+    "name_ta": "TNRising ஜெர்மனி மாநாடு புரிந்துணர்வு ஒப்பந்தங்கள்",
+    "investment_crore": 7020,
+    "jobs_created": 15320,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": "Dusseldorf, Germany"
+    },
+    "event_type": "announcement",
+    "date": "2025-09-02",
+    "summary_en": "26 MoUs worth Rs 7020 crore signed during Germany visit, generating 15,320 jobs for Tamil Nadu"
+  },
+  {
+    "tweet_id": "1962556618547384686",
+    "category": "industries",
+    "name_en": "Knorr-Bremse Railway Components Manufacturing",
+    "name_ta": "நார்-பிரெம்ஸ் ரயில்வே பாகங்கள் உற்பத்தி",
+    "investment_crore": 2000,
+    "jobs_created": 3500,
+    "beneficiaries": null,
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2025-09-01",
+    "summary_en": "Knorr-Bremse to invest Rs 2000 crore for railway doors and braking systems manufacturing facility, creating 3500 jobs"
+  },
+  {
+    "tweet_id": "1962557762925400215",
+    "category": "industries",
+    "name_en": "ebm-papst GCC and Manufacturing Expansion",
+    "name_ta": "ebm-papst உலகளாவிய திறன் மையம் விரிவாக்கம்",
+    "investment_crore": 201,
+    "jobs_created": 250,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2025-09-01",
+    "summary_en": "ebm-papst to invest Rs 201 crore over 5 years expanding GCC and manufacturing base, creating 250 jobs in HVAC and automotive"
+  },
+  {
+    "tweet_id": "1962560744819696030",
+    "category": "industries",
+    "name_en": "Nordex Wind Turbine Manufacturing Expansion",
+    "name_ta": "நார்டெக்ஸ் காற்றாலை உற்பத்தி விரிவாக்கம்",
+    "investment_crore": 1000,
+    "jobs_created": 2500,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruvallur",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-09-01",
+    "summary_en": "Nordex Group to expand wind turbine manufacturing plant with Rs 1000 crore investment, creating 2500 jobs"
+  },
+  {
+    "tweet_id": "1961827824547049969",
+    "category": "industries",
+    "name_en": "Tamil Nadu Investment Promotion - Total MoUs",
+    "name_ta": "தமிழ்நாடு முதலீட்டு ஊக்குவிப்பு",
+    "investment_crore": 1062752,
+    "jobs_created": 3281032,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-08-30",
+    "summary_en": "Since 2021, Tamil Nadu signed 922 MoUs worth Rs 10,62,752 crore creating 32,81,032 jobs"
+  },
+  {
+    "tweet_id": "1958911353047196043",
+    "category": "industries",
+    "name_en": "Hwaseung Footwear Plant MoU",
+    "name_ta": "ஹ்வாசியங் காலணி ஆலை புரிந்துணர்வு ஒப்பந்தம்",
+    "investment_crore": 1720,
+    "jobs_created": 20000,
+    "beneficiaries": "Southern Tamil Nadu workforce",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-08-22",
+    "summary_en": "South Korea's Hwaseung Footwear Group committed Rs 1,720 crore for first India production base creating nearly 20,000 direct jobs"
+  },
+  {
+    "tweet_id": "1955898492540559739",
+    "category": "industries",
+    "name_en": "Hikoki Power Tools Manufacturing Plant",
+    "name_ta": "ஹிகோகி பவர் டூல்ஸ் உற்பத்தி ஆலை",
+    "investment_crore": 700,
+    "jobs_created": 1302,
+    "beneficiaries": "Chengalpattu workforce",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Mahindra World City"
+    },
+    "event_type": "announcement",
+    "date": "2025-08-14",
+    "summary_en": "Signed MoU with Japan's Hikoki Power Tools for Rs 700 crore manufacturing plant creating 1,302 jobs"
+  },
+  {
+    "tweet_id": "1955992380227903643",
+    "category": "industries",
+    "name_en": "Cabinet Industrial Projects Approval",
+    "name_ta": "அமைச்சரவை தொழில் திட்ட ஒப்புதல்",
+    "investment_crore": 1937.76,
+    "jobs_created": 13409,
+    "beneficiaries": "Tamil Nadu workforce",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-08-14",
+    "summary_en": "Cabinet approved industrial projects worth Rs 1,937.76 crore creating 13,409 jobs including PayPal and American Express from CM's US visit"
+  },
+  {
+    "tweet_id": "1954816686370025973",
+    "category": "industries",
+    "name_en": "Tiruppur Mini TIDEL Park",
+    "name_ta": "திருப்பூர் மினி டைடல் பூங்கா",
+    "investment_crore": 39.44,
+    "jobs_created": null,
+    "beneficiaries": "IT professionals",
+    "location": {
+      "district": "Tiruppur",
+      "city": "Thirumuruganpoondi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-11",
+    "summary_en": "Inaugurated Tiruppur Mini TIDEL Park to bring IT infrastructure to textile hub"
+  },
+  {
+    "tweet_id": "1952280581292609578",
+    "category": "industries",
+    "name_en": "VinFast EV Manufacturing Plant",
+    "name_ta": "வின்ஃபாஸ்ட் மின் வாகன உற்பத்தி ஆலை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Thoothukudi workers",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Silanathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-04",
+    "summary_en": "Inaugurated VinFast electric vehicle manufacturing plant at SIPCOT Silanathur Industrial Park"
+  },
+  {
+    "tweet_id": "1952287065011351701",
+    "category": "industries",
+    "name_en": "Thoothukudi Investors Conclave MoUs",
+    "name_ta": "தூத்துக்குடி முதலீட்டாளர்கள் மாநாடு புரிந்துணர்வு ஒப்பந்தங்கள்",
+    "investment_crore": 32554,
+    "jobs_created": 49845,
+    "beneficiaries": "Southern Tamil Nadu workforce",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "announcement",
+    "date": "2025-08-04",
+    "summary_en": "Signed 41 MoUs worth Rs 32,554 crore investment committing to create 49,845 jobs across defence, electronics, green energy, food processing"
+  },
+  {
+    "tweet_id": "1952288070390218848",
+    "category": "industries",
+    "name_en": "Thoothukudi Industrial Projects Launch",
+    "name_ta": "தூத்துக்குடி தொழில் திட்டங்கள் துவக்கம்",
+    "investment_crore": 1230,
+    "jobs_created": 3100,
+    "beneficiaries": "Local workforce",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-04",
+    "summary_en": "Inaugurated commercial production of 4 completed projects from Pro1Health, Nanda Devi Bio Energy, Britannia, and YEEMAK"
+  },
+  {
+    "tweet_id": "1951197710306226176",
+    "category": "industries",
+    "name_en": "Mini TIDEL Park - Thiruvannamalai",
+    "name_ta": "மினி டைடல் பூங்கா - திருவண்ணாமலை",
+    "investment_crore": 37,
+    "jobs_created": 600,
+    "beneficiaries": "IT professionals",
+    "location": {
+      "district": "Thiruvannamalai",
+      "city": "Thiruvannamalai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-08-01",
+    "summary_en": "Laid foundation for Mini TIDEL Park with 63,200 sq ft construction area creating 600 IT jobs"
+  },
+  {
+    "tweet_id": "1944692310614347851",
+    "category": "industries",
+    "name_en": "Guidance Japan Desk - Osaka",
+    "name_ta": "கைடன்ஸ் ஜப்பான் டெஸ்க் - ஒசாகா",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Japanese investors",
+    "location": {
+      "district": null,
+      "city": "Osaka"
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-14",
+    "summary_en": "Opened Guidance Tamil Nadu desk in Osaka, Japan to facilitate trade, investment and cultural exchange with 580+ Japanese establishments in TN"
+  },
+  {
+    "tweet_id": "1943241189030777285",
+    "category": "industries",
+    "name_en": "VinFast EV Manufacturing Plant - Workforce Recruitment",
+    "name_ta": "வின்ஃபாஸ்ட் மின் வாகன ஆலை - பணியாளர் சேர்ப்பு",
+    "investment_crore": null,
+    "jobs_created": 13000,
+    "beneficiaries": "200 Tamil Nadu polytechnic students",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "other",
+    "date": "2025-07-10",
+    "summary_en": "VinFast recruited first 200 team members from Tamil Nadu under Naan Mudhalvan scheme for upcoming EV plant expected to create 13,000 jobs"
+  },
+  {
+    "tweet_id": "1939931785351024964",
+    "category": "industries",
+    "name_en": "PM MITRA Park Virudhunagar",
+    "name_ta": "பிஎம் மித்ரா பூங்கா விருதுநகர்",
+    "investment_crore": 1894,
+    "jobs_created": 100000,
+    "beneficiaries": "Textile sector workers",
+    "location": {
+      "district": "Virudhunagar",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-07-01",
+    "summary_en": "Approved 1052-acre textile park with Rs 10000 crore target investment and 1 lakh jobs, completion by Sept 2026"
+  },
+  {
+    "tweet_id": "1933087184145567819",
+    "category": "industries",
+    "name_en": "Salem Integrated Textile Park and Library",
+    "name_ta": "சேலம் ஒருங்கிணைந்த ஜவுளிப் பூங்கா",
+    "investment_crore": 1444.54,
+    "jobs_created": null,
+    "beneficiaries": "101203 beneficiaries",
+    "location": {
+      "district": "Salem",
+      "city": "Salem"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-06-12",
+    "summary_en": "Foundation for Rs 880 crore textile park, Rs 100 crore library, and other projects totaling Rs 1244.28 crore; opened Rs 200.26 crore completed works"
+  },
+  {
+    "tweet_id": "1930180022888985030",
+    "category": "industries",
+    "name_en": "Agile Robots and SOL Industrial Plants",
+    "name_ta": "அஜைல் ரோபோட்ஸ் மற்றும் SOL தொழிற்சாலைகள்",
+    "investment_crore": 475,
+    "jobs_created": 300,
+    "beneficiaries": "Industrial workers",
+    "location": {
+      "district": "Kanchipuram/Ranipet",
+      "city": "Irungattukottai/Ranipet"
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-04",
+    "summary_en": "Inaugurated Rs 300 crore AI robotics plant by Agile Robots and Rs 175 crore air separation unit by SOL"
+  },
+  {
+    "tweet_id": "1925781883616432217",
+    "category": "industries",
+    "name_en": "Hosur Tidal Park",
+    "name_ta": "ஓசூர் டைடல் பார்க்",
+    "investment_crore": 400,
+    "jobs_created": null,
+    "beneficiaries": "IT sector employees",
+    "location": {
+      "district": "Krishnagiri",
+      "city": "Hosur"
+    },
+    "event_type": "announcement",
+    "date": "2025-05-23",
+    "summary_en": "Tender floated for Rs 400 crore Tidal Park in Hosur with 5 lakh sq ft high-grade office facilities"
+  },
+  {
+    "tweet_id": "1920439802811593140",
+    "category": "industries",
+    "name_en": "Hyundai Mobis EV Battery Assembly Plant",
+    "name_ta": "Hyundai Mobis மின்வாகன பேட்டரி அசெம்பிளி ஆலை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Sriperumbudur Residents",
+    "location": {
+      "district": "Kancheepuram",
+      "city": "Sriperumbudur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-08",
+    "summary_en": "Industries Minister inaugurated Hyundai Mobis EV battery system assembly plant, advancing EV component localization"
+  },
+  {
+    "tweet_id": "1917082137909727428",
+    "category": "industries",
+    "name_en": "SIPCOT Industrial Park Kallakurichi",
+    "name_ta": "சிப்காட் தொழிற்பூங்கா கள்ளக்குறிச்சி",
+    "investment_crore": 650,
+    "jobs_created": 9000,
+    "beneficiaries": "Kallakurichi Residents",
+    "location": {
+      "district": "Kallakurichi",
+      "city": "Chinnasalem"
+    },
+    "event_type": "announcement",
+    "date": "2025-04-29",
+    "summary_en": "New SIPCOT Industrial Park announced on 450 acres with Rs 650 crore investment creating 9000 jobs"
+  },
+  {
+    "tweet_id": "1917177657424486734",
+    "category": "industries",
+    "name_en": "Non-Leather Footwear Park Tirupathur",
+    "name_ta": "தோல் அல்லாத காலணி உற்பத்தி பூங்கா திருப்பத்தூர்",
+    "investment_crore": 250,
+    "jobs_created": 2500,
+    "beneficiaries": "Tirupathur Residents, especially women",
+    "location": {
+      "district": "Tirupathur",
+      "city": "Natrampalli"
+    },
+    "event_type": "announcement",
+    "date": "2025-04-29",
+    "summary_en": "New non-leather footwear park on 125 acres with Rs 250 crore investment creating 2500 jobs, focus on women employment"
+  },
+  {
+    "tweet_id": "1916839457703313524",
+    "category": "industries",
+    "name_en": "Workday Global Capability Centre",
+    "name_ta": "Workday உலகளாவிய திறன் மையம்",
+    "investment_crore": 220,
+    "jobs_created": 3000,
+    "beneficiaries": "Chennai IT Professionals",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2025-04-28",
+    "summary_en": "Fortune 500 company Workday signed MoU for Rs 220 crore GCC in Chennai creating up to 3000 AI-focused jobs"
+  },
+  {
+    "tweet_id": "1916096932273074192",
+    "category": "industries",
+    "name_en": "Indo-Taiwan Industrial Park MoU",
+    "name_ta": "இந்தோ-தைவான் தொழிற்பூங்கா புரிந்துணர்வு",
+    "investment_crore": 1800,
+    "jobs_created": 5000,
+    "beneficiaries": "Chennai Region",
+    "location": {
+      "district": "Chennai",
+      "city": "Near Chennai"
+    },
+    "event_type": "other",
+    "date": "2025-04-26",
+    "summary_en": "Guidance TN signed MoU with Taiwan Chamber of Commerce for Rs 1800 crore industrial park creating 5000 jobs"
+  },
+  {
+    "tweet_id": "1915762851387674889",
+    "category": "industries",
+    "name_en": "Industrial Workers Accommodation and Mini TIDEL Park",
+    "name_ta": "தொழிலாளர் தங்குமிட வசதிகள் மற்றும் மினி டைடல் பூங்கா",
+    "investment_crore": 120,
+    "jobs_created": 600,
+    "beneficiaries": "Industrial Workers",
+    "location": {
+      "district": "Kancheepuram, Nagapattinam",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-04-25",
+    "summary_en": "Assembly announced Rs 120 crore for 2000 worker beds in Kancheepuram and Mini TIDEL Park in Nagapattinam creating 600 jobs"
+  },
+  {
+    "tweet_id": "1913081032464876028",
+    "category": "industries",
+    "name_en": "Mitsubishi Electric India Factory",
+    "name_ta": "மிட்சுபிஷி எலக்ட்ரிக் இந்தியா ஆலை",
+    "investment_crore": 1891,
+    "jobs_created": null,
+    "beneficiaries": "Thiruvallur Residents",
+    "location": {
+      "district": "Thiruvallur",
+      "city": "Gummidipoondi"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-04-18",
+    "summary_en": "CM laid foundation for Mitsubishi Electric's Rs 1891 crore factory on 52 acres at Mahindra Origins"
+  },
+  {
+    "tweet_id": "1912712516758827139",
+    "category": "industries",
+    "name_en": "Tiruppur Textile Exports Record",
+    "name_ta": "திருப்பூர் ஜவுளி ஏற்றுமதி சாதனை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Tiruppur Textile Industry",
+    "location": {
+      "district": "Tiruppur",
+      "city": "Tiruppur"
+    },
+    "event_type": "other",
+    "date": "2025-04-17",
+    "summary_en": "Tiruppur achieved record Rs 40,000 crore in textile exports in FY25, up 20% from previous year"
+  },
+  {
+    "tweet_id": "1912783720396017898",
+    "category": "industries",
+    "name_en": "Sify AI-Ready Data Centre",
+    "name_ta": "சிஃபி ஏ.ஐ. ரெடி டேட்டா சென்டர்",
+    "investment_crore": 1882,
+    "jobs_created": 1000,
+    "beneficiaries": "Chennai Residents",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Siruseri"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-17",
+    "summary_en": "CM inaugurated South India's first 130MW AI-ready data centre by Sify at Rs 1882 crore creating 1000 direct jobs"
+  },
+  {
+    "tweet_id": "1912895312194412983",
+    "category": "industries",
+    "name_en": "Tamil Nadu Space Industrial Policy 2025",
+    "name_ta": "தமிழ்நாடு விண்வெளித் தொழில் கொள்கை 2025",
+    "investment_crore": 10000,
+    "jobs_created": 10000,
+    "beneficiaries": "Space Tech Industry",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-04-17",
+    "summary_en": "Cabinet approved Space Industrial Policy 2025 targeting Rs 10,000 crore investments and 10,000 high-value jobs"
+  },
+  {
+    "tweet_id": "1911376985093230853",
+    "category": "industries",
+    "name_en": "Ola Roadster X Motorcycle Launch",
+    "name_ta": "Ola Roadster X மோட்டார்சைக்கிள் வெளியீடு",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Tamil Nadu Residents",
+    "location": {
+      "district": "Krishnagiri",
+      "city": "Krishnagiri"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-13",
+    "summary_en": "Ola Electric rolled out first Roadster X motorcycle from FutureFactory, reinforcing TN as India's EV hub"
+  },
+  {
+    "tweet_id": "1909879950397632837",
+    "category": "industries",
+    "name_en": "Dixon Technologies Laptop Manufacturing Plant",
+    "name_ta": "Dixon Technologies மடிக்கணினி உற்பத்தி ஆலை",
+    "investment_crore": 1000,
+    "jobs_created": 5000,
+    "beneficiaries": "Kancheepuram Residents",
+    "location": {
+      "district": "Kancheepuram",
+      "city": "Oragadam"
+    },
+    "event_type": "other",
+    "date": "2025-04-09",
+    "summary_en": "Dixon Technologies signed MoU for Rs 1000 crore laptop manufacturing plant creating 5000 jobs at Indospace Park"
+  },
+  {
+    "tweet_id": "1908147469730324991",
+    "category": "industries",
+    "name_en": "EBM-Papst Third Facility Chennai",
+    "name_ta": "EBM-Papst மூன்றாவது ஆலை சென்னை",
+    "investment_crore": 340,
+    "jobs_created": 700,
+    "beneficiaries": "Chennai Residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-04-04",
+    "summary_en": "German fan manufacturer EBM-Papst broke ground on Rs 340 crore third facility creating 700+ jobs on 14.2 acres"
+  },
+  {
+    "tweet_id": "1907375547430420916",
+    "category": "industries",
+    "name_en": "Allison Transmission Facility Expansion",
+    "name_ta": "Allison Transmission ஆலை விரிவாக்கம்",
+    "investment_crore": 1219,
+    "jobs_created": null,
+    "beneficiaries": "Oragadam Residents",
+    "location": {
+      "district": "Kancheepuram",
+      "city": "Oragadam, Sriperumbudur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-02",
+    "summary_en": "Inaugurated Allison Transmission's expanded facility with Rs 456 crore initial + Rs 763 crore additional investment"
+  },
+  {
+    "tweet_id": "1904461165696299456",
+    "category": "industries",
+    "name_en": "MSME Facilities - Industrial Estates and Common Facility Centres",
+    "name_ta": "குறு சிறு நடுத்தர நிறுவன வசதிகள்",
+    "investment_crore": 133.32,
+    "jobs_created": null,
+    "beneficiaries": "MSME Entrepreneurs",
+    "location": {
+      "district": null,
+      "city": "Salem, Coimbatore, Kancheepuram, Cuddalore, Thiruvarur, Thoothukudi, Erode, Kanyakumari"
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-25",
+    "summary_en": "CM inaugurated silver anklet production complex, workers hostel, 5 industrial estates and 5 common facility centres totaling Rs 133.32 crore"
+  },
+  {
+    "tweet_id": "1900906485695340663",
+    "category": "industries",
+    "name_en": "Zetwerk Electronics Manufacturing Facility",
+    "name_ta": "Zetwerk மின்னணு உற்பத்தி ஆலை",
+    "investment_crore": null,
+    "jobs_created": 1500,
+    "beneficiaries": "Sriperumbudur Residents",
+    "location": {
+      "district": "Kancheepuram",
+      "city": "Sriperumbudur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-15",
+    "summary_en": "Industries Minister inaugurated Zetwerk's IT hardware and electronics manufacturing facility creating 1500 jobs"
+  },
+  {
+    "tweet_id": "1900475967753339389",
+    "category": "industries",
+    "name_en": "TN Budget 2025-26 Industrial Announcements",
+    "name_ta": "தமிழ்நாடு பட்ஜெட் 2025-26 தொழில்துறை அறிவிப்புகள்",
+    "investment_crore": null,
+    "jobs_created": 30000,
+    "beneficiaries": "Tamil Nadu Residents",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-03-14",
+    "summary_en": "Budget announced TIDCO Global City, Semiconductor Parks in Coimbatore, Maritime Transport Policy creating 30000 jobs, new airport in Rameshwaram"
+  },
+  {
+    "tweet_id": "1899022455207088175",
+    "category": "industries",
+    "name_en": "Godrej Consumer Products Factory",
+    "name_ta": "கோத்ரெஜ் கன்ஸ்யூமர் ப்ராடக்ட்ஸ் உற்பத்தி ஆலை",
+    "investment_crore": 515,
+    "jobs_created": 1000,
+    "beneficiaries": "Chengalpattu Residents",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Kunnappattu"
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-10",
+    "summary_en": "CM inaugurated Godrej's Rs 515 crore world-class manufacturing plant creating 1000 jobs, 50% for women and differently-abled"
+  },
+  {
+    "tweet_id": "1897941237426274524",
+    "category": "industries",
+    "name_en": "Eaton Electric India Power Management Centre",
+    "name_ta": "ஈட்டன் எலக்ட்ரிக் இந்தியா உயர்தர மின் மேலாண்மை கருவிகள் உற்பத்தி மையம்",
+    "investment_crore": 200,
+    "jobs_created": 500,
+    "beneficiaries": "Chennai Residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Sholinganallur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-03-07",
+    "summary_en": "CM laid foundation stone for Eaton Electric's Rs 200 crore R&D and manufacturing centre creating 500 jobs"
+  },
+  {
+    "tweet_id": "1896467864221344031",
+    "category": "industries",
+    "name_en": "Vedaranyam SIPCOT Industrial Park",
+    "name_ta": "வேதாரண்யம் சிப்காட் தொழிற்பேட்டை",
+    "investment_crore": 250,
+    "jobs_created": null,
+    "beneficiaries": "Local job seekers",
+    "location": {
+      "district": "Nagapattinam",
+      "city": "Vedaranyam"
+    },
+    "event_type": "announcement",
+    "date": "2025-03-03",
+    "summary_en": "CM announced new SIPCOT industrial park in Vedaranyam on 450 acres with Rs 250 crore investment to create jobs for local youth."
+  },
+  {
+    "tweet_id": "1894673067860701484",
+    "category": "industries",
+    "name_en": "Evervan Kothari Footwear MoU",
+    "name_ta": "எவர்வான் கோத்தாரி காலணி ஒப்பந்தம்",
+    "investment_crore": 5000,
+    "jobs_created": 50000,
+    "beneficiaries": "Job seekers in Karur and Perambalur",
+    "location": {
+      "district": "Karur, Perambalur",
+      "city": "Karur, Eraiyur"
+    },
+    "event_type": "other",
+    "date": "2025-02-26",
+    "summary_en": "MoU signed for Evervan Kothari Footwear to invest Rs 5000 crore for non-leather footwear manufacturing (Adidas) creating 50,000 jobs."
+  },
+  {
+    "tweet_id": "1894334442338226650",
+    "category": "industries",
+    "name_en": "CtrlS Chennai Datacenter Park",
+    "name_ta": "CtrlS சென்னை தரவு மையம்",
+    "investment_crore": 4000,
+    "jobs_created": 9500,
+    "beneficiaries": "IT companies and digital economy",
+    "location": {
+      "district": "Chennai",
+      "city": "Ambattur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-25",
+    "summary_en": "CM inaugurated CtrlS AI-ready hyperscale datacenter with Rs 4000 crore investment, 72 MW IT load capacity, earthquake-resistant, creating 500 direct and 9000 indirect jobs."
+  },
+  {
+    "tweet_id": "1887446606079009274",
+    "category": "industries",
+    "name_en": "Tata Power Solar Plant Gangaikondan",
+    "name_ta": "டாடா பவர் சோலார் ஆலை கங்கைகொண்டான்",
+    "investment_crore": 3800,
+    "jobs_created": 4000,
+    "beneficiaries": "Local job seekers, 80% women",
+    "location": {
+      "district": "Tirunelveli",
+      "city": "Gangaikondan"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-06",
+    "summary_en": "CM inaugurated India's largest integrated solar cell and module plant (4.3 GW) by Tata Power Solar with Rs 3800 crore investment creating 4000 jobs, 80% for women."
+  },
+  {
+    "tweet_id": "1887463505076625602",
+    "category": "industries",
+    "name_en": "Vikram Solar Plant Foundation",
+    "name_ta": "விக்ரம் சோலார் ஆலை அடிக்கல்",
+    "investment_crore": 2574,
+    "jobs_created": 2500,
+    "beneficiaries": "Local job seekers",
+    "location": {
+      "district": "Tirunelveli",
+      "city": "Gangaikondan"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-02-06",
+    "summary_en": "CM laid foundation for Vikram Solar's Rs 2574 crore plant to produce 3 GW solar cells and 6 GW modules creating 2500 jobs."
+  },
+  {
+    "tweet_id": "1884524118596325576",
+    "category": "industries",
+    "name_en": "Unity Mall Co-Optex Complex",
+    "name_ta": "கோ-ஆப்டெக்ஸ் ஒருங்கிணைந்த வளாகம்",
+    "investment_crore": 227,
+    "jobs_created": null,
+    "beneficiaries": "Handloom weavers and traders",
+    "location": {
+      "district": "Chennai",
+      "city": "Egmore"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-01-29",
+    "summary_en": "CM laid foundation for Rs 227 crore Unity Mall integrated complex at Co-Optex campus in Egmore for handloom sector."
+  },
+  {
+    "tweet_id": "1880548927096971658",
+    "category": "industries",
+    "name_en": "Dabur Factory Environmental Clearance",
+    "name_ta": "டாபர் தொழிற்சாலை சுற்றுச்சூழல் அனுமதி",
+    "investment_crore": 400,
+    "jobs_created": 250,
+    "beneficiaries": "Local employment seekers",
+    "location": {
+      "district": "Villupuram",
+      "city": "Tindivanam"
+    },
+    "event_type": "announcement",
+    "date": "2025-01-18",
+    "summary_en": "Environmental clearance granted for Dabur factory in Tindivanam SIPCOT food park with Rs 400 crore investment creating 250 jobs."
+  },
+  {
+    "tweet_id": "1868571684610460771",
+    "category": "industries",
+    "name_en": "Hong Fu Footwear Factory Ranipet",
+    "name_ta": "ஹோங்ஃபு காலணி தொழிற்சாலை ராணிப்பேட்டை",
+    "investment_crore": 1500,
+    "jobs_created": 25000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Ranipet",
+      "city": "Panappakkam SIPCOT"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-12-16",
+    "summary_en": "Foundation stone for Taiwan's Hong Fu footwear factory with Rs 1500 crore investment and 25,000 jobs."
+  },
+  {
+    "tweet_id": "1859875605225013706",
+    "category": "industries",
+    "name_en": "Precision Engineering and Technology Cluster",
+    "name_ta": "துல்லிய பொறியியல் மற்றும் தொழில்நுட்ப மையம்",
+    "investment_crore": 18.18,
+    "jobs_created": null,
+    "beneficiaries": "300000+ MSMEs",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Thirumudivakkam SIDCO"
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-22",
+    "summary_en": "First-of-kind precision engineering center for MSMEs in South India at Rs 18.18 crore benefiting 3 lakh MSMEs."
+  },
+  {
+    "tweet_id": "1857299261680951359",
+    "category": "industries",
+    "name_en": "Dean Shoes Footwear Factory Ariyalur",
+    "name_ta": "டீன் ஷூஸ் காலணி தொழிற்சாலை அரியலூர்",
+    "investment_crore": 1000,
+    "jobs_created": 15000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Ariyalur",
+      "city": "Jayamkondam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-11-15",
+    "summary_en": "Foundation stone for Dean Shoes/Freetrend non-leather footwear factory with Rs 1000 crore investment creating 15,000+ jobs."
+  },
+  {
+    "tweet_id": "1857444909940187399",
+    "category": "industries",
+    "name_en": "Dean Shoes Factory Ariyalur - Groundbreaking",
+    "name_ta": "டீன் ஷூஸ் தொழிற்சாலை அரியலூர்",
+    "investment_crore": 1000,
+    "jobs_created": 15000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Ariyalur",
+      "city": "Jayamkondam Mahimapuram"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-11-15",
+    "summary_en": "Dean Shoes factory groundbreaking with Rs 1000 crore investment and 15,000 jobs."
+  },
+  {
+    "tweet_id": "1856998001555673396",
+    "category": "industries",
+    "name_en": "Lubrizol-Polyhose Medical Tubing Partnership",
+    "name_ta": "லூப்ரிசால்-பாலிஹோஸ் மருத்துவ குழாய் கூட்டாண்மை",
+    "investment_crore": 200,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-11-14",
+    "summary_en": "MedTech sector partnership for medical tubing production with Rs 200 crore investment."
+  },
+  {
+    "tweet_id": "1856678772243882191",
+    "category": "industries",
+    "name_en": "Allison Transmission Chennai Plant Expansion",
+    "name_ta": "ஆலிசன் டிரான்ஸ்மிஷன் சென்னை ஆலை விரிவாக்கம்",
+    "investment_crore": 763,
+    "jobs_created": 167,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2024-11-13",
+    "summary_en": "Allison Transmission expanding Chennai facility with $92 million (Rs 763 crore) investment, doubling size and creating 167 jobs."
+  },
+  {
+    "tweet_id": "1855528577086669126",
+    "category": "industries",
+    "name_en": "SIPCOT Aruppukkottai Industrial Park",
+    "name_ta": "சிப்காட் அருப்புக்கோட்டை தொழில் பூங்கா",
+    "investment_crore": 350,
+    "jobs_created": 10000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Virudhunagar",
+      "city": "Aruppukkottai"
+    },
+    "event_type": "announcement",
+    "date": "2024-11-10",
+    "summary_en": "New 400-acre SIPCOT announced at Rs 350 crore creating 10,000 jobs."
+  },
+  {
+    "tweet_id": "1854101959550369891",
+    "category": "industries",
+    "name_en": "Gold Jewelry Industrial Park Coimbatore",
+    "name_ta": "தங்க நகை தொழில் பூங்கா",
+    "investment_crore": 126,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Kurichi"
+    },
+    "event_type": "announcement",
+    "date": "2024-11-06",
+    "summary_en": "Rs 126 crore allocated for gold jewelry industrial park to benefit goldsmiths."
+  },
+  {
+    "tweet_id": "1849114031413400034",
+    "category": "industries",
+    "name_en": "Mahindra Passive Safety Lab and Advanced Cell Research Laboratory",
+    "name_ta": "மகேந்திரா பாதுகாப்பு ஆய்வகம் மற்றும் செல் ஆராய்ச்சி ஆய்வகம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruvannamalai",
+      "city": "Cheyyar"
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-23",
+    "summary_en": "Inauguration of Mahindra's Passive Safety Lab and Advanced Cell Research Laboratory for automotive R&D."
+  },
+  {
+    "tweet_id": "1844259621772591568",
+    "category": "industries",
+    "name_en": "Mizuho Bank GCC Chennai",
+    "name_ta": "மிசுஹோ வங்கி GCC சென்னை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2024-10-10",
+    "summary_en": "Mizuho Bank, a 145-year-old Japanese institution, establishing its largest Global Capability Centre (GCC) in the world in Chennai. Chennai hosts 15% of India's BFSI GCCs."
+  },
+  {
+    "tweet_id": "1843578007534862725",
+    "category": "industries",
+    "name_en": "TN Cabinet Approved Projects October 2024",
+    "name_ta": "அமைச்சரவை அங்கீகரித்த திட்டங்கள் அக்டோபர் 2024",
+    "investment_crore": 38698,
+    "jobs_created": 46931,
+    "beneficiaries": "Job seekers in 12 districts",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-10-08",
+    "summary_en": "Cabinet approved 14 projects across auto, EV, electronics, green energy, telecom, and advanced manufacturing sectors."
+  },
+  {
+    "tweet_id": "1842266010600034325",
+    "category": "industries",
+    "name_en": "Trichy TIDEL Park",
+    "name_ta": "திருச்சி டைடல் பூங்கா",
+    "investment_crore": 315,
+    "jobs_created": 5000,
+    "beneficiaries": "IT professionals",
+    "location": {
+      "district": "Tiruchirappalli",
+      "city": "Panchappur"
+    },
+    "event_type": "other",
+    "date": "2024-10-04",
+    "summary_en": "Tender called for new TIDEL Park at Trichy Panchappur in 5.58 lakh sq ft."
+  },
+  {
+    "tweet_id": "1835628997771919438",
+    "category": "industries",
+    "name_en": "Tata-JLR Manufacturing Plant Ranipet",
+    "name_ta": "டாடா-JLR உற்பத்தி ஆலை ராணிப்பேட்டை",
+    "investment_crore": 9000,
+    "jobs_created": 5000,
+    "beneficiaries": "Ranipet region workers",
+    "location": {
+      "district": "Ranipet",
+      "city": "Panapakkam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-09-28",
+    "summary_en": "Foundation stone for Jaguar Land Rover manufacturing plant at SIPCOT Panapakkam."
+  },
+  {
+    "tweet_id": "1839932868123873740",
+    "category": "industries",
+    "name_en": "Tata Motors Vehicle Manufacturing Plant Ranipet",
+    "name_ta": "டாடா மோட்டார்ஸ் வாகன உற்பத்தி ஆலை ராணிப்பேட்டை",
+    "investment_crore": 9000,
+    "jobs_created": 5000,
+    "beneficiaries": "Auto sector workers",
+    "location": {
+      "district": "Ranipet",
+      "city": "Panapakkam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-09-28",
+    "summary_en": "Foundation stone laid for Tata Motors JLR vehicle manufacturing plant at SIPCOT Panapakkam."
+  },
+  {
+    "tweet_id": "1838109972799815996",
+    "category": "industries",
+    "name_en": "Mini TIDEL Parks Thanjavur and Salem",
+    "name_ta": "மினி டைடல் பூங்காக்கள் தஞ்சாவூர் மற்றும் சேலம்",
+    "investment_crore": 60,
+    "jobs_created": null,
+    "beneficiaries": "IT professionals in tier-2 cities",
+    "location": {
+      "district": "Thanjavur",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-09-23",
+    "summary_en": "Mini TIDEL Parks inaugurated at Thanjavur (Rs.30.50 cr) and Salem (Rs.29.50 cr) for IT sector growth."
+  },
+  {
+    "tweet_id": "1837399489553789281",
+    "category": "industries",
+    "name_en": "Michelin Passenger Car Tyre Plant Expansion",
+    "name_ta": "மிச்செலின் கார் டயர் ஆலை விரிவாக்கம்",
+    "investment_crore": 563.67,
+    "jobs_created": null,
+    "beneficiaries": "Auto sector workers",
+    "location": {
+      "district": "Tiruvallur",
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-09-21",
+    "summary_en": "Foundation laid for Michelin's expanded facility with Industry 5.0 principles and AI automation."
+  },
+  {
+    "tweet_id": "1834850047634423885",
+    "category": "industries",
+    "name_en": "US Trip Total Investment MoUs",
+    "name_ta": "அமெரிக்க பயணம் மொத்த முதலீடு",
+    "investment_crore": 7616,
+    "jobs_created": 11516,
+    "beneficiaries": "Job seekers across Tamil Nadu",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-09-14",
+    "summary_en": "Total 19 MoUs signed during CM's US trip worth Rs.7,616 crore creating 11,516 jobs."
+  },
+  {
+    "tweet_id": "1834092182359474261",
+    "category": "industries",
+    "name_en": "Caterpillar Manufacturing Expansion",
+    "name_ta": "கேட்டர்பில்லர் உற்பத்தி விரிவாக்கம்",
+    "investment_crore": 500,
+    "jobs_created": null,
+    "beneficiaries": "Manufacturing workers",
+    "location": {
+      "district": "Tiruvallur",
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-09-12",
+    "summary_en": "MoU to expand construction equipment manufacturing at Tiruvallur and Krishnagiri."
+  },
+  {
+    "tweet_id": "1833317787030458492",
+    "category": "industries",
+    "name_en": "Jabil Electronics Manufacturing Facility Trichy",
+    "name_ta": "ஜாபில் மின்னணு உற்பத்தி ஆலை திருச்சி",
+    "investment_crore": 2000,
+    "jobs_created": 5000,
+    "beneficiaries": "Central zone residents",
+    "location": {
+      "district": "Tiruchirappalli",
+      "city": "Manapparai"
+    },
+    "event_type": "other",
+    "date": "2024-09-10",
+    "summary_en": "Apple supplier Jabil to establish electronics manufacturing facility creating third major electronics cluster in TN."
+  },
+  {
+    "tweet_id": "1833369199286362134",
+    "category": "industries",
+    "name_en": "Rockwell Automation Expansion",
+    "name_ta": "ராக்வெல் ஆட்டோமேஷன் விரிவாக்கம்",
+    "investment_crore": 666,
+    "jobs_created": 365,
+    "beneficiaries": "Electronics workers",
+    "location": {
+      "district": "Kanchipuram",
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-09-10",
+    "summary_en": "MoU for electronics manufacturing expansion at Kanchipuram."
+  },
+  {
+    "tweet_id": "1831915138468758007",
+    "category": "industries",
+    "name_en": "Lincoln Electric, Vishay Precision, Visteon MoUs",
+    "name_ta": "லிங்கன் எலக்ட்ரிக், விஷய், விஸ்டியன் ஒப்பந்தங்கள்",
+    "investment_crore": 850,
+    "jobs_created": null,
+    "beneficiaries": "Manufacturing workers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-09-06",
+    "summary_en": "MoUs worth Rs.850 crore with Lincoln Electric (Rs.500 cr), Vishay Precision (Rs.100 cr), and Visteon (Rs.250 cr)."
+  },
+  {
+    "tweet_id": "1831543830996513123",
+    "category": "industries",
+    "name_en": "Trilliant Development and Manufacturing Centre",
+    "name_ta": "ட்ரில்லியன்ட் உற்பத்தி மற்றும் மேம்பாட்டு மையம்",
+    "investment_crore": 2000,
+    "jobs_created": null,
+    "beneficiaries": "Tech workers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-09-05",
+    "summary_en": "MoU for Development and Global Support Centre and manufacturing facility in Tamil Nadu."
+  },
+  {
+    "tweet_id": "1831188479625334801",
+    "category": "industries",
+    "name_en": "Eaton R&D and Engineering Centre",
+    "name_ta": "ஈட்டன் ஆராய்ச்சி மற்றும் பொறியியல் மையம்",
+    "investment_crore": 200,
+    "jobs_created": 500,
+    "beneficiaries": "Engineers",
+    "location": {
+      "district": "Chennai",
+      "city": "Perungudi"
+    },
+    "event_type": "other",
+    "date": "2024-09-04",
+    "summary_en": "MoU for Eaton's manufacturing expansion and Global Utility Engineering Centre at Chennai."
+  },
+  {
+    "tweet_id": "1830119905804632549",
+    "category": "industries",
+    "name_en": "Ohmium Green Hydrogen Factory",
+    "name_ta": "ஓமியம் பசுமை ஹைட்ரஜன் ஆலை",
+    "investment_crore": 400,
+    "jobs_created": 500,
+    "beneficiaries": "Green energy sector workers",
+    "location": {
+      "district": "Chengalpattu",
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-09-01",
+    "summary_en": "MoU for electrolyzer manufacturing and green hydrogen production facility."
+  },
+  {
+    "tweet_id": "1829377456547242018",
+    "category": "industries",
+    "name_en": "US Investment Conclave Day 1 - San Francisco MoUs",
+    "name_ta": "அமெரிக்க முதலீட்டு மாநாடு - சான்பிரான்சிஸ்கோ",
+    "investment_crore": 900,
+    "jobs_created": 4100,
+    "beneficiaries": "Job seekers in Chennai, Coimbatore, Madurai",
+    "location": {
+      "district": null,
+      "city": "San Francisco"
+    },
+    "event_type": "other",
+    "date": "2024-08-30",
+    "summary_en": "MoUs signed with Nokia, PayPal, Yield Engineering Systems, Microchip, Infinx, Applied Materials totaling Rs.900 crore and 4,100 jobs."
+  },
+  {
+    "tweet_id": "1829384794452676968",
+    "category": "industries",
+    "name_en": "Microchip R&D Center",
+    "name_ta": "மைக்ரோசிப் ஆராய்ச்சி மையம்",
+    "investment_crore": 250,
+    "jobs_created": 1500,
+    "beneficiaries": "Semiconductor engineers",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2024-08-30",
+    "summary_en": "MoU for R&D Center in semiconductor technology at Chennai."
+  },
+  {
+    "tweet_id": "1829386155470762319",
+    "category": "industries",
+    "name_en": "Nokia R&D Centre Siruseri",
+    "name_ta": "நோக்கியா ஆராய்ச்சி மையம் சிறுசேரி",
+    "investment_crore": 450,
+    "jobs_created": 100,
+    "beneficiaries": "Telecom engineers",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Siruseri"
+    },
+    "event_type": "other",
+    "date": "2024-08-30",
+    "summary_en": "MoU for world's largest fixed network testing facility R&D center at SIPCOT Siruseri."
+  },
+  {
+    "tweet_id": "1829387925588742258",
+    "category": "industries",
+    "name_en": "Yield Engineering Systems Manufacturing Facility",
+    "name_ta": "ஈல்ட் இன்ஜினியரிங் சிஸ்டம்ஸ் உற்பத்தி ஆலை",
+    "investment_crore": 150,
+    "jobs_created": 300,
+    "beneficiaries": "Semiconductor equipment workers",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Sulur"
+    },
+    "event_type": "other",
+    "date": "2024-08-30",
+    "summary_en": "MoU for semiconductor equipment product development and manufacturing facility."
+  },
+  {
+    "tweet_id": "1829392253368115243",
+    "category": "industries",
+    "name_en": "Infinx Healthcare Technology Center",
+    "name_ta": "இன்பினிக்ஸ் தொழில்நுட்ப மையம்",
+    "investment_crore": 50,
+    "jobs_created": 700,
+    "beneficiaries": "IT professionals",
+    "location": {
+      "district": "Madurai",
+      "city": "Madurai"
+    },
+    "event_type": "other",
+    "date": "2024-08-30",
+    "summary_en": "MoU for Technology and Global Delivery Center at ELCOT Madurai."
+  },
+  {
+    "tweet_id": "1826502789205291317",
+    "category": "industries",
+    "name_en": "Dabur India Manufacturing Plant",
+    "name_ta": "டாபர் இந்தியா உற்பத்தி ஆலை",
+    "investment_crore": 400,
+    "jobs_created": 250,
+    "beneficiaries": "Farmers in Delta region",
+    "location": {
+      "district": "Villupuram",
+      "city": "Tindivanam"
+    },
+    "event_type": "other",
+    "date": "2024-08-22",
+    "summary_en": "Dabur's first manufacturing plant in South India to be established at SIPCOT Food Park Tindivanam."
+  },
+  {
+    "tweet_id": "1826182028234293360",
+    "category": "industries",
+    "name_en": "Tamil Nadu Investment Conclave 2024 - Foundation Stone Projects",
+    "name_ta": "தமிழ்நாடு முதலீட்டாளர் மாநாடு 2024 - அடிக்கல் திட்டங்கள்",
+    "investment_crore": 51157,
+    "jobs_created": 41835,
+    "beneficiaries": "Job seekers across Tamil Nadu",
+    "location": {
+      "district": null,
+      "city": "Chennai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-08-21",
+    "summary_en": "Foundation stone laid for 28 industrial projects with Rs.51,157 crore investment creating 41,835 jobs."
+  },
+  {
+    "tweet_id": "1826182757560807787",
+    "category": "industries",
+    "name_en": "Tamil Nadu Investment Conclave 2024 - Inaugurated Projects",
+    "name_ta": "தமிழ்நாடு முதலீட்டாளர் மாநாடு 2024 - திறப்பு திட்டங்கள்",
+    "investment_crore": 17616,
+    "jobs_created": 64968,
+    "beneficiaries": "Job seekers across Tamil Nadu",
+    "location": {
+      "district": null,
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-21",
+    "summary_en": "19 industrial projects inaugurated with Rs.17,616 crore investment creating 64,968 jobs."
+  },
+  {
+    "tweet_id": "1826181157551305183",
+    "category": "industries",
+    "name_en": "TN ENGINE - Engineering and Innovation Centre",
+    "name_ta": "தமிழ்நாடு பொறியியல் மற்றும் புத்தாக்க மையம்",
+    "investment_crore": 400,
+    "jobs_created": null,
+    "beneficiaries": "Industry partners and innovators",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-08-21",
+    "summary_en": "TIDCO and Tata Technologies joint venture to establish public engineering facility at Anna University Coimbatore campus."
+  },
+  {
+    "tweet_id": "1824720032321933561",
+    "category": "industries",
+    "name_en": "SIPCOT Industrial Housing Facility Vallam Vadagal",
+    "name_ta": "சிப்காட் தொழிலாளர் குடியிருப்பு வளாகம்",
+    "investment_crore": 706.5,
+    "jobs_created": null,
+    "beneficiaries": "18,720 women workers",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Vallam Vadagal"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-17",
+    "summary_en": "India's first mega industrial housing facility for 18,720 Foxconn women workers inaugurated at Thiruperumpudur."
+  },
+  {
+    "tweet_id": "1823289843927163042",
+    "category": "industries",
+    "name_en": "Cabinet Approval for 15 Industrial Projects",
+    "name_ta": "15 தொழில் திட்டங்களுக்கு அமைச்சரவை ஒப்புதல்",
+    "investment_crore": 44125,
+    "jobs_created": 24700,
+    "beneficiaries": "Industrial workforce",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-08-13",
+    "summary_en": "Cabinet approved 15 industrial projects worth Rs 44,125 crore creating 24,700 jobs"
+  },
+  {
+    "tweet_id": "1822321122580246669",
+    "category": "industries",
+    "name_en": "Coimbatore Airport Expansion Land Acquisition",
+    "name_ta": "கோவை விமான நிலைய விரிவாக்க நில கையகப்படுத்தல்",
+    "investment_crore": 2100,
+    "jobs_created": null,
+    "beneficiaries": "Air travelers",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "other",
+    "date": "2024-08-10",
+    "summary_en": "All preliminary land acquisition works completed for Coimbatore Airport expansion worth Rs 2100 crore"
+  },
+  {
+    "tweet_id": "1822452397911798152",
+    "category": "industries",
+    "name_en": "Barclays Office Expansion Chennai",
+    "name_ta": "பார்க்ளேஸ் அலுவலக விரிவாக்கம் சென்னை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "IT sector workforce",
+    "location": {
+      "district": "Chennai",
+      "city": "Porur"
+    },
+    "event_type": "other",
+    "date": "2024-08-04",
+    "summary_en": "Barclays leased additional 1.45 lakh sq.ft office space in DLF Cybercity Porur"
+  },
+  {
+    "tweet_id": "1819738524398313877",
+    "category": "industries",
+    "name_en": "Motherson Electronics Factory",
+    "name_ta": "மதர்சன் எலக்ட்ரானிக்ஸ் தொழிற்சாலை",
+    "investment_crore": 1800,
+    "jobs_created": null,
+    "beneficiaries": "Electronics manufacturing sector",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Sriperumbudur"
+    },
+    "event_type": "announcement",
+    "date": "2024-08-02",
+    "summary_en": "Motherson Electronics to set up Rs 1800 crore factory in Sriperumbudur"
+  },
+  {
+    "tweet_id": "1818941372688150752",
+    "category": "industries",
+    "name_en": "Vaanam Space Tech Accelerator",
+    "name_ta": "வானம் விண்வெளி தொழில்நுட்ப முடுக்கி",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Space tech startups",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-08-01",
+    "summary_en": "Vaanam - India's first private sector-specific space tech accelerator launched in Tamil Nadu"
+  },
+  {
+    "tweet_id": "1819055890130989538",
+    "category": "industries",
+    "name_en": "SIPCOT Industrial Innovation Centre Madurai",
+    "name_ta": "சிப்காட் தொழில் புத்தாக்க மையம் மதுரை",
+    "investment_crore": 24,
+    "jobs_created": null,
+    "beneficiaries": "Startups and entrepreneurs in southern districts",
+    "location": {
+      "district": "Madurai",
+      "city": "Madurai"
+    },
+    "event_type": "announcement",
+    "date": "2024-08-01",
+    "summary_en": "SIPCOT proposes Rs 24 crore Industrial Innovation Centre covering 26,500 sq.ft in Madurai"
+  },
+  {
+    "tweet_id": "1817450774861148200",
+    "category": "industries",
+    "name_en": "Three Year Investment Achievement",
+    "name_ta": "மூன்றாண்டு முதலீட்டு சாதனை",
+    "investment_crore": 1000000,
+    "jobs_created": null,
+    "beneficiaries": "State economy",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-07-28",
+    "summary_en": "Tamil Nadu attracted Rs 10 lakh crore investments in three years of DMK government"
+  },
+  {
+    "tweet_id": "1815342022041202821",
+    "category": "industries",
+    "name_en": "CeraTattva Startup Funding",
+    "name_ta": "செராடட்வா ஸ்டார்ட்அப் நிதி",
+    "investment_crore": 1.3,
+    "jobs_created": null,
+    "beneficiaries": "Deep tech startups",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-07-22",
+    "summary_en": "Materials science startup CeraTattva raised Rs 1.3 crore for polymers and ceramics manufacturing"
+  },
+  {
+    "tweet_id": "1809129276798636350",
+    "category": "industries",
+    "name_en": "State PSU Profits",
+    "name_ta": "மாநில பொதுத்துறை நிறுவன லாபம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "State economy",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-07-05",
+    "summary_en": "Four TN government companies (TIDCO, SIPCOT, TIIC, TNPL) report combined profits of Rs 916 crores"
+  },
+  {
+    "tweet_id": "1808821100731629755",
+    "category": "industries",
+    "name_en": "AstraZeneca Global Innovation Centre",
+    "name_ta": "அஸ்ட்ரா ஜெனெகா உலகளாவிய புத்தாக்க மையம்",
+    "investment_crore": null,
+    "jobs_created": 4000,
+    "beneficiaries": "IT and pharma professionals",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-04",
+    "summary_en": "AstraZeneca inaugurates its largest Global Capability Centre worldwide in Chennai, creating 4000 jobs"
+  },
+  {
+    "tweet_id": "1806149020638941388",
+    "category": "industries",
+    "name_en": "Corning Manufacturing Plant",
+    "name_ta": "கார்னிங் உற்பத்தி ஆலை",
+    "investment_crore": 1000,
+    "jobs_created": null,
+    "beneficiaries": "Electronics sector workforce",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-06-26",
+    "summary_en": "Corning lays foundation for Rs 1000 crore Chennai plant for glass manufacturing"
+  },
+  {
+    "tweet_id": "1805582970553778604",
+    "category": "industries",
+    "name_en": "BIG Tech (Corning-Optiemus) Glass Manufacturing",
+    "name_ta": "BIG டெக் கண்ணாடி உற்பத்தி",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Electronics manufacturing sector",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Sriperumbudur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-06-25",
+    "summary_en": "Groundbreaking of Bharat Innovative Glass Technologies - JV between Corning and Optiemus for Gorilla Glass manufacturing"
+  }
+]

@@ -370,8 +370,8 @@
           "type": "government"
         },
         {
-          "title": "CRA Schemes",
-          "url": "https://www.cra.tn.gov.in/about_schemes.php",
+          "title": "MyScheme - IGNOAPS Tamil Nadu",
+          "url": "https://www.myscheme.gov.in/schemes/ignwpstn",
           "type": "government"
         },
         {
@@ -433,8 +433,8 @@
           "type": "government"
         },
         {
-          "title": "CRA Schemes",
-          "url": "https://cra.tn.gov.in/eleg_schemes.php",
+          "title": "MyScheme - IGNWPS",
+          "url": "https://www.myscheme.gov.in/schemes/ignwpstn",
           "type": "government"
         }
       ]
@@ -481,13 +481,18 @@
       "icon": "♿",
       "sources": [
         {
-          "title": "OAP Portal",
-          "url": "https://oap.tn.gov.in/",
+          "title": "Commissionerate for Welfare of Differently Abled",
+          "url": "https://scd.tn.gov.in/",
           "type": "government"
         },
         {
-          "title": "CRA Schemes",
-          "url": "https://www.cra.tn.gov.in/about_schemes.php",
+          "title": "Ranipet District - DA Welfare Schemes",
+          "url": "https://ranipet.nic.in/differently-abled-welfare-schemes/",
+          "type": "government"
+        },
+        {
+          "title": "Kancheepuram - DA Welfare Schemes",
+          "url": "https://kancheepuram.nic.in/departments/district-differently-abled-welfare/differently-abled-welfare-schemes/",
           "type": "government"
         }
       ]
@@ -690,18 +695,18 @@
       "icon": "🎣",
       "sources": [
         {
-          "title": "TN Fishermen Welfare Board",
+          "title": "TN Fishermen Welfare Board Portal",
           "url": "https://www.tnfwb.tn.gov.in/",
           "type": "government"
         },
         {
           "title": "TN Fisheries Welfare Schemes",
-          "url": "https://www.fisheries.tn.gov.in/WelfareBoard",
+          "url": "https://www.fisheries.tn.gov.in/WelfareSchemes",
           "type": "government"
         },
         {
-          "title": "TAFCOFED Diesel",
-          "url": "https://www.fisheries.tn.gov.in/TAFCOFED.html",
+          "title": "National Services Portal - TNFWB",
+          "url": "https://services.india.gov.in/service/detail/tamilnadu-fishermen-welfare-board-tnfwb-portal-1",
           "type": "government"
         }
       ]
@@ -1310,8 +1315,13 @@
           "type": "media"
         },
         {
-          "title": "The Statesman",
-          "url": "https://www.thestatesman.com/india/cm-stalin-inaugurates-anbucholai-day-care-centres-for-elderly-plays-carrom-with-senior-citizens-1503509972.html",
+          "title": "Usthadian - Anbu Solai Senior Care",
+          "url": "https://www.usthadian.com/anbu-solai-senior-care-initiative/",
+          "type": "media"
+        },
+        {
+          "title": "NewKerala - CM Stalin Launches Anbu Cholai",
+          "url": "https://www.newkerala.com/news/o/cm-stalin-launch-25-anbu-cholai-recreation-centres-senior-554",
           "type": "media"
         }
       ]
@@ -1423,13 +1433,18 @@
       "icon": "🚔",
       "sources": [
         {
-          "title": "News9Live",
+          "title": "News9Live - Pink Patrol Launch",
+          "url": "https://www.news9live.com/state/tamil-nadu/chennai-launches-exclusive-pink-buses-autos-and-patrols-for-womens-safety-and-mobility-2923365",
+          "type": "media"
+        },
+        {
+          "title": "News9Live - Pink Auto Scheme",
           "url": "https://www.news9live.com/state/tamil-nadu/tamil-nadu-pink-auto-scheme-women-safety-2824644",
           "type": "media"
         },
         {
-          "title": "CarToq",
-          "url": "https://www.cartoq.com/car-life/hyundai-creta-tamil-nadu-pink-patrol-enforcement/",
+          "title": "Oneindia - Amma Patrol",
+          "url": "https://www.oneindia.com/chennai/whats-tamil-nadus-amma-patrol-project-2939636.html",
           "type": "media"
         }
       ]
@@ -1482,13 +1497,18 @@
       "icon": "🏠",
       "sources": [
         {
-          "title": "YourStory",
-          "url": "https://yourstory.com/socialstory/2025/10/tamil-nadu-launches-homes-to-support-transitioning-transpersons",
+          "title": "TN Social Welfare - Transgender Board",
+          "url": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationstransgenders-welfare/tamil-nadu-transgender-welfare-board",
+          "type": "government"
+        },
+        {
+          "title": "Bihar Yojana - Aran Illam",
+          "url": "https://bihariyojana.com/aran-illam-housing-scheme/",
           "type": "media"
         },
         {
-          "title": "TN Social Welfare",
-          "url": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationstransgenders-welfare/tamil-nadu-transgender-welfare-board",
+          "title": "Chennai District - Aran Illam NGO Notice",
+          "url": "https://chennai.nic.in/non-governmental-organizations-ngos-interested-in-establishing-aran-illangal-shelter-homes-for-transgender-persons-in-chennai-district-are-requested-to-submit-their-proposals-to-the-district-socia/",
           "type": "government"
         }
       ]
@@ -1658,14 +1678,24 @@
       "icon": "🐘",
       "sources": [
         {
-          "title": "YourStory",
-          "url": "https://yourstory.com/socialstory/2025/05/indias-first-mahout-village-inaugurated-at-tamil-nadu",
-          "type": "media"
-        },
-        {
           "title": "DD News",
           "url": "https://ddnews.gov.in/tamil-nadu-indias-first-mahout-village-inaugurated-in-theppakadu-elephant-keepers-get-new-homes/",
           "type": "government"
+        },
+        {
+          "title": "Arab News - Elephant Whisperers Village",
+          "url": "https://www.arabnews.com/node/2601106/world",
+          "type": "media"
+        },
+        {
+          "title": "Deccan Herald - Mahout Village",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/mahouts-in-theppakadu-elephant-camp-get-houses-in-tamil-nadu-3540530",
+          "type": "media"
+        },
+        {
+          "title": "Indian Masterminds - Mahout Village",
+          "url": "https://indianmasterminds.com/feature-stories-on-bureaucrats-changemakers/a-sanctuary-for-sentinels-theppakadu-welcomes-indias-first-mahout-village-118599/",
+          "type": "media"
         }
       ]
     },

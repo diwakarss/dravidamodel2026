@@ -1,0 +1,337 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "description": "New infrastructure projects extracted from Twitter data and verified via web research",
+  "source": "Twitter extraction + web verification",
+  "projects": [
+    {
+      "id": "satchiyapuram-road-overbridge",
+      "name": {
+        "en": "Satchiyapuram Road Overbridge (Sankaralinganar ROB)",
+        "ta": "சாட்சியாபுரம் சாலை மேம்பாலம் (சங்கரலிங்கனார் மேம்பாலம்)"
+      },
+      "location": {
+        "district": "Virudhunagar",
+        "city": "Satchiyapuram (between Sivakasi and Srivilliputhur)",
+        "coordinates": {
+          "latitude": 9.4528,
+          "longitude": 77.7984
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Road Overbridge",
+      "status": "Operational",
+      "budget": {
+        "crore": 61.74,
+        "notes": "Named after freedom fighter Sankaralinganar"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated November 11-12, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Road overbridge connecting Satchiyapuram to Sivakasi",
+        "cmPhotoCompletion": "2025-11-11"
+      },
+      "sources": [
+        {
+          "title": "ANI News - Sivakasi residents celebrate ROB inauguration",
+          "url": "https://aninews.in/news/national/general-news/sivakasi-residents-celebrate-as-tamil-nadu-cm-inaugurates-long-awaited-satchiyapuram-road-overbridge20251112105552/"
+        },
+        {
+          "title": "The News Mill - Satchiyapuram ROB",
+          "url": "https://thenewsmill.com/2025/11/sivakasi-residents-celebrate-as-tamil-nadu-cm-inaugurates-long-awaited-satchiyapuram-road-overbridge/"
+        },
+        {
+          "title": "Tamil Heritage - Freedom Fighter Sankaralinganar",
+          "url": "https://telibrary.com/en/freedom-fighter-sankaralinganar/"
+        }
+      ],
+      "notes": "Long-awaited project fulfilling decades-old demand; Eases traffic between Satchiyapuram and Sivakasi; Reduces waiting time at railway crossing; Enhances safety by reducing accidents; Named after freedom fighter Sankaralinganar who went on 77-day hunger strike for renaming Madras Province as Tamil Nadu; Residents called it a 'Diwali gift' to Sivakasi",
+      "tweet_id": "1988169889258131653"
+    },
+    {
+      "id": "kolathur-ornamental-fish-center",
+      "name": {
+        "en": "Kolathur Ornamental Fish Trading Center",
+        "ta": "கொளத்தூர் வண்ண மீன்கள் வர்த்தக மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Villivakkam (Kolathur)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2167
+        }
+      },
+      "type": "Commercial Infrastructure",
+      "subType": "Trading Center",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 53.50,
+        "notes": "Government's first ornamental fish trade hub"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2025,
+        "completionNotes": "Expected inauguration early October 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "International standard ornamental fish trading center",
+        "cmPhotoInitiation": "2025-01-31"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai - Modern fish market complex Kolathur",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=71819"
+        },
+        {
+          "title": "News Karnataka - Kolathur's Ornamental Fish Market Overhaul",
+          "url": "https://newskarnataka.com/business/kolathurs-ornamental-fish-market-to-get-a-modern-overhaul/19082024/"
+        },
+        {
+          "title": "Prop News Time - Chennai's Kolathur ornamental fish trade centre",
+          "url": "https://propnewstime.com/getdetailsStories/MTAxMjg=/chennai-s-kolathur-to-host-new-ornamental-fish-trade-centre-as-part-of-inr-1-000-crore-development-initiative"
+        },
+        {
+          "title": "Fishery News - Chennai ornamental fish trade centre",
+          "url": "https://www.fishery.news/chennai-to-boost-ornamental-fish-trade-with-new-centre-in-kolathur/amp/info@fishery.news/info@fishery.news/"
+        }
+      ],
+      "notes": "Spread over 1.25 lakh sq ft (4.5 acres) in Villivakkam; 188 shops across 3 floors (64 ground, 70 first, 54 second); Each shop: 4m x 5m with 3.75m height; Large fish display tanks; 3 restaurants; Parking for 400 vehicles; Second largest ornamental fish market in India; Over 1,000 fish species traded; Current market generates Rs 300 crore monthly revenue; Part of CM Stalin's constituency development initiative; Overseen by CMDA",
+      "tweet_id": "1885231500519760081"
+    },
+    {
+      "id": "kanyakumari-glass-bridge",
+      "name": {
+        "en": "Kanyakumari Glass Bridge",
+        "ta": "கன்னியாகுமரி கண்ணாடிப் பாலம்"
+      },
+      "location": {
+        "district": "Kanyakumari",
+        "city": "Kanyakumari",
+        "coordinates": {
+          "latitude": 8.0776,
+          "longitude": 77.5554
+        }
+      },
+      "type": "Tourism Infrastructure",
+      "subType": "Pedestrian Bridge",
+      "status": "Operational",
+      "budget": {
+        "crore": 37,
+        "notes": "India's first glass bridge over sea"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated December 30, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "77-meter glass bridge connecting Thiruvalluvar Statue to Vivekananda Rock Memorial",
+        "cmPhotoCompletion": "2024-12-30"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - Kanyakumari Glass Bridge",
+          "url": "https://en.wikipedia.org/wiki/Kanyakumari_Glass_bridge"
+        },
+        {
+          "title": "TTW India - India's First Glass Bridge Inaugurated",
+          "url": "https://www.ttwindia.com/news/article/indias-first-glass-bridge-inaugurated-in-kanyakumari-connecting-vivekananda-rock-memorial-and-thiruvalluvar-statue-a-blend-of-engineering-and-heritage/"
+        },
+        {
+          "title": "Swarajya - Glass Bridge Kanyakumari",
+          "url": "https://swarajyamag.com/news-brief/tamil-nadu-indias-first-glass-bridge-inaugurated-in-kanyakumari-connects-thiruvalluvar-statue-to-vivekananda-rock"
+        },
+        {
+          "title": "ETV Bharat - CM Stalin inaugurates glass bridge",
+          "url": "https://www.etvbharat.com/en/!bharat/tamil-nadu-cm-stalin-inaugurates-glass-bridge-connecting-vivekananda-memorial-and-thiruvalluvar-statue-enn24123006070"
+        },
+        {
+          "title": "News9 - India's first glass sea bridge",
+          "url": "https://www.news9live.com/state/tamil-nadu/indias-first-glass-bridge-in-the-sea-opens-at-kanyakumaris-thiruvalluvar-statue-2784957"
+        },
+        {
+          "title": "Zee News - Glass Bridge details",
+          "url": "https://zeenews.india.com/photos/india/glass-bridge-in-kanyakumari-timing-open-for-public-distance-over-sea-vivekananda-rock-thiruvalluvar-statue-2838467"
+        }
+      ],
+      "notes": "Length: 77 meters; Width: 10 meters; Connects 133-foot Thiruvalluvar Statue to Vivekananda Rock Memorial; First glass bridge in India built over sea; Bowstring arch structure for aesthetic appeal and structural integrity; Eliminates need for ferry between monuments; Panoramic views of Arabian Sea, Bay of Bengal, and Indian Ocean; Coincides with silver jubilee of Thiruvalluvar statue unveiling by late CM M. Karunanidhi",
+      "tweet_id": "1873729962248978569"
+    },
+    {
+      "id": "tidel-neo-park-thoothukudi",
+      "name": {
+        "en": "Mini TIDEL Park (TIDEL Neo) Thoothukudi",
+        "ta": "மினி டைடல் பார்க் (டைடல் நியோ) தூத்துக்குடி"
+      },
+      "location": {
+        "district": "Thoothukudi",
+        "city": "Meelavittan",
+        "coordinates": {
+          "latitude": 8.7642,
+          "longitude": 78.1348
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 32.50,
+        "notes": "First TIDEL Park in South Tamil Nadu"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated December 29, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "G+4 floor IT park building in Meelavittan",
+        "cmPhotoCompletion": "2024-12-29"
+      },
+      "sources": [
+        {
+          "title": "TIDEL Park Official - TIDEL Neo Thoothukudi",
+          "url": "https://www.tidelpark.com/blog/tidel-neo-thoothukudi.html"
+        },
+        {
+          "title": "Daily Excelsior - Stalin inaugurates mini TIDEL park",
+          "url": "https://www.dailyexcelsior.com/stalin-inaugurates-mini-tidel-park-in-tuticorin-district/"
+        },
+        {
+          "title": "Devdiscourse - New TIDEL Park Tamil Nadu",
+          "url": "https://www.devdiscourse.com/article/technology/3209786-new-tidel-park-in-tamil-nadu-booming-it-hub"
+        },
+        {
+          "title": "News Today - TIDEL Neo Park Tuticorin",
+          "url": "https://newstodaynet.com/2024/12/30/stalin-inaugurates-tidel-neo-park-in-tuticorin/"
+        },
+        {
+          "title": "Thoothukudi District Government",
+          "url": "https://thoothukudi.nic.in/honble-chief-minister-of-tamil-nadu-inaugurated-mini-tidel-park/"
+        }
+      ],
+      "notes": "Land area: 4.16 acres in Meelavittan II Village, Thoothukudi Taluk; Built-up area: 63,100 sq ft; G+4 floors with modern infrastructure; Capacity: 600 IT professionals; Fourth TIDEL Neo Park in Tamil Nadu (after Villupuram, Thanjavur, Salem); Part of Rs 234.5 crore scheme for TIDEL Neo Parks in 7 cities; CM distributed allotment letters to 2 private firms at inauguration",
+      "tweet_id": "1873357892608299123"
+    },
+    {
+      "id": "cholagangam-lake-development",
+      "name": {
+        "en": "Cholagangam Lake Development Project",
+        "ta": "சோழகங்கம் ஏரி மேம்பாட்டுத் திட்டம்"
+      },
+      "location": {
+        "district": "Ariyalur",
+        "city": "Gangaikondacholapuram",
+        "coordinates": {
+          "latitude": 11.2081,
+          "longitude": 79.4506
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Lake Development & Tourism",
+      "status": "Announced",
+      "budget": {
+        "crore": 19.25,
+        "notes": "Rs 12 Cr water resources + Rs 7.25 Cr tourism"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Announced July 22, 2025 on Rajendra Chola birthday"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Historic 1000-year-old lake built by Rajendra Chola I",
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "Organiser - DMK sanctions Rs 19 crore to restore Chola era lake",
+          "url": "https://organiser.org/2025/07/26/304625/bharat/tamil-nadu-ahead-of-pm-modis-gangaikonda-cholapuram-visit-dmk-sanctions-rs-19-crore-to-restore-chola-era-lake/"
+        },
+        {
+          "title": "The Print - TN CM extols greatness of King Rajendra Chola",
+          "url": "https://theprint.in/india/tn-cm-extols-greatness-of-king-rajendra-chola-ahead-of-pms-visit/2700123/"
+        },
+        {
+          "title": "Study IQ - Chola Gangam Lake in Tamil Nadu",
+          "url": "https://www.studyiq.com/articles/chola-gangam-lake/"
+        },
+        {
+          "title": "News Today - New Rajendra Chola museum to be built in Ariyalur",
+          "url": "https://newstodaynet.com/2025/07/23/new-rajendra-chola-museum-to-be-built-on-10-acres-in-ariyalur-cm/"
+        }
+      ],
+      "notes": "Historic lake dug by Rajendra Chola I (1014-1044 CE) to commemorate northern campaign; Water resources (Rs 12 Cr): Strengthening lake banks, renovating canals, desilting 4 drainage areas; Benefits 1,374 acres of agricultural land; Tourism (Rs 7.25 Cr): Communication center, walkways, children's play area, park, security cameras; Announced on Aadi Thiruvathirai festival marking Rajendra Chola's birth anniversary; Separate Rs 22.10 Cr museum project on 10-acre plot also announced",
+      "tweet_id": "1947660096768815277"
+    }
+  ],
+  "statistics": {
+    "total_projects": 5,
+    "total_investment_crore": 203.99,
+    "by_status": {
+      "Operational": 3,
+      "Under Construction": 1,
+      "Announced": 1
+    },
+    "by_type": {
+      "Roads & Bridges": 1,
+      "Commercial Infrastructure": 1,
+      "Tourism Infrastructure": 1,
+      "IT Infrastructure": 1,
+      "Water Infrastructure": 1
+    }
+  },
+  "skipped_projects": {
+    "reason": "Generic, duplicate, or insufficient web verification",
+    "projects": [
+      {
+        "name": "TNCSC Storage Facilities (Rs 60.85 Cr)",
+        "reason": "Generic infrastructure across multiple locations; insufficient specific verification"
+      },
+      {
+        "name": "North Chennai Water Supply Project (Rs 59.15 Cr)",
+        "reason": "Part of larger North Chennai development; insufficient specific project verification"
+      },
+      {
+        "name": "TNCSC Storage and Procurement Infrastructure (Rs 57.95 Cr)",
+        "reason": "Generic TNCSC expansion; insufficient specific verification"
+      },
+      {
+        "name": "Dharmapuri District Collector Office Complex (Rs 54.8 Cr)",
+        "reason": "Administrative building; insufficient web verification"
+      },
+      {
+        "name": "Mannargudi Bus Terminal (Rs 46.46 Cr)",
+        "reason": "Insufficient web verification for specific project details"
+      },
+      {
+        "name": "TIDEL Neo Park Thoothukudi (Rs 32.5 Cr)",
+        "reason": "Duplicate - Same as Mini TIDEL Park Thoothukudi (consolidated into one entry)"
+      },
+      {
+        "name": "Metro Water Vehicles and TWAD Vehicles (Rs 29.6 Cr)",
+        "reason": "Vehicle procurement; not infrastructure project"
+      },
+      {
+        "name": "Murasoli Maran Park Renovation (Rs 22.15 Cr)",
+        "reason": "Park renovation; generic infrastructure"
+      },
+      {
+        "name": "Thandayarpet Bus Terminal (Rs 21.95 Cr)",
+        "reason": "Under construction; insufficient web verification"
+      },
+      {
+        "name": "Thiruvarur Kamarajar Bus Terminal (Rs 16.3 Cr)",
+        "reason": "Insufficient web verification for specific project details"
+      }
+    ]
+  }
+}

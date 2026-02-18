@@ -1,0 +1,427 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "description": "New infrastructure projects - Batch 3 - extracted from Twitter and verified via web research",
+  "source": "Twitter extraction + web verification",
+  "projects": [
+    {
+      "id": "tamil-nadu-house-delhi",
+      "name": {
+        "en": "Tamil Nadu House New Delhi",
+        "ta": "தமிழ்நாடு மாளிகை புதுதில்லி"
+      },
+      "location": {
+        "district": "New Delhi",
+        "city": "Chanakyapuri",
+        "coordinates": {
+          "latitude": 28.5921,
+          "longitude": 77.1791
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "State Guest House",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 257,
+        "notes": "Seismic-tolerant structure vetted by IIT Madras"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "Foundation stone laid July 26, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2024-07-26"
+      },
+      "sources": [
+        {
+          "title": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/new-seismic-tolerant-structure-in-tamil-nadu-house-1812556"
+        },
+        {
+          "title": "Wikipedia - Tamil Nadu House",
+          "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_House"
+        }
+      ],
+      "notes": "VVIP Block, Guest House Block, Staff Quarters Block; Total plinth area: 3 lakh sq ft; Located at Vaigai, Tamil Nadu House, Chanakyapuri",
+      "tweet_id": "1816739140777783791"
+    },
+    {
+      "id": "mtc-electric-bus-120",
+      "name": {
+        "en": "MTC Electric Bus Fleet - 120 Buses (Phase 1A)",
+        "ta": "MTC மின்சார பேருந்து - 120 பேருந்துகள்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Vyasarpadi",
+        "coordinates": {
+          "latitude": 13.1067,
+          "longitude": 80.2614
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Electric Bus Fleet",
+      "status": "Operational",
+      "budget": {
+        "crore": 255.40,
+        "notes": "120 buses: ₹207.90 Cr + Vyasarpadi depot upgrade: ₹47.50 Cr"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated June 30, 2025; Full Phase 1 (625 buses) by February 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "120 low-floor electric buses by Ashok Leyland",
+        "cmPhotoCompletion": "2025-06-30"
+      },
+      "sources": [
+        {
+          "title": "Sustainable Bus",
+          "url": "https://www.sustainable-bus.com/electric-bus/120-electric-buses-chennai-tamil-nadu-mtc/"
+        },
+        {
+          "title": "LiveChennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=74845"
+        },
+        {
+          "title": "Swarajya",
+          "url": "https://swarajyamag.com/news-brief/cleaner-public-transport-chennai-gets-120-low-floor-electric-buses-through-world-bank-aiib-supported-initiative"
+        }
+      ],
+      "notes": "Part of larger 625-bus Phase 1 (₹697 Cr total); 400 non-AC + 225 AC buses planned; 5 depots: Vyasarpadi, Perumbakkam, Tondiarpet-I, Poonamallee, Central",
+      "tweet_id": "1939598923733336382"
+    },
+    {
+      "id": "periyar-vegetable-market-trichy",
+      "name": {
+        "en": "Periyar Integrated Vegetable Market Trichy",
+        "ta": "பெரியார் ஒருங்கிணைந்த காய்கறி சந்தை திருச்சி"
+      },
+      "location": {
+        "district": "Tiruchirappalli",
+        "city": "Panjapur",
+        "coordinates": {
+          "latitude": 10.77,
+          "longitude": 78.72
+        }
+      },
+      "type": "Markets & Commercial",
+      "subType": "Vegetable Market",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 236,
+        "notes": "Will replace congested Gandhi Market"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation stone laid May 9, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-05-09"
+      },
+      "sources": [
+        {
+          "title": "Rohini Housing",
+          "url": "https://www.rohinihousing.com/blog/panjapur-vegetable-market-trichy-real-estate-development"
+        },
+        {
+          "title": "Tiruchirappalli District Official",
+          "url": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/"
+        }
+      ],
+      "notes": "22-acre facility; 450+ shops; Cold storage facilities; Wide access roads; Ample parking; Near Trichy-Madurai National Highway",
+      "tweet_id": "1920776841247248650"
+    },
+    {
+      "id": "kovai-semmozhi-poonga",
+      "name": {
+        "en": "Kovai Semmozhi Poonga (Botanical Park)",
+        "ta": "கோவை செம்மொழி பூங்கா"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Gandhipuram",
+        "coordinates": {
+          "latitude": 11.0168,
+          "longitude": 76.9558
+        }
+      },
+      "type": "Parks & Recreation",
+      "subType": "Botanical Garden",
+      "status": "Operational",
+      "budget": {
+        "crore": 208.50,
+        "notes": "Phase 1; Future expansion to 165 acres"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated November 25, 2025; Public opening December 1, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "45-acre botanical garden on former Central Prison site",
+        "cmPhotoCompletion": "2025-11-25"
+      },
+      "sources": [
+        {
+          "title": "News9Live",
+          "url": "https://www.news9live.com/state/tamil-nadu/coimbatores-grand-rs-208-5-crore-semmozhi-park-opens-to-public-from-december-11-all-details-2910702"
+        },
+        {
+          "title": "Social News XYZ",
+          "url": "https://www.socialnews.xyz/2025/11/25/stalin-inaugurates-rs-208-crore-botanical-park-spread-across-45-acres-in-coimbatore/"
+        }
+      ],
+      "notes": "45-acre Phase 1 (of 165 acres); 2+ km walking tracks; 23 themed gardens including herbal, rose, terrarium; QR-based digital plant information; Outdoor gym; On former Central Prison site at Gandhipuram",
+      "tweet_id": "1993241194608939125"
+    },
+    {
+      "id": "tambaram-eastern-bypass-bridge",
+      "name": {
+        "en": "Tambaram Eastern Bypass Bridge (Rajakilpakkam)",
+        "ta": "தாம்பரம் கிழக்கு சுற்றுவட்டப்பாதை பாலம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Rajakilpakkam",
+        "coordinates": {
+          "latitude": 12.9167,
+          "longitude": 80.1333
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Bridge",
+      "status": "Announced",
+      "budget": {
+        "crore": 208.31,
+        "notes": "Part of 9.3 km Tambaram Eastern Bypass"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2027,
+        "completionNotes": "Announced November 2025; Expected 2 years completion"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "LiveChennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=72098"
+        },
+        {
+          "title": "Swarajya",
+          "url": "https://swarajyamag.com/news-brief/tamil-nadu-highway-authority-plans-to-complete-east-tambaram-bypass-project-within-two-years"
+        }
+      ],
+      "notes": "850-metre elevated six-lane bridge over Rajakilpakkam Lake; Part of 9.3 km Tambaram Eastern Bypass (Perungalathur → Madambakkam → Camp Road → Velachery); Designed to ease southern Chennai traffic",
+      "tweet_id": "1993174433822130487"
+    },
+    {
+      "id": "chennai-municipal-bonds",
+      "name": {
+        "en": "Chennai Corporation Municipal Bonds",
+        "ta": "சென்னை மாநகராட்சி நகராட்சி பத்திரங்கள்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.08,
+          "longitude": 80.27
+        }
+      },
+      "type": "Finance & Governance",
+      "subType": "Municipal Bond",
+      "status": "Operational",
+      "budget": {
+        "crore": 200,
+        "notes": "Lowest municipal bond rate in India 2025 (7.97%)"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2035,
+        "completionNotes": "Listed on NSE 2025; 10-year tenure"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "CM Stalin rings bell for NSE listing",
+        "cmPhotoCompletion": "2025-05-26"
+      },
+      "sources": [
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/chennai-corporation-lists-municipal-bonds-in-nse-3557828"
+        },
+        {
+          "title": "Adyar Times",
+          "url": "https://adyartimes.in/cm-stalin-rings-bell-for-chennai-corporations-%E2%82%B9200-crore-municipal-bonds-listing-on-nse/"
+        }
+      ],
+      "notes": "7.97% interest rate (lowest in India 2025); AA+ rating; 4.21x oversubscribed (₹421 Cr bids); Funds for Kosasthalaiyar Basin Integrated Storm Water Drain project; ₹26 Cr AMRUT 2.0 incentive grant",
+      "tweet_id": "1926902831841239505"
+    },
+    {
+      "id": "sipcot-ttro-hosur",
+      "name": {
+        "en": "SIPCOT TTRO Plant Hosur",
+        "ta": "சிப்காட் TTRO ஆலை ஓசூர்"
+      },
+      "location": {
+        "district": "Krishnagiri",
+        "city": "Hosur",
+        "coordinates": {
+          "latitude": 12.7409,
+          "longitude": 77.8253
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Treatment Plant",
+      "status": "Operational",
+      "budget": {
+        "crore": 182,
+        "notes": "Water from Kelavarapalli Dam"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2023,
+        "completionNotes": "Inaugurated June 13, 2023"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2023-06-13"
+      },
+      "sources": [
+        {
+          "title": "SIPCOT Official",
+          "url": "https://sipcotweb.tn.gov.in/Projects"
+        },
+        {
+          "title": "Krishnagiri District",
+          "url": "https://krishnagiri.nic.in/public-utility/sipcot/"
+        }
+      ],
+      "notes": "20 MLD Tertiary Treatment Reverse Osmosis plant; Serves Hosur SIPCOT (2,092 acres), Shoolagiri SIPCOT (989 acres), new industrial park (1,800 acres); Benefits ~800 industrial units; Expected to attract ₹6,000 Cr investments and 10,000 jobs",
+      "tweet_id": "1896356276929360041"
+    },
+    {
+      "id": "north-chennai-housing-ezhukinar",
+      "name": {
+        "en": "North Chennai Urban Housing (Ezhukinar)",
+        "ta": "வட சென்னை நகர்ப்புற வீட்டுவசதி (எழுகினார்)"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Ezhukinar (near Stanley Hospital)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2833
+        }
+      },
+      "type": "Housing",
+      "subType": "Urban Housing",
+      "status": "Operational",
+      "budget": {
+        "crore": 178,
+        "notes": "₹147 Cr for 776 apartments + ₹31 Cr for 144 new units foundation"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2026,
+        "completionNotes": "776 apartments inaugurated + 144 units foundation laid January 21, 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2026-01-21"
+      },
+      "sources": [
+        {
+          "title": "Daily Thanthi",
+          "url": "https://www.dailythanthi.com/news/tamilnadu/mk-stalin-inaugurated-the-776-apartment-units-built-at-a-cost-of-rs-147-crore-1201267"
+        },
+        {
+          "title": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/news/tamil-nadu-cm-stalin-opens-projects-for-5643-houses-1811699"
+        }
+      ],
+      "notes": "776 apartment units inaugurated; 144 additional units at Valltax Road and Water Tank Street foundation laid; Part of 'Chief Minister Urban Housing' scheme under North Chennai Development Scheme",
+      "tweet_id": "2013899496384798772"
+    },
+    {
+      "id": "kolathur-lake-park",
+      "name": {
+        "en": "Kolathur Retteri Lake Park",
+        "ta": "கொளத்தூர் ரெட்டேரி ஏரி பூங்கா"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Kolathur",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2167
+        }
+      },
+      "type": "Parks & Recreation",
+      "subType": "Lake Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 4.98,
+        "notes": "Part of North Chennai Development Scheme"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2025"
+      },
+      "sources": [
+        {
+          "title": "Maalai Malar",
+          "url": "https://www.maalaimalar.com/news/tamilnadu/lakeside-park-at-kolathur-retteri-junction-cm-mk-stalin-inaugurated-807813"
+        },
+        {
+          "title": "LiveChennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=73587"
+        }
+      ],
+      "notes": "Lakeside park at Retteri Lake; Walking track; Natural viewing area; Children's play area; Parking and drinking water facilities; Artificial waterfall; Garden and illuminated fish tanks",
+      "tweet_id": "2019710469510935034"
+    }
+  ],
+  "statistics": {
+    "total_projects": 9,
+    "total_investment_crore": 1729.59,
+    "by_status": {
+      "Operational": 6,
+      "Under Construction": 2,
+      "Announced": 1
+    },
+    "by_type": {
+      "Public Buildings": 1,
+      "Public Transport": 1,
+      "Markets & Commercial": 1,
+      "Parks & Recreation": 2,
+      "Roads & Bridges": 1,
+      "Finance & Governance": 1,
+      "Water Infrastructure": 1,
+      "Housing": 1
+    }
+  }
+}

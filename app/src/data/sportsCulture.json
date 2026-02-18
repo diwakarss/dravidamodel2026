@@ -32,7 +32,9 @@
       "icon": "♟️",
       "sources": [
         { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" },
-        { "title": "Utsav Gov", "url": "https://utsav.gov.in/view-event/the-44th-fide-chess-olympiad-in-tamil-nadu", "type": "government" }
+        { "title": "FIDE Chess Olympiad 2022", "url": "https://chennai2022.fide.com/", "type": "government" },
+        { "title": "Wikipedia - 44th Chess Olympiad", "url": "https://en.wikipedia.org/wiki/44th_Chess_Olympiad", "type": "media" },
+        { "title": "Chess.com - Olympiad Inauguration", "url": "https://www.chess.com/news/view/2022-fide-chess-olympiad-inauguration", "type": "media" }
       ]
     },
     {
@@ -98,7 +100,9 @@
       "icon": "🏎️",
       "sources": [
         { "title": "SDAT Official", "url": "https://sdat.tn.gov.in/", "type": "government" },
-        { "title": "Chennai Formula 4 Night Race", "url": "https://www.thehindu.com/sport/motorsport/chennai-formula-4-night-street-race/article67258385.ece", "type": "media" }
+        { "title": "Wikipedia - Chennai Formula Racing Circuit", "url": "https://en.wikipedia.org/wiki/Chennai_Formula_Racing_Circuit", "type": "media" },
+        { "title": "Autocar India - Indian Racing Festival 2024", "url": "https://www.autocarindia.com/motor-sports-news/indian-racing-festival-2024-guide-432629", "type": "media" },
+        { "title": "The Federal - Chennai Night Race", "url": "https://thefederal.com/category/sports/chennai-to-host-indias-first-night-street-races-all-you-need-to-know-about-f4-irl-events-101405", "type": "media" }
       ]
     },
     {
@@ -192,7 +196,8 @@
       "icon": "🥇",
       "sources": [
         { "title": "SDAT Official", "url": "https://sdat.tn.gov.in/", "type": "government" },
-        { "title": "CM Prize Money Hike", "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-announces-hike-in-prize-money-for-olympic-medal-winners/article34983057.ece", "type": "media" }
+        { "title": "India.com - TN Olympic Prize Money", "url": "https://www.india.com/sports/tamil-nadu-announces-rs-3-crore-for-athletes-who-win-gold-in-tokyo-olympics-4771370/", "type": "media" },
+        { "title": "TN Champions Foundation", "url": "https://tnchampions.sdat.in/initiatives", "type": "government" }
       ]
     },
     {
@@ -224,7 +229,8 @@
       "icon": "🤼",
       "sources": [
         { "title": "SDAT Official", "url": "https://sdat.tn.gov.in/", "type": "government" },
-        { "title": "CM Opens Jallikattu Arena", "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-opens-kalaignar-centenary-jallikattu-arena-in-madurai/article67770854.ece", "type": "media" }
+        { "title": "ETV Bharat - Jallikattu Arena Inauguration", "url": "https://www.etvbharat.com/en/!state/tamil-nadu-cm-mk-stalin-inaugurates-worlds-1st-jallikattu-arena-in-madurai-enn24012402856", "type": "media" },
+        { "title": "NewKerala - Alanganallur Jallikattu 2024", "url": "https://www.newkerala.com/news/a/alanganallur-jallikattu-begins-amid-grand-celebrations-madurai-911.htm", "type": "media" }
       ]
     },
     {
@@ -256,8 +262,9 @@
       ],
       "icon": "📖",
       "sources": [
-        { "title": "TN Schools", "url": "https://tnschools.gov.in/", "type": "government" },
-        { "title": "Thirukkural Cash Awards", "url": "https://www.thehindu.com/news/national/tamil-nadu/school-students-recite-thirukkural-win-cash-awards/article38356421.ece", "type": "media" }
+        { "title": "Wikipedia - Thiruvalluvar Award", "url": "https://en.wikipedia.org/wiki/Thiruvalluvar_Award", "type": "media" },
+        { "title": "Chinmaya IAS - TN Govt Awards 2024", "url": "https://chinmayaias.com/currentaffairstnpsc/tamil-nadu-government-awards-2024/", "type": "media" },
+        { "title": "TN Tamil Development Policy Note", "url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/tamildev_e_pn_2024_25.pdf", "type": "government" }
       ]
     },
     {
@@ -350,8 +357,9 @@
       ],
       "icon": "🛕",
       "sources": [
-        { "title": "HR&CE Dept", "url": "https://hrce.tn.gov.in/", "type": "government" },
-        { "title": "Thiruppani Works Module", "url": "https://www.newindianexpress.com/states/tamil-nadu/2023/apr/18/hrce-dept-launches-thiruppani-works-module-to-monitor-temple-renovation-2566989.html", "type": "media" }
+        { "title": "HR&CE Department", "url": "https://hrce.tn.gov.in/", "type": "government" },
+        { "title": "NIC TN - Thiruppani Module", "url": "https://tn.nic.in/event/implementation-of-thiruppani-temple-renovation-works-module-in-itms/", "type": "government" },
+        { "title": "The Print - 1000 Temple Renovation Plan", "url": "https://theprint.in/india/1000-temples-in-tn-to-be-renovated-chennai-to-get-display-cum-cultural-centre-minister/942525/", "type": "media" }
       ]
     },
     {
@@ -647,7 +655,9 @@
       "icon": "🏏",
       "sources": [
         { "title": "CricTracker", "url": "https://www.crictracker.com/cricket-news/tamil-nadu-government-to-build-biggest-cricket-stadium-in-coimbatore-4967-8602/", "type": "media" },
-        { "title": "Oneindia", "url": "https://www.oneindia.com/chennai/coimbatore-cricket-stadium-when-will-this-ambitious-project-be-ready-completion-date-seating-capa-4161595.html", "type": "media" }
+        { "title": "Coimbatore Junction - Cricket Stadium", "url": "https://coimbatorejunction.in/international-cricket-stadium/", "type": "media" },
+        { "title": "Stadium Business - TN Stadium Tender", "url": "https://www.thestadiumbusiness.com/2025/11/03/tender-process-launched-for-tamil-nadu-stadium/", "type": "media" },
+        { "title": "Swarajya Mag - World's Largest Stadium", "url": "https://swarajyamag.com/tamil-nadu/worlds-largest-cricket-stadium-to-come-up-in-coimbatore", "type": "media" }
       ]
     },
     {
@@ -712,8 +722,8 @@
       ],
       "icon": "🏢",
       "sources": [
-        { "title": "Footboom", "url": "https://www.footboom1.com/en/news/tennis/2359540-new-mini-indoor-stadium-set-for-launch-in-theni", "type": "media" },
-        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" }
+        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" },
+        { "title": "CM Trophy 2025 Venues", "url": "https://tncmtrophy.sdat.in/venues", "type": "government" }
       ]
     },
     {

@@ -30,9 +30,9 @@
       ],
       "icon": "🌾",
       "sources": [
-        { "title": "PMFBY Official", "url": "https://pmfby.gov.in/adminStatistics/dashboard", "type": "government" },
-        { "title": "TN Horticulture PMFBY", "url": "https://tnhorticulture.tn.gov.in/pmfby", "type": "government" },
-        { "title": "DES TN", "url": "https://des.tn.gov.in/en/node/15", "type": "government" }
+        { "title": "PMFBY Portal", "url": "https://pmfby.gov.in/adminStatistics/dashboard", "type": "government" },
+        { "title": "MyScheme - PMFBY", "url": "https://www.myscheme.gov.in/schemes/pmfby", "type": "government" },
+        { "title": "IBEF - PMFBY Scheme Overview", "url": "https://www.ibef.org/government-schemes/fasal-bima-yojana", "type": "media" }
       ]
     },
     {
@@ -159,8 +159,9 @@
       ],
       "icon": "💧",
       "sources": [
-        { "title": "TN Micro Irrigation", "url": "https://www.tn.gov.in/scheme/data_view/19311", "type": "government" },
-        { "title": "PMKSY 100% Subsidy", "url": "https://krishijagran.com/agriculture-world/pmksy-government-to-provide-100-subsidy-to-install-drip-sprinkler-systems/", "type": "media" }
+        { "title": "TNAU - Micro Irrigation Schemes", "url": "https://agritech.tnau.ac.in/horticulture/horti_schemes_microirrigation.html", "type": "government" },
+        { "title": "Krishnagiri - Drip Irrigation Subsidy", "url": "https://krishnagiri.nic.in/scheme/subsidy-for-the-installation-of-drip-irrigation/", "type": "government" },
+        { "title": "Netafim India - Subsidy Info", "url": "https://www.netafimindia.com/subsidy/", "type": "media" }
       ]
     },
     {
@@ -190,7 +191,9 @@
       ],
       "icon": "🌿",
       "sources": [
-        { "title": "TN Agriculture Dept", "url": "https://www.tn.gov.in/department/2", "type": "government" }
+        { "title": "TN Agriculture Dept Schemes", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" },
+        { "title": "TN Agriculture Budget 2025-26", "url": "https://www.tnpscthervupettagam.com/articles-detail/tamil-nadu-agriculture-budget-2025-26", "type": "media" },
+        { "title": "Deccan Herald - TN Agriculture Budget 2024", "url": "https://www.deccanherald.com/amp/story/india/tamil-nadu/tamil-nadu-agriculture-budget-2024-focuses-on-sustainable-chemical-free-practices-2902514", "type": "media" }
       ]
     },
     {
@@ -285,8 +288,9 @@
       ],
       "icon": "🐄",
       "sources": [
-        { "title": "TN Animal Husbandry", "url": "https://www.tn.gov.in/department/3", "type": "government" },
-        { "title": "Free Goat Scheme", "url": "https://krishijagran.com/animal-husbandry/free-goat-sheep-scheme-for-widows-and-destitutes-with-100-government-subsidy-details-inside/", "type": "media" }
+        { "title": "TN Animal Husbandry Dept", "url": "https://www.tn.gov.in/dept_profile.php?dep_id=Mw%3D%3D", "type": "government" },
+        { "title": "Aavin Official", "url": "https://aavin.tn.gov.in/", "type": "government" },
+        { "title": "Wikipedia - Aavin", "url": "https://en.wikipedia.org/wiki/Aavin", "type": "media" }
       ]
     },
     {

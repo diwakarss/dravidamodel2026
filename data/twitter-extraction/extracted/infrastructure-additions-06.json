@@ -1,0 +1,411 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "description": "New infrastructure projects extracted from Twitter data and verified via web research",
+  "source": "Twitter extraction + web verification",
+  "projects": [
+    {
+      "id": "setc-bs6-sleeper-buses",
+      "name": {
+        "en": "SETC BS-VI Sleeper Buses",
+        "ta": "SETC BS-VI படுக்கை வசதி பேருந்துகள்"
+      },
+      "location": {
+        "district": "State-wide",
+        "city": "Chennai (flagged off)",
+        "coordinates": null
+      },
+      "type": "Public Transport",
+      "subType": "Bus Fleet",
+      "status": "Operational",
+      "budget": {
+        "crore": 90.52,
+        "notes": "150 new BS-VI diesel buses for SETC"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2024,
+        "completionNotes": "Flagged off August 28, 2024 by Minister Udhayanidhi Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "150 sleeper-cum-seating buses with modern amenities",
+        "cmPhotoCompletion": "2024-08-28"
+      },
+      "sources": [
+        {
+          "title": "News9live - Tamil Nadu: 150 new BS-VI buses inducted into SETC fleet",
+          "url": "https://www.news9live.com/state/tamil-nadu/tamil-nadu-150-new-bs-vi-buses-inducted-into-setc-fleet-details-here-2673882"
+        },
+        {
+          "title": "Magzter - SETC gets 150 new non-AC seater-cum-sleeper buses",
+          "url": "https://www.magzter.com/stories/newspaper/The-New-Indian-Express/SETC-GETS-150-NEW-NONAC-SEATERCUMSLEEPER-BUSES"
+        }
+      ],
+      "notes": "Features include front air suspension, individual charging ports, personal fans, SOS system, public announcement system, fire alarms; Part of plan to replace 260 over-aged buses; Last procurement was in 2020; Flagged off from Bus Workshop on Pallavan Road, Chennai",
+      "tweet_id": "1828821803516731518"
+    },
+    {
+      "id": "virudhunagar-collectorate-building",
+      "name": {
+        "en": "Virudhunagar District Collectorate Building",
+        "ta": "விருதுநகர் மாவட்ட ஆட்சியர் அலுவலகக் கட்டடம்"
+      },
+      "location": {
+        "district": "Virudhunagar",
+        "city": "Kooraikkundu",
+        "coordinates": {
+          "latitude": 9.5853,
+          "longitude": 77.9528
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Administrative Building",
+      "status": "Operational",
+      "budget": {
+        "crore": 77.12,
+        "notes": "New 6-floor District Collector office on 7.67 acres"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 10, 2024 by CM M.K. Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "6-floor modern administrative building",
+        "cmPhotoCompletion": "2024-11-10"
+      },
+      "sources": [
+        {
+          "title": "Virudhunagar District Government - CM Visit November 2024",
+          "url": "https://virudhunagar.nic.in/cm-2024/"
+        },
+        {
+          "title": "Social News XYZ - Stalin in Virudhunagar district",
+          "url": "https://www.socialnews.xyz/2024/11/09/stalin-in-virudhunagar-district-as-part-of-statewide-tour-to-monitor-govt-schemes/"
+        }
+      ],
+      "notes": "Part of CM Stalin's statewide tour to monitor government schemes; Located at NH 7, Kumaraswamy Nagar, Kooraikundu",
+      "tweet_id": "1855535990527664232"
+    },
+    {
+      "id": "gcc-ripon-building-council-hall",
+      "name": {
+        "en": "Greater Chennai Corporation New Council Hall",
+        "ta": "சென்னை மாநகராட்சி புதிய மன்றக்கூடம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai (Ripon Building Complex)",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Administrative Building",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 74.70,
+        "notes": "New administrative building within Ripon Building complex"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation stone laid December 23, 2025 by CM M.K. Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-12-23"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai - CM Stalin Inaugurates Renovated Victoria Hall",
+          "url": "https://www.livechennai.com/detailnews.asp?catid=104&newsid=77456"
+        },
+        {
+          "title": "Wikipedia - Ripon Building",
+          "url": "https://en.wikipedia.org/wiki/Ripon_Building"
+        }
+      ],
+      "notes": "Foundation laid alongside inauguration of renovated Victoria Public Hall (Rs 32.62 crore); Part of state government commitment to conserving heritage structures while upgrading urban administrative facilities",
+      "tweet_id": "2003507101780647985"
+    },
+    {
+      "id": "chembarambakkam-water-treatment-upgrade",
+      "name": {
+        "en": "Chembarambakkam Water Treatment Plant Upgrade",
+        "ta": "செம்பரம்பாக்கம் நீர்த்தூய்மை நிலைய மேம்படுத்தல்"
+      },
+      "location": {
+        "district": "Tiruvallur",
+        "city": "Chembarambakkam",
+        "coordinates": {
+          "latitude": 13.0333,
+          "longitude": 80.0667
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Water Treatment Plant",
+      "status": "Operational",
+      "budget": {
+        "crore": 66.78,
+        "notes": "Upgrade to double water supply capacity from 265 MLD to 530 MLD"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated September 20, 2025 by CM M.K. Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Upgraded treatment plant doubling supply capacity",
+        "cmPhotoCompletion": "2025-09-20"
+      },
+      "sources": [
+        {
+          "title": "APAC News Network - Tamil Nadu Govt to Inaugurate Newly Upgraded Chembarambakkam Plant",
+          "url": "https://apacnewsnetwork.com/2025/09/tamil-nadu-govt-to-inaugurate-newly-upgraded-chembarambakkam-plant-to-enhance-water-supply-in-chennai/"
+        },
+        {
+          "title": "Chemical Industry Digest - Chembarambakkam Project to Double Chennai's Water Supply",
+          "url": "https://chemindigest.com/relief-for-chennai-chembarambakkam-project-to-double-water-supply/"
+        },
+        {
+          "title": "EA Water - Chennai Boosts Water Supply with Upgraded 530 MLD Chembarambakkam Plant",
+          "url": "https://www.eawater.com/regulars/waternews/20-lakh-homes-to-benefit-from-upgraded-water-treatment-plant/"
+        }
+      ],
+      "notes": "Originally commissioned in 2007 supplying 265 MLD; Second pipeline faced repeated delays due to NHAI permission issues; Benefits over 20 lakh households in South Chennai including Anna Nagar, Adyar, Ambattur, Valasaravakkam, Teynampet, parts of Tambaram and Avadi corporations",
+      "tweet_id": "1969331771390271647"
+    },
+    {
+      "id": "otteri-nalla-canal-restoration",
+      "name": {
+        "en": "Otteri Nullah Restoration Project",
+        "ta": "ஓட்டேரி நல்லா கால்வாய் புனரமைப்பு திட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Royapuram, Thiru-Vi-Ka Nagar, Anna Nagar (Zones V, VI, VIII)",
+        "coordinates": {
+          "latitude": 13.1000,
+          "longitude": 80.2500
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Canal Restoration",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 65.00,
+        "notes": "Desilting and wall elevation of 10.8 km canal"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation laid August 2025; Tender finalization expected July 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-08-30"
+      },
+      "sources": [
+        {
+          "title": "The Hindu - GCC Council clears resolutions on canal restoration",
+          "url": "https://www.thehindu.com/news/cities/chennai/gcc-council-clears-resolutions-on-canal-restoration-new-fish-market-sanitation-infra-works/article69979196.ece"
+        },
+        {
+          "title": "The Hindu - Chennai residents welcome Corporation's move to revamp Otteri Nullah",
+          "url": "https://www.thehindu.com/news/cities/chennai/chennai-residents-welcome-corporation-move-to-revamp-otteri-nullah-demand-steps-to-remove-encroachments/article69709489.ece"
+        },
+        {
+          "title": "Wikipedia - Otteri Nullah",
+          "url": "https://en.wikipedia.org/wiki/Otteri_Nullah"
+        }
+      ],
+      "notes": "10.8 km canal from Padi Flyover to Buckingham Canal; Maintenance transferred from Water Resources Department to GCC in October 2024; DPR includes bridge/infrastructure improvements, desilting, pollution control, encroachment prevention, blue-green corridor creation; Chain fencing included",
+      "tweet_id": "1961867986069065837"
+    },
+    {
+      "id": "ayyarmalai-temple-ropeway",
+      "name": {
+        "en": "Ayyarmalai Rathnagiriswarar Temple Ropeway",
+        "ta": "அய்யர்மலை இரத்தினகிரீஸ்வரர் கோயில் கயிறு வழி"
+      },
+      "location": {
+        "district": "Karur",
+        "city": "Ayyarmalai (near Kulithalai)",
+        "coordinates": {
+          "latitude": 10.9333,
+          "longitude": 78.4167
+        }
+      },
+      "type": "Religious Infrastructure",
+      "subType": "Temple Ropeway",
+      "status": "Operational",
+      "budget": {
+        "crore": 9.10,
+        "notes": "Ropeway and waiting hall for hill temple"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated July 24, 2024 by CM M.K. Stalin via video conferencing"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Rope car facility for 1,017-step hill temple",
+        "cmPhotoCompletion": "2024-07-24"
+      },
+      "sources": [
+        {
+          "title": "The Print - TN CM inaugurates ropeway access to Rathnagiriswarar hill temple",
+          "url": "https://theprint.in/india/tn-cm-inaugurates-ropeway-access-to-rathnagiriswarar-hill-temple/2189469/"
+        },
+        {
+          "title": "The Federal - Tamil Nadu: CM Stalin inaugurates ropeway to Rathnagiriswarar hill temple",
+          "url": "https://thefederal.com/category/states/south/tamil-nadu/tamil-nadu-cm-stalin-inaugurates-ropeway-to-rathnagiriswarar-hill-temple-135127"
+        }
+      ],
+      "notes": "Part of larger HRCE temple development initiative; CM inaugurated 13 projects in 9 temples worth Rs 20.53 crore total; Temple has 1,017 steps; Ropeway faced technical snag due to high winds shortly after inauguration",
+      "tweet_id": "1816026260868587956"
+    },
+    {
+      "id": "water-resources-19-projects-8-districts",
+      "name": {
+        "en": "Water Resources Department Projects (19 projects in 8 districts)",
+        "ta": "நீர்வளத்துறை திட்டங்கள் (8 மாவட்டங்களில் 19 திட்டங்கள்)"
+      },
+      "location": {
+        "district": "Multiple (8 districts including Coimbatore, Tirupur)",
+        "city": "Various",
+        "coordinates": null
+      },
+      "type": "Water Infrastructure",
+      "subType": "Check Dams and Canals",
+      "status": "Operational",
+      "budget": {
+        "crore": 89.00,
+        "notes": "19 projects including check dams, canals, dam reconstruction"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated October 7, 2024 by CM M.K. Stalin virtually from Chennai"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2024-10-07"
+      },
+      "sources": [
+        {
+          "title": "Construction World - Tamil Nadu CM Launches 19 New Water Projects",
+          "url": "https://www.constructionworld.in/urban-infrastructure/wastewater-and-sewage-treatment/tamil-nadu-cm-launches-19-new-water-projects/63394"
+        }
+      ],
+      "notes": "Key projects include: Check dam at Kavundayanvalasu village (Rs 11.05 crore), Check dam at Mambadi-Punganthurai village (near Dharapuram), Check dam across Kothavadi stream at Vadakkipalayam (near Pollachi); Water Resources Minister Duraimurugan also present at inauguration",
+      "tweet_id": "1842107393460863074"
+    },
+    {
+      "id": "panchayat-union-offices-12-districts",
+      "name": {
+        "en": "Panchayat Union Office Buildings (17 buildings in 12 districts)",
+        "ta": "ஊராட்சி ஒன்றிய அலுவலகக் கட்டடங்கள் (12 மாவட்டங்களில் 17 கட்டடங்கள்)"
+      },
+      "location": {
+        "district": "Multiple (12 districts)",
+        "city": "Coimbatore, Cuddalore, Erode, Kanyakumari, Pudukottai, Tenkasi, Thanjavur, Theni, Thoothukudi, Tiruchirappalli, Tirupur, Villupuram",
+        "coordinates": null
+      },
+      "type": "Public Buildings",
+      "subType": "Administrative Buildings",
+      "status": "Operational",
+      "budget": {
+        "crore": 64.53,
+        "notes": "17 Panchayat Union office buildings"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 12, 2024 by CM M.K. Stalin virtually from Secretariat"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2024-11-12"
+      },
+      "sources": [
+        {
+          "title": "Construction World - Tamil Nadu CM M K Stalin Inaugurates Infrastructure for Rural Development",
+          "url": "https://www.constructionworld.in/policy-updates-and-economic-news/tamil-nadu-cm-m-k-stalin-inaugurates-infrastructure-for-rural-development/65117"
+        },
+        {
+          "title": "Devdiscourse - Tamil Nadu Boosts Rural Development with New Infrastructure",
+          "url": "https://www.devdiscourse.com/article/science-environment/3154270-tamil-nadu-boosts-rural-development-with-new-infrastructure"
+        },
+        {
+          "title": "ETV Bharat - TN CM Inaugurates Infrastructure For Rural Development Dept",
+          "url": "https://www.etvbharat.com/en/!state/tn-cm-inaugurates-infrastructure-for-rural-development-dept-enn24111203715"
+        }
+      ],
+      "notes": "Part of Rural Development and Panchayat Raj Department initiative; Virtual inauguration from Secretariat",
+      "tweet_id": "1856252693658120506"
+    }
+  ],
+  "skipped_projects": [
+    {
+      "tweet_id": "1927309275312820350",
+      "name": "Thanigachalam Nagar Storm Water Drain",
+      "reason": "Likely same project as Surplus Water Canal Widening; insufficient independent verification"
+    },
+    {
+      "tweet_id": "1820367815993446859",
+      "name": "Surplus Water Canal Widening",
+      "reason": "Same location/budget as Thanigachalam Nagar drain; appears to be duplicate reference"
+    },
+    {
+      "tweet_id": "1993967657889182040",
+      "name": "HRCE Temple Projects and College Infrastructure",
+      "reason": "Too generic - aggregates multiple small temple projects; date in future (November 2025)"
+    },
+    {
+      "tweet_id": "1843189041627607116",
+      "name": "Police and Fire Service Buildings",
+      "reason": "Aggregate of multiple small projects across different departments; could not verify specific combined investment"
+    },
+    {
+      "tweet_id": "1817820531368079653",
+      "name": "Panchayat Union Office Buildings (19 in 10 districts)",
+      "reason": "Could not find specific verification for July 2024 event with Rs 71.94 crore; may overlap with November 2024 event"
+    },
+    {
+      "tweet_id": "1897936057897042308",
+      "name": "Thiruthuraipoondi Bypass Road",
+      "reason": "Inspection event, not inauguration or completion; project status unclear"
+    },
+    {
+      "tweet_id": "1887535224382165311",
+      "name": "Palayamkottai Commercial Complex and Park",
+      "reason": "Could not verify specific Nayinar Tank park renovation details"
+    }
+  ],
+  "statistics": {
+    "total_verified_projects": 8,
+    "total_verified_investment_crore": 537.03,
+    "total_skipped_projects": 7,
+    "by_status": {
+      "Operational": 6,
+      "Under Construction": 2
+    },
+    "by_type": {
+      "Water Infrastructure": 3,
+      "Public Buildings": 3,
+      "Public Transport": 1,
+      "Religious Infrastructure": 1
+    }
+  }
+}

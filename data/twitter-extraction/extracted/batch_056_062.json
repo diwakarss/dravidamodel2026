@@ -1,0 +1,1270 @@
+{
+  "batches": "56-62",
+  "extracted_at": "2026-02-18",
+  "items": [
+    {
+      "tweet_id": "2001589484840956336",
+      "category": "industries",
+      "name_en": "Schneider Electric MoU Investment",
+      "name_ta": "ஷ்னைடர் எலக்ட்ரிக் புரிந்துணர்வு ஒப்பந்தம்",
+      "investment_crore": 718,
+      "jobs_created": 663,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": "Chennai, Coimbatore, Hosur"
+      },
+      "event_type": "announcement",
+      "date": "2025-12-18",
+      "summary_en": "Schneider Electric signed MoU with Tamil Nadu for Rs 718 crore investment, creating 663 jobs through brownfield expansion in Chennai and Coimbatore, and new greenfield project in Hosur."
+    },
+    {
+      "tweet_id": "2001684814219612514",
+      "category": "social_welfare",
+      "name_en": "Perarignar Anna Marriage Hall Inauguration",
+      "name_ta": "பேரறிஞர் அண்ணா திருமண மாளிகை",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": "15 couples",
+      "location": {
+        "district": "Chennai",
+        "city": "Kolathur"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-18",
+      "summary_en": "CM inaugurated Perarignar Anna Marriage Hall in Kolathur, conducting marriage for 15 couples with wedding gifts."
+    },
+    {
+      "tweet_id": "2002059164093501597",
+      "category": "infrastructure",
+      "name_en": "Kalaignar Park Thiruvarur",
+      "name_ta": "கலைஞர் பூங்கா திருவாரூர்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Thiruvarur",
+        "city": "Thiruvarur"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-19",
+      "summary_en": "Deputy CM inaugurated Kalaignar Park near Kalaignar Kottam in Thiruvarur."
+    },
+    {
+      "tweet_id": "2002429145293484371",
+      "category": "tamil_history",
+      "name_en": "Porunai Museum",
+      "name_ta": "பொருநை அருங்காட்சியகம்",
+      "investment_crore": 56.36,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Tirunelveli",
+        "city": "Tirunelveli"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-20",
+      "summary_en": "CM inaugurated Porunai Museum built on 13 acres at Rs 56.36 crore to showcase archaeological findings from Adichanallur, Sivagalai, Korkai and other sites."
+    },
+    {
+      "tweet_id": "2002658587311812921",
+      "category": "infrastructure",
+      "name_en": "New Bus Services Tirunelveli",
+      "name_ta": "புதிய பேருந்து சேவைகள் திருநெல்வேலி",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Tirunelveli",
+        "city": "Palayamkottai"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-21",
+      "summary_en": "CM flagged off 15 new buses for State Transport Corporation in Tirunelveli district."
+    },
+    {
+      "tweet_id": "2002660955633717382",
+      "category": "social_welfare",
+      "name_en": "Kalaignar Kanavu Illam Housing Distribution",
+      "name_ta": "கலைஞரின் கனவு இல்லம்",
+      "investment_crore": 101.49,
+      "jobs_created": null,
+      "beneficiaries": "45477",
+      "location": {
+        "district": "Tirunelveli",
+        "city": "Palayamkottai"
+      },
+      "event_type": "distribution",
+      "date": "2025-12-21",
+      "summary_en": "CM distributed welfare assistance worth Rs 101.49 crore to 45,477 beneficiaries including houses under Kalaignar Kanavu Illam scheme."
+    },
+    {
+      "tweet_id": "2002719951862518083",
+      "category": "infrastructure",
+      "name_en": "Tirunelveli District Development Projects",
+      "name_ta": "திருநெல்வேலி மாவட்ட வளர்ச்சித் திட்டங்கள்",
+      "investment_crore": 694.02,
+      "jobs_created": null,
+      "beneficiaries": "45477",
+      "location": {
+        "district": "Tirunelveli",
+        "city": "Tirunelveli"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-21",
+      "summary_en": "CM inaugurated 33 completed projects worth Rs 694.02 crore and laid foundation for 11 new projects in Tirunelveli district."
+    },
+    {
+      "tweet_id": "2003018602358972840",
+      "category": "education",
+      "name_en": "School Education Infrastructure Projects",
+      "name_ta": "பள்ளிக்கல்வி உட்கட்டமைப்பு திட்டங்கள்",
+      "investment_crore": 234.29,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-22",
+      "summary_en": "CM inaugurated 392 new classrooms at Rs 96.49 crore, 2 model schools at Rs 113.68 crore, and 68 library buildings at Rs 17.82 crore across 20 districts. Also laid foundation for Mayiladuthurai district central library at Rs 4.40 crore."
+    },
+    {
+      "tweet_id": "2003022844067008942",
+      "category": "infrastructure",
+      "name_en": "Police and Fire Service Buildings",
+      "name_ta": "காவல்துறை மற்றும் தீயணைப்பு கட்டடங்கள்",
+      "investment_crore": 39.74,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-22",
+      "summary_en": "CM inaugurated police buildings worth Rs 22.09 crore, fire service buildings worth Rs 16.96 crore, prison buildings worth Rs 0.68 crore, and 9 new police stations and 3 new police sub-divisions."
+    },
+    {
+      "tweet_id": "2003494535838703783",
+      "category": "infrastructure",
+      "name_en": "Victoria Public Hall Restoration",
+      "name_ta": "விக்டோரியா பொது அரங்கம் புனரமைப்பு",
+      "investment_crore": 32.62,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-23",
+      "summary_en": "CM inaugurated the heritage Victoria Public Hall restored at Rs 32.62 crore under Singara Chennai 2.0, preserving its 1887 architecture."
+    },
+    {
+      "tweet_id": "2003507101780647985",
+      "category": "infrastructure",
+      "name_en": "GCC New Council Hall",
+      "name_ta": "சென்னை மாநகராட்சி புதிய மன்றக்கூடம்",
+      "investment_crore": 74.70,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "groundbreaking",
+      "date": "2025-12-23",
+      "summary_en": "CM laid foundation stone for new Chennai Corporation Council Hall at Rs 74.70 crore in Ripon Building complex."
+    },
+    {
+      "tweet_id": "2003743512484077818",
+      "category": "infrastructure",
+      "name_en": "Multi-Axle AC Luxury Buses",
+      "name_ta": "குளிர்சாதன சொகுசு பேருந்துகள்",
+      "investment_crore": 34.30,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-24",
+      "summary_en": "CM flagged off 20 multi-axle AC luxury buses worth Rs 34.30 crore for State Express Transport Corporation."
+    },
+    {
+      "tweet_id": "2004439808719122528",
+      "category": "industries",
+      "name_en": "Pou Chen High Glory Footwear Factory",
+      "name_ta": "பெள சென் காலணி உற்பத்தி ஆலை",
+      "investment_crore": 2302,
+      "jobs_created": 20000,
+      "beneficiaries": null,
+      "location": {
+        "district": "Kallakurichi",
+        "city": "Ulundurpet"
+      },
+      "event_type": "other",
+      "date": "2025-12-26",
+      "summary_en": "CM visited Pou Chen (Taiwan) High Glory Footwear facility at SIPCOT Ulundurpet investing Rs 2,302 crore to create 20,000 jobs for Nike footwear manufacturing."
+    },
+    {
+      "tweet_id": "2004478359473140114",
+      "category": "infrastructure",
+      "name_en": "Kallakurichi District Collectorate",
+      "name_ta": "கள்ளக்குறிச்சி மாவட்ட ஆட்சியர் அலுவலகம்",
+      "investment_crore": 139.41,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Kallakurichi",
+        "city": "Veerasozapuram"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-26",
+      "summary_en": "CM inaugurated new Kallakurichi District Collectorate complex built on 39.81 acres at Rs 139.41 crore."
+    },
+    {
+      "tweet_id": "2004534752058151226",
+      "category": "social_welfare",
+      "name_en": "Kallakurichi Welfare Distribution",
+      "name_ta": "கள்ளக்குறிச்சி நலத்திட்ட உதவிகள்",
+      "investment_crore": 1045,
+      "jobs_created": null,
+      "beneficiaries": "216056",
+      "location": {
+        "district": "Kallakurichi",
+        "city": "Veerasozapuram"
+      },
+      "event_type": "distribution",
+      "date": "2025-12-26",
+      "summary_en": "CM distributed welfare assistance worth Rs 1,045 crore to 2,16,056 beneficiaries in Kallakurichi district."
+    },
+    {
+      "tweet_id": "2004600905094889523",
+      "category": "infrastructure",
+      "name_en": "Kallakurichi Development Projects",
+      "name_ta": "கள்ளக்குறிச்சி வளர்ச்சித் திட்டங்கள்",
+      "investment_crore": 728.25,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Kallakurichi",
+        "city": "Veerasozapuram"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-26",
+      "summary_en": "CM inaugurated 2,559 completed projects worth Rs 341.77 crore and laid foundation for 62 new projects worth Rs 386.48 crore in Kallakurichi."
+    },
+    {
+      "tweet_id": "2004854827248222611",
+      "category": "infrastructure",
+      "name_en": "Tiruvannamalai Development Projects",
+      "name_ta": "திருவண்ணாமலை வளர்ச்சித் திட்டங்கள்",
+      "investment_crore": 695.22,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Tiruvannamalai",
+        "city": "Malappampadi"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-27",
+      "summary_en": "CM inaugurated 314 completed projects worth Rs 631.48 crore and laid foundation for 46 new projects worth Rs 63.74 crore in Tiruvannamalai."
+    },
+    {
+      "tweet_id": "2004856698591478274",
+      "category": "social_welfare",
+      "name_en": "Tiruvannamalai Welfare Distribution",
+      "name_ta": "திருவண்ணாமலை நலத்திட்ட உதவிகள்",
+      "investment_crore": 1400.57,
+      "jobs_created": null,
+      "beneficiaries": "266194",
+      "location": {
+        "district": "Tiruvannamalai",
+        "city": "Malappampadi"
+      },
+      "event_type": "distribution",
+      "date": "2025-12-27",
+      "summary_en": "CM distributed welfare assistance worth Rs 1,400.57 crore to 2,66,194 beneficiaries in Tiruvannamalai district."
+    },
+    {
+      "tweet_id": "2004859922820071882",
+      "category": "education",
+      "name_en": "Tiruvannamalai Government Model School",
+      "name_ta": "திருவண்ணாமலை அரசு மாதிரிப் பள்ளி",
+      "investment_crore": 56.47,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Tiruvannamalai",
+        "city": "Tiruvannamalai"
+      },
+      "event_type": "inauguration",
+      "date": "2025-12-27",
+      "summary_en": "CM inaugurated new Government Model School buildings and hostels in Tiruvannamalai built at Rs 56.47 crore."
+    },
+    {
+      "tweet_id": "2005290757050266111",
+      "category": "infrastructure",
+      "name_en": "Thirumakoottai Library and Multipurpose Centre",
+      "name_ta": "திருமக்கோட்டை நூலகம் மற்றும் பல்நோக்கு சேவை மையம்",
+      "investment_crore": 0.96,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Thiruvarur",
+        "city": "Mannargudi"
+      },
+      "event_type": "groundbreaking",
+      "date": "2025-12-28",
+      "summary_en": "Industries Minister laid foundation for library and multipurpose service centre at Rs 96 lakh in Thirumakoottai village."
+    },
+    {
+      "tweet_id": "2005564530806632464",
+      "category": "infrastructure",
+      "name_en": "Parambikulam Aliyar Canal Desilting",
+      "name_ta": "பரம்பிக்குளம் ஆழியாறு வாய்க்கால் தூர்வாரல்",
+      "investment_crore": 10,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore"
+      },
+      "event_type": "announcement",
+      "date": "2025-12-29",
+      "summary_en": "Government allocated Rs 10 crore for desilting Parambikulam Aliyar irrigation canal."
+    },
+    {
+      "tweet_id": "2006307442607677658",
+      "category": "sports_culture",
+      "name_en": "International Trap Shooting Range",
+      "name_ta": "சர்வதேச டிராப் மற்றும் சூட்டிங் பயிற்சி அகாடமி",
+      "investment_crore": 17.01,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Keerapakkam"
+      },
+      "event_type": "groundbreaking",
+      "date": "2025-12-31",
+      "summary_en": "Deputy CM laid foundation for international standard trap shooting range at Rs 17.01 crore near Vandalur."
+    },
+    {
+      "tweet_id": "2006372800085578169",
+      "category": "sports_culture",
+      "name_en": "Sports Infrastructure Development",
+      "name_ta": "விளையாட்டு உட்கட்டமைப்பு வளர்ச்சி",
+      "investment_crore": 48.76,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "groundbreaking",
+      "date": "2025-12-31",
+      "summary_en": "Deputy CM laid foundation for sports infrastructure worth Rs 48.76 crore in Chennai, Chengalpattu, Salem, and Ramanathapuram districts including natural grass football grounds and synthetic running tracks."
+    },
+    {
+      "tweet_id": "2006609966527033600",
+      "category": "social_welfare",
+      "name_en": "Pongal Bonus for Government Employees",
+      "name_ta": "அரசு ஊழியர்களுக்கு பொங்கல் பரிசு",
+      "investment_crore": 183.86,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": null,
+        "city": null
+      },
+      "event_type": "announcement",
+      "date": "2026-01-01",
+      "summary_en": "CM announced Rs 183.86 crore allocation for Pongal bonus to C and D category government employees and pensioners."
+    },
+    {
+      "tweet_id": "2006785353483694230",
+      "category": "industries",
+      "name_en": "TN Industries 2025 MoU Summary",
+      "name_ta": "தமிழ்நாடு தொழில் முதலீடுகள் 2025",
+      "investment_crore": 207000,
+      "jobs_created": 400000,
+      "beneficiaries": null,
+      "location": {
+        "district": null,
+        "city": null
+      },
+      "event_type": "announcement",
+      "date": "2026-01-01",
+      "summary_en": "In 2025, Tamil Nadu signed over 270 MoUs worth Rs 2.07 lakh crore committed investments, creating over 4 lakh job opportunities."
+    },
+    {
+      "tweet_id": "2007090942915015104",
+      "category": "industries",
+      "name_en": "ECMS Third Tranche Approvals",
+      "name_ta": "ECMS மூன்றாம் தவணை ஒப்புதல்கள்",
+      "investment_crore": 27166,
+      "jobs_created": 23451,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": "Chennai, Hosur"
+      },
+      "event_type": "announcement",
+      "date": "2026-01-02",
+      "summary_en": "Tamil Nadu secured 69% of jobs (23,451) in ECMS third tranche with Rs 27,166 crore investments from Tata Electronics (1,500 jobs), Motherson (5,741 jobs), and Foxconn (16,210 jobs)."
+    },
+    {
+      "tweet_id": "2007376096527036912",
+      "category": "infrastructure",
+      "name_en": "Temple Development Projects",
+      "name_ta": "கோயில் வளர்ச்சித் திட்டங்கள்",
+      "investment_crore": 124.20,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-03",
+      "summary_en": "CM laid foundation for 18 new temple projects worth Rs 108.90 crore in 11 temples and inaugurated 10 completed temple works worth Rs 15.30 crore in 7 temples."
+    },
+    {
+      "tweet_id": "2007751714498338960",
+      "category": "social_welfare",
+      "name_en": "Pongal Gift Package with Cash",
+      "name_ta": "பொங்கல் பரிசுத் தொகுப்பு",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": "22291710",
+      "location": {
+        "district": null,
+        "city": null
+      },
+      "event_type": "distribution",
+      "date": "2026-01-04",
+      "summary_en": "Pongal gift package with Rs 3,000 cash to be distributed to 2,22,91,710 rice card holders across Tamil Nadu."
+    },
+    {
+      "tweet_id": "2008090930063233373",
+      "category": "social_welfare",
+      "name_en": "UN Women MoU",
+      "name_ta": "ஐ.நா பெண்கள் புரிந்துணர்வு ஒப்பந்தம்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "announcement",
+      "date": "2026-01-05",
+      "summary_en": "MoU signed between Government of Tamil Nadu and UN Women for women's welfare, gender equality and inclusive development."
+    },
+    {
+      "tweet_id": "2008095449924944249",
+      "category": "infrastructure",
+      "name_en": "Revenue Department Vehicles",
+      "name_ta": "வருவாய்த்துறை வாகனங்கள்",
+      "investment_crore": 13.73,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-05",
+      "summary_en": "CM flagged off 155 new vehicles worth Rs 13.73 crore for Revenue and Disaster Management officials, and e-scooters for 100 gig workers."
+    },
+    {
+      "tweet_id": "2008184738289447017",
+      "category": "education",
+      "name_en": "Ulagam Ungal Kaiyil Laptop Scheme",
+      "name_ta": "உலகம் உங்கள் கையில் மடிக்கணினி திட்டம்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": "1000000",
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "scheme_launch",
+      "date": "2026-01-05",
+      "summary_en": "CM launched first phase of laptop distribution scheme providing 10 lakh laptops (of total 20 lakh) to college students with Intel i3, 8GB RAM, 256GB SSD and AI software subscriptions."
+    },
+    {
+      "tweet_id": "2008627148538736809",
+      "category": "industries",
+      "name_en": "Securin Cybersecurity Facility",
+      "name_ta": "செக்யூரின் சைபர் பாதுகாப்பு வசதி",
+      "investment_crore": 427,
+      "jobs_created": 300,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "IIT Madras Research Park"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-06",
+      "summary_en": "Industries Minister inaugurated Securin (US) cybersecurity facility at IIT Madras Research Park, investing Rs 427 crore to create 300 high-quality jobs."
+    },
+    {
+      "tweet_id": "2008821543623872971",
+      "category": "infrastructure",
+      "name_en": "Dindigul New Bus Services",
+      "name_ta": "திண்டுக்கல் புதிய பேருந்து சேவைகள்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Dindigul",
+        "city": "Dindigul"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-07",
+      "summary_en": "CM flagged off 61 new buses (38 urban + 23 suburban) for Dindigul district."
+    },
+    {
+      "tweet_id": "2008824150861946880",
+      "category": "social_welfare",
+      "name_en": "Dindigul Welfare Distribution",
+      "name_ta": "திண்டுக்கல் நலத்திட்ட உதவிகள்",
+      "investment_crore": 1082.86,
+      "jobs_created": null,
+      "beneficiaries": "262864",
+      "location": {
+        "district": "Dindigul",
+        "city": "Dindigul"
+      },
+      "event_type": "distribution",
+      "date": "2026-01-07",
+      "summary_en": "CM distributed welfare assistance worth Rs 1,082.86 crore to 2,62,864 beneficiaries in Dindigul district."
+    },
+    {
+      "tweet_id": "2008829134970269996",
+      "category": "infrastructure",
+      "name_en": "Dindigul Development Projects",
+      "name_ta": "திண்டுக்கல் வளர்ச்சித் திட்டங்கள்",
+      "investment_crore": 512.04,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Dindigul",
+        "city": "Dindigul"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-07",
+      "summary_en": "CM inaugurated 111 completed projects worth Rs 337.84 crore and laid foundation for 212 new projects worth Rs 174.20 crore in Dindigul."
+    },
+    {
+      "tweet_id": "2008934465045958847",
+      "category": "employment",
+      "name_en": "Kalaignar Handicrafts Scheme",
+      "name_ta": "கலைஞர் கைவினைத் திட்டம்",
+      "investment_crore": 176,
+      "jobs_created": null,
+      "beneficiaries": "8000",
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "distribution",
+      "date": "2026-01-07",
+      "summary_en": "CM distributed loan assistance under Kalaignar Handicrafts Scheme benefiting 8,000+ artisans with Rs 145 crore loans and Rs 31 crore subsidies."
+    },
+    {
+      "tweet_id": "2009182483468964125",
+      "category": "industries",
+      "name_en": "Umagine TN 2026 IT Summit",
+      "name_ta": "Umagine TN 2026 தகவல் தொழில்நுட்ப உச்சி மாநாடு",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Nandambakkam"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-08",
+      "summary_en": "CM inaugurated Umagine TN-2026 IT Summit and released Tamil Nadu Deep Tech Startup Policy 2025-26."
+    },
+    {
+      "tweet_id": "2009286535724597742",
+      "category": "sports_culture",
+      "name_en": "Chennai Book Fair 2026",
+      "name_ta": "சென்னை புத்தகக் காட்சி 2026",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Nandanam"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-08",
+      "summary_en": "CM inaugurated 49th Chennai Book Fair 2026 and unveiled Thiruvalluvar statue at YMCA grounds, Nandanam."
+    },
+    {
+      "tweet_id": "2009546188982012318",
+      "category": "social_welfare",
+      "name_en": "Unga Kanava Sollungal Scheme",
+      "name_ta": "உங்க கனவ சொல்லுங்க திட்டம்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Tiruvallur",
+        "city": "Ponneri"
+      },
+      "event_type": "scheme_launch",
+      "date": "2026-01-09",
+      "summary_en": "CM launched 'Tell Us Your Dreams' scheme to directly collect people's aspirations and needs through door-to-door visits."
+    },
+    {
+      "tweet_id": "2009610561596924173",
+      "category": "industries",
+      "name_en": "Eros Gen AI Investment MoU",
+      "name_ta": "Eros Gen AI முதலீடு புரிந்துணர்வு ஒப்பந்தம்",
+      "investment_crore": 3320,
+      "jobs_created": 1000,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "announcement",
+      "date": "2026-01-09",
+      "summary_en": "MoU signed with Eros Gen AI (UK) for Rs 3,320 crore investment creating 1,000 jobs at Umagine 2026 summit."
+    },
+    {
+      "tweet_id": "2010639776588927337",
+      "category": "infrastructure",
+      "name_en": "Double Decker EV Bus Service",
+      "name_ta": "இரட்டை தள மின்சார பேருந்து",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-12",
+      "summary_en": "CM inaugurated double-decker EV bus service donated by overseas Tamils for heritage tourism on World Tamil Diaspora Day."
+    },
+    {
+      "tweet_id": "2011000091457511882",
+      "category": "agriculture",
+      "name_en": "Dairy Sector Infrastructure",
+      "name_ta": "பால்வளத்துறை உட்கட்டமைப்பு",
+      "investment_crore": 80.62,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-13",
+      "summary_en": "CM inaugurated 8 dairy sector projects worth Rs 80.62 crore including cattle feed plant, fermented milk products factory and 5 microbiology labs."
+    },
+    {
+      "tweet_id": "2011053347021664320",
+      "category": "industries",
+      "name_en": "Sarvam AI Sovereign AI Park",
+      "name_ta": "சர்வம் AI சார்வபௌம AI பூங்கா",
+      "investment_crore": 10000,
+      "jobs_created": 1000,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "announcement",
+      "date": "2026-01-13",
+      "summary_en": "MoU signed with Sarvam AI to establish India's first Sovereign AI Park in Tamil Nadu with Rs 10,000 crore investment creating 1,000 high-skilled jobs."
+    },
+    {
+      "tweet_id": "2011308741417984359",
+      "category": "environment",
+      "name_en": "Tamil Nadu Circular Economy Policy",
+      "name_ta": "தமிழ்நாடு வட்ட பொருளாதாரக் கொள்கை",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": null,
+        "city": null
+      },
+      "event_type": "announcement",
+      "date": "2026-01-13",
+      "summary_en": "CM launched Tamil Nadu Circular Economy Investment Policy 2026 promoting recycling, reuse and circular manufacturing across textiles, automobiles, electronics and plastics sectors."
+    },
+    {
+      "tweet_id": "2011450371886191064",
+      "category": "sports_culture",
+      "name_en": "Chennai Sangamam 2026",
+      "name_ta": "சென்னை சங்கமம் 2026",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Egmore"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-14",
+      "summary_en": "CM inaugurated Chennai Sangamam 2026 cultural festival at Rajarathnam Stadium to celebrate Pongal and Tamil heritage."
+    },
+    {
+      "tweet_id": "2011655332381278726",
+      "category": "agriculture",
+      "name_en": "Cyclone Ditha Crop Relief",
+      "name_ta": "டித்வா புயல் பயிர் நிவாரணம்",
+      "investment_crore": 111.96,
+      "jobs_created": null,
+      "beneficiaries": "84848",
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "distribution",
+      "date": "2026-01-15",
+      "summary_en": "CM released Rs 111.96 crore relief for 84,848 farmers affected by northeast monsoon and Cyclone Ditha for 1.39 lakh acres of crops."
+    },
+    {
+      "tweet_id": "2012466510737154453",
+      "category": "infrastructure",
+      "name_en": "Immanuel Sekaran Memorial",
+      "name_ta": "இமானுவேல் சேகரனார் மணிமண்டபம்",
+      "investment_crore": 3,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Ramanathapuram",
+        "city": "Paramakudi"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-17",
+      "summary_en": "CM inaugurated Rs 3 crore memorial with statue for freedom fighter Immanuel Sekaran in Paramakudi."
+    },
+    {
+      "tweet_id": "2013144765815201978",
+      "category": "infrastructure",
+      "name_en": "Mamallan Reservoir",
+      "name_ta": "மாமல்லன் நீர்த்தேக்கம்",
+      "investment_crore": 342.60,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Kovalam"
+      },
+      "event_type": "groundbreaking",
+      "date": "2026-01-19",
+      "summary_en": "CM laid foundation for Mamallan drinking water reservoir spanning 5,161 acres at Rs 342.60 crore between Old Mamallapuram Road and ECR."
+    },
+    {
+      "tweet_id": "2013170452466974812",
+      "category": "infrastructure",
+      "name_en": "Kalaignar International Convention Centre",
+      "name_ta": "கலைஞர் பன்னாட்டு மாநாடு மையம்",
+      "investment_crore": 525,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Muttukadu"
+      },
+      "event_type": "other",
+      "date": "2026-01-19",
+      "summary_en": "CM reviewed construction of world-class Kalaignar International Convention Centre being built on 37.99 acres at Rs 525 crore on ECR."
+    },
+    {
+      "tweet_id": "2013291901534036188",
+      "category": "industries",
+      "name_en": "IKEA E-commerce Launch",
+      "name_ta": "IKEA இணையவழி விற்பனை தொடக்கம்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-19",
+      "summary_en": "Industries Minister inaugurated IKEA e-commerce launch in Tamil Nadu, marking entry of world's largest home retail brand."
+    },
+    {
+      "tweet_id": "2013899496384798772",
+      "category": "infrastructure",
+      "name_en": "North Chennai Urban Housing",
+      "name_ta": "வடசென்னை நகர்ப்புற குடியிருப்புகள்",
+      "investment_crore": 178,
+      "jobs_created": null,
+      "beneficiaries": "776 families",
+      "location": {
+        "district": "Chennai",
+        "city": "Ezhukinar"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-21",
+      "summary_en": "CM inaugurated 776 urban housing units worth Rs 147 crore near Stanley Hospital under North Chennai Development Scheme, and laid foundation for 144 new units worth Rs 31 crore."
+    },
+    {
+      "tweet_id": "2014265147431551292",
+      "category": "infrastructure",
+      "name_en": "Mandaveli Bus Terminal Multi-Modal Hub",
+      "name_ta": "மந்தைவெளி பேருந்து முனைய பல்நோக்கு மையம்",
+      "investment_crore": 167.09,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Mandaveli"
+      },
+      "event_type": "groundbreaking",
+      "date": "2026-01-22",
+      "summary_en": "CM laid foundation for integrated multi-modal transport and commercial complex at Rs 167.09 crore at Mandaveli bus depot."
+    },
+    {
+      "tweet_id": "2014265918088720652",
+      "category": "infrastructure",
+      "name_en": "Thoothukudi Desalination Plant",
+      "name_ta": "தூத்துக்குடி கடல்நீர் நன்னீராக்கும் ஆலை",
+      "investment_crore": 2292.38,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Thoothukudi",
+        "city": "Mullakkadu"
+      },
+      "event_type": "groundbreaking",
+      "date": "2026-01-22",
+      "summary_en": "CM laid foundation for 60 MLD desalination plant at Rs 2,292.38 crore to meet water needs of SIPCOT and surrounding industries."
+    },
+    {
+      "tweet_id": "2014271294519615542",
+      "category": "agriculture",
+      "name_en": "Animal Husbandry Infrastructure",
+      "name_ta": "கால்நடை பராமரிப்பு உட்கட்டமைப்பு",
+      "investment_crore": 135.30,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-22",
+      "summary_en": "CM inaugurated 12 animal husbandry buildings worth Rs 16.88 crore and laid foundation for 31 integrated farms and modern meat processing complex worth Rs 118.42 crore."
+    },
+    {
+      "tweet_id": "2014620210452639950",
+      "category": "sports_culture",
+      "name_en": "Jallikattu Reforms",
+      "name_ta": "ஜல்லிக்கட்டு சீர்திருத்தங்கள்",
+      "investment_crore": 2,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Madurai",
+        "city": "Alanganallur"
+      },
+      "event_type": "announcement",
+      "date": "2026-01-23",
+      "summary_en": "CM announced Rs 2 crore for Jallikattu bull training and treatment centre in Alanganallur, priority jobs for bull tamers, and relaxation of registration rules."
+    },
+    {
+      "tweet_id": "2016060911220338961",
+      "category": "social_welfare",
+      "name_en": "TN WESAFE and HPV Vaccine Program",
+      "name_ta": "TN WESAFE மற்றும் HPV தடுப்பூசி திட்டம்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": "30209",
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "scheme_launch",
+      "date": "2026-01-27",
+      "summary_en": "CM launched TN WESAFE program for women's employment support with World Bank assistance, and HPV vaccination for 30,209 girls aged 14 in 4 districts to prevent cervical cancer."
+    },
+    {
+      "tweet_id": "2016069693204005099",
+      "category": "healthcare",
+      "name_en": "Guindy Children's Super Specialty Hospital",
+      "name_ta": "கிண்டி குழந்தைகளுக்கான உயர்சிறப்பு மருத்துவமனை",
+      "investment_crore": 417.07,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Guindy"
+      },
+      "event_type": "groundbreaking",
+      "date": "2026-01-27",
+      "summary_en": "CM laid foundation for children's super specialty hospital and research centre at Rs 417.07 crore at King Institute, Guindy."
+    },
+    {
+      "tweet_id": "2016067824566075837",
+      "category": "social_welfare",
+      "name_en": "Global Women Summit 2026 - Pink Bus Service",
+      "name_ta": "உலக மகளிர் உச்சி மாநாடு 2026 - பிங்க் பேருந்து",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-27",
+      "summary_en": "CM launched 10 Pink buses operated entirely by women staff for women's safety under Vidiyal Payanam scheme, along with women police vehicles and Pink autos."
+    },
+    {
+      "tweet_id": "2016792137329688658",
+      "category": "industries",
+      "name_en": "International Textile Summit 360",
+      "name_ta": "சர்வதேச ஜவுளித் தொழில் மாநாடு 360",
+      "investment_crore": 915,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-29",
+      "summary_en": "CM inaugurated International Textile Summit in Coimbatore with 55 MoUs worth Rs 915 crore and announced 20% capital investment subsidy for modern textile machinery."
+    },
+    {
+      "tweet_id": "2016796751978696922",
+      "category": "infrastructure",
+      "name_en": "Annal Ambedkar Marriage Hall",
+      "name_ta": "அண்ணல் அம்பேத்கர் திருமண மாளிகை",
+      "investment_crore": 21.50,
+      "jobs_created": null,
+      "beneficiaries": "10 couples",
+      "location": {
+        "district": "Chennai",
+        "city": "Perambur"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-29",
+      "summary_en": "CM inaugurated Annal Ambedkar Marriage Hall built at Rs 21.50 crore in Perambur under North Chennai Development Scheme, conducting 10 marriages."
+    },
+    {
+      "tweet_id": "2016802107911995746",
+      "category": "infrastructure",
+      "name_en": "Broadway Bus Terminal Redevelopment",
+      "name_ta": "பிராட்வே பேருந்து நிலைய மறுசீரமைப்பு",
+      "investment_crore": 822.70,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Broadway"
+      },
+      "event_type": "groundbreaking",
+      "date": "2026-01-29",
+      "summary_en": "CM laid foundation for multi-purpose integrated bus terminal and Kuralakam building at Rs 822.70 crore at Broadway."
+    },
+    {
+      "tweet_id": "2016802947355856923",
+      "category": "education",
+      "name_en": "Tamil Nadu Knowledge City",
+      "name_ta": "தமிழ்நாடு அறிவுசார் நகரம்",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Tiruvallur",
+        "city": null
+      },
+      "event_type": "groundbreaking",
+      "date": "2026-01-29",
+      "summary_en": "CM laid foundation for Tamil Nadu Knowledge City (800+ acres) with MoUs from 8 international universities at India Global Education Summit 2026."
+    },
+    {
+      "tweet_id": "2017279715019763912",
+      "category": "tamil_history",
+      "name_en": "Gandhi-Jeeva Meeting Memorial",
+      "name_ta": "காந்தி-ஜீவா சந்திப்பு நினைவு அரங்கம்",
+      "investment_crore": 3.27,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Sivaganga",
+        "city": "Siraiyaval"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-30",
+      "summary_en": "CM inaugurated Rs 3.27 crore memorial with statues commemorating Gandhi-Jeeva meeting in Sivaganga district."
+    },
+    {
+      "tweet_id": "2017504842441470067",
+      "category": "infrastructure",
+      "name_en": "Sivaganga District Development",
+      "name_ta": "சிவகங்கை மாவட்ட வளர்ச்சி",
+      "investment_crore": 2572.86,
+      "jobs_created": null,
+      "beneficiaries": "15453",
+      "location": {
+        "district": "Sivaganga",
+        "city": "Karaikudi"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-31",
+      "summary_en": "CM inaugurated multiple projects including Rs 100.45 crore law college, Rs 61.79 crore agricultural college, Neo TIDEL park, and 2,559 completed projects worth Rs 2,559.50 crore."
+    },
+    {
+      "tweet_id": "2017512244763120051",
+      "category": "industries",
+      "name_en": "Karaikudi TIDEL Neo IT Park",
+      "name_ta": "காரைக்குடி டைடல் நியோ IT பூங்கா",
+      "investment_crore": 28,
+      "jobs_created": 600,
+      "beneficiaries": null,
+      "location": {
+        "district": "Sivaganga",
+        "city": "Karaikudi"
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-31",
+      "summary_en": "CM inaugurated 7th TIDEL Neo IT Park in Karaikudi built at Rs 28 crore on 5 acres with 50,000 sqft workspace for 600 IT professionals."
+    },
+    {
+      "tweet_id": "2017543792530715011",
+      "category": "infrastructure",
+      "name_en": "Sivaganga Combined Drinking Water Project",
+      "name_ta": "சிவகங்கை கூட்டுக் குடிநீர் திட்டம்",
+      "investment_crore": 2119.07,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Sivaganga",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-01-31",
+      "summary_en": "CM launched Rs 2,119.07 crore Cauvery-based combined drinking water project covering 8 town panchayats, 11 panchayat unions and 2,452 rural habitations."
+    },
+    {
+      "tweet_id": "2018242860642655437",
+      "category": "environment",
+      "name_en": "SIPCOT Navalur Lake Eco Park",
+      "name_ta": "சிப்காட் நாவலூர் ஏரி சுற்றுச்சூழல் பூங்கா",
+      "investment_crore": 30,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Siruseri"
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-02",
+      "summary_en": "CM inaugurated SIPCOT Navalur Lake Eco Park developed at Rs 30 crore on 33.43 acres with desilting, walking tracks, cycling paths and eco-knowledge centre."
+    },
+    {
+      "tweet_id": "2018247260044468642",
+      "category": "industries",
+      "name_en": "Tamil Nadu Global Tourism Summit 2026",
+      "name_ta": "தமிழ்நாடு உலகளாவிய சுற்றுலா உச்சி மாநாடு 2026",
+      "investment_crore": 22794.78,
+      "jobs_created": 65937,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Mamallapuram"
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-02",
+      "summary_en": "CM inaugurated first TN Global Tourism Summit with 127 MoUs worth Rs 22,794.78 crore committed investment and 65,937 job opportunities."
+    },
+    {
+      "tweet_id": "2018606436562227347",
+      "category": "infrastructure",
+      "name_en": "Kolathur Lake Park",
+      "name_ta": "கொளத்தூர் ஏரிக்கரை பூங்கா",
+      "investment_crore": 4.98,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Kolathur"
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-03",
+      "summary_en": "CM inaugurated upgraded Kolathur Lake Park built at Rs 4.98 crore under North Chennai Development Scheme."
+    },
+    {
+      "tweet_id": "2018979029337207262",
+      "category": "infrastructure",
+      "name_en": "Villupuram Development Projects",
+      "name_ta": "விழுப்புரம் வளர்ச்சித் திட்டங்கள்",
+      "investment_crore": 644.73,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Villupuram",
+        "city": "Tindivanam"
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-04",
+      "summary_en": "CM inaugurated 199 completed projects worth Rs 390.44 crore and laid foundation for 24 new projects worth Rs 254.29 crore in Villupuram."
+    },
+    {
+      "tweet_id": "2019008912050225525",
+      "category": "industries",
+      "name_en": "Bulten PSM Fasteners Factory",
+      "name_ta": "புல்டன் PSM ஃபாஸ்ட்னர்ஸ் தொழிற்சாலை",
+      "investment_crore": 525,
+      "jobs_created": 2000,
+      "beneficiaries": null,
+      "location": {
+        "district": "Kancheepuram",
+        "city": "Oragadam"
+      },
+      "event_type": "announcement",
+      "date": "2026-02-04",
+      "summary_en": "Bulten Group (Sweden) signed MoU to establish micro-fasteners manufacturing facility at Oragadam with Rs 525 crore investment creating 2,000 jobs."
+    },
+    {
+      "tweet_id": "2019364432179302493",
+      "category": "infrastructure",
+      "name_en": "Municipal Administration Infrastructure",
+      "name_ta": "நகராட்சி நிர்வாக உட்கட்டமைப்பு",
+      "investment_crore": 4778.75,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-05",
+      "summary_en": "CM inaugurated multiple municipal projects: TWAD Rs 2,378.30 crore, Metro Water Rs 635.30 crore, municipalities Rs 237.04 crore, town panchayats Rs 174.45 crore, Chennai Corporation Rs 86.04 crore. Also laid foundation for Rs 1,267.62 crore new projects."
+    },
+    {
+      "tweet_id": "2019365605430927661",
+      "category": "agriculture",
+      "name_en": "Aavin Dairy Plants",
+      "name_ta": "ஆவின் பால் பண்ணைகள்",
+      "investment_crore": 100.85,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": "Latthuvadi, Ambattur"
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-05",
+      "summary_en": "CM inaugurated modern dairy farm at Rs 89.28 crore in Namakkal handling 2 lakh litres/day, and R&D laboratory at Rs 11.57 crore in Ambattur."
+    },
+    {
+      "tweet_id": "2019682017223536719",
+      "category": "industries",
+      "name_en": "Mitsubishi Electric AC Factory",
+      "name_ta": "மிட்சுபிஷி எலக்ட்ரிக் ஏசி தொழிற்சாலை",
+      "investment_crore": null,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Tiruvallur",
+        "city": "Gummidipoondi"
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-06",
+      "summary_en": "CM inaugurated Mitsubishi Electric India's air conditioner manufacturing facility in Gummidipoondi SIPCOT."
+    },
+    {
+      "tweet_id": "2019710469510935034",
+      "category": "infrastructure",
+      "name_en": "Rural Development Projects",
+      "name_ta": "ஊரக வளர்ச்சி திட்டங்கள்",
+      "investment_crore": 289.38,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-06",
+      "summary_en": "CM inaugurated 6 Samathuvapurams at Rs 42.40 crore, road in Namakkal at Rs 34.12 crore, and various buildings worth Rs 212.86 crore."
+    },
+    {
+      "tweet_id": "2019711519098069161",
+      "category": "environment",
+      "name_en": "Tamil Nadu Sea Turtle Conservation Centre",
+      "name_ta": "தமிழ்நாடு கடல் ஆமை பாதுகாப்பு மையம்",
+      "investment_crore": 14.50,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Chennai",
+        "city": "Guindy"
+      },
+      "event_type": "groundbreaking",
+      "date": "2026-02-06",
+      "summary_en": "CM laid foundation for Tamil Nadu's first sea turtle conservation centre at Rs 14.50 crore in Guindy."
+    },
+    {
+      "tweet_id": "2019712168464122015",
+      "category": "infrastructure",
+      "name_en": "TNUHDB Housing Units",
+      "name_ta": "நகர்ப்புற வாழ்விட அடுக்குமாடி குடியிருப்புகள்",
+      "investment_crore": 1238.19,
+      "jobs_created": null,
+      "beneficiaries": "9696 families",
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-06",
+      "summary_en": "CM inaugurated 9,696 new urban housing units built at Rs 1,238.19 crore across Tamil Nadu under TNUHDB."
+    },
+    {
+      "tweet_id": "2019714846170980737",
+      "category": "healthcare",
+      "name_en": "Health Infrastructure Projects",
+      "name_ta": "சுகாதார உட்கட்டமைப்பு திட்டங்கள்",
+      "investment_crore": 348.59,
+      "jobs_created": null,
+      "beneficiaries": null,
+      "location": {
+        "district": "Multiple",
+        "city": null
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-06",
+      "summary_en": "CM inaugurated district headquarters hospitals, additional buildings, microbiology labs, Indian medicine and homeopathy buildings, and various health centres worth Rs 348.59 crore."
+    },
+    {
+      "tweet_id": "2020845712876130628",
+      "category": "industries",
+      "name_en": "Tata Motors JLR Factory",
+      "name_ta": "டாடா மோட்டார்ஸ் JLR தொழிற்சாலை",
+      "investment_crore": 9000,
+      "jobs_created": 5000,
+      "beneficiaries": null,
+      "location": {
+        "district": "Ranipet",
+        "city": "Panapakkam"
+      },
+      "event_type": "inauguration",
+      "date": "2026-02-09",
+      "summary_en": "CM inaugurated first unit of Tata Motors JLR vehicle manufacturing plant built at Rs 900 crore (of total Rs 9,000 crore investment), creating 5,000 jobs at SIPCOT Panapakkam."
+    }
+  ]
+}

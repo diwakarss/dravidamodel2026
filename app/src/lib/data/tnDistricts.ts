@@ -6,7 +6,8 @@ import tnDistrictsData from "@/data/tn-districts.json";
 
 export interface DistrictProperties {
   district: string;
-  district_ta: string;
+  state: string;
+  lgdCode: number;
 }
 
 export const tnDistrictsGeoJSON = tnDistrictsData as FeatureCollection<Polygon | MultiPolygon, DistrictProperties>;

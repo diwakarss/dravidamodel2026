@@ -1,0 +1,676 @@
+{
+  "generated": "2026-02-18",
+  "curation_summary": {
+    "existing_count": 14,
+    "extracted_count": 30,
+    "new_entries_count": 10,
+    "duplicates_count": 8,
+    "skipped_count": 12
+  },
+  "duplicates": [
+    {
+      "tweet_id": "1990314558897148069",
+      "name": "Makkalai Thedi Maruthuvam - 2.5 Crore Beneficiaries",
+      "reason": "Milestone update for existing scheme 'makkalai-thedi'"
+    },
+    {
+      "tweet_id": "1820443444889702882",
+      "name": "Makkalai Thedi Maruthuvam 3 Year Achievement",
+      "reason": "Milestone update for existing scheme 'makkalai-thedi'"
+    },
+    {
+      "tweet_id": "1984540709425410169",
+      "name": "108 Emergency Ambulances",
+      "reason": "Update for existing scheme 'ambulance-108'"
+    },
+    {
+      "tweet_id": "1886697065951949111",
+      "name": "Emergency Medical Vehicles",
+      "reason": "Fleet expansion for existing scheme 'ambulance-108'"
+    },
+    {
+      "tweet_id": "1900528351610149075",
+      "name": "HPV Vaccination Program",
+      "reason": "Budget announcement for existing scheme 'hpv-vaccine'"
+    },
+    {
+      "tweet_id": "1951557562840784922",
+      "name": "Nalam Kakkum Stalin Launch",
+      "reason": "Launch event for existing scheme 'nalam-kaakkum'"
+    },
+    {
+      "tweet_id": "1950890807009120634",
+      "name": "Nalam Kakkum Stalin Health Camps",
+      "reason": "Announcement for existing scheme 'nalam-kaakkum'"
+    },
+    {
+      "tweet_id": "1908792239800848875",
+      "name": "Nilgiris Government Medical College Hospital Services",
+      "reason": "Part of existing scheme 'medical-colleges' (11 new medical colleges)"
+    }
+  ],
+  "skipped": [
+    {
+      "tweet_id": "2019714846170980737",
+      "name": "Health Infrastructure Projects",
+      "reason": "Aggregate - multiple projects (hospitals, labs, health centres) worth Rs 348.59 crore"
+    },
+    {
+      "tweet_id": "1975116187983056953",
+      "name": "Medical Infrastructure Development",
+      "reason": "Aggregate - multiple projects (medical buildings, foundation laying, lab equipment)"
+    },
+    {
+      "tweet_id": "1917238250596360457",
+      "name": "Kolathur Primary Health Centres and Office Building",
+      "reason": "Aggregate - 2 PHCs and office building (foundation stone)"
+    },
+    {
+      "tweet_id": "1940692004150890633",
+      "name": "Urban Wellness Centers Phase 2",
+      "reason": "Aggregate - 208 wellness centers, 28 rural and 22 urban PHCs"
+    },
+    {
+      "tweet_id": "1985980393594732810",
+      "name": "Tiruchengode Government Hospital Upgrade",
+      "reason": "Minor hospital upgrade (Rs 23 crore) - subsumed under 'health-infrastructure'"
+    },
+    {
+      "tweet_id": "1954817566347591939",
+      "name": "Velampalayam Government Hospital",
+      "reason": "Minor district hospital (Rs 48.68 crore) - subsumed under 'health-infrastructure'"
+    },
+    {
+      "tweet_id": "1906393002987438446",
+      "name": "Mannargudi District Hospital ICU Block",
+      "reason": "Hospital addition (Rs 20 crore ICU block) - subsumed under 'health-infrastructure'"
+    },
+    {
+      "tweet_id": "1888476253830930625",
+      "name": "Mental Health Homes Mannargudi",
+      "reason": "Small project (Rs 7 crore) - part of mental health initiatives"
+    },
+    {
+      "tweet_id": "1981656380856734207",
+      "name": "DPHPM Vehicles for District Health Officers",
+      "reason": "Administrative vehicles - not a healthcare scheme"
+    },
+    {
+      "tweet_id": "1820365944377528350",
+      "name": "Periyar Nagar Government Hospital Construction",
+      "reason": "Progress update - same as Periyar Government Hospital (duplicate entry)"
+    },
+    {
+      "tweet_id": "1893584668148040012",
+      "name": "Periyar Government Hospital",
+      "reason": "Progress update - same as Periyar Government Hospital (duplicate entry)"
+    },
+    {
+      "tweet_id": "1908176840637981146",
+      "name": "Nilgiris Government Medical College Hospital",
+      "reason": "Same as tweet 1908792239800848875 - duplicate event coverage"
+    }
+  ],
+  "new_entries": [
+    {
+      "id": "guindy-children-super-specialty-hospital",
+      "name": {
+        "en": "Guindy Children's Super Specialty Hospital",
+        "ta": "கிண்டி குழந்தைகளுக்கான உயர்சிறப்பு மருத்துவமனை"
+      },
+      "description": {
+        "en": "Tamil Nadu's first super-specialty children's hospital and research center at King Institute campus, Guindy.",
+        "ta": "கிங் இன்ஸ்டிடியூட் வளாகத்தில் தமிழ்நாட்டின் முதல் குழந்தைகள் உயர்சிறப்பு மருத்துவமனை மற்றும் ஆராய்ச்சி மையம்."
+      },
+      "launchYear": "January 2026 (Foundation)",
+      "beneficiaries": {
+        "count": "Children across Tamil Nadu",
+        "description": {
+          "en": "Pediatric patients requiring specialized care",
+          "ta": "சிறப்பு சிகிச்சை தேவைப்படும் குழந்தை நோயாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 417.07 crore",
+        "year": "2026",
+        "details": "Foundation stone laid January 27, 2026"
+      },
+      "coverage": "State-wide referral facility at King Institute, Guindy, Chennai",
+      "highlights": [
+        {
+          "en": "First super-specialty children's hospital in Tamil Nadu",
+          "ta": "தமிழ்நாட்டின் முதல் குழந்தைகள் உயர்சிறப்பு மருத்துவமனை"
+        },
+        {
+          "en": "6-floor main hospital with 5-storey hostel",
+          "ta": "6 மாடி மருத்துவமனை மற்றும் 5 மாடி விடுதி"
+        },
+        {
+          "en": "Cardiology, neurology, emergency services and more",
+          "ta": "இதயவியல், நரம்பியல், அவசர சேவைகள்"
+        },
+        {
+          "en": "Expected completion: 18 months",
+          "ta": "எதிர்பார்க்கப்படும் நிறைவு: 18 மாதங்கள்"
+        }
+      ],
+      "icon": "👶",
+      "sources": [
+        {
+          "title": "DevDiscourse - Foundation Stone Laid",
+          "url": "https://www.devdiscourse.com/article/health/3782044-foundation-stone-laid-for-landmark-super-speciality-childrens-hospital-in-tamil-nadu",
+          "type": "media"
+        },
+        {
+          "title": "Medical Dialogues",
+          "url": "https://medicaldialogues.in/news/health/hospital-diagnostics/cm-stalin-to-lay-foundation-stone-for-rs-417-crore-childrens-hospital-in-guindy-163381",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "women-wellness-on-wheels",
+      "name": {
+        "en": "Women Wellness on Wheels (WWW)",
+        "ta": "பெண்கள் நல்வாழ்வு நடமாடும் மருத்துவ சேவை"
+      },
+      "description": {
+        "en": "India's first mobile medical service for women's cancer screening, diabetes, BP and NCD detection at doorstep.",
+        "ta": "பெண்களுக்கான புற்றுநோய், நீரிழிவு, BP மற்றும் NCD பரிசோதனைக்கான இந்தியாவின் முதல் நடமாடும் மருத்துவ சேவை."
+      },
+      "launchYear": "November 13, 2025",
+      "beneficiaries": {
+        "count": "Women aged 30+ across Tamil Nadu",
+        "description": {
+          "en": "Women in all 38 districts",
+          "ta": "38 மாவட்டங்களிலும் உள்ள பெண்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 41 crore",
+        "year": "2025-26",
+        "details": "38 specialized mobile medical vehicles"
+      },
+      "coverage": "All 38 districts - one vehicle per district",
+      "highlights": [
+        {
+          "en": "India's first Women Wellness on Wheels initiative",
+          "ta": "இந்தியாவின் முதல் பெண்கள் நல்வாழ்வு நடமாடும் திட்டம்"
+        },
+        {
+          "en": "Pap smear, breast examination, ultrasound services",
+          "ta": "பாப் ஸ்மியர், மார்பக பரிசோதனை, அல்ட்ராசவுண்ட்"
+        },
+        {
+          "en": "Covers cancer, diabetes, hypertension, heart, liver, kidney diseases",
+          "ta": "புற்றுநோய், நீரிழிவு, உயர் இரத்த அழுத்தம், இதயம், கல்லீரல், சிறுநீரக நோய்கள்"
+        },
+        {
+          "en": "Test reports returned within a day",
+          "ta": "சோதனை அறிக்கைகள் ஒரே நாளில்"
+        }
+      ],
+      "icon": "🚐",
+      "sources": [
+        {
+          "title": "Digital Health News",
+          "url": "https://www.digitalhealthnews.com/tamil-nadu-to-screen-women-for-ncds-through-mobile-medical-units",
+          "type": "media"
+        },
+        {
+          "title": "Medindia",
+          "url": "https://www.medindia.net/news/free-mobile-cancer-screenings-for-women-across-tamil-nadu-221511-1.htm",
+          "type": "media"
+        },
+        {
+          "title": "IBTimes India",
+          "url": "https://www.ibtimes.co.in/tn-roll-out-rs-41-crore-mobile-health-drive-womens-cancer-screening-892139",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "kalangarai-addiction-centers",
+      "name": {
+        "en": "Kalangarai Addiction Recovery Centers",
+        "ta": "கலங்கரை போதை மீட்பு மையங்கள்"
+      },
+      "description": {
+        "en": "Integrated de-addiction and rehabilitation centers at government medical college hospitals for alcohol and drug recovery.",
+        "ta": "அரசு மருத்துவக் கல்லூரி மருத்துவமனைகளில் மது மற்றும் போதை பொருள் மீட்புக்கான ஒருங்கிணைந்த மையங்கள்."
+      },
+      "launchYear": "February 27, 2025",
+      "beneficiaries": {
+        "count": "Addiction patients statewide",
+        "description": {
+          "en": "Individuals affected by alcohol, drugs, and psychotropic substances",
+          "ta": "மது, போதைப்பொருள் பாதிக்கப்பட்டவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 15.81 crore",
+        "year": "2024-25",
+        "details": "25 centers across government medical college hospitals"
+      },
+      "coverage": "25 government medical college hospitals across Tamil Nadu",
+      "highlights": [
+        {
+          "en": "25 integrated de-addiction centers inaugurated",
+          "ta": "25 ஒருங்கிணைந்த போதை மறுவாழ்வு மையங்கள்"
+        },
+        {
+          "en": "Full team: counsellor, psychologist, psychiatric social worker, nurse",
+          "ta": "முழு குழு: ஆலோசகர், உளவியலாளர், சமூக பணியாளர், செவிலியர்"
+        },
+        {
+          "en": "Training at Institute of Mental Health, Kilpauk",
+          "ta": "கீழ்ப்பாக்கம் மனநல நிறுவனத்தில் பயிற்சி"
+        },
+        {
+          "en": "Announced in 2024-25 budget",
+          "ta": "2024-25 பட்ஜெட்டில் அறிவிக்கப்பட்டது"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "Medical Dialogues",
+          "url": "https://medicaldialogues.in/news/health/hospital-diagnostics/tn-to-launch-25-new-de-addiction-centres-at-govt-medical-college-hospitals-140584",
+          "type": "media"
+        },
+        {
+          "title": "Tiruvallur District Official",
+          "url": "https://tiruvallur.nic.in/pr-147_27022025/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "periyar-hospital-kolathur",
+      "name": {
+        "en": "Periyar Government Hospital, Kolathur",
+        "ta": "பெரியார் அரசு மருத்துவமனை, கொளத்தூர்"
+      },
+      "description": {
+        "en": "Six-storey super specialty government hospital in North Chennai named after social reformer Periyar E.V. Ramasamy.",
+        "ta": "சமூக சீர்திருத்தவாதி பெரியார் ஈ.வெ.ரா. பெயரிடப்பட்ட வடக்கு சென்னையில் ஆறு மாடி உயர்சிறப்பு அரசு மருத்துவமனை."
+      },
+      "launchYear": "February 28, 2025",
+      "beneficiaries": {
+        "count": "North Chennai residents",
+        "description": {
+          "en": "Patients in Periyar Nagar, Kolathur and surrounding areas",
+          "ta": "பெரியார் நகர், கொளத்தூர் மற்றும் சுற்றுப்புற மக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 210.80 crore",
+        "year": "2025",
+        "details": "Foundation stone: March 2023"
+      },
+      "coverage": "North Chennai - Periyar Nagar, Kolathur area",
+      "highlights": [
+        {
+          "en": "6-storey super specialty hospital",
+          "ta": "6 மாடி உயர்சிறப்பு மருத்துவமனை"
+        },
+        {
+          "en": "Named after Periyar E.V. Ramasamy",
+          "ta": "பெரியார் ஈ.வெ.ரா. பெயரில்"
+        },
+        {
+          "en": "Modern medical equipment",
+          "ta": "நவீன மருத்துவ உபகரணங்கள்"
+        },
+        {
+          "en": "Serves underserved North Chennai population",
+          "ta": "வடக்கு சென்னை மக்களுக்கு சேவை"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "Medical Buyer",
+          "url": "https://medicalbuyer.co.in/built-at-%E2%82%B9210-crore-government-hospital-kolathur-in-chennai-awaits-inauguration/",
+          "type": "media"
+        },
+        {
+          "title": "The Hindu (Tamil)",
+          "url": "https://www-thehindu-com.translate.goog/news/cities/chennai/cm-stalin-to-inaugurate-new-building-of-periyar-nagar-government-hospital-on-february-28/article69192736.ece",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "mudhalvar-marundhagam",
+      "name": {
+        "en": "Mudhalvar Marundhagam (CM Pharmacies)",
+        "ta": "முதல்வர் மருந்தகம்"
+      },
+      "description": {
+        "en": "1,000 affordable pharmacies providing generic medicines at 50-75% lower cost than private pharmacies.",
+        "ta": "தனியார் மருந்தகங்களை விட 50-75% குறைந்த விலையில் மருந்துகள் வழங்கும் 1,000 சலுகை மருந்தகங்கள்."
+      },
+      "launchYear": "February 24, 2025",
+      "beneficiaries": {
+        "count": "Middle-class families statewide",
+        "description": {
+          "en": "Patients seeking affordable medicines, especially chronic illness patients",
+          "ta": "நாள்பட்ட நோயாளிகள் உள்ளிட்ட மருந்து தேவைப்படுவோர்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 3 lakh grant per pharmacy",
+        "year": "2025",
+        "details": "50% cash for infrastructure, 50% as medicines"
+      },
+      "coverage": "1,000 pharmacies across all 38 districts (33 in Chennai)",
+      "highlights": [
+        {
+          "en": "BP and diabetes tablets for just Rs 4",
+          "ta": "BP மற்றும் நீரிழிவு மாத்திரைகள் வெறும் ரூ.4"
+        },
+        {
+          "en": "50-75% cheaper than private pharmacies",
+          "ta": "தனியார் மருந்தகங்களை விட 50-75% குறைவு"
+        },
+        {
+          "en": "Allopathy, Ayurveda, Siddha, Unani medicines available",
+          "ta": "அலோபதி, ஆயுர்வேதம், சித்தா, யுனானி மருந்துகள்"
+        },
+        {
+          "en": "Cheaper than PM Jan Aushadhi Kendras",
+          "ta": "PM ஜன் ஔஷதி கேந்திராக்களை விட மலிவு"
+        }
+      ],
+      "icon": "💊",
+      "sources": [
+        {
+          "title": "Medindia",
+          "url": "https://www.medindia.net/news/tamil-nadu-cm-opens-1000-cm-pharmacies-for-accessible-low-cost-medicine-219082-1.htm",
+          "type": "media"
+        },
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/with-eye-on-polls-next-year-tamil-nadu-cm-stalin-launches-1000-low-cost-pharmacies-mudhalvar-marundhagam-3419188",
+          "type": "media"
+        },
+        {
+          "title": "Mudhalvar Marundhagam Official Portal",
+          "url": "https://mudhalvarmarundhagam.tn.gov.in/project",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "vellore-super-specialty-hospital",
+      "name": {
+        "en": "Pentland Government Multi-Specialty Hospital, Vellore",
+        "ta": "பென்ட்லாண்ட் அரசு பல்நோக்கு உயர்சிறப்பு மருத்துவமனை, வேலூர்"
+      },
+      "description": {
+        "en": "7-floor, 562-bed super specialty hospital with 11 advanced operation theatres at Government Pentland Hospital premises.",
+        "ta": "அரசு பென்ட்லாண்ட் மருத்துவமனை வளாகத்தில் 7 மாடி, 562 படுக்கைகள், 11 நவீன அறுவை சிகிச்சை அரங்குகள்."
+      },
+      "launchYear": "June 26, 2025",
+      "beneficiaries": {
+        "count": "Vellore district patients",
+        "description": {
+          "en": "Patients requiring specialized care in Vellore region",
+          "ta": "வேலூர் பகுதியில் சிறப்பு சிகிச்சை தேவைப்படுவோர்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 197.81 crore",
+        "year": "2025",
+        "details": "Foundation stone: August 22, 2023"
+      },
+      "coverage": "Vellore district and surrounding regions",
+      "highlights": [
+        {
+          "en": "562 beds across 7 floors",
+          "ta": "7 மாடிகளில் 562 படுக்கைகள்"
+        },
+        {
+          "en": "11 advanced operation theatres",
+          "ta": "11 நவீன அறுவை சிகிச்சை அரங்குகள்"
+        },
+        {
+          "en": "Gynaecology, obstetrics, pediatric surgery, neonatal care",
+          "ta": "மகப்பேறு, குழந்தை அறுவை சிகிச்சை, புதுப் பிறப்பு கவனிப்பு"
+        },
+        {
+          "en": "7 PHCs and 2 health sub-centres also inaugurated",
+          "ta": "7 PHC மற்றும் 2 துணை மையங்களும் திறப்பு"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "Medical Dialogues",
+          "url": "https://medicaldialogues.in/news/health/hospital-diagnostics/cm-stalin-inaugurates-rs-19781-crore-govt-super-speciality-hospital-in-vellore-150621",
+          "type": "media"
+        },
+        {
+          "title": "News On Projects",
+          "url": "https://www.newsonprojects.com/news/tamil-nadu-cm-inaugurates-500-bed-multi-specialty-hospital-in-vellore",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "tambaram-district-hospital",
+      "name": {
+        "en": "Tambaram District Government Hospital",
+        "ta": "தாம்பரம் மாவட்ட அரசு தலைமை மருத்துவமனை"
+      },
+      "description": {
+        "en": "Six-storey 400-bed district headquarters hospital at Tambaram Sanatorium serving Chengalpattu district.",
+        "ta": "செங்கல்பட்டு மாவட்டத்திற்கு சேவை செய்யும் தாம்பரம் சானிடோரியத்தில் 6 மாடி 400 படுக்கை மாவட்ட தலைமை மருத்துவமனை."
+      },
+      "launchYear": "August 9, 2025",
+      "beneficiaries": {
+        "count": "Chengalpattu district residents",
+        "description": {
+          "en": "Patients in southern suburbs of Chennai",
+          "ta": "சென்னையின் தெற்கு புறநகர் மக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 115 crore",
+        "year": "2025",
+        "details": "Part of 19 district hospital upgrades across 24 districts"
+      },
+      "coverage": "Chengalpattu district - Tambaram and surrounding areas",
+      "highlights": [
+        {
+          "en": "400 beds with 6 operation theatres",
+          "ta": "400 படுக்கைகள், 6 அறுவை சிகிச்சை அரங்குகள்"
+        },
+        {
+          "en": "State-of-the-art medical facilities",
+          "ta": "நவீன மருத்துவ வசதிகள்"
+        },
+        {
+          "en": "Emergency, OPD and in-patient services",
+          "ta": "அவசர, வெளிநோயாளி மற்றும் உள்நோயாளி சேவைகள்"
+        },
+        {
+          "en": "Modern diagnostic and surgical equipment",
+          "ta": "நவீன நோய் கண்டறிதல் மற்றும் அறுவை சிகிச்சை உபகரணங்கள்"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "Chengalpattu District Official",
+          "url": "https://chengalpattu.nic.in/the-honble-chief-minister-of-tamil-nadu-inaugurated-the-new-government-general-hospital-building-at-tambaram-and-distributed-patta-to-the-beneficiaries-09-08-2025/",
+          "type": "government"
+        },
+        {
+          "title": "Assam Tribune",
+          "url": "https://assamtribune.com/national/at-tambaram-sanatorium-cm-stalin-opens-a-rs-115-crore-government-hospital-and-gives-20021-people-home-plots-1587823",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "oottachchatthai-uruthi-sey",
+      "name": {
+        "en": "Oottachchatthai Uruthi Sey (Nutrition Security Scheme)",
+        "ta": "ஊட்டச்சத்தை உறுதி செய்"
+      },
+      "description": {
+        "en": "Nutritional intervention programme for malnourished infants (0-6 months) and their lactating mothers with doorstep delivery of nutrition kits.",
+        "ta": "ஊட்டச்சத்து குறைபாடுள்ள குழந்தைகள் (0-6 மாதங்கள்) மற்றும் பாலூட்டும் தாய்மார்களுக்கு வீட்டிற்கே ஊட்டச்சத்து கிட் வழங்கும் திட்டம்."
+      },
+      "launchYear": "May 2022 (Phase II: November 2024)",
+      "beneficiaries": {
+        "count": "76,700+ malnourished babies and mothers",
+        "description": {
+          "en": "Infants 0-6 months and lactating mothers",
+          "ta": "0-6 மாத குழந்தைகள் மற்றும் பாலூட்டும் தாய்மார்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 22 crore",
+        "year": "2024-25 (Phase II)",
+        "details": "Doorstep delivery of nutrition kits"
+      },
+      "coverage": "Statewide - all districts with identified malnourished infants",
+      "highlights": [
+        {
+          "en": "Phase I showed 77.3% improvement in beneficiaries",
+          "ta": "முதல் கட்டத்தில் 77.3% பயனாளிகளில் முன்னேற்றம்"
+        },
+        {
+          "en": "Doorstep delivery of nutrition kits",
+          "ta": "வீட்டிற்கே ஊட்டச்சத்து கிட் வழங்கல்"
+        },
+        {
+          "en": "Targets 0-6 month malnourished babies",
+          "ta": "0-6 மாத ஊட்டச்சத்து குறைவான குழந்தைகள்"
+        },
+        {
+          "en": "Integrated with anganwadi services",
+          "ta": "அங்கன்வாடி சேவைகளுடன் இணைக்கப்பட்டது"
+        }
+      ],
+      "icon": "🍼",
+      "sources": [
+        {
+          "title": "DevDiscourse",
+          "url": "https://www.devdiscourse.com/article/health/3158796-tamil-nadu-expands-nutrition-initiative-to-combat-malnutrition",
+          "type": "media"
+        },
+        {
+          "title": "The Hindu (Tamil)",
+          "url": "https://www-thehindu-com.translate.goog/news/national/tamil-nadu/stalin-to-launch-phase-ii-of-nutritional-intervention-programme-for-malnourished-children-mothers/article68863115.ece",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "autism-centre-of-excellence",
+      "name": {
+        "en": "Centre of Excellence for Autism Spectrum Disorder",
+        "ta": "ஆட்டிசம் ஒப்புயர்வு மையம்"
+      },
+      "description": {
+        "en": "Specialized center for diagnosis, therapy and support for persons with Autism Spectrum Disorder at Government Rehabilitation Hospital.",
+        "ta": "அரசு மறுவாழ்வு மருத்துவமனையில் ஆட்டிசம் நோயாளிகளுக்கான நோய்கண்டறிதல், சிகிச்சை மற்றும் ஆதரவு மையம்."
+      },
+      "launchYear": "December 5, 2024",
+      "beneficiaries": {
+        "count": "Persons with Autism Spectrum Disorder",
+        "description": {
+          "en": "Children and adults with ASD across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் ASD உள்ள குழந்தைகள் மற்றும் பெரியவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 15 crore",
+        "year": "2024-25",
+        "details": "At Government Rehabilitation Hospital, KK Nagar"
+      },
+      "coverage": "Government Rehabilitation Hospital, KK Nagar, Chennai",
+      "highlights": [
+        {
+          "en": "Comprehensive autism services under one roof",
+          "ta": "ஒரே இடத்தில் விரிவான ஆட்டிசம் சேவைகள்"
+        },
+        {
+          "en": "Occupational therapy, speech therapy, special education",
+          "ta": "தொழில்சார் சிகிச்சை, பேச்சு சிகிச்சை, சிறப்புக் கல்வி"
+        },
+        {
+          "en": "Psychology and counseling services",
+          "ta": "உளவியல் மற்றும் ஆலோசனை சேவைகள்"
+        },
+        {
+          "en": "Located at Government Institute of Rehabilitation Medicine",
+          "ta": "அரசு மறுவாழ்வு மருத்துவ நிறுவனத்தில்"
+        }
+      ],
+      "icon": "🧩",
+      "sources": [
+        {
+          "title": "Government Institute of Rehabilitation Medicine",
+          "url": "https://en.wikipedia.org/wiki/Government_Institute_of_Rehabilitation_Medicine,_Chennai",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "aaruyir-cpr-training",
+      "name": {
+        "en": "Aaruyir - Life Saving CPR Training",
+        "ta": "ஆருயிர் - உயிர் காக்கும் CPR பயிற்சி"
+      },
+      "description": {
+        "en": "State-wide scheme to provide basic life-saving CPR and first aid training to the general public.",
+        "ta": "பொது மக்களுக்கு அடிப்படை உயிர்காக்கும் CPR மற்றும் முதலுதவி பயிற்சி வழங்கும் மாநில அளவிலான திட்டம்."
+      },
+      "launchYear": "July 6, 2024",
+      "beneficiaries": {
+        "count": "General public across Tamil Nadu",
+        "description": {
+          "en": "Citizens trained in life-saving skills",
+          "ta": "உயிர்காக்கும் திறன்களில் பயிற்சி பெற்ற குடிமக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2024-25",
+        "details": "Training through health department and volunteers"
+      },
+      "coverage": "All districts of Tamil Nadu",
+      "highlights": [
+        {
+          "en": "Basic CPR training for all citizens",
+          "ta": "அனைத்து குடிமக்களுக்கும் அடிப்படை CPR பயிற்சி"
+        },
+        {
+          "en": "First aid and emergency response skills",
+          "ta": "முதலுதவி மற்றும் அவசர பதில் திறன்கள்"
+        },
+        {
+          "en": "School and college students targeted",
+          "ta": "பள்ளி மற்றும் கல்லூரி மாணவர்களை இலக்காகக் கொண்டது"
+        },
+        {
+          "en": "Creates a network of community first responders",
+          "ta": "சமூக முதல் பதிலளிப்போர் வலையமைப்பை உருவாக்குகிறது"
+        }
+      ],
+      "icon": "❤️‍🩹",
+      "sources": [
+        {
+          "title": "Twitter Extraction",
+          "url": "https://twitter.com/mkstalin",
+          "type": "government"
+        }
+      ]
+    }
+  ]
+}

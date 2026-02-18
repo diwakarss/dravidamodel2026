@@ -1,0 +1,368 @@
+[
+  {
+    "tweet_id": "2019365605430927661",
+    "category": "agriculture",
+    "name_en": "Aavin Dairy Plants",
+    "name_ta": "ஆவின் பால் பண்ணைகள்",
+    "investment_crore": 100.85,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": "Latthuvadi, Ambattur"
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-05",
+    "summary_en": "CM inaugurated modern dairy farm at Rs 89.28 crore in Namakkal handling 2 lakh litres/day, and R&D laboratory at Rs 11.57 crore in Ambattur."
+  },
+  {
+    "tweet_id": "2014271294519615542",
+    "category": "agriculture",
+    "name_en": "Animal Husbandry Infrastructure",
+    "name_ta": "கால்நடை பராமரிப்பு உட்கட்டமைப்பு",
+    "investment_crore": 135.3,
+    "jobs_created": 208,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-22",
+    "summary_en": "CM inaugurated 12 animal husbandry buildings worth Rs 16.88 crore and laid foundation for 31 integrated farms and modern meat processing complex worth Rs 118.42 crore.",
+    "related_tweet_ids": [
+      "2014271294519615542",
+      "1941074548322971930"
+    ]
+  },
+  {
+    "tweet_id": "2011655332381278726",
+    "category": "agriculture",
+    "name_en": "Cyclone Ditha Crop Relief",
+    "name_ta": "டித்வா புயல் பயிர் நிவாரணம்",
+    "investment_crore": 111.96,
+    "jobs_created": null,
+    "beneficiaries": "84848",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2026-01-15",
+    "summary_en": "CM released Rs 111.96 crore relief for 84,848 farmers affected by northeast monsoon and Cyclone Ditha for 1.39 lakh acres of crops."
+  },
+  {
+    "tweet_id": "2011000091457511882",
+    "category": "agriculture",
+    "name_en": "Dairy Sector Infrastructure",
+    "name_ta": "பால்வளத்துறை உட்கட்டமைப்பு",
+    "investment_crore": 80.62,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-13",
+    "summary_en": "CM inaugurated 8 dairy sector projects worth Rs 80.62 crore including cattle feed plant, fermented milk products factory and 5 microbiology labs."
+  },
+  {
+    "tweet_id": "1998669147560145206",
+    "category": "agriculture",
+    "name_en": "Paddy Storage Warehouses",
+    "name_ta": "நெல் சேமிப்பு வளாகங்கள்",
+    "investment_crore": 346.43,
+    "jobs_created": null,
+    "beneficiaries": "Farmers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2025-12-10",
+    "summary_en": "CM inaugurated 3 warehouses at Rs 13.97 crore and laid foundation for 10 new paddy storage complexes at Rs 332.46 crore."
+  },
+  {
+    "tweet_id": "1956980591628284338",
+    "category": "agriculture",
+    "name_en": "Same Day Crop Loan Scheme",
+    "name_ta": "அன்றே பயிர்க்கடன் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Farmers",
+    "location": {
+      "district": "Dharmapuri",
+      "city": "Athiyamankottai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-08-17",
+    "summary_en": "Launched pilot scheme for farmers to get crop loans same day through online application at Primary Agricultural Cooperative Credit Societies"
+  },
+  {
+    "tweet_id": "1941062742707691976",
+    "category": "agriculture",
+    "name_en": "Agricultural Infrastructure",
+    "name_ta": "வேளாண்மை உட்கட்டமைப்பு",
+    "investment_crore": 103.28,
+    "jobs_created": null,
+    "beneficiaries": "Farmers",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-04",
+    "summary_en": "Opened 52 agricultural buildings including processing centers, storage facilities, and extension centers"
+  },
+  {
+    "tweet_id": "1941098495840272469",
+    "category": "agriculture",
+    "name_en": "Nutritional Agriculture Campaign",
+    "name_ta": "ஊட்டச்சத்து வேளாண்மை இயக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "5 beneficiaries initially",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-07-04",
+    "summary_en": "CM launched new Nutritional Agriculture Campaign and distributed vegetable seed kits, fruit plant kits, and pulse variety kits to beneficiaries"
+  },
+  {
+    "tweet_id": "1934516219186762161",
+    "category": "agriculture",
+    "name_en": "Kuruvai Special Package and Thanjavur Development",
+    "name_ta": "குறுவை சிறப்புத் தொகுப்பு மற்றும் தஞ்சை வளர்ச்சி",
+    "investment_crore": 1193.87,
+    "jobs_created": null,
+    "beneficiaries": "225383 beneficiaries",
+    "location": {
+      "district": "Thanjavur",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2025-06-16",
+    "summary_en": "Launched Rs 82.77 crore Kuruvai package, Rs 132.17 crore for non-delta districts; opened Rs 325.96 crore works, laid foundation for Rs 309.48 crore projects, distributed Rs 558.43 crore welfare"
+  },
+  {
+    "tweet_id": "1932732309901287831",
+    "category": "agriculture",
+    "name_en": "Erode Agricultural Fair and Development Projects",
+    "name_ta": "ஈரோடு வேளாண் கண்காட்சி மற்றும் திட்டங்கள்",
+    "investment_crore": 200.64,
+    "jobs_created": null,
+    "beneficiaries": "4524 farmers",
+    "location": {
+      "district": "Erode",
+      "city": "Perundurai-Vijayamangalam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-11",
+    "summary_en": "Opened Rs 175.23 crore completed works, laid foundation for 11 new projects, distributed Rs 25.41 crore welfare assistance"
+  },
+  {
+    "tweet_id": "1906024534551171331",
+    "category": "agriculture",
+    "name_en": "High-Capacity Paddy Procurement Centre Thanjavur",
+    "name_ta": "அதிதிறன் நேரடி நெல் கொள்முதல் நிலையம்",
+    "investment_crore": 1.41,
+    "jobs_created": null,
+    "beneficiaries": "Thanjavur Farmers",
+    "location": {
+      "district": "Thanjavur",
+      "city": "Panchanathikottai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-29",
+    "summary_en": "Ministers inaugurated Rs 1.41 crore high-capacity paddy procurement centre for farmers"
+  },
+  {
+    "tweet_id": "1900810080028946909",
+    "category": "agriculture",
+    "name_en": "Agriculture Budget 2025-26",
+    "name_ta": "வேளாண் நிதிநிலை அறிக்கை 2025-26",
+    "investment_crore": 45661,
+    "jobs_created": null,
+    "beneficiaries": "Farmers of Tamil Nadu",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-03-15",
+    "summary_en": "Agriculture Budget with Rs 45,661 crore announced for farmer welfare including 1000 Uzavar Nala Seva Mayyams"
+  },
+  {
+    "tweet_id": "1892487202116124686",
+    "category": "agriculture",
+    "name_en": "TNCSC Storage Infrastructure",
+    "name_ta": "தமிழ்நாடு நுகர்பொருள் வாணிபக் கழக சேமிப்பு உள்கட்டமைப்பு",
+    "investment_crore": 102.65,
+    "jobs_created": null,
+    "beneficiaries": "Farmers and consumers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-20",
+    "summary_en": "CM inaugurated 6 warehouse complexes, 11 paddy procurement centers, 4 modern storage facilities at Rs 92.45 crore and laid foundation for 6 additional warehouses at Rs 10.20 crore."
+  },
+  {
+    "tweet_id": "1884517690364289365",
+    "category": "agriculture",
+    "name_en": "Fisheries Infrastructure Projects",
+    "name_ta": "மீன்வள உள்கட்டமைப்பு திட்டங்கள்",
+    "investment_crore": 88.93,
+    "jobs_created": null,
+    "beneficiaries": "Fishermen",
+    "location": {
+      "district": "Multiple",
+      "city": "Multiple"
+    },
+    "event_type": "inauguration",
+    "date": "2025-01-29",
+    "summary_en": "CM inaugurated 10 completed fisheries projects worth Rs 58.50 crore, cattle feed factory worth Rs 15.43 crore, and laid foundation for fish landing jetty worth Rs 15 crore."
+  },
+  {
+    "tweet_id": "1878732030734934467",
+    "category": "agriculture",
+    "name_en": "Integrated Research Center for Veterinary Science",
+    "name_ta": "கால்நடை அறிவியல் ஆராய்ச்சி மையம்",
+    "investment_crore": 564,
+    "jobs_created": null,
+    "beneficiaries": "Farmers and veterinary researchers",
+    "location": {
+      "district": "Salem",
+      "city": "Thalavasal"
+    },
+    "event_type": "inauguration",
+    "date": "2025-01-13",
+    "summary_en": "CM inaugurated Rs 564 crore integrated advanced research center for animal and veterinary sciences in Salem."
+  },
+  {
+    "tweet_id": "1825813723187167642",
+    "category": "agriculture",
+    "name_en": "Animal Husbandry and Fisheries Buildings",
+    "name_ta": "கால்நடை மற்றும் மீன்வளத் துறை கட்டடங்கள்",
+    "investment_crore": 180.52,
+    "jobs_created": null,
+    "beneficiaries": "Farmers and fishermen",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-20",
+    "summary_en": "Animal Husbandry buildings (Rs.55.43 cr), Fisheries buildings (Rs.112.27 cr), and Farmer Training Center (Rs.12.82 cr) inaugurated."
+  },
+  {
+    "tweet_id": "1824707226486882741",
+    "category": "agriculture",
+    "name_en": "Athikadavu-Avinashi Project",
+    "name_ta": "அத்திக்கடவு - அவிநாசி திட்டம்",
+    "investment_crore": 1916.41,
+    "jobs_created": null,
+    "beneficiaries": "24,468 acres of farmland in Erode, Tiruppur, Coimbatore",
+    "location": {
+      "district": "Tiruppur",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-17",
+    "summary_en": "Historic irrigation project benefiting 24,468 acres across Erode, Tiruppur, and Coimbatore districts inaugurated, fulfilling a 50+ year demand."
+  },
+  {
+    "tweet_id": "1817817969248051670",
+    "category": "agriculture",
+    "name_en": "AAVIN Infrastructure Development",
+    "name_ta": "ஆவின் உட்கட்டமைப்பு மேம்பாடு",
+    "investment_crore": 43.61,
+    "jobs_created": null,
+    "beneficiaries": "Dairy farmers and consumers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-29",
+    "summary_en": "CM opened dairy plants worth Rs 10.61cr and laid foundation for Rs 33cr cattle feed factory in Cuddalore"
+  },
+  {
+    "tweet_id": "1810249511882911762",
+    "category": "agriculture",
+    "name_en": "Godrej Agrovet Samadhan Centre",
+    "name_ta": "கோத்ரேஜ் அக்ரோவெட் சமாதான் மையம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Oil palm farmers in delta districts",
+    "location": {
+      "district": "Thanjavur",
+      "city": "Thanjavur"
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-08",
+    "summary_en": "Godrej Agrovet's one-stop Samadhan centre launched in Thanjavur to support 2000 hectares of oil palm cultivation"
+  },
+  {
+    "tweet_id": "1805200312925593743",
+    "category": "agriculture",
+    "name_en": "Delta Agro Industrial Corridor",
+    "name_ta": "டெல்டா வேளாண் தொழில் வழித்தடம்",
+    "investment_crore": 1000,
+    "jobs_created": null,
+    "beneficiaries": "Delta region farmers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-24",
+    "summary_en": "Rs 1000 crore announced for agro industrial corridor in protected agricultural zone of delta region"
+  },
+  {
+    "tweet_id": "1801601996862144948",
+    "category": "agriculture",
+    "name_en": "Delta Kuruvai Special Cultivation Scheme",
+    "name_ta": "டெல்டா குறுவை சாகுபடிச் சிறப்புத் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Delta region farmers",
+    "location": {
+      "district": "Delta districts",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-14",
+    "summary_en": "Special cultivation scheme for Delta farmers due to delayed monsoon"
+  },
+  {
+    "tweet_id": "1800782053715427602",
+    "category": "agriculture",
+    "name_en": "CM's Mannuyir Kaathu Mannuyir Kaappom Scheme",
+    "name_ta": "முதலமைச்சரின் மண்ணுயிர் காத்து மன்னுயிர் காப்போம்",
+    "investment_crore": 20,
+    "jobs_created": null,
+    "beneficiaries": "Farmers across 2 lakh acres",
+    "location": null,
+    "event_type": "scheme_launch",
+    "date": "2024-06-12",
+    "summary_en": "Rs 20 crore for green manure seeds distribution across 2 lakh acres"
+  },
+  {
+    "tweet_id": "1800783365270053256",
+    "category": "agriculture",
+    "name_en": "Tractor Rental Scheme for Farmers",
+    "name_ta": "விவசாயிகளுக்கு டிராக்டர் வாடகை திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Farmers and rural youth",
+    "location": null,
+    "event_type": "scheme_launch",
+    "date": "2024-06-12",
+    "summary_en": "Low-cost tractor rental and training program for rural youth"
+  }
+]

@@ -785,12 +785,20 @@
       },
       "sources": [
         {
-          "title": "SolarQuarter - NLC India BESS Tender",
-          "url": "https://solarquarter.com/2026/01/05/nlc-india-issues-global-tender-for-250-mw-500-mwh-battery-energy-storage-system-in-tamil-nadu/"
+          "title": "Saur Energy - NLC India BESS Project",
+          "url": "https://www.saurenergy.com/solar-energy-news/nlc-india-secures-500-mwh-energy-storage-project-in-tamil-nadu"
         },
         {
-          "title": "Down to Earth - Energy Storage",
-          "url": "https://www.downtoearth.org.in/energy/energy-storage-offshore-wind-now-central-to-tamil-nadus-clean-power-future"
+          "title": "Energetica India - BESS Auction Winners",
+          "url": "https://www.energetica-india.net/news/nlc-bondada-oriana-win-tamil-nadus-500-mw1000-mwh-battery-storage-auction"
+        },
+        {
+          "title": "PV Magazine India - NLC BESS Award",
+          "url": "https://www.pv-magazine-india.com/2025/06/25/nlc-awarded-250-mw-500-mwh-battery-storage-project-in-tamil-nadu/"
+        },
+        {
+          "title": "Mercom India - NLC BESS Tender",
+          "url": "https://www.mercomindia.com/nlc-floats-epc-tender-for-250-mw-500-mwh-bess-in-tamil-nadu"
         }
       ],
       "notes": null,
@@ -3681,16 +3689,20 @@
       },
       "sources": [
         {
-          "title": "DTNext - KCSSH Inauguration",
-          "url": "https://www.dtnext.in/stalin-inaugurates-kalaignar-centenary-super-speciality-hospital-in-guindy"
-        },
-        {
           "title": "Wikipedia - KCSSH",
           "url": "https://en.wikipedia.org/wiki/Kalaignar_Centenary_Super_Specialty_Hospital"
         },
         {
-          "title": "Oneindia - KCSSH Details",
-          "url": "https://www.oneindia.com/chennai/cm-stalin-inaugurated-kalaignar-centenary-super-speciality-hospital-chennai-3573076.html"
+          "title": "Chennai Online - KCSSH Inauguration",
+          "url": "https://www.chennaionline.com/news/tamil-nadu-chief-minister-stalin-inaugurated-the-kalaignar-centenary-super-speciality-hospital-in-chennai/"
+        },
+        {
+          "title": "KCSSH Official Website",
+          "url": "https://www.kcssh.org/"
+        },
+        {
+          "title": "DIPR TN - Press Release",
+          "url": "https://dipr.tn.gov.in/ords/r/dipr/info-prdept103/press-release1?p33_file_id=7974"
         }
       ],
       "notes": "7-floor facility. Free advanced medical services. Fulfilling Karunanidhi's last wish (2010 will). Completed in 15 months",
@@ -4401,16 +4413,20 @@
       },
       "sources": [
         {
-          "title": "EconomyNext - Nemmeli Phase 2 Inauguration",
-          "url": "https://economynext.com/tamil-nadu-cm-stalin-inaugurates-nemmeli-desalination-plant-phase-2-150409.html"
+          "title": "Tedagua - Nemmeli Inauguration",
+          "url": "https://www.tedagua.com/en/news/news/the-nemmeli-india-desalination-plant-is-officially-inaugurated-with-a-capacity-of-150-000-m3-day"
         },
         {
-          "title": "Republic World - Desalination Plant",
-          "url": "https://www.republicworld.com/india/tamil-nadu-desalination-plant-nemmeli/"
+          "title": "Outlook Business - 150 MLD Plant",
+          "url": "https://www.outlookbusiness.com/news/tn-cm-inaugurates-150-mld-desalination-plant-for-chennai-news-417067"
         },
         {
-          "title": "Water Technology - Nemmeli Plant",
-          "url": "https://www.water-technology.net/projects/nemmeli-desalination-plant/"
+          "title": "Wikipedia - Nemmeli Desalination",
+          "url": "https://en.wikipedia.org/wiki/Nemmeli_Seawater_Desalination_Plant"
+        },
+        {
+          "title": "Indian Infrastructure - Nemmeli Plant",
+          "url": "https://indianinfrastructure.com/2024/02/27/nemmeli-water-desalination-plant-gets-inaugurated/"
         }
       ],
       "notes": "Supplies 200 MLD total to south Chennai. ASR well technology for sustainable water storage",
@@ -6677,12 +6693,16 @@
       },
       "sources": [
         {
-          "title": "Cargo Insights - Safexpress Park",
-          "url": "https://cargoinsights.co/safexpress-unveils-tamil-nadus-largest-logistics-park-in-chennai/"
+          "title": "Logistics Insider - Safexpress Chennai",
+          "url": "https://www.logisticsinsider.in/safexpress-unveils-tamil-nadus-largest-logistics-park-in-chennai/"
         },
         {
-          "title": "India Briefing - TN Logistics",
-          "url": "https://www.india-briefing.com/news/tamil-nadus-new-logistics-policy-aligns-with-indias-infrastructure-masterplan-27546.html/"
+          "title": "Maritime Gateway - Safexpress Park",
+          "url": "https://www.maritimegateway.com/safexpress-unveils-tamil-nadus-largest-logistics-park-in-chennai/"
+        },
+        {
+          "title": "Cargo Connect - Safexpress Chennai",
+          "url": "https://cargoconnect.co.in/safexpress-unveils-tamil-nadus-largest-logistics-park-in-chennai/"
         }
       ],
       "notes": null,
@@ -7061,16 +7081,20 @@
       },
       "sources": [
         {
-          "title": "The Print Hindi - Stalin launches 63 temple restoration",
-          "url": "https://hindi.theprint.in/india/stalin-launches-restoration-work-of-63-ancient-temples-in-tamil-nadu-at-a-cost-of-rs-100-crore/841342/"
+          "title": "Webdunia Hindi - 63 Temple Restoration",
+          "url": "https://hindi.webdunia.com/regional-hindi-news/restoration-work-of-63-ancient-temples-of-tamil-nadu-started-125071100090_1.html"
         },
         {
           "title": "Mangalorean - Rs 425 crore temple restoration",
           "url": "https://www.mangalorean.com/rs-425-cr-sanctioned-for-restoration-of-ancient-temples-says-tn-temple-minister-sekar-babu/"
         },
         {
-          "title": "Social News XYZ - Temple restoration plan",
-          "url": "https://www.socialnews.xyz/2025/10/12/rs-425-cr-sanctioned-for-restoration-of-ancient-temples-says-tn-temple-minister-sekar-babu/"
+          "title": "NewKerala - Rs 425 Cr Temple Restoration",
+          "url": "https://www.newkerala.com/news/o/rs-425-cr-sanctioned-restoration-ancient-temples-says-tn-168"
+        },
+        {
+          "title": "HR&CE Temple List",
+          "url": "https://hrce.tn.gov.in/hrcehome/temple_list.php"
         }
       ],
       "notes": "Restoration of temples over 1,000 years old; Initial phase: 63 temples at Rs 100 crore (July 2025); Expanded to Rs 425 crore (October 2025); 68 temples completed using government, temple, and donor funds; Gold Monetisation Scheme: 1,074.123 kg purified gold from 21 temples deposited in SBI earning Rs 17.76 crore annual interest for temple development"
@@ -7245,12 +7269,20 @@
       },
       "sources": [
         {
-          "title": "The Print - TN CM lays foundation stone",
-          "url": "https://theprint.in/india/tn-cm-lays-foundation-stone-for-rs-342-60-cr-drinking-water-reservoir-for-chennai/2830693/"
+          "title": "ETV Bharat - Mamallan Reservoir Foundation",
+          "url": "https://www.etvbharat.com/en/state/foundation-stone-drinking-water-reservoir-for-chennai-mk-stalin-enn26011902164"
         },
         {
-          "title": "Devdiscourse - Mamallan Reservoir",
-          "url": "https://www.devdiscourse.com/article/science-environment/3774497-tamil-nadu-boosts-chennais-water-supply-with-new-mamallan-reservoir"
+          "title": "UNI India - Mamallan Reservoir",
+          "url": "https://www.uniindia.com/stalin-lays-foundation-for-new-reservoir-mamallan--to-be-chennai-s-sixth-drinking-water-source/south/news/3711672.html"
+        },
+        {
+          "title": "Chennai Online - Mamallan Foundation",
+          "url": "https://www.chennaionline.com/news/stalin-lays-foundation-for-mamallan-reservoir/"
+        },
+        {
+          "title": "NewKerala - Mamallan Reservoir Launch",
+          "url": "https://www.newkerala.com/news/a/tn-cm-stalin-launches-rs-3426-crore-mamallan-509.htm"
         }
       ],
       "notes": "Storage capacity: 1.65 TMC; Bund length: 34 km; Spread: 5,100 acres; Supply: 170 MLD; Benefits 13 lakh people in Sholinganallur, Medavakkam, Pallikaranai, Siruseri, Mamallapuram; Restores 15-km Buckingham Canal stretch"
@@ -8600,20 +8632,24 @@
       },
       "sources": [
         {
-          "title": "Organiser - DMK sanctions Rs 19 crore to restore Chola era lake",
-          "url": "https://organiser.org/2025/07/26/304625/bharat/tamil-nadu-ahead-of-pm-modis-gangaikonda-cholapuram-visit-dmk-sanctions-rs-19-crore-to-restore-chola-era-lake/"
+          "title": "Civilstap Himachal - Chola Gangam Restoration",
+          "url": "https://civilstaphimachal.com/current-affair/chola-gangam-lake-restoration-project/"
         },
         {
-          "title": "The Print - TN CM extols greatness of King Rajendra Chola",
-          "url": "https://theprint.in/india/tn-cm-extols-greatness-of-king-rajendra-chola-ahead-of-pms-visit/2700123/"
+          "title": "GK Today - Chola Gangam Lake",
+          "url": "https://www.gktoday.in/chola-gangam-lake/"
+        },
+        {
+          "title": "Vision IAS - Chola Gangam Lake",
+          "url": "https://visionias.in/current-affairs/monthly-magazine/2025-08-19/medieval-indian-history/chola-gangam-lake-1"
         },
         {
           "title": "Study IQ - Chola Gangam Lake in Tamil Nadu",
           "url": "https://www.studyiq.com/articles/chola-gangam-lake/"
         },
         {
-          "title": "News Today - New Rajendra Chola museum to be built in Ariyalur",
-          "url": "https://newstodaynet.com/2025/07/23/new-rajendra-chola-museum-to-be-built-on-10-acres-in-ariyalur-cm/"
+          "title": "Wikipedia - Gangaikonda Cholapuram",
+          "url": "https://en.wikipedia.org/wiki/Gangaikonda_Cholapuram"
         }
       ],
       "notes": "Historic lake dug by Rajendra Chola I (1014-1044 CE) to commemorate northern campaign; Water resources (Rs 12 Cr): Strengthening lake banks, renovating canals, desilting 4 drainage areas; Benefits 1,374 acres of agricultural land; Tourism (Rs 7.25 Cr): Communication center, walkways, children's play area, park, security cameras; Announced on Aadi Thiruvathirai festival marking Rajendra Chola's birth anniversary; Separate Rs 22.10 Cr museum project on 10-acre plot also announced"

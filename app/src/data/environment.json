@@ -95,8 +95,9 @@
       ],
       "icon": "☀️",
       "sources": [
-        { "title": "TN Energy Dept", "url": "https://www.tn.gov.in/department/7", "type": "government" },
-        { "title": "SPC Chapter", "url": "https://spc.tn.gov.in/annualplan/chapter11-2.htm", "type": "government" }
+        { "title": "Mercom India - TN 43% RE Target by FY30", "url": "https://www.mercomindia.com/tamil-nadu-rpo-rco-target-fy30", "type": "media" },
+        { "title": "Investing in Tamil Nadu - Renewable Energy", "url": "https://investingintamilnadu.com/DIGIGOV/TN-pages/individual-sector.jsp?pagedisp=static&sector=focus_renewable_energy", "type": "government" },
+        { "title": "TN Energy Dept Policy Note 2024-25", "url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/energy_e_pn_2024_25.pdf", "type": "government" }
       ]
     },
     {
@@ -129,7 +130,9 @@
       "icon": "🔋",
       "sources": [
         { "title": "TANGEDCO", "url": "https://www.tangedco.gov.in", "type": "government" },
-        { "title": "Greenko Pumped Storage MoU", "url": "https://ess-news.com/greenko-signs-mou-for-3-3-gw-pumped-storage-in-tamil-nadu/", "type": "media" }
+        { "title": "PV Magazine - Greenko Pumped Storage", "url": "https://www.pv-magazine-india.com/2024/08/22/greenko-to-build-3-3-gw-of-pumped-storage-projects-in-tamil-nadu/", "type": "media" },
+        { "title": "Renewable Energy World - Greenko Projects", "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/greenko-group-to-build-three-pumped-storage-projects-in-tamil-nadu-india/", "type": "media" },
+        { "title": "Mercom India - TNERC BESS Approval", "url": "https://www.mercomindia.com/tnerc-approves-tngecls-1000-mwh-battery-storage-power-purchase", "type": "media" }
       ]
     },
     {
@@ -162,7 +165,8 @@
       "icon": "🚗",
       "sources": [
         { "title": "EV Policy SPC", "url": "https://spc.tn.gov.in/policy/electric-vehicles-policy-2023/", "type": "government" },
-        { "title": "EV Policy GO", "url": "https://cms.tn.gov.in/sites/default/files/go/ind_e_41_2023.pdf", "type": "government" }
+        { "title": "EV Policy PDF", "url": "https://investingintamilnadu.com/DIGIGOV/StaticAttachment?AttachmentFileName=/pdf/poli_noti/TN_Electric_Vehicles_Policy_2023.pdf", "type": "government" },
+        { "title": "EVReporter - TN EV Policy", "url": "https://evreporter.com/tamil-nadu-electric-vehicles-policy/", "type": "media" }
       ]
     },
     {
@@ -193,8 +197,9 @@
       ],
       "icon": "🏠",
       "sources": [
-        { "title": "TANGEDCO Rooftop Solar", "url": "https://www.tangedco.gov.in/usrp/index.html", "type": "government" },
-        { "title": "PM Surya Ghar Scheme", "url": "https://www.thehindu.com/news/national/tamil-nadu/pm-surya-ghar-scheme-launch/article67891234.ece", "type": "media" }
+        { "title": "PM Surya Ghar Portal", "url": "https://pmsuryaghar.gov.in/", "type": "government" },
+        { "title": "TNEB Rooftop Solar Portal", "url": "https://www.tnebltd.gov.in/usrp/", "type": "government" },
+        { "title": "Sunsure Energy - TN Solar Subsidy", "url": "https://sunsure-energy.com/solar-energy-in-tamil-nadu-an-overview-of-subsidies-and-incentives-in-2025/", "type": "media" }
       ]
     },
     {
@@ -227,7 +232,9 @@
       "icon": "🌊",
       "sources": [
         { "title": "NIWE", "url": "https://niwe.res.in", "type": "government" },
-        { "title": "India Offshore Wind Tender", "url": "https://www.offshorewind.biz/2024/02/02/india-issues-tender-for-4-gw-offshore-wind-off-tamil-nadu/", "type": "media" }
+        { "title": "Offshore Wind Biz - 4GW Tender", "url": "https://www.offshorewind.biz/2024/02/05/india-launches-4-gw-offshore-wind-tender/", "type": "media" },
+        { "title": "PIB - 4GW Offshore Wind Projects", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2001947", "type": "government" },
+        { "title": "Trade.gov - India Offshore Wind", "url": "https://www.trade.gov/market-intelligence/india-offshore-wind-energy", "type": "media" }
       ]
     },
     {
@@ -259,7 +266,9 @@
       "icon": "💨",
       "sources": [
         { "title": "Guidance TN", "url": "https://investingintamilnadu.com", "type": "government" },
-        { "title": "Sembcorp Green Ammonia Plant", "url": "https://economictimes.indiatimes.com/industry/renewables/sembcorp-to-build-green-ammonia-plant-in-tamil-nadu/articleshow/106622123.cms", "type": "media" }
+        { "title": "Sembcorp Green Ammonia Official", "url": "https://www.sembcorp.com/news-and-insights/news/2024/thiru-mk-stalin-honble-chief-minister-of-tamil-nadu-lays-foundation-stone-for-sembcorps-green-ammonia-plant-in-tuticorin/", "type": "media" },
+        { "title": "Business Standard - Green Hydrogen Hub", "url": "https://www.business-standard.com/industry/news/petronas-sembcorp-others-to-fuel-thoothukudi-s-green-hydrogen-hub-by-2028-125012600454_1.html", "type": "media" },
+        { "title": "SolarQuarter - Green Ammonia", "url": "https://solarquarter.com/2024/08/22/cm-stalin-inaugurates-indias-first-cross-border-green-ammonia-plant-in-tuticorin/", "type": "media" }
       ]
     },
     {
@@ -290,8 +299,10 @@
       ],
       "icon": "🌍",
       "sources": [
-        { "title": "TN Climate Change Mission", "url": "https://www.tnclimatechangemission.in", "type": "government" },
-        { "title": "TN Climate Summit 2.0", "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-climate-summit-2-0/article67895678.ece", "type": "media" }
+        { "title": "TN Climate Change Mission", "url": "https://tnclimatechangemission.in/home/", "type": "government" },
+        { "title": "TNSAPCC - Environment Dept", "url": "https://www.environment.tn.gov.in/environment/tnsapcc", "type": "government" },
+        { "title": "TN Climate Summit 4.0", "url": "https://www.tnclimatesummit.com/", "type": "government" },
+        { "title": "TN Climate Tracker", "url": "https://tnclimatetracker.tn.gov.in/", "type": "government" }
       ]
     },
     {
@@ -322,8 +333,9 @@
       ],
       "icon": "🌳",
       "sources": [
-        { "title": "Green TN Mission", "url": "https://greentnmission.com", "type": "government" },
-        { "title": "Green TN 265 Crore Saplings", "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/aug/10/green-tamil-nadu-mission-targets-265-crore-saplings", "type": "media" }
+        { "title": "Green TN Mission Official", "url": "https://www.greentnmission.com/", "type": "government" },
+        { "title": "Business Standard - Green TN Mission Launch", "url": "https://www.business-standard.com/article/current-affairs/cm-mk-stalin-launches-green-tn-mission-urges-people-to-join-hands-122092400642_1.html", "type": "media" },
+        { "title": "TN Forest Dept - Free Saplings", "url": "https://www.tnagrisnet.tn.gov.in/people_app/forest/index/en", "type": "government" }
       ]
     },
     {
@@ -354,8 +366,9 @@
       ],
       "icon": "♻️",
       "sources": [
-        { "title": "TN Urban Tree", "url": "https://tnurbantree.tn.gov.in", "type": "government" },
-        { "title": "Thooimai Mission Launch", "url": "https://www.thehindu.com/news/national/tamil-nadu/thooimai-mission-launch/article68234567.ece", "type": "media" }
+        { "title": "Thooimai Mission Portal", "url": "https://thooimaimission.com/", "type": "government" },
+        { "title": "Usthadian - Thooimai Mission Launch", "url": "https://www.usthadian.com/tamil-nadu-launches-thooimai-mission-for-sustainable-waste-management/", "type": "media" },
+        { "title": "SBM Grameen - TN SWM Strategy", "url": "https://sbmgramin.wordpress.com/2024/03/07/tamil-nadus-strategic-solid-waste-management-forward-thinking-infrastructure-planning-for-sustainable-villages/", "type": "government" }
       ]
     },
     {
@@ -386,8 +399,9 @@
       ],
       "icon": "💦",
       "sources": [
-        { "title": "TN Water Resources", "url": "https://www.tn.gov.in/department/34", "type": "government" },
-        { "title": "CM Inaugurates Water Projects", "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/oct/15/cm-stalin-inaugurates-19-water-projects", "type": "media" }
+        { "title": "TN Environment Dept - Eco Restoration", "url": "https://www.environment.tn.gov.in/eco-restoration", "type": "government" },
+        { "title": "Better India - Chennai Lake Revival", "url": "https://thebetterindia.com/358580/lake-restoration-chitlapakkam-chennai-volunteer-group-water-crisis-groundwater-restoration-tamil-nadu/", "type": "media" },
+        { "title": "Nature.org - Sembakkam Lake", "url": "https://www.nature.org/en-us/about-us/where-we-work/india/our-priorities/lake-sembakkam/", "type": "media" }
       ]
     },
     {
@@ -522,8 +536,9 @@
       ],
       "icon": "🌳",
       "sources": [
-        { "title": "News9 Live", "url": "https://www.news9live.com/state/tamil-nadu/chennai-to-get-indias-biggest-urban-park-tamil-nadu-govt-plans-118-acre-rs-4832-crore-project-with-25-facilities-2871562", "type": "media" },
-        { "title": "The Print", "url": "https://theprint.in/india/cm-stalin-launches-first-phase-of-118-acre-environmental-park-in-chennai/2775332/", "type": "media" }
+        { "title": "News9 Live - India's Biggest Urban Park", "url": "https://www.news9live.com/state/tamil-nadu/chennai-to-get-indias-biggest-urban-park-tamil-nadu-govt-plans-118-acre-rs-4832-crore-project-with-25-facilities-2871562", "type": "media" },
+        { "title": "News Today - Race Course Eco Park", "url": "https://newstodaynet.com/2025/11/04/guindy-race-course-to-be-transformed-into-eco-park/", "type": "media" },
+        { "title": "LiveChennai - Guindy Eco Park", "url": "https://tamil.livechennai.com/eco-park-in-chennai-guindy-resource-salai/", "type": "media" }
       ]
     },
     {
@@ -624,8 +639,10 @@
       ],
       "icon": "🦩",
       "sources": [
-        { "title": "Ramsar Sites Information Service", "url": "https://rsis.ramsar.org/ris/2561", "type": "government" },
-        { "title": "Usthadian Academy", "url": "https://www.usthadian.com/tamil-nadu-adds-two-more-ramsar-sites-retains-national-lead-in-wetland-conservation/", "type": "media" }
+        { "title": "Deccan Chronicle - Two More Ramsar Sites", "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/two-more-ramsar-sites-for-tamil-nadu-1858278", "type": "media" },
+        { "title": "Usthadian Academy - Ramsar Sites", "url": "https://www.usthadian.com/tamil-nadu-adds-two-more-ramsar-sites-retains-national-lead-in-wetland-conservation/", "type": "media" },
+        { "title": "Outlook Traveller - New Ramsar Sites 2025", "url": "https://www.outlooktraveller.com/News/world-wetlands-day-2025-four-new-wetlands-declared-ramsar-sites-in-india", "type": "media" },
+        { "title": "GS Score - Sakkarakottai & Therthangal", "url": "https://iasscore.in/current-affairs/sakkarakottai-and-therthangal-bird-sanctuaries", "type": "media" }
       ]
     },
     {

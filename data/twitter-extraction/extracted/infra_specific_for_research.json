@@ -1,0 +1,1862 @@
+[
+  {
+    "tweet_id": "1841876633176694827",
+    "category": "infrastructure",
+    "name_en": "Chennai Metro Phase 2 Approval",
+    "name_ta": "சென்னை மெட்ரோ இரண்டாம் கட்டம்",
+    "investment_crore": 63246,
+    "jobs_created": null,
+    "beneficiaries": "Chennai commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2024-10-03",
+    "summary_en": "Union Cabinet approved Chennai Metro Phase 2 with Rs.7,425 cr from GOI, Rs.33,593 cr loans, and Rs.22,228 cr from state."
+  },
+  {
+    "tweet_id": "1805153024337383643",
+    "category": "infrastructure",
+    "name_en": "CM's Village Roads Development Scheme",
+    "name_ta": "முதல்வரின் கிராம சாலைகள் மேம்பாட்டு திட்டம்",
+    "investment_crore": 4000,
+    "jobs_created": null,
+    "beneficiaries": "Rural population",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-24",
+    "summary_en": "10,000 km of rural roads to be upgraded in next two years at Rs 4000 crore under CM's Village Roads Development Scheme"
+  },
+  {
+    "tweet_id": "2014265918088720652",
+    "category": "infrastructure",
+    "name_en": "Thoothukudi Desalination Plant",
+    "name_ta": "தூத்துக்குடி கடல்நீர் நன்னீராக்கும் ஆலை",
+    "investment_crore": 2292.38,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Mullakkadu"
+    },
+    "event_type": "groundbreaking",
+    "date": "2026-01-22",
+    "summary_en": "CM laid foundation for 60 MLD desalination plant at Rs 2,292.38 crore to meet water needs of SIPCOT and surrounding industries."
+  },
+  {
+    "tweet_id": "2017543792530715011",
+    "category": "infrastructure",
+    "name_en": "Sivaganga Combined Drinking Water Project",
+    "name_ta": "சிவகங்கை கூட்டுக் குடிநீர் திட்டம்",
+    "investment_crore": 2119.07,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Sivaganga",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-31",
+    "summary_en": "CM launched Rs 2,119.07 crore Cauvery-based combined drinking water project covering 8 town panchayats, 11 panchayat unions and 2,452 rural habitations."
+  },
+  {
+    "tweet_id": "1853504799699845229",
+    "category": "infrastructure",
+    "name_en": "Coimbatore Airport Expansion - Land Handover",
+    "name_ta": "கோவை விமான நிலைய விரிவாக்கம்",
+    "investment_crore": 2088.92,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "other",
+    "date": "2024-11-04",
+    "summary_en": "Land worth Rs 2088.92 crore handed over to AAI for Coimbatore Airport expansion."
+  },
+  {
+    "tweet_id": "1822928697764295098",
+    "category": "infrastructure",
+    "name_en": "Urban Water and Sanitation Projects",
+    "name_ta": "நகர்ப்புற குடிநீர் மற்றும் கழிவுநீர் திட்டங்கள்",
+    "investment_crore": 1962.42,
+    "jobs_created": null,
+    "beneficiaries": "Urban residents",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-12",
+    "summary_en": "CM inaugurated Rs 769.97cr completed projects and laid foundation for Rs 1192.45cr new water and sanitation projects"
+  },
+  {
+    "tweet_id": "1975453483848638647",
+    "category": "infrastructure",
+    "name_en": "G.D. Naidu Flyover (Avinashi Road)",
+    "name_ta": "ஜி.டி. நாயுடு மேம்பாலம் (அவினாசி சாலை)",
+    "investment_crore": 1791,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-07",
+    "summary_en": "Tamil Nadu's longest 10.10 km four-lane flyover from Goldwins to Uppilipalayam constructed at Rs 1791 crore inaugurated"
+  },
+  {
+    "tweet_id": "1864317794566729753",
+    "category": "infrastructure",
+    "name_en": "North Chennai Development Programme Phase 2",
+    "name_ta": "வடசென்னை வளர்ச்சித் திட்டம் கட்டம் 2",
+    "investment_crore": 1383,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "North Chennai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-12-04",
+    "summary_en": "79 new projects worth Rs 1383 crore under Phase 2 of North Chennai Development Programme and 29 completed projects inaugurated."
+  },
+  {
+    "tweet_id": "2019712168464122015",
+    "category": "infrastructure",
+    "name_en": "TNUHDB Housing Units",
+    "name_ta": "நகர்ப்புற வாழ்விட அடுக்குமாடி குடியிருப்புகள்",
+    "investment_crore": 1238.19,
+    "jobs_created": null,
+    "beneficiaries": "9696 families",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-06",
+    "summary_en": "CM inaugurated 9,696 new urban housing units built at Rs 1,238.19 crore across Tamil Nadu under TNUHDB.",
+    "related_tweet_ids": [
+      "2019712168464122015",
+      "1851227727736484150"
+    ]
+  },
+  {
+    "tweet_id": "1808379369834045465",
+    "category": "infrastructure",
+    "name_en": "Multi-storey Housing Reconstruction",
+    "name_ta": "அடுக்குமாடி குடியிருப்பு மறு கட்டுமானம்",
+    "investment_crore": 1149,
+    "jobs_created": null,
+    "beneficiaries": "6746 housing units residents",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-07-03",
+    "summary_en": "6746 multi-storey housing units to be reconstructed at Rs 1149 crore"
+  },
+  {
+    "tweet_id": "1892485708880962001",
+    "category": "infrastructure",
+    "name_en": "Seyyur-Vaniyambadi-Polur Road",
+    "name_ta": "செய்யூர்-வந்தவாசி-போளூர் சாலை",
+    "investment_crore": 1141.23,
+    "jobs_created": null,
+    "beneficiaries": "Commuters in Chengalpattu and Tiruvannamalai",
+    "location": {
+      "district": "Chengalpattu, Tiruvannamalai",
+      "city": "Multiple"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-20",
+    "summary_en": "CM inaugurated 109 km widened and upgraded Seyyur-Panayur-Vaniyambadi-Polur road at Rs 1141.23 crore with bypass roads, bridges, CCTV, bus stops."
+  },
+  {
+    "tweet_id": "1815285978606825885",
+    "category": "infrastructure",
+    "name_en": "TNUHDB Multi-storey Housing and TNHB Government Quarters",
+    "name_ta": "TNUHDB அடுக்குமாடி குடியிருப்பு மற்றும் TNHB அரசு குடியிருப்பு",
+    "investment_crore": 924.16,
+    "jobs_created": null,
+    "beneficiaries": "5643 housing units beneficiaries",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-22",
+    "summary_en": "CM inaugurated 4184 TNUHDB flats worth Rs 541.32cr and 1459 TNHB government quarters worth Rs 382.84cr"
+  },
+  {
+    "tweet_id": "2016802107911995746",
+    "category": "infrastructure",
+    "name_en": "Broadway Bus Terminal Redevelopment",
+    "name_ta": "பிராட்வே பேருந்து நிலைய மறுசீரமைப்பு",
+    "investment_crore": 822.7,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Broadway"
+    },
+    "event_type": "groundbreaking",
+    "date": "2026-01-29",
+    "summary_en": "CM laid foundation for multi-purpose integrated bus terminal and Kuralakam building at Rs 822.70 crore at Broadway."
+  },
+  {
+    "tweet_id": "1895019556705575022",
+    "category": "infrastructure",
+    "name_en": "TNHB Housing and Government Quarters",
+    "name_ta": "தமிழ்நாடு வீட்டு வசதி வாரிய குடியிருப்புகள்",
+    "investment_crore": 776.51,
+    "jobs_created": null,
+    "beneficiaries": "1510 families",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-27",
+    "summary_en": "CM inaugurated 1046 TNHB apartments worth Rs 659.96 crore and 464 government employee rental quarters worth Rs 116.55 crore."
+  },
+  {
+    "tweet_id": "1891772495038120175",
+    "category": "infrastructure",
+    "name_en": "TIDEL Parks Trichy and Madurai",
+    "name_ta": "டைடல் பார்க் திருச்சி மற்றும் மதுரை",
+    "investment_crore": 717,
+    "jobs_created": 12000,
+    "beneficiaries": "IT professionals and companies",
+    "location": {
+      "district": "Tiruchirappalli, Madurai",
+      "city": "Trichy, Madurai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-02-18",
+    "summary_en": "CM laid foundation for TIDEL Parks in Trichy (Rs 403 crore, 5.58 lakh sq ft) and Madurai (Rs 314 crore, 5.34 lakh sq ft) expected to create 12,000 jobs."
+  },
+  {
+    "tweet_id": "1924380243986665716",
+    "category": "infrastructure",
+    "name_en": "Police Quarters and Coimbatore Central Prison",
+    "name_ta": "காவலர் குடியிருப்புகள் மற்றும் கோயம்புத்தூர் சிறைச்சாலை",
+    "investment_crore": 668.71,
+    "jobs_created": null,
+    "beneficiaries": "Police personnel and prison staff",
+    "location": {
+      "district": "Chennai/Coimbatore",
+      "city": "Pollachi/Blichey"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-05-19",
+    "summary_en": "Foundation stone laid for 1118 police quarters at Rs 457.14 crore and new Coimbatore central prison at Rs 211.57 crore"
+  },
+  {
+    "tweet_id": "1804346558789648414",
+    "category": "infrastructure",
+    "name_en": "Bus Terminus Projects",
+    "name_ta": "பேருந்து முனைய திட்டங்கள்",
+    "investment_crore": 604.9,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2024-06-21",
+    "summary_en": "Bus terminus projects announced: Koyambedu Rs 400cr, Chengalpattu Rs 97cr, Mamallapuram Rs 80cr, Mudichur Rs 27.90cr"
+  },
+  {
+    "tweet_id": "1851233639163453686",
+    "category": "infrastructure",
+    "name_en": "Madurai TIDEL Park",
+    "name_ta": "மதுரை டைடல் பூங்கா",
+    "investment_crore": 600,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Madurai",
+      "city": "Mattuthavani"
+    },
+    "event_type": "other",
+    "date": "2024-10-29",
+    "summary_en": "Site inspection for proposed TIDEL Park at Mattuthavani on 5.63 acres with Rs 600 crore investment."
+  },
+  {
+    "tweet_id": "2013170452466974812",
+    "category": "infrastructure",
+    "name_en": "Kalaignar International Convention Centre",
+    "name_ta": "கலைஞர் பன்னாட்டு மாநாடு மையம்",
+    "investment_crore": 525,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Muttukadu"
+    },
+    "event_type": "other",
+    "date": "2026-01-19",
+    "summary_en": "CM reviewed construction of world-class Kalaignar International Convention Centre being built on 37.99 acres at Rs 525 crore on ECR.",
+    "related_tweet_ids": [
+      "2013170452466974812",
+      "1928016713351614703"
+    ]
+  },
+  {
+    "tweet_id": "1928018108943421524",
+    "category": "infrastructure",
+    "name_en": "Highways and Bridges",
+    "name_ta": "நெடுஞ்சாலைகள் மற்றும் மேம்பாலங்கள்",
+    "investment_crore": 499.08,
+    "jobs_created": null,
+    "beneficiaries": "Commuters",
+    "location": {
+      "district": "Namakkal/Madurai/Ranipet",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-29",
+    "summary_en": "Opened Rs 424.38 crore four-lane highway, Rs 68.38 crore railway overbridge, and Rs 6.32 crore tribal housing at Ranipet"
+  },
+  {
+    "tweet_id": "1821460581905269233",
+    "category": "infrastructure",
+    "name_en": "Ukkadam Flyover",
+    "name_ta": "உக்கடம் மேம்பாலம்",
+    "investment_crore": 481,
+    "jobs_created": null,
+    "beneficiaries": "Coimbatore commuters",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-08",
+    "summary_en": "Rs 481 crore Aathupalam-Ukkadam flyover completed and ready for public use"
+  },
+  {
+    "tweet_id": "1808379332156613108",
+    "category": "infrastructure",
+    "name_en": "Village Roads and Government Jobs Announcement",
+    "name_ta": "கிராம சாலைகள் மற்றும் அரசு வேலைவாய்ப்பு அறிவிப்பு",
+    "investment_crore": 450,
+    "jobs_created": 75000,
+    "beneficiaries": "Rural population and youth",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-07-03",
+    "summary_en": "Rs 450 crore for 10,000 km village roads upgrade, 75,000 government jobs for youth"
+  },
+  {
+    "tweet_id": "1920778759218630743",
+    "category": "infrastructure",
+    "name_en": "Kalaignar Bus Terminus Trichy",
+    "name_ta": "முத்தமிழறிஞர் கலைஞர் ஒருங்கிணைந்த பேருந்து முனையம் திருச்சி",
+    "investment_crore": 408.36,
+    "jobs_created": null,
+    "beneficiaries": "Trichy Residents",
+    "location": {
+      "district": "Trichy",
+      "city": "Panchappur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-09",
+    "summary_en": "CM inaugurated Rs 408.36 crore integrated bus terminus and unveiled Kalaignar statue"
+  },
+  {
+    "tweet_id": "1920767098751775198",
+    "category": "infrastructure",
+    "name_en": "Kalaignar Integrated Bus Terminus Trichy",
+    "name_ta": "முத்தமிழறிஞர் கலைஞர் ஒருங்கிணைந்த பேருந்து முனையம் திருச்சி",
+    "investment_crore": 408,
+    "jobs_created": null,
+    "beneficiaries": "Trichy Residents",
+    "location": {
+      "district": "Trichy",
+      "city": "Panchappur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-09",
+    "summary_en": "CM inaugurated Rs 408 crore airport-standard integrated bus terminus named after Kalaignar"
+  },
+  {
+    "tweet_id": "1890324145927323981",
+    "category": "infrastructure",
+    "name_en": "Central Tower Chennai Central",
+    "name_ta": "சென்ட்ரல் கோபுரம் சென்னை",
+    "investment_crore": 350,
+    "jobs_created": null,
+    "beneficiaries": "Businesses and commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai Central"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-02-14",
+    "summary_en": "CM laid foundation for 27-storey Central Tower at Chennai Central metro station area with Rs 350 crore investment."
+  },
+  {
+    "tweet_id": "2013144765815201978",
+    "category": "infrastructure",
+    "name_en": "Mamallan Reservoir",
+    "name_ta": "மாமல்லன் நீர்த்தேக்கம்",
+    "investment_crore": 342.6,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Kovalam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2026-01-19",
+    "summary_en": "CM laid foundation for Mamallan drinking water reservoir spanning 5,161 acres at Rs 342.60 crore between Old Mamallapuram Road and ECR."
+  },
+  {
+    "tweet_id": "1859849415453704539",
+    "category": "infrastructure",
+    "name_en": "TIDEL Park Avadi Pattabiram",
+    "name_ta": "டைடல் பூங்கா ஆவடி பட்டாபிராம்",
+    "investment_crore": 330,
+    "jobs_created": 6000,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruvallur",
+      "city": "Pattabiram"
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-22",
+    "summary_en": "21-storey TIDEL Park on 11.41 acres with 5.57 lakh sq ft inaugurated at Rs 330 crore, creating 6,000 IT jobs."
+  },
+  {
+    "tweet_id": "1884514034768375978",
+    "category": "infrastructure",
+    "name_en": "TNUHDB Housing Projects",
+    "name_ta": "தமிழ்நாடு நகர்ப்புற வாழ்விட மேம்பாட்டு வாரிய குடியிருப்புகள்",
+    "investment_crore": 327.69,
+    "jobs_created": null,
+    "beneficiaries": "2404 families",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-01-29",
+    "summary_en": "CM laid foundation for 2404 new apartments under TNUHDB at Rs 327.69 crore investment."
+  },
+  {
+    "tweet_id": "1927645438150340897",
+    "category": "infrastructure",
+    "name_en": "Fishing Harbors and Landing Centers Upgrade",
+    "name_ta": "மீன்பிடி துறைமுகங்கள் மேம்பாடு",
+    "investment_crore": 323.43,
+    "jobs_created": null,
+    "beneficiaries": "Fishermen across coastal districts",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-28",
+    "summary_en": "Opened Rs 153.43 crore upgraded fishing facilities and laid foundation for Rs 170 crore landing centers at Ramanathapuram"
+  },
+  {
+    "tweet_id": "1854067040216326158",
+    "category": "infrastructure",
+    "name_en": "Periyar Library and Science Center Coimbatore",
+    "name_ta": "தந்தை பெரியார் நூலகம் மற்றும் அறிவியல் மையம்",
+    "investment_crore": 300,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Anupparpalayam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-11-06",
+    "summary_en": "Foundation stone for Periyar Library and Science Center with 1.98 lakh sq ft across 8 floors at Rs 300 crore. Expected inauguration January 2026."
+  },
+  {
+    "tweet_id": "1826624019442844061",
+    "category": "infrastructure",
+    "name_en": "Chennai City Partnership Programme - MTC Fund",
+    "name_ta": "சென்னை நகர கூட்டாண்மைத் திட்டம் - MTC நிதி",
+    "investment_crore": 300,
+    "jobs_created": null,
+    "beneficiaries": "MTC commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2024-08-22",
+    "summary_en": "World Bank funded Viability Gap Fund of Rs.300 crore allocated for Metropolitan Transport Corporation."
+  },
+  {
+    "tweet_id": "1950825991854834157",
+    "category": "infrastructure",
+    "name_en": "Police and Emergency Services Buildings",
+    "name_ta": "காவல் மற்றும் அவசர சேவை கட்டடங்கள்",
+    "investment_crore": 274.67,
+    "jobs_created": null,
+    "beneficiaries": "Public safety",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-31",
+    "summary_en": "Inaugurated police buildings (Rs 27.59 cr), fire stations (Rs 13.54 cr), prison buildings (Rs 60 lakh), forensic drug testing units (Rs 3.74 cr), laid foundation for Madurai Central Prison (Rs 229.20 cr)"
+  },
+  {
+    "tweet_id": "1927637132715135457",
+    "category": "infrastructure",
+    "name_en": "Thiruvottiyur Tuna Fishing Harbor",
+    "name_ta": "திருவொற்றியூர் சூரை மீன்பிடி துறைமுகம்",
+    "investment_crore": 272.7,
+    "jobs_created": null,
+    "beneficiaries": "6250 fishermen",
+    "location": {
+      "district": "Chennai",
+      "city": "Thiruvottiyur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-28",
+    "summary_en": "India's first dedicated tuna fishing harbor capable of handling 7000 tonnes annually"
+  },
+  {
+    "tweet_id": "1924786849341702272",
+    "category": "infrastructure",
+    "name_en": "Fitness Parks and Sports Ground",
+    "name_ta": "உடற்பயிற்சி பூங்காக்கள்",
+    "investment_crore": 270.26,
+    "jobs_created": null,
+    "beneficiaries": "Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "ORR/Thyagaraya Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-20",
+    "summary_en": "Opened 4 fitness parks at Rs 11.46 crore and Somasundaram sports ground at Rs 3.20 crore; foundation for 20 new projects at Rs 255.60 crore"
+  },
+  {
+    "tweet_id": "1816739140777783791",
+    "category": "infrastructure",
+    "name_en": "Tamil Nadu House New Delhi Construction",
+    "name_ta": "தமிழ்நாடு இல்லம் புதுடில்லி கட்டுமானம்",
+    "investment_crore": 257,
+    "jobs_created": null,
+    "beneficiaries": "TN government officials and visitors",
+    "location": {
+      "district": null,
+      "city": "New Delhi"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-07-26",
+    "summary_en": "CM laid foundation stone via video for new buildings at Vaigai Tamil Nadu House in New Delhi worth Rs 257 crore"
+  },
+  {
+    "tweet_id": "1939598923733336382",
+    "category": "infrastructure",
+    "name_en": "MTC Electric Bus Fleet",
+    "name_ta": "MTC மின்சார பேருந்துகள்",
+    "investment_crore": 255.4,
+    "jobs_created": null,
+    "beneficiaries": "Chennai commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Vyasarpadi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-30",
+    "summary_en": "Launched 120 new low-floor electric buses at Rs 207.90 crore and upgraded Rs 47.50 crore Vyasarpadi e-bus depot - first in Tamil Nadu"
+  },
+  {
+    "tweet_id": "1920776841247248650",
+    "category": "infrastructure",
+    "name_en": "Periyar Integrated Vegetable Market Trichy",
+    "name_ta": "பெரியார் ஒருங்கிணைந்த காய்கறி அங்காடி திருச்சி",
+    "investment_crore": 236,
+    "jobs_created": null,
+    "beneficiaries": "Trichy Farmers and Traders",
+    "location": {
+      "district": "Trichy",
+      "city": "Panchappur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-05-09",
+    "summary_en": "CM laid foundation for Rs 236 crore integrated vegetable market and unveiled Periyar statue"
+  },
+  {
+    "tweet_id": "1856588111309840438",
+    "category": "infrastructure",
+    "name_en": "HR&CE Temple Renovation Projects",
+    "name_ta": "இந்து சமய அறநிலையத் துறை கோயில் பணிகள்",
+    "investment_crore": 233.15,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-13",
+    "summary_en": "Rs 190.40 crore for new projects in 18 temples and Rs 42.75 crore for completed works in 15 temples."
+  },
+  {
+    "tweet_id": "1958811556801913199",
+    "category": "infrastructure",
+    "name_en": "HR&CE Temple Projects",
+    "name_ta": "இந்து சமய அறநிலையத் திருக்கோயில் பணிகள்",
+    "investment_crore": 208.69,
+    "jobs_created": null,
+    "beneficiaries": "Devotees",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-22",
+    "summary_en": "Started 17 new temple projects (Rs 124.97 cr), renovation of 9 thousand-year-old temples (Rs 32.53 cr), inaugurated 14 completed works (Rs 51.19 cr)"
+  },
+  {
+    "tweet_id": "1993241194608939125",
+    "category": "infrastructure",
+    "name_en": "Kovai Semmozhi Poonga",
+    "name_ta": "கோவை செம்மொழி பூங்கா",
+    "investment_crore": 208.5,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Gandhipuram"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-25",
+    "summary_en": "CM inaugurated world-class Semmozhi Poonga on 45 acres in Coimbatore built at Rs 208.50 crore with modern amenities."
+  },
+  {
+    "tweet_id": "1993174433822130487",
+    "category": "infrastructure",
+    "name_en": "Tambaram Eastern Bypass Bridge",
+    "name_ta": "தாம்பரம் கிழக்கு பைபாஸ் பாலம்",
+    "investment_crore": 208.31,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Chennai",
+      "city": "Rajakilpakkam"
+    },
+    "event_type": "announcement",
+    "date": "2025-11-24",
+    "summary_en": "Highways Department approved Rs 208.31 crore six-lane bridge across Rajakilpakkam Lake to complete Tambaram Eastern Bypass."
+  },
+  {
+    "tweet_id": "1924784441937035419",
+    "category": "infrastructure",
+    "name_en": "Commercial Complexes by TN Housing Board",
+    "name_ta": "வணிக வளாகங்கள்",
+    "investment_crore": 207.9,
+    "jobs_created": null,
+    "beneficiaries": "Business community",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-20",
+    "summary_en": "Inaugurated 4 commercial complexes built at Rs 207.90 crore by Tamil Nadu Housing Board"
+  },
+  {
+    "tweet_id": "1926902831841239505",
+    "category": "infrastructure",
+    "name_en": "Chennai Corporation Municipal Bonds",
+    "name_ta": "சென்னை மாநகராட்சி நிதிப் பத்திரங்கள்",
+    "investment_crore": 200,
+    "jobs_created": null,
+    "beneficiaries": "Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-05-26",
+    "summary_en": "Listed Rs 200 crore Chennai Corporation municipal bonds on National Stock Exchange for stormwater drain infrastructure"
+  },
+  {
+    "tweet_id": "1896356276929360041",
+    "category": "infrastructure",
+    "name_en": "SIPCOT TTRO Plant Hosur",
+    "name_ta": "சிப்காட் TTRO ஆலை ஓசூர்",
+    "investment_crore": 182,
+    "jobs_created": null,
+    "beneficiaries": "Industrial parks in Hosur region",
+    "location": {
+      "district": "Krishnagiri",
+      "city": "Hosur"
+    },
+    "event_type": "other",
+    "date": "2025-02-22",
+    "summary_en": "Industries Minister inspected 20 MLD TTRO water treatment plant under construction at Rs 182 crore to supply treated water to industrial parks in Hosur."
+  },
+  {
+    "tweet_id": "2013899496384798772",
+    "category": "infrastructure",
+    "name_en": "North Chennai Urban Housing",
+    "name_ta": "வடசென்னை நகர்ப்புற குடியிருப்புகள்",
+    "investment_crore": 178,
+    "jobs_created": null,
+    "beneficiaries": "776 families",
+    "location": {
+      "district": "Chennai",
+      "city": "Ezhukinar"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-21",
+    "summary_en": "CM inaugurated 776 urban housing units worth Rs 147 crore near Stanley Hospital under North Chennai Development Scheme, and laid foundation for 144 new units worth Rs 31 crore."
+  },
+  {
+    "tweet_id": "1955188368318640521",
+    "category": "infrastructure",
+    "name_en": "Fisheries Infrastructure Development",
+    "name_ta": "மீன்வளம் உட்கட்டமைப்பு மேம்பாடு",
+    "investment_crore": 177.16,
+    "jobs_created": null,
+    "beneficiaries": "Fishermen",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-12",
+    "summary_en": "Inaugurated 9 completed fisheries projects including new and upgraded fish landing centers, fish seed farm and training center with office building",
+    "related_tweet_ids": [
+      "1997946571607151036",
+      "1955188368318640521"
+    ]
+  },
+  {
+    "tweet_id": "1898003293114175813",
+    "category": "infrastructure",
+    "name_en": "Needamangalam Flyover",
+    "name_ta": "நீடாமங்கலம் மேம்பாலம்",
+    "investment_crore": 170,
+    "jobs_created": null,
+    "beneficiaries": "Mannargudi Constituency Residents",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Needamangalam"
+    },
+    "event_type": "other",
+    "date": "2025-03-07",
+    "summary_en": "Deputy CM inspected Rs 170 crore flyover construction over railway line"
+  },
+  {
+    "tweet_id": "2014265147431551292",
+    "category": "infrastructure",
+    "name_en": "Mandaveli Bus Terminal Multi-Modal Hub",
+    "name_ta": "மந்தைவெளி பேருந்து முனைய பல்நோக்கு மையம்",
+    "investment_crore": 167.09,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Mandaveli"
+    },
+    "event_type": "groundbreaking",
+    "date": "2026-01-22",
+    "summary_en": "CM laid foundation for integrated multi-modal transport and commercial complex at Rs 167.09 crore at Mandaveli bus depot."
+  },
+  {
+    "tweet_id": "1972936875175215163",
+    "category": "infrastructure",
+    "name_en": "J. Anbazhagan Flyover",
+    "name_ta": "ஜெ. அன்பழகன் மேம்பாலம்",
+    "investment_crore": 164.92,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "T. Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-30",
+    "summary_en": "Chennai's first steel flyover connecting South Usman Road and CIT Nagar constructed at Rs 164.92 crore inaugurated"
+  },
+  {
+    "tweet_id": "1853747319822274669",
+    "category": "infrastructure",
+    "name_en": "Coimbatore IT Building Vilankurichi",
+    "name_ta": "கோயம்புத்தூர் விளாங்குறிச்சி தகவல் தொழில்நுட்பக் கட்டடம்",
+    "investment_crore": 158.32,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Vilankurichi"
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-05",
+    "summary_en": "IT building inaugurated at Vilankurichi with 2.94 lakh sq ft at Rs 158.32 crore."
+  },
+  {
+    "tweet_id": "1886636465372938475",
+    "category": "infrastructure",
+    "name_en": "Coimbatore Metro Rail Land Acquisition Fund",
+    "name_ta": "கோவை மெட்ரோ ரயில் நிலம் கையகப்படுத்துதல் நிதி",
+    "investment_crore": 154,
+    "jobs_created": null,
+    "beneficiaries": "Coimbatore commuters",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "announcement",
+    "date": "2025-02-04",
+    "summary_en": "Chennai Metro Rail allocated Rs 154 crore as first phase for land acquisition for Coimbatore Metro Rail project."
+  },
+  {
+    "tweet_id": "2004478359473140114",
+    "category": "infrastructure",
+    "name_en": "Kallakurichi District Collectorate",
+    "name_ta": "கள்ளக்குறிச்சி மாவட்ட ஆட்சியர் அலுவலகம்",
+    "investment_crore": 139.41,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Kallakurichi",
+      "city": "Veerasozapuram"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-26",
+    "summary_en": "CM inaugurated new Kallakurichi District Collectorate complex built on 39.81 acres at Rs 139.41 crore."
+  },
+  {
+    "tweet_id": "1920775557026848814",
+    "category": "infrastructure",
+    "name_en": "Anna Heavy Vehicle Terminus Trichy",
+    "name_ta": "பேரறிஞர் அண்ணா கனரக சரக்கு வாகன முனையம் திருச்சி",
+    "investment_crore": 128.94,
+    "jobs_created": null,
+    "beneficiaries": "Trichy Residents",
+    "location": {
+      "district": "Trichy",
+      "city": "Panchappur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-09",
+    "summary_en": "CM inaugurated Rs 128.94 crore heavy vehicle terminus named after Anna"
+  },
+  {
+    "tweet_id": "1919410222231179673",
+    "category": "infrastructure",
+    "name_en": "Mannargudi Ring Road",
+    "name_ta": "மன்னார்குடி சுற்றுவட்ட சாலை",
+    "investment_crore": 124,
+    "jobs_created": null,
+    "beneficiaries": "Mannargudi Residents",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "other",
+    "date": "2025-05-05",
+    "summary_en": "Industries Minister inspected Rs 124 crore ring road construction connecting 6 major roads, covering 11.9 km"
+  },
+  {
+    "tweet_id": "1970045626474983605",
+    "category": "infrastructure",
+    "name_en": "Fire and Rescue Training Academy Foundation",
+    "name_ta": "தீயணைப்பு பயிற்சி அகாடமி அடிக்கல்",
+    "investment_crore": 122.66,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Kalavakkam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-09-22",
+    "summary_en": "Rs 21.85 crore State Training Academy foundation, Rs 97.65 crore police housing and stations, fire department buildings inaugurated"
+  },
+  {
+    "tweet_id": "1827956342893822096",
+    "category": "infrastructure",
+    "name_en": "North Chennai Development Plan Projects",
+    "name_ta": "வடசென்னை வளர்ச்சித் திட்டப் பணிகள்",
+    "investment_crore": 120.8,
+    "jobs_created": null,
+    "beneficiaries": "North Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-08-26",
+    "summary_en": "Foundation laid for 6 new projects including Kolathur Ornamental Fish Market (Rs.53.50 cr), community hall, lake bund improvements totaling Rs.115.58 crore plus Rs.5.22 cr inaugurations."
+  },
+  {
+    "tweet_id": "1853706819442487625",
+    "category": "infrastructure",
+    "name_en": "Coimbatore IT Park Phase 2",
+    "name_ta": "கோயம்புத்தூர் தகவல் தொழில்நுட்ப பூங்கா",
+    "investment_crore": 114.16,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-05",
+    "summary_en": "Second IT Park inaugurated at Coimbatore worth Rs 114.16 crore."
+  },
+  {
+    "tweet_id": "1897975624654008798",
+    "category": "infrastructure",
+    "name_en": "Island Grounds Exhibition Centre",
+    "name_ta": "தீவுத்திடல் கண்காட்சி மையம்",
+    "investment_crore": 113,
+    "jobs_created": null,
+    "beneficiaries": "Chennai Residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Island Grounds"
+    },
+    "event_type": "other",
+    "date": "2025-03-07",
+    "summary_en": "CM inspected Rs 113 crore exhibition centre with 1.63 lakh sq ft area under construction"
+  },
+  {
+    "tweet_id": "1826627412781596979",
+    "category": "infrastructure",
+    "name_en": "MTC Electric Bus Infrastructure",
+    "name_ta": "MTC மின் பேருந்து உட்கட்டமைப்பு",
+    "investment_crore": 111.5,
+    "jobs_created": null,
+    "beneficiaries": "MTC commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2024-08-22",
+    "summary_en": "Fund allocated for electric bus infrastructure at 6 depots and diesel bus conversion at 5 depots."
+  },
+  {
+    "tweet_id": "1978504693979742461",
+    "category": "infrastructure",
+    "name_en": "Ganesh Nagar 230/33 KV GIS Substation",
+    "name_ta": "கணேஷ் நகர் 230/33 கி.வோ. துணைமின் நிலையம்",
+    "investment_crore": 110.92,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Ganesh Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-15",
+    "summary_en": "230/33 KV Gas Insulated Substation under North Chennai Development Plan constructed at Rs 110.92 crore inaugurated"
+  },
+  {
+    "tweet_id": "1820369204375138686",
+    "category": "infrastructure",
+    "name_en": "Kolathur Sub-station",
+    "name_ta": "கொளத்தூர் துணை மின் நிலையம்",
+    "investment_crore": 110.92,
+    "jobs_created": null,
+    "beneficiaries": "Power consumers",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "other",
+    "date": "2024-08-05",
+    "summary_en": "CM reviewed Rs 110.92 crore 230/33 KV gas-insulated sub-station under construction in Kolathur"
+  },
+  {
+    "tweet_id": "1897939302409273500",
+    "category": "infrastructure",
+    "name_en": "MS Swaminathan Wetland Green Park and Market Upgrades",
+    "name_ta": "எம்.எஸ்.சுவாமிநாதன் ஈரநில பசுமை பூங்கா மற்றும் சந்தை மேம்பாடு",
+    "investment_crore": 110.45,
+    "jobs_created": null,
+    "beneficiaries": "Chennai Residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Porur, Koyambedu, Sathangadu"
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-07",
+    "summary_en": "CM inaugurated Rs 39.75 crore park at Porur and market upgrades, laid foundation for Rs 70.70 crore new projects"
+  },
+  {
+    "tweet_id": "1951206184578331123",
+    "category": "infrastructure",
+    "name_en": "CMDA Parks and Flyover Beautification",
+    "name_ta": "CMDA பூங்காக்கள் மற்றும் மேம்பால அழகுபடுத்தல்",
+    "investment_crore": 109.86,
+    "jobs_created": null,
+    "beneficiaries": "Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-01",
+    "summary_en": "Inaugurated Perumbakkam park (Rs 6.94 cr), flyover beautification at Villivakkam, Padi, Vadapalani (Rs 11.50 cr), laid foundation for 13 CM Creative Studios among 26 projects (Rs 91.42 cr)"
+  },
+  {
+    "tweet_id": "1805200173876093288",
+    "category": "infrastructure",
+    "name_en": "Disaster Management Equipment Purchase",
+    "name_ta": "பேரிடர் மேலாண்மை உபகரண கொள்முதல்",
+    "investment_crore": 105.36,
+    "jobs_created": null,
+    "beneficiaries": "Disaster response teams",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-24",
+    "summary_en": "Modern equipment worth Rs 105.36 crore for disaster rescue operations"
+  },
+  {
+    "tweet_id": "1959998002346795487",
+    "category": "infrastructure",
+    "name_en": "Vidiyal Payanam Buses",
+    "name_ta": "விடியல் பயணம் பேருந்துகள்",
+    "investment_crore": 104.43,
+    "jobs_created": null,
+    "beneficiaries": "Women commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Periyar Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-25",
+    "summary_en": "Flagged off 248 new BS-VI Vidiyal Payanam buses for women's free travel scheme"
+  },
+  {
+    "tweet_id": "1905902908996202776",
+    "category": "infrastructure",
+    "name_en": "Police and Fire Station Buildings and Vehicles",
+    "name_ta": "காவல் நிலையங்கள் மற்றும் தீயணைப்பு கட்டடங்கள், வாகனங்கள்",
+    "investment_crore": 101.86,
+    "jobs_created": null,
+    "beneficiaries": "Police and Fire Department",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-29",
+    "summary_en": "CM inaugurated 96 police quarters, 2 police stations at Rs 19.8 crore; 45 fire staff quarters and 4 fire stations at Rs 21.52 crore; vehicles worth Rs 60.54 crore"
+  },
+  {
+    "tweet_id": "1943602989887062525",
+    "category": "infrastructure",
+    "name_en": "Ancient Temple Restoration",
+    "name_ta": "பழமையான திருக்கோயில் புனரமைப்பு",
+    "investment_crore": 100,
+    "jobs_created": null,
+    "beneficiaries": "Devotees and heritage preservation",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-07-11",
+    "summary_en": "Started restoration work on 63 temples that are over 1000 years old, preserving their ancient heritage"
+  },
+  {
+    "tweet_id": "1875160206092669249",
+    "category": "infrastructure",
+    "name_en": "New Ration Shops and Paddy Procurement Centers",
+    "name_ta": "புதிய நியாய விலைக் கடைகள் மற்றும் நெல் கொள்முதல் நிலையங்கள்",
+    "investment_crore": 100,
+    "jobs_created": null,
+    "beneficiaries": "Public distribution system users",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-01-03",
+    "summary_en": "TN government opened 1666 new ration shops and 230 paddy procurement centers worth Rs 100 crore in last 40 months."
+  },
+  {
+    "tweet_id": "1927309275312820350",
+    "category": "infrastructure",
+    "name_en": "Thanigachalam Nagar Storm Water Drain",
+    "name_ta": "தணிகாச்சலம் நகர் கால்வாய்",
+    "investment_crore": 91.36,
+    "jobs_created": null,
+    "beneficiaries": "Kolathur/Madhavaram residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-27",
+    "summary_en": "Opened upgraded storm water drain as open and covered channel system"
+  },
+  {
+    "tweet_id": "1820367815993446859",
+    "category": "infrastructure",
+    "name_en": "Surplus Water Canal Widening",
+    "name_ta": "உபரிநீர் கால்வாய் அகலப்படுத்தல்",
+    "investment_crore": 91.36,
+    "jobs_created": null,
+    "beneficiaries": "Residents prone to flooding",
+    "location": {
+      "district": "Chennai",
+      "city": "Thanikasalam Nagar"
+    },
+    "event_type": "other",
+    "date": "2024-08-05",
+    "summary_en": "CM reviewed Rs 91.36 crore project to widen surplus water canal in Aynavaram-Madhavaram area"
+  },
+  {
+    "tweet_id": "1828821803516731518",
+    "category": "infrastructure",
+    "name_en": "TNSTC New AC Sleeper Buses",
+    "name_ta": "TNSTC புதிய AC படுக்கை வசதி பேருந்துகள்",
+    "investment_crore": 90.52,
+    "jobs_created": null,
+    "beneficiaries": "Bus passengers",
+    "location": {
+      "district": null,
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-28",
+    "summary_en": "150 new AC sleeper buses procured for Tamil Nadu State Express Transport Corporation."
+  },
+  {
+    "tweet_id": "1993967657889182040",
+    "category": "infrastructure",
+    "name_en": "HRCE Temple Projects and College Infrastructure",
+    "name_ta": "இந்து சமய அறநிலையத் துறை கோயில் திட்டங்கள்",
+    "investment_crore": 86.71,
+    "jobs_created": null,
+    "beneficiaries": "Temple devotees",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2025-11-27",
+    "summary_en": "CM laid foundation for 24 new temple projects at Rs 79.94 crore and inaugurated 4 completed temple works at Rs 6.77 crore."
+  },
+  {
+    "tweet_id": "1842107393460863074",
+    "category": "infrastructure",
+    "name_en": "Water Resources Department Projects",
+    "name_ta": "நீர்வளத்துறை திட்டங்கள்",
+    "investment_crore": 83.19,
+    "jobs_created": null,
+    "beneficiaries": "Farmers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-04",
+    "summary_en": "19 completed water projects including check dams, canals, dam reconstruction across 8 districts inaugurated."
+  },
+  {
+    "tweet_id": "1843189041627607116",
+    "category": "infrastructure",
+    "name_en": "Police and Fire Service Buildings",
+    "name_ta": "காவல் மற்றும் தீயணைப்பு துறை கட்டடங்கள்",
+    "investment_crore": 78.79,
+    "jobs_created": null,
+    "beneficiaries": "Police and fire service personnel",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-07",
+    "summary_en": "169 police quarters, 2 police stations (Rs.56.26 cr), 10 fire service quarters, 7 fire stations (Rs.18.78 cr), forensic DNA lab (Rs.3.75 cr) inaugurated.",
+    "related_tweet_ids": [
+      "2003022844067008942",
+      "1843189041627607116"
+    ]
+  },
+  {
+    "tweet_id": "1855535990527664232",
+    "category": "infrastructure",
+    "name_en": "Virudhunagar District Collector Office Building",
+    "name_ta": "விருதுநகர் மாவட்ட ஆட்சியர் அலுவலகக் கட்டடம்",
+    "investment_crore": 77.12,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Virudhunagar",
+      "city": "Kooraikkundu"
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-10",
+    "summary_en": "New 6-floor District Collector office on 7.67 acres at Rs 77.12 crore."
+  },
+  {
+    "tweet_id": "2003507101780647985",
+    "category": "infrastructure",
+    "name_en": "GCC New Council Hall",
+    "name_ta": "சென்னை மாநகராட்சி புதிய மன்றக்கூடம்",
+    "investment_crore": 74.7,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-12-23",
+    "summary_en": "CM laid foundation stone for new Chennai Corporation Council Hall at Rs 74.70 crore in Ripon Building complex."
+  },
+  {
+    "tweet_id": "1817820531368079653",
+    "category": "infrastructure",
+    "name_en": "Panchayat Union Office Buildings",
+    "name_ta": "ஊராட்சி ஒன்றிய அலுவலக கட்டடங்கள்",
+    "investment_crore": 71.94,
+    "jobs_created": null,
+    "beneficiaries": "Rural administration",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-29",
+    "summary_en": "CM inaugurated 19 panchayat union office buildings worth Rs 71.94 crore across 10 districts"
+  },
+  {
+    "tweet_id": "1897936057897042308",
+    "category": "infrastructure",
+    "name_en": "Thiruthuraipoondi Bypass Road",
+    "name_ta": "திருத்துறைப்பூண்டி புறவழிச் சாலை",
+    "investment_crore": 70,
+    "jobs_created": null,
+    "beneficiaries": "Thiruvarur District Residents",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Thiruthuraipoondi"
+    },
+    "event_type": "other",
+    "date": "2025-03-07",
+    "summary_en": "Deputy CM inspected Rs 70 crore bypass road construction work at Thiruthuraipoondi"
+  },
+  {
+    "tweet_id": "1969331771390271647",
+    "category": "infrastructure",
+    "name_en": "Chembarambakkam Water Supply Enhancement",
+    "name_ta": "செம்பரம்பாக்கம் குடிநீர் திட்ட விரிவாக்கம்",
+    "investment_crore": 66.78,
+    "jobs_created": null,
+    "beneficiaries": 2000000,
+    "location": {
+      "district": "Tiruvallur",
+      "city": "Chembarambakkam"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-09-20",
+    "summary_en": "Rs 66.78 crore project to supply additional 265 MLD water from Chembarambakkam to Chennai, benefiting 20 lakh people"
+  },
+  {
+    "tweet_id": "1887535224382165311",
+    "category": "infrastructure",
+    "name_en": "Palayamkottai Commercial Complex and Park",
+    "name_ta": "பாளையங்கோட்டை வணிக வளாகம் மற்றும் பூங்கா",
+    "investment_crore": 66.04,
+    "jobs_created": null,
+    "beneficiaries": "Traders and public",
+    "location": {
+      "district": "Tirunelveli",
+      "city": "Palayamkottai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-06",
+    "summary_en": "CM inaugurated Rs 40.04 crore commercial complex and vegetable market, and Rs 26 crore renovated children's park at Nayinar Tank."
+  },
+  {
+    "tweet_id": "1816026260868587956",
+    "category": "infrastructure",
+    "name_en": "Hindu Temple Projects",
+    "name_ta": "இந்து கோயில் திட்டங்கள்",
+    "investment_crore": 65.2,
+    "jobs_created": null,
+    "beneficiaries": "Temple devotees",
+    "location": {
+      "district": "Karur",
+      "city": "Ayyarmalai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-24",
+    "summary_en": "CM inaugurated Rs 20.53cr completed works, laid foundation for Rs 35.57cr new projects, and opened Rs 9.10cr ropeway at temples"
+  },
+  {
+    "tweet_id": "1961867986069065837",
+    "category": "infrastructure",
+    "name_en": "Otteri Nalla Canal Restoration",
+    "name_ta": "ஓட்டேரி நல்லா கால்வாய் புனரமைப்பு",
+    "investment_crore": 65,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Thiru Vi Ka Nagar"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-08-30",
+    "summary_en": "Rs 65 crore project for dredging, wall elevation and chain fencing at Otteri Nalla Canal"
+  },
+  {
+    "tweet_id": "1856252693658120506",
+    "category": "infrastructure",
+    "name_en": "Panchayat Union Office Buildings - 12 Districts",
+    "name_ta": "ஊராட்சி ஒன்றிய அலுவலகக் கட்டடங்கள்",
+    "investment_crore": 64.53,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "12 districts",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-12",
+    "summary_en": "17 Panchayat Union office buildings across 12 districts at Rs 64.53 crore."
+  },
+  {
+    "tweet_id": "1988169889258131653",
+    "category": "infrastructure",
+    "name_en": "Satchiyapuram Road Overbridge",
+    "name_ta": "சாட்சியாபுரம் சாலை மேம்பாலம்",
+    "investment_crore": 61.74,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Virudhunagar",
+      "city": "Satchiyapuram"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-11",
+    "summary_en": "CM inaugurated Rs 61.74 crore road overbridge named after freedom fighter Sankaralingam between Sivakasi and Srivilliputhur."
+  },
+  {
+    "tweet_id": "1958803339023720554",
+    "category": "infrastructure",
+    "name_en": "TNCSC Storage Facilities",
+    "name_ta": "தமிழ்நாடு நுகர்பொருள் சேமிப்பு வசதிகள்",
+    "investment_crore": 60.85,
+    "jobs_created": null,
+    "beneficiaries": "Food storage and distribution",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-22",
+    "summary_en": "Inaugurated 5 circle processing godowns (Rs 23.27 cr), 3 modern paddy storage complexes (Rs 30.38 cr), 2 modern warehouses (Rs 7.20 cr)"
+  },
+  {
+    "tweet_id": "1885230409979658380",
+    "category": "infrastructure",
+    "name_en": "North Chennai Water Supply Project",
+    "name_ta": "வடசென்னை குடிநீர் திட்டம்",
+    "investment_crore": 59.15,
+    "jobs_created": null,
+    "beneficiaries": "Kannigapuram residents and TNUHDB housing residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kannigapuram"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-01-31",
+    "summary_en": "CM laid foundation for Rs 59.15 crore water supply project for individual buildings and TNUHDB housing in Thiruvallikeni constituency."
+  },
+  {
+    "tweet_id": "1838132265462939772",
+    "category": "infrastructure",
+    "name_en": "TNCSC Storage and Procurement Infrastructure",
+    "name_ta": "TNCSC சேமிப்பு மற்றும் கொள்முதல் கட்டமைப்பு",
+    "investment_crore": 57.95,
+    "jobs_created": null,
+    "beneficiaries": "Farmers and consumers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-09-23",
+    "summary_en": "Kalaignar Centenary Food Testing Lab (Rs.4.66 cr), 4 storage complexes (Rs.17.04 cr), 58 paddy procurement centers (Rs.36.25 cr) inaugurated."
+  },
+  {
+    "tweet_id": "1942142300592742443",
+    "category": "infrastructure",
+    "name_en": "Dharmapuri District Collector Office Complex",
+    "name_ta": "தருமபுரி மாவட்ட ஆட்சியர் அலுவலகக் கட்டடம்",
+    "investment_crore": 54.8,
+    "jobs_created": null,
+    "beneficiaries": "Government officials and public",
+    "location": {
+      "district": "Dharmapuri",
+      "city": "Dharmapuri"
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-07",
+    "summary_en": "Inaugurated District Collector additional building (Rs 36.62 cr), 4 Taluk office buildings (Rs 17.52 cr), and 2 Revenue Inspector offices with residences (Rs 65.76 lakh)"
+  },
+  {
+    "tweet_id": "1885231500519760081",
+    "category": "infrastructure",
+    "name_en": "Kolathur Ornamental Fish Trading Center",
+    "name_ta": "கொளத்தூர் வண்ண மீன்கள் வர்த்தக மையம்",
+    "investment_crore": 53.5,
+    "jobs_created": null,
+    "beneficiaries": "Fish traders",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "other",
+    "date": "2025-01-31",
+    "summary_en": "CM inspected international standard ornamental fish trading center being built at Rs 53.50 crore in 3.93 acres at Villivakkam."
+  },
+  {
+    "tweet_id": "1977444180856283300",
+    "category": "infrastructure",
+    "name_en": "Perundalaivar Kamarajar Bus Terminal Mannargudi",
+    "name_ta": "பெருந்தலைவர் காமராஜர் பேருந்து நிலையம் மன்னார்குடி",
+    "investment_crore": 46.46,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-12",
+    "summary_en": "Perundalaivar Kamarajar integrated bus terminal with modern facilities and commercial complex at Rs 46.46 crore inaugurated"
+  },
+  {
+    "tweet_id": "1873729962248978569",
+    "category": "infrastructure",
+    "name_en": "Thiruvalluvar Statue Glass Bridge",
+    "name_ta": "திருவள்ளுவர் சிலை கண்ணாடிப் பாலம்",
+    "investment_crore": 37,
+    "jobs_created": null,
+    "beneficiaries": "Tourists and pilgrims",
+    "location": {
+      "district": "Kanyakumari",
+      "city": "Kanyakumari"
+    },
+    "event_type": "inauguration",
+    "date": "2024-12-30",
+    "summary_en": "CM inaugurated the first glass bridge in India built over sea, connecting Thiruvalluvar statue with Vivekananda Rock, built at Rs 37 crore."
+  },
+  {
+    "tweet_id": "1873357892608299123",
+    "category": "infrastructure",
+    "name_en": "Mini TIDEL Park Thoothukudi",
+    "name_ta": "மினி டைடல் பூங்கா தூத்துக்குடி",
+    "investment_crore": 32.5,
+    "jobs_created": 600,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Meelavittan"
+    },
+    "event_type": "inauguration",
+    "date": "2024-12-29",
+    "summary_en": "Mini TIDEL Park with 63,000 sq ft at Rs 32.50 crore for 600 IT professionals."
+  },
+  {
+    "tweet_id": "1873364545550365085",
+    "category": "infrastructure",
+    "name_en": "TIDEL Neo Park Thoothukudi",
+    "name_ta": "டைடல் நியோ பார்க் தூத்துக்குடி",
+    "investment_crore": 32.5,
+    "jobs_created": null,
+    "beneficiaries": "IT/ITeS companies and startups",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "inauguration",
+    "date": "2024-12-29",
+    "summary_en": "CM inaugurated TIDEL Neo Park in Thoothukudi with Rs 32.5 crore investment, 100% space already leased, fourth TIDEL Neo Park in the state.",
+    "related_tweet_ids": [
+      "1873364545550365085",
+      "1847654851070636169"
+    ]
+  },
+  {
+    "tweet_id": "1822921515672957239",
+    "category": "infrastructure",
+    "name_en": "Metro Water Vehicles and TWAD Vehicles",
+    "name_ta": "மெட்ரோ நீர் வாகனங்கள் மற்றும் TWAD வாகனங்கள்",
+    "investment_crore": 29.6,
+    "jobs_created": null,
+    "beneficiaries": "Water supply infrastructure",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-12",
+    "summary_en": "CM flagged off 58 sewerage vehicles worth Rs 28.55cr and 10 TWAD vehicles worth Rs 1.05cr"
+  },
+  {
+    "tweet_id": "1970773270703022575",
+    "category": "infrastructure",
+    "name_en": "Murasoli Maran Park Renovation and Infrastructure",
+    "name_ta": "முரசொலி மாறன் பூங்கா புனரமைப்பு",
+    "investment_crore": 22.15,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Perambur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-09-24",
+    "summary_en": "Rs 8.20 crore Murasoli Maran Park renovation, Rs 13.95 crore ICDS buildings, LED lights and other infrastructure"
+  },
+  {
+    "tweet_id": "1885243513555619951",
+    "category": "infrastructure",
+    "name_en": "Thandayarpet Bus Terminal",
+    "name_ta": "தண்டையார்பேட்டை பேருந்து நிலையம்",
+    "investment_crore": 21.95,
+    "jobs_created": null,
+    "beneficiaries": "Commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Thandayarpet"
+    },
+    "event_type": "other",
+    "date": "2025-01-31",
+    "summary_en": "CM inspected bus terminal under construction at Rs 21.95 crore in RK Nagar constituency."
+  },
+  {
+    "tweet_id": "1947660096768815277",
+    "category": "infrastructure",
+    "name_en": "Cholagangam Lake Development",
+    "name_ta": "சோழகங்கம் ஏரி மேம்பாடு",
+    "investment_crore": 19.25,
+    "jobs_created": null,
+    "beneficiaries": "Ariyalur district residents and tourists",
+    "location": {
+      "district": "Ariyalur",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-07-22",
+    "summary_en": "Announced Rs 12 cr water resource development and Rs 7.25 cr tourism development for Cholagangam Lake on Rajendra Chola birthday"
+  },
+  {
+    "tweet_id": "1973453990970138723",
+    "category": "infrastructure",
+    "name_en": "Kamarajar Integrated Bus Terminal Thiruvarur",
+    "name_ta": "பெருந்தலைவர் காமராஜர் ஒருங்கிணைந்த பேருந்து நிலையம்",
+    "investment_crore": 16.3,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Thiruvarur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-01",
+    "summary_en": "New Kamarajar bus terminal with commercial complex and modern facilities constructed at Rs 16.30 crore"
+  },
+  {
+    "tweet_id": "1819386609948938324",
+    "category": "infrastructure",
+    "name_en": "Anna Flyover Golden Jubilee Renovation",
+    "name_ta": "அண்ணா மேம்பாலம் பொன்விழா புனரமைப்பு",
+    "investment_crore": 10.85,
+    "jobs_created": null,
+    "beneficiaries": "Chennai commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-02",
+    "summary_en": "CM reopened Anna Flyover after Rs 10.85 crore renovation with LED lights on its golden jubilee"
+  },
+  {
+    "tweet_id": "1920376002871435686",
+    "category": "infrastructure",
+    "name_en": "Serankulam Bridge Construction",
+    "name_ta": "சேரன்குளம் பாலம் கட்டுமானம்",
+    "investment_crore": 6.06,
+    "jobs_created": null,
+    "beneficiaries": "Mannargudi Area Villages",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "other",
+    "date": "2025-05-08",
+    "summary_en": "Industries Minister inspected Rs 6.06 crore new bridge construction over Pamani river benefiting multiple villages"
+  },
+  {
+    "tweet_id": "1824404303336853918",
+    "category": "infrastructure",
+    "name_en": "Pamani River Bridge Construction",
+    "name_ta": "பாமணி ஆற்றுப் பாலம்",
+    "investment_crore": 6.06,
+    "jobs_created": null,
+    "beneficiaries": "Residents of Mannargudi and Serangulam",
+    "location": {
+      "district": "Tiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "other",
+    "date": "2024-08-16",
+    "summary_en": "Bridge construction connecting Mannargudi town and Serangulam panchayat across Pamani river under progress."
+  },
+  {
+    "tweet_id": "2018606436562227347",
+    "category": "infrastructure",
+    "name_en": "Kolathur Lake Park",
+    "name_ta": "கொளத்தூர் ஏரிக்கரை பூங்கா",
+    "investment_crore": 4.98,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-03",
+    "summary_en": "CM inaugurated upgraded Kolathur Lake Park built at Rs 4.98 crore under North Chennai Development Scheme."
+  },
+  {
+    "tweet_id": "2012466510737154453",
+    "category": "infrastructure",
+    "name_en": "Immanuel Sekaran Memorial",
+    "name_ta": "இமானுவேல் சேகரனார் மணிமண்டபம்",
+    "investment_crore": 3,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Ramanathapuram",
+      "city": "Paramakudi"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-17",
+    "summary_en": "CM inaugurated Rs 3 crore memorial with statue for freedom fighter Immanuel Sekaran in Paramakudi."
+  },
+  {
+    "tweet_id": "1954841309921112568",
+    "category": "infrastructure",
+    "name_en": "PAP Accident Memorial",
+    "name_ta": "பரம்பிக்குளம் ஆழியாறு நினைவு மண்டபம்",
+    "investment_crore": 2.83,
+    "jobs_created": null,
+    "beneficiaries": "Public remembrance",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Pollachi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-11",
+    "summary_en": "Inaugurated memorial for workers who lost lives during Parambikulam Aliyar irrigation project construction"
+  },
+  {
+    "tweet_id": "1927307932095418628",
+    "category": "infrastructure",
+    "name_en": "Kumaramangalam Lake and Park Renovation",
+    "name_ta": "ஜெனரல் குமாரமங்கலம் குளம் மற்றும் பூங்கா",
+    "investment_crore": 1.47,
+    "jobs_created": null,
+    "beneficiaries": "Kolathur residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-27",
+    "summary_en": "Opened renovated Kumaramangalam lake and park"
+  },
+  {
+    "tweet_id": "1853363630823137655",
+    "category": "infrastructure",
+    "name_en": "GKM Colony Lake Improvement",
+    "name_ta": "ஜி.கே.எம். காலனி குளம் மேம்பாடு",
+    "investment_crore": 1.47,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "other",
+    "date": "2024-11-04",
+    "summary_en": "Lake improvement works in GKM Colony at Rs 1.47 crore."
+  },
+  {
+    "tweet_id": "1874019735417074001",
+    "category": "infrastructure",
+    "name_en": "Thiruvalluvar Traffic Island Park",
+    "name_ta": "திருவள்ளுவர் போக்குவரத்து தீவுப் பூங்கா",
+    "investment_crore": 0.44,
+    "jobs_created": null,
+    "beneficiaries": "Kanyakumari residents",
+    "location": {
+      "district": "Kanyakumari",
+      "city": "Kanyakumari"
+    },
+    "event_type": "inauguration",
+    "date": "2024-12-31",
+    "summary_en": "CM inaugurated renovated Thiruvalluvar Traffic Island Park at Rs 44 lakh and laid foundation for Silver Jubilee Arch at Rs 1.45 crore."
+  },
+  {
+    "tweet_id": "2002059164093501597",
+    "category": "infrastructure",
+    "name_en": "Kalaignar Park Thiruvarur",
+    "name_ta": "கலைஞர் பூங்கா திருவாரூர்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Thiruvarur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-19",
+    "summary_en": "Deputy CM inaugurated Kalaignar Park near Kalaignar Kottam in Thiruvarur."
+  },
+  {
+    "tweet_id": "1997217565450305999",
+    "category": "infrastructure",
+    "name_en": "Veeramangai Velunachiyar Flyover Madurai",
+    "name_ta": "வீரமங்கை வேலுநாச்சியார் மேம்பாலம் மதுரை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Madurai",
+      "city": "Melamatai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-06",
+    "summary_en": "CM to inaugurate flyover connecting Madurai-Sivagangai named after freedom fighter Veeramangai Velunachiyar."
+  },
+  {
+    "tweet_id": "1949388319277850914",
+    "category": "infrastructure",
+    "name_en": "Thoothukudi Airport New Terminal",
+    "name_ta": "தூத்துக்குடி விமான நிலையம் புதிய முனையம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Air passengers in southern districts",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-27",
+    "summary_en": "New Thoothukudi Airport terminal opened with 712.72 acres land acquired by TN govt to support growing investments in southern TN"
+  },
+  {
+    "tweet_id": "1922511878283997204",
+    "category": "infrastructure",
+    "name_en": "Perur Desalination Plant Intake Pipeline",
+    "name_ta": "பெரூர் கடல்நீர் சுத்திகரிப்பு நிலையம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Perur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-05-14",
+    "summary_en": "India's largest and longest desalination intake pipeline for South East Asia's largest 400 MLD desalination plant"
+  },
+  {
+    "tweet_id": "1865311357413036340",
+    "category": "infrastructure",
+    "name_en": "Mudichur Omni Bus Terminus and Kalaignar Centenary Climate Park",
+    "name_ta": "முடிச்சூர் ஆம்னி பேருந்து முனையம் மற்றும் கலைஞர் நூற்றாண்டு காலநிலைப் பூங்கா",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Mudichur, Kilambakkam"
+    },
+    "event_type": "inauguration",
+    "date": "2024-12-07",
+    "summary_en": "150-bus capacity Omni bus terminus and Kalaignar Centenary Climate Park inaugurated."
+  },
+  {
+    "tweet_id": "1846844032283992268",
+    "category": "infrastructure",
+    "name_en": "Neo TIDEL Park Thanjavur - Hamly Business Solutions",
+    "name_ta": "நியோ டைடல் பூங்கா தஞ்சாவூர்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thanjavur",
+      "city": "Thanjavur"
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-17",
+    "summary_en": "Thanjavur Neo TIDEL Park reaches 100% occupancy. Plans for Phase 2 expansion underway."
+  },
+  {
+    "tweet_id": "1802746071233315310",
+    "category": "infrastructure",
+    "name_en": "Mannargudi Ring Road Project",
+    "name_ta": "மன்னார்குடி நகர புறவழிச்சாலை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-06-17",
+    "summary_en": "Land acquisition complete for Mannargudi ring road, construction starting"
+  },
+  {
+    "tweet_id": "1799476004815335865",
+    "category": "infrastructure",
+    "name_en": "Thoothukudi Seawater Desalination Plant",
+    "name_ta": "தூத்துக்குடியில் கடல்நீரை குடிநீராக்கும் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "announcement",
+    "date": "2024-06-08",
+    "summary_en": "SIPCOT invited tenders for seawater desalination plant in Thoothukudi"
+  }
+]

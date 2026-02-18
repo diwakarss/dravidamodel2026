@@ -1,0 +1,246 @@
+[
+  {
+    "tweet_id": "1927309275312820350",
+    "category": "infrastructure",
+    "name_en": "Thanigachalam Nagar Storm Water Drain",
+    "name_ta": "தணிகாச்சலம் நகர் கால்வாய்",
+    "investment_crore": 91.36,
+    "jobs_created": null,
+    "beneficiaries": "Kolathur/Madhavaram residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-27",
+    "summary_en": "Opened upgraded storm water drain as open and covered channel system"
+  },
+  {
+    "tweet_id": "1820367815993446859",
+    "category": "infrastructure",
+    "name_en": "Surplus Water Canal Widening",
+    "name_ta": "உபரிநீர் கால்வாய் அகலப்படுத்தல்",
+    "investment_crore": 91.36,
+    "jobs_created": null,
+    "beneficiaries": "Residents prone to flooding",
+    "location": {
+      "district": "Chennai",
+      "city": "Thanikasalam Nagar"
+    },
+    "event_type": "other",
+    "date": "2024-08-05",
+    "summary_en": "CM reviewed Rs 91.36 crore project to widen surplus water canal in Aynavaram-Madhavaram area"
+  },
+  {
+    "tweet_id": "1828821803516731518",
+    "category": "infrastructure",
+    "name_en": "TNSTC New AC Sleeper Buses",
+    "name_ta": "TNSTC புதிய AC படுக்கை வசதி பேருந்துகள்",
+    "investment_crore": 90.52,
+    "jobs_created": null,
+    "beneficiaries": "Bus passengers",
+    "location": {
+      "district": null,
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-28",
+    "summary_en": "150 new AC sleeper buses procured for Tamil Nadu State Express Transport Corporation."
+  },
+  {
+    "tweet_id": "1993967657889182040",
+    "category": "infrastructure",
+    "name_en": "HRCE Temple Projects and College Infrastructure",
+    "name_ta": "இந்து சமய அறநிலையத் துறை கோயில் திட்டங்கள்",
+    "investment_crore": 86.71,
+    "jobs_created": null,
+    "beneficiaries": "Temple devotees",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2025-11-27",
+    "summary_en": "CM laid foundation for 24 new temple projects at Rs 79.94 crore and inaugurated 4 completed temple works at Rs 6.77 crore."
+  },
+  {
+    "tweet_id": "1842107393460863074",
+    "category": "infrastructure",
+    "name_en": "Water Resources Department Projects",
+    "name_ta": "நீர்வளத்துறை திட்டங்கள்",
+    "investment_crore": 83.19,
+    "jobs_created": null,
+    "beneficiaries": "Farmers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-04",
+    "summary_en": "19 completed water projects including check dams, canals, dam reconstruction across 8 districts inaugurated."
+  },
+  {
+    "tweet_id": "1843189041627607116",
+    "category": "infrastructure",
+    "name_en": "Police and Fire Service Buildings",
+    "name_ta": "காவல் மற்றும் தீயணைப்பு துறை கட்டடங்கள்",
+    "investment_crore": 78.79,
+    "jobs_created": null,
+    "beneficiaries": "Police and fire service personnel",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-07",
+    "summary_en": "169 police quarters, 2 police stations (Rs.56.26 cr), 10 fire service quarters, 7 fire stations (Rs.18.78 cr), forensic DNA lab (Rs.3.75 cr) inaugurated.",
+    "related_tweet_ids": [
+      "2003022844067008942",
+      "1843189041627607116"
+    ]
+  },
+  {
+    "tweet_id": "1855535990527664232",
+    "category": "infrastructure",
+    "name_en": "Virudhunagar District Collector Office Building",
+    "name_ta": "விருதுநகர் மாவட்ட ஆட்சியர் அலுவலகக் கட்டடம்",
+    "investment_crore": 77.12,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Virudhunagar",
+      "city": "Kooraikkundu"
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-10",
+    "summary_en": "New 6-floor District Collector office on 7.67 acres at Rs 77.12 crore."
+  },
+  {
+    "tweet_id": "2003507101780647985",
+    "category": "infrastructure",
+    "name_en": "GCC New Council Hall",
+    "name_ta": "சென்னை மாநகராட்சி புதிய மன்றக்கூடம்",
+    "investment_crore": 74.7,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-12-23",
+    "summary_en": "CM laid foundation stone for new Chennai Corporation Council Hall at Rs 74.70 crore in Ripon Building complex."
+  },
+  {
+    "tweet_id": "1817820531368079653",
+    "category": "infrastructure",
+    "name_en": "Panchayat Union Office Buildings",
+    "name_ta": "ஊராட்சி ஒன்றிய அலுவலக கட்டடங்கள்",
+    "investment_crore": 71.94,
+    "jobs_created": null,
+    "beneficiaries": "Rural administration",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-29",
+    "summary_en": "CM inaugurated 19 panchayat union office buildings worth Rs 71.94 crore across 10 districts"
+  },
+  {
+    "tweet_id": "1897936057897042308",
+    "category": "infrastructure",
+    "name_en": "Thiruthuraipoondi Bypass Road",
+    "name_ta": "திருத்துறைப்பூண்டி புறவழிச் சாலை",
+    "investment_crore": 70,
+    "jobs_created": null,
+    "beneficiaries": "Thiruvarur District Residents",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Thiruthuraipoondi"
+    },
+    "event_type": "other",
+    "date": "2025-03-07",
+    "summary_en": "Deputy CM inspected Rs 70 crore bypass road construction work at Thiruthuraipoondi"
+  },
+  {
+    "tweet_id": "1969331771390271647",
+    "category": "infrastructure",
+    "name_en": "Chembarambakkam Water Supply Enhancement",
+    "name_ta": "செம்பரம்பாக்கம் குடிநீர் திட்ட விரிவாக்கம்",
+    "investment_crore": 66.78,
+    "jobs_created": null,
+    "beneficiaries": 2000000,
+    "location": {
+      "district": "Tiruvallur",
+      "city": "Chembarambakkam"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-09-20",
+    "summary_en": "Rs 66.78 crore project to supply additional 265 MLD water from Chembarambakkam to Chennai, benefiting 20 lakh people"
+  },
+  {
+    "tweet_id": "1887535224382165311",
+    "category": "infrastructure",
+    "name_en": "Palayamkottai Commercial Complex and Park",
+    "name_ta": "பாளையங்கோட்டை வணிக வளாகம் மற்றும் பூங்கா",
+    "investment_crore": 66.04,
+    "jobs_created": null,
+    "beneficiaries": "Traders and public",
+    "location": {
+      "district": "Tirunelveli",
+      "city": "Palayamkottai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-06",
+    "summary_en": "CM inaugurated Rs 40.04 crore commercial complex and vegetable market, and Rs 26 crore renovated children's park at Nayinar Tank."
+  },
+  {
+    "tweet_id": "1816026260868587956",
+    "category": "infrastructure",
+    "name_en": "Hindu Temple Projects",
+    "name_ta": "இந்து கோயில் திட்டங்கள்",
+    "investment_crore": 65.2,
+    "jobs_created": null,
+    "beneficiaries": "Temple devotees",
+    "location": {
+      "district": "Karur",
+      "city": "Ayyarmalai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-24",
+    "summary_en": "CM inaugurated Rs 20.53cr completed works, laid foundation for Rs 35.57cr new projects, and opened Rs 9.10cr ropeway at temples"
+  },
+  {
+    "tweet_id": "1961867986069065837",
+    "category": "infrastructure",
+    "name_en": "Otteri Nalla Canal Restoration",
+    "name_ta": "ஓட்டேரி நல்லா கால்வாய் புனரமைப்பு",
+    "investment_crore": 65,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Thiru Vi Ka Nagar"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-08-30",
+    "summary_en": "Rs 65 crore project for dredging, wall elevation and chain fencing at Otteri Nalla Canal"
+  },
+  {
+    "tweet_id": "1856252693658120506",
+    "category": "infrastructure",
+    "name_en": "Panchayat Union Office Buildings - 12 Districts",
+    "name_ta": "ஊராட்சி ஒன்றிய அலுவலகக் கட்டடங்கள்",
+    "investment_crore": 64.53,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "12 districts",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-12",
+    "summary_en": "17 Panchayat Union office buildings across 12 districts at Rs 64.53 crore."
+  }
+]

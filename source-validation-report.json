@@ -1,0 +1,2759 @@
+{
+  "timestamp": "2026-02-18T13:47:13.818Z",
+  "summary": {
+    "total": 789,
+    "valid": 511,
+    "broken": 62,
+    "homepage": 140,
+    "noMatch": 21,
+    "errors": 55
+  },
+  "flagged": [
+    {
+      "file": "healthcare.json",
+      "entryId": "periyar-hospital-kolathur",
+      "entryName": "Periyar Government Hospital, Kolathur",
+      "sourceUrl": "https://www-thehindu-com.translate.goog/news/cities/chennai/cm-stalin-to-inaugurate-new-building-of-periyar-nagar-government-hospital-on-february-28/article69192736.ece",
+      "sourceTitle": "The Hindu (Tamil)",
+      "status": "broken",
+      "reason": "HTTP 400",
+      "httpStatus": 400
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "oottachchatthai-uruthi-sey",
+      "entryName": "Oottachchatthai Uruthi Sey (Nutrition Security Scheme)",
+      "sourceUrl": "https://www-thehindu-com.translate.goog/news/national/tamil-nadu/stalin-to-launch-phase-ii-of-nutritional-intervention-programme-for-malnourished-children-mothers/article68863115.ece",
+      "sourceTitle": "The Hindu (Tamil)",
+      "status": "broken",
+      "reason": "HTTP 400",
+      "httpStatus": 400
+    },
+    {
+      "file": "education.json",
+      "entryId": "illam-thedi-kalvi",
+      "entryName": "Illam Thedi Kalvi",
+      "sourceUrl": "https://www.tn.gov.in/go_view/dept/28",
+      "sourceTitle": "School Education Dept GOs",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "education.json",
+      "entryId": "laptop-scheme",
+      "entryName": "Ulagam Ungal Kaiyil (Free Laptops)",
+      "sourceUrl": "https://elcot.tn.gov.in/student-free-laptop",
+      "sourceTitle": "ELCOT Student Info",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "education.json",
+      "entryId": "free-bicycle",
+      "entryName": "Free Bicycle Scheme",
+      "sourceUrl": "https://www.tn.gov.in/scheme/data_view/26799",
+      "sourceTitle": "School Education Dept",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "education.json",
+      "entryId": "free-bus-pass",
+      "entryName": "Free Bus Pass for Students",
+      "sourceUrl": "https://www.tn.gov.in/scheme",
+      "sourceTitle": "TN Government Schemes",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "education.json",
+      "entryId": "free-textbooks-uniforms",
+      "entryName": "Free Textbooks, Uniforms, Shoes",
+      "sourceUrl": "https://www.tn.gov.in/scheme",
+      "sourceTitle": "School Education Dept",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "BESS-500MW",
+      "entryName": "Battery Energy Storage System - 500 MW/1000 MWh",
+      "sourceUrl": "https://solarquarter.com/2026/01/05/nlc-india-issues-global-tender-for-250-mw-500-mwh-battery-energy-storage-system-in-tamil-nadu/",
+      "sourceTitle": "SolarQuarter - NLC India BESS Tender",
+      "status": "broken",
+      "reason": "HTTP 429",
+      "httpStatus": 429
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "JALLIKATTU-STADIUM",
+      "entryName": "Kalaignar Centenary Jallikattu Stadium (Eru Thazhuvuthal Arangam)",
+      "sourceUrl": "https://theprint.in/india/dmk-marks-kalaignars-centenary-celebrations-with-opening-of-tamil-nadus-1st-jallikattu-stadium/1937647/",
+      "sourceTitle": "The Print - Jallikattu Stadium",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "KCSSH-HOSPITAL",
+      "entryName": "Kalaignar Centenary Super Specialty Hospital",
+      "sourceUrl": "https://www.oneindia.com/chennai/cm-stalin-inaugurated-kalaignar-centenary-super-speciality-hospital-chennai-3573076.html",
+      "sourceTitle": "Oneindia - KCSSH Details",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "NEMMELI-DESAL-P2",
+      "entryName": "Nemmeli Desalination Plant Phase 2 (150 MLD)",
+      "sourceUrl": "https://economynext.com/tamil-nadu-cm-stalin-inaugurates-nemmeli-desalination-plant-phase-2-150409.html",
+      "sourceTitle": "EconomyNext - Nemmeli Phase 2 Inauguration",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "NEMMELI-DESAL-P2",
+      "entryName": "Nemmeli Desalination Plant Phase 2 (150 MLD)",
+      "sourceUrl": "https://www.water-technology.net/projects/nemmeli-desalination-plant/",
+      "sourceTitle": "Water Technology - Nemmeli Plant",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "SAFEXPRESS-LOGISTICS-PARK",
+      "entryName": "Safexpress Logistics Park - Chennai",
+      "sourceUrl": "https://cargoinsights.co/safexpress-unveils-tamil-nadus-largest-logistics-park-in-chennai/",
+      "sourceTitle": "Cargo Insights - Safexpress Park",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "ancient-temple-restoration-programme",
+      "entryName": "Ancient Temple Restoration Programme",
+      "sourceUrl": "https://hindi.theprint.in/india/stalin-launches-restoration-work-of-63-ancient-temples-in-tamil-nadu-at-a-cost-of-rs-100-crore/841342/",
+      "sourceTitle": "The Print Hindi - Stalin launches 63 temple restoration",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "mamallan-reservoir",
+      "entryName": "Mamallan Reservoir",
+      "sourceUrl": "https://theprint.in/india/tn-cm-lays-foundation-stone-for-rs-342-60-cr-drinking-water-reservoir-for-chennai/2830693/",
+      "sourceTitle": "The Print - TN CM lays foundation stone",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "cholagangam-lake-development",
+      "entryName": "Cholagangam Lake Development Project",
+      "sourceUrl": "https://organiser.org/2025/07/26/304625/bharat/tamil-nadu-ahead-of-pm-modis-gangaikonda-cholapuram-visit-dmk-sanctions-rs-19-crore-to-restore-chola-era-lake/",
+      "sourceTitle": "Organiser - DMK sanctions Rs 19 crore to restore Chola era lake",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "cholagangam-lake-development",
+      "entryName": "Cholagangam Lake Development Project",
+      "sourceUrl": "https://theprint.in/india/tn-cm-extols-greatness-of-king-rajendra-chola-ahead-of-pms-visit/2700123/",
+      "sourceTitle": "The Print - TN CM extols greatness of King Rajendra Chola",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "ayyarmalai-temple-ropeway",
+      "entryName": "Ayyarmalai Rathnagiriswarar Temple Ropeway",
+      "sourceUrl": "https://theprint.in/india/tn-cm-inaugurates-ropeway-access-to-rathnagiriswarar-hill-temple/2189469/",
+      "sourceTitle": "The Print - TN CM inaugurates ropeway access to Rathnagiriswarar hill temple",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "old-age-pension",
+      "entryName": "Old Age Pension",
+      "sourceUrl": "https://www.cra.tn.gov.in/about_schemes.php",
+      "sourceTitle": "CRA Schemes",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "widow-pension",
+      "entryName": "Widow Pension",
+      "sourceUrl": "https://cra.tn.gov.in/eleg_schemes.php",
+      "sourceTitle": "CRA Schemes",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "disabled-pension",
+      "entryName": "Differently Abled Pension",
+      "sourceUrl": "https://www.cra.tn.gov.in/about_schemes.php",
+      "sourceTitle": "CRA Schemes",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "fishermen-welfare",
+      "entryName": "Fishermen Welfare Schemes",
+      "sourceUrl": "https://www.fisheries.tn.gov.in/WelfareBoard",
+      "sourceTitle": "TN Fisheries Welfare Schemes",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "anbu-solai",
+      "entryName": "Anbu Solai (Grove of Love) Day Care Centers",
+      "sourceUrl": "https://www.thestatesman.com/india/cm-stalin-inaugurates-anbucholai-day-care-centres-for-elderly-plays-carrom-with-senior-citizens-1503509972.html",
+      "sourceTitle": "The Statesman",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "pink-patrol",
+      "entryName": "Pink Patrol Vehicles for Women Safety",
+      "sourceUrl": "https://www.cartoq.com/car-life/hyundai-creta-tamil-nadu-pink-patrol-enforcement/",
+      "sourceTitle": "CarToq",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "aran-illam",
+      "entryName": "Aran Illam (Shelter Homes for Transgender Persons)",
+      "sourceUrl": "https://yourstory.com/socialstory/2025/10/tamil-nadu-launches-homes-to-support-transitioning-transpersons",
+      "sourceTitle": "YourStory",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "mahout-village",
+      "entryName": "Mahout Village - Housing for Elephant Keepers",
+      "sourceUrl": "https://yourstory.com/socialstory/2025/05/indias-first-mahout-village-inaugurated-at-tamil-nadu",
+      "sourceTitle": "YourStory",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "environment.json",
+      "entryId": "renewable-target",
+      "entryName": "Renewable Energy 20GW Target",
+      "sourceUrl": "https://www.tn.gov.in/department/7",
+      "sourceTitle": "TN Energy Dept",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "bess-pumped-hydro",
+      "entryName": "Battery Energy Storage (BESS)",
+      "sourceUrl": "https://ess-news.com/greenko-signs-mou-for-3-3-gw-pumped-storage-in-tamil-nadu/",
+      "sourceTitle": "Greenko Pumped Storage MoU",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "ev-policy",
+      "entryName": "Electric Vehicle Policy 2023",
+      "sourceUrl": "https://cms.tn.gov.in/sites/default/files/go/ind_e_41_2023.pdf",
+      "sourceTitle": "EV Policy GO",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "solar-rooftop",
+      "entryName": "Solar Rooftop Program",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/pm-surya-ghar-scheme-launch/article67891234.ece",
+      "sourceTitle": "PM Surya Ghar Scheme",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "offshore-wind",
+      "entryName": "Offshore Wind Energy",
+      "sourceUrl": "https://www.offshorewind.biz/2024/02/02/india-issues-tender-for-4-gw-offshore-wind-off-tamil-nadu/",
+      "sourceTitle": "India Offshore Wind Tender",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "green-hydrogen",
+      "entryName": "Green Hydrogen Hub",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/renewables/sembcorp-to-build-green-ammonia-plant-in-tamil-nadu/articleshow/106622123.cms",
+      "sourceTitle": "Sembcorp Green Ammonia Plant",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "climate-action",
+      "entryName": "TN Climate Change Mission",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tn-climate-summit-2-0/article67895678.ece",
+      "sourceTitle": "TN Climate Summit 2.0",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "afforestation",
+      "entryName": "Green Tamil Nadu Mission",
+      "sourceUrl": "https://www.newindianexpress.com/states/tamil-nadu/2024/aug/10/green-tamil-nadu-mission-targets-265-crore-saplings",
+      "sourceTitle": "Green TN 265 Crore Saplings",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "waste-management",
+      "entryName": "Solid Waste Management",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/thooimai-mission-launch/article68234567.ece",
+      "sourceTitle": "Thooimai Mission Launch",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "water-conservation",
+      "entryName": "Water Conservation & Lake Restoration",
+      "sourceUrl": "https://www.tn.gov.in/department/34",
+      "sourceTitle": "TN Water Resources",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "water-conservation",
+      "entryName": "Water Conservation & Lake Restoration",
+      "sourceUrl": "https://www.newindianexpress.com/states/tamil-nadu/2024/oct/15/cm-stalin-inaugurates-19-water-projects",
+      "sourceTitle": "CM Inaugurates Water Projects",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "environment.json",
+      "entryId": "guindy-eco-park",
+      "entryName": "Guindy Eco Park",
+      "sourceUrl": "https://theprint.in/india/cm-stalin-launches-first-phase-of-118-acre-environmental-park-in-chennai/2775332/",
+      "sourceTitle": "The Print",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "environment.json",
+      "entryId": "ramsar-sites-ramanathapuram",
+      "entryName": "Sakkarakottai & Therthangal Ramsar Sites",
+      "sourceUrl": "https://rsis.ramsar.org/ris/2561",
+      "sourceTitle": "Ramsar Sites Information Service",
+      "status": "broken",
+      "reason": "HTTP 418",
+      "httpStatus": 418
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "crop-insurance",
+      "entryName": "Crop Insurance (PMFBY)",
+      "sourceUrl": "https://tnhorticulture.tn.gov.in/pmfby",
+      "sourceTitle": "TN Horticulture PMFBY",
+      "status": "broken",
+      "reason": "Error page detected",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "drip-irrigation",
+      "entryName": "Micro Irrigation (Drip & Sprinkler)",
+      "sourceUrl": "https://www.tn.gov.in/scheme/data_view/19311",
+      "sourceTitle": "TN Micro Irrigation",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "fertilizer-subsidy",
+      "entryName": "Fertilizer & Seed Subsidy",
+      "sourceUrl": "https://www.tn.gov.in/department/2",
+      "sourceTitle": "TN Agriculture Dept",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "dairy-development",
+      "entryName": "Dairy & Animal Husbandry",
+      "sourceUrl": "https://www.tn.gov.in/department/3",
+      "sourceTitle": "TN Animal Husbandry",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "tractor-rental-scheme",
+      "entryName": "Tractor Rental and Training Scheme",
+      "sourceUrl": "https://krishijagran.com/news/tamil-nadu-launches-agriculture-budget-2024-25-prioritizing-sustainability-and-rural-development",
+      "sourceTitle": "Krishi Jagran - TN Agriculture Budget 2024-25",
+      "status": "broken",
+      "reason": "HTTP 500",
+      "httpStatus": 500
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "chess-olympiad",
+      "entryName": "FIDE Chess Olympiad 2022",
+      "sourceUrl": "https://utsav.gov.in/view-event/the-44th-fide-chess-olympiad-in-tamil-nadu",
+      "sourceTitle": "Utsav Gov",
+      "status": "broken",
+      "reason": "HTTP 500",
+      "httpStatus": 500
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "chennai-night-race",
+      "entryName": "Chennai Formula Racing Night",
+      "sourceUrl": "https://www.thehindu.com/sport/motorsport/chennai-formula-4-night-street-race/article67258385.ece",
+      "sourceTitle": "Chennai Formula 4 Night Race",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "athlete-awards",
+      "entryName": "Cash Awards for Athletes",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-announces-hike-in-prize-money-for-olympic-medal-winners/article34983057.ece",
+      "sourceTitle": "CM Prize Money Hike",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "traditional-sports",
+      "entryName": "Traditional Sports Promotion",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-opens-kalaignar-centenary-jallikattu-arena-in-madurai/article67770854.ece",
+      "sourceTitle": "CM Opens Jallikattu Arena",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "thiruvalluvar-prize",
+      "entryName": "Thiruvalluvar Award for Literature",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/school-students-recite-thirukkural-win-cash-awards/article38356421.ece",
+      "sourceTitle": "Thirukkural Cash Awards",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "heritage-conservation",
+      "entryName": "Temple & Heritage Conservation",
+      "sourceUrl": "https://www.newindianexpress.com/states/tamil-nadu/2023/apr/18/hrce-dept-launches-thiruppani-works-module-to-monitor-temple-renovation-2566989.html",
+      "sourceTitle": "Thiruppani Works Module",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "coimbatore-international-cricket-stadium",
+      "entryName": "Coimbatore International Cricket Stadium",
+      "sourceUrl": "https://www.oneindia.com/chennai/coimbatore-cricket-stadium-when-will-this-ambitious-project-be-ready-completion-date-seating-capa-4161595.html",
+      "sourceTitle": "Oneindia",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "theni-indoor-stadium",
+      "entryName": "Theni Multipurpose Indoor Stadium",
+      "sourceUrl": "https://www.footboom1.com/en/news/tennis/2359540-new-mini-indoor-stadium-set-for-launch-in-theni",
+      "sourceTitle": "Footboom",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "keezhadi",
+      "entryName": "Keezhadi Excavations & Museum",
+      "sourceUrl": "https://cms.tn.gov.in/sites/default/files/documents/archaeology_e_pn_2024_25.pdf",
+      "sourceTitle": "Archaeology Policy Note",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "mayiladumparai",
+      "entryName": "Mayiladumparai Iron Age Discovery",
+      "sourceUrl": "https://www.thenewsminute.com/article/mayiladumparai-indias-oldest-iron-age-site-discovered-tamil-nadu-163789",
+      "sourceTitle": "Oldest Iron Age Site Discovery",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "adichanallur",
+      "entryName": "Adichanallur Iconic Site Museum",
+      "sourceUrl": "https://www.thenewsminute.com/article/asi-begins-work-site-museum-adichanallur-tamil-nadu-156321",
+      "sourceTitle": "ASI Site Museum Work",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "harappan-research",
+      "entryName": "Indus Script Decipherment Prize",
+      "sourceUrl": "https://www.indiatoday.in/science/story/keeladi-excavations-establish-link-between-tamil-nadu-indus-valley-civilization-1601270-2019-09-20",
+      "sourceTitle": "Keeladi-Indus Link Research",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "archaeology-dept",
+      "entryName": "State Archaeology Department Expansion",
+      "sourceUrl": "https://www.tn.gov.in/detail_contact/1810/4",
+      "sourceTitle": "TN Archaeology Dept",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "archaeology-dept",
+      "entryName": "State Archaeology Department Expansion",
+      "sourceUrl": "https://cms.tn.gov.in/sites/default/files/documents/archaeology_e_pn_2024_25.pdf",
+      "sourceTitle": "Policy Note 2024-25",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "tamil-museum",
+      "entryName": "Tamil Heritage Museums",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-inaugurates-keeladi-museum/article66583210.ece",
+      "sourceTitle": "CM Inaugurates Keeladi Museum",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "sangam-literature",
+      "entryName": "Sangam Literature Digitization",
+      "sourceUrl": "https://www.newindianexpress.com/states/tamil-nadu/2019/sep/20/keeladi-findings-trace-link-between-sangam-era-indus-valley-civilisation-2036423.html",
+      "sourceTitle": "Sangam Era-Indus Link",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "thiruvalluvar",
+      "entryName": "Thiruvalluvar Commemoration",
+      "sourceUrl": "https://www.newindianexpress.com/states/tamil-nadu/2022/jun/08/chemical-coating-for-thiruvalluvar-statue-begins-2463121.html",
+      "sourceTitle": "Thiruvalluvar Statue Coating",
+      "status": "broken",
+      "reason": "HTTP 404",
+      "httpStatus": 404
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "gangaikonda-cholapuram-museum",
+      "entryName": "Gangaikonda Cholapuram Museum",
+      "sourceUrl": "https://theprint.in/india/iron-age-began-in-now-tn-5300-years-ago-says-cm-stalin/2459133/",
+      "sourceTitle": "The Print",
+      "status": "broken",
+      "reason": "HTTP 403",
+      "httpStatus": 403
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "cmchis",
+      "entryName": "Chief Minister's Health Insurance (CMCHIS)",
+      "sourceUrl": "https://www.cmchistn.com/",
+      "sourceTitle": "CMCHIS Official Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "cmchis",
+      "entryName": "Chief Minister's Health Insurance (CMCHIS)",
+      "sourceUrl": "https://www.myscheme.gov.in/schemes/cmchis-tn",
+      "sourceTitle": "MyScheme.gov.in",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "hpv-vaccine",
+      "entryName": "Free HPV Cervical Cancer Vaccination",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "innuyir-kaappom",
+      "entryName": "Innuyir Kaappom - Nammai Kaakkum 48",
+      "sourceUrl": "https://www.cmchistn.com/",
+      "sourceTitle": "CMCHIS Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "ambulance-108",
+      "entryName": "108 Emergency Ambulance Service",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "medical-colleges",
+      "entryName": "New Medical Colleges",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "muthulakshmi-reddy",
+      "entryName": "Dr. Muthulakshmi Reddy Maternity Benefit",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/",
+      "sourceTitle": "Social Welfare Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "nalam-kaakkum",
+      "entryName": "Nalam Kaakkum Stalin Scheme",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "organ-donation",
+      "entryName": "TRANSTAN Organ Donation Program",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "mental-health",
+      "entryName": "Mental Health & Suicide Prevention",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "dialysis",
+      "entryName": "Free Dialysis Program",
+      "sourceUrl": "https://www.cmchistn.com/",
+      "sourceTitle": "CMCHIS Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "palliative-care",
+      "entryName": "Palliative Care Network",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "kalangarai-addiction-centers",
+      "entryName": "Kalangarai Addiction Recovery Centers",
+      "sourceUrl": "https://tiruvallur.nic.in/pr-147_27022025/",
+      "sourceTitle": "Tiruvallur District Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "mudhalvar-marundhagam",
+      "entryName": "Mudhalvar Marundhagam (CM Pharmacies)",
+      "sourceUrl": "https://mudhalvarmarundhagam.tn.gov.in/project",
+      "sourceTitle": "Mudhalvar Marundhagam Official Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "tambaram-district-hospital",
+      "entryName": "Tambaram District Government Hospital",
+      "sourceUrl": "https://chengalpattu.nic.in/the-honble-chief-minister-of-tamil-nadu-inaugurated-the-new-government-general-hospital-building-at-tambaram-and-distributed-patta-to-the-beneficiaries-09-08-2025/",
+      "sourceTitle": "Chengalpattu District Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "aaruyir-cpr-training",
+      "entryName": "Aaruyir - Life Saving CPR Training",
+      "sourceUrl": "https://www.tn.gov.in/",
+      "sourceTitle": "TN Health Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "pudhumai-penn",
+      "entryName": "Pudhumai Penn (Moovalur Ramamirtham Scheme)",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/pudhumai-penn-scheme",
+      "sourceTitle": "Social Welfare Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "tamil-pudhalvan",
+      "entryName": "Tamil Pudhalvan",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationswoman-welfare/tamil-pudhalvan",
+      "sourceTitle": "Social Welfare Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "breakfast-scheme",
+      "entryName": "Chief Minister's Breakfast Scheme",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationsnutritious-meal-programme/chief-ministers-breakfast-scheme",
+      "sourceTitle": "Social Welfare Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "laptop-scheme",
+      "entryName": "Ulagam Ungal Kaiyil (Free Laptops)",
+      "sourceUrl": "https://elcotlaptop.tn.gov.in/home",
+      "sourceTitle": "ELCOT Laptop Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "naan-mudhalvan",
+      "entryName": "Naan Mudhalvan (Skill Development)",
+      "sourceUrl": "https://www.naanmudhalvan.tn.gov.in/",
+      "sourceTitle": "Naan Mudhalvan Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "schools-of-excellence",
+      "entryName": "Schools of Excellence & Model Schools",
+      "sourceUrl": "https://www.tn.gov.in/dept_profile.php?dep_id=Mjg%3D",
+      "sourceTitle": "School Education Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "knowledge-city",
+      "entryName": "Tamil Nadu Knowledge City",
+      "sourceUrl": "https://tidco.com/",
+      "sourceTitle": "TIDCO Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "chennai-journalism-institute",
+      "entryName": "Chennai Institute of Journalism",
+      "sourceUrl": "https://cij.tn.gov.in/en",
+      "sourceTitle": "Chennai Institute of Journalism Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "kamarajar-library-trichy",
+      "entryName": "Perunthalaivar Kamarajar Grand Library and Intellectual Centre",
+      "sourceUrl": "https://tiruchirappalli.nic.in/honble-chief-minister-inaugurated-the-trichy-kalaignar-library-building-and-intellectual-centre-news/",
+      "sourceTitle": "Tiruchirappalli District Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "education.json",
+      "entryId": "namma-school-foundation",
+      "entryName": "Namma School Namma Ooru Palli",
+      "sourceUrl": "https://nammaschool.tnschools.gov.in/",
+      "sourceTitle": "Namma School Official Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TN-HEALTH-INFRA",
+      "entryName": "Tamil Nadu Public Health Infrastructure Base",
+      "sourceUrl": "https://tnhealth.tn.gov.in/",
+      "sourceTitle": "Health & Family Welfare Department TN",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "AMBULANCE-108-CHENNAI",
+      "entryName": "87 New 108 Ambulance Services",
+      "sourceUrl": "https://tnhealth.tn.gov.in/",
+      "sourceTitle": "TN Health Infrastructure (via research)",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "SIPCOT-INDUSTRIAL-PARKS-11",
+      "entryName": "11 New SIPCOT Industrial Parks",
+      "sourceUrl": "https://elcot.in/information-technology-parks-sezs",
+      "sourceTitle": "ELCOT - IT Parks SEZs",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "CHENNAI-PORT-LOGISTICS",
+      "entryName": "Multi-Modal Logistics Park Mappedu",
+      "sourceUrl": "https://www.chennaiport.gov.in/",
+      "sourceTitle": "Chennai Port Authority - Projects",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "CHENNAI-PORT-LOGISTICS",
+      "entryName": "Multi-Modal Logistics Park Mappedu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/",
+      "sourceTitle": "TOI - Mappedu Logistics Park",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "CHENNAI-PORT-EXPANSION",
+      "entryName": "Chennai Port Authority Expansion",
+      "sourceUrl": "https://www.chennaiport.gov.in/",
+      "sourceTitle": "Chennai Port Authority - Annual Report",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "CHENNAI-PORT-EXPANSION",
+      "entryName": "Chennai Port Authority Expansion",
+      "sourceUrl": "https://economictimes.indiatimes.com/",
+      "sourceTitle": "Economic Times - Port Expansion",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-RASIPURAM",
+      "entryName": "TIDEL Neo IT Park - Rasipuram",
+      "sourceUrl": "https://www.tidelpark.com/blog/tidel-neo-for-a-new-tamil-nadu.html",
+      "sourceTitle": "TIDEL Park - Neo Rasipuram",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-RASIPURAM",
+      "entryName": "TIDEL Neo IT Park - Rasipuram",
+      "sourceUrl": "https://www.tidelpark.com/en/tidel-neo",
+      "sourceTitle": "TIDEL Park Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-TIRUVANNAMALAI",
+      "entryName": "TIDEL Neo IT Park - Tiruvannamalai",
+      "sourceUrl": "https://www.tidelpark.com/blog/tidel-neo-for-a-new-tamil-nadu.html",
+      "sourceTitle": "TIDEL Park - Neo Network",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-TIRUVANNAMALAI",
+      "entryName": "TIDEL Neo IT Park - Tiruvannamalai",
+      "sourceUrl": "https://www.tidelpark.com/en/tidel-neo",
+      "sourceTitle": "TIDEL Park Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-TIRUPPUR",
+      "entryName": "TIDEL Neo IT Park - Tiruppur",
+      "sourceUrl": "https://www.tidelpark.com/blog/tidel-neo-tiruppur-stitching-together-innovation-and-opportunity-in-indias-knitwear-capital.html",
+      "sourceTitle": "TIDEL Park - Tiruppur Neo",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-TIRUPPUR",
+      "entryName": "TIDEL Neo IT Park - Tiruppur",
+      "sourceUrl": "https://www.tidelpark.com/",
+      "sourceTitle": "TIDEL Park Network",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-KARAIKUDI",
+      "entryName": "TIDEL Neo IT Park - Karaikudi",
+      "sourceUrl": "https://www.tidelpark.com/blog/tidel-neo-karaikudi-igniting-the-it-spark-in-the-heart-of-chettinad.html",
+      "sourceTitle": "TIDEL Park - Karaikudi",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-NEO-KARAIKUDI",
+      "entryName": "TIDEL Neo IT Park - Karaikudi",
+      "sourceUrl": "https://www.tidelpark.com/",
+      "sourceTitle": "TIDEL Park Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIDEL-PATTABIRAM",
+      "entryName": "TIDEL Park - Pattabiram (North Chennai)",
+      "sourceUrl": "https://www.tidelpark.com/",
+      "sourceTitle": "TIDEL Park Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "KNOWLEDGE-CITY-PHASE1",
+      "entryName": "Tamil Nadu Knowledge City Phase 1 - Thiruvallur",
+      "sourceUrl": "https://www.newsonprojects.com/state?state=14&industry=2",
+      "sourceTitle": "News on Projects - Knowledge City",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "KNOWLEDGE-CITY-PHASE1",
+      "entryName": "Tamil Nadu Knowledge City Phase 1 - Thiruvallur",
+      "sourceUrl": "https://tidco.com/ongoingprojects.php",
+      "sourceTitle": "TIDCO - Ongoing Projects",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PERUR-DESAL",
+      "entryName": "Perur Desalination Plant (400 MLD)",
+      "sourceUrl": "https://www.water-technology.net/",
+      "sourceTitle": "Water Technology - TN Desalination Projects",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PERUR-DESAL",
+      "entryName": "Perur Desalination Plant (400 MLD)",
+      "sourceUrl": "https://economictimes.indiatimes.com/",
+      "sourceTitle": "Economic Times - Desalination Plant TN",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "NILGIRIS-MEDCOL-HOSPITAL",
+      "entryName": "Nilgiris Government Medical College Hospital Expansion",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Health Infrastructure",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TAMBARAM-DISTRICT-HOSPITAL",
+      "entryName": "Tambaram Government Hospital Expansion",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Health Infrastructure TN",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TAMBARAM-DISTRICT-HOSPITAL",
+      "entryName": "Tambaram Government Hospital Expansion",
+      "sourceUrl": "https://www.thehindu.com/",
+      "sourceTitle": "The Hindu - District Hospitals",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "NAMAKKAL-DAIRY",
+      "entryName": "Namakkal Aavin Dairy Plant Expansion",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Dairy Infrastructure",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "SALEM-MILK-POWDER",
+      "entryName": "Salem Milk Powder Plant Upgrade",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Dairy Projects",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PERAMBALUR-MILK-POWDER",
+      "entryName": "Perambalur Milk Powder Plant",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Perambalur Dairy",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "FIRE-STATIONS-2021-JAN",
+      "entryName": "6 Fire Stations (January 2021)",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Fire Infrastructure",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "FIRE-STATIONS-2021-AUG",
+      "entryName": "15 Fire Stations + 10 Buildings + 30 Quarters (August 2021)",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Fire Stations Inaugurated",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "SHOLINGANALLUR-STP",
+      "entryName": "Sholinganallur Sewage Treatment Plant (36 MLD)",
+      "sourceUrl": "https://www.thehindu.com/",
+      "sourceTitle": "The Hindu - Chennai Water Infrastructure",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "KODUNGAIYUR-STP-UPGRADE",
+      "entryName": "Kodungaiyur STP Capacity Upgrade (110 MLD)",
+      "sourceUrl": "https://www.thehindu.com/",
+      "sourceTitle": "The Hindu - Sewage Infrastructure",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "HOME-OF-CHESS-ACADEMY",
+      "entryName": "Home of Chess Academy - Jawaharlal Nehru Stadium",
+      "sourceUrl": "https://newstodaynet.com/",
+      "sourceTitle": "News Today - Sports Infrastructure",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PARA-BADMINTON-CENTRE",
+      "entryName": "Para Badminton High Performance Centre",
+      "sourceUrl": "https://newstodaynet.com/",
+      "sourceTitle": "News Today - Sports Facilities",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "MINI-STADIUMS-66",
+      "entryName": "66 Mini Stadiums (District-wise)",
+      "sourceUrl": "https://www.dtnext.in/",
+      "sourceTitle": "DTNext - Stadium Projects",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TAMBARAM-GH-NEW-BUILDING",
+      "entryName": "Tambaram Government General Hospital New Building",
+      "sourceUrl": "https://chengalpattu.nic.in/the-honble-chief-minister-of-tamil-nadu-inaugurated-the-new-government-general-hospital-building-at-tambaram-and-distributed-patta-to-the-beneficiaries-09-08-2025/",
+      "sourceTitle": "Chengalpattu District Website",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIRUCHENGODE-GH-UPGRADE",
+      "entryName": "Tiruchengode Government Headquarters Hospital Upgrade",
+      "sourceUrl": "https://newsonprojects.com/state?state=14&industry=144",
+      "sourceTitle": "News on Projects - TN Hospitals",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "VALLIYUR-DH-NEW",
+      "entryName": "Valliyur District Headquarters Hospital",
+      "sourceUrl": "https://newsonprojects.com/state?state=14&industry=144",
+      "sourceTitle": "News on Projects - Healthcare",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TIRUCHI-HEALTH-INFRA",
+      "entryName": "Tiruchirappalli District Health Infrastructure",
+      "sourceUrl": "https://newsonprojects.com/state?state=14&industry=144",
+      "sourceTitle": "News on Projects - Health",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "ukkadam-flyover",
+      "entryName": "Ukkadam-Athupalam Flyover",
+      "sourceUrl": "https://coimbatore.nic.in/honble-chief-minister-of-tamil-nadu-inaugurated-athupalam-to-ukkadam-junction-and-oppanakara-road-flyover-along-with-newly-constructed-buildings-within-bharathiar-university-campus/",
+      "sourceTitle": "Coimbatore District Government",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "kalaignar-bus-terminus-trichy",
+      "entryName": "Kalaignar Integrated Bus Terminus Trichy",
+      "sourceUrl": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/",
+      "sourceTitle": "Tiruchirappalli District Government",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "periyar-vegetable-market-trichy",
+      "entryName": "Periyar Integrated Vegetable Market Trichy",
+      "sourceUrl": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/",
+      "sourceTitle": "Tiruchirappalli District Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "sipcot-ttro-hosur",
+      "entryName": "SIPCOT TTRO Plant Hosur",
+      "sourceUrl": "https://krishnagiri.nic.in/public-utility/sipcot/",
+      "sourceTitle": "Krishnagiri District",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "kallakurichi-collectorate",
+      "entryName": "Kallakurichi District Collectorate",
+      "sourceUrl": "https://kallakurichi.nic.in/the-district-collector-personally-inspected-the-construction-work-of-the-new-district-collectors-office-building-being-constructed-at-an-estimated-cost-of-rs-139-41-crore-in-veeracholapuram-kallak/",
+      "sourceTitle": "Kallakurichi District Government - District Collector Office Inspection",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "kallakurichi-collectorate",
+      "entryName": "Kallakurichi District Collectorate",
+      "sourceUrl": "https://kallakurichi.nic.in/at-a-government-function-held-in-kallakurichi-district-the-honourable-chief-minister-of-tamil-nadu-mr-m-k-stalin-inaugurated-2559-completed-projects-worth-%E2%82%B91773-67-crore-including-the/",
+      "sourceTitle": "Kallakurichi District Government - CM Inauguration",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "anna-heavy-vehicle-terminus-trichy",
+      "entryName": "Anna Heavy Vehicle Cargo Terminal (Integrated Truck Terminal)",
+      "sourceUrl": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/",
+      "sourceTitle": "Tiruchirappalli District Government - CM Inauguration News",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "virudhunagar-collectorate-building",
+      "entryName": "Virudhunagar District Collectorate Building",
+      "sourceUrl": "https://virudhunagar.nic.in/cm-2024/",
+      "sourceTitle": "Virudhunagar District Government - CM Visit November 2024",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "tidel-neo-park-thoothukudi",
+      "entryName": "Mini TIDEL Park (TIDEL Neo) Thoothukudi",
+      "sourceUrl": "https://www.tidelpark.com/blog/tidel-neo-thoothukudi.html",
+      "sourceTitle": "TIDEL Park Official - TIDEL Neo Thoothukudi",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "tidel-neo-park-thoothukudi",
+      "entryName": "Mini TIDEL Park (TIDEL Neo) Thoothukudi",
+      "sourceUrl": "https://thoothukudi.nic.in/honble-chief-minister-of-tamil-nadu-inaugurated-mini-tidel-park/",
+      "sourceTitle": "Thoothukudi District Government",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "magalir-urimai",
+      "entryName": "Kalaignar Magalir Urimai Thogai",
+      "sourceUrl": "https://kmut.tn.gov.in/",
+      "sourceTitle": "KMUT Official Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "vidiyal-payanam",
+      "entryName": "Vidiyal Payanam",
+      "sourceUrl": "https://www.tnstc.in/",
+      "sourceTitle": "TNSTC Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "pongal-gift",
+      "entryName": "Pongal Gift Package",
+      "sourceUrl": "https://tenkasi.nic.in/the-pongal-gift-package-will-be-distributed-to-all-eligible-beneficiaries-through-fair-price-shops-from-08-01-2026-press-release/",
+      "sourceTitle": "Tenkasi District PR",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "kalaignar-kanavu-illam",
+      "entryName": "Kalaignar Kanavu Illam",
+      "sourceUrl": "https://tnrd.tn.gov.in/",
+      "sourceTitle": "TNRD Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "old-age-pension",
+      "entryName": "Old Age Pension",
+      "sourceUrl": "https://oap.tn.gov.in/",
+      "sourceTitle": "OAP Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "widow-pension",
+      "entryName": "Widow Pension",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationswoman-welfare/widow-and-destitute-welfare-board",
+      "sourceTitle": "Widow Welfare Board",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "widow-pension",
+      "entryName": "Widow Pension",
+      "sourceUrl": "https://oap.tn.gov.in/",
+      "sourceTitle": "OAP Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "disabled-pension",
+      "entryName": "Differently Abled Pension",
+      "sourceUrl": "https://oap.tn.gov.in/",
+      "sourceTitle": "OAP Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "pds",
+      "entryName": "Universal Public Distribution System",
+      "sourceUrl": "https://tncsc.tn.gov.in/en/PDS.html",
+      "sourceTitle": "TNCSC PDS Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "pds",
+      "entryName": "Universal Public Distribution System",
+      "sourceUrl": "https://www.tnpds.gov.in/",
+      "sourceTitle": "TNPDS Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "marriage-assistance",
+      "entryName": "Moovalur Ramamirtham Marriage Assistance",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationswoman-welfare/marriage-assistance-schemes",
+      "sourceTitle": "TN Social Welfare Marriage Schemes",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "farm-loan-waiver",
+      "entryName": "Farm Loan Waiver",
+      "sourceUrl": "https://www.rcs.tn.gov.in/credit_copperative.php",
+      "sourceTitle": "RCS Cooperative Societies",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "farm-loan-waiver",
+      "entryName": "Farm Loan Waiver",
+      "sourceUrl": "https://kooturavu.tn.gov.in/",
+      "sourceTitle": "TN Cooperative Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "fishermen-welfare",
+      "entryName": "Fishermen Welfare Schemes",
+      "sourceUrl": "https://www.tnfwb.tn.gov.in/",
+      "sourceTitle": "TN Fishermen Welfare Board",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "sc-st-welfare",
+      "entryName": "SC/ST Welfare Programs",
+      "sourceUrl": "https://www.tnadw.tn.gov.in/",
+      "sourceTitle": "TNADW Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "sc-st-welfare",
+      "entryName": "SC/ST Welfare Programs",
+      "sourceUrl": "https://www.tntribalwelfare.tn.gov.in/",
+      "sourceTitle": "Tribal Welfare Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "transgender-welfare",
+      "entryName": "Transgender Welfare Programs",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationstransgenders-welfare/tamil-nadu-transgender-welfare-board",
+      "sourceTitle": "TN Transgender Welfare Board",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "icds",
+      "entryName": "Integrated Child Development Services",
+      "sourceUrl": "https://icds.tn.gov.in/icdstn/",
+      "sourceTitle": "ICDS TN Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "icds",
+      "entryName": "Integrated Child Development Services",
+      "sourceUrl": "https://www.icds.tn.gov.in/icdstn/anganwadi_centers.html",
+      "sourceTitle": "Anganwadi Centers",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "thozhi-hostels",
+      "entryName": "Thozhi Working Women's Hostels",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/state-resource-centre-for-women/working-women-hostels",
+      "sourceTitle": "TN Social Welfare - Working Women Hostels",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "aran-illam",
+      "entryName": "Aran Illam (Shelter Homes for Transgender Persons)",
+      "sourceUrl": "https://www.tnsocialwelfare.tn.gov.in/en/specilisationstransgenders-welfare/tamil-nadu-transgender-welfare-board",
+      "sourceTitle": "TN Social Welfare",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "sipcot-creche",
+      "entryName": "SIPCOT Creche Facilities for Working Mothers",
+      "sourceUrl": "https://sipcotweb.tn.gov.in/",
+      "sourceTitle": "SIPCOT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "environment.json",
+      "entryId": "offshore-wind",
+      "entryName": "Offshore Wind Energy",
+      "sourceUrl": "https://niwe.res.in",
+      "sourceTitle": "NIWE",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "environment.json",
+      "entryId": "climate-action",
+      "entryName": "TN Climate Change Mission",
+      "sourceUrl": "https://www.tnclimatechangemission.in",
+      "sourceTitle": "TN Climate Change Mission",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "environment.json",
+      "entryId": "afforestation",
+      "entryName": "Green Tamil Nadu Mission",
+      "sourceUrl": "https://greentnmission.com",
+      "sourceTitle": "Green TN Mission",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "environment.json",
+      "entryId": "waste-management",
+      "entryName": "Solid Waste Management",
+      "sourceUrl": "https://tnurbantree.tn.gov.in",
+      "sourceTitle": "TN Urban Tree",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "environment.json",
+      "entryId": "dugong-conservation-centre",
+      "entryName": "India's First Dugong Conservation Centre",
+      "sourceUrl": "https://www.tnclimatechangemission.in",
+      "sourceTitle": "TN-SHORE Initiative",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "crop-insurance",
+      "entryName": "Crop Insurance (PMFBY)",
+      "sourceUrl": "https://pmfby.gov.in/adminStatistics/dashboard",
+      "sourceTitle": "PMFBY Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "uzhavar-sandhai",
+      "entryName": "Uzhavar Sandhai (Farmer Markets)",
+      "sourceUrl": "https://www.agrimark.tn.gov.in/",
+      "sourceTitle": "Agrimark TN",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "organic-farming",
+      "entryName": "Organic Farming Mission",
+      "sourceUrl": "https://www.tnocd.net/",
+      "sourceTitle": "TN Organic Certification",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "horticulture",
+      "entryName": "Horticulture Development",
+      "sourceUrl": "https://tnhorticulture.tn.gov.in/",
+      "sourceTitle": "TN Horticulture Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "fisheries",
+      "entryName": "Fisheries Development",
+      "sourceUrl": "https://www.fisheries.tn.gov.in/",
+      "sourceTitle": "TN Fisheries",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "fisheries",
+      "entryName": "Fisheries Development",
+      "sourceUrl": "https://www.tnfwb.tn.gov.in/",
+      "sourceTitle": "TN Fishermen Welfare Board",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "aiirlivas",
+      "entryName": "Advanced Institute for Integrated Research on Livestock and Animal Sciences (AIIRLIVAS)",
+      "sourceUrl": "https://www.aiirlivas.com/objectives",
+      "sourceTitle": "AIIRLIVAS Official Website",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "aiirlivas",
+      "entryName": "Advanced Institute for Integrated Research on Livestock and Animal Sciences (AIIRLIVAS)",
+      "sourceUrl": "https://salem.nic.in/livestock-and-veterinary-integrated-high-research-centre-inauguration-13-01-2025/",
+      "sourceTitle": "Salem District Official - AIIRLIVAS Inauguration",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "aavin-feb-2026-projects",
+      "entryName": "Aavin Dairy Infrastructure Projects (Feb 2026)",
+      "sourceUrl": "https://aavin.tn.gov.in/",
+      "sourceTitle": "Aavin Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "chess-olympiad",
+      "entryName": "FIDE Chess Olympiad 2022",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "cm-trophy",
+      "entryName": "Chief Minister's Trophy",
+      "sourceUrl": "https://tncmtrophy.sdat.in/",
+      "sourceTitle": "CM Trophy Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "cm-trophy",
+      "entryName": "Chief Minister's Trophy",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "chennai-night-race",
+      "entryName": "Chennai Formula Racing Night",
+      "sourceUrl": "https://sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "sports-academies",
+      "entryName": "State Sports Academies",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "stadium-upgrades",
+      "entryName": "Stadium Infrastructure",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "athlete-awards",
+      "entryName": "Cash Awards for Athletes",
+      "sourceUrl": "https://sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "traditional-sports",
+      "entryName": "Traditional Sports Promotion",
+      "sourceUrl": "https://sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "thiruvalluvar-prize",
+      "entryName": "Thiruvalluvar Award for Literature",
+      "sourceUrl": "https://tnschools.gov.in/",
+      "sourceTitle": "TN Schools",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "heritage-conservation",
+      "entryName": "Temple & Heritage Conservation",
+      "sourceUrl": "https://hrce.tn.gov.in/",
+      "sourceTitle": "HR&CE Dept",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "cm-mini-stadiums",
+      "entryName": "CM Mini Stadiums Scheme",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "tn-sports-science-centre",
+      "entryName": "Tamil Nadu Centre for Sports Science",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "international-water-sports-academy",
+      "entryName": "International Water Sports Academy",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "mgr-film-institute-studio",
+      "entryName": "MGR Film and Television Training Institute Studio Renovation",
+      "sourceUrl": "http://www.filminstitute.tn.gov.in/en",
+      "sourceTitle": "TN Govt MGR Film Institute",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "mgr-film-institute-studio",
+      "entryName": "MGR Film and Television Training Institute Studio Renovation",
+      "sourceUrl": "https://dipr.tn.gov.in/",
+      "sourceTitle": "DIPR",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "theni-indoor-stadium",
+      "entryName": "Theni Multipurpose Indoor Stadium",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "ramanathapuram-weightlifting-centre",
+      "entryName": "Ramanathapuram Weightlifting Training Centre",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "international-trap-shooting-range",
+      "entryName": "International Trap Shooting Range",
+      "sourceUrl": "https://www.sdat.tn.gov.in/",
+      "sourceTitle": "SDAT Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "naan-mudhalvan",
+      "entryName": "Naan Mudhalvan",
+      "sourceUrl": "https://www.naanmudhalvan.tn.gov.in/",
+      "sourceTitle": "Naan Mudhalvan Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "vetri-nichayam",
+      "entryName": "TN Vetri Nichayam Scheme",
+      "sourceUrl": "https://candidate.tnskill.tn.gov.in/skillwallet/",
+      "sourceTitle": "Vetri Nichayam Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "vetri-nichayam",
+      "entryName": "TN Vetri Nichayam Scheme",
+      "sourceUrl": "https://www.tnskill.tn.gov.in/",
+      "sourceTitle": "TNSDC",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "uyegp",
+      "entryName": "Unemployed Youth Employment Generation Programme",
+      "sourceUrl": "https://www.tnvelaivaaippu.gov.in/",
+      "sourceTitle": "TN Velvai Vaippu",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "industrial-investments",
+      "entryName": "Industrial Investments & MoUs",
+      "sourceUrl": "https://tngim2024.com/",
+      "sourceTitle": "GIM 2024 Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "tnsdc",
+      "entryName": "TNSDC Skill Training",
+      "sourceUrl": "https://www.tnskill.tn.gov.in/",
+      "sourceTitle": "TNSDC Official",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "apprenticeship",
+      "entryName": "Apprenticeship Programs",
+      "sourceUrl": "https://www.apprenticeshipindia.gov.in/",
+      "sourceTitle": "Apprenticeship India",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "kalaignar-kaivinai-thittam",
+      "entryName": "Kalaignar Kaivinai Thittam (KKT)",
+      "sourceUrl": "https://msmeonline.tn.gov.in/kkt/index.php",
+      "sourceTitle": "KKT Official Portal - MSME TN",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "mudhalvarin-kaakkum-karangal",
+      "entryName": "Mudhalvarin Kaakkum Karangal",
+      "sourceUrl": "https://www.exwel.tn.gov.in/",
+      "sourceTitle": "Ex-Servicemen Welfare Department TN",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "tn-rise",
+      "entryName": "TN-RISE (Rural Incubator and Startup Enabler)",
+      "sourceUrl": "https://www.tnrise.co.in/",
+      "sourceTitle": "TN-RISE Official Portal",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "employment.json",
+      "entryId": "tn-rise",
+      "entryName": "TN-RISE (Rural Incubator and Startup Enabler)",
+      "sourceUrl": "https://www.vkp-tnrtp.org/",
+      "sourceTitle": "Vazhndhu Kattuvom Project",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "keezhadi",
+      "entryName": "Keezhadi Excavations & Museum",
+      "sourceUrl": "https://www.keeladimuseum.tn.gov.in/",
+      "sourceTitle": "Keeladi Museum",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "thiruvalluvar",
+      "entryName": "Thiruvalluvar Commemoration",
+      "sourceUrl": "https://www.ttdconline.com/",
+      "sourceTitle": "TTDC",
+      "status": "homepage",
+      "reason": "Generic homepage - not article-specific",
+      "httpStatus": 200
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "makkalai-thedi",
+      "entryName": "Makkalai Thedi Maruthuvam",
+      "sourceUrl": "https://cms.tn.gov.in/cms_migrated/document/GO/hfw_e_340_2021.pdf",
+      "sourceTitle": "GO MS 340/2021",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "NOYYAL-MUSEUM",
+      "entryName": "Noyyal Museum - Kodumanal Excavations",
+      "sourceUrl": "https://www.insightsonindia.com/2026/02/07/tn-urban-greening-policy-2026/",
+      "sourceTitle": "Insights on India - TN Budget Museums",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "AGARAM-MUSEUM",
+      "entryName": "Agaram - Museum of Languages",
+      "sourceUrl": "https://thesouthfirst.com/featured/dravidian-movement-and-democratising-knowledge-tamil-nadus-library-movement/",
+      "sourceTitle": "The South First - Library Movement",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "COIMBATORE-CRICKET-STADIUM",
+      "entryName": "Coimbatore Cricket Stadium (Planned)",
+      "sourceUrl": "https://www.etvbharat.com/en/!sports/tamil-nadus-sporting-revolution-how-sdat-is-building-indias-next-generation-of-champions-enn25091311761",
+      "sourceTitle": "ETV Bharat - TN Sporting Revolution",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "KOYAMBEDU-FLYOVER",
+      "entryName": "Koyambedu Flyover",
+      "sourceUrl": "https://www.dtnext.in/news/chennai/",
+      "sourceTitle": "DTNext - Chennai Infrastructure",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PERUNGALATHUR-FLYOVER",
+      "entryName": "Perungalathur Flyover",
+      "sourceUrl": "https://www.dtnext.in/news/chennai/",
+      "sourceTitle": "DTNext - Chennai Infrastructure",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "MADIPAKKAM-UNDERPASS",
+      "entryName": "Madipakkam Underpass",
+      "sourceUrl": "https://www.dmk.in/en/achievements/",
+      "sourceTitle": "DMK Achievements - Chennai Flyovers",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "MADIPAKKAM-UNDERPASS",
+      "entryName": "Madipakkam Underpass",
+      "sourceUrl": "https://www.dtnext.in/news/chennai/",
+      "sourceTitle": "DTNext - Chennai Infrastructure",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PALLAVARAM-FLYOVER",
+      "entryName": "Pallavaram Flyover",
+      "sourceUrl": "https://www.dtnext.in/news/chennai/",
+      "sourceTitle": "DTNext - Chennai Region Flyovers",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "VANDALUR-FLYOVER",
+      "entryName": "Vandalur Flyover",
+      "sourceUrl": "https://www.dtnext.in/news/chennai/",
+      "sourceTitle": "DTNext - Chennai Region Flyovers",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "QUEEN-MARY-HOSTEL",
+      "entryName": "Queen Mary's College Girls Hostel",
+      "sourceUrl": "https://www.constructionworld.in/policy-updates-and-economic-news/cm-stalin-unveils-key-infrastructure-projects-in-tamil-nadu/51668",
+      "sourceTitle": "Construction World - Infrastructure Projects",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "TNUHDB-HOUSING-4978",
+      "entryName": "TNUHDB Housing Scheme - 4978 Tenements (14 zones)",
+      "sourceUrl": "https://www.business-standard.com/india-news/cm-stalin-inaugurates-projects-worth-737-88-cr-announces-4-268-cr-aid-125100300293_1.html",
+      "sourceTitle": "Business Standard - Housing Inauguration",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PERUR-DESAL",
+      "entryName": "Perur Desalination Plant (400 MLD)",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/",
+      "sourceTitle": "The Hindu - Perur Desalination",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "NAMAKKAL-DAIRY",
+      "entryName": "Namakkal Aavin Dairy Plant Expansion",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/",
+      "sourceTitle": "The Hindu - Aavin Expansions",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "FIRE-STATIONS-2021-JAN",
+      "entryName": "6 Fire Stations (January 2021)",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/",
+      "sourceTitle": "The Hindu - Fire Stations 2021",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "FIRE-STATIONS-2021-AUG",
+      "entryName": "15 Fire Stations + 10 Buildings + 30 Quarters (August 2021)",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/",
+      "sourceTitle": "The Hindu - Fire Infrastructure Aug 2021",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "ITI-KANGEYAM-NEW",
+      "entryName": "New Industrial Training Institute - Kangeyam Tiruppur",
+      "sourceUrl": "https://www.usthadian.com/tamil-nadu-budget-2025-major-announcements-for-welfare-education-and-infrastructure/",
+      "sourceTitle": "Usthadian - Budget Highlights",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "SARAL-THAKKAR-CONVENTION",
+      "entryName": "Saral Thakkar Convention Centre - Tirunelveli",
+      "sourceUrl": "https://en.wikipedia.org/wiki/M._K._Stalin",
+      "sourceTitle": "Wikipedia - MK Stalin",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "mandaveli-multimodal-hub",
+      "entryName": "Mandaveli Bus Terminal Multi-Modal Hub",
+      "sourceUrl": "https://www.livechennai.com/detailnews.asp?catid=17&newsid=77368&nav=n",
+      "sourceTitle": "Live Chennai - CMAML Signs Rs 167.08 Crore Contract for Mandaveli",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "satchiyapuram-road-overbridge",
+      "entryName": "Satchiyapuram Road Overbridge (Sankaralinganar ROB)",
+      "sourceUrl": "https://telibrary.com/en/freedom-fighter-sankaralinganar/",
+      "sourceTitle": "Tamil Heritage - Freedom Fighter Sankaralinganar",
+      "status": "no-match",
+      "reason": "Low content match (0% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 0
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "nutritional-agriculture-campaign",
+      "entryName": "Nutritional Agriculture Campaign",
+      "sourceUrl": "https://www.dinakaran.com/nutrition_agriculture_movement/",
+      "sourceTitle": "Dinakaran - Rs 125 crore Nutritional Agriculture",
+      "status": "no-match",
+      "reason": "Low content match (4% of keywords found)",
+      "httpStatus": 200,
+      "matchScore": 4
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "makkalai-thedi",
+      "entryName": "Makkalai Thedi Maruthuvam",
+      "sourceUrl": "https://spc.tn.gov.in/makkalai-thedi-maruthuvam/",
+      "sourceTitle": "SPC MTM Page",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "makkalai-thedi",
+      "entryName": "Makkalai Thedi Maruthuvam",
+      "sourceUrl": "https://phr.tn.gov.in/aboutus.html",
+      "sourceTitle": "TN Population Health Registry",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "telemedicine",
+      "entryName": "e-Sanjeevani Telemedicine",
+      "sourceUrl": "https://esanjeevaniopd.in/",
+      "sourceTitle": "e-Sanjeevani",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "healthcare.json",
+      "entryId": "health-infrastructure",
+      "entryName": "Hospital Infrastructure Upgrade",
+      "sourceUrl": "https://www.tnbudget.tn.gov.in/",
+      "sourceTitle": "TN Budget 2025-26",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "illam-thedi-kalvi",
+      "entryName": "Illam Thedi Kalvi",
+      "sourceUrl": "https://spc.tn.gov.in/illam-thedi-kalvi-scheme/",
+      "sourceTitle": "State Planning Commission",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "pudhumai-penn",
+      "entryName": "Pudhumai Penn (Moovalur Ramamirtham Scheme)",
+      "sourceUrl": "https://www.pudhumaipenn.tn.gov.in/",
+      "sourceTitle": "Pudhumai Penn Portal",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "pudhumai-penn",
+      "entryName": "Pudhumai Penn (Moovalur Ramamirtham Scheme)",
+      "sourceUrl": "https://spc.tn.gov.in/evaluation-of-pudhumai-penn-scheme/",
+      "sourceTitle": "SPC Evaluation",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "breakfast-scheme",
+      "entryName": "Chief Minister's Breakfast Scheme",
+      "sourceUrl": "https://spc.tn.gov.in/chief-ministers-breakfast-scheme/",
+      "sourceTitle": "SPC Evaluation",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "noon-meal",
+      "entryName": "Puratchi Thalaivar MGR Nutritious Meal Programme",
+      "sourceUrl": "https://middaymeal.tn.gov.in/",
+      "sourceTitle": "Mid Day Meal Portal",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "overseas-scholarship",
+      "entryName": "Overseas Scholarship Schemes",
+      "sourceUrl": "https://bcmbcmw.tn.gov.in/welfschemes.htm",
+      "sourceTitle": "BC/MBC Welfare Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "infrastructure",
+      "entryName": "School Infrastructure Development",
+      "sourceUrl": "https://www.tnbudget.tn.gov.in/tnweb_files/budget%20highlights/HIGHLIGHTS%20ENG%202024_25.pdf",
+      "sourceTitle": "TN Budget 2024-25",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "education-loans",
+      "entryName": "Education Loan Facilitation",
+      "sourceUrl": "https://www.tnbudget.tn.gov.in/tnweb_files/BS_2024_25_ENG_FINAL.pdf",
+      "sourceTitle": "TN Budget 2024-25",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "education.json",
+      "entryId": "state-education-policy",
+      "entryName": "TN State Education Policy 2025",
+      "sourceUrl": "https://www.tnbudget.tn.gov.in/tnweb_files/BS_2025_26_ENG_FINAL.pdf",
+      "sourceTitle": "TN Budget 2025-26",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "JAL-JEEVAN-MISSION-TN",
+      "entryName": "Jal Jeevan Mission - Tamil Nadu Rural Water Supply",
+      "sourceUrl": "https://spc.tn.gov.in/jal-jeevan-mission/",
+      "sourceTitle": "JJM Tamil Nadu - State Portal",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "PUMPED-STORAGE-KUNDAH",
+      "entryName": "Pumped Storage Project - Kundah (500 MW)",
+      "sourceUrl": "https://investingintamilnadu.com/DIGIGOV/TN-pages/individual-sector.jsp?pagedisp=static&sector=focus_renewable_energy",
+      "sourceTitle": "Investing in Tamil Nadu - Renewable Energy",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "MADURAI-METRO-DPR",
+      "entryName": "Madurai Metro Rapid Transit System (DPR Phase)",
+      "sourceUrl": "https://www.smartcities.gov.in/",
+      "sourceTitle": "Madurai Smart City - Metro DPR",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "SHOLINGANALLUR-STP",
+      "entryName": "Sholinganallur Sewage Treatment Plant (36 MLD)",
+      "sourceUrl": "https://www.chennaimetrowater.tn.gov.in/",
+      "sourceTitle": "CMWSSB - Sewage Projects",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "infrastructure.json",
+      "entryId": "KODUNGAIYUR-STP-UPGRADE",
+      "entryName": "Kodungaiyur STP Capacity Upgrade (110 MLD)",
+      "sourceUrl": "https://www.chennaimetrowater.tn.gov.in/",
+      "sourceTitle": "CMWSSB - STP Projects",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "magalir-urimai",
+      "entryName": "Kalaignar Magalir Urimai Thogai",
+      "sourceUrl": "https://spc.tn.gov.in/kalaignar-magalir-urimai-thittam/",
+      "sourceTitle": "SPC Page",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "vidiyal-payanam",
+      "entryName": "Vidiyal Payanam",
+      "sourceUrl": "https://spc.tn.gov.in/vidiyal-payanam-scheme/",
+      "sourceTitle": "SPC Vidiyal Payanam",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "old-age-pension",
+      "entryName": "Old Age Pension",
+      "sourceUrl": "https://tnpensioner.tn.gov.in/pensionportal/Schemes.aspx",
+      "sourceTitle": "TN Pensioner Portal",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "pds",
+      "entryName": "Universal Public Distribution System",
+      "sourceUrl": "https://consumer.tn.gov.in/pds_outline.htm",
+      "sourceTitle": "Consumer Protection Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "sc-st-welfare",
+      "entryName": "SC/ST Welfare Programs",
+      "sourceUrl": "https://tnadtwscholarship.tn.gov.in/",
+      "sourceTitle": "ADW Scholarship Portal",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "minority-welfare",
+      "entryName": "Minority Welfare Schemes",
+      "sourceUrl": "https://bcmbcmw.tn.gov.in/welfschemes_minorities.htm",
+      "sourceTitle": "BCMBC Minorities Welfare",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "minority-welfare",
+      "entryName": "Minority Welfare Schemes",
+      "sourceUrl": "https://bcmbcmw.tn.gov.in/",
+      "sourceTitle": "BCMBCMW Official",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "vizhuthugal",
+      "entryName": "Vizhuthugal (Roots) - Integrated Rehabilitation Service Centers",
+      "sourceUrl": "https://scd.tn.gov.in/",
+      "sourceTitle": "Commissionerate for Welfare of Differently Abled",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "iyothee-thass-habitation",
+      "entryName": "Iyothee Thass Pandithar Habitation Development Scheme",
+      "sourceUrl": "https://www.tnadw.in/iyothe_dhass",
+      "sourceTitle": "TN Adi Dravidar Welfare Department",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "socialWelfare.json",
+      "entryId": "integrated-disability-service-centers",
+      "entryName": "105 Integrated Service Centers for Persons with Disabilities",
+      "sourceUrl": "https://scd.tn.gov.in/",
+      "sourceTitle": "Commissionerate for Welfare of Differently Abled",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "environment.json",
+      "entryId": "renewable-target",
+      "entryName": "Renewable Energy 20GW Target",
+      "sourceUrl": "https://spc.tn.gov.in/annualplan/chapter11-2.htm",
+      "sourceTitle": "SPC Chapter",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "environment.json",
+      "entryId": "bess-pumped-hydro",
+      "entryName": "Battery Energy Storage (BESS)",
+      "sourceUrl": "https://www.tangedco.gov.in",
+      "sourceTitle": "TANGEDCO",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "environment.json",
+      "entryId": "ev-policy",
+      "entryName": "Electric Vehicle Policy 2023",
+      "sourceUrl": "https://spc.tn.gov.in/policy/electric-vehicles-policy-2023/",
+      "sourceTitle": "EV Policy SPC",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "environment.json",
+      "entryId": "solar-rooftop",
+      "entryName": "Solar Rooftop Program",
+      "sourceUrl": "https://www.tangedco.gov.in/usrp/index.html",
+      "sourceTitle": "TANGEDCO Rooftop Solar",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "environment.json",
+      "entryId": "green-hydrogen",
+      "entryName": "Green Hydrogen Hub",
+      "sourceUrl": "https://investingintamilnadu.com",
+      "sourceTitle": "Guidance TN",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "delta-agro-industrial-corridor",
+      "entryName": "Delta Agro Industrial Corridor",
+      "sourceUrl": "https://www.tnapex.tn.gov.in/ords/r/wstnapex/tnapex173136/agro-industrial?session=409668592457",
+      "sourceTitle": "TN APEX - Agro-Industrial",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "kuruvai-cultivation-package",
+      "entryName": "Kuruvai Paddy Cultivation Special Package",
+      "sourceUrl": "https://www.dailypioneer.com/2025/india/tamil-nadu-government-announces-special-package-for-paddy-growers.html",
+      "sourceTitle": "Daily Pioneer - Special Package for Paddy Growers",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "kuruvai-cultivation-package",
+      "entryName": "Kuruvai Paddy Cultivation Special Package",
+      "sourceUrl": "https://www.tnpscthervupettagam.com/currentaffairs-detail/kuruvai-coverage-2025/",
+      "sourceTitle": "TNPSC Thervupettagam - Kuruvai Coverage 2025",
+      "status": "timeout",
+      "reason": "Request timed out"
+    },
+    {
+      "file": "agriculture.json",
+      "entryId": "tractor-rental-scheme",
+      "entryName": "Tractor Rental and Training Scheme",
+      "sourceUrl": "https://www.tnpscthervupettagam.com/articles-detail/recent-tamil-nadu-government-schemes-part-09/?cat=gk-articles",
+      "sourceTitle": "TNPSC Thervupettagam - Recent TN Schemes Part 9",
+      "status": "timeout",
+      "reason": "Request timed out"
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "music-dance",
+      "entryName": "Classical Arts Promotion",
+      "sourceUrl": "https://artandculture.tn.gov.in/",
+      "sourceTitle": "Art & Culture Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "film-awards",
+      "entryName": "Tamil Nadu State Film Awards",
+      "sourceUrl": "https://artandculture.tn.gov.in/",
+      "sourceTitle": "Art & Culture Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "cm-mini-stadiums",
+      "entryName": "CM Mini Stadiums Scheme",
+      "sourceUrl": "https://www.devdiscourse.com/article/sports-games/3723873-tamil-nadus-mini-stadium-project-takes-off-a-sporting-revolution",
+      "sourceTitle": "DevDiscourse",
+      "status": "timeout",
+      "reason": "Request timed out"
+    },
+    {
+      "file": "sportsCulture.json",
+      "entryId": "kalaignar-sports-kit-scheme",
+      "entryName": "Kalaignar Sports Kit Scheme",
+      "sourceUrl": "https://www.govtschemes.in/tamil-nadu-kalaignar-sports-kit-scheme",
+      "sourceTitle": "Govt Schemes India",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "startup-tn",
+      "entryName": "StartupTN Ecosystem",
+      "sourceUrl": "https://www.msmetamilnadu.tn.gov.in/tansim.php",
+      "sourceTitle": "TANSIM Official",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "startup-tn",
+      "entryName": "StartupTN Ecosystem",
+      "sourceUrl": "https://itnthub.tn.gov.in/",
+      "sourceTitle": "iTNT Hub",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "startup-tn",
+      "entryName": "StartupTN Ecosystem",
+      "sourceUrl": "https://spc.tn.gov.in/policy/tamil-nadu-startup-and-innovation-policy-2023/",
+      "sourceTitle": "Startup Policy SPC",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "women-employment",
+      "entryName": "Women Employment & Safety Project",
+      "sourceUrl": "https://new.tamilnadumahalir.org/",
+      "sourceTitle": "TN Mahalir Thittam",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "msme-support",
+      "entryName": "MSME Support & Incentives",
+      "sourceUrl": "https://www.msmetamilnadu.tn.gov.in/",
+      "sourceTitle": "MSME TN Portal",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "skill-labs",
+      "entryName": "School Skill Labs",
+      "sourceUrl": "https://skilltraining.tn.gov.in/",
+      "sourceTitle": "Skill Training TN",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "industrial-investments",
+      "entryName": "Industrial Investments & MoUs",
+      "sourceUrl": "https://investingintamilnadu.com/DIGIGOV/TN-pages/guidance.jsp?pagedisp=static",
+      "sourceTitle": "Guidance TN",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "employment.json",
+      "entryId": "apprenticeship",
+      "entryName": "Apprenticeship Programs",
+      "sourceUrl": "https://skilltraining.tn.gov.in/apprenticeship.html",
+      "sourceTitle": "Apprenticeship Portal",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "porunai",
+      "entryName": "Porunai (Thamiraparani) Civilization",
+      "sourceUrl": "https://tnarch.gov.in/",
+      "sourceTitle": "TN Archaeology Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "mayiladumparai",
+      "entryName": "Mayiladumparai Iron Age Discovery",
+      "sourceUrl": "https://tnarch.gov.in/",
+      "sourceTitle": "TN Archaeology Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "adichanallur",
+      "entryName": "Adichanallur Iconic Site Museum",
+      "sourceUrl": "https://tnarch.gov.in/",
+      "sourceTitle": "TN Archaeology Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "harappan-research",
+      "entryName": "Indus Script Decipherment Prize",
+      "sourceUrl": "https://tnarch.gov.in/",
+      "sourceTitle": "TN Archaeology Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "tamil-museum",
+      "entryName": "Tamil Heritage Museums",
+      "sourceUrl": "https://tnarch.gov.in/",
+      "sourceTitle": "TN Archaeology Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    },
+    {
+      "file": "tamilHistory.json",
+      "entryId": "sangam-literature",
+      "entryName": "Sangam Literature Digitization",
+      "sourceUrl": "https://tnarch.gov.in/",
+      "sourceTitle": "TN Archaeology Dept",
+      "status": "error",
+      "reason": "fetch failed"
+    }
+  ]
+}

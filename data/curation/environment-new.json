@@ -1,0 +1,472 @@
+{
+  "curated_date": "2026-02-18",
+  "existing_count": 12,
+  "extracted_count": 23,
+  "duplicates": [
+    {
+      "extracted_name": "Greenko Pumped Storage Hydro Projects",
+      "existing_id": "bess-pumped-hydro",
+      "reason": "Already covered under Battery Energy Storage (BESS) entry"
+    },
+    {
+      "extracted_name": "TN Climate Change Governing Council - Net Zero",
+      "existing_id": "climate-action",
+      "reason": "Already covered under TN Climate Change Mission"
+    },
+    {
+      "extracted_name": "Tamil Nadu Climate Change Initiatives",
+      "existing_id": "climate-action",
+      "reason": "Aggregate data already in climate-action entry"
+    },
+    {
+      "extracted_name": "Green Tamil Nadu - 1 Lakh Trees in SIPCOTs",
+      "existing_id": "afforestation",
+      "reason": "Part of Green Tamil Nadu Mission"
+    },
+    {
+      "extracted_name": "Olive Ridley Turtle Conservation Program",
+      "existing_id": null,
+      "reason": "Duplicate of Marine Elite Force entry - same initiative"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "Yelagiri-Jalagamparai Community Eco-Tourism Trail",
+      "reason": "Aggregate - includes multiple projects (75 Emerald Gardens, fishing net collection center, integrated environmental monitoring center)"
+    },
+    {
+      "name": "Abandoned Fishing Net Collection Centers and Flamingo Sanctuary",
+      "reason": "Aggregate - combines two separate projects; Flamingo Sanctuary curated separately"
+    },
+    {
+      "name": "Cyclone Fengal Relief Fund Request",
+      "reason": "Emergency relief request to Central Government, not a scheme or initiative"
+    },
+    {
+      "name": "Forest Ranger Patrol Vehicles",
+      "reason": "Small operational procurement (32 vehicles for Rs 2.93 crore), not a significant policy initiative"
+    },
+    {
+      "name": "Electric Auto Distribution to Women SHGs",
+      "reason": "Small distribution event (50 autos), better categorized under women welfare than environment"
+    },
+    {
+      "name": "Zoological Parks Funding",
+      "reason": "Budget allocation announcement, not a specific scheme - generic funding for 4 zoos"
+    },
+    {
+      "name": "TN Pollution Control Board R&D Centre",
+      "reason": "Unable to verify details - insufficient data from official sources"
+    }
+  ],
+  "new_entries": [
+    {
+      "id": "sea-turtle-conservation-centre",
+      "name": {
+        "en": "Tamil Nadu Sea Turtle Conservation Centre",
+        "ta": "தமிழ்நாடு கடல் ஆமை பாதுகாப்பு மையம்"
+      },
+      "description": {
+        "en": "Tamil Nadu's first dedicated sea turtle conservation centre at Guindy, Chennai. Developed as a Centre of Excellence under TN-SHORE (Sustainably Harnessing Ocean Resources and Blue Economy) Project with World Bank support. Features scientific research facilities including telemetry tracking, data management systems, training hub for forest staff and researchers, and public education platform.",
+        "ta": "கிண்டியில் தமிழ்நாட்டின் முதல் கடல் ஆமை பாதுகாப்பு மையம். உலக வங்கி ஆதரவுடன் TN-SHORE திட்டத்தின் கீழ் சிறப்பு மையமாக உருவாக்கப்படுகிறது. தொலை நுட்ப கண்காணிப்பு, தரவு மேலாண்மை, பயிற்சி மையம் மற்றும் பொது விழிப்புணர்வு தளம் உள்ளிட்ட வசதிகள்."
+      },
+      "launchDate": "February 6, 2026",
+      "beneficiaries": {
+        "count": "Sea turtle population",
+        "description": {
+          "en": "Olive Ridley and other sea turtle species along Tamil Nadu coast",
+          "ta": "தமிழ்நாடு கடற்கரையில் ஆலிவ் ரிட்லி மற்றும் பிற கடல் ஆமை இனங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 14.50 crore",
+        "details": "Funded under TN-SHORE Project with World Bank support"
+      },
+      "highlights": [
+        { "en": "Tamil Nadu's first dedicated sea turtle conservation centre", "ta": "தமிழ்நாட்டின் முதல் கடல் ஆமை பாதுகாப்பு மையம்" },
+        { "en": "Satellite telemetry for turtle tracking", "ta": "ஆமை கண்காணிப்புக்கான செயற்கைக்கோள் தொலைநுட்பம்" },
+        { "en": "Training hub for forest staff and researchers", "ta": "வன ஊழியர்கள் மற்றும் ஆராய்ச்சியாளர்களுக்கான பயிற்சி மையம்" },
+        { "en": "World Bank funded under TN-SHORE Project", "ta": "TN-SHORE திட்டத்தின் கீழ் உலக வங்கி நிதியுதவி" }
+      ],
+      "icon": "🐢",
+      "sources": [
+        { "title": "News Today - Sea Turtle Conservation Centre", "url": "https://newstodaynet.com/2026/02/07/stalin-lays-foundation-for-sea-turtle-conservation-centre/", "type": "media" },
+        { "title": "Supriya Sahu IAS Twitter", "url": "https://x.com/supriyasahuias/status/2019754641106538707", "type": "government" }
+      ]
+    },
+    {
+      "id": "sipcot-navalur-eco-park",
+      "name": {
+        "en": "SIPCOT Navalur Lake Eco Park",
+        "ta": "சிப்காட் நாவலூர் ஏரி சுற்றுச்சூழல் பூங்கா"
+      },
+      "description": {
+        "en": "Environmental park within Siruseri SIPCOT IT Park complex, transforming the previously neglected 33.43-acre Navalur lake into a green oasis. Features walking and cycling tracks, environmental knowledge centre, bird-watching point, open-air theatre, outdoor gym, and sewage treatment plant for groundwater recharge.",
+        "ta": "சிருசேரி சிப்காட் ஐடி பார்க் வளாகத்தில் சுற்றுச்சூழல் பூங்கா. 33.43 ஏக்கர் நாவலூர் ஏரியை பசுமை சோலையாக மாற்றியது. நடைபாதை, சைக்கிள் பாதை, சுற்றுச்சூழல் அறிவு மையம், பறவை பார்வை புள்ளி போன்ற வசதிகள்."
+      },
+      "launchDate": "February 2, 2026",
+      "beneficiaries": {
+        "count": "IT professionals and residents",
+        "description": {
+          "en": "Siruseri IT Park employees and surrounding communities",
+          "ta": "சிருசேரி ஐடி பார்க் ஊழியர்கள் மற்றும் சுற்றியுள்ள சமூகங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 30 crore",
+        "details": "Lake restoration and infrastructure development"
+      },
+      "highlights": [
+        { "en": "33.43-acre lake restoration with desilting", "ta": "33.43 ஏக்கர் ஏரி மீட்பு மற்றும் தூர் வாரல்" },
+        { "en": "Walking and cycling tracks", "ta": "நடைபாதை மற்றும் சைக்கிள் பாதைகள்" },
+        { "en": "Environmental knowledge centre and bird-watching point", "ta": "சுற்றுச்சூழல் அறிவு மையம் மற்றும் பறவை பார்வை புள்ளி" },
+        { "en": "Sewage treatment plant for groundwater recharge", "ta": "நிலத்தடி நீர் மறுசுழற்சிக்கான கழிவுநீர் சுத்திகரிப்பு நிலையம்" }
+      ],
+      "icon": "🏞️",
+      "sources": [
+        { "title": "News Today - Navalur Eco Park", "url": "https://newstodaynet.com/2026/02/03/stalin-inaugurates-navalur-eco-park/", "type": "media" },
+        { "title": "Devdiscourse", "url": "https://www.devdiscourse.com/article/science-environment/3790725-revitalized-navalur-lake-a-green-oasis-in-siruseri-it-park", "type": "media" }
+      ]
+    },
+    {
+      "id": "circular-economy-policy",
+      "name": {
+        "en": "Tamil Nadu Circular Economy Investment Policy 2026",
+        "ta": "தமிழ்நாடு வட்ட பொருளாதார முதலீட்டுக் கொள்கை 2026"
+      },
+      "description": {
+        "en": "Comprehensive policy promoting recycling, reuse, and circular manufacturing across textiles, automobiles, electronics, and plastics sectors. Aligns with EU CBAM, EUDR, Ecodesign regulations, and Digital Product Passport standards. Offers 10% capital subsidy for eligible investments in advanced recycling technologies.",
+        "ta": "ஜவுளி, வாகனம், மின்னணு மற்றும் பிளாஸ்டிக் துறைகளில் மறுசுழற்சி, மறுபயன்பாடு மற்றும் வட்ட உற்பத்தியை ஊக்குவிக்கும் விரிவான கொள்கை. EU CBAM, EUDR தரங்களுக்கு இணங்குதல். தகுதியான முதலீடுகளுக்கு 10% மூலதன மானியம்."
+      },
+      "launchDate": "January 13, 2026",
+      "beneficiaries": {
+        "count": "Manufacturing sector",
+        "description": {
+          "en": "Industries in textiles, automobiles, electronics, and plastics recycling",
+          "ta": "ஜவுளி, வாகனம், மின்னணு மற்றும் பிளாஸ்டிக் மறுசுழற்சி தொழில்கள்"
+        }
+      },
+      "budget": {
+        "amount": "10% capital subsidy",
+        "details": "Up to Rs 3 crore per eligible investment (min Rs 20 crore investment, 25 jobs)"
+      },
+      "highlights": [
+        { "en": "First Circular Economy Investment Policy in India", "ta": "இந்தியாவில் முதல் வட்ட பொருளாதார முதலீட்டுக் கொள்கை" },
+        { "en": "Aligns with EU CBAM and EUDR compliance", "ta": "EU CBAM மற்றும் EUDR இணக்கம்" },
+        { "en": "Covers textile, auto, e-waste, and solar PV recycling", "ta": "ஜவுளி, வாகனம், மின்-கழிவு, சோலார் பேனல் மறுசுழற்சி" },
+        { "en": "Supports AI-powered sorting and chemical recycling", "ta": "AI வகைப்படுத்தல் மற்றும் இரசாயன மறுசுழற்சி ஆதரவு" }
+      ],
+      "icon": "♻️",
+      "sources": [
+        { "title": "Industrial Economist", "url": "https://industrialeconomist.com/what-tns-circular-economy-investment-policy-offers/", "type": "media" },
+        { "title": "Usthadian Academy", "url": "https://www.usthadian.com/tamil-nadu-circular-economy-investment-policy-2026/", "type": "media" }
+      ]
+    },
+    {
+      "id": "guindy-eco-park",
+      "name": {
+        "en": "Guindy Eco Park",
+        "ta": "கிண்டி சுற்றுச்சூழல் பூங்கா"
+      },
+      "description": {
+        "en": "Chennai's largest urban park being developed on 118 acres at the former Guindy Race Course. Features 25 ecological attractions, massive water tanks for groundwater recharge, and flood prevention infrastructure. Land recovered from Chennai Race Club after Rs 730 crore rent default.",
+        "ta": "முன்னாள் கிண்டி பந்தய மைதானத்தில் 118 ஏக்கரில் சென்னையின் மிகப்பெரிய நகர்ப்புற பூங்கா. 25 சுற்றுச்சூழல் அம்சங்கள், நிலத்தடி நீர் மறுசுழற்சி தொட்டிகள் மற்றும் வெள்ள தடுப்பு உள்கட்டமைப்பு."
+      },
+      "launchDate": "November 1, 2025 (Phase 1)",
+      "beneficiaries": {
+        "count": "Chennai residents",
+        "description": {
+          "en": "South Chennai neighbourhoods and city-wide visitors",
+          "ta": "தெற்கு சென்னை பகுதிகள் மற்றும் நகரம் முழுவதும் பார்வையாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 4,832 crore",
+        "details": "118-acre project with 25 ecological attractions"
+      },
+      "highlights": [
+        { "en": "Chennai's largest urban park at 118 acres", "ta": "118 ஏக்கரில் சென்னையின் மிகப்பெரிய நகர்ப்புற பூங்கா" },
+        { "en": "25 distinct ecological attractions", "ta": "25 தனித்துவமான சுற்றுச்சூழல் அம்சங்கள்" },
+        { "en": "13 million cubic litres water storage capacity", "ta": "13 மில்லியன் கன லிட்டர் நீர் சேமிப்பு திறன்" },
+        { "en": "Flood prevention for South Chennai", "ta": "தெற்கு சென்னைக்கு வெள்ள தடுப்பு" }
+      ],
+      "icon": "🌳",
+      "sources": [
+        { "title": "News9 Live", "url": "https://www.news9live.com/state/tamil-nadu/chennai-to-get-indias-biggest-urban-park-tamil-nadu-govt-plans-118-acre-rs-4832-crore-project-with-25-facilities-2871562", "type": "media" },
+        { "title": "The Print", "url": "https://theprint.in/india/cm-stalin-launches-first-phase-of-118-acre-environmental-park-in-chennai/2775332/", "type": "media" }
+      ]
+    },
+    {
+      "id": "marine-elite-force",
+      "name": {
+        "en": "Marine Elite Force - Olive Ridley Protection",
+        "ta": "கடல் உயர்படை - ஆலிவ் ரிட்லி ஆமை பாதுகாப்பு"
+      },
+      "description": {
+        "en": "Dedicated Marine Elite Force to protect Olive Ridley turtles from fishing net entanglement deaths. Includes Rs 84 lakh satellite tagging project to track 20 turtles and 10,000 flipper tags. Team comprises local fishing community personnel equipped with patrol boats, underwater drones, and body cameras.",
+        "ta": "மீன்பிடி வலையில் சிக்கி இறப்பதைத் தடுக்க ஆலிவ் ரிட்லி ஆமைகளைப் பாதுகாக்கும் கடல் உயர்படை. 20 ஆமைகளை கண்காணிக்க ரூ 84 லட்சம் செயற்கைக்கோள் டேக்கிங் திட்டம். ரோந்து படகுகள், நீருக்கடியில் ட்ரோன்கள் உள்ளிட்ட நவீன உபகரணங்கள்."
+      },
+      "launchDate": "October 22, 2025",
+      "beneficiaries": {
+        "count": "Olive Ridley turtle population",
+        "description": {
+          "en": "Chennai coast and Cauvery Delta nesting sites",
+          "ta": "சென்னை கடற்கரை மற்றும் காவிரி டெல்டா முட்டையிடும் இடங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 96 lakh (MEF) + Rs 84 lakh (tracking)",
+        "details": "Two-year satellite tracking study (2025-2027)"
+      },
+      "highlights": [
+        { "en": "First Marine Elite Force in Tamil Nadu", "ta": "தமிழ்நாட்டின் முதல் கடல் உயர்படை" },
+        { "en": "20 turtles with satellite transmitters", "ta": "20 ஆமைகளுக்கு செயற்கைக்கோள் டிரான்ஸ்மிட்டர்கள்" },
+        { "en": "10,000 flipper tags for monitoring", "ta": "கண்காணிப்புக்கு 10,000 ஃபிளிப்பர் டேக்குகள்" },
+        { "en": "Response to 1,308 turtle deaths from net entanglement", "ta": "1,308 ஆமை இறப்புகளுக்கு பதில் நடவடிக்கை" }
+      ],
+      "icon": "🚤",
+      "sources": [
+        { "title": "Devdiscourse", "url": "https://www.devdiscourse.com/article/science-environment/3735115-tamil-nadu-strengthens-marine-conservation-with-elite-force", "type": "media" },
+        { "title": "New Kerala", "url": "https://www.newkerala.com/news/o/tn-launches-rs-84-lakh-project-track-olive-ridley-turtles-507", "type": "media" }
+      ]
+    },
+    {
+      "id": "mahout-village-anaimalai",
+      "name": {
+        "en": "Elephant Mahout Village - Anaimalai Tiger Reserve",
+        "ta": "யானைப்பாகர் கிராமம் - ஆனைமலை புலிகள் காப்பகம்"
+      },
+      "description": {
+        "en": "India's second dedicated Mahout Village at Kozhikamuthi Elephant Camp in Anaimalai Tiger Reserve. Houses 47 staff quarters for Malasar tribal community mahouts and kavadis caring for 20+ elephants. Features solar-powered micro-grid with Battery Energy Storage System.",
+        "ta": "ஆனைமலை புலிகள் காப்பகத்தில் கொழிகமுத்தி யானை முகாமில் இந்தியாவின் இரண்டாவது மகவுட் கிராமம். 20+ யானைகளை பராமரிக்கும் மலசர் பழங்குடி பாகர்கள் மற்றும் கவாடிகளுக்கு 47 குடியிருப்புகள். சோலார் மின் மைக்ரோ-கிரிட் வசதி."
+      },
+      "launchDate": "October 6, 2025",
+      "beneficiaries": {
+        "count": "47 mahout families",
+        "description": {
+          "en": "Malasar tribal community elephant caretakers",
+          "ta": "மலசர் பழங்குடி சமூக யானை பராமரிப்பாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 5.40 crore (village) + Rs 3.5 crore (solar)",
+        "details": "47 staff quarters with solar micro-grid"
+      },
+      "highlights": [
+        { "en": "India's second dedicated Mahout Village", "ta": "இந்தியாவின் இரண்டாவது மகவுட் கிராமம்" },
+        { "en": "47 staff quarters for tribal mahouts", "ta": "பழங்குடி பாகர்களுக்கு 47 குடியிருப்புகள்" },
+        { "en": "124 kWp solar plant with 516 kWh battery storage", "ta": "124 kWp சோலார் ஆலை மற்றும் 516 kWh பேட்டரி சேமிப்பு" },
+        { "en": "Follows first village at Theppakadu, Mudumalai", "ta": "முதுமலை தெப்பக்காட்டில் முதல் கிராமத்தைத் தொடர்ந்து" }
+      ],
+      "icon": "🐘",
+      "sources": [
+        { "title": "Deccan Herald", "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadus-second-mahout-village-opened-in-anamalai-tiger-reserve-3754592", "type": "media" },
+        { "title": "Devdiscourse", "url": "https://www.devdiscourse.com/article/entertainment/3654488-tamil-nadu-unveils-indias-second-eco-friendly-mahout-village", "type": "media" }
+      ]
+    },
+    {
+      "id": "tholkapiyar-park-renovation",
+      "name": {
+        "en": "Tholkappia Poonga Renovation",
+        "ta": "தொல்காப்பியர் பூங்கா புனரமைப்பு"
+      },
+      "description": {
+        "en": "Complete redevelopment of the historic Tholkappia Poonga eco-park in Raja Annamalaipuram, originally opened in 2011. Features new entrance gate, observation tower, visitor pavilion, 3.2 km walking track, children's play area, CCTV surveillance, and skywalk connection to Santhome Road.",
+        "ta": "ராஜா அண்ணாமலைபுரத்தில் 2011-ல் திறக்கப்பட்ட தொல்காப்பியர் சுற்றுச்சூழல் பூங்காவின் முழுமையான புனரமைப்பு. புதிய நுழைவாயில், கண்காணிப்பு கோபுரம், 3.2 கி.மீ நடைபாதை, குழந்தைகள் விளையாட்டு பகுதி, சாந்தோம் சாலைக்கு ஸ்கைவாக் இணைப்பு."
+      },
+      "launchDate": "October 1, 2025",
+      "beneficiaries": {
+        "count": "Chennai residents",
+        "description": {
+          "en": "Visitors to the eco-park in Raja Annamalaipuram area",
+          "ta": "ராஜா அண்ணாமலைபுரம் பகுதியில் சுற்றுச்சூழல் பூங்கா பார்வையாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 42.45 crore",
+        "details": "Complete renovation with modern amenities"
+      },
+      "highlights": [
+        { "en": "3.2 km walking track", "ta": "3.2 கி.மீ நடைபாதை" },
+        { "en": "New observation tower and visitor pavilion", "ta": "புதிய கண்காணிப்பு கோபுரம் மற்றும் பார்வையாளர் மண்டபம்" },
+        { "en": "Skywalk connection to Santhome Road", "ta": "சாந்தோம் சாலைக்கு ஸ்கைவாக் இணைப்பு" },
+        { "en": "Revival of 2011 eco-park with modern amenities", "ta": "2011 சுற்றுச்சூழல் பூங்காவின் நவீன வசதிகளுடன் புத்துயிர்" }
+      ],
+      "icon": "🌿",
+      "sources": [
+        { "title": "News Today", "url": "https://newstodaynet.com/2025/10/24/cm-stalin-inaugurates-revamped-tholkappia-poonga/", "type": "media" },
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tholkappia_Poonga", "type": "media" }
+      ]
+    },
+    {
+      "id": "ramsar-sites-ramanathapuram",
+      "name": {
+        "en": "Sakkarakottai & Therthangal Ramsar Sites",
+        "ta": "சக்கரைக்கோட்டை & தேர்த்தங்கல் ராம்சார் தளங்கள்"
+      },
+      "description": {
+        "en": "Two new Ramsar wetland designations in Ramanathapuram district, making Tamil Nadu the state with highest Ramsar sites (20) in India. Sakkarakottai (230.5 ha) supports 42 bird species including Spot-billed Pelican. Therthangal (29.3 ha) hosts 96 bird species across 18 orders and 44 families.",
+        "ta": "ராமநாதபுரம் மாவட்டத்தில் இரண்டு புதிய ராம்சார் ஈரநில அறிவிப்புகள். தமிழ்நாடு இந்தியாவில் அதிக ராம்சார் தளங்களைக் (20) கொண்ட மாநிலம். சக்கரைக்கோட்டை 42 பறவை இனங்களையும், தேர்த்தங்கல் 96 பறவை இனங்களையும் கொண்டுள்ளது."
+      },
+      "launchDate": "February 2, 2025",
+      "beneficiaries": {
+        "count": "96+ bird species",
+        "description": {
+          "en": "Migratory birds along Central Asian Flyway",
+          "ta": "மத்திய ஆசிய பறவை வழித்தடத்தில் வலசை பறவைகள்"
+        }
+      },
+      "budget": {
+        "amount": "Protected wetland status",
+        "details": "Conservation and ecotourism development"
+      },
+      "highlights": [
+        { "en": "Tamil Nadu leads India with 20 Ramsar sites", "ta": "தமிழ்நாடு 20 ராம்சார் தளங்களுடன் இந்தியாவில் முன்னிலை" },
+        { "en": "Sakkarakottai: 230.5 ha, 42 bird species", "ta": "சக்கரைக்கோட்டை: 230.5 ஹெக்டேர், 42 பறவை இனங்கள்" },
+        { "en": "Therthangal: 29.3 ha, 96 bird species", "ta": "தேர்த்தங்கல்: 29.3 ஹெக்டேர், 96 பறவை இனங்கள்" },
+        { "en": "Critical stopover on Central Asian Flyway", "ta": "மத்திய ஆசிய பறவை வழித்தடத்தில் முக்கிய தங்கும் இடம்" }
+      ],
+      "icon": "🦩",
+      "sources": [
+        { "title": "Ramsar Sites Information Service", "url": "https://rsis.ramsar.org/ris/2561", "type": "government" },
+        { "title": "Usthadian Academy", "url": "https://www.usthadian.com/tamil-nadu-adds-two-more-ramsar-sites-retains-national-lead-in-wetland-conservation/", "type": "media" }
+      ]
+    },
+    {
+      "id": "greater-flamingo-sanctuary",
+      "name": {
+        "en": "Greater Flamingo Sanctuary - Dhanushkodi",
+        "ta": "பூநாரை சரணாலயம் - தனுஷ்கோடி"
+      },
+      "description": {
+        "en": "Tamil Nadu's newest wildlife sanctuary at Dhanushkodi, spanning 524.7 hectares within the Gulf of Mannar Biosphere Reserve. Home to 128 bird species including flamingos, herons, sandpipers, and egrets. Supports mangroves, mudflats, sea turtle nesting, and marine biodiversity.",
+        "ta": "மன்னார் வளைகுடா உயிர்க்கோள காப்பகத்தில் 524.7 ஹெக்டேரில் தனுஷ்கோடியில் தமிழ்நாட்டின் புதிய வனவிலங்கு சரணாலயம். பூநாரை, நாரை, மணல்குருவிகள் உள்ளிட்ட 128 பறவை இனங்கள். கடல் ஆமை முட்டையிடும் இடங்கள்."
+      },
+      "launchDate": "June 5, 2025",
+      "beneficiaries": {
+        "count": "128 bird species",
+        "description": {
+          "en": "Migratory wetland birds and marine life",
+          "ta": "வலசை ஈரநில பறவைகள் மற்றும் கடல் உயிரினங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Conservation funding",
+        "details": "Ecotourism and local employment generation"
+      },
+      "highlights": [
+        { "en": "524.7 hectares within Gulf of Mannar Biosphere", "ta": "மன்னார் வளைகுடா உயிர்க்கோளத்தில் 524.7 ஹெக்டேர்" },
+        { "en": "128 bird species including flamingos and herons", "ta": "பூநாரை மற்றும் நாரை உள்ளிட்ட 128 பறவை இனங்கள்" },
+        { "en": "10,700+ wetland birds recorded in 2023-24 survey", "ta": "2023-24 கணக்கெடுப்பில் 10,700+ ஈரநில பறவைகள்" },
+        { "en": "Declared on World Environment Day 2025", "ta": "உலக சுற்றுச்சூழல் தினம் 2025 அன்று அறிவிக்கப்பட்டது" }
+      ],
+      "icon": "🦩",
+      "sources": [
+        { "title": "Insights on India", "url": "https://www.insightsonindia.com/2025/06/06/greater-flamingo-sanctuary-in-dhanushkodi/", "type": "media" },
+        { "title": "ADDA247 Current Affairs", "url": "https://currentaffairs.adda247.com/tamil-nadu-declares-dhanushkodi-as-greater-flamingo-sanctuary/", "type": "media" }
+      ]
+    },
+    {
+      "id": "semmozhi-park-coimbatore",
+      "name": {
+        "en": "Semmozhi Classical Language Park - Coimbatore",
+        "ta": "செம்மொழிப் பூங்கா - கோயம்புத்தூர்"
+      },
+      "description": {
+        "en": "45-acre themed park in Coimbatore featuring multiple ecological zones: Semmozhi Forest, Herbal Garden, Puzzle Garden, Health Forest, Water Forest, Rock Forest, Flower Garden, and Hill View area. Revival of a 15-year-old project with modern amenities.",
+        "ta": "கோயம்புத்தூரில் 45 ஏக்கர் தீம் பூங்கா. செம்மொழி காடு, மூலிகை தோட்டம், புதிர் தோட்டம், சுகாதார காடு, நீர் காடு, பாறை காடு, மலர் தோட்டம் மற்றும் மலைக்காட்சி பகுதிகள். 15 வருட பழைய திட்டத்தின் புத்துயிர்."
+      },
+      "launchDate": "November 25, 2025",
+      "beneficiaries": {
+        "count": "Coimbatore residents and tourists",
+        "description": {
+          "en": "Public park with ecological and recreational amenities",
+          "ta": "சுற்றுச்சூழல் மற்றும் பொழுதுபோக்கு வசதிகளுடன் பொது பூங்கா"
+        }
+      },
+      "budget": {
+        "amount": "Rs 208.50 crore",
+        "details": "45-acre park by Coimbatore City Municipal Corporation"
+      },
+      "highlights": [
+        { "en": "45-acre green space with 8 themed zones", "ta": "8 தீம் மண்டலங்களுடன் 45 ஏக்கர் பசுமை பகுதி" },
+        { "en": "Semmozhi Forest, Herbal Garden, Water Forest", "ta": "செம்மொழி காடு, மூலிகை தோட்டம், நீர் காடு" },
+        { "en": "Revival of 15-year-old project", "ta": "15 வருட பழைய திட்டத்தின் புத்துயிர்" },
+        { "en": "Opened to public from December 11, 2025", "ta": "டிசம்பர் 11, 2025 முதல் பொதுமக்களுக்கு திறப்பு" }
+      ],
+      "icon": "🌸",
+      "sources": [
+        { "title": "News9 Live", "url": "https://www.news9live.com/state/tamil-nadu/coimbatores-grand-rs-208-5-crore-semmozhi-park-opens-to-public-from-december-11-all-details-2910702", "type": "media" },
+        { "title": "News Today", "url": "https://newstodaynet.com/2025/11/26/cm-inaugurates-first-phase-of-semmozhi-poonga/", "type": "media" }
+      ]
+    },
+    {
+      "id": "kalaignar-centenary-park",
+      "name": {
+        "en": "Kalaignar Centenary Park",
+        "ta": "கலைஞர் நூற்றாண்டு பூங்கா"
+      },
+      "description": {
+        "en": "World-class park on 6.09 acres at Cathedral Road, Chennai, commemorating M. Karunanidhi's centenary. Features horticultural museum, Arctic hut, glass house, aviary with exotic birds, 500m zip line, art gallery, 120-feet snow path, and musical fountain.",
+        "ta": "சென்னை கதீட்ரல் சாலையில் 6.09 ஏக்கரில் கலைஞர் கருணாநிதியின் நூற்றாண்டை நினைவுகூரும் உலகத்தரம் வாய்ந்த பூங்கா. தோட்டக்கலை அருங்காட்சியகம், ஆர்க்டிக் குடிசை, கண்ணாடி வீடு, அயல்நாட்டு பறவைகள் கொண்ட பறவையகம், ஜிப் லைன், கலை கேலரி."
+      },
+      "launchDate": "October 7, 2024",
+      "beneficiaries": {
+        "count": "Chennai visitors",
+        "description": {
+          "en": "Public park opposite Semmozhi Park on Cathedral Road",
+          "ta": "கதீட்ரல் சாலையில் செம்மொழிப் பூங்காவுக்கு எதிரில் பொது பூங்கா"
+        }
+      },
+      "budget": {
+        "amount": "Rs 46 crore",
+        "details": "6.09-acre park with world-class amenities"
+      },
+      "highlights": [
+        { "en": "Horticultural museum with rare plant varieties", "ta": "அரிய தாவர வகைகளுடன் தோட்டக்கலை அருங்காட்சியகம்" },
+        { "en": "Arctic hut (2,600 sq.ft) and 120-feet snow path", "ta": "ஆர்க்டிக் குடிசை (2,600 சதுர அடி) மற்றும் 120 அடி பனிப்பாதை" },
+        { "en": "500m zip line and aviary with exotic birds", "ta": "500மீ ஜிப் லைன் மற்றும் அயல்நாட்டு பறவைகள் கொண்ட பறவையகம்" },
+        { "en": "16-metre high glass house", "ta": "16 மீட்டர் உயர கண்ணாடி வீடு" }
+      ],
+      "icon": "🎡",
+      "sources": [
+        { "title": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kalaignar_Centenary_Park", "type": "media" },
+        { "title": "Deccan Chronicle", "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/cm-m-k-stalin-inaugurates-new-park-1828803", "type": "media" }
+      ]
+    },
+    {
+      "id": "guindy-childrens-park-renovation",
+      "name": {
+        "en": "Guindy Children's Nature Park Renovation",
+        "ta": "கிண்டி சிறுவர் இயற்கை பூங்கா புனரமைப்பு"
+      },
+      "description": {
+        "en": "Renovation of the 22-acre Guindy Children's Park with state's largest aviary (30,000 sq.ft, 30-feet tall) housing Vedanthangal species like painted storks, white ibis, grey pelicans, and spoonbills. Funded through state budget and CSR contributions.",
+        "ta": "22 ஏக்கர் கிண்டி சிறுவர் பூங்காவின் புனரமைப்பு. வேடந்தாங்கல் பறவை இனங்களான வண்ண நாரை, வெள்ளை ஐபிஸ், சாம்பல் நாரை ஆகியவற்றைக் கொண்ட மாநிலத்தின் மிகப்பெரிய பறவையகம் (30,000 சதுர அடி, 30 அடி உயரம்)."
+      },
+      "launchDate": "August 3, 2024",
+      "beneficiaries": {
+        "count": "Children and families",
+        "description": {
+          "en": "Nature education and recreation for visitors",
+          "ta": "பார்வையாளர்களுக்கு இயற்கை கல்வி மற்றும் பொழுதுபோக்கு"
+        }
+      },
+      "budget": {
+        "amount": "Rs 30 crore",
+        "details": "Rs 20 crore state funds + CSR contributions"
+      },
+      "highlights": [
+        { "en": "State's largest aviary: 30,000 sq.ft, 30-feet tall", "ta": "மாநிலத்தின் மிகப்பெரிய பறவையகம்: 30,000 சதுர அடி, 30 அடி உயரம்" },
+        { "en": "Houses Vedanthangal species - painted storks, pelicans", "ta": "வேடந்தாங்கல் இனங்கள் - வண்ண நாரை, நாரை" },
+        { "en": "22-acre park with nature education focus", "ta": "இயற்கை கல்வி மையமாக 22 ஏக்கர் பூங்கா" },
+        { "en": "CSR funding model for conservation", "ta": "பாதுகாப்புக்கு CSR நிதியுதவி மாதிரி" }
+      ],
+      "icon": "🦜",
+      "sources": [
+        { "title": "News Today", "url": "https://newstodaynet.com/2024/08/05/stalin-inaugurates-renovated-childrens-nature-park/", "type": "media" },
+        { "title": "Wildlife Division Chennai", "url": "https://wlwchennai.tn.gov.in/guindy_children_park.html", "type": "government" }
+      ]
+    }
+  ]
+}

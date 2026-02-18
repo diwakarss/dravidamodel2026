@@ -1,0 +1,367 @@
+[
+  {
+    "tweet_id": "2019711519098069161",
+    "category": "environment",
+    "name_en": "Tamil Nadu Sea Turtle Conservation Centre",
+    "name_ta": "தமிழ்நாடு கடல் ஆமை பாதுகாப்பு மையம்",
+    "investment_crore": 14.5,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Guindy"
+    },
+    "event_type": "groundbreaking",
+    "date": "2026-02-06",
+    "summary_en": "CM laid foundation for Tamil Nadu's first sea turtle conservation centre at Rs 14.50 crore in Guindy."
+  },
+  {
+    "tweet_id": "2018242860642655437",
+    "category": "environment",
+    "name_en": "SIPCOT Navalur Lake Eco Park",
+    "name_ta": "சிப்காட் நாவலூர் ஏரி சுற்றுச்சூழல் பூங்கா",
+    "investment_crore": 30,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Siruseri"
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-02",
+    "summary_en": "CM inaugurated SIPCOT Navalur Lake Eco Park developed at Rs 30 crore on 33.43 acres with desilting, walking tracks, cycling paths and eco-knowledge centre."
+  },
+  {
+    "tweet_id": "2011308741417984359",
+    "category": "environment",
+    "name_en": "Tamil Nadu Circular Economy Policy",
+    "name_ta": "தமிழ்நாடு வட்ட பொருளாதாரக் கொள்கை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2026-01-13",
+    "summary_en": "CM launched Tamil Nadu Circular Economy Investment Policy 2026 promoting recycling, reuse and circular manufacturing across textiles, automobiles, electronics and plastics sectors."
+  },
+  {
+    "tweet_id": "2001261656773656696",
+    "category": "environment",
+    "name_en": "TN Climate Change Governing Council - Net Zero",
+    "name_ta": "தமிழ்நாடு காலநிலை மாற்ற ஆட்சி மன்றம்",
+    "investment_crore": 500,
+    "jobs_created": null,
+    "beneficiaries": "Environment",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2025-12-17",
+    "summary_en": "CM chaired 3rd TN Climate Change Governing Council meeting with Rs 500 crore allocated for climate initiatives, targeting Net Zero before 2070."
+  },
+  {
+    "tweet_id": "1984538725632917796",
+    "category": "environment",
+    "name_en": "Guindy Eco Park",
+    "name_ta": "கிண்டி சுற்றுச்சூழல் பூங்கா",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Chennai",
+      "city": "Guindy"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-11-01",
+    "summary_en": "CM inaugurated first phase works for 118-acre mega Eco Park in Guindy including waterfront restoration and rare tree planting."
+  },
+  {
+    "tweet_id": "1981036615184372115",
+    "category": "environment",
+    "name_en": "Olive Ridley Turtle Conservation - Marine Elite Force",
+    "name_ta": "ஆலிவ் ரிட்லி ஆமை பாதுகாப்பு - கடல் உயர்படை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Marine wildlife",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2025-10-22",
+    "summary_en": "Launch of two new Marine Elite Force units for Chennai region to protect Olive Ridley turtle nesting along with satellite tagging study of 10 turtles."
+  },
+  {
+    "tweet_id": "1975114515370197482",
+    "category": "environment",
+    "name_en": "Elephant Mahout Village - Anaimalai Tiger Reserve",
+    "name_ta": "யானைப்பாகர் கிராமம் - ஆனைமலை புலிகள் காப்பகம்",
+    "investment_crore": 5.4,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Kozhikamuthi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-06",
+    "summary_en": "India's second elephant mahout village with 47 staff quarters constructed at Rs 5.40 crore inaugurated at Anaimalai Tiger Reserve"
+  },
+  {
+    "tweet_id": "1975205516034105525",
+    "category": "environment",
+    "name_en": "Zoological Parks Funding",
+    "name_ta": "உயிரியல் பூங்காக்கள் நிதி ஒதுக்கீடு",
+    "investment_crore": 35,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-10-06",
+    "summary_en": "Rs 35 crore allocated for development of 4 zoological parks in Tamil Nadu"
+  },
+  {
+    "tweet_id": "1973305943157825969",
+    "category": "environment",
+    "name_en": "Tholkapiyar Park Renovation",
+    "name_ta": "தொல்காப்பியர் பூங்கா புனரமைப்பு",
+    "investment_crore": 42.45,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Raja Annamalaipuram"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-01",
+    "summary_en": "Tholkapiyar Park renovated at Rs 42.45 crore with modern entry gate, observation tower, visitor gallery and children's play area"
+  },
+  {
+    "tweet_id": "1930545100897255806",
+    "category": "environment",
+    "name_en": "TN Pollution Control Board R&D Centre",
+    "name_ta": "தமிழ்நாடு மாசு கட்டுப்பாடு வாரிய ஆராய்ச்சி மையம்",
+    "investment_crore": 44,
+    "jobs_created": null,
+    "beneficiaries": "Environmental researchers",
+    "location": {
+      "district": "Chennai",
+      "city": "Guindy"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-06-05",
+    "summary_en": "Foundation stone laid for Environmental Research and Development Centre"
+  },
+  {
+    "tweet_id": "1930568544028156152",
+    "category": "environment",
+    "name_en": "Abandoned Fishing Net Collection Centers and Flamingo Sanctuary",
+    "name_ta": "மீன்பிடி வலை சேகரிப்பு மையங்கள் மற்றும் பூநாரை சரணாலயம்",
+    "investment_crore": 1.75,
+    "jobs_created": null,
+    "beneficiaries": "14 coastal districts",
+    "location": {
+      "district": "Multiple",
+      "city": "Dhanushkodi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-05",
+    "summary_en": "Opened abandoned fishing net collection centers in 14 coastal districts and declared Greater Flamingo sanctuary at Dhanushkodi"
+  },
+  {
+    "tweet_id": "1922314568031768808",
+    "category": "environment",
+    "name_en": "Forest Ranger Patrol Vehicles",
+    "name_ta": "வன சரகர் ரோந்து வாகனங்கள்",
+    "investment_crore": 2.93,
+    "jobs_created": null,
+    "beneficiaries": "Forest rangers",
+    "location": {
+      "district": "Nilgiris",
+      "city": "Theppakadu"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-13",
+    "summary_en": "Launched 32 vehicles including 30 Bolero and 2 special patrol vehicles for forest rangers"
+  },
+  {
+    "tweet_id": "1898301425324880139",
+    "category": "environment",
+    "name_en": "Electric Auto Distribution to Women SHGs",
+    "name_ta": "நகர்ப்புற சுய உதவிக் குழு மகளிருக்கு 50 மின் ஆட்டோக்கள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "50 Urban SHG Women",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "distribution",
+    "date": "2025-03-08",
+    "summary_en": "CM distributed 50 electric autos to urban SHG women from Environment Department"
+  },
+  {
+    "tweet_id": "1885922738432618538",
+    "category": "environment",
+    "name_en": "Ramsar Site Designations",
+    "name_ta": "ராம்சார் தளங்கள் அறிவிப்பு",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Wildlife and environment conservation",
+    "location": {
+      "district": "Ramanathapuram",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-02-02",
+    "summary_en": "Two new Ramsar sites designated - Sakkarakottai and Therthangal Bird Sanctuaries in Ramanathapuram, making TN the state with highest Ramsar sites (20) in India."
+  },
+  {
+    "tweet_id": "1870072460248289310",
+    "category": "environment",
+    "name_en": "Green Tamil Nadu - 1 Lakh Trees in SIPCOTs",
+    "name_ta": "பசுமை தமிழ்நாடு - சிப்காட்களில் 1 லட்சம் மரங்கள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": "21 SIPCOT Parks"
+    },
+    "event_type": "other",
+    "date": "2024-12-20",
+    "summary_en": "1 lakh trees planted across 21 SIPCOT industrial parks in a single day as part of Green TN Mission to achieve 33% green cover."
+  },
+  {
+    "tweet_id": "1864658388707365098",
+    "category": "environment",
+    "name_en": "Tamil Nadu Climate Change Initiatives",
+    "name_ta": "தமிழ்நாடு காலநிலை மாற்ற முன்னெடுப்புகள்",
+    "investment_crore": 500,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-12-05",
+    "summary_en": "Climate change initiatives including 8.3 crore trees planted, 18 Ramsar sites, Rs 500 crore for rural water security, Net Zero 2070 roadmap."
+  },
+  {
+    "tweet_id": "1863596789556969928",
+    "category": "environment",
+    "name_en": "Cyclone Fengal Relief Fund Request",
+    "name_ta": "ஃபெஞ்சல் புயல் நிவாரண நிதி கோரிக்கை",
+    "investment_crore": 2000,
+    "jobs_created": null,
+    "beneficiaries": "1.5 crore affected people",
+    "location": {
+      "district": "14 districts",
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-12-02",
+    "summary_en": "Request for Rs 2000 crore from NDRF for emergency restoration after Cyclone Fengal affecting 1.5 crore people and 2.11 lakh hectares."
+  },
+  {
+    "tweet_id": "1854069285871878419",
+    "category": "environment",
+    "name_en": "Semmozhi Park Coimbatore",
+    "name_ta": "செம்மொழிப் பூங்கா கோயம்புத்தூர்",
+    "investment_crore": 167.25,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Gandhipuram"
+    },
+    "event_type": "other",
+    "date": "2024-11-06",
+    "summary_en": "First phase of 45-acre Semmozhi Park in 165-acre area with Rs 167.25 crore including themed gardens and open-air theatre."
+  },
+  {
+    "tweet_id": "1843308243550179522",
+    "category": "environment",
+    "name_en": "Kalaignar Centenary Park",
+    "name_ta": "கலைஞர் நூற்றாண்டு பூங்கா",
+    "investment_crore": 46,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-07",
+    "summary_en": "World-class park with horticulture museum, aviary, musical fountain, children's play area opened at Cathedral Road."
+  },
+  {
+    "tweet_id": "1826184462742524107",
+    "category": "environment",
+    "name_en": "Greenko Pumped Storage Hydro Projects",
+    "name_ta": "கிரீன்கோ நீரேற்று புனல் மின் திட்டங்கள்",
+    "investment_crore": 20114,
+    "jobs_created": 1500,
+    "beneficiaries": "Green energy sector",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-08-21",
+    "summary_en": "MoU signed for 3 closed loop pumped storage hydro projects by Greenko Energies."
+  },
+  {
+    "tweet_id": "1823632663225176081",
+    "category": "environment",
+    "name_en": "Yelagiri-Jalagamparai Community Eco-Tourism Trail",
+    "name_ta": "ஏலகிரி - ஜலகம்பாறை சமுதாயம் சார்ந்த சூழல் சுற்றுலா தடம்",
+    "investment_crore": 3.57,
+    "jobs_created": null,
+    "beneficiaries": "Tourists and local community",
+    "location": {
+      "district": "Tirupattur",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-14",
+    "summary_en": "Upgraded community-based eco-tourism trail inaugurated by CM along with 75 Emerald Gardens, fishing net collection center at Kasimedu, and integrated environmental monitoring center."
+  },
+  {
+    "tweet_id": "1819640056573055230",
+    "category": "environment",
+    "name_en": "Guindy Children's Nature Park Renovation",
+    "name_ta": "கிண்டி சிறுவர் இயற்கை பூங்கா புனரமைப்பு",
+    "investment_crore": 30,
+    "jobs_created": null,
+    "beneficiaries": "Children and families",
+    "location": {
+      "district": "Chennai",
+      "city": "Guindy"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-03",
+    "summary_en": "CM inaugurated Guindy Children's Nature Park renovated at Rs 30 crore with modern facilities"
+  },
+  {
+    "tweet_id": "1801620321411440926",
+    "category": "environment",
+    "name_en": "Olive Ridley Turtle Conservation Program",
+    "name_ta": null,
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "2.15 lakh turtles released",
+    "location": null,
+    "event_type": "other",
+    "date": "2024-06-13",
+    "summary_en": "Over 2.15 lakh Olive Ridley turtles released during nesting season"
+  }
+]

@@ -1,0 +1,234 @@
+{
+  "generated": "2026-02-18",
+  "existing_count": 12,
+  "extracted_count": 9,
+  "duplicates": [
+    {
+      "extracted_name": "Naan Mudhalvan - TNSLPP Campus Hiring 2024-25",
+      "existing_id": "naan-mudhalvan",
+      "reason": "This is an update/event for the existing Naan Mudhalvan scheme, not a new scheme"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "ITI and Labour Department Infrastructure",
+      "reason": "Infrastructure aggregate - multiple buildings/infrastructure projects, not a specific employment scheme"
+    },
+    {
+      "name": "Women's Day Auto Distribution",
+      "reason": "One-time event/distribution on Women's Day, not a recurring employment scheme"
+    },
+    {
+      "name": "Pink Auto Distribution for Women",
+      "reason": "Duplicate of Women's Day Auto Distribution - same event"
+    },
+    {
+      "name": "Pongal Bonus for C&D Category Employees",
+      "reason": "One-time welfare bonus for existing employees, not an employment generation scheme"
+    },
+    {
+      "name": "Tribal Youth Employment",
+      "reason": "Part of existing TNSDC/Tribal Welfare programs - not a distinct named scheme. The 146 tribal youth employment is under the comprehensive tribal development scheme which includes TNSDC collaboration"
+    }
+  ],
+  "new_entries": [
+    {
+      "id": "kalaignar-kaivinai-thittam",
+      "name": {
+        "en": "Kalaignar Kaivinai Thittam (KKT)",
+        "ta": "கலைஞர் கைவினைத் திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive artisan development scheme providing credit support, subsidies, and skill training for 25 traditional trades including carpentry, metal works, masonry, pottery, weaving, and traditional music instrument making.",
+        "ta": "தச்சுவேலை, உலோகவேலை, கொத்தனார் வேலை, மட்பாண்டம், நெசவு மற்றும் பாரம்பரிய இசைக்கருவி தயாரிப்பு உள்ளிட்ட 25 பாரம்பரிய தொழில்களுக்கு கடன் ஆதரவு, மானியங்கள் மற்றும் திறன் பயிற்சி வழங்கும் விரிவான கைவினைஞர் மேம்பாட்டுத் திட்டம்."
+      },
+      "launchDate": "April 18, 2025",
+      "beneficiaries": {
+        "count": "10,000+ annually",
+        "description": {
+          "en": "8,000+ artisans already benefited with loans of Rs 145 crore and subsidies of Rs 31 crore",
+          "ta": "8,000+ கைவினைஞர்கள் ஏற்கனவே ரூ.145 கோடி கடன் மற்றும் ரூ.31 கோடி மானியத்துடன் பயனடைந்துள்ளனர்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 176 crore",
+        "details": "Rs 145 crore in loans + Rs 31 crore in subsidies. Rs 74 crore allocated for 2025-28 to assist 19,000 artisans."
+      },
+      "outcomes": {
+        "en": "Empowers first-generation artisan entrepreneurs with credit support up to Rs 3 lakh, 25% capital subsidy (max Rs 50,000), and 5% interest subsidy",
+        "ta": "முதல் தலைமுறை கைவினைஞர் தொழில்முனைவோருக்கு ரூ.3 லட்சம் வரை கடன் ஆதரவு, 25% மூலதன மானியம் (அதிகபட்சம் ரூ.50,000), மற்றும் 5% வட்டி மானியம்"
+      },
+      "highlights": [
+        {
+          "en": "Covers 25 trades vs 18 in central scheme",
+          "ta": "மத்திய திட்டத்தில் 18 க்கு எதிராக 25 தொழில்களை உள்ளடக்கியது"
+        },
+        {
+          "en": "Rs 3 lakh credit support per artisan",
+          "ta": "கைவினைஞருக்கு ரூ.3 லட்சம் கடன் ஆதரவு"
+        },
+        {
+          "en": "Named after former CM M. Karunanidhi",
+          "ta": "முன்னாள் முதலமைச்சர் மு. கருணாநிதி நினைவாக பெயரிடப்பட்டது"
+        },
+        {
+          "en": "Age eligibility: 21-35 years",
+          "ta": "வயது தகுதி: 21-35 ஆண்டுகள்"
+        }
+      ],
+      "icon": "🎨",
+      "sources": [
+        {
+          "title": "KKT Official Portal - MSME TN",
+          "url": "https://msmeonline.tn.gov.in/kkt/index.php",
+          "type": "government"
+        },
+        {
+          "title": "The South First - KKT Launch",
+          "url": "https://thesouthfirst.com/tamilnadu/mk-stalin-unveils-tamil-nadus-kalaignar-kaivinai-thittam-counters-centres-vishwakarma-scheme/",
+          "type": "media"
+        },
+        {
+          "title": "The News Minute - KKT Announcement",
+          "url": "https://www.thenewsminute.com/tamil-nadu/after-no-to-centres-vishwakarma-scheme-cm-stalin-to-launch-kkt-on-april-18",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "mudhalvarin-kaakkum-karangal",
+      "name": {
+        "en": "Mudhalvarin Kaakkum Karangal",
+        "ta": "முதல்வரின் காக்கும் கரங்கள்"
+      },
+      "description": {
+        "en": "Exclusive entrepreneurship support scheme for ex-servicemen and their families providing loans up to Rs 1 crore with 30% capital subsidy and 3% interest subsidy for starting small and medium businesses.",
+        "ta": "சிறு மற்றும் நடுத்தர தொழில்களைத் தொடங்க 30% மூலதன மானியம் மற்றும் 3% வட்டி மானியத்துடன் ரூ.1 கோடி வரை கடன் வழங்கும் முன்னாள் ராணுவத்தினர் மற்றும் அவர்களது குடும்பங்களுக்கான பிரத்யேக தொழில்முனைவு ஆதரவுத் திட்டம்."
+      },
+      "launchDate": "August 19, 2025",
+      "beneficiaries": {
+        "count": "400+ ex-servicemen families",
+        "description": {
+          "en": "155 ex-servicemen benefited in first phase with Rs 24.43 crore, 348 more to benefit",
+          "ta": "155 முன்னாள் ராணுவத்தினர் முதல் கட்டத்தில் ரூ.24.43 கோடியுடன் பயனடைந்தனர், மேலும் 348 பேர் பயனடைவார்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 50.50 crore",
+        "details": "First phase allocation for 348 beneficiaries. Rs 24.43 crore already disbursed to 155 ex-servicemen."
+      },
+      "outcomes": {
+        "en": "Empowers ex-servicemen and their wards to become entrepreneurs with comprehensive loan and subsidy support",
+        "ta": "விரிவான கடன் மற்றும் மானிய ஆதரவுடன் முன்னாள் ராணுவத்தினர் மற்றும் அவர்களின் பிள்ளைகளை தொழில்முனைவோராக மாற்றுகிறது"
+      },
+      "highlights": [
+        {
+          "en": "Loan up to Rs 1 crore for business",
+          "ta": "தொழிலுக்கு ரூ.1 கோடி வரை கடன்"
+        },
+        {
+          "en": "30% capital subsidy",
+          "ta": "30% மூலதன மானியம்"
+        },
+        {
+          "en": "3% interest subsidy on outstanding loan",
+          "ta": "நிலுவை கடனுக்கு 3% வட்டி மானியம்"
+        },
+        {
+          "en": "Skill training in entrepreneurship included",
+          "ta": "தொழில்முனைவு திறன் பயிற்சி உள்ளடங்கும்"
+        },
+        {
+          "en": "Eligible: Ex-servicemen, widows, dependent sons/daughters",
+          "ta": "தகுதி: முன்னாள் ராணுவத்தினர், விதவைகள், சார்புள்ள மகன்கள்/மகள்கள்"
+        }
+      ],
+      "icon": "🎖️",
+      "sources": [
+        {
+          "title": "Ex-Servicemen Welfare Department TN",
+          "url": "https://www.exwel.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "News Today - Scheme Launch",
+          "url": "https://newstodaynet.com/2025/08/19/cm-stalin-launches-mudhalvarin-kakkum-karangal-scheme/",
+          "type": "media"
+        },
+        {
+          "title": "The Nilgiris District Official",
+          "url": "https://nilgiris.nic.in/p-r-no145-mudhalvarin-kakkum-karangal-scheme/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "tn-rise",
+      "name": {
+        "en": "TN-RISE (Rural Incubator and Startup Enabler)",
+        "ta": "TN-RISE (ஊரக தொழில் காப்பு மற்றும் புத்தொழில் உருவாக்கு நிறுவனம்)"
+      },
+      "description": {
+        "en": "World Bank-supported women entrepreneurship platform under Vazhndhu Kattuvom 2.0 providing incubation, training, mentorship, and market access for rural women entrepreneurs through partnerships with Flipkart, HP, and other corporates.",
+        "ta": "வாழ்ந்து காட்டுவோம் 2.0 திட்டத்தின் கீழ் உலக வங்கி ஆதரவுடன் கூடிய பெண் தொழில்முனைவு தளம் - Flipkart, HP மற்றும் பிற நிறுவனங்களுடன் கூட்டாண்மையில் ஊரக பெண் தொழில்முனைவோருக்கு இன்குபேஷன், பயிற்சி, வழிகாட்டுதல் மற்றும் சந்தை அணுகல் வழங்குகிறது."
+      },
+      "launchDate": "July 2, 2024",
+      "beneficiaries": {
+        "count": "8,400+ women entrepreneurs",
+        "description": {
+          "en": "Loans worth Rs 267 crore facilitated for women-led enterprises since 2022. 50,000+ trained through Community Skills Schools.",
+          "ta": "2022 முதல் பெண்கள் தலைமையிலான நிறுவனங்களுக்கு ரூ.267 கோடி கடன் வழங்கப்பட்டது. சமூக திறன் பள்ளிகள் மூலம் 50,000+ பேர் பயிற்சி பெற்றனர்."
+        }
+      },
+      "budget": {
+        "amount": "Rs 919.73 crore",
+        "details": "World Bank (70%): Rs 643.81 crore, State (30%): Rs 275.92 crore. Part of broader Vazhndhu Kattuvom 2.0 project."
+      },
+      "outcomes": {
+        "en": "Tamil Nadu leads with 13% women entrepreneurs. 2,500 Community Skills Schools established training 50,000+ youth (65% women) in 75 trades.",
+        "ta": "13% பெண் தொழில்முனைவோருடன் தமிழ்நாடு முன்னணியில். 2,500 சமூக திறன் பள்ளிகள் நிறுவப்பட்டு 75 தொழில்களில் 50,000+ இளைஞர்களுக்கு (65% பெண்கள்) பயிற்சி அளிக்கின்றன."
+      },
+      "highlights": [
+        {
+          "en": "MoUs with Flipkart, HP for training & market access",
+          "ta": "பயிற்சி & சந்தை அணுகலுக்கு Flipkart, HP உடன் புரிந்துணர்வு ஒப்பந்தங்கள்"
+        },
+        {
+          "en": "Rs 267 crore loans to 8,400 women enterprises",
+          "ta": "8,400 பெண் நிறுவனங்களுக்கு ரூ.267 கோடி கடன்"
+        },
+        {
+          "en": "Part of Vazhndhu Kattuvom 2.0 with World Bank",
+          "ta": "உலக வங்கியுடன் வாழ்ந்து காட்டுவோம் 2.0 இன் பகுதி"
+        },
+        {
+          "en": "Focus on rural women entrepreneurship",
+          "ta": "ஊரக பெண் தொழில்முனைவில் கவனம்"
+        }
+      ],
+      "icon": "👩‍🌾",
+      "sources": [
+        {
+          "title": "TN-RISE Official Portal",
+          "url": "https://www.tnrise.co.in/",
+          "type": "government"
+        },
+        {
+          "title": "World Bank - Women Entrepreneurs TN",
+          "url": "https://www.worldbank.org/en/news/feature/2025/02/07/skilling-and-supporting-women-entrepreneurs-in-rural-tamil-nadu",
+          "type": "media"
+        },
+        {
+          "title": "Vazhndhu Kattuvom Project",
+          "url": "https://www.vkp-tnrtp.org/",
+          "type": "government"
+        },
+        {
+          "title": "Deccan Chronicle - TN-RISE Launch",
+          "url": "https://www.deccanchronicle.com/nation/udhayanidhi-stalin-launches-tn-rise-to-empower-tamil-nadu-women-entrepreneurs-1309181",
+          "type": "media"
+        }
+      ]
+    }
+  ]
+}

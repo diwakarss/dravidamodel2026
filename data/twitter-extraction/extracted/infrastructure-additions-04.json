@@ -1,0 +1,428 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "description": "New infrastructure projects extracted from Twitter data and verified via web research",
+  "source": "Twitter extraction + web verification",
+  "projects": [
+    {
+      "id": "j-anbazhagan-flyover",
+      "name": {
+        "en": "J. Anbazhagan Flyover (T. Nagar Steel Flyover)",
+        "ta": "ஜெ. அன்பழகன் மேம்பாலம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "T. Nagar",
+        "coordinates": {
+          "latitude": 13.0418,
+          "longitude": 80.2341
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Steel Flyover",
+      "status": "Operational",
+      "budget": {
+        "crore": 164.92,
+        "notes": "Chennai's first major steel flyover"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated September 30, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "1.2 km steel flyover connecting South Usman Road to CIT Nagar",
+        "cmPhotoCompletion": "2025-09-30"
+      },
+      "sources": [
+        {
+          "title": "News9Live - Chennai's first major steel flyover at T Nagar inaugurated",
+          "url": "https://www.news9live.com/state/tamil-nadu/chennais-first-major-steel-flyover-at-t-nagar-inaugurated-aims-to-decongest-citys-busiest-shopping-hub-2893063"
+        },
+        {
+          "title": "The News Mill - Tamil Nadu CM inaugurates J. Anbazhagan Flyover",
+          "url": "https://thenewsmill.com/2025/09/tamil-nadu-cm-inaugurates-j-anbazhagan-flyover-in-chennai-project-worth-rs-164-92-crore/"
+        },
+        {
+          "title": "The Daily Jagran - Chennai First Steel Flyover",
+          "url": "https://www.thedailyjagran.com/india/chennai-first-steel-flyover-connecting-south-usman-road-to-cit-nagar-main-road-opens-to-ease-congestion-in-t-nagar-10270896"
+        }
+      ],
+      "notes": "1.2 km length; 53 steel pillars; 3,800 tonnes of steel; 6.5m above ground; 30m deep foundation; Two-way traffic; 120m entry ramp from T. Nagar bus terminus; 100m exit ramp to commercial zone; 6m service road with pedestrian footpaths; Named after late DMK senior leader J. Anbazhagan; Benefits 40,000 vehicles and 2 lakh residents daily; Reduces travel time from 45 mins to 5 mins",
+      "tweet_id": "1972936875175215163"
+    },
+    {
+      "id": "mandaveli-multimodal-hub",
+      "name": {
+        "en": "Mandaveli Bus Terminal Multi-Modal Hub",
+        "ta": "மந்தைவெளி பேருந்து முனைய பல்நோக்கு மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Mandaveli",
+        "coordinates": {
+          "latitude": 13.0167,
+          "longitude": 80.2625
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Multi-Modal Transit Hub",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 167.09,
+        "notes": "Contract signed by CMAML (Chennai Metro Asset Management Limited)"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": 2028,
+        "completionNotes": "Foundation laid January 22, 2026; Completion expected in 2 years"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2026-01-22"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai - CMAML Signs Rs 167.08 Crore Contract for Mandaveli",
+          "url": "https://www.livechennai.com/detailnews.asp?catid=17&newsid=77368&nav=n"
+        },
+        {
+          "title": "Swarajya - Chennai Set For Two New Transit-Oriented Developments",
+          "url": "https://swarajyamag.com/news-brief/chennai-set-for-two-new-transit-oriented-developments-as-cmrl-plans-high-rise-hubs-at-vadapalani-mandaveli"
+        },
+        {
+          "title": "Mylapore Times - Multi-modal transport hub around Mandaveli Metro station",
+          "url": "https://www.mylaporetimes.com/2025/06/two-multi-storeyed-blocks-an-multi-modal-transport-hub-planned-around-chennai-metro-mandaveli-metro-station/"
+        }
+      ],
+      "notes": "Integrated with Chennai Metro Phase 2 Corridor 3; Two multi-storeyed blocks; Tower A: ground to 7 floors for office/commercial use; Basement parking for 184 two-wheelers and 96 cars; Entry/exit structures of underground metro station inside existing MTC bus terminus; Part of Transit-Oriented Development (TOD) initiative by CMRL and TIDCO",
+      "tweet_id": "2014265147431551292"
+    },
+    {
+      "id": "elcot-it-park-vilankurichi",
+      "name": {
+        "en": "ELCOT IT Park Vilankurichi",
+        "ta": "எல்காட் தகவல் தொழில்நுட்ப பூங்கா விளாங்குறிச்சி"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Vilankurichi",
+        "coordinates": {
+          "latitude": 11.0439,
+          "longitude": 76.9957
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 158.32,
+        "notes": "Built by ELCOT on National Highway 544"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 5, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Six-storey IT park with 2.94 lakh sq ft",
+        "cmPhotoCompletion": "2024-11-05"
+      },
+      "sources": [
+        {
+          "title": "News Today - Stalin inaugurates Elcot facility worth Rs 158 cr in Kovai",
+          "url": "https://newstodaynet.com/2024/11/06/stalin-inaugurates-elcot-facility-worth-rs-158-cr-in-kovai/"
+        },
+        {
+          "title": "The South First - ELCOT IT Park in Coimbatore",
+          "url": "https://thesouthfirst.com/tamilnadu/chief-minister-mk-stalin-to-inaugurate-elcot-it-park-in-coimbatore/"
+        },
+        {
+          "title": "TN IT Department - Coimbatore Vilankurichi",
+          "url": "https://it.tn.gov.in/en/ELCOSEZ/Coimbatore-Vilankurichi"
+        }
+      ],
+      "notes": "2.94 lakh sq ft total area; 1.56 lakh sq ft IT space; Six-storey building; Two basements for parking; Expected to generate 3,500 IT jobs; Seven IT companies given allotment orders; Startup IT companies to be accommodated under co-working system; Future expansion: Two more buildings on remaining 17.17 acres at Rs 2,000 crore creating 35,000 jobs",
+      "tweet_id": "1853747319822274669"
+    },
+    {
+      "id": "coimbatore-metro-land-acquisition",
+      "name": {
+        "en": "Coimbatore Metro Rail Land Acquisition (Phase 1)",
+        "ta": "கோவை மெட்ரோ ரயில் நில கையகப்படுத்துதல் (முதல் கட்டம்)"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore (Textool to Surya Hospital Junction)",
+        "coordinates": {
+          "latitude": 11.0482,
+          "longitude": 77.0263
+        }
+      },
+      "type": "Rail Infrastructure",
+      "subType": "Metro Rail Land Acquisition",
+      "status": "In Progress",
+      "budget": {
+        "crore": 154,
+        "notes": "First phase allocation by CMRL for 1.1 km stretch"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Land acquisition commenced March 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "Swarajya - CMRL Allocates Rs 154 Crore For Land Acquisition For Coimbatore Metro",
+          "url": "https://swarajyamag.com/news-brief/cmrl-allocates-rs-154-crore-for-land-acquisition-for-coimbatore-metro-paving-way-for-expansion"
+        },
+        {
+          "title": "Construction World - CMRL to Begin Land Acquisition for Coimbatore Metro by March 2025",
+          "url": "https://www.constructionworld.in/transport-infrastructure/metro-rail-and-railways-infrastructure/cmrl-to-begin-land-acquisition-for-coimbatore-metro-by-march-2025/67155"
+        },
+        {
+          "title": "Constro Facilitator - CMRL allocates Rs 154 crore for land acquisition",
+          "url": "https://constrofacilitator.com/cmrl-allocates-rs-154-crore-for-acquiring-land-for-metro-rail-project/"
+        }
+      ],
+      "notes": "24-metre-wide strip from Textool flyover to Surya Hospital Junction; 1.1 km stretch on Coimbatore-Sathyamangalam Road; Coordinated with National Highways road widening (3.1 km); Additional Rs 2 crore sanctioned for detailed land plan survey; Part of broader Coimbatore Metro Rail project",
+      "tweet_id": "1886636465372938475"
+    },
+    {
+      "id": "kallakurichi-collectorate",
+      "name": {
+        "en": "Kallakurichi District Collectorate",
+        "ta": "கள்ளக்குறிச்சி மாவட்ட ஆட்சியர் அலுவலகம்"
+      },
+      "location": {
+        "district": "Kallakurichi",
+        "city": "Veeracholapuram (Veerasozapuram)",
+        "coordinates": {
+          "latitude": 11.7391,
+          "longitude": 78.9599
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Government Office Complex",
+      "status": "Operational",
+      "budget": {
+        "crore": 139.41,
+        "notes": "New district collectorate complex"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated December 26, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "39.81 acres collectorate complex",
+        "cmPhotoCompletion": "2025-12-26"
+      },
+      "sources": [
+        {
+          "title": "Kallakurichi District Government - District Collector Office Inspection",
+          "url": "https://kallakurichi.nic.in/the-district-collector-personally-inspected-the-construction-work-of-the-new-district-collectors-office-building-being-constructed-at-an-estimated-cost-of-rs-139-41-crore-in-veeracholapuram-kallak/"
+        },
+        {
+          "title": "Kallakurichi District Government - CM Inauguration",
+          "url": "https://kallakurichi.nic.in/at-a-government-function-held-in-kallakurichi-district-the-honourable-chief-minister-of-tamil-nadu-mr-m-k-stalin-inaugurated-2559-completed-projects-worth-%E2%82%B91773-67-crore-including-the/"
+        },
+        {
+          "title": "Thanthi TV - Kallakurichi Collectorate Inauguration",
+          "url": "https://www.thanthitv.com/news/tamilnadu/inauguration-of-the-new-kallakurichi-district-collectorate-building-380991"
+        }
+      ],
+      "notes": "Built on 39.81 acres; Part of Rs 1,773.67 crore district development projects; CM distributed welfare assistance to 2,16,056 beneficiaries during inauguration; Modern government office complex for newly formed Kallakurichi district",
+      "tweet_id": "2004478359473140114"
+    },
+    {
+      "id": "anna-heavy-vehicle-terminus-trichy",
+      "name": {
+        "en": "Anna Heavy Vehicle Cargo Terminal (Integrated Truck Terminal)",
+        "ta": "பேரறிஞர் அண்ணா கனரக சரக்கு வாகன முனையம்"
+      },
+      "location": {
+        "district": "Tiruchirappalli",
+        "city": "Panchappur (Panjapur)",
+        "coordinates": {
+          "latitude": 10.8261,
+          "longitude": 78.6569
+        }
+      },
+      "type": "Transport Infrastructure",
+      "subType": "Truck Terminal",
+      "status": "Operational",
+      "budget": {
+        "crore": 128.94,
+        "notes": "Also referred to as Rs 129 crore Integrated Truck Terminal"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated May 9, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2025-05-09"
+      },
+      "sources": [
+        {
+          "title": "Tiruchirappalli District Government - CM Inauguration News",
+          "url": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/"
+        },
+        {
+          "title": "BuildWatch News - CM Stalin Opens Rs 522 Crore Trichy Transit Hubs",
+          "url": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/"
+        },
+        {
+          "title": "Live Chennai - Trichy IBT and Truck Terminus",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=74085"
+        }
+      ],
+      "notes": "Part of Rs 522 crore Trichy Transit Hubs project; Inaugurated alongside Kalaignar Integrated Bus Stand (Rs 408 crore) at Panjapur; Also foundation laid for Rs 75 crore Periyar Vegetable and Fruit Market; Named after C.N. Annadurai; Major logistics hub for Trichy region",
+      "tweet_id": "1920775557026848814"
+    },
+    {
+      "id": "madurai-central-prison",
+      "name": {
+        "en": "Madurai Central Prison (New Complex)",
+        "ta": "மதுரை மத்திய சிறைச்சாலை (புதிய வளாகம்)"
+      },
+      "location": {
+        "district": "Madurai",
+        "city": "Therkkutheru Utkadai Sembur (Melur Taluk)",
+        "coordinates": {
+          "latitude": 9.9252,
+          "longitude": 78.3355
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Prison Complex",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 229.20,
+        "notes": "Men's prison Phase I construction"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation laid July 31, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-07-31"
+      },
+      "sources": [
+        {
+          "title": "Dinakaran - CM Stalin laid foundation stone for Madurai Central Prison",
+          "url": "https://www.dinakaran.com/cm-stalin-laid-foundation-stone-madurai-central-prison/"
+        },
+        {
+          "title": "Wikipedia - Madurai Central Prison",
+          "url": "https://en.wikipedia.org/wiki/Madurai_Central_Prison"
+        }
+      ],
+      "notes": "Phase I construction includes central prison building, 113 prison staff quarters, cement concrete road and security perimeter wall; Part of Rs 274.67 crore police and emergency services infrastructure announced on July 31, 2025; Also included police buildings (Rs 27.59 cr), fire stations (Rs 13.54 cr), prison buildings (Rs 60 lakh), forensic drug testing units (Rs 3.74 cr)",
+      "tweet_id": "1950825991854834157"
+    },
+    {
+      "id": "somasundaram-sports-ground-tnagar",
+      "name": {
+        "en": "Somasundaram Sports Ground Upgrade",
+        "ta": "சோமசுந்தரம் விளையாட்டு மைதானம் மேம்பாடு"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Thyagaraya Nagar (T. Nagar)",
+        "coordinates": {
+          "latitude": 13.0418,
+          "longitude": 80.2347
+        }
+      },
+      "type": "Sports Infrastructure",
+      "subType": "Sports Ground",
+      "status": "Operational",
+      "budget": {
+        "crore": 3.20,
+        "notes": "Part of Greater Chennai Corporation sports infrastructure"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated May 20, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2025-05-20"
+      },
+      "sources": [
+        {
+          "title": "Adyar Times - CM Stalin inaugurates Rs 14.66 Cr projects",
+          "url": "https://adyartimes.in/cm-stalin-inaugurates-rs-14-66-cr-projects-lays-foundation-for-rs-255-60-cr-new-schemes/"
+        }
+      ],
+      "notes": "Upgraded facilities for cricket, basketball, volleyball, badminton, and table tennis; Part of Rs 14.66 crore sports infrastructure projects including 4 fitness parks (Rs 11.46 cr) at Minjur, Vellanur, Varadarajapuram, and Thirunageswaram; Foundation laid for Rs 255.60 crore new projects",
+      "tweet_id": "1924786849341702272"
+    }
+  ],
+  "statistics": {
+    "total_projects": 8,
+    "total_investment_crore": 1145.18,
+    "by_status": {
+      "Operational": 5,
+      "Under Construction": 2,
+      "In Progress": 1
+    },
+    "by_type": {
+      "Roads & Bridges": 1,
+      "Public Transport": 1,
+      "IT Infrastructure": 1,
+      "Rail Infrastructure": 1,
+      "Public Buildings": 2,
+      "Transport Infrastructure": 1,
+      "Sports Infrastructure": 1
+    }
+  },
+  "skipped_projects": [
+    {
+      "name": "Highways and Bridges",
+      "reason": "Too generic - multiple projects across multiple districts without specific verifiable details"
+    },
+    {
+      "name": "Fishing Harbors and Landing Centers Upgrade",
+      "reason": "Generic multi-district project without specific location details to verify"
+    },
+    {
+      "name": "HR&CE Temple Renovation Projects",
+      "reason": "Generic category covering multiple temples without specific project details"
+    },
+    {
+      "name": "HR&CE Temple Projects (August 2025)",
+      "reason": "Generic category covering 17 temples without specific individual project details"
+    },
+    {
+      "name": "Commercial Complexes by TN Housing Board",
+      "reason": "Could not verify specific details about 4 complexes worth Rs 207.90 crore"
+    },
+    {
+      "name": "Fisheries Infrastructure Development",
+      "reason": "Generic category for 9 projects without specific individual details"
+    },
+    {
+      "name": "Needamangalam Flyover",
+      "reason": "Under inspection status; no verified inauguration or completion details found"
+    }
+  ]
+}

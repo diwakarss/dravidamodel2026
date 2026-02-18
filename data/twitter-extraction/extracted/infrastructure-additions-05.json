@@ -1,0 +1,388 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "description": "New infrastructure projects extracted from Twitter data and verified via web research",
+  "source": "Twitter extraction + web verification",
+  "projects": [
+    {
+      "id": "elcot-it-park-vilankurichi",
+      "name": {
+        "en": "ELCOT IT Park Vilankurichi",
+        "ta": "எல்காட் தகவல் தொழில்நுட்ப பூங்கா விலாங்குறிச்சி"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Vilankurichi",
+        "coordinates": {
+          "latitude": 11.0449,
+          "longitude": 77.0168
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 158.32,
+        "notes": "Built on 2.86 acres within 61.59 acre campus on NH-544"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 5, 2024 by CM MK Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Six-storey IT facility with startup spaces",
+        "cmPhotoCompletion": "2024-11-05"
+      },
+      "sources": [
+        {
+          "title": "The South First - ELCOT IT Park Inauguration",
+          "url": "https://thesouthfirst.com/tamilnadu/chief-minister-mk-stalin-to-inaugurate-elcot-it-park-in-coimbatore/"
+        },
+        {
+          "title": "News Today - Stalin inaugurates Elcot facility",
+          "url": "https://newstodaynet.com/2024/11/06/stalin-inaugurates-elcot-facility-worth-rs-158-cr-in-kovai/"
+        },
+        {
+          "title": "Construction World - Vilankurichi IT Park",
+          "url": "https://www.constructionworld.in/policy-updates-and-economic-news/tamil-nadu-cm-opens-vilankurichi-it-park/64907"
+        }
+      ],
+      "notes": "Six-storey facility; 2.94 lakh sq ft total built-up area; 1.56 lakh sq ft dedicated IT space; Designated startup areas; Expected to provide employment for 3,500+ people; Seven IT companies received allotment orders; Plans for two more buildings on remaining 17.17 acres for 35,000 jobs",
+      "tweet_id": "1853706819442487625"
+    },
+    {
+      "id": "island-grounds-exhibition-centre",
+      "name": {
+        "en": "Island Grounds Exhibition Centre",
+        "ta": "தீவுத்திடல் கண்காட்சி மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Island Grounds",
+        "coordinates": {
+          "latitude": 13.0940,
+          "longitude": 80.2850
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Exhibition Centre",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 113,
+        "notes": "Modern exhibition facility with technological amenities"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2025,
+        "completionNotes": "Target completion December 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Stilt plus two-storey exhibition centre",
+        "cmPhotoInspection": "2025-03-07"
+      },
+      "sources": [
+        {
+          "title": "Dinakaran - CM Stalin inspection",
+          "url": "https://www.dinakaran.com/chennai_exhibition_centre_chiefminister_m-k-stalin/"
+        },
+        {
+          "title": "Exhibition Globe - Island Grounds development",
+          "url": "https://exhibitionglobe.com/chennais-island-grounds-to-house-a-year-round-exhibition-centre-with-amphitheatre-waterfront-promenade/"
+        },
+        {
+          "title": "Live Chennai - CMDA Exhibition Centre",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=75575"
+        }
+      ],
+      "notes": "1.63 lakh sq ft (163,039 sq ft) built-up area; Ground + 2 storeys rising to 24 metres; 3.10 acres (scaled from original 18 acres due to CRZ-II constraints); 20 modular exhibition stalls; Amphitheatre; Waterfront promenade; Public plaza; Landscaped gardens; Parking; Restaurant; Children's play area; Part of 135-acre Island Grounds redevelopment",
+      "tweet_id": "1897975624654008798"
+    },
+    {
+      "id": "mtc-electric-bus-infrastructure",
+      "name": {
+        "en": "MTC Electric Bus Depot Infrastructure",
+        "ta": "MTC மின் பேருந்து நிலைய உட்கட்டமைப்பு"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Multiple Depots",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Bus Infrastructure",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 111.50,
+        "notes": "Infrastructure for 500 e-buses across 6 depots"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2026,
+        "completionNotes": "Perumbakkam depot by August 2025; Full deployment by February 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "Sustainable Bus - Chennai 120 electric buses",
+          "url": "https://www.sustainable-bus.com/electric-bus/120-electric-buses-chennai-tamil-nadu-mtc/"
+        },
+        {
+          "title": "ITDP - Chennai E-Bus Transition",
+          "url": "https://itdp.org/2025/07/24/how-chennai-india-is-jump-starting-its-e-bus-transition/"
+        },
+        {
+          "title": "Native Planet - 625 Electric Buses",
+          "url": "https://www.nativeplanet.com/news/chennais-mtc-to-launch-625-low-floor-electric-buses-for-sustainable-transport-011-016831.html"
+        }
+      ],
+      "notes": "Charging and maintenance infrastructure at 6 depots: Perambur-II, Tondiarpet-I, Vyasarpadi, Poonamallee, KK Nagar-I, Perumbakkam-I; Part of Rs 959 crore e-bus scheme with World Bank funding (70%); First phase: 625 low-floor electric buses at Rs 697 crore total; 225 air-conditioned + 400 non-AC buses",
+      "tweet_id": "1826627412781596979"
+    },
+    {
+      "id": "mannargudi-ring-road-phase1",
+      "name": {
+        "en": "Mannargudi Town Ring Road Phase 1",
+        "ta": "மன்னார்குடி சுற்றுவட்ட சாலை முதல் கட்டம்"
+      },
+      "location": {
+        "district": "Thiruvarur",
+        "city": "Mannargudi",
+        "coordinates": {
+          "latitude": 10.6650,
+          "longitude": 79.4450
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Ring Road",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 113.10,
+        "notes": "Phase 1A: Rs 62.42 crore + Phase 1B: Rs 50.68 crore"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "PWD invited bids for Phase 1 construction"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "11.9 km bypass connecting major roads",
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "India Investment Grid - Mannargudi Ring Road Project",
+          "url": "https://indiainvestmentgrid.gov.in/opportunities/project/22162"
+        },
+        {
+          "title": "NBMCW - PWD Bids for Mannargudi Ring Road",
+          "url": "https://www.nbmcw.com/news/tamil-nadu-pwd-invites-bids-for-phase-1-of-mannargudi-town-ring-road.html"
+        },
+        {
+          "title": "News On Projects - Mannargudi 22 km ring road",
+          "url": "https://newsonprojects.com/news/mannargudi-to-get-22-km-ring-road"
+        }
+      ],
+      "notes": "Phase 1A: km 0/0 to 5/610 connecting SH63 (Thanjavur-Mannargudi-Kodikkarai Road) with MD840; Phase 1B: km 5/610 to 11/900 connecting MD840 back to SH63; Total Phase 1: 11.9 km; Full ring road planned for 22 km connecting 3 State Highways and rural roads; Villages: Moondramsethi, Bhamini, Aravathur, Ramapuram, Kailasanathar Koil, Nangamsethi, Serankulam, Koppiralayam",
+      "tweet_id": "1919410222231179673"
+    },
+    {
+      "id": "ms-swaminathan-wetland-park",
+      "name": {
+        "en": "Dr. M.S. Swaminathan Wetland Eco Park",
+        "ta": "டாக்டர் எம்.எஸ். சுவாமிநாதன் ஈரநில சுற்றுச்சூழல் பூங்கா"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Porur (Vanagaram)",
+        "coordinates": {
+          "latitude": 13.0500,
+          "longitude": 80.1667
+        }
+      },
+      "type": "Urban Development",
+      "subType": "Eco Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 15.75,
+        "notes": "Chennai's first wetland sponge park"
+      },
+      "timeline": {
+        "startYear": 2023,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated March 7, 2025 by CM MK Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "First large eco-wetland park in Chennai",
+        "cmPhotoCompletion": "2025-03-07"
+      },
+      "sources": [
+        {
+          "title": "Citizen Matters - Porur Sponge Park",
+          "url": "https://citizenmatters.in/from-degraded-wetland-to-community-space-porur-sponge-park-redefines-flood-control-in-chennai/"
+        },
+        {
+          "title": "ICLEI CityTalk - Chennai wetland sponge park",
+          "url": "https://talkofthecities.iclei.org/from-asphalt-to-wetland-sponge-park-how-chennai-is-absorbing-water-and-building-resilience/"
+        },
+        {
+          "title": "Podhuva.com - Swaminathan Wetland Park opening",
+          "url": "https://www.podhuva.com/news/article.php?post=world-updates/may25/may18/swaminathan_wetland_park"
+        }
+      ],
+      "notes": "16.63 acres on Sri Ramachandra University's Open Space Reservation land; Chennai's first wetland sponge park; Developed by CMDA with Sponge Collaborative; 600-metre boardwalk; Pollinator garden; Basketball court; Multi-use sports area; Children's play space; Elevated boardwalks; Seating areas; Landscaped channels; Named after agricultural scientist Dr. M.S. Swaminathan",
+      "tweet_id": "1897939302409273500"
+    },
+    {
+      "id": "kolathur-ornamental-fish-market",
+      "name": {
+        "en": "Kolathur Ornamental Fish Market Complex",
+        "ta": "கொளத்தூர் அலங்கார மீன் சந்தை வளாகம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Villivakkam-Padi",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2167
+        }
+      },
+      "type": "Urban Development",
+      "subType": "Market Complex",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 53.50,
+        "notes": "Asia's largest ornamental fish market complex"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "Construction began August 26, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Modern fish market near Villivakkam-Padi flyover",
+        "cmPhotoInitiation": "2024-08-26"
+      },
+      "sources": [
+        {
+          "title": "News Karnataka - Kolathur Fish Market Overhaul",
+          "url": "https://newskarnataka.com/business/kolathurs-ornamental-fish-market-to-get-a-modern-overhaul/19082024/"
+        },
+        {
+          "title": "Live Chennai - Modern Fish Market Complex",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=71819"
+        },
+        {
+          "title": "Fishery News - Chennai Ornamental Fish Centre",
+          "url": "https://www.fishery.news/chennai-to-boost-ornamental-fish-trade-with-new-centre-in-kolathur/"
+        }
+      ],
+      "notes": "Asia's largest colorful fish stall; India's second largest ornamental fish market; Over 1,000 fish species including Oscars, Gourami, sucker fish, guppies, carp, goldfish; Current monthly revenue Rs 300 crore; Developed by CMDA; Part of North Chennai Development Plan; Modern infrastructure for fish trade",
+      "tweet_id": "1827956342893822096"
+    },
+    {
+      "id": "ancient-temple-restoration-programme",
+      "name": {
+        "en": "Ancient Temple Restoration Programme",
+        "ta": "பழமையான திருக்கோயில் புனரமைப்பு திட்டம்"
+      },
+      "location": {
+        "district": "Multiple",
+        "city": "Statewide",
+        "coordinates": null
+      },
+      "type": "Heritage",
+      "subType": "Temple Restoration",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 425,
+        "notes": "Initial Rs 100 crore expanded to Rs 425 crore"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Restoration work launched July 2025; 68 temples completed by October 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-07-11"
+      },
+      "sources": [
+        {
+          "title": "The Print Hindi - Stalin launches 63 temple restoration",
+          "url": "https://hindi.theprint.in/india/stalin-launches-restoration-work-of-63-ancient-temples-in-tamil-nadu-at-a-cost-of-rs-100-crore/841342/"
+        },
+        {
+          "title": "Mangalorean - Rs 425 crore temple restoration",
+          "url": "https://www.mangalorean.com/rs-425-cr-sanctioned-for-restoration-of-ancient-temples-says-tn-temple-minister-sekar-babu/"
+        },
+        {
+          "title": "Social News XYZ - Temple restoration plan",
+          "url": "https://www.socialnews.xyz/2025/10/12/rs-425-cr-sanctioned-for-restoration-of-ancient-temples-says-tn-temple-minister-sekar-babu/"
+        }
+      ],
+      "notes": "Restoration of temples over 1,000 years old; Initial phase: 63 temples at Rs 100 crore (July 2025); Expanded to Rs 425 crore (October 2025); 68 temples completed using government, temple, and donor funds; Gold Monetisation Scheme: 1,074.123 kg purified gold from 21 temples deposited in SBI earning Rs 17.76 crore annual interest for temple development",
+      "tweet_id": "1943602989887062525"
+    }
+  ],
+  "statistics": {
+    "total_projects": 7,
+    "total_investment_crore": 990.17,
+    "by_status": {
+      "Operational": 3,
+      "Under Construction": 3,
+      "Ongoing": 1
+    },
+    "by_type": {
+      "IT Infrastructure": 1,
+      "Public Buildings": 1,
+      "Public Transport": 1,
+      "Roads & Bridges": 1,
+      "Urban Development": 2,
+      "Heritage": 1
+    }
+  },
+  "skipped_projects": [
+    {
+      "name": "Fire and Rescue Training Academy",
+      "reason": "Insufficient web verification - could not find independent sources confirming project details"
+    },
+    {
+      "name": "Ganesh Nagar/Kolathur 230/33 KV GIS Substation",
+      "reason": "Could not verify specific Rs 110.92 crore investment or project details from independent sources"
+    },
+    {
+      "name": "CMDA Parks and Flyover Beautification",
+      "reason": "Too generic - multiple smaller projects bundled together without specific verifiable details"
+    },
+    {
+      "name": "Vidiyal Payanam Buses",
+      "reason": "This is an ongoing welfare scheme/bus procurement rather than a specific infrastructure project"
+    },
+    {
+      "name": "Police and Fire Station Buildings and Vehicles",
+      "reason": "Too generic - multiple small projects and vehicle purchases across the state"
+    },
+    {
+      "name": "New Ration Shops and Paddy Procurement Centers",
+      "reason": "Too generic - distributed across the state without specific verifiable locations"
+    },
+    {
+      "name": "Disaster Management Equipment Purchase",
+      "reason": "Equipment procurement rather than infrastructure project"
+    }
+  ]
+}

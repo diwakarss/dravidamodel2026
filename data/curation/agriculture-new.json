@@ -1,0 +1,365 @@
+{
+  "curation_date": "2026-02-18",
+  "existing_count": 11,
+  "extracted_count": 23,
+  "duplicates": [
+    {
+      "extracted_name": "Athikadavu-Avinashi Project",
+      "existing_id": "athikadavu-avinashi",
+      "reason": "Already exists in agriculture.json with same details"
+    },
+    {
+      "extracted_name": "AAVIN Infrastructure Development",
+      "existing_id": "dairy-development",
+      "reason": "Part of broader dairy-development scheme coverage"
+    },
+    {
+      "extracted_name": "Dairy Sector Infrastructure",
+      "existing_id": "dairy-development",
+      "reason": "Part of broader dairy-development scheme coverage"
+    },
+    {
+      "extracted_name": "Fisheries Infrastructure Projects",
+      "existing_id": "fisheries",
+      "reason": "Part of broader fisheries development scheme"
+    }
+  ],
+  "skipped": [
+    {
+      "extracted_name": "Animal Husbandry Infrastructure",
+      "reason": "Aggregate - 12 buildings + 31 farms + meat complex, not a single scheme"
+    },
+    {
+      "extracted_name": "Agricultural Infrastructure",
+      "reason": "Aggregate - 52 buildings including various processing centers, not a single scheme"
+    },
+    {
+      "extracted_name": "Paddy Storage Warehouses",
+      "reason": "Infrastructure project - 13 warehouses, not a policy scheme"
+    },
+    {
+      "extracted_name": "TNCSC Storage Infrastructure",
+      "reason": "Infrastructure project - multiple warehouses and storage facilities"
+    },
+    {
+      "extracted_name": "Animal Husbandry and Fisheries Buildings",
+      "reason": "Aggregate - multiple buildings across different departments"
+    },
+    {
+      "extracted_name": "Agriculture Budget 2025-26",
+      "reason": "Budget announcement, not a specific scheme"
+    },
+    {
+      "extracted_name": "Cyclone Ditha Crop Relief",
+      "reason": "One-time disaster relief, not an ongoing scheme"
+    },
+    {
+      "extracted_name": "Aavin Dairy Plants",
+      "reason": "Infrastructure - specific dairy plants, part of dairy-development"
+    },
+    {
+      "extracted_name": "High-Capacity Paddy Procurement Centre Thanjavur",
+      "reason": "Single infrastructure unit, not a scheme"
+    },
+    {
+      "extracted_name": "Kuruvai Special Package and Thanjavur Development",
+      "reason": "Aggregate - multiple packages combined with welfare distribution"
+    },
+    {
+      "extracted_name": "Erode Agricultural Fair and Development Projects",
+      "reason": "Event-based with multiple projects, not a single scheme"
+    },
+    {
+      "extracted_name": "Delta Kuruvai Special Cultivation Scheme",
+      "reason": "Seasonal support package, part of kuruvai-cultivation scheme (to be added)"
+    }
+  ],
+  "new_entries": [
+    {
+      "id": "same-day-crop-loan",
+      "name": {
+        "en": "Same Day Crop Loan Scheme",
+        "ta": "அன்றே பயிர்க்கடன் திட்டம்"
+      },
+      "description": {
+        "en": "Revolutionary scheme enabling farmers to receive crop loans on the same day through online applications at Primary Agricultural Cooperative Credit Societies (PACS), eliminating the need for multiple visits and paperwork delays.",
+        "ta": "முதன்மை வேளாண்மை கூட்டுறவு கடன் சங்கங்களில் (PACS) ஆன்லைன் விண்ணப்பம் மூலம் விவசாயிகள் அன்றே பயிர்க்கடன் பெற உதவும் புரட்சிகரத் திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "Lakhs of farmers",
+        "description": {
+          "en": "Farmers across Tamil Nadu accessing PACS loans",
+          "ta": "தமிழ்நாடு முழுவதும் PACS கடன்களை அணுகும் விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 17,000 crore",
+        "year": "2025 (crop loans) + Rs 3,000 crore (livestock loans)"
+      },
+      "highlights": [
+        { "en": "Online application through e-service centres", "ta": "மின்-சேவை மையங்கள் மூலம் ஆன்லைன் விண்ணப்பம்" },
+        { "en": "No need to visit PACS offices physically", "ta": "PACS அலுவலகங்களுக்கு நேரில் செல்ல வேண்டியதில்லை" },
+        { "en": "Loan amount capped at Rs 5 lakh per farmer", "ta": "விவசாயி ஒருவருக்கு ரூ.5 லட்சம் வரை கடன்" },
+        { "en": "Pilot launched in Dharmapuri on August 17, 2025", "ta": "தர்மபுரியில் ஆகஸ்ட் 17, 2025 அன்று முன்னோடித் திட்டம் தொடக்கம்" }
+      ],
+      "icon": "🏦",
+      "sources": [
+        { "title": "The South First - CM Stalin launches crop loan scheme", "url": "https://thesouthfirst.com/tamilnadu/tamil-nadu-cm-mk-stalin-launches-crop-loan-scheme-announces-dravidian-model-2-0/", "type": "media" },
+        { "title": "Free Press Journal - PACS Instant Crop Loan Scheme", "url": "https://www.freepressjournal.in/india/cm-stalin-slams-tamil-nadu-governor-ravi-for-cheap-politics-unveils-pacs-instant-crop-loan-scheme", "type": "media" },
+        { "title": "Angel One - TN Rs 17,000 Crore Crop Loans", "url": "https://www.angelone.in/news/economy/tamil-nadu-government-to-give-farmers-17-000-crore-in-crop-loans", "type": "media" }
+      ]
+    },
+    {
+      "id": "mannuyir-kaathu-mannuyir-kaappom",
+      "name": {
+        "en": "CM's Mannuyir Kaathu Mannuyir Kaappom Scheme",
+        "ta": "முதலமைச்சரின் மண்ணுயிர் காத்து மன்னுயிர் காப்போம் திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive soil health scheme promoting sustainable, chemical-free agriculture through green manure seeds distribution, vermicompost support, and eco-friendly farming practices to improve soil fertility across Tamil Nadu.",
+        "ta": "பசுந்தாள் உர விதைகள் விநியோகம், மண்புழு உரம் ஆதரவு மற்றும் சுற்றுச்சூழல் நட்பு விவசாய நடைமுறைகள் மூலம் நிலையான, இரசாயனமில்லா வேளாண்மையை ஊக்குவிக்கும் விரிவான மண் ஆரோக்கிய திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "2 lakh farmers (Phase 1)",
+        "description": {
+          "en": "Farmers across 2 lakh acres",
+          "ta": "2 லட்சம் ஏக்கர் நிலத்தில் விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 206 crore",
+        "year": "2024-25"
+      },
+      "highlights": [
+        { "en": "Rs 20 crore for green manure seeds distribution", "ta": "பசுந்தாள் உர விதைகள் விநியோகத்திற்கு ரூ.20 கோடி" },
+        { "en": "10,000 farmers get vermicompost beds (2 per farmer)", "ta": "10,000 விவசாயிகளுக்கு மண்புழு உர படுக்கைகள் (விவசாயி ஒருவருக்கு 2)" },
+        { "en": "Rs 5 crore for permanent vermicompost pits", "ta": "நிரந்தர மண்புழு உர குழிகளுக்கு ரூ.5 கோடி" },
+        { "en": "Promotes chemical-free sustainable farming", "ta": "இரசாயனமில்லா நிலையான விவசாயத்தை ஊக்குவிக்கிறது" }
+      ],
+      "icon": "🌿",
+      "sources": [
+        { "title": "GK Today - CM Stalin Launches Soil Health Scheme", "url": "https://www.gktoday.in/chief-minister-stalin-launches-soil-health-scheme-in-tamil-nadu/", "type": "media" },
+        { "title": "Chronicle India - Mannuyir Kaathu Mannuyir Kaappom", "url": "https://www.chronicleindia.in/online-magazine/csce-august-2024/mannuyir-kaathu-mannuyir-kaappom", "type": "media" },
+        { "title": "Bank Exams Today - TN Launches Scheme", "url": "https://currentaffairs.bankexamstoday.com/2024/06/tamil-nadu-launches-chief-ministers.html", "type": "media" },
+        { "title": "Deccan Herald - TN Agriculture Budget 2024", "url": "https://www.deccanherald.com/amp/story/india/tamil-nadu/tamil-nadu-agriculture-budget-2024-focuses-on-sustainable-chemical-free-practices-2902514", "type": "media" }
+      ]
+    },
+    {
+      "id": "nutritional-agriculture-campaign",
+      "name": {
+        "en": "Nutritional Agriculture Campaign",
+        "ta": "ஊட்டச்சத்து வேளாண்மை இயக்கம்"
+      },
+      "description": {
+        "en": "Multi-pronged campaign to ensure nutritional security while increasing farmers' income through distribution of vegetable seeds, fruit plants, and promotion of pulses cultivation across Tamil Nadu.",
+        "ta": "காய்கறி விதைகள், பழச்செடிகள் விநியோகம் மற்றும் பருப்பு வகை சாகுபடி ஊக்குவிப்பு மூலம் விவசாயிகளின் வருமானத்தை அதிகரிக்கும் அதே வேளையில் ஊட்டச்சத்து பாதுகாப்பை உறுதி செய்யும் பல்முனை இயக்கம்."
+      },
+      "beneficiaries": {
+        "count": "24+ lakh families",
+        "description": {
+          "en": "15 lakh families (vegetable seeds) + 9 lakh families (fruit plants)",
+          "ta": "15 லட்சம் குடும்பங்கள் (காய்கறி விதைகள்) + 9 லட்சம் குடும்பங்கள் (பழச்செடிகள்)"
+        }
+      },
+      "budget": {
+        "amount": "Rs 125 crore",
+        "year": "2025-26"
+      },
+      "highlights": [
+        { "en": "6 vegetable seed varieties to 15 lakh families", "ta": "15 லட்சம் குடும்பங்களுக்கு 6 காய்கறி விதை வகைகள்" },
+        { "en": "3 fruit plants (papaya, guava, lemon) with 75% subsidy", "ta": "3 பழச்செடிகள் (பப்பாளி, கொய்யா, எலுமிச்சை) 75% மானியத்துடன்" },
+        { "en": "Fruit cultivation across 12,000 acres", "ta": "12,000 ஏக்கரில் பழ சாகுபடி" },
+        { "en": "Pulses scheme covering 5.72 lakh acres benefiting 2.5 lakh farmers", "ta": "5.72 லட்சம் ஏக்கரில் 2.5 லட்சம் விவசாயிகளுக்கு பயனளிக்கும் பருப்பு வகை திட்டம்" }
+      ],
+      "icon": "🥗",
+      "sources": [
+        { "title": "Dinakaran - Rs 125 crore Nutritional Agriculture", "url": "https://www.dinakaran.com/nutrition_agriculture_movement/", "type": "media" },
+        { "title": "Kamraj IAS Academy - Fifth Agriculture Budget", "url": "https://www.kamarajiasacademy.com/tnpsc-current-affairs/fifth-exclusive-agriculture-budget", "type": "media" }
+      ]
+    },
+    {
+      "id": "aiirlivas",
+      "name": {
+        "en": "Advanced Institute for Integrated Research on Livestock and Animal Sciences (AIIRLIVAS)",
+        "ta": "மேம்பட்ட கால்நடை ஒருங்கிணைந்த ஆராய்ச்சி நிறுவனம் (AIIRLIVAS)"
+      },
+      "description": {
+        "en": "Asia's largest integrated livestock research facility spanning 1,102 acres near Thalaivasal, Salem, featuring 12+ indigenous livestock breeds, model farm units, fisheries demo units, forage zones, and training facilities to drive innovation in animal production.",
+        "ta": "சேலம் தலைவாசல் அருகே 1,102 ஏக்கரில் பரந்துள்ள ஆசியாவின் மிகப்பெரிய ஒருங்கிணைந்த கால்நடை ஆராய்ச்சி வளாகம், 12+ உள்நாட்டு கால்நடை இனங்கள், மாதிரி பண்ணை அலகுகள், மீன்வளர்ப்பு ஆர்ப்பாட்ட அலகுகள், தீவன மண்டலங்கள் மற்றும் பயிற்சி வசதிகள் கொண்டது."
+      },
+      "beneficiaries": {
+        "count": "Farmers and researchers statewide",
+        "description": {
+          "en": "Livestock farmers, veterinary researchers, rural entrepreneurs",
+          "ta": "கால்நடை விவசாயிகள், கால்நடை ஆராய்ச்சியாளர்கள், கிராமப்புற தொழில்முனைவோர்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 566.44 crore",
+        "year": "Inaugurated January 13, 2025"
+      },
+      "highlights": [
+        { "en": "Asia's largest integrated livestock research center", "ta": "ஆசியாவின் மிகப்பெரிய ஒருங்கிணைந்த கால்நடை ஆராய்ச்சி மையம்" },
+        { "en": "1,102.25 acres with 12+ indigenous breeds", "ta": "1,102.25 ஏக்கர் பரப்பளவில் 12+ உள்நாட்டு இனங்கள்" },
+        { "en": "11 model farm units and 4 fisheries demo units", "ta": "11 மாதிரி பண்ணை அலகுகள் மற்றும் 4 மீன்வளர்ப்பு ஆர்ப்பாட்ட அலகுகள்" },
+        { "en": "400+ acres forage zones with modern irrigation", "ta": "நவீன நீர்ப்பாசனத்துடன் 400+ ஏக்கர் தீவன மண்டலங்கள்" },
+        { "en": "Business Incubation Centre and 100+ accommodation units", "ta": "தொழில் குறைகாப்பு மையம் மற்றும் 100+ தங்கும் அலகுகள்" }
+      ],
+      "icon": "🔬",
+      "sources": [
+        { "title": "AIIRLIVAS Official Website", "url": "https://www.aiirlivas.com/objectives", "type": "government" },
+        { "title": "Salem District Official - AIIRLIVAS Inauguration", "url": "https://salem.nic.in/livestock-and-veterinary-integrated-high-research-centre-inauguration-13-01-2025/", "type": "government" },
+        { "title": "Chinmaya IAS - AIIRLIVAS", "url": "https://chinmayaias.com/currentaffairstnpsc/advanced-institute-for-integrated-research-on-livestock-and-animal-sciences-aiirlivas/", "type": "media" }
+      ]
+    },
+    {
+      "id": "delta-agro-industrial-corridor",
+      "name": {
+        "en": "Delta Agro Industrial Corridor",
+        "ta": "டெல்டா வேளாண் தொழில் வழித்தடம்"
+      },
+      "description": {
+        "en": "Strategic agro-industrial corridor in the Protected Special Agriculture Zone of Cauvery delta, promoting agro-processing industries while preserving agricultural land and supporting farmer livelihoods across five delta districts.",
+        "ta": "காவேரி டெல்டாவின் பாதுகாக்கப்பட்ட சிறப்பு வேளாண் மண்டலத்தில் மூலோபாய வேளாண்-தொழில் வழித்தடம், விவசாய நிலத்தை பாதுகாத்து ஐந்து டெல்டா மாவட்டங்களில் விவசாயிகளின் வாழ்வாதாரத்தை ஆதரிக்கும் வேளாண் பதப்படுத்தும் தொழில்களை ஊக்குவிக்கிறது."
+      },
+      "beneficiaries": {
+        "count": "Delta region farmers",
+        "description": {
+          "en": "Farmers in Thanjavur, Thiruvarur, Mayiladuthurai, Nagapattinam, Tiruchirappalli",
+          "ta": "தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை, நாகப்பட்டினம், திருச்சிராப்பள்ளி விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 1,000+ crore",
+        "year": "Announced 2024"
+      },
+      "highlights": [
+        { "en": "Part of Protected Special Agriculture Zone (PSAZ)", "ta": "பாதுகாக்கப்பட்ட சிறப்பு வேளாண் மண்டலத்தின் (PSAZ) பகுதி" },
+        { "en": "Covers 5 delta districts", "ta": "5 டெல்டா மாவட்டங்களை உள்ளடக்கியது" },
+        { "en": "Agro-processing and value addition focus", "ta": "வேளாண் பதப்படுத்துதல் மற்றும் மதிப்பு கூட்டுதல் கவனம்" },
+        { "en": "Prevents non-agrarian industrial projects", "ta": "வேளாண் சாரா தொழில் திட்டங்களை தடுக்கிறது" }
+      ],
+      "icon": "🏭",
+      "sources": [
+        { "title": "TN APEX - Agro-Industrial", "url": "https://www.tnapex.tn.gov.in/ords/r/wstnapex/tnapex173136/agro-industrial?session=409668592457", "type": "government" },
+        { "title": "Sagar Sandesh - Agro Industrial Corridor", "url": "https://www.sagarsandesh.in/news/31959", "type": "media" },
+        { "title": "Civilsdaily - Protected Special Agriculture Zone", "url": "https://www.civilsdaily.com/news/protected-special-agriculture-zone/", "type": "media" }
+      ]
+    },
+    {
+      "id": "kuruvai-cultivation-package",
+      "name": {
+        "en": "Kuruvai Paddy Cultivation Special Package",
+        "ta": "குறுவை நெல் சாகுபடி சிறப்புத் தொகுப்பு"
+      },
+      "description": {
+        "en": "Annual special support package for Kuruvai paddy cultivation in Cauvery Delta districts, providing subsidized inputs including seeds, fertilizers, and mechanization support to reduce farming costs and boost yields.",
+        "ta": "காவேரி டெல்டா மாவட்டங்களில் குறுவை நெல் சாகுபடிக்கான வருடாந்திர சிறப்பு ஆதரவு தொகுப்பு, விவசாய செலவைக் குறைத்து விளைச்சலை அதிகரிக்க மானிய விதைகள், உரங்கள் மற்றும் இயந்திரமயமாக்கல் ஆதரவு வழங்குகிறது."
+      },
+      "beneficiaries": {
+        "count": "Delta farmers (5.6 lakh acres in 2024)",
+        "description": {
+          "en": "Paddy farmers in Cauvery delta districts",
+          "ta": "காவேரி டெல்டா மாவட்டங்களில் நெல் விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 58-82 crore annually",
+        "year": "2024-25"
+      },
+      "highlights": [
+        { "en": "Free 45 kg urea, 50 kg DAP, 25 kg potash per acre", "ta": "ஏக்கருக்கு 45 கிலோ யூரியா, 50 கிலோ DAP, 25 கிலோ பொட்டாஷ் இலவசம்" },
+        { "en": "Subsidies for mechanized paddy transplantation", "ta": "இயந்திர நெல் நடவுக்கு மானியங்கள்" },
+        { "en": "Certified quality seeds and bio-fertilizers", "ta": "சான்றளிக்கப்பட்ட தரமான விதைகள் மற்றும் உயிர் உரங்கள்" },
+        { "en": "Historic 5.6 lakh acres coverage in 2024 (highest in 48 years)", "ta": "2024-ல் 5.6 லட்சம் ஏக்கர் வரலாற்று சாதனை (48 ஆண்டுகளில் உச்சம்)" }
+      ],
+      "icon": "🌾",
+      "sources": [
+        { "title": "Daily Pioneer - Special Package for Paddy Growers", "url": "https://www.dailypioneer.com/2025/india/tamil-nadu-government-announces-special-package-for-paddy-growers.html", "type": "media" },
+        { "title": "News Today - Rs 78.67 cr Delta Kuruvai Package", "url": "https://newstodaynet.com/2024/06/15/%E2%82%B978-67-cr-delta-kuruvai-cultivation-special-package-announced/", "type": "media" },
+        { "title": "TNPSC Thervupettagam - Kuruvai Coverage 2025", "url": "https://www.tnpscthervupettagam.com/currentaffairs-detail/kuruvai-coverage-2025/", "type": "media" }
+      ]
+    },
+    {
+      "id": "godrej-samadhan-centre",
+      "name": {
+        "en": "Godrej Agrovet Samadhan Centre for Oil Palm",
+        "ta": "எண்ணெய் பனைக்கான கோத்ரேஜ் அக்ரோவெட் சமாதான் மையம்"
+      },
+      "description": {
+        "en": "One-stop solution center for oil palm farmers providing comprehensive knowledge, inputs, tools, services, and expert guidance to maximize yields, established through public-private partnership in Thanjavur.",
+        "ta": "தஞ்சாவூரில் பொது-தனியார் கூட்டாண்மை மூலம் நிறுவப்பட்ட, எண்ணெய் பனை விவசாயிகளுக்கு விரிவான அறிவு, உள்ளீடுகள், கருவிகள், சேவைகள் மற்றும் நிபுணர் வழிகாட்டுதல் வழங்கும் ஒருங்கிணைந்த தீர்வு மையம்."
+      },
+      "beneficiaries": {
+        "count": "2,000 hectares of oil palm farmers",
+        "description": {
+          "en": "Oil palm farmers in delta districts",
+          "ta": "டெல்டா மாவட்டங்களில் எண்ணெய் பனை விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "PPP model with SBI financing",
+        "year": "Inaugurated July 2024"
+      },
+      "highlights": [
+        { "en": "First Samadhan Centre in Tamil Nadu", "ta": "தமிழ்நாட்டில் முதல் சமாதான் மையம்" },
+        { "en": "Supports 2,000 hectares of oil palm cultivation", "ta": "2,000 ஹெக்டேர் எண்ணெய் பனை சாகுபடிக்கு ஆதரவு" },
+        { "en": "State Bank of India partnership for farmer financing", "ta": "விவசாயி நிதியுதவிக்கு ஸ்டேட் பாங்க் ஆப் இந்தியா கூட்டாண்மை" },
+        { "en": "50 centres planned across India by 2027", "ta": "2027க்குள் இந்தியா முழுவதும் 50 மையங்கள் திட்டமிடப்பட்டுள்ளன" }
+      ],
+      "icon": "🌴",
+      "sources": [
+        { "title": "PR Newswire - Godrej Agrovet Samadhan Centre TN", "url": "https://www.prnewswire.com/in/news-releases/godrej-agrovet-opens-first-samadhan-centre-in-tamil-nadu-for-oil-palm-farmers-302196015.html", "type": "media" },
+        { "title": "Daily Excelsior - Samadhan Centre for Oil Palm", "url": "https://www.dailyexcelsior.com/godrej-agrovet-opens-first-samadhan-centre-for-oil-palm-farmers/", "type": "media" }
+      ]
+    },
+    {
+      "id": "tractor-rental-scheme",
+      "name": {
+        "en": "Tractor Rental and Training Scheme",
+        "ta": "டிராக்டர் வாடகை மற்றும் பயிற்சி திட்டம்"
+      },
+      "description": {
+        "en": "Government scheme providing tractors, rotary tillers, and rotavators at low rental rates to farmers, along with skill development training for rural youth in operating agricultural machinery.",
+        "ta": "விவசாயிகளுக்கு குறைந்த வாடகையில் டிராக்டர்கள், ரோட்டரி டில்லர்கள் மற்றும் ரோட்டவேட்டர்கள் வழங்கும் அரசு திட்டம், கிராமப்புற இளைஞர்களுக்கு விவசாய இயந்திரங்களை இயக்கும் திறன் மேம்பாட்டு பயிற்சியுடன்."
+      },
+      "beneficiaries": {
+        "count": "Farmers + 500 rural youth annually",
+        "description": {
+          "en": "Small and marginal farmers, rural youth",
+          "ta": "சிறு மற்றும் குறு விவசாயிகள், கிராமப்புற இளைஞர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 11.25 crore",
+        "year": "Rs 10.25 crore (equipment) + Rs 1 crore (training)"
+      },
+      "highlights": [
+        { "en": "90 tractors, 180 rotary tillers, 90 rotavators deployed", "ta": "90 டிராக்டர்கள், 180 ரோட்டரி டில்லர்கள், 90 ரோட்டவேட்டர்கள் நிறுத்தப்பட்டுள்ளன" },
+        { "en": "Training at 6 mechanization centres", "ta": "6 இயந்திரமயமாக்கல் மையங்களில் பயிற்சி" },
+        { "en": "e-Vadagai mobile app for equipment rental", "ta": "உபகரண வாடகைக்கு e-வடகை மொபைல் ஆப்" },
+        { "en": "Centres in Vellore, Coimbatore, Trichy, Madurai, Tiruvarur, Tirunelveli", "ta": "வேலூர், கோயம்புத்தூர், திருச்சி, மதுரை, திருவாரூர், திருநெல்வேலியில் மையங்கள்" }
+      ],
+      "icon": "🚜",
+      "sources": [
+        { "title": "TN Agricultural Engineering Dept - Subsidy Schemes", "url": "https://aed.tn.gov.in/en/individual-based-subsidy-schemes/", "type": "government" },
+        { "title": "Krishi Jagran - TN Agriculture Budget 2024-25", "url": "https://krishijagran.com/news/tamil-nadu-launches-agriculture-budget-2024-25-prioritizing-sustainability-and-rural-development", "type": "media" },
+        { "title": "TNPSC Thervupettagam - Recent TN Schemes Part 9", "url": "https://www.tnpscthervupettagam.com/articles-detail/recent-tamil-nadu-government-schemes-part-09/?cat=gk-articles", "type": "media" }
+      ]
+    }
+  ],
+  "summary": {
+    "total_new_schemes": 8,
+    "categories": {
+      "credit_finance": 1,
+      "soil_health": 1,
+      "nutrition": 1,
+      "research": 1,
+      "agro_industry": 1,
+      "paddy_support": 1,
+      "oil_palm": 1,
+      "mechanization": 1
+    },
+    "notes": "Several extracted items were aggregates (multiple projects bundled together) or infrastructure projects that don't qualify as standalone schemes. Athikadavu-Avinashi was already in existing data. Aavin, fisheries, and dairy infrastructure items were part of existing broader schemes."
+  }
+}

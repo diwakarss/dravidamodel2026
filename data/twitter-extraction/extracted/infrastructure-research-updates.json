@@ -1,0 +1,444 @@
+{
+  "generated": "2026-02-18",
+  "description": "Research updates for infrastructure-final-additions.json - filling missing data from web research",
+  "researchNotes": "Web searches conducted to find accurate startYear, coordinates, and photoUrl for projects with missing data",
+  "updates": [
+    {
+      "id": "ancient-temple-restoration-programme",
+      "startYear": 2025,
+      "coordinates": null,
+      "coordinatesNotes": "Statewide programme covering 714 temples across all districts - no single coordinate applicable. Temples span Chengalpattu, Cuddalore, Kallakurichi, Kancheepuram, Kanniyakumari, Mayiladuthurai, Nagapattinam, Ranipet, Thanjavur, Thoothukudi, Tiruchi, Tirunelveli, Tiruvallur, Tiruvannamalai, Tiruvarur, Vellore, and Villupuram districts.",
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Programme launched July 11, 2025 by CM Stalin. Initial 63 temples at Rs 100 crore, expanded to Rs 425 crore. 352 temples under conservation, 68 completed as of October 2025. UNESCO award received for Abathsahayeswarar temple restoration in Thanjavur."
+    },
+    {
+      "id": "setc-bs6-sleeper-buses",
+      "startYear": 2024,
+      "coordinates": {
+        "latitude": 13.0644,
+        "longitude": 80.2588
+      },
+      "coordinatesNotes": "Flagged off from SETC Bus Workshop on Pallavan Road, Chennai. Coordinates are approximate for Pallavan Road area.",
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "150 BS-VI sleeper buses flagged off August 28, 2024 by Minister Udhayanidhi Stalin from Bus Workshop on Pallavan Road, Chennai. Statewide operation. Coordinates represent flagoff location, not operational area."
+    },
+    {
+      "id": "water-resources-19-projects-8-districts",
+      "startYear": 2023,
+      "coordinates": null,
+      "coordinatesNotes": "Multi-district programme covering 8 districts including Coimbatore and Tirupur. Key projects: Check dam at Kavundayanvalasu, Check dam at Mambadi-Punganthurai, Check dam at Vadakkipalayam near Pollachi. No single coordinate applicable.",
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "19 projects inaugurated October 7, 2024 by CM Stalin virtually from Chennai. Includes 3 check dams in Coimbatore and Tirupur districts. Projects spread across 8 districts."
+    },
+    {
+      "id": "panchayat-union-offices-12-districts",
+      "startYear": 2023,
+      "coordinates": null,
+      "coordinatesNotes": "17 buildings across 12 districts: Coimbatore, Cuddalore, Erode, Kanyakumari, Pudukottai, Tenkasi, Thanjavur, Theni, Thoothukudi, Tiruchirappalli, Tirupur, Villupuram. No single coordinate applicable.",
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "17 Panchayat Union office buildings inaugurated November 12, 2024 by CM Stalin virtually from Secretariat. Part of Rural Development and Panchayat Raj Department initiative."
+    },
+    {
+      "id": "sivaganga-drinking-water",
+      "startYear": 2022,
+      "coordinates": {
+        "latitude": 9.85,
+        "longitude": 78.48
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Construction estimated to have begun around 2022 based on project timeline. Inaugurated January 31, 2026. Covers 2,452 rural habitations."
+    },
+    {
+      "id": "gd-naidu-flyover",
+      "startYear": 2020,
+      "coordinates": {
+        "latitude": 11.0168,
+        "longitude": 77.0428
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Construction began December 2020. Project approved June 2020. 10.01 km elevated expressway. Inaugurated October 9, 2025. Named after industrial genius G.D. Naidu."
+    },
+    {
+      "id": "kalaignar-bus-terminus-trichy",
+      "startYear": 2022,
+      "coordinates": {
+        "latitude": 10.77,
+        "longitude": 78.72
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Foundation stone laid October 10, 2022. Named Muthamizh Arignar Kalaignar Karunanidhi Integrated Bus Terminus. Opened May 9, 2025, operational from July 16, 2025. 40 acres, 401 bus capacity."
+    },
+    {
+      "id": "tidel-park-pattabiram",
+      "startYear": 2020,
+      "coordinates": {
+        "latitude": 13.1167,
+        "longitude": 80.0667
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Foundation stone laid June 2020 by CM K Palaniswami. 21-storey building on 11.41 acres. Inaugurated November 22, 2024. Expected to generate 6,000 IT/ITeS jobs."
+    },
+    {
+      "id": "seyyur-vaniyambadi-polur-road",
+      "startYear": 2020,
+      "coordinates": {
+        "latitude": 12.52,
+        "longitude": 79.42
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Part of Tamil Nadu Industrial Connectivity Project (ADB loan $484 million). ADB project commenced January 2020. 109 km road widened to 10 meters. Inaugurated February 20, 2025."
+    },
+    {
+      "id": "thiruvottiyur-tuna-harbor",
+      "startYear": 2019,
+      "coordinates": {
+        "latitude": 13.16,
+        "longitude": 80.3
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Construction began 2019 at initial cost Rs 200 crore. Expanded with additional Rs 75 crore. India's first exclusive tuna fishing harbour. Inaugurated May 28, 2025."
+    },
+    {
+      "id": "kovai-semmozhi-poonga",
+      "startYear": 2023,
+      "coordinates": {
+        "latitude": 11.0168,
+        "longitude": 76.9558
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Foundation stone laid December 2023 by CM Stalin. Originally announced by CM Karunanidhi in 2010. 45-acre Phase 1 on former Central Prison grounds. Inaugurated November 25, 2025."
+    },
+    {
+      "id": "sipcot-ttro-hosur",
+      "startYear": 2021,
+      "coordinates": {
+        "latitude": 12.7409,
+        "longitude": 77.8253
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "20 MLD TTRO plant at Hosur SIPCOT. Inaugurated June 13, 2023. Construction estimated to have begun around 2021. Water sourced from Kelavarapalli Dam."
+    },
+    {
+      "id": "north-chennai-housing-ezhukinar",
+      "startYear": 2023,
+      "coordinates": {
+        "latitude": 13.1167,
+        "longitude": 80.2833
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Part of Chief Minister Urban Housing scheme under North Chennai Development Scheme. 776 apartments inaugurated + 144 units foundation laid January 21, 2026."
+    },
+    {
+      "id": "j-anbazhagan-flyover",
+      "startYear": 2023,
+      "coordinates": {
+        "latitude": 13.0418,
+        "longitude": 80.2341
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Project initiated in 2023 by Deputy CM Udhayanidhi Stalin. 1.2 km steel flyover in T. Nagar. Chennai's first major steel flyover. Inaugurated September 30, 2025. Named after late DMK senior leader J. Anbazhagan."
+    },
+    {
+      "id": "elcot-it-park-vilankurichi",
+      "startYear": 2020,
+      "coordinates": {
+        "latitude": 11.0439,
+        "longitude": 76.9957
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Original foundation stone laid February 24, 2007. Recent construction began 2020 after earlier delays. Six-storey building with 2.94 lakh sq ft. Inaugurated November 5, 2024."
+    },
+    {
+      "id": "ukkadam-flyover",
+      "startYear": 2018,
+      "coordinates": {
+        "latitude": 10.9925,
+        "longitude": 76.9614
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Foundation stone laid 2018-2019 (sources vary). 3.8 km four-lane flyover. Construction took approximately 6 years. Inaugurated August 9, 2024."
+    },
+    {
+      "id": "kallakurichi-collectorate",
+      "startYear": 2020,
+      "coordinates": {
+        "latitude": 11.7391,
+        "longitude": 78.9599
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Initial foundation stone laid October 23, 2020 by CM Edappadi K Palaniswami. Second foundation ceremony September 16, 2024. 8 floors, 40+ departments. Inaugurated December 26, 2025."
+    },
+    {
+      "id": "virudhunagar-collectorate-building",
+      "startYear": 2022,
+      "coordinates": {
+        "latitude": 9.5853,
+        "longitude": 77.9528
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Foundation laid by CM Stalin for Rs 70.57 crore project. Located at NH 7, Kumaraswamy Nagar, Kooraikundu. 6-floor building on 7.67 acres. Inaugurated November 10, 2024."
+    },
+    {
+      "id": "anna-heavy-vehicle-terminus-trichy",
+      "startYear": 2022,
+      "coordinates": {
+        "latitude": 10.8261,
+        "longitude": 78.6569
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Part of Rs 522 crore Trichy Transit Hubs project. Named after C.N. Annadurai. Inaugurated May 9, 2025 alongside Kalaignar Integrated Bus Stand."
+    },
+    {
+      "id": "tidel-neo-park-thoothukudi",
+      "startYear": 2022,
+      "coordinates": {
+        "latitude": 8.7642,
+        "longitude": 78.1348
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Mini TIDEL Park at Meelavittan II Village. 4.16 acres, G+4 floors, 63,100 sq ft. Capacity 600 IT professionals. Fourth TIDEL Neo Park in TN. Inaugurated December 29, 2024."
+    },
+    {
+      "id": "ayyarmalai-temple-ropeway",
+      "startYear": 2022,
+      "coordinates": {
+        "latitude": 10.9333,
+        "longitude": 78.4167
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Ropeway and waiting hall for Rathnagiriswarar hill temple at Ayyarmalai near Kulithalai. Temple has 1,017 steps. Inaugurated July 24, 2024 by CM Stalin via video conferencing."
+    },
+    {
+      "id": "kolathur-lake-park",
+      "startYear": 2024,
+      "coordinates": {
+        "latitude": 13.1167,
+        "longitude": 80.2167
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Part of North Chennai Development Scheme and Rs 250 crore CMDA lake revitalisation program. Lakeside park at Retteri Lake with walking track, children's play area, artificial waterfall."
+    },
+    {
+      "id": "somasundaram-sports-ground-tnagar",
+      "startYear": 2024,
+      "coordinates": {
+        "latitude": 13.0418,
+        "longitude": 80.2347
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Located at 26WM+CMH, Somasundaram St, Parthasarathi Puram, T. Nagar. Upgraded facilities for cricket, basketball, volleyball, badminton, table tennis. Inaugurated May 20, 2025."
+    },
+    {
+      "id": "cholagangam-lake-development",
+      "startYear": 2025,
+      "coordinates": {
+        "latitude": 11.2081,
+        "longitude": 79.4506
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Historic lake dug by Rajendra Chola I (1014-1044 CE). Rs 12 Cr water resources + Rs 7.25 Cr tourism. Announced July 22, 2025 on Aadi Thiruvathirai festival (Rajendra Chola birthday). Lake spread over 700 acres."
+    },
+    {
+      "id": "satchiyapuram-road-overbridge",
+      "startYear": 2022,
+      "coordinates": {
+        "latitude": 9.4528,
+        "longitude": 77.7984
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Long-awaited project fulfilling decades-old demand. Named after freedom fighter Sankaralinganar. Inaugurated November 11-12, 2025. Residents called it 'Diwali gift' to Sivakasi."
+    },
+    {
+      "id": "chembarambakkam-water-treatment-upgrade",
+      "startYear": 2013,
+      "coordinates": {
+        "latitude": 13.0333,
+        "longitude": 80.0667
+      },
+      "photoUrl": null,
+      "photoSource": null,
+      "verifiedBudget": true,
+      "notes": "Project began 2013, faced repeated delays due to NHAI permission issues. Doubles supply from 265 MLD to 530 MLD. Includes 11.7 km pipeline from Chembarambakkam to Porur. Inaugurated September 20, 2025."
+    }
+  ],
+  "projectsWithNoUpdatesNeeded": [
+    {
+      "id": "chennai-city-partnership-mtc",
+      "reason": "All data present - has startYear 2022, coordinates, sources"
+    },
+    {
+      "id": "thoothukudi-desalination",
+      "reason": "All data present - has startYear 2026, coordinates, sources"
+    },
+    {
+      "id": "north-chennai-development-phase2",
+      "reason": "All data present - has startYear 2024, coordinates, sources"
+    },
+    {
+      "id": "broadway-bus-terminal",
+      "reason": "All data present - has startYear 2026, coordinates, sources"
+    },
+    {
+      "id": "coimbatore-central-prison",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "tidel-park-trichy",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "central-tower-chennai",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "mamallan-reservoir",
+      "reason": "All data present - has startYear 2026, coordinates, sources"
+    },
+    {
+      "id": "tidel-park-madurai",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "periyar-library-science-centre",
+      "reason": "All data present - has startYear 2024, coordinates, sources"
+    },
+    {
+      "id": "tamil-nadu-house-delhi",
+      "reason": "All data present - has startYear 2024, coordinates, sources"
+    },
+    {
+      "id": "periyar-vegetable-market-trichy",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "madurai-central-prison",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "tambaram-eastern-bypass-bridge",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "chennai-municipal-bonds",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "mandaveli-multimodal-hub",
+      "reason": "All data present - has startYear 2026, coordinates, sources"
+    },
+    {
+      "id": "coimbatore-metro-land-acquisition",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "mannargudi-ring-road-phase1",
+      "reason": "All data present - has startYear 2024, coordinates, sources"
+    },
+    {
+      "id": "island-grounds-exhibition-centre",
+      "reason": "All data present - has startYear 2024, coordinates, sources"
+    },
+    {
+      "id": "gcc-ripon-building-council-hall",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "otteri-nalla-canal-restoration",
+      "reason": "All data present - has startYear 2025, coordinates, sources"
+    },
+    {
+      "id": "kolathur-ornamental-fish-market",
+      "reason": "All data present - has startYear 2024, coordinates, sources"
+    },
+    {
+      "id": "kolathur-ornamental-fish-center",
+      "reason": "All data present - has startYear 2024, coordinates, sources"
+    },
+    {
+      "id": "ms-swaminathan-wetland-park",
+      "reason": "All data present - has startYear 2023, coordinates, sources"
+    }
+  ],
+  "statistics": {
+    "totalProjectsInFile": 50,
+    "projectsWithUpdates": 26,
+    "projectsNoUpdateNeeded": 24,
+    "updatesProvided": {
+      "startYearUpdates": 26,
+      "coordinateUpdates": 2,
+      "photoUrlUpdates": 0
+    }
+  },
+  "sourcesUsed": [
+    "Wikipedia - GD Naidu Elevated Expressway",
+    "Wikipedia - Ukkadam Flyover",
+    "Wikipedia - TIDEL Park Pattabiram",
+    "Wikipedia - Panjappur Integrated Bus Terminus, Tiruchirappalli",
+    "The Hindu - Tamil Nadu news coverage",
+    "News9live - Tamil Nadu state news",
+    "ADB Project Documents - Tamil Nadu Industrial Connectivity Project",
+    "TIDEL Park Official Website",
+    "SIPCOT Official Website",
+    "Tamil Nadu Government District Websites (Kallakurichi, Virudhunagar, Thoothukudi, Trichy)",
+    "Construction World",
+    "Social News XYZ",
+    "Mangalorean.com",
+    "The Federal",
+    "The Print",
+    "ANI News",
+    "Live Chennai",
+    "APAC News Network",
+    "Study IQ",
+    "Organiser"
+  ]
+}

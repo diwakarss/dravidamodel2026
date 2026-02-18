@@ -1,0 +1,922 @@
+[
+  {
+    "tweet_id": "2016802947355856923",
+    "category": "education",
+    "name_en": "Tamil Nadu Knowledge City",
+    "name_ta": "தமிழ்நாடு அறிவுசார் நகரம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruvallur",
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2026-01-29",
+    "summary_en": "CM laid foundation for Tamil Nadu Knowledge City (800+ acres) with MoUs from 8 international universities at India Global Education Summit 2026."
+  },
+  {
+    "tweet_id": "2008184738289447017",
+    "category": "education",
+    "name_en": "Ulagam Ungal Kaiyil Laptop Scheme",
+    "name_ta": "உலகம் உங்கள் கையில் மடிக்கணினி திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "1000000",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2026-01-05",
+    "summary_en": "CM launched first phase of laptop distribution scheme providing 10 lakh laptops (of total 20 lakh) to college students with Intel i3, 8GB RAM, 256GB SSD and AI software subscriptions."
+  },
+  {
+    "tweet_id": "2004859922820071882",
+    "category": "education",
+    "name_en": "Tiruvannamalai Government Model School",
+    "name_ta": "திருவண்ணாமலை அரசு மாதிரிப் பள்ளி",
+    "investment_crore": 56.47,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruvannamalai",
+      "city": "Tiruvannamalai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-27",
+    "summary_en": "CM inaugurated new Government Model School buildings and hostels in Tiruvannamalai built at Rs 56.47 crore."
+  },
+  {
+    "tweet_id": "2003018602358972840",
+    "category": "education",
+    "name_en": "School Education Infrastructure Projects",
+    "name_ta": "பள்ளிக்கல்வி உட்கட்டமைப்பு திட்டங்கள்",
+    "investment_crore": 234.29,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-22",
+    "summary_en": "CM inaugurated 392 new classrooms at Rs 96.49 crore, 2 model schools at Rs 113.68 crore, and 68 library buildings at Rs 17.82 crore across 20 districts. Also laid foundation for Mayiladuthurai district central library at Rs 4.40 crore."
+  },
+  {
+    "tweet_id": "2001542112748429717",
+    "category": "education",
+    "name_en": "Tamil Nadu University Research Foundation",
+    "name_ta": "தமிழ்நாடு பல்கலைக்கழக ஆராய்ச்சி அறக்கட்டளை",
+    "investment_crore": 5,
+    "jobs_created": null,
+    "beneficiaries": "Researchers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-12-18",
+    "summary_en": "TN University Research Foundation under TIDCO established with Rs 5 crore grant supporting 20 projects at university parks in Coimbatore and Madurai."
+  },
+  {
+    "tweet_id": "1992235935778693124",
+    "category": "education",
+    "name_en": "Kovilvenni Primary School Building",
+    "name_ta": "கோவில்வெண்ணி தொடக்கப்பள்ளி கட்டடம்",
+    "investment_crore": 0.667,
+    "jobs_created": null,
+    "beneficiaries": "School students",
+    "location": {
+      "district": "Tiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-22",
+    "summary_en": "Industries Minister TRB Rajaa inaugurated new 3-classroom building at Rs 66.7 lakh for Kovilvenni Panchayat Union Primary School."
+  },
+  {
+    "tweet_id": "1985340019629060354",
+    "category": "education",
+    "name_en": "Namma School Namma Ooru Palli - 1000 Crore Milestone",
+    "name_ta": "நம்ம ஸ்கூல் நம்ம ஊரு பள்ளி - 1000 கோடி",
+    "investment_crore": 1000,
+    "jobs_created": null,
+    "beneficiaries": "Government school students",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-11-03",
+    "summary_en": "Namma School Namma Ooru Palli initiative reached Rs 1000 crore in contributions from 885 companies and 1500 donors for STEM labs, smart classrooms."
+  },
+  {
+    "tweet_id": "1977663218874306783",
+    "category": "education",
+    "name_en": "Government Law Colleges Buildings",
+    "name_ta": "அரசு சட்டக் கல்லூரி கட்டடங்கள்",
+    "investment_crore": 54.66,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Madurai",
+      "city": "Vellore"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-13",
+    "summary_en": "Madurai Government Law College academic block (Rs 48.20 cr) and Vellore Law College library building (Rs 6.46 cr) inaugurated"
+  },
+  {
+    "tweet_id": "1971502310854639926",
+    "category": "education",
+    "name_en": "Library Buildings and District Library Foundation",
+    "name_ta": "நூலக கட்டடங்கள் மற்றும் மாவட்ட நூலகம் அடிக்கல்",
+    "investment_crore": 43.34,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Kallakurichi",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-26",
+    "summary_en": "146 library buildings worth Rs 39.33 crore inaugurated, Rs 4.01 crore foundation for Kallakurichi district central library"
+  },
+  {
+    "tweet_id": "1970774268498895308",
+    "category": "education",
+    "name_en": "Chennai Middle School Building",
+    "name_ta": "சென்னை நடுநிலைப் பள்ளி கட்டடம்",
+    "investment_crore": 3.96,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Rangasai Street"
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-24",
+    "summary_en": "Chennai middle school building constructed at Rs 3.96 crore inaugurated"
+  },
+  {
+    "tweet_id": "1970777585169678758",
+    "category": "education",
+    "name_en": "Chennai Higher Secondary School Building",
+    "name_ta": "சென்னை உயர்நிலைப் பள்ளி கட்டடம்",
+    "investment_crore": 3.59,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Somaiya Street"
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-24",
+    "summary_en": "Chennai higher secondary school building constructed at Rs 3.59 crore inaugurated"
+  },
+  {
+    "tweet_id": "1969332200933114143",
+    "category": "education",
+    "name_en": "School Infrastructure Development",
+    "name_ta": "பள்ளி உட்கட்டமைப்பு வளர்ச்சி",
+    "investment_crore": 371,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-20",
+    "summary_en": "Rs 94 crore school buildings inaugurated in 26 districts, Rs 277 crore foundation laid for 243 schools in 21 districts",
+    "related_tweet_ids": [
+      "1969332200933114143",
+      "1943599188111233115"
+    ]
+  },
+  {
+    "tweet_id": "1969331190126821837",
+    "category": "education",
+    "name_en": "Teacher Induction Training Program",
+    "name_ta": "ஆசிரியர் நுழைவுநிலை பயிற்சி",
+    "investment_crore": null,
+    "jobs_created": 2715,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-09-20",
+    "summary_en": "Induction training program launched for 2715 newly selected teachers through Teachers Recruitment Board"
+  },
+  {
+    "tweet_id": "1960215466284396954",
+    "category": "education",
+    "name_en": "CM Breakfast Scheme Urban Expansion Launch",
+    "name_ta": "முதலமைச்சர் காலை உணவு திட்ட நகர்ப்புற விரிவாக்க துவக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "2059000 students total",
+    "location": {
+      "district": "Chennai",
+      "city": "Mylapore"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-08-26",
+    "summary_en": "Launched expansion of CM Breakfast Scheme to urban government-aided schools, now covering over 20.59 lakh students statewide"
+  },
+  {
+    "tweet_id": "1960377923216781417",
+    "category": "education",
+    "name_en": "CM Breakfast Scheme Expansion",
+    "name_ta": "முதலமைச்சரின் காலை உணவுத் திட்ட விரிவாக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": 2059000,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-08-26",
+    "summary_en": "CM Breakfast Scheme expanded to urban government-aided schools, now benefiting 20.59 lakh students across 37,416 schools"
+  },
+  {
+    "tweet_id": "1959912243887317167",
+    "category": "education",
+    "name_en": "Chennai Institute of Journalism",
+    "name_ta": "சென்னை இதழியல் கல்வி நிறுவனம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Journalism students",
+    "location": {
+      "district": "Chennai",
+      "city": "Kotturpuram"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-25",
+    "summary_en": "Launched first government-funded autonomous journalism institute in South India"
+  },
+  {
+    "tweet_id": "1958558828276121813",
+    "category": "education",
+    "name_en": "CM Breakfast Scheme Urban Expansion",
+    "name_ta": "முதலமைச்சர் காலை உணவு திட்ட நகர்ப்புற விரிவாக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "305000 students in urban government-aided schools",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-08-21",
+    "summary_en": "Announced expansion of CM Breakfast Scheme to government-aided primary schools in urban areas benefiting 3.05 lakh students from Aug 26"
+  },
+  {
+    "tweet_id": "1938519036247388345",
+    "category": "education",
+    "name_en": "Ekambaranathar School Building",
+    "name_ta": "ஏகாம்பரநாதர் பள்ளி கட்டடம்",
+    "investment_crore": 11.15,
+    "jobs_created": null,
+    "beneficiaries": "School students",
+    "location": {
+      "district": "Chennai",
+      "city": "Kilpauk"
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-27",
+    "summary_en": "Opened 4-floor additional classroom building at Kanchipuram Ekambaranathar School"
+  },
+  {
+    "tweet_id": "1935978872673108212",
+    "category": "education",
+    "name_en": "4 New Government Arts and Science Colleges",
+    "name_ta": "4 புதிய அரசு கலை மற்றும் அறிவியல் கல்லூரிகள்",
+    "investment_crore": 36.18,
+    "jobs_created": null,
+    "beneficiaries": "Students",
+    "location": {
+      "district": "Vellore/Trichy/Kallakurichi/Tiruvannamalai",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-20",
+    "summary_en": "Launched 4 new colleges at KV Kuppam, Thuraiyur, Ulundurpet, Chengam; opened Rs 36.18 crore buildings at Thiruvalluvar University"
+  },
+  {
+    "tweet_id": "1932365624543690959",
+    "category": "education",
+    "name_en": "Public Libraries Infrastructure",
+    "name_ta": "பொது நூலக கட்டடங்கள்",
+    "investment_crore": 31.65,
+    "jobs_created": null,
+    "beneficiaries": "Public",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-10",
+    "summary_en": "Opened 110 additional library buildings at Rs 29.80 crore and Chennai Book Park at Rs 1.85 crore at Chennai Central Metro station"
+  },
+  {
+    "tweet_id": "1926912760748634319",
+    "category": "education",
+    "name_en": "11 New Government Arts and Science Colleges",
+    "name_ta": "புதிய அரசு கலை மற்றும் அறிவியல் கல்லூரிகள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Students across 11 districts",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-26",
+    "summary_en": "Launched 11 new government arts and science colleges from 2025-26 academic year in Cuddalore, Nilgiris, Dindigul, Chennai, Villupuram, Chengalpattu, Sivagangai, Thiruvarur, Thanjavur, Perambalur, Thoothukudi"
+  },
+  {
+    "tweet_id": "1924755092491927704",
+    "category": "education",
+    "name_en": "Auditorium at Queen Mary's College",
+    "name_ta": "ராணி மேரி கல்லூரி கலையரங்கம்",
+    "investment_crore": 5,
+    "jobs_created": null,
+    "beneficiaries": "College students",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-05-20",
+    "summary_en": "Foundation stone laid for auditorium at Queen Mary's College from MPLAD funds"
+  },
+  {
+    "tweet_id": "1924756229408317578",
+    "category": "education",
+    "name_en": "Higher Education Infrastructure Projects",
+    "name_ta": "உயர்கல்வித் துறை கட்டடங்கள்",
+    "investment_crore": 369.84,
+    "jobs_created": null,
+    "beneficiaries": "College students",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-20",
+    "summary_en": "Opened Rs 120.02 crore educational buildings including 455-bed women's hostel at Queen Mary's College; laid foundation for Rs 207.82 crore new projects"
+  },
+  {
+    "tweet_id": "1920399713679101992",
+    "category": "education",
+    "name_en": "Trichy Model School Buildings",
+    "name_ta": "திருச்சி மாதிரிப் பள்ளி கட்டடங்கள்",
+    "investment_crore": 57.47,
+    "jobs_created": null,
+    "beneficiaries": "Model School Students",
+    "location": {
+      "district": "Trichy",
+      "city": "Thuvakudi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-08",
+    "summary_en": "CM inaugurated Rs 19.65 crore model school building and Rs 18.91 crore each for boys and girls hostel buildings"
+  },
+  {
+    "tweet_id": "1915381226120057119",
+    "category": "education",
+    "name_en": "UPSC Training Centre Chennai",
+    "name_ta": "UPSC பயிற்சி மையம் சென்னை",
+    "investment_crore": 40,
+    "jobs_created": null,
+    "beneficiaries": "500 Students",
+    "location": {
+      "district": "Chennai",
+      "city": "Senai Nagar"
+    },
+    "event_type": "announcement",
+    "date": "2025-04-24",
+    "summary_en": "CM announced Rs 40 crore residential UPSC training centre for 500 students in Chennai"
+  },
+  {
+    "tweet_id": "1914320931679256737",
+    "category": "education",
+    "name_en": "NEP Third Language Controversy",
+    "name_ta": "NEP மூன்றாம் மொழி சர்ச்சை",
+    "investment_crore": 2152,
+    "jobs_created": null,
+    "beneficiaries": "Tamil Nadu Students",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2025-04-21",
+    "summary_en": "CM demanded Union release Rs 2152 crore withheld for not implementing NEP third language policy"
+  },
+  {
+    "tweet_id": "1912070148250358016",
+    "category": "education",
+    "name_en": "MC Raja Hostel Building Family Gratitude",
+    "name_ta": "எம்.சி.ராஜா விடுதிக் கட்டடம்",
+    "investment_crore": 44.5,
+    "jobs_created": null,
+    "beneficiaries": "SC/ST College Students",
+    "location": {
+      "district": "Chennai",
+      "city": "Saidapet"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-15",
+    "summary_en": "MC Raja's family thanked CM for inaugurating Rs 44.5 crore hostel building named after the leader"
+  },
+  {
+    "tweet_id": "1911704744399454493",
+    "category": "education",
+    "name_en": "SC/ST College Hostel Building Chennai",
+    "name_ta": "ஆதிதிராவிடர் பழங்குடியின மாணவர் விடுதிக் கட்டடம்",
+    "investment_crore": 44.5,
+    "jobs_created": null,
+    "beneficiaries": "484 College Students",
+    "location": {
+      "district": "Chennai",
+      "city": "Saidapet"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-14",
+    "summary_en": "CM inaugurated Rs 44.5 crore 10-storey hostel building for 484 SC/ST college students at MC Raja College"
+  },
+  {
+    "tweet_id": "1910603023614693810",
+    "category": "education",
+    "name_en": "Library Buildings and Classroom Buildings",
+    "name_ta": "நூலகக் கட்டடங்கள் மற்றும் வகுப்பறைக் கட்டடங்கள்",
+    "investment_crore": 117.4,
+    "jobs_created": null,
+    "beneficiaries": "Students across Tamil Nadu",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-11",
+    "summary_en": "CM inaugurated 326 library buildings at Rs 84.76 crore and 199 classroom buildings at Rs 32.64 crore across all districts"
+  },
+  {
+    "tweet_id": "1903004854328627311",
+    "category": "education",
+    "name_en": "Kalaignar Library and Knowledge Centre Trichy",
+    "name_ta": "திருச்சிராப்பள்ளி கலைஞர் நூலகம் மற்றும் அறிவுசார் மையம்",
+    "investment_crore": 290,
+    "jobs_created": null,
+    "beneficiaries": "Trichy Residents",
+    "location": {
+      "district": "Trichy",
+      "city": "Trichy"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-03-21",
+    "summary_en": "CM laid foundation for Rs 290 crore world-class Kalaignar Library and Knowledge Centre in Trichy"
+  },
+  {
+    "tweet_id": "1900528726955508123",
+    "category": "education",
+    "name_en": "Women's Hostels in Chennai, Coimbatore, Madurai",
+    "name_ta": "சென்னை, கோவை, மதுரையில் மாணவியர் விடுதிகள்",
+    "investment_crore": 275,
+    "jobs_created": null,
+    "beneficiaries": "3000 Women Students",
+    "location": {
+      "district": null,
+      "city": "Chennai, Coimbatore, Madurai"
+    },
+    "event_type": "announcement",
+    "date": "2025-03-14",
+    "summary_en": "Budget allocated Rs 275 crore for women's hostels accommodating 1000 students each in three cities"
+  },
+  {
+    "tweet_id": "1893277728847073484",
+    "category": "education",
+    "name_en": "Government School Buildings",
+    "name_ta": "அரசு பள்ளி கட்டடங்கள்",
+    "investment_crore": 177.38,
+    "jobs_created": null,
+    "beneficiaries": "Students in 132 government schools",
+    "location": {
+      "district": "Cuddalore",
+      "city": "Tiruppayar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-22",
+    "summary_en": "CM inaugurated classrooms, laboratories, and residential school buildings built at Rs 177.38 crore in 132 government schools."
+  },
+  {
+    "tweet_id": "1890322171291193643",
+    "category": "education",
+    "name_en": "Government Kallar Reformation School Buildings",
+    "name_ta": "அரசு கள்ளர் சீரமைப்புப் பள்ளி கட்டடங்கள்",
+    "investment_crore": 8.92,
+    "jobs_created": null,
+    "beneficiaries": "Students of BC/MBC schools",
+    "location": {
+      "district": "Madurai, Theni, Pudukkottai",
+      "city": "Multiple"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-14",
+    "summary_en": "CM inaugurated school infrastructure buildings worth Rs 8.92 crore in government Kallar reformation schools across three districts."
+  },
+  {
+    "tweet_id": "1883815409976999990",
+    "category": "education",
+    "name_en": "Smart Classrooms in Government Primary Schools",
+    "name_ta": "அரசு தொடக்கப் பள்ளிகளில் ஸ்மார்ட் வகுப்பறைகள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Primary school students across Tamil Nadu",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2025-01-27",
+    "summary_en": "Completion of 22,931 smart classrooms in government primary schools across Tamil Nadu, project started in June 2024."
+  },
+  {
+    "tweet_id": "1881631259652472894",
+    "category": "education",
+    "name_en": "Lakshmi Valartamil Library",
+    "name_ta": "லக்ஷ்மி வளர்தமிழ் நூலகம்",
+    "investment_crore": 12,
+    "jobs_created": null,
+    "beneficiaries": "Students and researchers",
+    "location": {
+      "district": "Sivaganga",
+      "city": "Karaikudi"
+    },
+    "event_type": "inauguration",
+    "date": "2025-01-21",
+    "summary_en": "CM inaugurated Rs 12 crore Lakshmi Valartamil Library at Alagappa University funded by P. Chidambaram's personal contribution."
+  },
+  {
+    "tweet_id": "1876650002778653025",
+    "category": "education",
+    "name_en": "Nutritional Workers Allowance Increase",
+    "name_ta": "சத்துணவு அமைப்பாளர்கள் படி உயர்வு",
+    "investment_crore": 6.68,
+    "jobs_created": null,
+    "beneficiaries": "Noon meal organizers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-01-07",
+    "summary_en": "Government increased additional responsibility allowance for noon meal organizers from Rs 600 to Rs 1000 per month, allocating Rs 6.68 crore."
+  },
+  {
+    "tweet_id": "1873622222814032331",
+    "category": "education",
+    "name_en": "Pudhumai Penn Expansion Scheme",
+    "name_ta": "புதுமைப் பெண் விரிவாக்கத் திட்டம்",
+    "investment_crore": 601,
+    "jobs_created": null,
+    "beneficiaries": "500000+ female students",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thoothukudi"
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-12-30",
+    "summary_en": "CM launched expansion of Pudhumai Penn scheme providing Rs 1000 monthly stipend to girls studying in Tamil medium from Class 6-12 in government-aided schools."
+  },
+  {
+    "tweet_id": "1871180601770066287",
+    "category": "education",
+    "name_en": "Kapaleeswarar Arts and Science College Building",
+    "name_ta": "கபாலீஸ்வரர் கலை அறிவியல் கல்லூரி கட்டடம்",
+    "investment_crore": 25,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-12-23",
+    "summary_en": "Foundation stone for new building of Kapaleeswarar Arts and Science College at Rs 25 crore."
+  },
+  {
+    "tweet_id": "1864219841302864086",
+    "category": "education",
+    "name_en": "Presidency College Special Student Hostel",
+    "name_ta": "மாநிலக் கல்லூரி சிறப்பு மாணவர் விடுதி",
+    "investment_crore": 21.6,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2024-12-04",
+    "summary_en": "Special hostel for differently-abled students at Presidency College at Rs 21.60 crore."
+  },
+  {
+    "tweet_id": "1854791591191625842",
+    "category": "education",
+    "name_en": "Government School Classroom Buildings",
+    "name_ta": "அரசுப் பள்ளி வகுப்பறைக் கட்டடங்கள்",
+    "investment_crore": 171.16,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "29 districts",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-08",
+    "summary_en": "754 new classroom buildings and 17 lab buildings in 141 government schools across 29 districts at Rs 171.16 crore."
+  },
+  {
+    "tweet_id": "1851165107168166187",
+    "category": "education",
+    "name_en": "Higher Education Infrastructure - Classrooms, Labs, Hostels",
+    "name_ta": "உயர்கல்வி கட்டமைப்பு",
+    "investment_crore": 156.05,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-10-29",
+    "summary_en": "Inauguration of educational buildings worth Rs 156.05 crore including classrooms, labs, auditoriums, hostels across government colleges."
+  },
+  {
+    "tweet_id": "1838485755284664384",
+    "category": "education",
+    "name_en": "GKM Colony School Building Kolathur",
+    "name_ta": "GKM காலனி பள்ளி கட்டடம் கொளத்தூர்",
+    "investment_crore": 4.23,
+    "jobs_created": null,
+    "beneficiaries": "School students",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2024-09-24",
+    "summary_en": "Corporation primary school building with ground floor and 2 floors built under Singara Chennai 2.0 and MPLAD funds."
+  },
+  {
+    "tweet_id": "1822922991140995275",
+    "category": "education",
+    "name_en": "Government Law College Buildings",
+    "name_ta": "அரசு சட்ட கல்லூரி கட்டடங்கள்",
+    "investment_crore": 78.17,
+    "jobs_created": null,
+    "beneficiaries": "Law students",
+    "location": {
+      "district": "Ramanathapuram",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-12",
+    "summary_en": "CM inaugurated Rs 76.60cr Ramanathapuram law college buildings and Rs 1.57cr sports ground at Ambedkar Law College"
+  },
+  {
+    "tweet_id": "1821822971306258918",
+    "category": "education",
+    "name_en": "Tamil Puthalvan Scheme Launch",
+    "name_ta": "தமிழ்ப்புதல்வன் திட்ட தொடக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "3.28 lakh male students in higher education",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-08-09",
+    "summary_en": "CM launched Tamil Puthalvan scheme providing Rs 1000 monthly to government school boys pursuing higher education"
+  },
+  {
+    "tweet_id": "1821828176231780845",
+    "category": "education",
+    "name_en": "Bharathiar University Buildings",
+    "name_ta": "பாரதியார் பல்கலைக்கழக கட்டடங்கள்",
+    "investment_crore": 41.57,
+    "jobs_created": null,
+    "beneficiaries": "University students",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-09",
+    "summary_en": "CM inaugurated Rs 41.57 crore bioscience and social science department buildings at Bharathiar University"
+  },
+  {
+    "tweet_id": "1816406580281422283",
+    "category": "education",
+    "name_en": "Tamil Puthalvan Scheme",
+    "name_ta": "தமிழ்ப்புதல்வன் திட்டம்",
+    "investment_crore": 360,
+    "jobs_created": null,
+    "beneficiaries": "Male students pursuing higher education from government schools",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-07-25",
+    "summary_en": "Rs 360 crore allocated for Tamil Puthalvan scheme providing Rs 1000 monthly to government school boys in higher education"
+  },
+  {
+    "tweet_id": "1814202234860871939",
+    "category": "education",
+    "name_en": "School Buildings and Integrated Education Complex",
+    "name_ta": "பள்ளி கட்டடங்கள் மற்றும் ஒருங்கிணைந்த கல்வி வளாகம்",
+    "investment_crore": 264.15,
+    "jobs_created": null,
+    "beneficiaries": "School students",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-19",
+    "summary_en": "CM inaugurated 956 new classrooms, 12 lab buildings, renovated Thagaisal schools and integrated education complex worth Rs 264.15 crore"
+  },
+  {
+    "tweet_id": "1813133841466614014",
+    "category": "education",
+    "name_en": "Government College Buildings",
+    "name_ta": "அரசு கல்லூரி கட்டடங்கள்",
+    "investment_crore": 52.75,
+    "jobs_created": null,
+    "beneficiaries": "College students",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-07-16",
+    "summary_en": "CM inaugurated new college buildings worth Rs 52.75 crore in Pudukkottai, Trichy, Namakkal and Coimbatore"
+  },
+  {
+    "tweet_id": "1812951046094004697",
+    "category": "education",
+    "name_en": "TN Breakfast Scheme Budget",
+    "name_ta": "தமிழ்நாடு காலை உணவு திட்ட நிதி",
+    "investment_crore": 225,
+    "jobs_created": null,
+    "beneficiaries": "1.14 lakh students in 2424 schools",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-07-15",
+    "summary_en": "Rs 225 crore budget allocated for TN Breakfast Scheme covering 1.14 lakh students in 2424 schools"
+  },
+  {
+    "tweet_id": "1812030971765752196",
+    "category": "education",
+    "name_en": "CM's Breakfast Scheme Extension to Aided Schools",
+    "name_ta": "முதலமைச்சர் காலை உணவு திட்டம் விரிவாக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Students in government-aided primary schools",
+    "location": {
+      "district": "Tiruvallur",
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-07-13",
+    "summary_en": "CM's Breakfast Scheme extended to all government-aided primary schools in rural areas"
+  },
+  {
+    "tweet_id": "1805200202502217912",
+    "category": "education",
+    "name_en": "Higher Education Support for Government School Students",
+    "name_ta": "அரசு பள்ளி மாணவர்கள் உயர்கல்வி ஆதரவு",
+    "investment_crore": 6,
+    "jobs_created": null,
+    "beneficiaries": "Government school students joining premier institutions",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-24",
+    "summary_en": "Rs 6 crore allocated for higher education expenses of government school students joining top national institutions"
+  },
+  {
+    "tweet_id": "1805200214174691567",
+    "category": "education",
+    "name_en": "Hi-Tech Labs Upgradation",
+    "name_ta": "உயர் தொழில்நுட்ப ஆய்வகங்கள் மேம்பாடு",
+    "investment_crore": 58,
+    "jobs_created": null,
+    "beneficiaries": "Government school students",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-24",
+    "summary_en": "Hi-tech labs in government schools to be upgraded at Rs 58 crore for 2024-25 academic year"
+  },
+  {
+    "tweet_id": "1805200271657812161",
+    "category": "education",
+    "name_en": "First Generation Graduate Fee Concession",
+    "name_ta": "முதல் தலைமுறை பட்டதாரி கட்டண சலுகை",
+    "investment_crore": 379.31,
+    "jobs_created": null,
+    "beneficiaries": "First generation graduate students",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-06-24",
+    "summary_en": "Rs 379.31 crore provided as education fee concession to first generation graduate students"
+  },
+  {
+    "tweet_id": "1802697367189356856",
+    "category": "education",
+    "name_en": "Naan Mudhalvan SCOUT Program - Durham University",
+    "name_ta": "நான் முதல்வன் SCOUT திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "25 students",
+    "location": null,
+    "event_type": "other",
+    "date": "2024-06-17",
+    "summary_en": "25 students trained at Durham University UK under SCOUT program"
+  },
+  {
+    "tweet_id": "1801517829646336472",
+    "category": "education",
+    "name_en": "Smart Classrooms in Government Schools",
+    "name_ta": "அரசுப் பள்ளிகளில் திறன்மிகு வகுப்பறைகள்",
+    "investment_crore": 455.32,
+    "jobs_created": null,
+    "beneficiaries": "22,931 classrooms",
+    "location": {
+      "district": "Multiple",
+      "city": "Chennai (launch)"
+    },
+    "event_type": "inauguration",
+    "date": "2024-06-14",
+    "summary_en": "22,931 smart classrooms inaugurated at Rs 455.32 crore in government schools"
+  },
+  {
+    "tweet_id": "1801524079020884313",
+    "category": "education",
+    "name_en": "Tablets for Primary Teachers",
+    "name_ta": "தொடக்கக் கல்வி ஆசிரியர்களுக்கு கையடக்கக் கணினிகள்",
+    "investment_crore": 101.48,
+    "jobs_created": null,
+    "beneficiaries": "79,723 teachers",
+    "location": null,
+    "event_type": "distribution",
+    "date": "2024-06-14",
+    "summary_en": "79,723 tablets distributed to primary teachers at Rs 101.48 crore"
+  },
+  {
+    "tweet_id": "1801531170783695237",
+    "category": "education",
+    "name_en": "Tamil Pudhalvan Scheme",
+    "name_ta": "தமிழ்ப்புதல்வன் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Government school male students",
+    "location": null,
+    "event_type": "announcement",
+    "date": "2024-06-14",
+    "summary_en": "Rs 1000 monthly for male students from government schools, launching August"
+  },
+  {
+    "tweet_id": "1799713761240166427",
+    "category": "education",
+    "name_en": "Naan Mudhalvan - London Training Program",
+    "name_ta": "நான் முதல்வன் திட்டம் - லண்டன் பயிற்சி",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "25 students",
+    "location": null,
+    "event_type": "scheme_launch",
+    "date": "2024-06-09",
+    "summary_en": "25 students sent to London for special training under Naan Mudhalvan scheme"
+  }
+]

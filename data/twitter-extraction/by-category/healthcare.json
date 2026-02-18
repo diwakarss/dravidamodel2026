@@ -1,0 +1,482 @@
+[
+  {
+    "tweet_id": "2019714846170980737",
+    "category": "healthcare",
+    "name_en": "Health Infrastructure Projects",
+    "name_ta": "சுகாதார உட்கட்டமைப்பு திட்டங்கள்",
+    "investment_crore": 348.59,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2026-02-06",
+    "summary_en": "CM inaugurated district headquarters hospitals, additional buildings, microbiology labs, Indian medicine and homeopathy buildings, and various health centres worth Rs 348.59 crore."
+  },
+  {
+    "tweet_id": "2016069693204005099",
+    "category": "healthcare",
+    "name_en": "Guindy Children's Super Specialty Hospital",
+    "name_ta": "கிண்டி குழந்தைகளுக்கான உயர்சிறப்பு மருத்துவமனை",
+    "investment_crore": 417.07,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Guindy"
+    },
+    "event_type": "groundbreaking",
+    "date": "2026-01-27",
+    "summary_en": "CM laid foundation for children's super specialty hospital and research centre at Rs 417.07 crore at King Institute, Guindy."
+  },
+  {
+    "tweet_id": "1990314558897148069",
+    "category": "healthcare",
+    "name_en": "Makkalai Thedi Maruthuvam - 2.5 Crore Beneficiaries",
+    "name_ta": "மக்களைத் தேடி மருத்துவம் - 2.5 கோடி பயனாளிகள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "25000000 people",
+    "location": {
+      "district": "Thanjavur",
+      "city": "Thennangudi"
+    },
+    "event_type": "other",
+    "date": "2025-11-17",
+    "summary_en": "Makkalai Thedi Maruthuvam scheme reached 2.5 crore beneficiaries milestone, winning UN award for non-communicable disease control."
+  },
+  {
+    "tweet_id": "1988848729059913888",
+    "category": "healthcare",
+    "name_en": "Women Wellness on Wheels - Mobile Medical Service",
+    "name_ta": "பெண்கள் நல்வாழ்வு நடமாடும் மருத்துவ சேவை",
+    "investment_crore": 40,
+    "jobs_created": null,
+    "beneficiaries": "Women across Tamil Nadu",
+    "location": {
+      "district": "Kanchipuram",
+      "city": "Kanchipuram"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-11-13",
+    "summary_en": "India's first mobile medical service for women's cancer, diabetes, BP screening launched with 38 vehicles worth Rs 40 crore."
+  },
+  {
+    "tweet_id": "1985980393594732810",
+    "category": "healthcare",
+    "name_en": "Tiruchengode Government Hospital Upgrade",
+    "name_ta": "திருச்செங்கோடு அரசு மருத்துவமனை மேம்பாடு",
+    "investment_crore": 23,
+    "jobs_created": null,
+    "beneficiaries": "225 bed hospital patients",
+    "location": {
+      "district": "Namakkal",
+      "city": "Tiruchengode"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-05",
+    "summary_en": "CM inaugurated upgraded Tiruchengode Government Hospital with new 4-floor building and 225 bed capacity at Rs 23 crore."
+  },
+  {
+    "tweet_id": "1984540709425410169",
+    "category": "healthcare",
+    "name_en": "108 Emergency Ambulances",
+    "name_ta": "108 அவசரகால ஊர்திகள்",
+    "investment_crore": 18.9,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-01",
+    "summary_en": "CM flagged off 87 new 108 emergency ambulances worth Rs 18.90 crore for public use across Tamil Nadu."
+  },
+  {
+    "tweet_id": "1981656380856734207",
+    "category": "healthcare",
+    "name_en": "DPHPM Vehicles for District Health Officers",
+    "name_ta": "மாவட்ட சுகாதார அலுவலர்களுக்கான வாகனங்கள்",
+    "investment_crore": 4.05,
+    "jobs_created": null,
+    "beneficiaries": "45 District Health Officers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-24",
+    "summary_en": "CM flagged off 45 new vehicles worth Rs 4.05 crore for District Health Officers under the Public Health Department."
+  },
+  {
+    "tweet_id": "1975116187983056953",
+    "category": "healthcare",
+    "name_en": "Medical Infrastructure Development",
+    "name_ta": "மருத்துவ உட்கட்டமைப்பு வளர்ச்சி",
+    "investment_crore": 217.96,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-06",
+    "summary_en": "Medical buildings worth Rs 173.81 crore inaugurated, Rs 20.15 crore foundation laid, Rs 24 crore food testing lab equipment installed"
+  },
+  {
+    "tweet_id": "1954817566347591939",
+    "category": "healthcare",
+    "name_en": "Velampalayam Government Hospital",
+    "name_ta": "வேலம்பாளையம் அரசு மருத்துவமனை",
+    "investment_crore": 48.68,
+    "jobs_created": null,
+    "beneficiaries": "Local residents",
+    "location": {
+      "district": "Tiruppur",
+      "city": "Velampalayam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-11",
+    "summary_en": "Inaugurated new government hospital in Velampalayam"
+  },
+  {
+    "tweet_id": "1954099354756599984",
+    "category": "healthcare",
+    "name_en": "Tambaram District Government Hospital",
+    "name_ta": "தாம்பரம் மாவட்ட அரசு தலைமை மருத்துவமனை",
+    "investment_crore": 110,
+    "jobs_created": null,
+    "beneficiaries": "Chengalpattu district residents",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Tambaram"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-09",
+    "summary_en": "Inaugurated new Tambaram District Government Hospital building with 400 beds and 6 operation theaters"
+  },
+  {
+    "tweet_id": "1951557562840784922",
+    "category": "healthcare",
+    "name_en": "Nalam Kakkum Stalin Launch",
+    "name_ta": "நலம் காக்கும் ஸ்டாலின் துவக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Chennai",
+      "city": "Santhome"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-08-02",
+    "summary_en": "Launched Nalam Kakkum Stalin special health camps across all districts at St. Bede's School"
+  },
+  {
+    "tweet_id": "1950890807009120634",
+    "category": "healthcare",
+    "name_en": "Nalam Kakkum Stalin Health Camps",
+    "name_ta": "நலம் காக்கும் ஸ்டாலின் சுகாதார முகாம்கள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-07-31",
+    "summary_en": "Announced Nalam Kakkum Stalin health scheme with 1,256 camps every Saturday across TN providing free health checkups"
+  },
+  {
+    "tweet_id": "1940692004150890633",
+    "category": "healthcare",
+    "name_en": "Urban Wellness Centers Phase 2",
+    "name_ta": "நகர்ப்புற நலவாழ்வு மையங்கள்",
+    "investment_crore": 112,
+    "jobs_created": null,
+    "beneficiaries": "Urban residents",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-03",
+    "summary_en": "Opened 208 new urban wellness centers at Rs 52 crore, 28 rural and 22 urban PHCs at Rs 60 crore"
+  },
+  {
+    "tweet_id": "1937819017026392557",
+    "category": "healthcare",
+    "name_en": "Vellore Multi Super Specialty Hospital",
+    "name_ta": "வேலூர் பல்நோக்கு உயர்சிறப்பு மருத்துவமனை",
+    "investment_crore": 204.81,
+    "jobs_created": null,
+    "beneficiaries": "Vellore district patients",
+    "location": {
+      "district": "Vellore",
+      "city": "Vellore"
+    },
+    "event_type": "inauguration",
+    "date": "2025-06-25",
+    "summary_en": "Opened Rs 197.81 crore seven-floor super specialty hospital and Rs 7 crore primary health center buildings"
+  },
+  {
+    "tweet_id": "1917238250596360457",
+    "category": "healthcare",
+    "name_en": "Kolathur Primary Health Centres and Office Building",
+    "name_ta": "கொளத்தூர் ஆரம்ப சுகாதார நிலையங்கள் மற்றும் அலுவலகக் கட்டடம்",
+    "investment_crore": 18.68,
+    "jobs_created": null,
+    "beneficiaries": "Kolathur Residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-04-29",
+    "summary_en": "CM laid foundation for 2 primary health centres at Rs 8.01 crore and office building at Rs 9.67 crore in Kolathur"
+  },
+  {
+    "tweet_id": "1908792239800848875",
+    "category": "healthcare",
+    "name_en": "Nilgiris Government Medical College Hospital Services",
+    "name_ta": "நீலகிரி அரசு மருத்துவக் கல்லூரி மருத்துவமனை சேவைகள்",
+    "investment_crore": 143.69,
+    "jobs_created": null,
+    "beneficiaries": "Nilgiris Residents",
+    "location": {
+      "district": "Nilgiris",
+      "city": "Udhagamandalam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-06",
+    "summary_en": "CM launched medical services at Rs 143.69 crore 700-bed Nilgiris Medical College Hospital"
+  },
+  {
+    "tweet_id": "1908176840637981146",
+    "category": "healthcare",
+    "name_en": "Nilgiris Government Medical College Hospital",
+    "name_ta": "நீலகிரி அரசு மருத்துவக் கல்லூரி மருத்துவமனை",
+    "investment_crore": 727,
+    "jobs_created": null,
+    "beneficiaries": "15634 beneficiaries",
+    "location": {
+      "district": "Nilgiris",
+      "city": "Ooty"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-04",
+    "summary_en": "CM to inaugurate medical college hospital and Rs 727 crore projects, distribute welfare to 15,634 beneficiaries"
+  },
+  {
+    "tweet_id": "1906393002987438446",
+    "category": "healthcare",
+    "name_en": "Mannargudi District Hospital ICU Block",
+    "name_ta": "மன்னார்குடி மாவட்ட மருத்துவமனை தீவிர சிகிச்சைப்பிரிவு",
+    "investment_crore": 20,
+    "jobs_created": null,
+    "beneficiaries": "Mannargudi Residents",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-03-30",
+    "summary_en": "Industries Minister laid foundation for Rs 20 crore 50-bed ICU block at Mannargudi Hospital"
+  },
+  {
+    "tweet_id": "1900528851610149075",
+    "category": "healthcare",
+    "name_en": "HPV Vaccination Program",
+    "name_ta": "HPV தடுப்பூசி திட்டம்",
+    "investment_crore": 36,
+    "jobs_created": null,
+    "beneficiaries": "Girls aged 14 and above",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-03-14",
+    "summary_en": "Budget allocated Rs 36 crore for HPV vaccination to prevent cervical cancer in girls aged 14+"
+  },
+  {
+    "tweet_id": "1895020955333992577",
+    "category": "healthcare",
+    "name_en": "Kalangarai Addiction Recovery Centers",
+    "name_ta": "கலங்கரை போதை மீட்பு மையங்கள்",
+    "investment_crore": 15.81,
+    "jobs_created": null,
+    "beneficiaries": "Addiction patients",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-27",
+    "summary_en": "CM inaugurated 25 Kalangarai integrated addiction recovery and rehabilitation centers at government medical college hospitals worth Rs 15.81 crore."
+  },
+  {
+    "tweet_id": "1895127418576478547",
+    "category": "healthcare",
+    "name_en": "Periyar Government Hospital Kolathur",
+    "name_ta": "பெரியார் அரசு மருத்துவமனை கொளத்தூர்",
+    "investment_crore": 210.8,
+    "jobs_created": null,
+    "beneficiaries": "North Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-27",
+    "summary_en": "CM inaugurated Periyar Government Hospital, a 7-storey super specialty hospital with modern medical equipment worth Rs 210.80 crore."
+  },
+  {
+    "tweet_id": "1893584668148040012",
+    "category": "healthcare",
+    "name_en": "Periyar Government Hospital",
+    "name_ta": "பெரியார் அரசு மருத்துவமனை",
+    "investment_crore": 210,
+    "jobs_created": null,
+    "beneficiaries": "North Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "other",
+    "date": "2025-02-23",
+    "summary_en": "CM inspected newly built 6-storey super specialty hospital named Periyar Government Hospital worth Rs 210 crore, to be inaugurated soon."
+  },
+  {
+    "tweet_id": "1888476253830930625",
+    "category": "healthcare",
+    "name_en": "Mental Health Homes Mannargudi",
+    "name_ta": "மனநலம் இல்லங்கள் மன்னார்குடி",
+    "investment_crore": 7,
+    "jobs_created": null,
+    "beneficiaries": "Mentally challenged persons",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Kandamangalam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-02-09",
+    "summary_en": "Industries Minister laid foundation for Rs 7 crore homes for mentally challenged persons in Kandamangalam, Mannargudi."
+  },
+  {
+    "tweet_id": "1886697065951949111",
+    "category": "healthcare",
+    "name_en": "Emergency Medical Vehicles",
+    "name_ta": "அவசரகால மருத்துவ ஊர்திகள்",
+    "investment_crore": 30.27,
+    "jobs_created": null,
+    "beneficiaries": "Emergency medical services users",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-04",
+    "summary_en": "CM flagged off 147 emergency vehicles including 72 new 108 ambulances, 4 terrain vehicles, 31 hearse vans, 36 maternal health vehicles at Rs 30.27 crore."
+  },
+  {
+    "tweet_id": "1864601916845772871",
+    "category": "healthcare",
+    "name_en": "Centre of Excellence for Autism Spectrum Disorder",
+    "name_ta": "ஆட்டிசம் ஒப்புயர்வு மையம்",
+    "investment_crore": 15,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "KK Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2024-12-05",
+    "summary_en": "Centre of Excellence for Persons with Autism Spectrum Disorder at Government Rehabilitation Hospital at Rs 15 crore."
+  },
+  {
+    "tweet_id": "1857336020808933402",
+    "category": "healthcare",
+    "name_en": "Oottachchatthai Uruthi Sey Phase 2",
+    "name_ta": "ஊட்டச்சத்தை உறுதி செய் திட்டம் கட்டம் 2",
+    "investment_crore": 22,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Ariyalur",
+      "city": "Varanasi"
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-11-15",
+    "summary_en": "Phase 2 of nutrition security scheme for infants launched at Rs 22 crore."
+  },
+  {
+    "tweet_id": "1824061518385954977",
+    "category": "healthcare",
+    "name_en": "Mudhalvar Marundhagam Scheme",
+    "name_ta": "முதல்வர் மருந்தகம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-08-15",
+    "summary_en": "New scheme to establish 1000 affordable medicine stores across Tamil Nadu announced on Independence Day."
+  },
+  {
+    "tweet_id": "1820365944377528350",
+    "category": "healthcare",
+    "name_en": "Periyar Nagar Government Hospital Construction",
+    "name_ta": "பெரியார் நகர் அரசு மருத்துவமனை கட்டுமானம்",
+    "investment_crore": 109.89,
+    "jobs_created": null,
+    "beneficiaries": "Patients in north Chennai",
+    "location": {
+      "district": "Chennai",
+      "city": "Periyar Nagar"
+    },
+    "event_type": "other",
+    "date": "2024-08-05",
+    "summary_en": "CM reviewed Rs 109.89 crore 7-floor specialty hospital under construction at Periyar Nagar"
+  },
+  {
+    "tweet_id": "1820443444889702882",
+    "category": "healthcare",
+    "name_en": "Makkalai Thedi Maruthuvam 3 Year Achievement",
+    "name_ta": "மக்களை தேடி மருத்துவம் 3 ஆண்டு சாதனை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "5.93 crore people",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-08-05",
+    "summary_en": "Makkalai Thedi Maruthuvam doorstep healthcare scheme benefited 5.93 crore people in 3 years"
+  },
+  {
+    "tweet_id": "1809495322084999443",
+    "category": "healthcare",
+    "name_en": "Aaruyir - Life Saving CPR Training",
+    "name_ta": "ஆருயிர் - உயிர் காக்கும் CPR பயிற்சி",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-07-06",
+    "summary_en": "CM launched Aaruyir scheme to provide basic life-saving CPR training to all people in Tamil Nadu"
+  }
+]

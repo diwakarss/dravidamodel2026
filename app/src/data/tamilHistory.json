@@ -168,14 +168,19 @@
       "icon": "🏛️",
       "sources": [
         {
-          "title": "Keeladi Museum",
-          "url": "https://www.keeladimuseum.tn.gov.in/",
+          "title": "TN Archaeology Dept - Keeladi",
+          "url": "https://www.tnarch.gov.in/keeladi",
           "type": "government"
         },
         {
-          "title": "Archaeology Policy Note",
-          "url": "https://cms.tn.gov.in/sites/default/files/documents/archaeology_e_pn_2024_25.pdf",
-          "type": "government"
+          "title": "Wikipedia - Keezhadi excavation",
+          "url": "https://en.wikipedia.org/wiki/Keezhadi_excavation_site",
+          "type": "media"
+        },
+        {
+          "title": "SMTT - Keeladi Heritage Museum",
+          "url": "https://www.smtt.com/keeladi-heritage-museum",
+          "type": "media"
         }
       ]
     },

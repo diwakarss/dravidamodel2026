@@ -1,0 +1,242 @@
+[
+  {
+    "tweet_id": "1919410222231179673",
+    "category": "infrastructure",
+    "name_en": "Mannargudi Ring Road",
+    "name_ta": "மன்னார்குடி சுற்றுவட்ட சாலை",
+    "investment_crore": 124,
+    "jobs_created": null,
+    "beneficiaries": "Mannargudi Residents",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "other",
+    "date": "2025-05-05",
+    "summary_en": "Industries Minister inspected Rs 124 crore ring road construction connecting 6 major roads, covering 11.9 km"
+  },
+  {
+    "tweet_id": "1970045626474983605",
+    "category": "infrastructure",
+    "name_en": "Fire and Rescue Training Academy Foundation",
+    "name_ta": "தீயணைப்பு பயிற்சி அகாடமி அடிக்கல்",
+    "investment_crore": 122.66,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Kalavakkam"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-09-22",
+    "summary_en": "Rs 21.85 crore State Training Academy foundation, Rs 97.65 crore police housing and stations, fire department buildings inaugurated"
+  },
+  {
+    "tweet_id": "1827956342893822096",
+    "category": "infrastructure",
+    "name_en": "North Chennai Development Plan Projects",
+    "name_ta": "வடசென்னை வளர்ச்சித் திட்டப் பணிகள்",
+    "investment_crore": 120.8,
+    "jobs_created": null,
+    "beneficiaries": "North Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "groundbreaking",
+    "date": "2024-08-26",
+    "summary_en": "Foundation laid for 6 new projects including Kolathur Ornamental Fish Market (Rs.53.50 cr), community hall, lake bund improvements totaling Rs.115.58 crore plus Rs.5.22 cr inaugurations."
+  },
+  {
+    "tweet_id": "1853706819442487625",
+    "category": "infrastructure",
+    "name_en": "Coimbatore IT Park Phase 2",
+    "name_ta": "கோயம்புத்தூர் தகவல் தொழில்நுட்ப பூங்கா",
+    "investment_crore": 114.16,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Coimbatore",
+      "city": "Coimbatore"
+    },
+    "event_type": "inauguration",
+    "date": "2024-11-05",
+    "summary_en": "Second IT Park inaugurated at Coimbatore worth Rs 114.16 crore."
+  },
+  {
+    "tweet_id": "1897975624654008798",
+    "category": "infrastructure",
+    "name_en": "Island Grounds Exhibition Centre",
+    "name_ta": "தீவுத்திடல் கண்காட்சி மையம்",
+    "investment_crore": 113,
+    "jobs_created": null,
+    "beneficiaries": "Chennai Residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Island Grounds"
+    },
+    "event_type": "other",
+    "date": "2025-03-07",
+    "summary_en": "CM inspected Rs 113 crore exhibition centre with 1.63 lakh sq ft area under construction"
+  },
+  {
+    "tweet_id": "1826627412781596979",
+    "category": "infrastructure",
+    "name_en": "MTC Electric Bus Infrastructure",
+    "name_ta": "MTC மின் பேருந்து உட்கட்டமைப்பு",
+    "investment_crore": 111.5,
+    "jobs_created": null,
+    "beneficiaries": "MTC commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "other",
+    "date": "2024-08-22",
+    "summary_en": "Fund allocated for electric bus infrastructure at 6 depots and diesel bus conversion at 5 depots."
+  },
+  {
+    "tweet_id": "1978504693979742461",
+    "category": "infrastructure",
+    "name_en": "Ganesh Nagar 230/33 KV GIS Substation",
+    "name_ta": "கணேஷ் நகர் 230/33 கி.வோ. துணைமின் நிலையம்",
+    "investment_crore": 110.92,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Ganesh Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-15",
+    "summary_en": "230/33 KV Gas Insulated Substation under North Chennai Development Plan constructed at Rs 110.92 crore inaugurated"
+  },
+  {
+    "tweet_id": "1820369204375138686",
+    "category": "infrastructure",
+    "name_en": "Kolathur Sub-station",
+    "name_ta": "கொளத்தூர் துணை மின் நிலையம்",
+    "investment_crore": 110.92,
+    "jobs_created": null,
+    "beneficiaries": "Power consumers",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "other",
+    "date": "2024-08-05",
+    "summary_en": "CM reviewed Rs 110.92 crore 230/33 KV gas-insulated sub-station under construction in Kolathur"
+  },
+  {
+    "tweet_id": "1897939302409273500",
+    "category": "infrastructure",
+    "name_en": "MS Swaminathan Wetland Green Park and Market Upgrades",
+    "name_ta": "எம்.எஸ்.சுவாமிநாதன் ஈரநில பசுமை பூங்கா மற்றும் சந்தை மேம்பாடு",
+    "investment_crore": 110.45,
+    "jobs_created": null,
+    "beneficiaries": "Chennai Residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Porur, Koyambedu, Sathangadu"
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-07",
+    "summary_en": "CM inaugurated Rs 39.75 crore park at Porur and market upgrades, laid foundation for Rs 70.70 crore new projects"
+  },
+  {
+    "tweet_id": "1951206184578331123",
+    "category": "infrastructure",
+    "name_en": "CMDA Parks and Flyover Beautification",
+    "name_ta": "CMDA பூங்காக்கள் மற்றும் மேம்பால அழகுபடுத்தல்",
+    "investment_crore": 109.86,
+    "jobs_created": null,
+    "beneficiaries": "Chennai residents",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-01",
+    "summary_en": "Inaugurated Perumbakkam park (Rs 6.94 cr), flyover beautification at Villivakkam, Padi, Vadapalani (Rs 11.50 cr), laid foundation for 13 CM Creative Studios among 26 projects (Rs 91.42 cr)"
+  },
+  {
+    "tweet_id": "1805200173876093288",
+    "category": "infrastructure",
+    "name_en": "Disaster Management Equipment Purchase",
+    "name_ta": "பேரிடர் மேலாண்மை உபகரண கொள்முதல்",
+    "investment_crore": 105.36,
+    "jobs_created": null,
+    "beneficiaries": "Disaster response teams",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-24",
+    "summary_en": "Modern equipment worth Rs 105.36 crore for disaster rescue operations"
+  },
+  {
+    "tweet_id": "1959998002346795487",
+    "category": "infrastructure",
+    "name_en": "Vidiyal Payanam Buses",
+    "name_ta": "விடியல் பயணம் பேருந்துகள்",
+    "investment_crore": 104.43,
+    "jobs_created": null,
+    "beneficiaries": "Women commuters",
+    "location": {
+      "district": "Chennai",
+      "city": "Periyar Nagar"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-25",
+    "summary_en": "Flagged off 248 new BS-VI Vidiyal Payanam buses for women's free travel scheme"
+  },
+  {
+    "tweet_id": "1905902908996202776",
+    "category": "infrastructure",
+    "name_en": "Police and Fire Station Buildings and Vehicles",
+    "name_ta": "காவல் நிலையங்கள் மற்றும் தீயணைப்பு கட்டடங்கள், வாகனங்கள்",
+    "investment_crore": 101.86,
+    "jobs_created": null,
+    "beneficiaries": "Police and Fire Department",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-03-29",
+    "summary_en": "CM inaugurated 96 police quarters, 2 police stations at Rs 19.8 crore; 45 fire staff quarters and 4 fire stations at Rs 21.52 crore; vehicles worth Rs 60.54 crore"
+  },
+  {
+    "tweet_id": "1943602989887062525",
+    "category": "infrastructure",
+    "name_en": "Ancient Temple Restoration",
+    "name_ta": "பழமையான திருக்கோயில் புனரமைப்பு",
+    "investment_crore": 100,
+    "jobs_created": null,
+    "beneficiaries": "Devotees and heritage preservation",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-07-11",
+    "summary_en": "Started restoration work on 63 temples that are over 1000 years old, preserving their ancient heritage"
+  },
+  {
+    "tweet_id": "1875160206092669249",
+    "category": "infrastructure",
+    "name_en": "New Ration Shops and Paddy Procurement Centers",
+    "name_ta": "புதிய நியாய விலைக் கடைகள் மற்றும் நெல் கொள்முதல் நிலையங்கள்",
+    "investment_crore": 100,
+    "jobs_created": null,
+    "beneficiaries": "Public distribution system users",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-01-03",
+    "summary_en": "TN government opened 1666 new ration shops and 230 paddy procurement centers worth Rs 100 crore in last 40 months."
+  }
+]

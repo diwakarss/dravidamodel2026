@@ -1,0 +1,1344 @@
+[
+  {
+    "tweet_id": "2016060911220338961",
+    "category": "social_welfare",
+    "name_en": "TN WESAFE and HPV Vaccine Program",
+    "name_ta": "TN WESAFE மற்றும் HPV தடுப்பூசி திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "30209",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2026-01-27",
+    "summary_en": "CM launched TN WESAFE program for women's employment support with World Bank assistance, and HPV vaccination for 30,209 girls aged 14 in 4 districts to prevent cervical cancer."
+  },
+  {
+    "tweet_id": "2016067824566075837",
+    "category": "social_welfare",
+    "name_en": "Global Women Summit 2026 - Pink Bus Service",
+    "name_ta": "உலக மகளிர் உச்சி மாநாடு 2026 - பிங்க் பேருந்து",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "inauguration",
+    "date": "2026-01-27",
+    "summary_en": "CM launched 10 Pink buses operated entirely by women staff for women's safety under Vidiyal Payanam scheme, along with women police vehicles and Pink autos."
+  },
+  {
+    "tweet_id": "2009546188982012318",
+    "category": "social_welfare",
+    "name_en": "Unga Kanava Sollungal Scheme",
+    "name_ta": "உங்க கனவ சொல்லுங்க திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Tiruvallur",
+      "city": "Ponneri"
+    },
+    "event_type": "scheme_launch",
+    "date": "2026-01-09",
+    "summary_en": "CM launched 'Tell Us Your Dreams' scheme to directly collect people's aspirations and needs through door-to-door visits."
+  },
+  {
+    "tweet_id": "2008824150861946880",
+    "category": "social_welfare",
+    "name_en": "Dindigul Welfare Distribution",
+    "name_ta": "திண்டுக்கல் நலத்திட்ட உதவிகள்",
+    "investment_crore": 1082.86,
+    "jobs_created": null,
+    "beneficiaries": "262864",
+    "location": {
+      "district": "Dindigul",
+      "city": "Dindigul"
+    },
+    "event_type": "distribution",
+    "date": "2026-01-07",
+    "summary_en": "CM distributed welfare assistance worth Rs 1,082.86 crore to 2,62,864 beneficiaries in Dindigul district."
+  },
+  {
+    "tweet_id": "2008090930063233373",
+    "category": "social_welfare",
+    "name_en": "UN Women MoU",
+    "name_ta": "ஐ.நா பெண்கள் புரிந்துணர்வு ஒப்பந்தம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2026-01-05",
+    "summary_en": "MoU signed between Government of Tamil Nadu and UN Women for women's welfare, gender equality and inclusive development."
+  },
+  {
+    "tweet_id": "2007751714498338960",
+    "category": "social_welfare",
+    "name_en": "Pongal Gift Package with Cash",
+    "name_ta": "பொங்கல் பரிசுத் தொகுப்பு",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "22291710",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2026-01-04",
+    "summary_en": "Pongal gift package with Rs 3,000 cash to be distributed to 2,22,91,710 rice card holders across Tamil Nadu."
+  },
+  {
+    "tweet_id": "1935269301512204419",
+    "category": "social_welfare",
+    "name_en": "Temple Development Projects",
+    "name_ta": "திருக்கோயில் மேம்பாட்டு திட்டங்கள்",
+    "investment_crore": 239.48,
+    "jobs_created": null,
+    "beneficiaries": "Temple devotees",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-06-18",
+    "summary_en": "Foundation for Rs 217.98 crore projects in 26 temples; opened Rs 21.50 crore completed buildings including assistant commissioner office and 17 temple works",
+    "related_tweet_ids": [
+      "2007376096527036912",
+      "1935269301512204419"
+    ]
+  },
+  {
+    "tweet_id": "2006609966527033600",
+    "category": "social_welfare",
+    "name_en": "Pongal Bonus for Government Employees",
+    "name_ta": "அரசு ஊழியர்களுக்கு பொங்கல் பரிசு",
+    "investment_crore": 183.86,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2026-01-01",
+    "summary_en": "CM announced Rs 183.86 crore allocation for Pongal bonus to C and D category government employees and pensioners."
+  },
+  {
+    "tweet_id": "2004856698591478274",
+    "category": "social_welfare",
+    "name_en": "Tiruvannamalai Welfare Distribution",
+    "name_ta": "திருவண்ணாமலை நலத்திட்ட உதவிகள்",
+    "investment_crore": 1400.57,
+    "jobs_created": null,
+    "beneficiaries": "266194",
+    "location": {
+      "district": "Tiruvannamalai",
+      "city": "Malappampadi"
+    },
+    "event_type": "distribution",
+    "date": "2025-12-27",
+    "summary_en": "CM distributed welfare assistance worth Rs 1,400.57 crore to 2,66,194 beneficiaries in Tiruvannamalai district."
+  },
+  {
+    "tweet_id": "2004534752058151226",
+    "category": "social_welfare",
+    "name_en": "Kallakurichi Welfare Distribution",
+    "name_ta": "கள்ளக்குறிச்சி நலத்திட்ட உதவிகள்",
+    "investment_crore": 1045,
+    "jobs_created": null,
+    "beneficiaries": "216056",
+    "location": {
+      "district": "Kallakurichi",
+      "city": "Veerasozapuram"
+    },
+    "event_type": "distribution",
+    "date": "2025-12-26",
+    "summary_en": "CM distributed welfare assistance worth Rs 1,045 crore to 2,16,056 beneficiaries in Kallakurichi district."
+  },
+  {
+    "tweet_id": "2002660955633717382",
+    "category": "social_welfare",
+    "name_en": "Kalaignar Kanavu Illam Housing Distribution",
+    "name_ta": "கலைஞரின் கனவு இல்லம்",
+    "investment_crore": 101.49,
+    "jobs_created": null,
+    "beneficiaries": "45477",
+    "location": {
+      "district": "Tirunelveli",
+      "city": "Palayamkottai"
+    },
+    "event_type": "distribution",
+    "date": "2025-12-21",
+    "summary_en": "CM distributed welfare assistance worth Rs 101.49 crore to 45,477 beneficiaries including houses under Kalaignar Kanavu Illam scheme."
+  },
+  {
+    "tweet_id": "2001684814219612514",
+    "category": "social_welfare",
+    "name_en": "Perarignar Anna Marriage Hall Inauguration",
+    "name_ta": "பேரறிஞர் அண்ணா திருமண மாளிகை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "15 couples",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-12-18",
+    "summary_en": "CM inaugurated Perarignar Anna Marriage Hall in Kolathur, conducting marriage for 15 couples with wedding gifts."
+  },
+  {
+    "tweet_id": "1999500609389486141",
+    "category": "social_welfare",
+    "name_en": "Kalaignar Magalir Urimai Thogai - Phase 2 Expansion",
+    "name_ta": "கலைஞர் மகளிர் உரிமைத் தொகை - இரண்டாம் கட்ட விரிவாக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "1694339 women",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-12-12",
+    "summary_en": "CM launched Phase 2 expansion of Kalaignar Magalir Urimai Thogai scheme benefiting 16,94,339 additional women."
+  },
+  {
+    "tweet_id": "1993611294931599532",
+    "category": "social_welfare",
+    "name_en": "Erode District Government Function",
+    "name_ta": "ஈரோடு மாவட்ட அரசு விழா",
+    "investment_crore": 605.44,
+    "jobs_created": null,
+    "beneficiaries": "184491 beneficiaries",
+    "location": {
+      "district": "Erode",
+      "city": "Erode"
+    },
+    "event_type": "distribution",
+    "date": "2025-11-26",
+    "summary_en": "CM inaugurated 790 completed projects worth Rs 235.73 crore, laid foundation for 23 new projects worth Rs 91.09 crore, distributed Rs 278.62 crore to 1,84,491 beneficiaries."
+  },
+  {
+    "tweet_id": "1993267301626601726",
+    "category": "social_welfare",
+    "name_en": "Houses for Differently Abled - G.D. Naidu Foundation",
+    "name_ta": "மாற்றுத்திறனாளிகளுக்கான வீடுகள் - ஜி.டி. நாயுடு அறக்கட்டளை",
+    "investment_crore": 5.67,
+    "jobs_created": null,
+    "beneficiaries": "86 differently abled persons",
+    "location": {
+      "district": "Coimbatore",
+      "city": "Chettipalayam"
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-25",
+    "summary_en": "CM inaugurated 86 specially designed houses for differently abled persons built at Rs 5.67 crore with G.D. Naidu Foundation."
+  },
+  {
+    "tweet_id": "1989582681844388231",
+    "category": "social_welfare",
+    "name_en": "CM's Food Scheme for Sanitary Workers",
+    "name_ta": "தூய்மைப் பணியாளர்களுக்கான முதலமைச்சரின் உணவு திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Sanitary workers",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-11-15",
+    "summary_en": "CM launched food scheme for sanitary workers in Chennai with promise to extend to all corporations and provide rest rooms in 200 wards."
+  },
+  {
+    "tweet_id": "1988887562854023223",
+    "category": "social_welfare",
+    "name_en": "Thozhi Hostels and Government Care Homes",
+    "name_ta": "தோழி விடுதிகள் மற்றும் அரசு பராமரிப்பு இல்லங்கள்",
+    "investment_crore": 97.41,
+    "jobs_created": null,
+    "beneficiaries": "740 working women",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-11-13",
+    "summary_en": "CM laid foundation for 12 new Thozhi working women's hostels at Rs 62.51 crore and care homes at Rs 27.90 crore across multiple districts."
+  },
+  {
+    "tweet_id": "1988163643327021362",
+    "category": "social_welfare",
+    "name_en": "Pink Patrol Vehicles for Women Safety",
+    "name_ta": "பெண்கள் பாதுகாப்புக்கான இளஞ்சிவப்பு ரோந்து வாகனங்கள்",
+    "investment_crore": 12,
+    "jobs_created": null,
+    "beneficiaries": "Women in major cities",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-11",
+    "summary_en": "CM flagged off 80 Pink Patrol vehicles worth Rs 12 crore for women's safety across major cities."
+  },
+  {
+    "tweet_id": "1987801258091315626",
+    "category": "social_welfare",
+    "name_en": "Pudukkottai District Government Function",
+    "name_ta": "புதுக்கோட்டை மாவட்ட அரசு விழா",
+    "investment_crore": 766.53,
+    "jobs_created": null,
+    "beneficiaries": "43993 beneficiaries",
+    "location": {
+      "district": "Pudukkottai",
+      "city": "Pudukkottai"
+    },
+    "event_type": "distribution",
+    "date": "2025-11-10",
+    "summary_en": "CM inaugurated 577 completed projects worth Rs 223 crore, laid foundation for 103 new projects worth Rs 201 crore, distributed Rs 341 crore welfare to 43,993 beneficiaries."
+  },
+  {
+    "tweet_id": "1987827712086700323",
+    "category": "social_welfare",
+    "name_en": "Anbu Solai Day Care Centers for Senior Citizens",
+    "name_ta": "அன்புச் சோலை மூத்த குடிமக்கள் நல மையங்கள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Senior citizens",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-11-10",
+    "summary_en": "CM inaugurated 25 Anbu Solai day care centers for senior citizens across 10 municipal corporations and industrial districts."
+  },
+  {
+    "tweet_id": "1983457356190195794",
+    "category": "social_welfare",
+    "name_en": "Tenkasi District Government Function",
+    "name_ta": "தென்காசி மாவட்ட அரசு விழா",
+    "investment_crore": 1020,
+    "jobs_created": null,
+    "beneficiaries": "244469 beneficiaries",
+    "location": {
+      "district": "Tenkasi",
+      "city": "Tenkasi"
+    },
+    "event_type": "distribution",
+    "date": "2025-10-29",
+    "summary_en": "CM distributed Rs 1020 crore worth welfare assistance to 2,44,469 beneficiaries and inaugurated 117 completed projects."
+  },
+  {
+    "tweet_id": "1983459862593077399",
+    "category": "social_welfare",
+    "name_en": "Kalaignar Kanavu Illam - 1 Lakh Houses Milestone",
+    "name_ta": "கலைஞரின் கனவு இல்லம் - ஒரு லட்சம் வீடுகள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "100000 families",
+    "location": {
+      "district": "Tenkasi",
+      "city": "Sengottai"
+    },
+    "event_type": "distribution",
+    "date": "2025-10-29",
+    "summary_en": "CM handed over house key to the 100,000th beneficiary of the Kalaignar Kanavu Illam housing scheme."
+  },
+  {
+    "tweet_id": "1978560367542800411",
+    "category": "social_welfare",
+    "name_en": "Police Martyrs Day Compensation",
+    "name_ta": "காவலர் வீரவணக்க நாள் இழப்பீடு",
+    "investment_crore": 5.7,
+    "jobs_created": null,
+    "beneficiaries": 6,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "distribution",
+    "date": "2025-10-21",
+    "summary_en": "Rs 5.70 crore compensation distributed to families of 6 police personnel who died in line of duty"
+  },
+  {
+    "tweet_id": "1977623114076008721",
+    "category": "social_welfare",
+    "name_en": "Land Pattas Distribution Madhuravoyal",
+    "name_ta": "நிலப் பட்டா வழங்குதல் மதுரவாயல்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": 140000,
+    "location": {
+      "district": "Chennai",
+      "city": "Madhuravoyal"
+    },
+    "event_type": "distribution",
+    "date": "2025-10-13",
+    "summary_en": "4000 land pattas distributed in Madhuravoyal constituency. 1.40 lakh pattas distributed in Chennai and suburbs in one year"
+  },
+  {
+    "tweet_id": "1977665404052050428",
+    "category": "social_welfare",
+    "name_en": "Aran Transgender Shelter Homes",
+    "name_ta": "அரண் திருநங்கையர் இல்லங்கள்",
+    "investment_crore": 0.44,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Madurai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-13",
+    "summary_en": "Aran transgender shelter homes inaugurated in Chennai Senai Nagar and Madurai Anna Nagar at Rs 43.88 lakh"
+  },
+  {
+    "tweet_id": "1975485910004461598",
+    "category": "social_welfare",
+    "name_en": "Sri Lankan Tamil Rehabilitation Camp Houses",
+    "name_ta": "இலங்கைத் தமிழர் மறுவாழ்வு முகாம் வீடுகள்",
+    "investment_crore": 51.06,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-07",
+    "summary_en": "772 new houses in 8 Sri Lankan Tamil rehabilitation camps across 4 districts constructed at Rs 51.06 crore inaugurated"
+  },
+  {
+    "tweet_id": "1975112106027724857",
+    "category": "social_welfare",
+    "name_en": "Adi Dravidar and Tribal Welfare Projects",
+    "name_ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலத் திட்டங்கள்",
+    "investment_crore": 210.65,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-10-06",
+    "summary_en": "20 social justice hostels (Rs 137.31 cr), 39 school buildings (Rs 39.29 cr), 250 tribal houses (Rs 12.72 cr), 16 knowledge centers and 9 multipurpose centers inaugurated"
+  },
+  {
+    "tweet_id": "1970048304571711991",
+    "category": "social_welfare",
+    "name_en": "Social Justice Hostels Development",
+    "name_ta": "சமூகநீதி விடுதிகள் வளர்ச்சி",
+    "investment_crore": 65.38,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-09-22",
+    "summary_en": "Rs 3.94 crore completed buildings inaugurated, Rs 61.44 crore foundation laid for 8 new social justice hostel buildings"
+  },
+  {
+    "tweet_id": "1967501012081713245",
+    "category": "social_welfare",
+    "name_en": "Anbukarangal Scheme for Orphan Children",
+    "name_ta": "அன்புக்கரங்கள் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-09-15",
+    "summary_en": "Launched Anbukarangal scheme providing Rs 2000/month to children who lost both parents until age 18 to continue education"
+  },
+  {
+    "tweet_id": "1959997062520705271",
+    "category": "social_welfare",
+    "name_en": "Raja Thottam TNUHDB Housing",
+    "name_ta": "இராஜா தோட்டம் TNUHDB குடியிருப்புகள்",
+    "investment_crore": 27.71,
+    "jobs_created": null,
+    "beneficiaries": "162 families",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-25",
+    "summary_en": "Inaugurated 162 apartment units built by TNUHDB for low-income families at Raja Thottam"
+  },
+  {
+    "tweet_id": "1955923762341392509",
+    "category": "social_welfare",
+    "name_en": "Sanitary Workers Welfare Schemes",
+    "name_ta": "தூய்மைப் பணியாளர் நலத்திட்டங்கள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Sanitary workers",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-08-14",
+    "summary_en": "Announced 6 new welfare schemes for sanitary workers including breakfast, education assistance, self-employment aid, Rs 10 lakh insurance, 30,000 houses, and health scheme"
+  },
+  {
+    "tweet_id": "1955196130226213000",
+    "category": "social_welfare",
+    "name_en": "Thayumanavar Scheme",
+    "name_ta": "தாயுமானவர் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "2170454 elderly and disabled persons",
+    "location": {
+      "district": "Chennai",
+      "city": "Thondaiarpet"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-08-12",
+    "summary_en": "Launched Thayumanavar scheme for door delivery of ration items to elderly and disabled persons covering 16.73 lakh family cards"
+  },
+  {
+    "tweet_id": "1954814705140105425",
+    "category": "social_welfare",
+    "name_en": "Tiruppur District Welfare Distribution",
+    "name_ta": "திருப்பூர் மாவட்ட நலத்திட்ட விநியோகம்",
+    "investment_crore": 295.29,
+    "jobs_created": null,
+    "beneficiaries": "19785 beneficiaries",
+    "location": {
+      "district": "Tiruppur",
+      "city": "Udumalaipettai"
+    },
+    "event_type": "distribution",
+    "date": "2025-08-11",
+    "summary_en": "Distributed welfare assistance worth Rs 295.29 crore to 19,785 beneficiaries in Tiruppur district"
+  },
+  {
+    "tweet_id": "1954133080513605768",
+    "category": "social_welfare",
+    "name_en": "Free House Site Patta Distribution",
+    "name_ta": "இலவச வீட்டுமனைப் பட்டா விநியோகம்",
+    "investment_crore": 1672.52,
+    "jobs_created": null,
+    "beneficiaries": "20021 beneficiaries",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2025-08-09",
+    "summary_en": "Distributed free house site pattas worth Rs 1672.52 crore to 20,021 beneficiaries, taking total to 17.74 lakh pattas since 2021"
+  },
+  {
+    "tweet_id": "1943595853866045515",
+    "category": "social_welfare",
+    "name_en": "Ungaludan Stalin Scheme",
+    "name_ta": "உங்களுடன் ஸ்டாலின் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "General public",
+    "location": {
+      "district": "Cuddalore",
+      "city": "Chidambaram"
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-07-11",
+    "summary_en": "Announced new scheme to deliver 46 government services at doorstep through 10,000 camps, starting July 15"
+  },
+  {
+    "tweet_id": "1943228673613598922",
+    "category": "social_welfare",
+    "name_en": "CM Girl Child Protection Scheme Distribution",
+    "name_ta": "முதலமைச்சர் பெண் குழந்தைகள் பாதுகாப்புத் திட்டம்",
+    "investment_crore": 600.55,
+    "jobs_created": null,
+    "beneficiaries": "67181 beneficiaries",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Thiruvarur"
+    },
+    "event_type": "distribution",
+    "date": "2025-07-10",
+    "summary_en": "Distributed welfare assistance worth Rs 600.55 crore to 67,181 beneficiaries including CM Girl Child Protection Scheme deposits"
+  },
+  {
+    "tweet_id": "1942143072399409214",
+    "category": "social_welfare",
+    "name_en": "Sri Lankan Tamil Refugee Housing",
+    "name_ta": "இலங்கைத் தமிழர் மறுவாழ்வு முகாம் வீடுகள்",
+    "investment_crore": 38.76,
+    "jobs_created": null,
+    "beneficiaries": "729 refugee families",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-07",
+    "summary_en": "Inaugurated 729 houses for Sri Lankan Tamil refugees across Villupuram, Tiruppur, Salem, Dharmapuri, and Virudhunagar districts"
+  },
+  {
+    "tweet_id": "1941075397808177482",
+    "category": "social_welfare",
+    "name_en": "Thiruchendur Temple Devotee Accommodation",
+    "name_ta": "திருச்செந்தூர் பக்தர் விடுதி",
+    "investment_crore": 10.57,
+    "jobs_created": null,
+    "beneficiaries": "Temple devotees",
+    "location": {
+      "district": "Thoothukudi",
+      "city": "Thiruchendur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-07-04",
+    "summary_en": "Opened 52-room devotee accommodation at Subramaniya Swamy Temple"
+  },
+  {
+    "tweet_id": "1927301216020672622",
+    "category": "social_welfare",
+    "name_en": "Senior Citizen Residences at Temples",
+    "name_ta": "மூத்த குடிமக்கள் உறைவிடங்கள்",
+    "investment_crore": 22.61,
+    "jobs_created": null,
+    "beneficiaries": "Senior citizens",
+    "location": {
+      "district": "Chennai/Dindigul/Tirunelveli",
+      "city": "Kolathur/Palani/Palayamkottai"
+    },
+    "event_type": "groundbreaking",
+    "date": "2025-05-27",
+    "summary_en": "Foundation stone laid for senior citizen residences at three temple locations"
+  },
+  {
+    "tweet_id": "1925104351644942419",
+    "category": "social_welfare",
+    "name_en": "Thozhi Hostels for Working Women",
+    "name_ta": "தோழி விடுதிகள்",
+    "investment_crore": 215.08,
+    "jobs_created": null,
+    "beneficiaries": "Working women",
+    "location": {
+      "district": "Multiple",
+      "city": "Parangimalai/Hosur/Tiruvannamalai"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-21",
+    "summary_en": "Opened 3 new Thozhi hostels at Rs 38.15 crore; laid foundation for 14 more at Rs 176.93 crore across 14 districts"
+  },
+  {
+    "tweet_id": "1924706273544794571",
+    "category": "social_welfare",
+    "name_en": "Ayothidasa Pandithar Housing Scheme",
+    "name_ta": "அயோத்திதாசர் குடியிருப்புகள் மேம்பாட்டுத் திட்டம்",
+    "investment_crore": 1000,
+    "jobs_created": null,
+    "beneficiaries": "Adi Dravidar community",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-05-20",
+    "summary_en": "Rs 1000 crore housing improvement scheme named after Pandithar Ayothidasa for Adi Dravidar welfare"
+  },
+  {
+    "tweet_id": "1922313257190060036",
+    "category": "social_welfare",
+    "name_en": "Mahout Village at Theppakadu Elephant Camp",
+    "name_ta": "மாவூத் கிராமம்",
+    "investment_crore": 5.06,
+    "jobs_created": null,
+    "beneficiaries": "44 elephant keeper families",
+    "location": {
+      "district": "Nilgiris",
+      "city": "Theppakadu"
+    },
+    "event_type": "inauguration",
+    "date": "2025-05-13",
+    "summary_en": "Inaugurated India's first Mahout Village with 44 government quarters for elephant keepers at Mudumalai Tiger Reserve"
+  },
+  {
+    "tweet_id": "1917235661725172041",
+    "category": "social_welfare",
+    "name_en": "Kolathur Housing Complex",
+    "name_ta": "கொளத்தூர் அடுக்குமாடி குடியிருப்புகள்",
+    "investment_crore": 23.04,
+    "jobs_created": null,
+    "beneficiaries": "130 Families",
+    "location": {
+      "district": "Chennai",
+      "city": "Kolathur"
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-29",
+    "summary_en": "CM inaugurated Rs 23.04 crore housing complex with 130 apartments at Jamaliya Lane, Kolathur"
+  },
+  {
+    "tweet_id": "1913157944708886528",
+    "category": "social_welfare",
+    "name_en": "Thiruvallur Welfare Assistance Distribution",
+    "name_ta": "திருவள்ளூர் நலத்திட்ட உதவிகள் வழங்குதல்",
+    "investment_crore": 357.43,
+    "jobs_created": null,
+    "beneficiaries": "202531 beneficiaries",
+    "location": {
+      "district": "Thiruvallur",
+      "city": "Ponneri, Andarkkuppam"
+    },
+    "event_type": "distribution",
+    "date": "2025-04-18",
+    "summary_en": "CM distributed Rs 357.43 crore welfare assistance to 2,02,531 beneficiaries in Thiruvallur"
+  },
+  {
+    "tweet_id": "1911697412936126478",
+    "category": "social_welfare",
+    "name_en": "Ambedkar Birth Anniversary Welfare Distribution",
+    "name_ta": "அம்பேத்கர் பிறந்தநாள் நலத்திட்ட உதவிகள்",
+    "investment_crore": 104.75,
+    "jobs_created": null,
+    "beneficiaries": "48436 beneficiaries",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "distribution",
+    "date": "2025-04-14",
+    "summary_en": "CM distributed Rs 104.75 crore welfare assistance to 48,436 SC/ST beneficiaries on Equality Day"
+  },
+  {
+    "tweet_id": "1911714047315104120",
+    "category": "social_welfare",
+    "name_en": "SC/ST Welfare Infrastructure",
+    "name_ta": "ஆதிதிராவிடர் பழங்குடியினர் நலத்துறை உட்கட்டமைப்பு",
+    "investment_crore": 227.85,
+    "jobs_created": null,
+    "beneficiaries": "SC/ST Students and Community",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-04-14",
+    "summary_en": "CM inaugurated Rs 227.85 crore infrastructure - 18 hostels, 46 school buildings, 19 community halls, 1000 tribal houses"
+  },
+  {
+    "tweet_id": "1909552545577812087",
+    "category": "social_welfare",
+    "name_en": "Fishermen Welfare Schemes",
+    "name_ta": "மீனவர் நலத்திட்டங்கள்",
+    "investment_crore": 576.73,
+    "jobs_created": null,
+    "beneficiaries": "Fishermen",
+    "location": {
+      "district": null,
+      "city": "Thangachimadam, Nagapattinam, Pamban, Rameswaram, Mandapam"
+    },
+    "event_type": "announcement",
+    "date": "2025-04-08",
+    "summary_en": "Fishermen associations thanked CM for announcing Rs 576.73 crore new welfare schemes in Assembly"
+  },
+  {
+    "tweet_id": "1902998236920680463",
+    "category": "social_welfare",
+    "name_en": "Temple One-time Pooja Fund Enhancement",
+    "name_ta": "ஒருகால பூஜை திட்ட வைப்பு நிதி",
+    "investment_crore": 110,
+    "jobs_created": null,
+    "beneficiaries": "18000 Temples",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-03-21",
+    "summary_en": "CM allocated Rs 110 crore for one-time pooja scheme - Rs 85 crore for 17000 temples and Rs 25 crore for 1000 additional temples"
+  },
+  {
+    "tweet_id": "1899385180718354611",
+    "category": "social_welfare",
+    "name_en": "Chengalpattu Government Welfare Assistance",
+    "name_ta": "செங்கல்பட்டு அரசு நலத்திட்ட உதவிகள்",
+    "investment_crore": 508.03,
+    "jobs_created": null,
+    "beneficiaries": "50606 beneficiaries",
+    "location": {
+      "district": "Chengalpattu",
+      "city": "Chengalpattu"
+    },
+    "event_type": "distribution",
+    "date": "2025-03-11",
+    "summary_en": "CM distributed Rs 508.03 crore welfare assistance to 50,606 beneficiaries in Chengalpattu"
+  },
+  {
+    "tweet_id": "1898003362911596659",
+    "category": "social_welfare",
+    "name_en": "Housing Assistance for Narikurava Community",
+    "name_ta": "நரிக்குறவர் இன மக்களுக்கு வீட்டுமனைப்பட்டா மற்றும் நிதி உதவி",
+    "investment_crore": 4,
+    "jobs_created": null,
+    "beneficiaries": "77 Narikurava families",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Thiruthuraipoondi"
+    },
+    "event_type": "distribution",
+    "date": "2025-03-07",
+    "summary_en": "77 Narikurava families received house site pattas and Rs 5 lakh each for housing totaling Rs 4 crore"
+  },
+  {
+    "tweet_id": "1895016303183962305",
+    "category": "social_welfare",
+    "name_en": "Pudukkottai Devasthanam Temple Grant",
+    "name_ta": "புதுக்கோட்டை தேவஸ்தான கோயில் மானியம்",
+    "investment_crore": 8,
+    "jobs_created": null,
+    "beneficiaries": "225 temples",
+    "location": {
+      "district": "Pudukkottai",
+      "city": "Pudukkottai"
+    },
+    "event_type": "distribution",
+    "date": "2025-02-27",
+    "summary_en": "CM handed over Rs 8 crore cheque for administration and maintenance of 225 temples under Pudukkottai Devasthanam."
+  },
+  {
+    "tweet_id": "1895017340032688462",
+    "category": "social_welfare",
+    "name_en": "Thanjavur Palace Devasthanam Temple Grant",
+    "name_ta": "தஞ்சாவூர் அரண்மனை தேவஸ்தான கோயில் மானியம்",
+    "investment_crore": 6,
+    "jobs_created": null,
+    "beneficiaries": "88 temples",
+    "location": {
+      "district": "Thanjavur",
+      "city": "Thanjavur"
+    },
+    "event_type": "distribution",
+    "date": "2025-02-27",
+    "summary_en": "CM handed over Rs 6 crore cheque for administration and maintenance of 88 temples under Thanjavur Palace Devasthanam."
+  },
+  {
+    "tweet_id": "1895018567936155803",
+    "category": "social_welfare",
+    "name_en": "Kanyakumari Temples Grant",
+    "name_ta": "கன்னியாகுமரி கோயில்கள் மானியம்",
+    "investment_crore": 13,
+    "jobs_created": null,
+    "beneficiaries": "490 temples",
+    "location": {
+      "district": "Kanyakumari",
+      "city": "Suchindram"
+    },
+    "event_type": "distribution",
+    "date": "2025-02-27",
+    "summary_en": "CM handed over Rs 13 crore cheque for administration and maintenance of 490 temples in Kanyakumari district."
+  },
+  {
+    "tweet_id": "1895124773849702558",
+    "category": "social_welfare",
+    "name_en": "Vizhuthugal Integrated Service Centers",
+    "name_ta": "விழுதுகள் ஒருங்கிணைந்த சேவை மையங்கள்",
+    "investment_crore": 10.82,
+    "jobs_created": null,
+    "beneficiaries": "Differently abled persons",
+    "location": {
+      "district": "Cuddalore, Dharmapuri, Tenkasi, Tiruchirappalli",
+      "city": "Multiple"
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-27",
+    "summary_en": "CM inaugurated 4 Vizhuthugal integrated service centers for differently abled persons worth Rs 10.82 crore in four districts."
+  },
+  {
+    "tweet_id": "1891384931806519639",
+    "category": "social_welfare",
+    "name_en": "Temple Infrastructure Projects",
+    "name_ta": "திருக்கோயில் உள்கட்டமைப்பு திட்டங்கள்",
+    "investment_crore": 172.22,
+    "jobs_created": null,
+    "beneficiaries": "Devotees",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-02-17",
+    "summary_en": "CM laid foundation for 24 new projects at 16 temples worth Rs 121.43 crore and inaugurated 15 completed projects at 7 temples worth Rs 50.79 crore."
+  },
+  {
+    "tweet_id": "1884516123288428604",
+    "category": "social_welfare",
+    "name_en": "Temple Renovation Grants",
+    "name_ta": "திருக்கோயில் திருப்பணி மானியம்",
+    "investment_crore": 62.5,
+    "jobs_created": null,
+    "beneficiaries": "2500 temples",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2025-01-29",
+    "summary_en": "CM released Rs 62.50 crore for renovation of 1250 rural temples and 1250 temples in SC/ST areas at Rs 2.50 lakh each."
+  },
+  {
+    "tweet_id": "1884589495347274020",
+    "category": "social_welfare",
+    "name_en": "PM Tribal Development Scheme State Contribution",
+    "name_ta": "பழங்குடியினர் பெருந்திட்டம் மாநில நிதி",
+    "investment_crore": 108.71,
+    "jobs_created": null,
+    "beneficiaries": "Tribal population",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-01-29",
+    "summary_en": "CM announced additional state contribution of Rs 108.71 crore for PM tribal development scheme."
+  },
+  {
+    "tweet_id": "1884161598576812375",
+    "category": "social_welfare",
+    "name_en": "Social Justice Warriors Memorial",
+    "name_ta": "சமூகநீதி போராளிகள் மணிமண்டபம்",
+    "investment_crore": 5.7,
+    "jobs_created": null,
+    "beneficiaries": "Public",
+    "location": {
+      "district": "Villupuram",
+      "city": "Valutharetti"
+    },
+    "event_type": "inauguration",
+    "date": "2025-01-28",
+    "summary_en": "CM inaugurated Rs 5.70 crore memorial pavilion for 21 social justice warriors in Villupuram."
+  },
+  {
+    "tweet_id": "1876260732792426869",
+    "category": "social_welfare",
+    "name_en": "Unorganized Workers Welfare Schemes",
+    "name_ta": "அமைப்புசாரா தொழிலாளர் நலத்திட்டங்கள்",
+    "investment_crore": 576,
+    "jobs_created": null,
+    "beneficiaries": "688000 unorganized workers",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2025-01-06",
+    "summary_en": "Rs 576 crore distributed to 6.88 lakh beneficiaries of unorganized workers welfare board in current financial year."
+  },
+  {
+    "tweet_id": "1872227767908978794",
+    "category": "social_welfare",
+    "name_en": "Temple Annadhanam Expansion",
+    "name_ta": "கோயில் அன்னதானம் விரிவாக்கம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "3.36 crore devotees annually, 5775 students",
+    "location": {
+      "district": "Madurai, Coimbatore, Dindigul",
+      "city": "Alagar Kovil, Marudhamalai, Palani"
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-12-26",
+    "summary_en": "All-day annadhanam expanded to Kallazagar Temple and Marudhamalai Temple. Lunch scheme for 5,775 students at Palani Temple institutions."
+  },
+  {
+    "tweet_id": "1870009797585842391",
+    "category": "social_welfare",
+    "name_en": "Erode District Welfare Distribution",
+    "name_ta": "ஈரோடு மாவட்ட நலத்திட்ட உதவிகள்",
+    "investment_crore": 284.02,
+    "jobs_created": null,
+    "beneficiaries": "50088 beneficiaries",
+    "location": {
+      "district": "Erode",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-12-20",
+    "summary_en": "Rs 284.02 crore welfare assistance to 50,088 beneficiaries."
+  },
+  {
+    "tweet_id": "1869685224331948215",
+    "category": "social_welfare",
+    "name_en": "SIPCOT Creche Facilities - 17 Industrial Parks",
+    "name_ta": "சிப்காட் குழந்தைகள் காப்பகங்கள்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "323000 employees in SIPCOTs",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-12-19",
+    "summary_en": "First-of-kind creche facilities in 17 SIPCOT industrial parks for working mothers, 43% of India's women factory workers are in TN."
+  },
+  {
+    "tweet_id": "1869228708546171305",
+    "category": "social_welfare",
+    "name_en": "Kalaignar Kanavu Illam Housing Scheme",
+    "name_ta": "கலைஞரின் கனவு இல்லம் திட்டம்",
+    "investment_crore": 400,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-12-18",
+    "summary_en": "Additional Rs 400 crore allocated for Kalaignar Kanavu Illam housing scheme."
+  },
+  {
+    "tweet_id": "1867487740595777818",
+    "category": "social_welfare",
+    "name_en": "Church and Mosque Renovation Grants",
+    "name_ta": "தேவாலயம் மற்றும் மசூதி புனரமைப்பு நிதி",
+    "investment_crore": 3.62,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-12-13",
+    "summary_en": "Rs 3.62 crore distributed for renovation of churches, mosques, dargahs, and cemeteries."
+  },
+  {
+    "tweet_id": "1867490901993697612",
+    "category": "social_welfare",
+    "name_en": "Cyclone Fengal Relief - DMK MLAs Salary Donation",
+    "name_ta": "ஃபெஞ்சல் புயல் நிவாரணம் - திமுக எம்எல்ஏ ஊதிய நன்கொடை",
+    "investment_crore": 1.3,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-12-13",
+    "summary_en": "DMK MLAs and Ministers donated one month salary totaling Rs 1.30 crore to CM's Public Relief Fund."
+  },
+  {
+    "tweet_id": "1865067290678419935",
+    "category": "social_welfare",
+    "name_en": "Cyclone Fengal Relief Request - Detailed",
+    "name_ta": "ஃபெஞ்சல் புயல் நிவாரணக் கோரிக்கை",
+    "investment_crore": 6675,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-12-06",
+    "summary_en": "Detailed request for Rs 6675 crore for temporary and permanent rehabilitation after Cyclone Fengal."
+  },
+  {
+    "tweet_id": "1864591705225482575",
+    "category": "social_welfare",
+    "name_en": "Vizhuthugal Mobile Rehabilitation Service",
+    "name_ta": "விழுதுகள் மறுவாழ்வு சேவை ஊர்தி",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": null,
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-12-05",
+    "summary_en": "Mobile rehabilitation service vehicle for differently-abled persons launched."
+  },
+  {
+    "tweet_id": "1864593341599633656",
+    "category": "social_welfare",
+    "name_en": "Assistive Devices for Differently-Abled - Golden Jubilee",
+    "name_ta": "மாற்றுத்திறனாளிகளுக்கு உதவி உபகரணங்கள்",
+    "investment_crore": 130,
+    "jobs_created": null,
+    "beneficiaries": "26000 beneficiaries",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-12-05",
+    "summary_en": "Rs 130 crore worth assistive devices including petrol scooters distributed to 26,000 differently-abled persons."
+  },
+  {
+    "tweet_id": "1857360617725968438",
+    "category": "social_welfare",
+    "name_en": "Ariyalur-Perambalur Welfare Distribution",
+    "name_ta": "அரியலூர்-பெரம்பலூர் நலத்திட்ட உதவிகள்",
+    "investment_crore": 173.96,
+    "jobs_created": null,
+    "beneficiaries": "21862 beneficiaries",
+    "location": {
+      "district": "Ariyalur, Perambalur",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-11-15",
+    "summary_en": "Ariyalur: Rs 70.74 crore to 10,141 beneficiaries. Perambalur: Rs 103.22 crore to 11,721 beneficiaries."
+  },
+  {
+    "tweet_id": "1857025690853400983",
+    "category": "social_welfare",
+    "name_en": "Thoothukudi District Welfare Distribution",
+    "name_ta": "தூத்துக்குடி மாவட்ட நலத்திட்ட உதவிகள்",
+    "investment_crore": 206.47,
+    "jobs_created": null,
+    "beneficiaries": "7893 beneficiaries",
+    "location": {
+      "district": "Thoothukudi",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-11-14",
+    "summary_en": "Rs 206.47 crore welfare assistance to 7,893 beneficiaries."
+  },
+  {
+    "tweet_id": "1855526873075438075",
+    "category": "social_welfare",
+    "name_en": "Virudhunagar District Welfare Distribution",
+    "name_ta": "விருதுநகர் மாவட்ட நலத்திட்ட உதவிகள்",
+    "investment_crore": 417.21,
+    "jobs_created": null,
+    "beneficiaries": "57556 beneficiaries",
+    "location": {
+      "district": "Virudhunagar",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-11-10",
+    "summary_en": "Rs 417.21 crore welfare assistance distributed to 57,556 beneficiaries."
+  },
+  {
+    "tweet_id": "1854568064094019681",
+    "category": "social_welfare",
+    "name_en": "Thanjavur District Welfare Distribution",
+    "name_ta": "தஞ்சாவூர் மாவட்ட நலத்திட்ட உதவிகள்",
+    "investment_crore": 154,
+    "jobs_created": null,
+    "beneficiaries": "14525 beneficiaries",
+    "location": {
+      "district": "Thanjavur",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-11-07",
+    "summary_en": "Rs 44 crore worth completed projects inaugurated, Rs 28.26 crore new projects foundation laid, Rs 154 crore welfare distributed to 14,525 beneficiaries."
+  },
+  {
+    "tweet_id": "1844739604127101230",
+    "category": "social_welfare",
+    "name_en": "Vidiyal Payana Thittam",
+    "name_ta": "விடியல் பயணத் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "78% from marginalized groups",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-10-11",
+    "summary_en": "Women's free bus travel scheme increasing travel frequency by 23%, reducing dependency on family, fostering self-employment with savings up to 11.4% of salary."
+  },
+  {
+    "tweet_id": "1840747160029049233",
+    "category": "social_welfare",
+    "name_en": "TNCDW Total Bank Credit Linkages",
+    "name_ta": "TNCDW மொத்த வங்கிக் கடன் இணைப்புகள்",
+    "investment_crore": 92000,
+    "jobs_created": null,
+    "beneficiaries": "Women SHGs",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-09-30",
+    "summary_en": "Rs.92,000 crore bank credit linkages provided since DMK government assumed office."
+  },
+  {
+    "tweet_id": "1833198165564727772",
+    "category": "social_welfare",
+    "name_en": "Women SHG Bank Credit Linkage",
+    "name_ta": "மகளிர் சுய உதவி குழு வங்கிக் கடன் இணைப்பு",
+    "investment_crore": 2874.26,
+    "jobs_created": null,
+    "beneficiaries": "374,777 women in 31,220 SHGs",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-09-09",
+    "summary_en": "Bank credit linkages worth Rs.2,874.26 crore disbursed to 31,220 women SHGs benefiting 3.74 lakh women."
+  },
+  {
+    "tweet_id": "1829118029168292324",
+    "category": "social_welfare",
+    "name_en": "Pongal Free Dhoti Saree Production Fund",
+    "name_ta": "பொங்கல் இலவச வேட்டி சேலை உற்பத்தி நிதி",
+    "investment_crore": 100,
+    "jobs_created": null,
+    "beneficiaries": "Weavers and public",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "other",
+    "date": "2024-08-29",
+    "summary_en": "Rs.100 crore sanctioned for production of free dhoti and sarees for Pongal 2025."
+  },
+  {
+    "tweet_id": "1823633025340449028",
+    "category": "social_welfare",
+    "name_en": "Adi Dravidar Welfare Infrastructure",
+    "name_ta": "ஆதிதிராவிடர் மற்றும் பழங்குடியினர் நலக் கட்டமைப்பு",
+    "investment_crore": 80.69,
+    "jobs_created": null,
+    "beneficiaries": "Adi Dravidar and Tribal students",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2024-08-14",
+    "summary_en": "16 hostel buildings (Rs.32.99 cr), 14 school buildings (Rs.15.34 cr), and 28 community halls (Rs.32.36 cr) for Adi Dravidar welfare inaugurated."
+  },
+  {
+    "tweet_id": "1818667851135201400",
+    "category": "social_welfare",
+    "name_en": "Kerala Flood Relief",
+    "name_ta": "கேரள வெள்ள நிவாரணம்",
+    "investment_crore": 5,
+    "jobs_created": null,
+    "beneficiaries": "Wayanad landslide victims",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-07-31",
+    "summary_en": "TN government contributed Rs 5 crore from CM's Relief Fund to Kerala for Wayanad landslide relief"
+  },
+  {
+    "tweet_id": "1814230670731845641",
+    "category": "social_welfare",
+    "name_en": "Amma Unavagam Enhancement",
+    "name_ta": "அம்மா உணவகம் மேம்பாடு",
+    "investment_crore": 21,
+    "jobs_created": null,
+    "beneficiaries": "Amma Unavagam patrons",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "announcement",
+    "date": "2024-07-19",
+    "summary_en": "Rs 7 crore for new utensils and Rs 14 crore for renovation of Amma Unavagams in Chennai"
+  },
+  {
+    "tweet_id": "1811313255400566811",
+    "category": "social_welfare",
+    "name_en": "Dharmapuri Welfare Distribution",
+    "name_ta": "தருமபுரி நலத்திட்ட உதவி",
+    "investment_crore": 56.04,
+    "jobs_created": null,
+    "beneficiaries": "2637 beneficiaries",
+    "location": {
+      "district": "Dharmapuri",
+      "city": "Palayamputhur"
+    },
+    "event_type": "distribution",
+    "date": "2024-07-11",
+    "summary_en": "CM distributed welfare assistance worth Rs 56.04 crore to 2637 beneficiaries including SHG bank loan linkages"
+  },
+  {
+    "tweet_id": "1804054042139857399",
+    "category": "social_welfare",
+    "name_en": "Kallakurichi Tragedy Relief Package",
+    "name_ta": "கள்ளக்குறிச்சி நிவாரண திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Children orphaned in Kallakurichi hooch tragedy",
+    "location": {
+      "district": "Kallakurichi",
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2024-06-21",
+    "summary_en": "State to bear education expenses, Rs 5000 monthly maintenance, Rs 5 lakh deposit for fully orphaned children, Rs 3 lakh for partially orphaned"
+  },
+  {
+    "tweet_id": "1803080508223762893",
+    "category": "social_welfare",
+    "name_en": "POCSO Web Portal",
+    "name_ta": "போக்சோ இணையதள சேவை",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Child protection",
+    "location": null,
+    "event_type": "scheme_launch",
+    "date": "2024-06-18",
+    "summary_en": "New POCSO web portal launched for child protection from sexual offenses"
+  },
+  {
+    "tweet_id": "1801568696600560108",
+    "category": "social_welfare",
+    "name_en": "All-Caste Archagar Training Program",
+    "name_ta": "அனைத்து சாதியினரும் அர்ச்சகராகலாம் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "All caste applicants",
+    "location": null,
+    "event_type": "scheme_launch",
+    "date": "2024-06-14",
+    "summary_en": "Free training for temple priests from all castes, admissions open"
+  },
+  {
+    "tweet_id": "1799855114628538437",
+    "category": "social_welfare",
+    "name_en": "Narikuravar Community Housing Project",
+    "name_ta": "நரிக்குறவர் சமூக புதிய வீடுகள்",
+    "investment_crore": 1.96,
+    "jobs_created": null,
+    "beneficiaries": "43 families",
+    "location": {
+      "district": "Thiruvarur",
+      "city": "Mannargudi"
+    },
+    "event_type": "inauguration",
+    "date": "2024-06-09",
+    "summary_en": "43 new houses worth Rs 1.96 crore for Narikuravar community at Thirumeni Lake area"
+  }
+]

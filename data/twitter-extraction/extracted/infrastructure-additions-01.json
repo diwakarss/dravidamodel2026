@@ -1,0 +1,472 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "description": "New infrastructure projects extracted from Twitter data and verified via web research",
+  "source": "Twitter extraction + web verification",
+  "projects": [
+    {
+      "id": "mamallan-reservoir",
+      "name": {
+        "en": "Mamallan Reservoir",
+        "ta": "மாமல்லன் நீர்த்தேக்கம்"
+      },
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Kovalam-Nemmeli",
+        "coordinates": {
+          "latitude": 12.79,
+          "longitude": 80.24
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Reservoir",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 342.60,
+        "notes": "Chennai drinking water supply"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": null,
+        "completionNotes": "Foundation laid January 19, 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2026-01-19"
+      },
+      "sources": [
+        {
+          "title": "The Print - TN CM lays foundation stone",
+          "url": "https://theprint.in/india/tn-cm-lays-foundation-stone-for-rs-342-60-cr-drinking-water-reservoir-for-chennai/2830693/"
+        },
+        {
+          "title": "Devdiscourse - Mamallan Reservoir",
+          "url": "https://www.devdiscourse.com/article/science-environment/3774497-tamil-nadu-boosts-chennais-water-supply-with-new-mamallan-reservoir"
+        }
+      ],
+      "notes": "Storage capacity: 1.65 TMC; Bund length: 34 km; Spread: 5,100 acres; Supply: 170 MLD; Benefits 13 lakh people in Sholinganallur, Medavakkam, Pallikaranai, Siruseri, Mamallapuram; Restores 15-km Buckingham Canal stretch",
+      "tweet_id": "2013144765815201978"
+    },
+    {
+      "id": "sivaganga-drinking-water",
+      "name": {
+        "en": "Sivaganga Combined Drinking Water Project",
+        "ta": "சிவகங்கை ஒருங்கிணைந்த குடிநீர் திட்டம்"
+      },
+      "location": {
+        "district": "Sivaganga",
+        "city": "Multiple",
+        "coordinates": {
+          "latitude": 9.85,
+          "longitude": 78.48
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Drinking Water Supply",
+      "status": "Operational",
+      "budget": {
+        "crore": 2119.07,
+        "notes": "Combined drinking water scheme"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2026,
+        "completionNotes": "Inaugurated January 31, 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2026-01-31"
+      },
+      "sources": [
+        {
+          "title": "Prokerala News",
+          "url": "https://www.prokerala.com/news/articles/a1724226.html"
+        },
+        {
+          "title": "NewKerala",
+          "url": "https://www.newkerala.com/news/a/tn-cm-inaugurates-agriculture-college-launches-rs-2872-540.htm"
+        }
+      ],
+      "notes": "Covers 2,452 rural habitations, 11 panchayat unions, 8 municipalities, 3 municipal corporations in Sivaganga district",
+      "tweet_id": "2017543792530715011"
+    },
+    {
+      "id": "gd-naidu-flyover",
+      "name": {
+        "en": "G.D. Naidu Elevated Expressway (Avinashi Road)",
+        "ta": "ஜி.டி. நாயுடு மேம்பாலம் (அவினாசி சாலை)"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore",
+        "coordinates": {
+          "latitude": 11.0168,
+          "longitude": 77.0428
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Elevated Corridor",
+      "status": "Operational",
+      "budget": {
+        "crore": 1791,
+        "notes": "Longest elevated corridor in Tamil Nadu"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated October 9, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "10.01 km four-lane elevated corridor",
+        "cmPhotoCompletion": "2025-10-09"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - GD Naidu Elevated Expressway",
+          "url": "https://en.wikipedia.org/wiki/GD_Naidu_Elevated_Expressway"
+        },
+        {
+          "title": "Social News XYZ",
+          "url": "https://www.socialnews.xyz/2025/10/09/cm-stalin-inaugurates-tns-longest-flyover-avinashi-road-elevated-corridor/"
+        }
+      ],
+      "notes": "10.01 km, 17.25 m wide; Second longest in India after P.V. Narasimha Rao Expressway; First TN flyover with full-length rainwater harvesting (220 structures); Bypasses 12 traffic intersections; Reduces airport travel from 45 mins to 10 mins; Named after G.D. Naidu 'Edison of India'",
+      "tweet_id": "1975453483848638647"
+    },
+    {
+      "id": "ukkadam-flyover",
+      "name": {
+        "en": "Ukkadam-Athupalam Flyover",
+        "ta": "உக்கடம்-ஆத்துப்பாளையம் மேம்பாலம்"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore",
+        "coordinates": {
+          "latitude": 10.9925,
+          "longitude": 76.9614
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Flyover",
+      "status": "Operational",
+      "budget": {
+        "crore": 481,
+        "notes": null
+      },
+      "timeline": {
+        "startYear": 2018,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated August 9, 2024 after 6 years construction"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2024-08-09"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - Ukkadam Flyover",
+          "url": "https://en.wikipedia.org/wiki/Ukkadam_Flyover"
+        },
+        {
+          "title": "Coimbatore District Government",
+          "url": "https://coimbatore.nic.in/honble-chief-minister-of-tamil-nadu-inaugurated-athupalam-to-ukkadam-junction-and-oppanakara-road-flyover-along-with-newly-constructed-buildings-within-bharathiar-university-campus/"
+        }
+      ],
+      "notes": "3.8 km four-lane flyover; 7 two-lane ramps (2 at Ukkadam, 2 on Palakkad road, 2 on Pollachi road, 1 on Valankulam road); Crossing time reduced to 5 minutes",
+      "tweet_id": "1821460581905269233"
+    },
+    {
+      "id": "broadway-bus-terminal",
+      "name": {
+        "en": "Broadway Multi-Modal Transit Hub",
+        "ta": "பிராட்வே பல்முறை போக்குவரத்து மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0878,
+          "longitude": 80.2785
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Bus Terminal",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 822.70,
+        "notes": "Integrated with Kuralagam"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": 2028,
+        "completionNotes": "Foundation laid January 2026; Bus terminal: 24 months; Commercial towers: 30 months"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2026-01-29"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=71976"
+        },
+        {
+          "title": "Swarajya",
+          "url": "https://swarajyamag.com/news-brief/broadway-redevelopment-project-chennai-to-get-state-of-the-art-multimodal-transit-hub"
+        },
+        {
+          "title": "Wikipedia - Broadway bus terminus",
+          "url": "https://en.wikipedia.org/wiki/Broadway_bus_terminus"
+        }
+      ],
+      "notes": "10-storey multimodal transit hub; 73 bus bays handling 466 bus movements/hour; Replaces 75-year-old bus stand; Part of North Chennai Development Scheme",
+      "tweet_id": "2016802107911995746"
+    },
+    {
+      "id": "tidel-park-pattabiram",
+      "name": {
+        "en": "TIDEL Park Pattabiram",
+        "ta": "டைடல் பார்க் பட்டாபிராம்"
+      },
+      "location": {
+        "district": "Tiruvallur",
+        "city": "Pattabiram (Avadi)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.0667
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 330,
+        "notes": "Joint venture of TIDCO and ELCOT"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 22, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "21-storey IT park building",
+        "cmPhotoCompletion": "2024-11-22"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - TIDEL Park Pattabiram",
+          "url": "https://en.wikipedia.org/wiki/TIDEL_Park_Pattabiram"
+        },
+        {
+          "title": "ProjectsToday",
+          "url": "https://www.projectstoday.com/News/Tamil-Nadu-CM-inaugurates-Rs-330-cr-Tidel-Park-in-Pattabiram-Chennai"
+        }
+      ],
+      "notes": "21-storey building; 5.57 lakh sq ft; Tamil Nadu's third TIDEL Park; Expected to generate 6,000 IT/ITeS jobs; 24/7 electricity; Seminar hall, fitness centre, restaurants, parking",
+      "tweet_id": "1859849415453704539"
+    },
+    {
+      "id": "kalaignar-convention-centre",
+      "name": {
+        "en": "Kalaignar International Convention Centre",
+        "ta": "கலைஞர் சர்வதேச மாநாட்டு மையம்"
+      },
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Muttukadu (ECR)",
+        "coordinates": {
+          "latitude": 12.8167,
+          "longitude": 80.2333
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Convention Centre",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 525,
+        "notes": null
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2026,
+        "completionNotes": "Expected completion February 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-05"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai",
+          "url": "https://www.livechennai.com/detailnews.asp?catid=113&newsid=76423"
+        },
+        {
+          "title": "ProjectsToday",
+          "url": "https://www.projectstoday.com/Project-Infographics/Monthly-Magazine/Work-on-Kalaignar-International-Convention-Centre-to-be-completed-by-Feb-2026"
+        }
+      ],
+      "notes": "37.99 acres; 10,000-seat exhibition hall; 5,000-seat convention centre; 1,500-seat auditorium; EV charging stations; Parking for 1,600 cars + 1,700 two-wheelers; 800 KLD sewage treatment plant; Solar power facility",
+      "tweet_id": "2013170452466974812"
+    },
+    {
+      "id": "periyar-library-science-centre",
+      "name": {
+        "en": "Thanthai Periyar Library and Science Centre",
+        "ta": "தந்தை பெரியார் நூலகம் மற்றும் அறிவியல் மையம்"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore (Anupparpalayam)",
+        "coordinates": {
+          "latitude": 11.0168,
+          "longitude": 76.9558
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Library & Science Centre",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 300,
+        "notes": "On former central prison grounds"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2026,
+        "completionNotes": "Foundation laid November 6, 2024; Expected inauguration January 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2024-11-06"
+      },
+      "sources": [
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-cm-m-k-stalin-lays-foundation-stone-for-rs-300-crore-periyar-library-science-centre-3264388"
+        },
+        {
+          "title": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/entertainment/3147292-foundation-of-periyar-library-and-science-centre-laid-by-tamil-nadu-cm"
+        }
+      ],
+      "notes": "8 floors (7 storeys); 1.98 lakh sq ft; Public library; Science centre; Planetarium; STEM exhibits; Space-themed lift; Incubation centre; Digital library; Children's library; Convention centre; 6.98 acres near Gandhipuram Town Bus Stand",
+      "tweet_id": "1854067040216326158"
+    },
+    {
+      "id": "central-tower-chennai",
+      "name": {
+        "en": "Central Tower (Chennai Central Square)",
+        "ta": "சென்ட்ரல் டவர் (சென்னை சென்ட்ரல் ஸ்கொயர்)"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai Central",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Commercial Tower",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 350,
+        "notes": "Contract value; Total Central Square cost ₹546.99 Cr"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2027,
+        "completionNotes": "Foundation laid February 14, 2025; Expected mid-2027"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-02-14"
+      },
+      "sources": [
+        {
+          "title": "News on Projects",
+          "url": "https://newsonprojects.com/news/350-crore-contract-signed-for-chennai-central-tower-project"
+        },
+        {
+          "title": "Rail Analysis India",
+          "url": "https://railanalysis.in/rail-news/transforming-chennai-renaatus-projects-wins-rs-349-99-crore-contract-to-develop-central-tower/"
+        },
+        {
+          "title": "Wikipedia - Central Square Chennai",
+          "url": "https://en.wikipedia.org/wiki/Central_Square,_Chennai"
+        }
+      ],
+      "notes": "27 storeys; Height: 119-120 metres; Ground to 4th floor: retail/commercial; 5th-24th floors: office spaces; 25th floor: service facilities; 26th-27th floors: premium business; Implemented by CMAML (SPV of CMRL and TIDCO); Contractor: Renaatus Projects",
+      "tweet_id": "1890324145927323981"
+    },
+    {
+      "id": "north-chennai-development-phase2",
+      "name": {
+        "en": "North Chennai Development Programme Phase 2",
+        "ta": "வட சென்னை வளர்ச்சி திட்டம் இரண்டாம் கட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "North Chennai (Villivakkam, Royapuram, Tondiarpet, Kolathur)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2833
+        }
+      },
+      "type": "Urban Development",
+      "subType": "Integrated Development",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 1383,
+        "notes": "79 new projects"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "Foundation laid December 4-5, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2024-12-04"
+      },
+      "sources": [
+        {
+          "title": "News Karnataka",
+          "url": "https://newskarnataka.com/india/cm-stalin-launches-79-new-projects-under-vada-chennai-valarchi-thittam/05122024/"
+        },
+        {
+          "title": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3063959-tamil-nadu-cm-m-k-stalin-sets-foundation-for-north-chennai-development-projects"
+        }
+      ],
+      "notes": "79 projects under Vada Chennai Valarchi Thittam; New housing units; Playground development (Villivakkam, Royapuram); Sports facilities (Tondiarpet); Library development (Kolathur); Bus terminal upgrades; Additional school classrooms; Public safety infrastructure",
+      "tweet_id": "1864317794566729753"
+    }
+  ],
+  "statistics": {
+    "total_projects": 10,
+    "total_investment_crore": 8644.37,
+    "by_status": {
+      "Operational": 4,
+      "Under Construction": 6
+    },
+    "by_type": {
+      "Water Infrastructure": 2,
+      "Roads & Bridges": 2,
+      "Public Transport": 1,
+      "IT Infrastructure": 1,
+      "Public Buildings": 3,
+      "Urban Development": 1
+    }
+  }
+}

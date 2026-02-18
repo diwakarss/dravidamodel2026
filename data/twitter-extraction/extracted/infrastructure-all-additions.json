@@ -1,0 +1,2511 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-18",
+  "description": "All new infrastructure projects extracted from Twitter and verified via web research",
+  "source": "Twitter extraction + web verification",
+  "statistics": {
+    "total_projects": 54,
+    "total_investment_crore": 24225.87,
+    "by_status": {
+      "Ongoing": 2,
+      "Under Construction": 21,
+      "Operational": 28,
+      "Announced": 2,
+      "In Progress": 1
+    },
+    "by_type": {
+      "Public Transport": 7,
+      "Water Infrastructure": 8,
+      "Roads & Bridges": 7,
+      "Urban Development": 3,
+      "Public Buildings": 11,
+      "Heritage": 1,
+      "IT Infrastructure": 5,
+      "Ports & Harbours": 1,
+      "Markets & Commercial": 1,
+      "Parks & Recreation": 2,
+      "Finance & Governance": 1,
+      "Housing": 1,
+      "Rail Infrastructure": 1,
+      "Transport Infrastructure": 1,
+      "Commercial Infrastructure": 1,
+      "Tourism Infrastructure": 1,
+      "Religious Infrastructure": 1,
+      "Sports Infrastructure": 1
+    }
+  },
+  "projects": [
+    {
+      "id": "chennai-city-partnership-mtc",
+      "name": {
+        "en": "Chennai City Partnership Programme - MTC Electric Buses",
+        "ta": "சென்னை நகர கூட்டுத்திட்டம் - MTC மின்சார பேருந்துகள்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai Metropolitan Area",
+        "coordinates": {
+          "latitude": 13.08,
+          "longitude": 80.27
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Electric Bus Fleet",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 5833,
+        "notes": "$700 million total; IBRD $150M + AIIB $150M + TN Govt $400M"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": 2032,
+        "completionNotes": "PTSC signed October 2023; Target 2032 completion"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "World Bank Blog",
+          "url": "https://blogs.worldbank.org/en/endpovertyinsouthasia/chennai-brings-in-private-capital-to-transform-public-bus-servic"
+        },
+        {
+          "title": "TNIDB",
+          "url": "https://tnidb.tn.gov.in/en/ccp/"
+        }
+      ],
+      "notes": "1,000+ privately financed electric buses being deployed; Current ridership: 3.5 million daily; Target: 5.3 million daily by 2032; Fleet expansion from 3,500 to 7,500 buses; Partners: World Bank (IBRD), AIIB",
+      "tweet_id": "1826624019442844061"
+    },
+    {
+      "id": "thoothukudi-desalination",
+      "name": {
+        "en": "Thoothukudi Seawater Desalination Plant",
+        "ta": "தூத்துக்குடி கடல்நீர் உப்புநீக்கும் நிலையம்"
+      },
+      "location": {
+        "district": "Thoothukudi",
+        "city": "Mullakkadu",
+        "coordinates": {
+          "latitude": 8.76,
+          "longitude": 78.13
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Desalination Plant",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 2293,
+        "notes": "PPP Hybrid Annuity Model; 15-year O&M contract"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": null,
+        "completionNotes": "Foundation laid January 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2026-01-22"
+      },
+      "sources": [
+        {
+          "title": "Construction World",
+          "url": "https://www.constructionworld.in/urban-infrastructure/wastewater-and-sewage-treatment/thoothukudi-desalination-plant-to-boost-industrial-water-supply/85183"
+        },
+        {
+          "title": "Water Tech Online",
+          "url": "https://www.watertechonline.com/water-reuse/news/55341955/sipcot-awards-desalination-project-for-tamil-nadu-india"
+        }
+      ],
+      "notes": "Capacity: 60 MLD; Tamil Nadu's 4th desalination plant; First outside Chennai; Industrial water supply for SIPCOT complex; Contractor: Consortium of Vishnusurya Projects, JWIL Infra, IDE Technologies India",
+      "tweet_id": "2014265918088720652"
+    },
+    {
+      "id": "sivaganga-drinking-water",
+      "name": {
+        "en": "Sivaganga Combined Drinking Water Project",
+        "ta": "சிவகங்கை ஒருங்கிணைந்த குடிநீர் திட்டம்"
+      },
+      "location": {
+        "district": "Sivaganga",
+        "city": "Multiple",
+        "coordinates": {
+          "latitude": 9.85,
+          "longitude": 78.48
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Drinking Water Supply",
+      "status": "Operational",
+      "budget": {
+        "crore": 2119.07,
+        "notes": "Combined drinking water scheme"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2026,
+        "completionNotes": "Inaugurated January 31, 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2026-01-31"
+      },
+      "sources": [
+        {
+          "title": "Prokerala News",
+          "url": "https://www.prokerala.com/news/articles/a1724226.html"
+        },
+        {
+          "title": "NewKerala",
+          "url": "https://www.newkerala.com/news/a/tn-cm-inaugurates-agriculture-college-launches-rs-2872-540.htm"
+        }
+      ],
+      "notes": "Covers 2,452 rural habitations, 11 panchayat unions, 8 municipalities, 3 municipal corporations in Sivaganga district",
+      "tweet_id": "2017543792530715011"
+    },
+    {
+      "id": "gd-naidu-flyover",
+      "name": {
+        "en": "G.D. Naidu Elevated Expressway (Avinashi Road)",
+        "ta": "ஜி.டி. நாயுடு மேம்பாலம் (அவினாசி சாலை)"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore",
+        "coordinates": {
+          "latitude": 11.0168,
+          "longitude": 77.0428
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Elevated Corridor",
+      "status": "Operational",
+      "budget": {
+        "crore": 1791,
+        "notes": "Longest elevated corridor in Tamil Nadu"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated October 9, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "10.01 km four-lane elevated corridor",
+        "cmPhotoCompletion": "2025-10-09"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - GD Naidu Elevated Expressway",
+          "url": "https://en.wikipedia.org/wiki/GD_Naidu_Elevated_Expressway"
+        },
+        {
+          "title": "Social News XYZ",
+          "url": "https://www.socialnews.xyz/2025/10/09/cm-stalin-inaugurates-tns-longest-flyover-avinashi-road-elevated-corridor/"
+        }
+      ],
+      "notes": "10.01 km, 17.25 m wide; Second longest in India after P.V. Narasimha Rao Expressway; First TN flyover with full-length rainwater harvesting (220 structures); Bypasses 12 traffic intersections; Reduces airport travel from 45 mins to 10 mins; Named after G.D. Naidu 'Edison of India'",
+      "tweet_id": "1975453483848638647"
+    },
+    {
+      "id": "north-chennai-development-phase2",
+      "name": {
+        "en": "North Chennai Development Programme Phase 2",
+        "ta": "வட சென்னை வளர்ச்சி திட்டம் இரண்டாம் கட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "North Chennai (Villivakkam, Royapuram, Tondiarpet, Kolathur)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2833
+        }
+      },
+      "type": "Urban Development",
+      "subType": "Integrated Development",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 1383,
+        "notes": "79 new projects"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "Foundation laid December 4-5, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2024-12-04"
+      },
+      "sources": [
+        {
+          "title": "News Karnataka",
+          "url": "https://newskarnataka.com/india/cm-stalin-launches-79-new-projects-under-vada-chennai-valarchi-thittam/05122024/"
+        },
+        {
+          "title": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/science-environment/3063959-tamil-nadu-cm-m-k-stalin-sets-foundation-for-north-chennai-development-projects"
+        }
+      ],
+      "notes": "79 projects under Vada Chennai Valarchi Thittam; New housing units; Playground development (Villivakkam, Royapuram); Sports facilities (Tondiarpet); Library development (Kolathur); Bus terminal upgrades; Additional school classrooms; Public safety infrastructure",
+      "tweet_id": "1864317794566729753"
+    },
+    {
+      "id": "seyyur-vaniyambadi-polur-road",
+      "name": {
+        "en": "Seyyur-Vaniyambadi-Polur Road Widening",
+        "ta": "சேயூர்-வாணியம்பாடி-போளூர் சாலை விரிவாக்கம்"
+      },
+      "location": {
+        "district": "Chengalpattu, Tiruvannamalai",
+        "city": "Seyyur to Polur",
+        "coordinates": {
+          "latitude": 12.52,
+          "longitude": 79.42
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Road Widening",
+      "status": "Operational",
+      "budget": {
+        "crore": 1141.23,
+        "notes": "ADB funded under Chennai-Kanyakumari Industrial Corridor"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated February 20, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "109 km road widened to 10 meters",
+        "cmPhotoCompletion": "2025-02-20"
+      },
+      "sources": [
+        {
+          "title": "Dinakaran",
+          "url": "https://www.dinakaran.com/cm-mkstalin-inaugurated-seyyur-vandavasi-polur-road/"
+        }
+      ],
+      "notes": "Length: 109 km; Width: 10 meters; ADB funding under Chennai-Kanyakumari Industrial Corridor scheme; Includes road safety features",
+      "tweet_id": "1892485708880962001"
+    },
+    {
+      "id": "broadway-bus-terminal",
+      "name": {
+        "en": "Broadway Multi-Modal Transit Hub",
+        "ta": "பிராட்வே பல்முறை போக்குவரத்து மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0878,
+          "longitude": 80.2785
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Bus Terminal",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 822.7,
+        "notes": "Integrated with Kuralagam"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": 2028,
+        "completionNotes": "Foundation laid January 2026; Bus terminal: 24 months; Commercial towers: 30 months"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2026-01-29"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=71976"
+        },
+        {
+          "title": "Swarajya",
+          "url": "https://swarajyamag.com/news-brief/broadway-redevelopment-project-chennai-to-get-state-of-the-art-multimodal-transit-hub"
+        },
+        {
+          "title": "Wikipedia - Broadway bus terminus",
+          "url": "https://en.wikipedia.org/wiki/Broadway_bus_terminus"
+        }
+      ],
+      "notes": "10-storey multimodal transit hub; 73 bus bays handling 466 bus movements/hour; Replaces 75-year-old bus stand; Part of North Chennai Development Scheme",
+      "tweet_id": "2016802107911995746"
+    },
+    {
+      "id": "coimbatore-central-prison",
+      "name": {
+        "en": "Coimbatore Central Prison Redevelopment",
+        "ta": "கோயம்புத்தூர் மத்திய சிறைச்சாலை மறுவடிவமைப்பு"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Bilichi/Onnipalayam",
+        "coordinates": {
+          "latitude": 11.08,
+          "longitude": 76.89
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Prison",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 668.71,
+        "notes": "Phase-I bid at ₹133.26 Cr; Old prison site converted to botanical park"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation laid May 19, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-05-19"
+      },
+      "sources": [
+        {
+          "title": "NBMCW",
+          "url": "https://www.nbmcw.com/news/p-c-projects-emerges-l1-bidder-for-coimbatore-central-prison-phase-i-development.html"
+        }
+      ],
+      "notes": "New location: 95.70 acres at Onnipalayam near Karamadai; Capacity: 2,500 male + 500 female prisoners; Phase-I: Men's prison, 111 staff quarters, road network, high-security perimeter wall; Contractor: P&C Projects; Old Gandhipuram site transformed into botanical park",
+      "tweet_id": "1924380243986665716"
+    },
+    {
+      "id": "kalaignar-convention-centre",
+      "name": {
+        "en": "Kalaignar International Convention Centre",
+        "ta": "கலைஞர் சர்வதேச மாநாட்டு மையம்"
+      },
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Muttukadu (ECR)",
+        "coordinates": {
+          "latitude": 12.8167,
+          "longitude": 80.2333
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Convention Centre",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 525,
+        "notes": null
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2026,
+        "completionNotes": "Expected completion February 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-05"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai",
+          "url": "https://www.livechennai.com/detailnews.asp?catid=113&newsid=76423"
+        },
+        {
+          "title": "ProjectsToday",
+          "url": "https://www.projectstoday.com/Project-Infographics/Monthly-Magazine/Work-on-Kalaignar-International-Convention-Centre-to-be-completed-by-Feb-2026"
+        }
+      ],
+      "notes": "37.99 acres; 10,000-seat exhibition hall; 5,000-seat convention centre; 1,500-seat auditorium; EV charging stations; Parking for 1,600 cars + 1,700 two-wheelers; 800 KLD sewage treatment plant; Solar power facility",
+      "tweet_id": "2013170452466974812"
+    },
+    {
+      "id": "ukkadam-flyover",
+      "name": {
+        "en": "Ukkadam-Athupalam Flyover",
+        "ta": "உக்கடம்-ஆத்துப்பாளையம் மேம்பாலம்"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore",
+        "coordinates": {
+          "latitude": 10.9925,
+          "longitude": 76.9614
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Flyover",
+      "status": "Operational",
+      "budget": {
+        "crore": 481,
+        "notes": null
+      },
+      "timeline": {
+        "startYear": 2018,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated August 9, 2024 after 6 years construction"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2024-08-09"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - Ukkadam Flyover",
+          "url": "https://en.wikipedia.org/wiki/Ukkadam_Flyover"
+        },
+        {
+          "title": "Coimbatore District Government",
+          "url": "https://coimbatore.nic.in/honble-chief-minister-of-tamil-nadu-inaugurated-athupalam-to-ukkadam-junction-and-oppanakara-road-flyover-along-with-newly-constructed-buildings-within-bharathiar-university-campus/"
+        }
+      ],
+      "notes": "3.8 km four-lane flyover; 7 two-lane ramps (2 at Ukkadam, 2 on Palakkad road, 2 on Pollachi road, 1 on Valankulam road); Crossing time reduced to 5 minutes",
+      "tweet_id": "1821460581905269233"
+    },
+    {
+      "id": "ancient-temple-restoration-programme",
+      "name": {
+        "en": "Ancient Temple Restoration Programme",
+        "ta": "பழமையான திருக்கோயில் புனரமைப்பு திட்டம்"
+      },
+      "location": {
+        "district": "Multiple",
+        "city": "Statewide",
+        "coordinates": null
+      },
+      "type": "Heritage",
+      "subType": "Temple Restoration",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 425,
+        "notes": "Initial Rs 100 crore expanded to Rs 425 crore"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Restoration work launched July 2025; 68 temples completed by October 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-07-11"
+      },
+      "sources": [
+        {
+          "title": "The Print Hindi - Stalin launches 63 temple restoration",
+          "url": "https://hindi.theprint.in/india/stalin-launches-restoration-work-of-63-ancient-temples-in-tamil-nadu-at-a-cost-of-rs-100-crore/841342/"
+        },
+        {
+          "title": "Mangalorean - Rs 425 crore temple restoration",
+          "url": "https://www.mangalorean.com/rs-425-cr-sanctioned-for-restoration-of-ancient-temples-says-tn-temple-minister-sekar-babu/"
+        },
+        {
+          "title": "Social News XYZ - Temple restoration plan",
+          "url": "https://www.socialnews.xyz/2025/10/12/rs-425-cr-sanctioned-for-restoration-of-ancient-temples-says-tn-temple-minister-sekar-babu/"
+        }
+      ],
+      "notes": "Restoration of temples over 1,000 years old; Initial phase: 63 temples at Rs 100 crore (July 2025); Expanded to Rs 425 crore (October 2025); 68 temples completed using government, temple, and donor funds; Gold Monetisation Scheme: 1,074.123 kg purified gold from 21 temples deposited in SBI earning Rs 17.76 crore annual interest for temple development",
+      "tweet_id": "1943602989887062525"
+    },
+    {
+      "id": "kalaignar-bus-terminus-trichy",
+      "name": {
+        "en": "Kalaignar Integrated Bus Terminus Trichy",
+        "ta": "கலைஞர் ஒருங்கிணைந்த பேருந்து நிலையம் திருச்சி"
+      },
+      "location": {
+        "district": "Tiruchirappalli",
+        "city": "Panchappur",
+        "coordinates": {
+          "latitude": 10.77,
+          "longitude": 78.72
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Bus Terminal",
+      "status": "Operational",
+      "budget": {
+        "crore": 408,
+        "notes": null
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated May 9, 2025; Operations started July 16, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Asia's largest fully air-conditioned integrated bus terminus",
+        "cmPhotoCompletion": "2025-05-09"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - Panjappur IBT",
+          "url": "https://en.wikipedia.org/wiki/Panjappur_Integrated_Bus_Terminus,_Tiruchirappalli"
+        },
+        {
+          "title": "Live Chennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=74360"
+        },
+        {
+          "title": "Tiruchirappalli District Government",
+          "url": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/"
+        }
+      ],
+      "notes": "40 acres; 401 bus capacity simultaneously; Asia's largest and first fully air-conditioned integrated bus terminus; Ground floor: outstation buses; First floor: city buses",
+      "tweet_id": "1920767098751775198"
+    },
+    {
+      "id": "tidel-park-trichy",
+      "name": {
+        "en": "TIDEL Park Trichy",
+        "ta": "டைடல் பார்க் திருச்சி"
+      },
+      "location": {
+        "district": "Tiruchirappalli",
+        "city": "Panjapur",
+        "coordinates": {
+          "latitude": 10.79,
+          "longitude": 78.68
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 403,
+        "notes": "Part of combined ₹717 Cr TIDEL Parks project"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation laid February 18, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-02-18"
+      },
+      "sources": [
+        {
+          "title": "The News Minute",
+          "url": "https://www.thenewsminute.com/tamil-nadu/tn-mk-stalin-lays-foundation-for-rs-717-crore-tidel-parks-in-tiruchy-madurai"
+        },
+        {
+          "title": "Social News XYZ",
+          "url": "https://www.socialnews.xyz/2025/02/18/tn-mk-stalin-lays-foundation-for-rs-717-crore-tidel-parks-in-tiruchy-madurai/"
+        }
+      ],
+      "notes": "5.58 lakh sq ft; G+6 floors; Expected to generate 6,000 jobs; For IT, ITES, BPOs, and startups",
+      "tweet_id": "1891772495038120175"
+    },
+    {
+      "id": "central-tower-chennai",
+      "name": {
+        "en": "Central Tower (Chennai Central Square)",
+        "ta": "சென்ட்ரல் டவர் (சென்னை சென்ட்ரல் ஸ்கொயர்)"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai Central",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Commercial Tower",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 350,
+        "notes": "Contract value; Total Central Square cost ₹546.99 Cr"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2027,
+        "completionNotes": "Foundation laid February 14, 2025; Expected mid-2027"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-02-14"
+      },
+      "sources": [
+        {
+          "title": "News on Projects",
+          "url": "https://newsonprojects.com/news/350-crore-contract-signed-for-chennai-central-tower-project"
+        },
+        {
+          "title": "Rail Analysis India",
+          "url": "https://railanalysis.in/rail-news/transforming-chennai-renaatus-projects-wins-rs-349-99-crore-contract-to-develop-central-tower/"
+        },
+        {
+          "title": "Wikipedia - Central Square Chennai",
+          "url": "https://en.wikipedia.org/wiki/Central_Square,_Chennai"
+        }
+      ],
+      "notes": "27 storeys; Height: 119-120 metres; Ground to 4th floor: retail/commercial; 5th-24th floors: office spaces; 25th floor: service facilities; 26th-27th floors: premium business; Implemented by CMAML (SPV of CMRL and TIDCO); Contractor: Renaatus Projects",
+      "tweet_id": "1890324145927323981"
+    },
+    {
+      "id": "mamallan-reservoir",
+      "name": {
+        "en": "Mamallan Reservoir",
+        "ta": "மாமல்லன் நீர்த்தேக்கம்"
+      },
+      "location": {
+        "district": "Chengalpattu",
+        "city": "Kovalam-Nemmeli",
+        "coordinates": {
+          "latitude": 12.79,
+          "longitude": 80.24
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Reservoir",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 342.6,
+        "notes": "Chennai drinking water supply"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": null,
+        "completionNotes": "Foundation laid January 19, 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2026-01-19"
+      },
+      "sources": [
+        {
+          "title": "The Print - TN CM lays foundation stone",
+          "url": "https://theprint.in/india/tn-cm-lays-foundation-stone-for-rs-342-60-cr-drinking-water-reservoir-for-chennai/2830693/"
+        },
+        {
+          "title": "Devdiscourse - Mamallan Reservoir",
+          "url": "https://www.devdiscourse.com/article/science-environment/3774497-tamil-nadu-boosts-chennais-water-supply-with-new-mamallan-reservoir"
+        }
+      ],
+      "notes": "Storage capacity: 1.65 TMC; Bund length: 34 km; Spread: 5,100 acres; Supply: 170 MLD; Benefits 13 lakh people in Sholinganallur, Medavakkam, Pallikaranai, Siruseri, Mamallapuram; Restores 15-km Buckingham Canal stretch",
+      "tweet_id": "2013144765815201978"
+    },
+    {
+      "id": "tidel-park-pattabiram",
+      "name": {
+        "en": "TIDEL Park Pattabiram",
+        "ta": "டைடல் பார்க் பட்டாபிராம்"
+      },
+      "location": {
+        "district": "Tiruvallur",
+        "city": "Pattabiram (Avadi)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.0667
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 330,
+        "notes": "Joint venture of TIDCO and ELCOT"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 22, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "21-storey IT park building",
+        "cmPhotoCompletion": "2024-11-22"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - TIDEL Park Pattabiram",
+          "url": "https://en.wikipedia.org/wiki/TIDEL_Park_Pattabiram"
+        },
+        {
+          "title": "ProjectsToday",
+          "url": "https://www.projectstoday.com/News/Tamil-Nadu-CM-inaugurates-Rs-330-cr-Tidel-Park-in-Pattabiram-Chennai"
+        }
+      ],
+      "notes": "21-storey building; 5.57 lakh sq ft; Tamil Nadu's third TIDEL Park; Expected to generate 6,000 IT/ITeS jobs; 24/7 electricity; Seminar hall, fitness centre, restaurants, parking",
+      "tweet_id": "1859849415453704539"
+    },
+    {
+      "id": "tidel-park-madurai",
+      "name": {
+        "en": "TIDEL Park Madurai",
+        "ta": "டைடல் பார்க் மதுரை"
+      },
+      "location": {
+        "district": "Madurai",
+        "city": "Mattuthavani",
+        "coordinates": {
+          "latitude": 9.94,
+          "longitude": 78.14
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 314,
+        "notes": "Part of combined ₹717 Cr project; Originally announced at ₹600 Cr"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2026,
+        "completionNotes": "Foundation laid February 18, 2025; Expected completion January 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-02-18"
+      },
+      "sources": [
+        {
+          "title": "Business Standard",
+          "url": "https://www.business-standard.com/article/current-affairs/cm-stalin-announces-rs-600-cr-it-park-in-madurai-to-build-a-tech-hub-122091601263_1.html"
+        },
+        {
+          "title": "PropNewsTime",
+          "url": "https://propnewstime.com/getdetailsStories/OTQxOA==/tidel-park-limited-opens-tender-for-madurai-s-inr-600-crore-it-park-construction"
+        }
+      ],
+      "notes": "5.34 lakh sq ft; G+12 floors; Expected to generate 6,000 jobs (10,000 originally announced); 5.6 acres leased from Madurai Corporation for 45 years",
+      "tweet_id": "1851233639163453686"
+    },
+    {
+      "id": "periyar-library-science-centre",
+      "name": {
+        "en": "Thanthai Periyar Library and Science Centre",
+        "ta": "தந்தை பெரியார் நூலகம் மற்றும் அறிவியல் மையம்"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore (Anupparpalayam)",
+        "coordinates": {
+          "latitude": 11.0168,
+          "longitude": 76.9558
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Library & Science Centre",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 300,
+        "notes": "On former central prison grounds"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2026,
+        "completionNotes": "Foundation laid November 6, 2024; Expected inauguration January 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2024-11-06"
+      },
+      "sources": [
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadu-cm-m-k-stalin-lays-foundation-stone-for-rs-300-crore-periyar-library-science-centre-3264388"
+        },
+        {
+          "title": "Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/entertainment/3147292-foundation-of-periyar-library-and-science-centre-laid-by-tamil-nadu-cm"
+        }
+      ],
+      "notes": "8 floors (7 storeys); 1.98 lakh sq ft; Public library; Science centre; Planetarium; STEM exhibits; Space-themed lift; Incubation centre; Digital library; Children's library; Convention centre; 6.98 acres near Gandhipuram Town Bus Stand",
+      "tweet_id": "1854067040216326158"
+    },
+    {
+      "id": "thiruvottiyur-tuna-harbor",
+      "name": {
+        "en": "Thiruvottiyur Tuna Fishing Harbour",
+        "ta": "திருவொற்றியூர் டூனா மீன்பிடி துறைமுகம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Thiruvottiyur",
+        "coordinates": {
+          "latitude": 13.16,
+          "longitude": 80.3
+        }
+      },
+      "type": "Ports & Harbours",
+      "subType": "Fishing Harbour",
+      "status": "Operational",
+      "budget": {
+        "crore": 272.7,
+        "notes": "India's first exclusive Tuna fishing harbour"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated May 28, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "India's first exclusive Tuna fishing harbour",
+        "cmPhotoCompletion": "2025-05-28"
+      },
+      "sources": [
+        {
+          "title": "Projects Today",
+          "url": "https://www.projectstoday.com/Project-Infographics/Monthly-Magazine/Indias-first-tuna-fishing-harbour-worth-Rs-27270-cr-in-TN-inaugurated"
+        },
+        {
+          "title": "Live Chennai Tamil",
+          "url": "https://tamil.livechennai.com/cm-stalin-inaugurates-thiruvottiyur-fishing-harbour/"
+        }
+      ],
+      "notes": "Capacity: 70,000 metric tons annually; Benefits 6,250 people across 12 fishing villages; India's first exclusive Tuna fishing harbour",
+      "tweet_id": "1927637132715135457"
+    },
+    {
+      "id": "tamil-nadu-house-delhi",
+      "name": {
+        "en": "Tamil Nadu House New Delhi",
+        "ta": "தமிழ்நாடு மாளிகை புதுதில்லி"
+      },
+      "location": {
+        "district": "New Delhi",
+        "city": "Chanakyapuri",
+        "coordinates": {
+          "latitude": 28.5921,
+          "longitude": 77.1791
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "State Guest House",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 257,
+        "notes": "Seismic-tolerant structure vetted by IIT Madras"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "Foundation stone laid July 26, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2024-07-26"
+      },
+      "sources": [
+        {
+          "title": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/new-seismic-tolerant-structure-in-tamil-nadu-house-1812556"
+        },
+        {
+          "title": "Wikipedia - Tamil Nadu House",
+          "url": "https://en.wikipedia.org/wiki/Tamil_Nadu_House"
+        }
+      ],
+      "notes": "VVIP Block, Guest House Block, Staff Quarters Block; Total plinth area: 3 lakh sq ft; Located at Vaigai, Tamil Nadu House, Chanakyapuri",
+      "tweet_id": "1816739140777783791"
+    },
+    {
+      "id": "mtc-electric-bus-120",
+      "name": {
+        "en": "MTC Electric Bus Fleet - 120 Buses (Phase 1A)",
+        "ta": "MTC மின்சார பேருந்து - 120 பேருந்துகள்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Vyasarpadi",
+        "coordinates": {
+          "latitude": 13.1067,
+          "longitude": 80.2614
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Electric Bus Fleet",
+      "status": "Operational",
+      "budget": {
+        "crore": 255.4,
+        "notes": "120 buses: ₹207.90 Cr + Vyasarpadi depot upgrade: ₹47.50 Cr"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated June 30, 2025; Full Phase 1 (625 buses) by February 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "120 low-floor electric buses by Ashok Leyland",
+        "cmPhotoCompletion": "2025-06-30"
+      },
+      "sources": [
+        {
+          "title": "Sustainable Bus",
+          "url": "https://www.sustainable-bus.com/electric-bus/120-electric-buses-chennai-tamil-nadu-mtc/"
+        },
+        {
+          "title": "LiveChennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=74845"
+        },
+        {
+          "title": "Swarajya",
+          "url": "https://swarajyamag.com/news-brief/cleaner-public-transport-chennai-gets-120-low-floor-electric-buses-through-world-bank-aiib-supported-initiative"
+        }
+      ],
+      "notes": "Part of larger 625-bus Phase 1 (₹697 Cr total); 400 non-AC + 225 AC buses planned; 5 depots: Vyasarpadi, Perumbakkam, Tondiarpet-I, Poonamallee, Central",
+      "tweet_id": "1939598923733336382"
+    },
+    {
+      "id": "periyar-vegetable-market-trichy",
+      "name": {
+        "en": "Periyar Integrated Vegetable Market Trichy",
+        "ta": "பெரியார் ஒருங்கிணைந்த காய்கறி சந்தை திருச்சி"
+      },
+      "location": {
+        "district": "Tiruchirappalli",
+        "city": "Panjapur",
+        "coordinates": {
+          "latitude": 10.77,
+          "longitude": 78.72
+        }
+      },
+      "type": "Markets & Commercial",
+      "subType": "Vegetable Market",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 236,
+        "notes": "Will replace congested Gandhi Market"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation stone laid May 9, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-05-09"
+      },
+      "sources": [
+        {
+          "title": "Rohini Housing",
+          "url": "https://www.rohinihousing.com/blog/panjapur-vegetable-market-trichy-real-estate-development"
+        },
+        {
+          "title": "Tiruchirappalli District Official",
+          "url": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/"
+        }
+      ],
+      "notes": "22-acre facility; 450+ shops; Cold storage facilities; Wide access roads; Ample parking; Near Trichy-Madurai National Highway",
+      "tweet_id": "1920776841247248650"
+    },
+    {
+      "id": "madurai-central-prison",
+      "name": {
+        "en": "Madurai Central Prison (New Complex)",
+        "ta": "மதுரை மத்திய சிறைச்சாலை (புதிய வளாகம்)"
+      },
+      "location": {
+        "district": "Madurai",
+        "city": "Therkkutheru Utkadai Sembur (Melur Taluk)",
+        "coordinates": {
+          "latitude": 9.9252,
+          "longitude": 78.3355
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Prison Complex",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 229.2,
+        "notes": "Men's prison Phase I construction"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation laid July 31, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-07-31"
+      },
+      "sources": [
+        {
+          "title": "Dinakaran - CM Stalin laid foundation stone for Madurai Central Prison",
+          "url": "https://www.dinakaran.com/cm-stalin-laid-foundation-stone-madurai-central-prison/"
+        },
+        {
+          "title": "Wikipedia - Madurai Central Prison",
+          "url": "https://en.wikipedia.org/wiki/Madurai_Central_Prison"
+        }
+      ],
+      "notes": "Phase I construction includes central prison building, 113 prison staff quarters, cement concrete road and security perimeter wall; Part of Rs 274.67 crore police and emergency services infrastructure announced on July 31, 2025; Also included police buildings (Rs 27.59 cr), fire stations (Rs 13.54 cr), prison buildings (Rs 60 lakh), forensic drug testing units (Rs 3.74 cr)",
+      "tweet_id": "1950825991854834157"
+    },
+    {
+      "id": "kovai-semmozhi-poonga",
+      "name": {
+        "en": "Kovai Semmozhi Poonga (Botanical Park)",
+        "ta": "கோவை செம்மொழி பூங்கா"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Gandhipuram",
+        "coordinates": {
+          "latitude": 11.0168,
+          "longitude": 76.9558
+        }
+      },
+      "type": "Parks & Recreation",
+      "subType": "Botanical Garden",
+      "status": "Operational",
+      "budget": {
+        "crore": 208.5,
+        "notes": "Phase 1; Future expansion to 165 acres"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated November 25, 2025; Public opening December 1, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "45-acre botanical garden on former Central Prison site",
+        "cmPhotoCompletion": "2025-11-25"
+      },
+      "sources": [
+        {
+          "title": "News9Live",
+          "url": "https://www.news9live.com/state/tamil-nadu/coimbatores-grand-rs-208-5-crore-semmozhi-park-opens-to-public-from-december-11-all-details-2910702"
+        },
+        {
+          "title": "Social News XYZ",
+          "url": "https://www.socialnews.xyz/2025/11/25/stalin-inaugurates-rs-208-crore-botanical-park-spread-across-45-acres-in-coimbatore/"
+        }
+      ],
+      "notes": "45-acre Phase 1 (of 165 acres); 2+ km walking tracks; 23 themed gardens including herbal, rose, terrarium; QR-based digital plant information; Outdoor gym; On former Central Prison site at Gandhipuram",
+      "tweet_id": "1993241194608939125"
+    },
+    {
+      "id": "tambaram-eastern-bypass-bridge",
+      "name": {
+        "en": "Tambaram Eastern Bypass Bridge (Rajakilpakkam)",
+        "ta": "தாம்பரம் கிழக்கு சுற்றுவட்டப்பாதை பாலம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Rajakilpakkam",
+        "coordinates": {
+          "latitude": 12.9167,
+          "longitude": 80.1333
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Bridge",
+      "status": "Announced",
+      "budget": {
+        "crore": 208.31,
+        "notes": "Part of 9.3 km Tambaram Eastern Bypass"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2027,
+        "completionNotes": "Announced November 2025; Expected 2 years completion"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "LiveChennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=72098"
+        },
+        {
+          "title": "Swarajya",
+          "url": "https://swarajyamag.com/news-brief/tamil-nadu-highway-authority-plans-to-complete-east-tambaram-bypass-project-within-two-years"
+        }
+      ],
+      "notes": "850-metre elevated six-lane bridge over Rajakilpakkam Lake; Part of 9.3 km Tambaram Eastern Bypass (Perungalathur → Madambakkam → Camp Road → Velachery); Designed to ease southern Chennai traffic",
+      "tweet_id": "1993174433822130487"
+    },
+    {
+      "id": "chennai-municipal-bonds",
+      "name": {
+        "en": "Chennai Corporation Municipal Bonds",
+        "ta": "சென்னை மாநகராட்சி நகராட்சி பத்திரங்கள்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.08,
+          "longitude": 80.27
+        }
+      },
+      "type": "Finance & Governance",
+      "subType": "Municipal Bond",
+      "status": "Operational",
+      "budget": {
+        "crore": 200,
+        "notes": "Lowest municipal bond rate in India 2025 (7.97%)"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": 2035,
+        "completionNotes": "Listed on NSE 2025; 10-year tenure"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "CM Stalin rings bell for NSE listing",
+        "cmPhotoCompletion": "2025-05-26"
+      },
+      "sources": [
+        {
+          "title": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/tamil-nadu/chennai-corporation-lists-municipal-bonds-in-nse-3557828"
+        },
+        {
+          "title": "Adyar Times",
+          "url": "https://adyartimes.in/cm-stalin-rings-bell-for-chennai-corporations-%E2%82%B9200-crore-municipal-bonds-listing-on-nse/"
+        }
+      ],
+      "notes": "7.97% interest rate (lowest in India 2025); AA+ rating; 4.21x oversubscribed (₹421 Cr bids); Funds for Kosasthalaiyar Basin Integrated Storm Water Drain project; ₹26 Cr AMRUT 2.0 incentive grant",
+      "tweet_id": "1926902831841239505"
+    },
+    {
+      "id": "sipcot-ttro-hosur",
+      "name": {
+        "en": "SIPCOT TTRO Plant Hosur",
+        "ta": "சிப்காட் TTRO ஆலை ஓசூர்"
+      },
+      "location": {
+        "district": "Krishnagiri",
+        "city": "Hosur",
+        "coordinates": {
+          "latitude": 12.7409,
+          "longitude": 77.8253
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Treatment Plant",
+      "status": "Operational",
+      "budget": {
+        "crore": 182,
+        "notes": "Water from Kelavarapalli Dam"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2023,
+        "completionNotes": "Inaugurated June 13, 2023"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2023-06-13"
+      },
+      "sources": [
+        {
+          "title": "SIPCOT Official",
+          "url": "https://sipcotweb.tn.gov.in/Projects"
+        },
+        {
+          "title": "Krishnagiri District",
+          "url": "https://krishnagiri.nic.in/public-utility/sipcot/"
+        }
+      ],
+      "notes": "20 MLD Tertiary Treatment Reverse Osmosis plant; Serves Hosur SIPCOT (2,092 acres), Shoolagiri SIPCOT (989 acres), new industrial park (1,800 acres); Benefits ~800 industrial units; Expected to attract ₹6,000 Cr investments and 10,000 jobs",
+      "tweet_id": "1896356276929360041"
+    },
+    {
+      "id": "north-chennai-housing-ezhukinar",
+      "name": {
+        "en": "North Chennai Urban Housing (Ezhukinar)",
+        "ta": "வட சென்னை நகர்ப்புற வீட்டுவசதி (எழுகினார்)"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Ezhukinar (near Stanley Hospital)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2833
+        }
+      },
+      "type": "Housing",
+      "subType": "Urban Housing",
+      "status": "Operational",
+      "budget": {
+        "crore": 178,
+        "notes": "₹147 Cr for 776 apartments + ₹31 Cr for 144 new units foundation"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2026,
+        "completionNotes": "776 apartments inaugurated + 144 units foundation laid January 21, 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2026-01-21"
+      },
+      "sources": [
+        {
+          "title": "Daily Thanthi",
+          "url": "https://www.dailythanthi.com/news/tamilnadu/mk-stalin-inaugurated-the-776-apartment-units-built-at-a-cost-of-rs-147-crore-1201267"
+        },
+        {
+          "title": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/news/tamil-nadu-cm-stalin-opens-projects-for-5643-houses-1811699"
+        }
+      ],
+      "notes": "776 apartment units inaugurated; 144 additional units at Valltax Road and Water Tank Street foundation laid; Part of 'Chief Minister Urban Housing' scheme under North Chennai Development Scheme",
+      "tweet_id": "2013899496384798772"
+    },
+    {
+      "id": "mandaveli-multimodal-hub",
+      "name": {
+        "en": "Mandaveli Bus Terminal Multi-Modal Hub",
+        "ta": "மந்தைவெளி பேருந்து முனைய பல்நோக்கு மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Mandaveli",
+        "coordinates": {
+          "latitude": 13.0167,
+          "longitude": 80.2625
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Multi-Modal Transit Hub",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 167.09,
+        "notes": "Contract signed by CMAML (Chennai Metro Asset Management Limited)"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": 2028,
+        "completionNotes": "Foundation laid January 22, 2026; Completion expected in 2 years"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2026-01-22"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai - CMAML Signs Rs 167.08 Crore Contract for Mandaveli",
+          "url": "https://www.livechennai.com/detailnews.asp?catid=17&newsid=77368&nav=n"
+        },
+        {
+          "title": "Swarajya - Chennai Set For Two New Transit-Oriented Developments",
+          "url": "https://swarajyamag.com/news-brief/chennai-set-for-two-new-transit-oriented-developments-as-cmrl-plans-high-rise-hubs-at-vadapalani-mandaveli"
+        },
+        {
+          "title": "Mylapore Times - Multi-modal transport hub around Mandaveli Metro station",
+          "url": "https://www.mylaporetimes.com/2025/06/two-multi-storeyed-blocks-an-multi-modal-transport-hub-planned-around-chennai-metro-mandaveli-metro-station/"
+        }
+      ],
+      "notes": "Integrated with Chennai Metro Phase 2 Corridor 3; Two multi-storeyed blocks; Tower A: ground to 7 floors for office/commercial use; Basement parking for 184 two-wheelers and 96 cars; Entry/exit structures of underground metro station inside existing MTC bus terminus; Part of Transit-Oriented Development (TOD) initiative by CMRL and TIDCO",
+      "tweet_id": "2014265147431551292"
+    },
+    {
+      "id": "j-anbazhagan-flyover",
+      "name": {
+        "en": "J. Anbazhagan Flyover (T. Nagar Steel Flyover)",
+        "ta": "ஜெ. அன்பழகன் மேம்பாலம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "T. Nagar",
+        "coordinates": {
+          "latitude": 13.0418,
+          "longitude": 80.2341
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Steel Flyover",
+      "status": "Operational",
+      "budget": {
+        "crore": 164.92,
+        "notes": "Chennai's first major steel flyover"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated September 30, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "1.2 km steel flyover connecting South Usman Road to CIT Nagar",
+        "cmPhotoCompletion": "2025-09-30"
+      },
+      "sources": [
+        {
+          "title": "News9Live - Chennai's first major steel flyover at T Nagar inaugurated",
+          "url": "https://www.news9live.com/state/tamil-nadu/chennais-first-major-steel-flyover-at-t-nagar-inaugurated-aims-to-decongest-citys-busiest-shopping-hub-2893063"
+        },
+        {
+          "title": "The News Mill - Tamil Nadu CM inaugurates J. Anbazhagan Flyover",
+          "url": "https://thenewsmill.com/2025/09/tamil-nadu-cm-inaugurates-j-anbazhagan-flyover-in-chennai-project-worth-rs-164-92-crore/"
+        },
+        {
+          "title": "The Daily Jagran - Chennai First Steel Flyover",
+          "url": "https://www.thedailyjagran.com/india/chennai-first-steel-flyover-connecting-south-usman-road-to-cit-nagar-main-road-opens-to-ease-congestion-in-t-nagar-10270896"
+        }
+      ],
+      "notes": "1.2 km length; 53 steel pillars; 3,800 tonnes of steel; 6.5m above ground; 30m deep foundation; Two-way traffic; 120m entry ramp from T. Nagar bus terminus; 100m exit ramp to commercial zone; 6m service road with pedestrian footpaths; Named after late DMK senior leader J. Anbazhagan; Benefits 40,000 vehicles and 2 lakh residents daily; Reduces travel time from 45 mins to 5 mins",
+      "tweet_id": "1972936875175215163"
+    },
+    {
+      "id": "elcot-it-park-vilankurichi",
+      "name": {
+        "en": "ELCOT IT Park Vilankurichi",
+        "ta": "எல்காட் தகவல் தொழில்நுட்ப பூங்கா விளாங்குறிச்சி"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Vilankurichi",
+        "coordinates": {
+          "latitude": 11.0439,
+          "longitude": 76.9957
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 158.32,
+        "notes": "Built by ELCOT on National Highway 544"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 5, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Six-storey IT park with 2.94 lakh sq ft",
+        "cmPhotoCompletion": "2024-11-05"
+      },
+      "sources": [
+        {
+          "title": "News Today - Stalin inaugurates Elcot facility worth Rs 158 cr in Kovai",
+          "url": "https://newstodaynet.com/2024/11/06/stalin-inaugurates-elcot-facility-worth-rs-158-cr-in-kovai/"
+        },
+        {
+          "title": "The South First - ELCOT IT Park in Coimbatore",
+          "url": "https://thesouthfirst.com/tamilnadu/chief-minister-mk-stalin-to-inaugurate-elcot-it-park-in-coimbatore/"
+        },
+        {
+          "title": "TN IT Department - Coimbatore Vilankurichi",
+          "url": "https://it.tn.gov.in/en/ELCOSEZ/Coimbatore-Vilankurichi"
+        }
+      ],
+      "notes": "2.94 lakh sq ft total area; 1.56 lakh sq ft IT space; Six-storey building; Two basements for parking; Expected to generate 3,500 IT jobs; Seven IT companies given allotment orders; Startup IT companies to be accommodated under co-working system; Future expansion: Two more buildings on remaining 17.17 acres at Rs 2,000 crore creating 35,000 jobs",
+      "tweet_id": "1853747319822274669"
+    },
+    {
+      "id": "coimbatore-metro-land-acquisition",
+      "name": {
+        "en": "Coimbatore Metro Rail Land Acquisition (Phase 1)",
+        "ta": "கோவை மெட்ரோ ரயில் நில கையகப்படுத்துதல் (முதல் கட்டம்)"
+      },
+      "location": {
+        "district": "Coimbatore",
+        "city": "Coimbatore (Textool to Surya Hospital Junction)",
+        "coordinates": {
+          "latitude": 11.0482,
+          "longitude": 77.0263
+        }
+      },
+      "type": "Rail Infrastructure",
+      "subType": "Metro Rail Land Acquisition",
+      "status": "In Progress",
+      "budget": {
+        "crore": 154,
+        "notes": "First phase allocation by CMRL for 1.1 km stretch"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Land acquisition commenced March 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "Swarajya - CMRL Allocates Rs 154 Crore For Land Acquisition For Coimbatore Metro",
+          "url": "https://swarajyamag.com/news-brief/cmrl-allocates-rs-154-crore-for-land-acquisition-for-coimbatore-metro-paving-way-for-expansion"
+        },
+        {
+          "title": "Construction World - CMRL to Begin Land Acquisition for Coimbatore Metro by March 2025",
+          "url": "https://www.constructionworld.in/transport-infrastructure/metro-rail-and-railways-infrastructure/cmrl-to-begin-land-acquisition-for-coimbatore-metro-by-march-2025/67155"
+        },
+        {
+          "title": "Constro Facilitator - CMRL allocates Rs 154 crore for land acquisition",
+          "url": "https://constrofacilitator.com/cmrl-allocates-rs-154-crore-for-acquiring-land-for-metro-rail-project/"
+        }
+      ],
+      "notes": "24-metre-wide strip from Textool flyover to Surya Hospital Junction; 1.1 km stretch on Coimbatore-Sathyamangalam Road; Coordinated with National Highways road widening (3.1 km); Additional Rs 2 crore sanctioned for detailed land plan survey; Part of broader Coimbatore Metro Rail project",
+      "tweet_id": "1886636465372938475"
+    },
+    {
+      "id": "kallakurichi-collectorate",
+      "name": {
+        "en": "Kallakurichi District Collectorate",
+        "ta": "கள்ளக்குறிச்சி மாவட்ட ஆட்சியர் அலுவலகம்"
+      },
+      "location": {
+        "district": "Kallakurichi",
+        "city": "Veeracholapuram (Veerasozapuram)",
+        "coordinates": {
+          "latitude": 11.7391,
+          "longitude": 78.9599
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Government Office Complex",
+      "status": "Operational",
+      "budget": {
+        "crore": 139.41,
+        "notes": "New district collectorate complex"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated December 26, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "39.81 acres collectorate complex",
+        "cmPhotoCompletion": "2025-12-26"
+      },
+      "sources": [
+        {
+          "title": "Kallakurichi District Government - District Collector Office Inspection",
+          "url": "https://kallakurichi.nic.in/the-district-collector-personally-inspected-the-construction-work-of-the-new-district-collectors-office-building-being-constructed-at-an-estimated-cost-of-rs-139-41-crore-in-veeracholapuram-kallak/"
+        },
+        {
+          "title": "Kallakurichi District Government - CM Inauguration",
+          "url": "https://kallakurichi.nic.in/at-a-government-function-held-in-kallakurichi-district-the-honourable-chief-minister-of-tamil-nadu-mr-m-k-stalin-inaugurated-2559-completed-projects-worth-%E2%82%B91773-67-crore-including-the/"
+        },
+        {
+          "title": "Thanthi TV - Kallakurichi Collectorate Inauguration",
+          "url": "https://www.thanthitv.com/news/tamilnadu/inauguration-of-the-new-kallakurichi-district-collectorate-building-380991"
+        }
+      ],
+      "notes": "Built on 39.81 acres; Part of Rs 1,773.67 crore district development projects; CM distributed welfare assistance to 2,16,056 beneficiaries during inauguration; Modern government office complex for newly formed Kallakurichi district",
+      "tweet_id": "2004478359473140114"
+    },
+    {
+      "id": "anna-heavy-vehicle-terminus-trichy",
+      "name": {
+        "en": "Anna Heavy Vehicle Cargo Terminal (Integrated Truck Terminal)",
+        "ta": "பேரறிஞர் அண்ணா கனரக சரக்கு வாகன முனையம்"
+      },
+      "location": {
+        "district": "Tiruchirappalli",
+        "city": "Panchappur (Panjapur)",
+        "coordinates": {
+          "latitude": 10.8261,
+          "longitude": 78.6569
+        }
+      },
+      "type": "Transport Infrastructure",
+      "subType": "Truck Terminal",
+      "status": "Operational",
+      "budget": {
+        "crore": 128.94,
+        "notes": "Also referred to as Rs 129 crore Integrated Truck Terminal"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated May 9, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2025-05-09"
+      },
+      "sources": [
+        {
+          "title": "Tiruchirappalli District Government - CM Inauguration News",
+          "url": "https://tiruchirappalli.nic.in/honorable-cm-trichy-periyar-vegetable-market-anna-logistic-vehicle-centre-and-kalaignar-integrated-bus-stand-inauguration-news/"
+        },
+        {
+          "title": "BuildWatch News - CM Stalin Opens Rs 522 Crore Trichy Transit Hubs",
+          "url": "https://buildwatchnews.com/trichy-integrated-bus-terminus-inauguration-2025/"
+        },
+        {
+          "title": "Live Chennai - Trichy IBT and Truck Terminus",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=74085"
+        }
+      ],
+      "notes": "Part of Rs 522 crore Trichy Transit Hubs project; Inaugurated alongside Kalaignar Integrated Bus Stand (Rs 408 crore) at Panjapur; Also foundation laid for Rs 75 crore Periyar Vegetable and Fruit Market; Named after C.N. Annadurai; Major logistics hub for Trichy region",
+      "tweet_id": "1920775557026848814"
+    },
+    {
+      "id": "mannargudi-ring-road-phase1",
+      "name": {
+        "en": "Mannargudi Town Ring Road Phase 1",
+        "ta": "மன்னார்குடி சுற்றுவட்ட சாலை முதல் கட்டம்"
+      },
+      "location": {
+        "district": "Thiruvarur",
+        "city": "Mannargudi",
+        "coordinates": {
+          "latitude": 10.665,
+          "longitude": 79.445
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Ring Road",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 113.1,
+        "notes": "Phase 1A: Rs 62.42 crore + Phase 1B: Rs 50.68 crore"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "PWD invited bids for Phase 1 construction"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "11.9 km bypass connecting major roads",
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "India Investment Grid - Mannargudi Ring Road Project",
+          "url": "https://indiainvestmentgrid.gov.in/opportunities/project/22162"
+        },
+        {
+          "title": "NBMCW - PWD Bids for Mannargudi Ring Road",
+          "url": "https://www.nbmcw.com/news/tamil-nadu-pwd-invites-bids-for-phase-1-of-mannargudi-town-ring-road.html"
+        },
+        {
+          "title": "News On Projects - Mannargudi 22 km ring road",
+          "url": "https://newsonprojects.com/news/mannargudi-to-get-22-km-ring-road"
+        }
+      ],
+      "notes": "Phase 1A: km 0/0 to 5/610 connecting SH63 (Thanjavur-Mannargudi-Kodikkarai Road) with MD840; Phase 1B: km 5/610 to 11/900 connecting MD840 back to SH63; Total Phase 1: 11.9 km; Full ring road planned for 22 km connecting 3 State Highways and rural roads; Villages: Moondramsethi, Bhamini, Aravathur, Ramapuram, Kailasanathar Koil, Nangamsethi, Serankulam, Koppiralayam",
+      "tweet_id": "1919410222231179673"
+    },
+    {
+      "id": "island-grounds-exhibition-centre",
+      "name": {
+        "en": "Island Grounds Exhibition Centre",
+        "ta": "தீவுத்திடல் கண்காட்சி மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Island Grounds",
+        "coordinates": {
+          "latitude": 13.094,
+          "longitude": 80.285
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Exhibition Centre",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 113,
+        "notes": "Modern exhibition facility with technological amenities"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2025,
+        "completionNotes": "Target completion December 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Stilt plus two-storey exhibition centre",
+        "cmPhotoInspection": "2025-03-07"
+      },
+      "sources": [
+        {
+          "title": "Dinakaran - CM Stalin inspection",
+          "url": "https://www.dinakaran.com/chennai_exhibition_centre_chiefminister_m-k-stalin/"
+        },
+        {
+          "title": "Exhibition Globe - Island Grounds development",
+          "url": "https://exhibitionglobe.com/chennais-island-grounds-to-house-a-year-round-exhibition-centre-with-amphitheatre-waterfront-promenade/"
+        },
+        {
+          "title": "Live Chennai - CMDA Exhibition Centre",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=75575"
+        }
+      ],
+      "notes": "1.63 lakh sq ft (163,039 sq ft) built-up area; Ground + 2 storeys rising to 24 metres; 3.10 acres (scaled from original 18 acres due to CRZ-II constraints); 20 modular exhibition stalls; Amphitheatre; Waterfront promenade; Public plaza; Landscaped gardens; Parking; Restaurant; Children's play area; Part of 135-acre Island Grounds redevelopment",
+      "tweet_id": "1897975624654008798"
+    },
+    {
+      "id": "mtc-electric-bus-infrastructure",
+      "name": {
+        "en": "MTC Electric Bus Depot Infrastructure",
+        "ta": "MTC மின் பேருந்து நிலைய உட்கட்டமைப்பு"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Multiple Depots",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Public Transport",
+      "subType": "Bus Infrastructure",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 111.5,
+        "notes": "Infrastructure for 500 e-buses across 6 depots"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2026,
+        "completionNotes": "Perumbakkam depot by August 2025; Full deployment by February 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "Sustainable Bus - Chennai 120 electric buses",
+          "url": "https://www.sustainable-bus.com/electric-bus/120-electric-buses-chennai-tamil-nadu-mtc/"
+        },
+        {
+          "title": "ITDP - Chennai E-Bus Transition",
+          "url": "https://itdp.org/2025/07/24/how-chennai-india-is-jump-starting-its-e-bus-transition/"
+        },
+        {
+          "title": "Native Planet - 625 Electric Buses",
+          "url": "https://www.nativeplanet.com/news/chennais-mtc-to-launch-625-low-floor-electric-buses-for-sustainable-transport-011-016831.html"
+        }
+      ],
+      "notes": "Charging and maintenance infrastructure at 6 depots: Perambur-II, Tondiarpet-I, Vyasarpadi, Poonamallee, KK Nagar-I, Perumbakkam-I; Part of Rs 959 crore e-bus scheme with World Bank funding (70%); First phase: 625 low-floor electric buses at Rs 697 crore total; 225 air-conditioned + 400 non-AC buses",
+      "tweet_id": "1826627412781596979"
+    },
+    {
+      "id": "setc-bs6-sleeper-buses",
+      "name": {
+        "en": "SETC BS-VI Sleeper Buses",
+        "ta": "SETC BS-VI படுக்கை வசதி பேருந்துகள்"
+      },
+      "location": {
+        "district": "State-wide",
+        "city": "Chennai (flagged off)",
+        "coordinates": null
+      },
+      "type": "Public Transport",
+      "subType": "Bus Fleet",
+      "status": "Operational",
+      "budget": {
+        "crore": 90.52,
+        "notes": "150 new BS-VI diesel buses for SETC"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2024,
+        "completionNotes": "Flagged off August 28, 2024 by Minister Udhayanidhi Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "150 sleeper-cum-seating buses with modern amenities",
+        "cmPhotoCompletion": "2024-08-28"
+      },
+      "sources": [
+        {
+          "title": "News9live - Tamil Nadu: 150 new BS-VI buses inducted into SETC fleet",
+          "url": "https://www.news9live.com/state/tamil-nadu/tamil-nadu-150-new-bs-vi-buses-inducted-into-setc-fleet-details-here-2673882"
+        },
+        {
+          "title": "Magzter - SETC gets 150 new non-AC seater-cum-sleeper buses",
+          "url": "https://www.magzter.com/stories/newspaper/The-New-Indian-Express/SETC-GETS-150-NEW-NONAC-SEATERCUMSLEEPER-BUSES"
+        }
+      ],
+      "notes": "Features include front air suspension, individual charging ports, personal fans, SOS system, public announcement system, fire alarms; Part of plan to replace 260 over-aged buses; Last procurement was in 2020; Flagged off from Bus Workshop on Pallavan Road, Chennai",
+      "tweet_id": "1828821803516731518"
+    },
+    {
+      "id": "water-resources-19-projects-8-districts",
+      "name": {
+        "en": "Water Resources Department Projects (19 projects in 8 districts)",
+        "ta": "நீர்வளத்துறை திட்டங்கள் (8 மாவட்டங்களில் 19 திட்டங்கள்)"
+      },
+      "location": {
+        "district": "Multiple (8 districts including Coimbatore, Tirupur)",
+        "city": "Various",
+        "coordinates": null
+      },
+      "type": "Water Infrastructure",
+      "subType": "Check Dams and Canals",
+      "status": "Operational",
+      "budget": {
+        "crore": 89.0,
+        "notes": "19 projects including check dams, canals, dam reconstruction"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated October 7, 2024 by CM M.K. Stalin virtually from Chennai"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2024-10-07"
+      },
+      "sources": [
+        {
+          "title": "Construction World - Tamil Nadu CM Launches 19 New Water Projects",
+          "url": "https://www.constructionworld.in/urban-infrastructure/wastewater-and-sewage-treatment/tamil-nadu-cm-launches-19-new-water-projects/63394"
+        }
+      ],
+      "notes": "Key projects include: Check dam at Kavundayanvalasu village (Rs 11.05 crore), Check dam at Mambadi-Punganthurai village (near Dharapuram), Check dam across Kothavadi stream at Vadakkipalayam (near Pollachi); Water Resources Minister Duraimurugan also present at inauguration",
+      "tweet_id": "1842107393460863074"
+    },
+    {
+      "id": "virudhunagar-collectorate-building",
+      "name": {
+        "en": "Virudhunagar District Collectorate Building",
+        "ta": "விருதுநகர் மாவட்ட ஆட்சியர் அலுவலகக் கட்டடம்"
+      },
+      "location": {
+        "district": "Virudhunagar",
+        "city": "Kooraikkundu",
+        "coordinates": {
+          "latitude": 9.5853,
+          "longitude": 77.9528
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Administrative Building",
+      "status": "Operational",
+      "budget": {
+        "crore": 77.12,
+        "notes": "New 6-floor District Collector office on 7.67 acres"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 10, 2024 by CM M.K. Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "6-floor modern administrative building",
+        "cmPhotoCompletion": "2024-11-10"
+      },
+      "sources": [
+        {
+          "title": "Virudhunagar District Government - CM Visit November 2024",
+          "url": "https://virudhunagar.nic.in/cm-2024/"
+        },
+        {
+          "title": "Social News XYZ - Stalin in Virudhunagar district",
+          "url": "https://www.socialnews.xyz/2024/11/09/stalin-in-virudhunagar-district-as-part-of-statewide-tour-to-monitor-govt-schemes/"
+        }
+      ],
+      "notes": "Part of CM Stalin's statewide tour to monitor government schemes; Located at NH 7, Kumaraswamy Nagar, Kooraikundu",
+      "tweet_id": "1855535990527664232"
+    },
+    {
+      "id": "gcc-ripon-building-council-hall",
+      "name": {
+        "en": "Greater Chennai Corporation New Council Hall",
+        "ta": "சென்னை மாநகராட்சி புதிய மன்றக்கூடம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai (Ripon Building Complex)",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Public Buildings",
+      "subType": "Administrative Building",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 74.7,
+        "notes": "New administrative building within Ripon Building complex"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation stone laid December 23, 2025 by CM M.K. Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-12-23"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai - CM Stalin Inaugurates Renovated Victoria Hall",
+          "url": "https://www.livechennai.com/detailnews.asp?catid=104&newsid=77456"
+        },
+        {
+          "title": "Wikipedia - Ripon Building",
+          "url": "https://en.wikipedia.org/wiki/Ripon_Building"
+        }
+      ],
+      "notes": "Foundation laid alongside inauguration of renovated Victoria Public Hall (Rs 32.62 crore); Part of state government commitment to conserving heritage structures while upgrading urban administrative facilities",
+      "tweet_id": "2003507101780647985"
+    },
+    {
+      "id": "chembarambakkam-water-treatment-upgrade",
+      "name": {
+        "en": "Chembarambakkam Water Treatment Plant Upgrade",
+        "ta": "செம்பரம்பாக்கம் நீர்த்தூய்மை நிலைய மேம்படுத்தல்"
+      },
+      "location": {
+        "district": "Tiruvallur",
+        "city": "Chembarambakkam",
+        "coordinates": {
+          "latitude": 13.0333,
+          "longitude": 80.0667
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Water Treatment Plant",
+      "status": "Operational",
+      "budget": {
+        "crore": 66.78,
+        "notes": "Upgrade to double water supply capacity from 265 MLD to 530 MLD"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated September 20, 2025 by CM M.K. Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Upgraded treatment plant doubling supply capacity",
+        "cmPhotoCompletion": "2025-09-20"
+      },
+      "sources": [
+        {
+          "title": "APAC News Network - Tamil Nadu Govt to Inaugurate Newly Upgraded Chembarambakkam Plant",
+          "url": "https://apacnewsnetwork.com/2025/09/tamil-nadu-govt-to-inaugurate-newly-upgraded-chembarambakkam-plant-to-enhance-water-supply-in-chennai/"
+        },
+        {
+          "title": "Chemical Industry Digest - Chembarambakkam Project to Double Chennai's Water Supply",
+          "url": "https://chemindigest.com/relief-for-chennai-chembarambakkam-project-to-double-water-supply/"
+        },
+        {
+          "title": "EA Water - Chennai Boosts Water Supply with Upgraded 530 MLD Chembarambakkam Plant",
+          "url": "https://www.eawater.com/regulars/waternews/20-lakh-homes-to-benefit-from-upgraded-water-treatment-plant/"
+        }
+      ],
+      "notes": "Originally commissioned in 2007 supplying 265 MLD; Second pipeline faced repeated delays due to NHAI permission issues; Benefits over 20 lakh households in South Chennai including Anna Nagar, Adyar, Ambattur, Valasaravakkam, Teynampet, parts of Tambaram and Avadi corporations",
+      "tweet_id": "1969331771390271647"
+    },
+    {
+      "id": "otteri-nalla-canal-restoration",
+      "name": {
+        "en": "Otteri Nullah Restoration Project",
+        "ta": "ஓட்டேரி நல்லா கால்வாய் புனரமைப்பு திட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Royapuram, Thiru-Vi-Ka Nagar, Anna Nagar (Zones V, VI, VIII)",
+        "coordinates": {
+          "latitude": 13.1,
+          "longitude": 80.25
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Canal Restoration",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 65.0,
+        "notes": "Desilting and wall elevation of 10.8 km canal"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Foundation laid August 2025; Tender finalization expected July 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoInitiation": "2025-08-30"
+      },
+      "sources": [
+        {
+          "title": "The Hindu - GCC Council clears resolutions on canal restoration",
+          "url": "https://www.thehindu.com/news/cities/chennai/gcc-council-clears-resolutions-on-canal-restoration-new-fish-market-sanitation-infra-works/article69979196.ece"
+        },
+        {
+          "title": "The Hindu - Chennai residents welcome Corporation's move to revamp Otteri Nullah",
+          "url": "https://www.thehindu.com/news/cities/chennai/chennai-residents-welcome-corporation-move-to-revamp-otteri-nullah-demand-steps-to-remove-encroachments/article69709489.ece"
+        },
+        {
+          "title": "Wikipedia - Otteri Nullah",
+          "url": "https://en.wikipedia.org/wiki/Otteri_Nullah"
+        }
+      ],
+      "notes": "10.8 km canal from Padi Flyover to Buckingham Canal; Maintenance transferred from Water Resources Department to GCC in October 2024; DPR includes bridge/infrastructure improvements, desilting, pollution control, encroachment prevention, blue-green corridor creation; Chain fencing included",
+      "tweet_id": "1961867986069065837"
+    },
+    {
+      "id": "panchayat-union-offices-12-districts",
+      "name": {
+        "en": "Panchayat Union Office Buildings (17 buildings in 12 districts)",
+        "ta": "ஊராட்சி ஒன்றிய அலுவலகக் கட்டடங்கள் (12 மாவட்டங்களில் 17 கட்டடங்கள்)"
+      },
+      "location": {
+        "district": "Multiple (12 districts)",
+        "city": "Coimbatore, Cuddalore, Erode, Kanyakumari, Pudukottai, Tenkasi, Thanjavur, Theni, Thoothukudi, Tiruchirappalli, Tirupur, Villupuram",
+        "coordinates": null
+      },
+      "type": "Public Buildings",
+      "subType": "Administrative Buildings",
+      "status": "Operational",
+      "budget": {
+        "crore": 64.53,
+        "notes": "17 Panchayat Union office buildings"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated November 12, 2024 by CM M.K. Stalin virtually from Secretariat"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2024-11-12"
+      },
+      "sources": [
+        {
+          "title": "Construction World - Tamil Nadu CM M K Stalin Inaugurates Infrastructure for Rural Development",
+          "url": "https://www.constructionworld.in/policy-updates-and-economic-news/tamil-nadu-cm-m-k-stalin-inaugurates-infrastructure-for-rural-development/65117"
+        },
+        {
+          "title": "Devdiscourse - Tamil Nadu Boosts Rural Development with New Infrastructure",
+          "url": "https://www.devdiscourse.com/article/science-environment/3154270-tamil-nadu-boosts-rural-development-with-new-infrastructure"
+        },
+        {
+          "title": "ETV Bharat - TN CM Inaugurates Infrastructure For Rural Development Dept",
+          "url": "https://www.etvbharat.com/en/!state/tn-cm-inaugurates-infrastructure-for-rural-development-dept-enn24111203715"
+        }
+      ],
+      "notes": "Part of Rural Development and Panchayat Raj Department initiative; Virtual inauguration from Secretariat",
+      "tweet_id": "1856252693658120506"
+    },
+    {
+      "id": "satchiyapuram-road-overbridge",
+      "name": {
+        "en": "Satchiyapuram Road Overbridge (Sankaralinganar ROB)",
+        "ta": "சாட்சியாபுரம் சாலை மேம்பாலம் (சங்கரலிங்கனார் மேம்பாலம்)"
+      },
+      "location": {
+        "district": "Virudhunagar",
+        "city": "Satchiyapuram (between Sivakasi and Srivilliputhur)",
+        "coordinates": {
+          "latitude": 9.4528,
+          "longitude": 77.7984
+        }
+      },
+      "type": "Roads & Bridges",
+      "subType": "Road Overbridge",
+      "status": "Operational",
+      "budget": {
+        "crore": 61.74,
+        "notes": "Named after freedom fighter Sankaralinganar"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated November 11-12, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Road overbridge connecting Satchiyapuram to Sivakasi",
+        "cmPhotoCompletion": "2025-11-11"
+      },
+      "sources": [
+        {
+          "title": "ANI News - Sivakasi residents celebrate ROB inauguration",
+          "url": "https://aninews.in/news/national/general-news/sivakasi-residents-celebrate-as-tamil-nadu-cm-inaugurates-long-awaited-satchiyapuram-road-overbridge20251112105552/"
+        },
+        {
+          "title": "The News Mill - Satchiyapuram ROB",
+          "url": "https://thenewsmill.com/2025/11/sivakasi-residents-celebrate-as-tamil-nadu-cm-inaugurates-long-awaited-satchiyapuram-road-overbridge/"
+        },
+        {
+          "title": "Tamil Heritage - Freedom Fighter Sankaralinganar",
+          "url": "https://telibrary.com/en/freedom-fighter-sankaralinganar/"
+        }
+      ],
+      "notes": "Long-awaited project fulfilling decades-old demand; Eases traffic between Satchiyapuram and Sivakasi; Reduces waiting time at railway crossing; Enhances safety by reducing accidents; Named after freedom fighter Sankaralinganar who went on 77-day hunger strike for renaming Madras Province as Tamil Nadu; Residents called it a 'Diwali gift' to Sivakasi",
+      "tweet_id": "1988169889258131653"
+    },
+    {
+      "id": "kolathur-ornamental-fish-market",
+      "name": {
+        "en": "Kolathur Ornamental Fish Market Complex",
+        "ta": "கொளத்தூர் அலங்கார மீன் சந்தை வளாகம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Villivakkam-Padi",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2167
+        }
+      },
+      "type": "Urban Development",
+      "subType": "Market Complex",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 53.5,
+        "notes": "Asia's largest ornamental fish market complex"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": null,
+        "completionNotes": "Construction began August 26, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Modern fish market near Villivakkam-Padi flyover",
+        "cmPhotoInitiation": "2024-08-26"
+      },
+      "sources": [
+        {
+          "title": "News Karnataka - Kolathur Fish Market Overhaul",
+          "url": "https://newskarnataka.com/business/kolathurs-ornamental-fish-market-to-get-a-modern-overhaul/19082024/"
+        },
+        {
+          "title": "Live Chennai - Modern Fish Market Complex",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=71819"
+        },
+        {
+          "title": "Fishery News - Chennai Ornamental Fish Centre",
+          "url": "https://www.fishery.news/chennai-to-boost-ornamental-fish-trade-with-new-centre-in-kolathur/"
+        }
+      ],
+      "notes": "Asia's largest colorful fish stall; India's second largest ornamental fish market; Over 1,000 fish species including Oscars, Gourami, sucker fish, guppies, carp, goldfish; Current monthly revenue Rs 300 crore; Developed by CMDA; Part of North Chennai Development Plan; Modern infrastructure for fish trade",
+      "tweet_id": "1827956342893822096"
+    },
+    {
+      "id": "kolathur-ornamental-fish-center",
+      "name": {
+        "en": "Kolathur Ornamental Fish Trading Center",
+        "ta": "கொளத்தூர் வண்ண மீன்கள் வர்த்தக மையம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Villivakkam (Kolathur)",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2167
+        }
+      },
+      "type": "Commercial Infrastructure",
+      "subType": "Trading Center",
+      "status": "Under Construction",
+      "budget": {
+        "crore": 53.5,
+        "notes": "Government's first ornamental fish trade hub"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2025,
+        "completionNotes": "Expected inauguration early October 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "International standard ornamental fish trading center",
+        "cmPhotoInitiation": "2025-01-31"
+      },
+      "sources": [
+        {
+          "title": "Live Chennai - Modern fish market complex Kolathur",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=71819"
+        },
+        {
+          "title": "News Karnataka - Kolathur's Ornamental Fish Market Overhaul",
+          "url": "https://newskarnataka.com/business/kolathurs-ornamental-fish-market-to-get-a-modern-overhaul/19082024/"
+        },
+        {
+          "title": "Prop News Time - Chennai's Kolathur ornamental fish trade centre",
+          "url": "https://propnewstime.com/getdetailsStories/MTAxMjg=/chennai-s-kolathur-to-host-new-ornamental-fish-trade-centre-as-part-of-inr-1-000-crore-development-initiative"
+        },
+        {
+          "title": "Fishery News - Chennai ornamental fish trade centre",
+          "url": "https://www.fishery.news/chennai-to-boost-ornamental-fish-trade-with-new-centre-in-kolathur/amp/info@fishery.news/info@fishery.news/"
+        }
+      ],
+      "notes": "Spread over 1.25 lakh sq ft (4.5 acres) in Villivakkam; 188 shops across 3 floors (64 ground, 70 first, 54 second); Each shop: 4m x 5m with 3.75m height; Large fish display tanks; 3 restaurants; Parking for 400 vehicles; Second largest ornamental fish market in India; Over 1,000 fish species traded; Current market generates Rs 300 crore monthly revenue; Part of CM Stalin's constituency development initiative; Overseen by CMDA",
+      "tweet_id": "1885231500519760081"
+    },
+    {
+      "id": "kanyakumari-glass-bridge",
+      "name": {
+        "en": "Kanyakumari Glass Bridge",
+        "ta": "கன்னியாகுமரி கண்ணாடிப் பாலம்"
+      },
+      "location": {
+        "district": "Kanyakumari",
+        "city": "Kanyakumari",
+        "coordinates": {
+          "latitude": 8.0776,
+          "longitude": 77.5554
+        }
+      },
+      "type": "Tourism Infrastructure",
+      "subType": "Pedestrian Bridge",
+      "status": "Operational",
+      "budget": {
+        "crore": 37,
+        "notes": "India's first glass bridge over sea"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated December 30, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "77-meter glass bridge connecting Thiruvalluvar Statue to Vivekananda Rock Memorial",
+        "cmPhotoCompletion": "2024-12-30"
+      },
+      "sources": [
+        {
+          "title": "Wikipedia - Kanyakumari Glass Bridge",
+          "url": "https://en.wikipedia.org/wiki/Kanyakumari_Glass_bridge"
+        },
+        {
+          "title": "TTW India - India's First Glass Bridge Inaugurated",
+          "url": "https://www.ttwindia.com/news/article/indias-first-glass-bridge-inaugurated-in-kanyakumari-connecting-vivekananda-rock-memorial-and-thiruvalluvar-statue-a-blend-of-engineering-and-heritage/"
+        },
+        {
+          "title": "Swarajya - Glass Bridge Kanyakumari",
+          "url": "https://swarajyamag.com/news-brief/tamil-nadu-indias-first-glass-bridge-inaugurated-in-kanyakumari-connects-thiruvalluvar-statue-to-vivekananda-rock"
+        },
+        {
+          "title": "ETV Bharat - CM Stalin inaugurates glass bridge",
+          "url": "https://www.etvbharat.com/en/!bharat/tamil-nadu-cm-stalin-inaugurates-glass-bridge-connecting-vivekananda-memorial-and-thiruvalluvar-statue-enn24123006070"
+        },
+        {
+          "title": "News9 - India's first glass sea bridge",
+          "url": "https://www.news9live.com/state/tamil-nadu/indias-first-glass-bridge-in-the-sea-opens-at-kanyakumaris-thiruvalluvar-statue-2784957"
+        },
+        {
+          "title": "Zee News - Glass Bridge details",
+          "url": "https://zeenews.india.com/photos/india/glass-bridge-in-kanyakumari-timing-open-for-public-distance-over-sea-vivekananda-rock-thiruvalluvar-statue-2838467"
+        }
+      ],
+      "notes": "Length: 77 meters; Width: 10 meters; Connects 133-foot Thiruvalluvar Statue to Vivekananda Rock Memorial; First glass bridge in India built over sea; Bowstring arch structure for aesthetic appeal and structural integrity; Eliminates need for ferry between monuments; Panoramic views of Arabian Sea, Bay of Bengal, and Indian Ocean; Coincides with silver jubilee of Thiruvalluvar statue unveiling by late CM M. Karunanidhi",
+      "tweet_id": "1873729962248978569"
+    },
+    {
+      "id": "tidel-neo-park-thoothukudi",
+      "name": {
+        "en": "Mini TIDEL Park (TIDEL Neo) Thoothukudi",
+        "ta": "மினி டைடல் பார்க் (டைடல் நியோ) தூத்துக்குடி"
+      },
+      "location": {
+        "district": "Thoothukudi",
+        "city": "Meelavittan",
+        "coordinates": {
+          "latitude": 8.7642,
+          "longitude": 78.1348
+        }
+      },
+      "type": "IT Infrastructure",
+      "subType": "IT Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 32.5,
+        "notes": "First TIDEL Park in South Tamil Nadu"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated December 29, 2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "G+4 floor IT park building in Meelavittan",
+        "cmPhotoCompletion": "2024-12-29"
+      },
+      "sources": [
+        {
+          "title": "TIDEL Park Official - TIDEL Neo Thoothukudi",
+          "url": "https://www.tidelpark.com/blog/tidel-neo-thoothukudi.html"
+        },
+        {
+          "title": "Daily Excelsior - Stalin inaugurates mini TIDEL park",
+          "url": "https://www.dailyexcelsior.com/stalin-inaugurates-mini-tidel-park-in-tuticorin-district/"
+        },
+        {
+          "title": "Devdiscourse - New TIDEL Park Tamil Nadu",
+          "url": "https://www.devdiscourse.com/article/technology/3209786-new-tidel-park-in-tamil-nadu-booming-it-hub"
+        },
+        {
+          "title": "News Today - TIDEL Neo Park Tuticorin",
+          "url": "https://newstodaynet.com/2024/12/30/stalin-inaugurates-tidel-neo-park-in-tuticorin/"
+        },
+        {
+          "title": "Thoothukudi District Government",
+          "url": "https://thoothukudi.nic.in/honble-chief-minister-of-tamil-nadu-inaugurated-mini-tidel-park/"
+        }
+      ],
+      "notes": "Land area: 4.16 acres in Meelavittan II Village, Thoothukudi Taluk; Built-up area: 63,100 sq ft; G+4 floors with modern infrastructure; Capacity: 600 IT professionals; Fourth TIDEL Neo Park in Tamil Nadu (after Villupuram, Thanjavur, Salem); Part of Rs 234.5 crore scheme for TIDEL Neo Parks in 7 cities; CM distributed allotment letters to 2 private firms at inauguration",
+      "tweet_id": "1873357892608299123"
+    },
+    {
+      "id": "cholagangam-lake-development",
+      "name": {
+        "en": "Cholagangam Lake Development Project",
+        "ta": "சோழகங்கம் ஏரி மேம்பாட்டுத் திட்டம்"
+      },
+      "location": {
+        "district": "Ariyalur",
+        "city": "Gangaikondacholapuram",
+        "coordinates": {
+          "latitude": 11.2081,
+          "longitude": 79.4506
+        }
+      },
+      "type": "Water Infrastructure",
+      "subType": "Lake Development & Tourism",
+      "status": "Announced",
+      "budget": {
+        "crore": 19.25,
+        "notes": "Rs 12 Cr water resources + Rs 7.25 Cr tourism"
+      },
+      "timeline": {
+        "startYear": 2025,
+        "completionYear": null,
+        "completionNotes": "Announced July 22, 2025 on Rajendra Chola birthday"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Historic 1000-year-old lake built by Rajendra Chola I",
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "Organiser - DMK sanctions Rs 19 crore to restore Chola era lake",
+          "url": "https://organiser.org/2025/07/26/304625/bharat/tamil-nadu-ahead-of-pm-modis-gangaikonda-cholapuram-visit-dmk-sanctions-rs-19-crore-to-restore-chola-era-lake/"
+        },
+        {
+          "title": "The Print - TN CM extols greatness of King Rajendra Chola",
+          "url": "https://theprint.in/india/tn-cm-extols-greatness-of-king-rajendra-chola-ahead-of-pms-visit/2700123/"
+        },
+        {
+          "title": "Study IQ - Chola Gangam Lake in Tamil Nadu",
+          "url": "https://www.studyiq.com/articles/chola-gangam-lake/"
+        },
+        {
+          "title": "News Today - New Rajendra Chola museum to be built in Ariyalur",
+          "url": "https://newstodaynet.com/2025/07/23/new-rajendra-chola-museum-to-be-built-on-10-acres-in-ariyalur-cm/"
+        }
+      ],
+      "notes": "Historic lake dug by Rajendra Chola I (1014-1044 CE) to commemorate northern campaign; Water resources (Rs 12 Cr): Strengthening lake banks, renovating canals, desilting 4 drainage areas; Benefits 1,374 acres of agricultural land; Tourism (Rs 7.25 Cr): Communication center, walkways, children's play area, park, security cameras; Announced on Aadi Thiruvathirai festival marking Rajendra Chola's birth anniversary; Separate Rs 22.10 Cr museum project on 10-acre plot also announced",
+      "tweet_id": "1947660096768815277"
+    },
+    {
+      "id": "ms-swaminathan-wetland-park",
+      "name": {
+        "en": "Dr. M.S. Swaminathan Wetland Eco Park",
+        "ta": "டாக்டர் எம்.எஸ். சுவாமிநாதன் ஈரநில சுற்றுச்சூழல் பூங்கா"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Porur (Vanagaram)",
+        "coordinates": {
+          "latitude": 13.05,
+          "longitude": 80.1667
+        }
+      },
+      "type": "Urban Development",
+      "subType": "Eco Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 15.75,
+        "notes": "Chennai's first wetland sponge park"
+      },
+      "timeline": {
+        "startYear": 2023,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated March 7, 2025 by CM MK Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "First large eco-wetland park in Chennai",
+        "cmPhotoCompletion": "2025-03-07"
+      },
+      "sources": [
+        {
+          "title": "Citizen Matters - Porur Sponge Park",
+          "url": "https://citizenmatters.in/from-degraded-wetland-to-community-space-porur-sponge-park-redefines-flood-control-in-chennai/"
+        },
+        {
+          "title": "ICLEI CityTalk - Chennai wetland sponge park",
+          "url": "https://talkofthecities.iclei.org/from-asphalt-to-wetland-sponge-park-how-chennai-is-absorbing-water-and-building-resilience/"
+        },
+        {
+          "title": "Podhuva.com - Swaminathan Wetland Park opening",
+          "url": "https://www.podhuva.com/news/article.php?post=world-updates/may25/may18/swaminathan_wetland_park"
+        }
+      ],
+      "notes": "16.63 acres on Sri Ramachandra University's Open Space Reservation land; Chennai's first wetland sponge park; Developed by CMDA with Sponge Collaborative; 600-metre boardwalk; Pollinator garden; Basketball court; Multi-use sports area; Children's play space; Elevated boardwalks; Seating areas; Landscaped channels; Named after agricultural scientist Dr. M.S. Swaminathan",
+      "tweet_id": "1897939302409273500"
+    },
+    {
+      "id": "ayyarmalai-temple-ropeway",
+      "name": {
+        "en": "Ayyarmalai Rathnagiriswarar Temple Ropeway",
+        "ta": "அய்யர்மலை இரத்தினகிரீஸ்வரர் கோயில் கயிறு வழி"
+      },
+      "location": {
+        "district": "Karur",
+        "city": "Ayyarmalai (near Kulithalai)",
+        "coordinates": {
+          "latitude": 10.9333,
+          "longitude": 78.4167
+        }
+      },
+      "type": "Religious Infrastructure",
+      "subType": "Temple Ropeway",
+      "status": "Operational",
+      "budget": {
+        "crore": 9.1,
+        "notes": "Ropeway and waiting hall for hill temple"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated July 24, 2024 by CM M.K. Stalin via video conferencing"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Rope car facility for 1,017-step hill temple",
+        "cmPhotoCompletion": "2024-07-24"
+      },
+      "sources": [
+        {
+          "title": "The Print - TN CM inaugurates ropeway access to Rathnagiriswarar hill temple",
+          "url": "https://theprint.in/india/tn-cm-inaugurates-ropeway-access-to-rathnagiriswarar-hill-temple/2189469/"
+        },
+        {
+          "title": "The Federal - Tamil Nadu: CM Stalin inaugurates ropeway to Rathnagiriswarar hill temple",
+          "url": "https://thefederal.com/category/states/south/tamil-nadu/tamil-nadu-cm-stalin-inaugurates-ropeway-to-rathnagiriswarar-hill-temple-135127"
+        }
+      ],
+      "notes": "Part of larger HRCE temple development initiative; CM inaugurated 13 projects in 9 temples worth Rs 20.53 crore total; Temple has 1,017 steps; Ropeway faced technical snag due to high winds shortly after inauguration",
+      "tweet_id": "1816026260868587956"
+    },
+    {
+      "id": "kolathur-lake-park",
+      "name": {
+        "en": "Kolathur Retteri Lake Park",
+        "ta": "கொளத்தூர் ரெட்டேரி ஏரி பூங்கா"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Kolathur",
+        "coordinates": {
+          "latitude": 13.1167,
+          "longitude": 80.2167
+        }
+      },
+      "type": "Parks & Recreation",
+      "subType": "Lake Park",
+      "status": "Operational",
+      "budget": {
+        "crore": 4.98,
+        "notes": "Part of North Chennai Development Scheme"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2025"
+      },
+      "sources": [
+        {
+          "title": "Maalai Malar",
+          "url": "https://www.maalaimalar.com/news/tamilnadu/lakeside-park-at-kolathur-retteri-junction-cm-mk-stalin-inaugurated-807813"
+        },
+        {
+          "title": "LiveChennai",
+          "url": "https://www.livechennai.com/detailnews.asp?newsid=73587"
+        }
+      ],
+      "notes": "Lakeside park at Retteri Lake; Walking track; Natural viewing area; Children's play area; Parking and drinking water facilities; Artificial waterfall; Garden and illuminated fish tanks",
+      "tweet_id": "2019710469510935034"
+    },
+    {
+      "id": "somasundaram-sports-ground-tnagar",
+      "name": {
+        "en": "Somasundaram Sports Ground Upgrade",
+        "ta": "சோமசுந்தரம் விளையாட்டு மைதானம் மேம்பாடு"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Thyagaraya Nagar (T. Nagar)",
+        "coordinates": {
+          "latitude": 13.0418,
+          "longitude": 80.2347
+        }
+      },
+      "type": "Sports Infrastructure",
+      "subType": "Sports Ground",
+      "status": "Operational",
+      "budget": {
+        "crore": 3.2,
+        "notes": "Part of Greater Chennai Corporation sports infrastructure"
+      },
+      "timeline": {
+        "startYear": null,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated May 20, 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": null,
+        "cmPhotoCompletion": "2025-05-20"
+      },
+      "sources": [
+        {
+          "title": "Adyar Times - CM Stalin inaugurates Rs 14.66 Cr projects",
+          "url": "https://adyartimes.in/cm-stalin-inaugurates-rs-14-66-cr-projects-lays-foundation-for-rs-255-60-cr-new-schemes/"
+        }
+      ],
+      "notes": "Upgraded facilities for cricket, basketball, volleyball, badminton, and table tennis; Part of Rs 14.66 crore sports infrastructure projects including 4 fitness parks (Rs 11.46 cr) at Minjur, Vellanur, Varadarajapuram, and Thirunageswaram; Foundation laid for Rs 255.60 crore new projects",
+      "tweet_id": "1924786849341702272"
+    }
+  ]
+}

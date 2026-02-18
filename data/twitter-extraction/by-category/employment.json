@@ -1,0 +1,150 @@
+[
+  {
+    "tweet_id": "2008934465045958847",
+    "category": "employment",
+    "name_en": "Kalaignar Handicrafts Scheme",
+    "name_ta": "கலைஞர் கைவினைத் திட்டம்",
+    "investment_crore": 176,
+    "jobs_created": null,
+    "beneficiaries": "8000",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2026-01-07",
+    "summary_en": "CM distributed loan assistance under Kalaignar Handicrafts Scheme benefiting 8,000+ artisans with Rs 145 crore loans and Rs 31 crore subsidies.",
+    "related_tweet_ids": [
+      "2008934465045958847",
+      "1913547672541413845"
+    ]
+  },
+  {
+    "tweet_id": "1959917799050207618",
+    "category": "employment",
+    "name_en": "ITI and Labour Department Infrastructure",
+    "name_ta": "தொழிற்பயிற்சி நிலையம் மற்றும் தொழிலாளர் துறை உட்கட்டமைப்பு",
+    "investment_crore": 173.86,
+    "jobs_created": null,
+    "beneficiaries": "Industrial trainees and workers",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "inauguration",
+    "date": "2025-08-25",
+    "summary_en": "Inaugurated 19 new ITIs, ITI buildings at Perumbakkam/Ottanchathiram/Kadaladi, Labour Commissionerate Chennai, Tiruppur Labour Office, Valparai Singaravelar Rest House"
+  },
+  {
+    "tweet_id": "1957713385711382913",
+    "category": "employment",
+    "name_en": "Kaakkum Karangal Scheme for Ex-servicemen",
+    "name_ta": "காக்கும் கரங்கள் திட்டம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "155 ex-servicemen",
+    "location": {
+      "district": "Multiple",
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2025-08-19",
+    "summary_en": "Launched Kaakkum Karangal scheme providing 30% capital subsidy and up to Rs 1 crore loan for ex-servicemen to start businesses"
+  },
+  {
+    "tweet_id": "1898299970526081393",
+    "category": "employment",
+    "name_en": "Women's Day Auto Distribution",
+    "name_ta": "மகளிர் தினம் ஆட்டோ வழங்குதல்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "100 Women",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "distribution",
+    "date": "2025-03-08",
+    "summary_en": "CM distributed 100 autos to women beneficiaries from Labour Welfare Department on Women's Day"
+  },
+  {
+    "tweet_id": "1898300366456057908",
+    "category": "employment",
+    "name_en": "Pink Auto Distribution for Women",
+    "name_ta": "மகளிர்க்கு இளஞ்சிவப்பு ஆட்டோ வழங்குதல்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "100 Women",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "distribution",
+    "date": "2025-03-08",
+    "summary_en": "CM distributed 100 pink autos to women from Social Welfare Department on Women's Day"
+  },
+  {
+    "tweet_id": "1874770903751430415",
+    "category": "employment",
+    "name_en": "Pongal Bonus for C&D Category Employees",
+    "name_ta": "சி மற்றும் டி பிரிவு பணியாளர்களுக்கு பொங்கல் போனஸ்",
+    "investment_crore": 163.81,
+    "jobs_created": null,
+    "beneficiaries": "C and D category government employees and pensioners",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "announcement",
+    "date": "2025-01-02",
+    "summary_en": "CM ordered allocation of Rs 163.81 crore for excess wages and Pongal gifts for C and D category employees and pensioners."
+  },
+  {
+    "tweet_id": "1856565741035643127",
+    "category": "employment",
+    "name_en": "Naan Mudhalvan - TNSLPP Campus Hiring 2024-25",
+    "name_ta": "நான் முதல்வன் - வளாக வேலைவாய்ப்பு",
+    "investment_crore": null,
+    "jobs_created": 251958,
+    "beneficiaries": "3880933 students trained",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-11-13",
+    "summary_en": "Campus hiring season launch with 350,000 students ready for hire. 251,958 students placed since 2022."
+  },
+  {
+    "tweet_id": "1809505894750908478",
+    "category": "employment",
+    "name_en": "Tribal Youth Employment",
+    "name_ta": "பழங்குடி இளைஞர் வேலைவாய்ப்பு",
+    "investment_crore": null,
+    "jobs_created": 146,
+    "beneficiaries": "Tribal youth",
+    "location": {
+      "district": null,
+      "city": null
+    },
+    "event_type": "distribution",
+    "date": "2024-07-06",
+    "summary_en": "CM distributed job appointment orders to 146 tribal youth trained through NTTF under comprehensive tribal development scheme"
+  },
+  {
+    "tweet_id": "1808095050267873340",
+    "category": "employment",
+    "name_en": "TN RISE - Rural Incubator and Startup Enabler",
+    "name_ta": "TN RISE - ஊரக தொழில் காப்பு மற்றும் புத்தொழில் உருவாக்கு நிறுவனம்",
+    "investment_crore": null,
+    "jobs_created": null,
+    "beneficiaries": "Women entrepreneurs in rural areas",
+    "location": {
+      "district": "Chennai",
+      "city": "Chennai"
+    },
+    "event_type": "scheme_launch",
+    "date": "2024-07-02",
+    "summary_en": "TN RISE launched with World Bank support to create women entrepreneurs especially from rural areas"
+  }
+]
