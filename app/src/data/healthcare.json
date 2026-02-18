@@ -100,14 +100,24 @@
           "type": "government"
         },
         {
-          "title": "GO MS 340/2021",
-          "url": "https://cms.tn.gov.in/cms_migrated/document/GO/hfw_e_340_2021.pdf",
-          "type": "government"
+          "title": "TN CM Launches Makkalai Thedi Maruthuvam Scheme - The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-launches-makkalai-thedi-maruthuvam-scheme/article35740145.ece",
+          "type": "news"
         },
         {
-          "title": "TN Population Health Registry",
-          "url": "https://phr.tn.gov.in/aboutus.html",
-          "type": "government"
+          "title": "MTM Hits Mark Improving Hypertension Diabetes Control - The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/makkalai-thedi-maruthuvam-scheme-hits-the-mark-by-improving-hypertension-diabetes-control-in-tn/article69494556.ece",
+          "type": "news"
+        },
+        {
+          "title": "TN Health Dept Award for MTM Scheme - The Hindu",
+          "url": "https://www.thehindu.com/news/cities/chennai/tn-health-dept-gets-award-for-makkalai-thedi-maruthuvam-scheme/article68728969.ece",
+          "type": "news"
+        },
+        {
+          "title": "MTM Scheme Crosses Two Crore Beneficiaries - Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/coimbatore/makkalai-thedi-maruthuvam-scheme-crosses-two-crore-beneficiaries-across-state/articleshow/116482179.cms",
+          "type": "news"
         }
       ]
     },
