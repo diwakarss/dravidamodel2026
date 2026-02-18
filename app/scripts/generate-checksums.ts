@@ -14,9 +14,14 @@ console.log("Generating checksums...");
 
 const checksums: Record<string, string> = {};
 
-// Main infrastructure file
+// Main data files
 const infrastructurePath = path.join(dataDir, "infrastructure.json");
 checksums["infrastructure.json"] = generateChecksum(infrastructurePath);
+
+const industriesPath = path.join(dataDir, "industries.json");
+if (fs.existsSync(industriesPath)) {
+  checksums["industries.json"] = generateChecksum(industriesPath);
+}
 
 // Individual project files (if they exist)
 const projectsDir = path.join(dataDir, "projects");
