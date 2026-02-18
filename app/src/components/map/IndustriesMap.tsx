@@ -6,7 +6,7 @@ import type { Map as LeafletMap } from "leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import L from "leaflet";
 import { DistrictLayer } from "./DistrictLayer";
-import { tnDistrictsGeoJSON } from "@/data/tn-districts";
+import { tnDistrictsGeoJSON } from "@/lib/data/tnDistricts";
 import type { IndustrialPark } from "@/lib/data/industries";
 import { TN_CENTER, TN_INITIAL_ZOOM } from "@/lib/utils/mapHelpers";
 import { cn } from "@/lib/utils/cn";

@@ -1,8 +1,8 @@
 /**
  * Convert downloaded GeoJSON to our format with Tamil names
  */
-import * as fs from "fs";
-import * as path from "path";
+const fs = require("fs");
+const path = require("path");
 
 const TAMIL_NAMES: Record<string, string> = {
   "Chennai": "சென்னை",
@@ -58,7 +58,8 @@ const NAME_MAP: Record<string, string> = {
 };
 
 const inputPath = path.join(__dirname, "../src/data/tn-districts-real.json");
-const outputPath = path.join(__dirname, "../src/data/tn-districts.ts");
+const jsonOutputPath = path.join(__dirname, "../src/data/tn-districts.json");
+const tsOutputPath = path.join(__dirname, "../src/lib/data/tnDistricts.ts");
 
 const rawData = JSON.parse(fs.readFileSync(inputPath, "utf-8"));
 
@@ -66,7 +67,7 @@ const features = rawData.features.map((f: any) => {
   const originalName = f.properties.NAME_2;
   const normalizedName = NAME_MAP[originalName] || originalName;
   const tamilName = TAMIL_NAMES[normalizedName] || TAMIL_NAMES[originalName] || normalizedName;
-  
+
   return {
     type: "Feature",
     properties: {
@@ -77,15 +78,25 @@ const features = rawData.features.map((f: any) => {
   };
 });
 
-const output = `import type { FeatureCollection, Polygon, MultiPolygon } from "geojson";
+// Output JSON data file
+const jsonOutput = { type: "FeatureCollection", features };
+fs.writeFileSync(jsonOutputPath, JSON.stringify(jsonOutput, null, 2));
+console.log(`Converted ${features.length} districts to JSON`);
+
+// Output TypeScript wrapper
+const tsOutput = `// Tamil Nadu District GeoJSON Data
+// Data loaded from tn-districts.json (generated from tn-districts-real.json)
+
+import type { FeatureCollection, Polygon, MultiPolygon } from "geojson";
+import tnDistrictsData from "@/data/tn-districts.json";
 
 export interface DistrictProperties {
   district: string;
   district_ta: string;
 }
 
-export const tnDistrictsGeoJSON: FeatureCollection<Polygon | MultiPolygon, DistrictProperties> = ${JSON.stringify({ type: "FeatureCollection", features }, null, 2)};
+export const tnDistrictsGeoJSON = tnDistrictsData as FeatureCollection<Polygon | MultiPolygon, DistrictProperties>;
 `;
 
-fs.writeFileSync(outputPath, output);
-console.log(`Converted ${features.length} districts`);
+fs.writeFileSync(tsOutputPath, tsOutput);
+console.log(`Generated TypeScript wrapper`);

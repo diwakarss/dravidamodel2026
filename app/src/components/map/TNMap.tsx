@@ -13,7 +13,7 @@ import {
   TN_INITIAL_ZOOM,
   getProjectCountsByDistrict,
 } from "@/lib/utils/mapHelpers";
-import { tnDistrictsGeoJSON } from "@/data/tn-districts";
+import { tnDistrictsGeoJSON } from "@/lib/data/tnDistricts";
 
 import "leaflet/dist/leaflet.css";
 
