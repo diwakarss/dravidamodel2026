@@ -8789,6 +8789,94 @@
         }
       ],
       "notes": "Upgraded facilities for cricket, basketball, volleyball, badminton, and table tennis; Part of Rs 14.66 crore sports infrastructure projects including 4 fitness parks (Rs 11.46 cr) at Minjur, Vellanur, Varadarajapuram, and Thirunageswaram; Foundation laid for Rs 255.60 crore new projects"
+    },
+    {
+      "id": "madhya-kailash-flyover",
+      "name": {
+        "en": "Madhya Kailash Junction Flyover",
+        "ta": "மத்திய கைலாஷ் சந்திப்பு மேம்பாலம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Adyar",
+        "coordinates": {
+          "latitude": 12.9988,
+          "longitude": 80.2520
+        }
+      },
+      "type": "Roads/Highways",
+      "status": "Completed",
+      "budget": {
+        "crore": 60.68,
+        "notes": "Three-lane L-shaped flyover built by Highways and Minor Ports Department"
+      },
+      "timeline": {
+        "startYear": 2024,
+        "completionYear": 2026,
+        "completionNotes": "Inaugurated February 15, 2026 by CM Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "652-metre three-lane flyover connecting OMR to Sardar Patel Road",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "The News Mill",
+          "url": "https://thenewsmill.com/2026/02/tamil-nadu-cm-stalin-opens-rs-60-68-crore-flyover-at-madhya-kailash-junction-chennai/"
+        },
+        {
+          "title": "ANI News",
+          "url": "https://aninews.in/news/national/general-news/tamil-nadu-cm-stalin-inaugurates-flyover-at-madhya-kailash-junction-in-adhyar-chennai20260215162947/"
+        }
+      ],
+      "notes": "652-metre, three-lane, L-shaped flyover; Unidirectional traffic from Sardar Patel Road to Rajiv Gandhi Salai (OMR); Eases traffic congestion at the busy junction; Benefits IT corridor commuters",
+      "subType": "Roads & Bridges"
+    },
+    {
+      "id": "guindy-velachery-flyover",
+      "name": {
+        "en": "Guindy-Velachery Flyover",
+        "ta": "கிண்டி-வேளச்சேரி மேம்பாலம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Velachery",
+        "coordinates": {
+          "latitude": 12.9815,
+          "longitude": 80.2180
+        }
+      },
+      "type": "Roads/Highways",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 310,
+        "notes": "Foundation stone laid by CM Stalin in February 2026"
+      },
+      "timeline": {
+        "startYear": 2026,
+        "completionYear": null,
+        "completionNotes": "Foundation stone laid February 2026"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "3 km two-lane flyover from Sardar Patel Road to Guru Nanak College",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "Chennai Online",
+          "url": "https://www.chennaionline.com/news/cm-stalin-lays-foundation-for-guindy-velachery-flyover/"
+        },
+        {
+          "title": "Infra Tractor Junction",
+          "url": "https://infra.tractorjunction.com/en/news/velachery-flyover-project-chennai"
+        }
+      ],
+      "notes": "3 km long, 11.9 m wide two-lane flyover; From Sardar Patel Road–Velachery Main Road junction to Guru Nanak College; Approach roads at Five Furlong Road and Velachery Main Road; Includes approach bridges, service roads and footpaths on both sides",
+      "subType": "Roads & Bridges"
     }
   ]
 }

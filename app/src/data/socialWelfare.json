@@ -1727,6 +1727,65 @@
           "type": "media"
         }
       ]
+    },
+    {
+      "id": "integrated-disability-service-centers",
+      "name": {
+        "en": "105 Integrated Service Centers for Persons with Disabilities",
+        "ta": "மாற்றுத்திறனாளிகளுக்கான 105 ஒருங்கிணைந்த சேவை மையங்கள்"
+      },
+      "description": {
+        "en": "Rs 14.57 crore project to establish 105 integrated service centers for persons with disabilities across Tamil Nadu under the TN RIGHTS initiative, providing comprehensive rehabilitation and welfare services.",
+        "ta": "TN RIGHTS முன்முயற்சியின் கீழ் தமிழ்நாடு முழுவதும் மாற்றுத்திறனாளிகளுக்கு 105 ஒருங்கிணைந்த சேவை மையங்களை நிறுவ ரூ 14.57 கோடி திட்டம், விரிவான மறுவாழ்வு மற்றும் நல சேவைகளை வழங்குதல்."
+      },
+      "launchDate": "February 2026",
+      "beneficiaries": {
+        "count": "Persons with disabilities statewide",
+        "description": {
+          "en": "Differently abled persons across all districts",
+          "ta": "அனைத்து மாவட்டங்களிலும் மாற்றுத்திறனாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 14.57 crore",
+        "year": "2026",
+        "details": "Under TN RIGHTS initiative"
+      },
+      "eligibility": {
+        "en": "Persons with disabilities requiring rehabilitation and welfare services",
+        "ta": "மறுவாழ்வு மற்றும் நல சேவைகள் தேவைப்படும் மாற்றுத்திறனாளிகள்"
+      },
+      "highlights": [
+        {
+          "en": "105 integrated service centers across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் 105 ஒருங்கிணைந்த சேவை மையங்கள்"
+        },
+        {
+          "en": "Comprehensive rehabilitation services",
+          "ta": "விரிவான மறுவாழ்வு சேவைகள்"
+        },
+        {
+          "en": "Part of TN RIGHTS World Bank project",
+          "ta": "TN RIGHTS உலக வங்கி திட்டத்தின் பகுதி"
+        },
+        {
+          "en": "Disability welfare and support services",
+          "ta": "மாற்றுத்திறனாளி நலம் மற்றும் ஆதரவு சேவைகள்"
+        }
+      ],
+      "icon": "♿",
+      "sources": [
+        {
+          "title": "CMO Tamil Nadu Twitter",
+          "url": "https://fxtwitter.com/CMOTamilnadu/status/2023717429600485461",
+          "type": "government"
+        },
+        {
+          "title": "Commissionerate for Welfare of Differently Abled",
+          "url": "https://scd.tn.gov.in/",
+          "type": "government"
+        }
+      ]
     }
   ],
   "welfareStats": {

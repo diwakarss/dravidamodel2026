@@ -763,6 +763,74 @@
         { "title": "News Today", "url": "https://newstodaynet.com/2024/08/05/stalin-inaugurates-renovated-childrens-nature-park/", "type": "media" },
         { "title": "Wildlife Division Chennai", "url": "https://wlwchennai.tn.gov.in/guindy_children_park.html", "type": "government" }
       ]
+    },
+    {
+      "id": "dugong-conservation-centre",
+      "name": {
+        "en": "India's First Dugong Conservation Centre",
+        "ta": "இந்தியாவின் முதல் கடல்பசு பாதுகாப்பு மையம்"
+      },
+      "description": {
+        "en": "India's first marine mammal conservation centre dedicated to dugongs (sea cows) at Manora in Thanjavur district. Foundation laid with World Bank support under TN-SHORE coastal resilience initiative. Features dugong rescue, rehabilitation, and public awareness facilities.",
+        "ta": "தஞ்சாவூர் மாவட்டம் மனோராவில் கடல்பசுக்கள் (dugongs) பாதுகாப்புக்கான இந்தியாவின் முதல் கடல் பாலூட்டி பாதுகாப்பு மையம். TN-SHORE கடலோர நெகிழ்திறன் முன்முயற்சியின் கீழ் உலக வங்கி உதவியுடன் அடிக்கல் நாட்டப்பட்டது."
+      },
+      "launchDate": "February 2026 (Foundation)",
+      "beneficiaries": {
+        "count": "Dugong population in Gulf of Mannar",
+        "description": {
+          "en": "Critically endangered dugongs along Tamil Nadu coast",
+          "ta": "தமிழ்நாடு கடற்கரையில் மிகவும் ஆபத்தான நிலையில் உள்ள கடல்பசுக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 40.94 crore",
+        "details": "World Bank-assisted TN-SHORE project at Manora, Thanjavur"
+      },
+      "highlights": [
+        { "en": "India's first dedicated dugong conservation centre", "ta": "இந்தியாவின் முதல் அர்ப்பணிக்கப்பட்ட கடல்பசு பாதுகாப்பு மையம்" },
+        { "en": "Located at Manora in Thanjavur district", "ta": "தஞ்சாவூர் மாவட்டம் மனோராவில் அமைந்துள்ளது" },
+        { "en": "World Bank TN-SHORE coastal resilience initiative", "ta": "உலக வங்கி TN-SHORE கடலோர நெகிழ்திறன் முன்முயற்சி" },
+        { "en": "Dugong rescue and rehabilitation facilities", "ta": "கடல்பசு மீட்பு மற்றும் மறுவாழ்வு வசதிகள்" }
+      ],
+      "icon": "🦭",
+      "sources": [
+        { "title": "CMO Tamil Nadu Twitter", "url": "https://fxtwitter.com/CMOTamilnadu/status/2023782802769293373", "type": "government" },
+        { "title": "TN-SHORE Initiative", "url": "https://www.tnclimatechangemission.in", "type": "government" }
+      ]
+    },
+    {
+      "id": "tn-green-climate-fund",
+      "name": {
+        "en": "Tamil Nadu Green Climate Fund",
+        "ta": "தமிழ்நாடு பசுமை காலநிலை நிதி"
+      },
+      "description": {
+        "en": "SEBI-Registered AIF Category 1 Social Impact Fund launched at Climate Summit 4.0. Aims to transform Tamil Nadu into a net-zero and climate-resilient state by supporting projects that reduce greenhouse gas emissions and enhance climate resilience.",
+        "ta": "காலநிலை உச்சி மாநாடு 4.0-ல் தொடங்கப்பட்ட SEBI பதிவு செய்யப்பட்ட AIF வகை 1 சமூக தாக்க நிதி. பசுமை இல்ல வாயு வெளியேற்றத்தை குறைக்கும் மற்றும் காலநிலை நெகிழ்திறனை மேம்படுத்தும் திட்டங்களை ஆதரிப்பதன் மூலம் தமிழ்நாட்டை நிகர-பூஜ்ய மற்றும் காலநிலை-நெகிழ்வு மாநிலமாக மாற்றுவதை நோக்கமாகக் கொண்டது."
+      },
+      "launchDate": "February 2026 (Climate Summit 4.0)",
+      "beneficiaries": {
+        "count": "Climate action projects statewide",
+        "description": {
+          "en": "Projects reducing GHG emissions and enhancing climate resilience",
+          "ta": "பசுமை இல்ல வாயு வெளியேற்றத்தை குறைக்கும் மற்றும் காலநிலை நெகிழ்திறனை மேம்படுத்தும் திட்டங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Social Impact Fund",
+        "details": "SEBI-Registered AIF Category 1"
+      },
+      "highlights": [
+        { "en": "Launched at TN Climate Summit 4.0", "ta": "TN காலநிலை உச்சி மாநாடு 4.0-ல் தொடங்கப்பட்டது" },
+        { "en": "SEBI-Registered AIF Category 1 Social Impact Fund", "ta": "SEBI பதிவு செய்யப்பட்ட AIF வகை 1 சமூக தாக்க நிதி" },
+        { "en": "Net-zero and climate resilience goals", "ta": "நிகர-பூஜ்ய மற்றும் காலநிலை நெகிழ்திறன் இலக்குகள்" },
+        { "en": "Supports GHG emission reduction projects", "ta": "பசுமை இல்ல வாயு குறைப்பு திட்டங்களை ஆதரிக்கிறது" }
+      ],
+      "icon": "🌱",
+      "sources": [
+        { "title": "CMO Tamil Nadu Twitter", "url": "https://fxtwitter.com/CMOTamilnadu/status/2023784729414431090", "type": "government" },
+        { "title": "TN Green Climate Fund", "url": "https://tnifmc.com/green-climate-fund/", "type": "government" }
+      ]
     }
   ],
   "environmentStats": {

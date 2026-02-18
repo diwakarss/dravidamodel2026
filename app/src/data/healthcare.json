@@ -1222,6 +1222,62 @@
           "type": "government"
         }
       ]
+    },
+    {
+      "id": "feb-2026-health-infrastructure",
+      "name": {
+        "en": "Rs 360 Crore Health Infrastructure Projects (Feb 2026)",
+        "ta": "₹360 கோடி சுகாதார உள்கட்டமைப்பு திட்டங்கள் (பிப். 2026)"
+      },
+      "description": {
+        "en": "Major health infrastructure expansion including district headquarters hospitals, primary health centres, research centres, and a microbiological research centre at Guindy.",
+        "ta": "மாவட்ட தலைமை மருத்துவமனைகள், ஆரம்ப சுகாதார நிலையங்கள், ஆராய்ச்சி மையங்கள் மற்றும் கிண்டியில் நுண்ணுயிரியல் ஆராய்ச்சி மையம் உள்ளிட்ட பெரிய சுகாதார உள்கட்டமைப்பு விரிவாக்கம்."
+      },
+      "launchYear": "February 6, 2026",
+      "beneficiaries": {
+        "count": "Multiple districts across Tamil Nadu",
+        "description": {
+          "en": "Patients in underserved districts",
+          "ta": "பின்தங்கிய மாவட்டங்களில் உள்ள நோயாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 360 crore",
+        "year": "2026",
+        "details": "7 major healthcare infrastructure projects"
+      },
+      "coverage": "District headquarters hospitals, PHCs, and research centres statewide",
+      "highlights": [
+        {
+          "en": "District headquarters hospital expansions",
+          "ta": "மாவட்ட தலைமை மருத்துவமனை விரிவாக்கங்கள்"
+        },
+        {
+          "en": "Neurology services at multiple facilities",
+          "ta": "பல வசதிகளில் நரம்பியல் சேவைகள்"
+        },
+        {
+          "en": "Microbiological research centre at Guindy",
+          "ta": "கிண்டியில் நுண்ணுயிரியல் ஆராய்ச்சி மையம்"
+        },
+        {
+          "en": "Primary Health Centre upgrades",
+          "ta": "ஆரம்ப சுகாதார நிலைய மேம்பாடுகள்"
+        }
+      ],
+      "icon": "🏗️",
+      "sources": [
+        {
+          "title": "Zee News",
+          "url": "https://zeenews.india.com/india/rs-360-crore-health-infrastructure-projects-to-be-inaugurated-by-cm-stalin-in-tamil-nadu-3012487.html",
+          "type": "media"
+        },
+        {
+          "title": "CMO Tamil Nadu Twitter",
+          "url": "https://fxtwitter.com/CMOTamilnadu/status/2023718450355728540",
+          "type": "government"
+        }
+      ]
     }
   ],
   "healthcareStats": {

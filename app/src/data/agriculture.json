@@ -624,6 +624,39 @@
         { "title": "Krishi Jagran - TN Agriculture Budget 2024-25", "url": "https://krishijagran.com/news/tamil-nadu-launches-agriculture-budget-2024-25-prioritizing-sustainability-and-rural-development", "type": "media" },
         { "title": "TNPSC Thervupettagam - Recent TN Schemes Part 9", "url": "https://www.tnpscthervupettagam.com/articles-detail/recent-tamil-nadu-government-schemes-part-09/?cat=gk-articles", "type": "media" }
       ]
+    },
+    {
+      "id": "aavin-feb-2026-projects",
+      "name": {
+        "en": "Aavin Dairy Infrastructure Projects (Feb 2026)",
+        "ta": "ஆவின் பால்வள உள்கட்டமைப்பு திட்டங்கள் (பிப். 2026)"
+      },
+      "description": {
+        "en": "Rs 100.85 crore infrastructure projects by Tamil Nadu Milk Producers' Cooperative Federation (Aavin) including milk chilling centres, processing units, storage facilities, and distribution infrastructure upgrades.",
+        "ta": "தமிழ்நாடு பால் உற்பத்தியாளர் கூட்டுறவு கூட்டமைப்பின் (ஆவின்) ரூ.100.85 கோடி உள்கட்டமைப்பு திட்டங்கள் - பால் குளிர்விப்பு மையங்கள், பதப்படுத்தும் அலகுகள், சேமிப்பு வசதிகள் மற்றும் விநியோக உள்கட்டமைப்பு மேம்பாடுகள்."
+      },
+      "beneficiaries": {
+        "count": "Milk producers and consumers statewide",
+        "description": {
+          "en": "Milk cooperative societies and farmers",
+          "ta": "பால் கூட்டுறவு சங்கங்கள் மற்றும் விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 100.85 crore",
+        "year": "2026"
+      },
+      "highlights": [
+        { "en": "Inaugurated by CM Stalin on February 5, 2026", "ta": "பிப்ரவரி 5, 2026 அன்று முதலமைச்சர் ஸ்டாலின் திறந்து வைத்தார்" },
+        { "en": "Upgraded milk chilling centres", "ta": "மேம்படுத்தப்பட்ட பால் குளிர்விப்பு மையங்கள்" },
+        { "en": "Processing units and storage facilities", "ta": "பதப்படுத்தும் அலகுகள் மற்றும் சேமிப்பு வசதிகள்" },
+        { "en": "Distribution infrastructure improvements", "ta": "விநியோக உள்கட்டமைப்பு மேம்பாடுகள்" }
+      ],
+      "icon": "🥛",
+      "sources": [
+        { "title": "India Herald - Aavin Projects Inauguration", "url": "https://www.indiaherald.com/Breaking/Read/994876901/Chief-Minister-MK-Stalin-Inaugurates-Completed-Projects-Worth-Crore-Under-Tamil-Nadu-Milk-Producers-Cooperative-Federation", "type": "media" },
+        { "title": "Aavin Official", "url": "https://aavin.tn.gov.in/", "type": "government" }
+      ]
     }
   ],
   "agricultureStats": {
