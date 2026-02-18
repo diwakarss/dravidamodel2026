@@ -417,6 +417,402 @@
       "sources": [
         { "title": "News Today", "url": "https://newstodaynet.com/2025/12/30/udhayanidhi-inaugurates-hockey-stadium-in-kovai/", "type": "media" }
       ]
+    },
+    {
+      "id": "chennai-sangamam",
+      "name": {
+        "en": "Chennai Sangamam - Namma Ooru Thiruvizha",
+        "ta": "சென்னை சங்கமம் - நம்ம ஊரு திருவிழா"
+      },
+      "description": {
+        "en": "Annual grand cultural festival celebrating Pongal and Tamil heritage with folk arts performances across 20 city venues, featuring 250+ renowned artists and 1,500+ folk artists from across Tamil Nadu.",
+        "ta": "பொங்கல் மற்றும் தமிழ் பாரம்பரியத்தை கொண்டாடும் வருடாந்திர பெரிய கலாச்சார விழா, 20 நகர இடங்களில் நாட்டுப்புற கலை நிகழ்ச்சிகள், தமிழ்நாடு முழுவதும் இருந்து 250+ புகழ்பெற்ற கலைஞர்கள் மற்றும் 1,500+ நாட்டுப்புற கலைஞர்கள் பங்கேற்பு."
+      },
+      "launchDate": "January 14-18, 2026 (5th Edition)",
+      "beneficiaries": {
+        "count": "1,750+ artists",
+        "description": {
+          "en": "Folk artists and cultural performers from all districts",
+          "ta": "அனைத்து மாவட்டங்களிலிருந்தும் நாட்டுப்புற கலைஞர்கள் மற்றும் கலாச்சார நிகழ்த்துனர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "details": "Annual cultural event"
+      },
+      "highlights": [
+        { "en": "5th consecutive year of the festival", "ta": "விழாவின் தொடர்ச்சியான 5வது ஆண்டு" },
+        { "en": "20 venues across Chennai for 4 days", "ta": "4 நாட்கள் சென்னை முழுவதும் 20 இடங்கள்" },
+        { "en": "CM directed similar festivals in all districts", "ta": "அனைத்து மாவட்டங்களிலும் இதே போன்ற விழாக்கள் நடத்த முதல்வர் உத்தரவு" }
+      ],
+      "icon": "🎪",
+      "sources": [
+        { "title": "News9 Live", "url": "https://www.news9live.com/state/tamil-nadu/chennai-sangamam-2026-heres-all-you-need-to-know-about-the-grand-four-day-cultural-festival-across-20-city-venues-2914108", "type": "media" },
+        { "title": "Live Chennai", "url": "https://www.livechennai.com/detailnews.asp?catid=&newsid=77851", "type": "media" }
+      ]
+    },
+    {
+      "id": "chennai-book-fair",
+      "name": {
+        "en": "Chennai Book Fair",
+        "ta": "சென்னை புத்தகக் காட்சி"
+      },
+      "description": {
+        "en": "Annual book fair at YMCA Grounds, Nandanam featuring over 1,000 stalls and 12 lakh+ book titles. The 49th edition (2026) was the largest in history with free entry and Kalaignar Porkizhi Awards.",
+        "ta": "நந்தனம் YMCA மைதானத்தில் வருடாந்திர புத்தகக் காட்சி, 1,000+ கடைகள் மற்றும் 12 லட்சம்+ புத்தக தலைப்புகள். 49வது பதிப்பு (2026) வரலாற்றில் மிகப்பெரியது, இலவச நுழைவு மற்றும் கலைஞர் பொற்கிழி விருதுகள்."
+      },
+      "launchDate": "January 8-21, 2026 (49th Edition)",
+      "beneficiaries": {
+        "count": "30 lakh+ visitors",
+        "description": {
+          "en": "Readers, students, writers, publishers",
+          "ta": "வாசகர்கள், மாணவர்கள், எழுத்தாளர்கள், பதிப்பாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State-supported",
+        "details": "BAPASI organized with government support"
+      },
+      "highlights": [
+        { "en": "Record 1,000 stalls - largest ever", "ta": "சாதனை 1,000 கடைகள் - இதுவரை மிகப்பெரியது" },
+        { "en": "12 lakh+ book titles displayed", "ta": "12 லட்சம்+ புத்தக தலைப்புகள் காட்சிப்படுத்தப்பட்டன" },
+        { "en": "Kalaignar Porkizhi Awards presented", "ta": "கலைஞர் பொற்கிழி விருதுகள் வழங்கப்பட்டன" },
+        { "en": "Free entry for all visitors", "ta": "அனைத்து பார்வையாளர்களுக்கும் இலவச நுழைவு" }
+      ],
+      "icon": "📚",
+      "sources": [
+        { "title": "ANI News", "url": "https://www.aninews.in/news/national/general-news/tamil-nadu-cm-mk-stalin-recognises-contribution-of-authors-with-kalaignar-porkizhi-award-at-49th-chennai-book-fair-inauguration20260109041045/", "type": "media" },
+        { "title": "Live Chennai", "url": "https://www.livechennai.com/detailnews.asp?catid=103&newsid=77403", "type": "media" }
+      ]
+    },
+    {
+      "id": "cm-mini-stadiums",
+      "name": {
+        "en": "CM Mini Stadiums Scheme",
+        "ta": "முதலமைச்சர் சிறு விளையாட்டரங்கங்கள் திட்டம்"
+      },
+      "description": {
+        "en": "State-wide initiative to build mini stadiums in all 234 assembly constituencies to promote grassroots sports development in football, athletics, basketball, volleyball, and kabaddi.",
+        "ta": "அனைத்து 234 சட்டமன்றத் தொகுதிகளிலும் சிறு விளையாட்டரங்கங்கள் கட்ட மாநில அளவிலான முன்முயற்சி, கால்பந்து, தடகளம், கூடைப்பந்து, கைப்பந்து மற்றும் கபடியில் அடிமட்ட விளையாட்டு வளர்ச்சியை ஊக்குவிக்க."
+      },
+      "launchDate": "2024-2025 (Phase-wise)",
+      "beneficiaries": {
+        "count": "234 constituencies",
+        "description": {
+          "en": "Local youth and athletes across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் உள்ளூர் இளைஞர்கள் மற்றும் விளையாட்டு வீரர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 69+ crore",
+        "details": "Rs 3 crore per stadium (Phase 1: 23 constituencies)"
+      },
+      "highlights": [
+        { "en": "Mini stadiums in all 234 constituencies", "ta": "அனைத்து 234 தொகுதிகளிலும் சிறு விளையாட்டரங்கங்கள்" },
+        { "en": "Focus on 5 sports: football, athletics, basketball, volleyball, kabaddi", "ta": "5 விளையாட்டுகளில் கவனம்: கால்பந்து, தடகளம், கூடைப்பந்து, கைப்பந்து, கபடி" },
+        { "en": "Phase 1: 23 stadiums at Rs 69 crore", "ta": "கட்டம் 1: 23 விளையாட்டரங்கங்கள் ரூ.69 கோடி" }
+      ],
+      "icon": "🏟️",
+      "sources": [
+        { "title": "DevDiscourse", "url": "https://www.devdiscourse.com/article/sports-games/3723873-tamil-nadus-mini-stadium-project-takes-off-a-sporting-revolution", "type": "media" },
+        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" }
+      ]
+    },
+    {
+      "id": "tn-sports-science-centre",
+      "name": {
+        "en": "Tamil Nadu Centre for Sports Science",
+        "ta": "தமிழ்நாடு விளையாட்டு அறிவியல் மையம்"
+      },
+      "description": {
+        "en": "State-of-the-art sports science facility at Chennai Olympic Academy in Jawaharlal Nehru Stadium Complex with modern training equipment for athlete performance enhancement.",
+        "ta": "ஜவஹர்லால் நேரு அரங்க வளாகத்தில் சென்னை ஒலிம்பிக் அகாடமியில் நவீன பயிற்சி உபகரணங்களுடன் கூடிய அதிநவீன விளையாட்டு அறிவியல் வசதி."
+      },
+      "launchDate": "April 4, 2025",
+      "beneficiaries": {
+        "count": "State athletes",
+        "description": {
+          "en": "Athletes training at Chennai Olympic Academy",
+          "ta": "சென்னை ஒலிம்பிக் அகாடமியில் பயிற்சி பெறும் விளையாட்டு வீரர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 3 crore",
+        "details": "Modern sports science equipment"
+      },
+      "highlights": [
+        { "en": "Inaugurated by Deputy CM Udhayanidhi Stalin", "ta": "துணை முதல்வர் உதயநிதி ஸ்டாலின் திறந்து வைத்தார்" },
+        { "en": "Located at Nehru Stadium Complex", "ta": "நேரு அரங்க வளாகத்தில் அமைந்துள்ளது" },
+        { "en": "Modern training and analysis equipment", "ta": "நவீன பயிற்சி மற்றும் பகுப்பாய்வு உபகரணங்கள்" }
+      ],
+      "icon": "🔬",
+      "sources": [
+        { "title": "Social News XYZ", "url": "https://www.socialnews.xyz/2025/04/04/chennai-tamil-nadu-cm-udhayanidhi-stalin-inaugurates-the-new-tamil-nadu-sports-science-centre-gallery/", "type": "media" },
+        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" }
+      ]
+    },
+    {
+      "id": "trichy-olympic-academy",
+      "name": {
+        "en": "Trichy Olympic Academy",
+        "ta": "திருச்சி ஒலிம்பிக் அகாடமி"
+      },
+      "description": {
+        "en": "International-standard Olympic Academy on 47 acres at Elandapatti, Tiruchirappalli with comprehensive sports training facilities being built in two phases.",
+        "ta": "திருச்சிராப்பள்ளி இலந்தப்பட்டியில் 47 ஏக்கர் பரப்பளவில் விரிவான விளையாட்டு பயிற்சி வசதிகளுடன் இரண்டு கட்டங்களாக கட்டப்படும் சர்வதேச தர ஒலிம்பிக் அகாடமி."
+      },
+      "launchDate": "Foundation: January 2025 (Under construction)",
+      "beneficiaries": {
+        "count": "Athletes statewide",
+        "description": {
+          "en": "Training hub for Central Tamil Nadu",
+          "ta": "மத்திய தமிழ்நாட்டிற்கான பயிற்சி மையம்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 150 crore",
+        "details": "Phase 1: Rs 50 crore, Phase 2: Rs 100 crore"
+      },
+      "highlights": [
+        { "en": "47 acres of land at Elandapatti", "ta": "இலந்தப்பட்டியில் 47 ஏக்கர் நிலம்" },
+        { "en": "Two-phase implementation", "ta": "இரண்டு கட்ட செயல்படுத்தல்" },
+        { "en": "International-standard training facilities", "ta": "சர்வதேச தர பயிற்சி வசதிகள்" }
+      ],
+      "icon": "🏋️",
+      "sources": [
+        { "title": "The Hindu", "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/work-on-building-olympic-academy-to-begin-this-week/article69123614.ece", "type": "media" },
+        { "title": "ETV Bharat", "url": "https://www.etvbharat.com/en/!sports/tamil-nadus-sporting-revolution-how-sdat-is-building-indias-next-generation-of-champions-enn25091311761", "type": "media" }
+      ]
+    },
+    {
+      "id": "international-water-sports-academy",
+      "name": {
+        "en": "International Water Sports Academy",
+        "ta": "சர்வதேச நீர் விளையாட்டு அகாடமி"
+      },
+      "description": {
+        "en": "International-standard water sports training facility at Pirappanvalasai, Ramanathapuram district for kayaking, sailing, windsurfing, and other water sports.",
+        "ta": "இராமநாதபுரம் மாவட்டம் பிரப்பன்வளசையில் படகோட்டம், பாய்மரப் படகு, காற்றாடி சர்ஃபிங் மற்றும் பிற நீர் விளையாட்டுகளுக்கான சர்வதேச தர நீர் விளையாட்டு பயிற்சி வசதி."
+      },
+      "launchDate": "Foundation: January 2025 (Under construction)",
+      "beneficiaries": {
+        "count": "Water sports athletes",
+        "description": {
+          "en": "Coastal district athletes and national-level training",
+          "ta": "கடலோர மாவட்ட விளையாட்டு வீரர்கள் மற்றும் தேசிய அளவிலான பயிற்சி"
+        }
+      },
+      "budget": {
+        "amount": "Rs 42.90 crore",
+        "details": "International-standard water sports facility"
+      },
+      "highlights": [
+        { "en": "Located at Pirappanvalasai, Ramanathapuram", "ta": "பிரப்பன்வளசை, இராமநாதபுரத்தில் அமைந்துள்ளது" },
+        { "en": "Multiple water sports disciplines", "ta": "பல நீர் விளையாட்டு துறைகள்" },
+        { "en": "Deputy CM inspected construction progress", "ta": "துணை முதல்வர் கட்டுமான முன்னேற்றத்தை ஆய்வு செய்தார்" }
+      ],
+      "icon": "🚣",
+      "sources": [
+        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" }
+      ]
+    },
+    {
+      "id": "coimbatore-international-cricket-stadium",
+      "name": {
+        "en": "Coimbatore International Cricket Stadium",
+        "ta": "கோயம்புத்தூர் சர்வதேச கிரிக்கெட் அரங்கம்"
+      },
+      "description": {
+        "en": "India's largest cricket stadium proposed at Ondipudur, Coimbatore with 30,000 seating capacity, 7 pitches, indoor practice area, cricket museum, and net-zero sustainability features.",
+        "ta": "கோயம்புத்தூர் ஒண்டிபுதூரில் 30,000 இருக்கை கொள்ளளவு, 7 பிட்ச்கள், உள்விளையாட்டு பயிற்சி பகுதி, கிரிக்கெட் அருங்காட்சியகம் மற்றும் நிகர-பூஜ்ஜிய நிலைத்தன்மை அம்சங்களுடன் இந்தியாவின் மிகப்பெரிய கிரிக்கெட் அரங்கம் முன்மொழியப்பட்டுள்ளது."
+      },
+      "launchDate": "Announced: June 2024 (Planning stage)",
+      "beneficiaries": {
+        "count": "30,000 spectators",
+        "description": {
+          "en": "Western Tamil Nadu cricket ecosystem",
+          "ta": "மேற்கு தமிழ்நாடு கிரிக்கெட் சூழல்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 500 crore",
+        "details": "30-acre stadium + 10-acre commercial complex"
+      },
+      "highlights": [
+        { "en": "India's largest cricket stadium", "ta": "இந்தியாவின் மிகப்பெரிய கிரிக்கெட் அரங்கம்" },
+        { "en": "Net-zero sustainability design", "ta": "நிகர-பூஜ்ஜிய நிலைத்தன்மை வடிவமைப்பு" },
+        { "en": "7 cricket pitches + indoor facilities", "ta": "7 கிரிக்கெட் பிட்ச்கள் + உள்விளையாட்டு வசதிகள்" },
+        { "en": "Cricket museum and high-performance centre", "ta": "கிரிக்கெட் அருங்காட்சியகம் மற்றும் உயர் செயல்திறன் மையம்" }
+      ],
+      "icon": "🏏",
+      "sources": [
+        { "title": "CricTracker", "url": "https://www.crictracker.com/cricket-news/tamil-nadu-government-to-build-biggest-cricket-stadium-in-coimbatore-4967-8602/", "type": "media" },
+        { "title": "Oneindia", "url": "https://www.oneindia.com/chennai/coimbatore-cricket-stadium-when-will-this-ambitious-project-be-ready-completion-date-seating-capa-4161595.html", "type": "media" }
+      ]
+    },
+    {
+      "id": "mgr-film-institute-studio",
+      "name": {
+        "en": "MGR Film and Television Training Institute Studio Renovation",
+        "ta": "எம்.ஜி.ஆர் திரைப்பட மற்றும் தொலைக்காட்சி பயிற்சி நிறுவன படப்பிடிப்புத்தளம் புனரமைப்பு"
+      },
+      "description": {
+        "en": "Complete renovation of air-conditioned shooting floor at Government MGR Film and Television Training Institute in Taramani with modern filmmaking facilities.",
+        "ta": "தாரமணியில் உள்ள அரசு எம்.ஜி.ஆர் திரைப்பட மற்றும் தொலைக்காட்சி பயிற்சி நிறுவனத்தில் நவீன திரைப்படத் தயாரிப்பு வசதிகளுடன் குளிர்சாதன படப்பிடிப்புத்தளத்தின் முழுமையான புனரமைப்பு."
+      },
+      "launchDate": "August 25, 2025",
+      "beneficiaries": {
+        "count": "Film industry trainees",
+        "description": {
+          "en": "Students and professionals at MGR Film Institute",
+          "ta": "எம்.ஜி.ஆர் திரைப்பட நிறுவனத்தில் மாணவர்கள் மற்றும் தொழில்முறையாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 5.10 crore",
+        "details": "Studio renovation and modernization"
+      },
+      "highlights": [
+        { "en": "Fully renovated air-conditioned studio", "ta": "முழுமையாக புனரமைக்கப்பட்ட குளிர்சாதன படப்பிடிப்புத்தளம்" },
+        { "en": "Modern filmmaking equipment", "ta": "நவீன திரைப்படத் தயாரிப்பு உபகரணங்கள்" },
+        { "en": "Inaugurated by CM M.K. Stalin", "ta": "முதல்வர் எம்.கே. ஸ்டாலின் திறந்து வைத்தார்" }
+      ],
+      "icon": "🎬",
+      "sources": [
+        { "title": "TN Govt MGR Film Institute", "url": "http://www.filminstitute.tn.gov.in/en", "type": "government" },
+        { "title": "DIPR", "url": "https://dipr.tn.gov.in/", "type": "government" }
+      ]
+    },
+    {
+      "id": "theni-indoor-stadium",
+      "name": {
+        "en": "Theni Multipurpose Indoor Stadium",
+        "ta": "தேனி பல்நோக்கு உள்விளையாட்டு அரங்கம்"
+      },
+      "description": {
+        "en": "Modern multipurpose indoor stadium in Theni district with hockey ground, cricket, and football facilities for young athletes.",
+        "ta": "இளம் விளையாட்டு வீரர்களுக்கான ஹாக்கி மைதானம், கிரிக்கெட் மற்றும் கால்பந்து வசதிகளுடன் தேனி மாவட்டத்தில் நவீன பல்நோக்கு உள்விளையாட்டு அரங்கம்."
+      },
+      "launchDate": "April 2025",
+      "beneficiaries": {
+        "count": "Athletes in Theni district",
+        "description": {
+          "en": "Young athletes and sports enthusiasts",
+          "ta": "இளம் விளையாட்டு வீரர்கள் மற்றும் விளையாட்டு ஆர்வலர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 5.68 crore",
+        "details": "Indoor stadium with multiple facilities"
+      },
+      "highlights": [
+        { "en": "Hockey, cricket, and football facilities", "ta": "ஹாக்கி, கிரிக்கெட் மற்றும் கால்பந்து வசதிகள்" },
+        { "en": "Part of district sports complex", "ta": "மாவட்ட விளையாட்டு வளாகத்தின் பகுதி" },
+        { "en": "Host venue for Republic Day Sports 2025", "ta": "குடியரசு நாள் விளையாட்டுகள் 2025 நடைபெறும் இடம்" }
+      ],
+      "icon": "🏢",
+      "sources": [
+        { "title": "Footboom", "url": "https://www.footboom1.com/en/news/tennis/2359540-new-mini-indoor-stadium-set-for-launch-in-theni", "type": "media" },
+        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" }
+      ]
+    },
+    {
+      "id": "ramanathapuram-weightlifting-centre",
+      "name": {
+        "en": "Ramanathapuram Weightlifting Training Centre",
+        "ta": "இராமநாதபுரம் பளு தூக்கும் பயிற்சி மையம்"
+      },
+      "description": {
+        "en": "Specialized weightlifting training centre at Paramakudi, Ramanathapuram district for developing weightlifting talent in southern Tamil Nadu.",
+        "ta": "தென் தமிழ்நாட்டில் பளு தூக்கும் திறமையை வளர்க்க இராமநாதபுரம் மாவட்டம் பரமக்குடியில் சிறப்பு பளு தூக்கும் பயிற்சி மையம்."
+      },
+      "launchDate": "April 4, 2025",
+      "beneficiaries": {
+        "count": "Weightlifting athletes",
+        "description": {
+          "en": "Athletes in Ramanathapuram and nearby districts",
+          "ta": "இராமநாதபுரம் மற்றும் அருகிலுள்ள மாவட்டங்களின் விளையாட்டு வீரர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 50 lakh",
+        "details": "Training equipment and facility"
+      },
+      "highlights": [
+        { "en": "Inaugurated by Deputy CM Udhayanidhi Stalin", "ta": "துணை முதல்வர் உதயநிதி ஸ்டாலின் திறந்து வைத்தார்" },
+        { "en": "Located in Paramakudi", "ta": "பரமக்குடியில் அமைந்துள்ளது" },
+        { "en": "Specialized weightlifting training", "ta": "சிறப்பு பளு தூக்கும் பயிற்சி" }
+      ],
+      "icon": "🏋️",
+      "sources": [
+        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" }
+      ]
+    },
+    {
+      "id": "kalaignar-sports-kit-scheme",
+      "name": {
+        "en": "Kalaignar Sports Kit Scheme",
+        "ta": "கலைஞர் விளையாட்டு உபகரணங்கள் திட்டம்"
+      },
+      "description": {
+        "en": "Distribution of 33-item sports kits for cricket, volleyball, football, badminton, and silambam to all 12,620 village panchayats across Tamil Nadu, launched on Kalaignar's centenary.",
+        "ta": "கலைஞரின் நூற்றாண்டு விழாவில் தொடங்கப்பட்ட, தமிழ்நாட்டின் அனைத்து 12,620 கிராம பஞ்சாயத்துகளுக்கும் கிரிக்கெட், கைப்பந்து, கால்பந்து, பேட்மிண்டன் மற்றும் சிலம்பத்திற்கான 33 பொருட்களைக் கொண்ட விளையாட்டு உபகரணங்கள் வழங்கல்."
+      },
+      "launchDate": "February 7, 2024",
+      "beneficiaries": {
+        "count": "12,620 village panchayats",
+        "description": {
+          "en": "Rural youth and sports enthusiasts",
+          "ta": "கிராமப்புற இளைஞர்கள் மற்றும் விளையாட்டு ஆர்வலர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 86 crore",
+        "details": "Sports kits for all village panchayats"
+      },
+      "highlights": [
+        { "en": "33 sports items per kit", "ta": "ஒரு கிட்டுக்கு 33 விளையாட்டு பொருட்கள்" },
+        { "en": "Launched on Kalaignar's 100th birthday", "ta": "கலைஞரின் 100வது பிறந்தநாளில் தொடங்கப்பட்டது" },
+        { "en": "Covers all 12,620 village panchayats", "ta": "அனைத்து 12,620 கிராம பஞ்சாயத்துகளையும் உள்ளடக்கியது" },
+        { "en": "Focus on rural sports development", "ta": "கிராமப்புற விளையாட்டு வளர்ச்சியில் கவனம்" }
+      ],
+      "icon": "🎒",
+      "sources": [
+        { "title": "Govt Schemes India", "url": "https://www.govtschemes.in/tamil-nadu-kalaignar-sports-kit-scheme", "type": "media" },
+        { "title": "PM Modi Yojana", "url": "https://pmmodiyojana.org/kalaignar-sports-kit-scheme-tamil-nadu/", "type": "media" }
+      ]
+    },
+    {
+      "id": "international-trap-shooting-range",
+      "name": {
+        "en": "International Trap Shooting Range",
+        "ta": "சர்வதேச டிராப் சூட்டிங் பயிற்சி அகாடமி"
+      },
+      "description": {
+        "en": "International-standard trap shooting range and training academy at Keerapakkam near Vandalur, Chengalpattu district.",
+        "ta": "செங்கல்பட்டு மாவட்டம் வண்டலூர் அருகே கீரப்பாக்கத்தில் சர்வதேச தர டிராப் சூட்டிங் பயிற்சி அகாடமி."
+      },
+      "launchDate": "Foundation: December 31, 2025",
+      "beneficiaries": {
+        "count": "Shooting sports athletes",
+        "description": {
+          "en": "Trap shooting athletes across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் டிராப் சூட்டிங் விளையாட்டு வீரர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 17.01 crore",
+        "details": "International-standard shooting range"
+      },
+      "highlights": [
+        { "en": "Foundation laid by Deputy CM", "ta": "துணை முதல்வர் அடிக்கல் நாட்டினார்" },
+        { "en": "International standard facility", "ta": "சர்வதேச தர வசதி" },
+        { "en": "Located near Vandalur", "ta": "வண்டலூர் அருகே அமைந்துள்ளது" }
+      ],
+      "icon": "🎯",
+      "sources": [
+        { "title": "SDAT Official", "url": "https://www.sdat.tn.gov.in/", "type": "government" }
+      ]
     }
   ],
   "sportsCultureStats": {

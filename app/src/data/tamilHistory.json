@@ -656,6 +656,237 @@
           "type": "media"
         }
       ]
+    },
+    {
+      "id": "gandhi-jeeva-memorial",
+      "name": {
+        "en": "Gandhi-Jeeva Meeting Memorial",
+        "ta": "காந்தி-ஜீவா சந்திப்பு நினைவு மணி மண்டபம்"
+      },
+      "description": {
+        "en": "Memorial commemorating the historic meeting between Mahatma Gandhi and Communist leader P. Jeevanandam at Siruvayal ashram. Gandhi personally visited to meet the young reformer who had written a letter disagreeing with his methods.",
+        "ta": "மகாத்மா காந்தி மற்றும் கம்யூனிஸ்ட் தலைவர் ப.ஜீவானந்தம் ஆகியோரின் வரலாற்று சிறப்புமிக்க சந்திப்பை நினைவுகூரும் அரங்கம். சிறுவாயல் ஆசிரமத்தில் இளம் சீர்திருத்தவாதியை நேரில் சந்திக்க காந்தி வந்தார்."
+      },
+      "launchDate": "January 30, 2026",
+      "beneficiaries": {
+        "count": "Public monument",
+        "description": {
+          "en": "Heritage site at Siruvayal, Sivaganga District",
+          "ta": "சிவகங்கை மாவட்டம் சிறுவாயலில் பாரம்பரிய தளம்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 3.27 crore",
+        "details": "Memorial with statues of Gandhi and Jeevanandam"
+      },
+      "highlights": [
+        { "en": "Inaugurated by CM MK Stalin on January 30, 2026", "ta": "ஜனவரி 30, 2026 அன்று முதலமைச்சர் மு.க.ஸ்டாலின் திறந்து வைத்தார்" },
+        { "en": "Commemorates historic Gandhi-Jeeva meeting", "ta": "வரலாற்று சிறப்புமிக்க காந்தி-ஜீவா சந்திப்பை நினைவுகூருகிறது" },
+        { "en": "Located at Siruvayal near Tiruppattur, Sivaganga", "ta": "சிவகங்கை திருப்பத்தூர் அருகே சிறுவாயலில்" }
+      ],
+      "icon": "🕊️",
+      "sources": [
+        { "title": "Thanthi TV", "url": "https://www.thanthitv.com/news/politics/cm-mk-stalin-gandhi-jeeva-meeting-memorial-bell-hall-cm-stalin-inaugurated", "type": "media" },
+        { "title": "ETV Bharat", "url": "https://www.etvbharat.com/english/bharat/tn-govt-to-build-memorial-at-siruvayal-where-gandhi-met-social-reformer-jeeva/na20220807122031559559245", "type": "media" }
+      ]
+    },
+    {
+      "id": "maveeran-pollan-memorial",
+      "name": {
+        "en": "Maveeran Pollan Memorial Stadium",
+        "ta": "மாவீரன் பொல்லான் நினைவு அரங்கம்"
+      },
+      "description": {
+        "en": "Memorial stadium with full-length statue honoring freedom fighter Maveeran Pollan, who served as a captain and spy under Dheeran Chinnamalai and was shot dead by the British during the independence struggle.",
+        "ta": "சுதந்திர போராட்ட வீரர் மாவீரன் பொல்லான் நினைவாக கட்டப்பட்ட அரங்கம் மற்றும் சிலை. தீரன் சின்னமலை படையில் தளபதியாகவும் உளவாளியாகவும் பணியாற்றி பிரிட்டிஷாரால் சுட்டுக்கொல்லப்பட்டவர்."
+      },
+      "launchDate": "November 26, 2025",
+      "beneficiaries": {
+        "count": "Public facility",
+        "description": {
+          "en": "Memorial stadium at Jayaramapuram, Modakurichi, Erode District",
+          "ta": "ஈரோடு மாவட்டம் மோடக்குறிச்சி ஜெயராமபுரத்தில் நினைவு அரங்கம்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 4.90 crore",
+        "details": "Memorial stadium with full-length statue"
+      },
+      "highlights": [
+        { "en": "Inaugurated by CM MK Stalin on November 26, 2025", "ta": "நவம்பர் 26, 2025 அன்று முதலமைச்சர் மு.க.ஸ்டாலின் திறந்து வைத்தார்" },
+        { "en": "Honors captain and spy of Dheeran Chinnamalai", "ta": "தீரன் சின்னமலையின் தளபதி மற்றும் உளவாளியை கௌரவிக்கிறது" },
+        { "en": "Features full-length statue of the freedom fighter", "ta": "சுதந்திர போராட்ட வீரரின் முழு உருவ சிலை" }
+      ],
+      "icon": "🗽",
+      "sources": [
+        { "title": "Prokerala News", "url": "https://www.prokerala.com/news/articles/a1701259.html", "type": "media" },
+        { "title": "Social News XYZ", "url": "https://www.socialnews.xyz/2025/11/26/stalin-inaugurates-memorial-stadium-for-freedom-fighter-maaveeran-pollan-unveils-multiple-projects/", "type": "media" }
+      ]
+    },
+    {
+      "id": "cologne-tamil-department-support",
+      "name": {
+        "en": "Cologne University Tamil Department Support",
+        "ta": "கொலோன் பல்கலைக்கழக தமிழ்த்துறை ஆதரவு"
+      },
+      "description": {
+        "en": "Tamil Nadu government's financial support to prevent closure of the Tamil Department at University of Cologne, Germany, which houses the largest collection of Tamil books outside Tamil Nadu with over 40,000 rare Tamil manuscripts and books.",
+        "ta": "ஜெர்மனியில் கொலோன் பல்கலைக்கழகத்தின் தமிழ்த்துறை மூடப்படுவதை தடுக்க தமிழ்நாடு அரசின் நிதி உதவி. தமிழ்நாட்டிற்கு வெளியே மிகப்பெரிய தமிழ் புத்தக சேகரிப்பு - 40,000 அரிய தமிழ் கையெழுத்துப்பிரதிகள் மற்றும் புத்தகங்கள்."
+      },
+      "launchDate": "September 2025",
+      "beneficiaries": {
+        "count": "40,000+ books preserved",
+        "description": {
+          "en": "Largest Tamil collection outside Tamil Nadu in Europe",
+          "ta": "ஐரோப்பாவில் தமிழ்நாட்டிற்கு வெளியே மிகப்பெரிய தமிழ் சேகரிப்பு"
+        }
+      },
+      "budget": {
+        "amount": "Rs 1.25 crore",
+        "details": "Support to maintain Tamil Department operations"
+      },
+      "highlights": [
+        { "en": "Prevents closure of Tamil studies at Cologne University", "ta": "கொலோன் பல்கலைக்கழகத்தில் தமிழ் படிப்பு மூடப்படுவதை தடுக்கிறது" },
+        { "en": "Preserves 40,000+ rare Tamil books", "ta": "40,000+ அரிய தமிழ் புத்தகங்களை பாதுகாக்கிறது" },
+        { "en": "Tamil taught at Cologne since 1963", "ta": "1963 முதல் கொலோனில் தமிழ் கற்பிக்கப்படுகிறது" }
+      ],
+      "icon": "📚",
+      "sources": [
+        { "title": "Tamil Culture", "url": "https://tamilculture.com/germany-boasts-the-largest-collection-of-tamil-books-outside-tamil-nadu", "type": "media" },
+        { "title": "The News Minute", "url": "https://www.thenewsminute.com/tamil-nadu/tamil-sangams-europe-rally-save-tamil-chair-university-germany-144086", "type": "media" }
+      ]
+    },
+    {
+      "id": "tamil-knowledge-campus",
+      "name": {
+        "en": "Tamil Knowledge Campus (Roja Muthiah Research Library)",
+        "ta": "தமிழ் அறிவு வளாகம் (ரோஜா முத்தையா ஆராய்ச்சி நூலகம்)"
+      },
+      "description": {
+        "en": "30,000 sq ft Tamil Knowledge Campus at Taramani Technology Park, Chennai, housing Roja Muthiah Research Library, Indus Research Centre, and Centre for Study in Public Sphere. RMRL holds 50,000 books and equal number of periodicals, ephemera, and pamphlets.",
+        "ta": "சென்னை தரமணி தொழில்நுட்ப பூங்காவில் 30,000 சதுர அடி தமிழ் அறிவு வளாகம் - ரோஜா முத்தையா ஆராய்ச்சி நூலகம், சிந்து ஆராய்ச்சி மையம், பொதுக்களம் படிப்பு மையம். RMRL 50,000 புத்தகங்கள் மற்றும் அதே எண்ணிக்கையில் இதழ்கள், சிறு வெளியீடுகள் கொண்டது."
+      },
+      "launchDate": "Foundation: July 3, 2025",
+      "beneficiaries": {
+        "count": "Tamil scholars and researchers",
+        "description": {
+          "en": "Research facility at Taramani Technology Park, Chennai",
+          "ta": "சென்னை தரமணி தொழில்நுட்ப பூங்காவில் ஆராய்ச்சி வசதி"
+        }
+      },
+      "budget": {
+        "amount": "Rs 40 crore",
+        "details": "30,000 sq ft campus on government-provided land"
+      },
+      "highlights": [
+        { "en": "Foundation laid by CM MK Stalin on July 3, 2025", "ta": "ஜூலை 3, 2025 அன்று முதலமைச்சர் மு.க.ஸ்டாலின் அடிக்கல் நாட்டினார்" },
+        { "en": "Houses RMRL with 50,000 books collection", "ta": "50,000 புத்தகங்கள் கொண்ட RMRL உள்ளது" },
+        { "en": "Includes Indus Research Centre", "ta": "சிந்து ஆராய்ச்சி மையம் அடங்கும்" }
+      ],
+      "icon": "🏛️",
+      "sources": [
+        { "title": "Adyar Times", "url": "https://adyartimes.in/cm-stalin-lays-foundation-for-tamil-knowledge-campus-in-taramani/", "type": "media" },
+        { "title": "RMRL Official", "url": "https://rmrl.in/en/about", "type": "government" }
+      ]
+    },
+    {
+      "id": "a-govindasamy-memorial",
+      "name": {
+        "en": "A. Govindasamy Memorial (Manimandapam)",
+        "ta": "ஏ.கோவிந்தசாமி நினைவு மணிமண்டபம்"
+      },
+      "description": {
+        "en": "Memorial hall honoring former Minister A. Govindasamy who served under C.N. Annadurai and M. Karunanidhi governments. He was the first election candidate to contest under the 'Rising Sun' symbol and raised his voice demanding Madras State be renamed Tamil Nadu.",
+        "ta": "சி.என்.அண்ணாதுரை மற்றும் மு.கருணாநிதி அரசுகளில் பணியாற்றிய முன்னாள் அமைச்சர் ஏ.கோவிந்தசாமி நினைவு மண்டபம். 'உதயசூரியன்' சின்னத்தில் போட்டியிட்ட முதல் வேட்பாளர், மதராஸ் மாநிலத்தை தமிழ்நாடு என பெயர் மாற்றக் கோரியவர்."
+      },
+      "launchDate": "January 28, 2025",
+      "beneficiaries": {
+        "count": "Public monument",
+        "description": {
+          "en": "Memorial hall at Vazhuthareddy, Villupuram District",
+          "ta": "விழுப்புரம் மாவட்டம் வழுதாரெட்டியில் நினைவு மண்டபம்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 4 crore",
+        "details": "Memorial manimandapam with statue"
+      },
+      "highlights": [
+        { "en": "Inaugurated by CM MK Stalin on January 28, 2025", "ta": "ஜனவரி 28, 2025 அன்று முதலமைச்சர் மு.க.ஸ்டாலின் திறந்து வைத்தார்" },
+        { "en": "First 'Rising Sun' symbol election candidate", "ta": "'உதயசூரியன்' சின்னத்தின் முதல் தேர்தல் வேட்பாளர்" },
+        { "en": "Championed Tamil Nadu naming in legislature", "ta": "சட்டமன்றத்தில் தமிழ்நாடு பெயர் மாற்றம் கோரினார்" }
+      ],
+      "icon": "🏛️",
+      "sources": [
+        { "title": "Deccan Chronicle", "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/cm-stalin-lauds-dravidian-legacy-at-villupuram-event-1857342", "type": "media" },
+        { "title": "NewKerala", "url": "https://www.newkerala.com/news/o/cm-stalin-inaugurate-memorial-social-justice-activists-tns-villupuram-746", "type": "media" }
+      ]
+    },
+    {
+      "id": "periyar-memorial-vaikom",
+      "name": {
+        "en": "Periyar Memorial and Library - Vaikom",
+        "ta": "தந்தை பெரியார் நினைவகம் மற்றும் நூலகம் - வைக்கம்"
+      },
+      "description": {
+        "en": "Renovated memorial and library honoring E.V. Ramasamy Periyar at Vaikom, Kerala, commemorating the Vaikom Satyagraha centenary. The 70-cent complex includes photo exhibition hall, library, visitor's pavilion, children's park, and seated Periyar statue.",
+        "ta": "கேரளா வைக்கத்தில் ஈ.வெ.ராமசாமி பெரியாரை கௌரவிக்கும் புனரமைக்கப்பட்ட நினைவகம் மற்றும் நூலகம், வைக்கம் சத்தியாகிரக நூற்றாண்டு நினைவாக. 70 சென்ட் வளாகத்தில் புகைப்பட கண்காட்சி அரங்கம், நூலகம், பார்வையாளர் மண்டபம், குழந்தைகள் பூங்கா, அமர்ந்திருக்கும் பெரியார் சிலை."
+      },
+      "launchDate": "December 12, 2024",
+      "beneficiaries": {
+        "count": "Public monument",
+        "description": {
+          "en": "Heritage site at Vaikom Valiya Kavala, Kottayam, Kerala",
+          "ta": "கேரளா கோட்டயம் வைக்கம் வலிய கவலாவில் பாரம்பரிய தளம்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 8.5 crore",
+        "details": "Renovation by Tamil Nadu Government on Kerala-provided land"
+      },
+      "highlights": [
+        { "en": "Jointly inaugurated by CMs MK Stalin and Pinarayi Vijayan", "ta": "முதலமைச்சர்கள் மு.க.ஸ்டாலின் மற்றும் பினராயி விஜயன் கூட்டாக திறந்து வைத்தனர்" },
+        { "en": "Vaikom Satyagraha centenary celebration", "ta": "வைக்கம் சத்தியாகிரக நூற்றாண்டு கொண்டாட்டம்" },
+        { "en": "70-cent complex with library and exhibition hall", "ta": "நூலகம் மற்றும் கண்காட்சி அரங்கத்துடன் 70 சென்ட் வளாகம்" }
+      ],
+      "icon": "🏛️",
+      "sources": [
+        { "title": "The News Minute", "url": "https://www.thenewsminute.com/kerala/tamil-nadu-cm-stalin-inaugurates-renovated-periyar-memorial-at-keralas-vaikom", "type": "media" },
+        { "title": "Deccan Chronicle", "url": "https://www.deccanchronicle.com/southern-states/kerala/cm-stalin-inaugurates-renovated-periyar-memorial-in-keralas-vaikom-1846145", "type": "media" }
+      ]
+    },
+    {
+      "id": "gangaikonda-cholapuram-museum",
+      "name": {
+        "en": "Gangaikonda Cholapuram Museum",
+        "ta": "கங்கைகொண்ட சோழபுரம் அருங்காட்சியகம்"
+      },
+      "description": {
+        "en": "Museum highlighting the seafaring abilities, sea commerce, and ship-building skills of the Cholas during King Rajendra Cholan I's reign (1012-1044 AD), at the capital he established.",
+        "ta": "ராஜேந்திர சோழன் I (1012-1044 AD) ஆட்சிக்காலத்தில் சோழர்களின் கடல் பயணத் திறன், கடல் வணிகம், கப்பல் கட்டும் திறன் ஆகியவற்றை வெளிப்படுத்தும் அருங்காட்சியகம்."
+      },
+      "launchDate": "Foundation: January 23, 2025",
+      "beneficiaries": {
+        "count": "Public facility",
+        "description": {
+          "en": "Museum at Gangaikonda Cholapuram, Ariyalur District",
+          "ta": "அரியலூர் மாவட்டம் கங்கைகொண்ட சோழபுரத்தில் அருங்காட்சியகம்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 22.10 crore",
+        "details": "Heritage museum showcasing Chola maritime legacy"
+      },
+      "highlights": [
+        { "en": "Foundation laid by CM MK Stalin on January 23, 2025", "ta": "ஜனவரி 23, 2025 அன்று முதலமைச்சர் மு.க.ஸ்டாலின் அடிக்கல் நாட்டினார்" },
+        { "en": "Showcases Chola maritime and shipbuilding heritage", "ta": "சோழர் கடல் மற்றும் கப்பல் கட்டும் பாரம்பரியத்தை காட்சிப்படுத்துகிறது" },
+        { "en": "Rajendra Cholan I's capital (1012-1044 AD)", "ta": "ராஜேந்திர சோழன் I தலைநகர் (1012-1044 AD)" }
+      ],
+      "icon": "🏛️",
+      "sources": [
+        { "title": "News9Live", "url": "https://www.news9live.com/state/tamil-nadu/iron-age-originated-5300-years-ago-in-tamil-nadu-says-cm-mk-stalin-2803549", "type": "media" },
+        { "title": "The Print", "url": "https://theprint.in/india/iron-age-began-in-now-tn-5300-years-ago-says-cm-stalin/2459133/", "type": "media" }
+      ]
     }
   ],
   "historyStats": {
