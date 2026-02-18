@@ -393,9 +393,13 @@
   ],
   "environmentStats": {
     "renewableCapacity": "22GW+",
+    "renewableCapacityGW": 22,
     "renewableTarget": "20GW addition by 2030",
+    "renewableTargetGW": 20,
     "windCapacity": "#1 in India",
     "solarGrowth": "5x since 2014",
-    "evManufacturing": "Multiple plants"
+    "evManufacturing": "Multiple plants",
+    "evChargingPoints": 5000,
+    "treesPlanted": 100000000
   }
 }

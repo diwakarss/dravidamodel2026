@@ -356,8 +356,10 @@
   ],
   "agricultureStats": {
     "farmersWithFreeElectricity": "21+ lakh",
+    "farmersWithFreeElectricityNum": 2100000,
     "uzhavarSandhaiMarkets": 179,
     "cropInsuranceCoverage": "Major crops",
-    "irrigationCoverage": "60%+ net sown area"
+    "irrigationCoverage": "60%+ net sown area",
+    "irrigationPercent": 60
   }
 }

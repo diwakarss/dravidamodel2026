@@ -1,5 +1,12 @@
 import { z } from "zod";
 
+// Timeline year constraints - update these as data evolves
+const YEAR_CONSTRAINTS = {
+  minYear: 1990, // Oldest projects in dataset
+  maxStartYear: 2035, // Allow projects starting up to 2035
+  maxCompletionYear: 2050, // Allow completion dates up to 2050
+} as const;
+
 // Helper to validate URLs with safe protocols only (http/https)
 const safeUrlSchema = z
   .string()
@@ -60,8 +67,8 @@ export const BudgetSchema = z
   .nullable();
 
 export const TimelineSchema = z.object({
-  startYear: z.number().min(1990).max(2030),
-  completionYear: z.number().min(1990).max(2040).nullable(),
+  startYear: z.number().min(YEAR_CONSTRAINTS.minYear).max(YEAR_CONSTRAINTS.maxStartYear),
+  completionYear: z.number().min(YEAR_CONSTRAINTS.minYear).max(YEAR_CONSTRAINTS.maxCompletionYear).nullable(),
   completionNotes: z.string().nullable().optional(),
 });
 

@@ -20,9 +20,11 @@ export interface AgricultureScheme {
 
 export interface AgricultureStats {
   farmersWithFreeElectricity: string;
+  farmersWithFreeElectricityNum: number;
   uzhavarSandhaiMarkets: number;
   cropInsuranceCoverage: string;
   irrigationCoverage: string;
+  irrigationPercent: number;
 }
 
 // Export data from JSON
@@ -32,8 +34,8 @@ export const agricultureStats: AgricultureStats = agricultureData.agricultureSta
 export function getAgricultureStats() {
   return {
     totalSchemes: agricultureSchemes.length,
-    farmersElectricity: 2100000,
+    farmersElectricity: agricultureStats.farmersWithFreeElectricityNum,
     marketsCount: agricultureStats.uzhavarSandhaiMarkets,
-    irrigationPercent: 60,
+    irrigationPercent: agricultureStats.irrigationPercent,
   };
 }

@@ -21,8 +21,10 @@ export interface SportsCultureScheme {
 export interface SportsCultureStats {
   chessOlympiadCountries: number;
   athleteAwardOlympicGold: string;
+  olympicGoldPrize: number;
   stadiumsUpgraded: number;
   templesUnderHRCE: string;
+  templesCount: number;
 }
 
 // Export data from JSON
@@ -33,7 +35,7 @@ export function getSportsCultureStats() {
   return {
     totalSchemes: sportsCultureSchemes.length,
     chessCountries: sportsCultureStats.chessOlympiadCountries,
-    olympicGoldPrize: 30000000,
-    templesCount: 44000,
+    olympicGoldPrize: sportsCultureStats.olympicGoldPrize,
+    templesCount: sportsCultureStats.templesCount,
   };
 }

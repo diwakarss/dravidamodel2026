@@ -20,10 +20,14 @@ export interface EnvironmentScheme {
 
 export interface EnvironmentStats {
   renewableCapacity: string;
+  renewableCapacityGW: number;
   renewableTarget: string;
+  renewableTargetGW: number;
   windCapacity: string;
   solarGrowth: string;
   evManufacturing: string;
+  evChargingPoints: number;
+  treesPlanted: number;
 }
 
 // Export data from JSON
@@ -33,9 +37,9 @@ export const environmentStats: EnvironmentStats = environmentData.environmentSta
 export function getEnvironmentStats() {
   return {
     totalSchemes: environmentSchemes.length,
-    renewableGW: 22,
-    targetGW: 20,
-    evChargingPoints: 5000,
-    treesPlanted: 100000000,
+    renewableGW: environmentStats.renewableCapacityGW,
+    targetGW: environmentStats.renewableTargetGW,
+    evChargingPoints: environmentStats.evChargingPoints,
+    treesPlanted: environmentStats.treesPlanted,
   };
 }

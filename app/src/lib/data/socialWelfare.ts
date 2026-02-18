@@ -21,13 +21,17 @@ export interface WelfareScheme {
 
 export interface WelfareStats {
   magalirBeneficiaries: string;
+  magalirBeneficiariesNum: number;
   magalirBudget: string;
+  magalirBudgetCrore: number;
   pdsShops: number;
   universalPds: boolean;
   pensionAmount: string;
+  pensionSchemes: number;
   vidiyalSubsidy: string;
   pongalBeneficiaries: string;
   farmLoanWaiver: string;
+  farmersHelped: number;
 }
 
 // Export data from JSON
@@ -37,10 +41,10 @@ export const welfareStats: WelfareStats = socialWelfareData.welfareStats as Welf
 export function getWelfareStats() {
   return {
     totalSchemes: welfareSchemes.length,
-    magalirBeneficiaries: 13100000,
-    magalirBudgetCrore: 13027,
-    pdsShops: 33609,
-    pensionSchemes: 3,
-    farmersHelped: 1643000,
+    magalirBeneficiaries: welfareStats.magalirBeneficiariesNum,
+    magalirBudgetCrore: welfareStats.magalirBudgetCrore,
+    pdsShops: welfareStats.pdsShops,
+    pensionSchemes: welfareStats.pensionSchemes,
+    farmersHelped: welfareStats.farmersHelped,
   };
 }

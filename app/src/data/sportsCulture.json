@@ -422,7 +422,9 @@
   "sportsCultureStats": {
     "chessOlympiadCountries": 187,
     "athleteAwardOlympicGold": "₹3 crore",
+    "olympicGoldPrize": 30000000,
     "stadiumsUpgraded": 50,
-    "templesUnderHRCE": "44,000+"
+    "templesUnderHRCE": "44,000+",
+    "templesCount": 44000
   }
 }

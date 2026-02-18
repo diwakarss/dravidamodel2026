@@ -967,12 +967,16 @@
   ],
   "welfareStats": {
     "magalirBeneficiaries": "1.31 crore",
+    "magalirBeneficiariesNum": 13100000,
     "magalirBudget": "₹13,027 crore",
+    "magalirBudgetCrore": 13027,
     "pdsShops": 33609,
     "universalPds": true,
     "pensionAmount": "₹1,000-1,500/month",
+    "pensionSchemes": 3,
     "vidiyalSubsidy": "₹3,600 crore",
     "pongalBeneficiaries": "2.14 crore",
-    "farmLoanWaiver": "₹12,110 crore"
+    "farmLoanWaiver": "₹12,110 crore",
+    "farmersHelped": 1643000
   }
 }
