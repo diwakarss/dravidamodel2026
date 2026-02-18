@@ -548,12 +548,22 @@
       "sources": [
         {
           "title": "TN Archaeology Dept",
-          "url": "https://tnarch.gov.in/",
+          "url": "https://www.tnarch.gov.in/",
           "type": "government"
         },
         {
-          "title": "CM Inaugurates Keeladi Museum",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-stalin-inaugurates-keeladi-museum/article66583210.ece",
+          "title": "Government Museum Chennai Official",
+          "url": "https://govtmuseumchennai.org/",
+          "type": "government"
+        },
+        {
+          "title": "TN Tourism - Government Museum",
+          "url": "https://www.tamilnadutourism.tn.gov.in/destinations/government-museum-chennai",
+          "type": "government"
+        },
+        {
+          "title": "The Federal - Keeladi Museum Funding",
+          "url": "https://thefederal.com/states/south/tamil-nadu/tn-urges-centre-to-release-funds-to-build-museum-at-keeladi/",
           "type": "media"
         }
       ]
@@ -597,13 +607,23 @@
       "sources": [
         {
           "title": "TN Archaeology Dept",
-          "url": "https://tnarch.gov.in/",
+          "url": "https://www.tnarch.gov.in/",
           "type": "government"
         },
         {
-          "title": "Sangam Era-Indus Link",
-          "url": "https://www.newindianexpress.com/states/tamil-nadu/2019/sep/20/keeladi-findings-trace-link-between-sangam-era-indus-valley-civilisation-2036423.html",
+          "title": "Tamilinaiyam Digital Library",
+          "url": "https://thefederal.com/features/tamilinaiyam-how-tns-sole-state-run-online-library-yearns-for-greater-visibility",
           "type": "media"
+        },
+        {
+          "title": "TN Digital Archives",
+          "url": "https://digitamilnaduarchives.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "CICT Major Projects",
+          "url": "https://cict.in/cict2023/major-projects/",
+          "type": "government"
         }
       ]
     },
@@ -645,14 +665,24 @@
       "icon": "🗿",
       "sources": [
         {
-          "title": "TTDC",
-          "url": "https://www.ttdconline.com/",
+          "title": "Wikipedia - Thiruvalluvar Statue",
+          "url": "https://en.wikipedia.org/wiki/Thiruvalluvar_Statue",
+          "type": "media"
+        },
+        {
+          "title": "DMK - Statue of Wisdom",
+          "url": "https://www.dmk.in/en/resources/dravidianDialogues/Statueofwisdom/",
           "type": "government"
         },
         {
-          "title": "Thiruvalluvar Statue Coating",
-          "url": "https://www.newindianexpress.com/states/tamil-nadu/2022/jun/08/chemical-coating-for-thiruvalluvar-statue-begins-2463121.html",
-          "type": "media"
+          "title": "TN Tourism - Thiruvalluvar Statue",
+          "url": "https://www.tamilnadutourism.tn.gov.in/destinations/thiruvalluvar-statue",
+          "type": "government"
+        },
+        {
+          "title": "Incredible India - Thiruvalluvar Statue",
+          "url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari/thiruvalluvar-statue",
+          "type": "government"
         }
       ]
     },
