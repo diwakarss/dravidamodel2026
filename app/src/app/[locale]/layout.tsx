@@ -8,6 +8,31 @@ export const metadata: Metadata = {
   title: "Dravida Model Showcase 2021-26",
   description:
     "Tracking 150+ government infrastructure projects with transparent, verifiable sourcing.",
+  metadataBase: new URL("https://dravidamodel2026.top"),
+  openGraph: {
+    title: "Dravida Model 2021–2026",
+    description:
+      "Tamil Nadu Development Initiatives: 150+ projects across 38 districts with 100% source-backed data.",
+    url: "https://dravidamodel2026.top",
+    siteName: "Dravida Model Showcase",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Dravida Model 2021-2026 - Tamil Nadu Development Initiatives",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Dravida Model 2021–2026",
+    description:
+      "Tamil Nadu Development Initiatives: 150+ projects across 38 districts.",
+    images: ["/og-image.png"],
+  },
 };
 
 export function generateStaticParams() {
