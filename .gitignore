@@ -11,6 +11,7 @@
 *.tfstate
 *.tfstate.backup
 *.tfplan
+tfplan
 backend.zip
 
 # Node
