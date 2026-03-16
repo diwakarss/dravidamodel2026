@@ -162,9 +162,14 @@
       "icon": "💉",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
-          "type": "government"
+          "title": "The Logical Indian - TN First State Free HPV Vaccine",
+          "url": "https://thelogicalindian.com/tamil-nadu-becomes-indias-first-state-to-offer-free-cervical-cancer-vaccine-for-girls-aged-1-14-all-you-need-to-know/",
+          "type": "news"
+        },
+        {
+          "title": "DT Next - HPV Vaccine Drive 4 Districts",
+          "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-free-hpv-vaccine-drive-to-begin-in-4-high-risk-districts-in-jan-856477",
+          "type": "news"
         }
       ]
     },
@@ -256,8 +261,13 @@
       "icon": "🚑",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
+          "title": "TNHSP - 108 Emergency Medical Services",
+          "url": "https://tnhsp.org/pages/view/108_EMS",
+          "type": "government"
+        },
+        {
+          "title": "NHM TN - Free Transport",
+          "url": "https://www.nhm.tn.gov.in/en/r-c-hmaternal-care/free-transport",
           "type": "government"
         }
       ]
@@ -272,7 +282,7 @@
         "en": "11 new government medical colleges in underserved districts.",
         "ta": "பின்தங்கிய மாவட்டங்களில் 11 புதிய அரசு மருத்துவக் கல்லூரிகள்."
       },
-      "launchYear": "October 2021",
+      "launchYear": "January 12, 2022",
       "beneficiaries": {
         "count": "1,450 seats/year",
         "description": {
@@ -281,10 +291,11 @@
         }
       },
       "budget": {
-        "amount": "₹1,000+ crore",
-        "details": "Infrastructure investment"
+        "amount": "₹4,000 crore",
+        "year": "2021-2022",
+        "details": "₹2,145 crore from Union govt, rest from State"
       },
-      "coverage": "11 districts: Ariyalur, Dindigul, Krishnagiri, etc.",
+      "coverage": "11 districts: Ariyalur, Dindigul, Krishnagiri, Kallakurichi, Nilgiris, Namakkal, Nagapattinam, Ramanathapuram, Tiruvallur, Tiruppur, Virudhunagar",
       "highlights": [
         {
           "en": "Total MBBS seats now: 12,050+",
@@ -302,9 +313,14 @@
       "icon": "🎓",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
+          "title": "PM Inaugurates 11 New Medical Colleges - PMO",
+          "url": "https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-11-new-medical-colleges-and-a-new-campus-of-cict-in-tamil-nadu/",
           "type": "government"
+        },
+        {
+          "title": "Deccan Herald - PM Modi inaugurates 11 medical colleges",
+          "url": "https://www.deccanherald.com/national/south/pm-modi-inaugurates-11-new-medical-colleges-in-tamil-nadu-1070522.html",
+          "type": "news"
         }
       ]
     },
@@ -318,20 +334,29 @@
         "en": "Cash assistance and nutritional support for pregnant women from vulnerable families.",
         "ta": "பாதிக்கப்படக்கூடிய குடும்பங்களைச் சேர்ந்த கர்ப்பிணிப் பெண்களுக்கு பண உதவி மற்றும் ஊட்டச்சத்து ஆதரவு."
       },
-      "launchYear": "1987 (Enhanced)",
+      "launchYear": "1987 (Enhanced 2021)",
       "beneficiaries": {
-        "count": "Lakhs of mothers",
+        "count": "33.70 lakh mothers",
         "description": {
-          "en": "SC/ST/BPL pregnant women",
-          "ta": "SC/ST/BPL கர்ப்பிணிகள்"
+          "en": "SC/ST/BPL pregnant women (2021-2025)",
+          "ta": "SC/ST/BPL கர்ப்பிணிகள் (2021-2025)"
         }
       },
       "budget": {
-        "amount": "₹18,000/mother",
-        "details": "₹14,000 cash + ₹4,000 nutrition kits"
+        "amount": "₹4,000.95 crore",
+        "year": "2021-2026 (5 years)",
+        "details": "₹18,000/mother (₹14,000 cash + ₹4,000 nutrition kits)"
       },
       "coverage": "All eligible pregnant women aged 18-55",
       "highlights": [
+        {
+          "en": "33.70 lakh mothers benefited (2021-2025)",
+          "ta": "33.70 லட்சம் தாய்மார்கள் பயனடைந்தனர் (2021-2025)"
+        },
+        {
+          "en": "57.03 lakh nutrition kits distributed",
+          "ta": "57.03 லட்சம் ஊட்டச்சத்து கிட்கள் வழங்கப்பட்டன"
+        },
         {
           "en": "Enhanced from ₹12,000 to ₹18,000",
           "ta": "₹12,000 இல் இருந்து ₹18,000 ஆக உயர்வு"
@@ -339,17 +364,18 @@
         {
           "en": "3 installments (reduced from 5)",
           "ta": "3 தவணைகள் (5 இல் இருந்து குறைப்பு)"
-        },
-        {
-          "en": "2 nutritional kits worth ₹2,000 each",
-          "ta": "₹2,000 மதிப்புள்ள 2 ஊட்டச்சத்து கிட்கள்"
         }
       ],
       "icon": "🤰",
       "sources": [
         {
-          "title": "Social Welfare Dept",
+          "title": "TN Social Welfare Department - Muthulakshmi Scheme",
           "url": "https://www.tnsocialwelfare.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "MyScheme - Dr Muthulakshmi Reddy Maternity Benefit",
+          "url": "https://www.myscheme.gov.in/schemes/drmrmbs",
           "type": "government"
         }
       ]
@@ -394,8 +420,13 @@
       "icon": "🩺",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
+          "title": "The News Minute - Nalam Kaakkum Stalin Launch",
+          "url": "https://www.thenewsminute.com/tamil-nadu/tn-cm-to-launch-nalam-kaakkum-stalin-scheme-on-aug-2-in-chennai",
+          "type": "news"
+        },
+        {
+          "title": "Ariyalur District Official - Camp Details",
+          "url": "https://ariyalur.nic.in/pr-49_20122025/",
           "type": "government"
         }
       ]
@@ -410,7 +441,7 @@
         "en": "India's #1 state for deceased organ donation with 7x national average.",
         "ta": "இறந்தவர் உறுப்பு தானத்தில் இந்தியாவின் #1 மாநிலம், தேசிய சராசரியை விட 7 மடங்கு."
       },
-      "launchYear": "2014 (Leading state)",
+      "launchYear": "2008 (TRANSTAN established)",
       "beneficiaries": {
         "count": "7,200+ organs",
         "description": {
@@ -420,7 +451,7 @@
       },
       "budget": {
         "amount": "State-funded",
-        "details": "Green corridor infrastructure"
+        "details": "Green corridor infrastructure + State Honours initiative (Sept 2022)"
       },
       "coverage": "All major hospitals with transplant facilities",
       "highlights": [
@@ -429,20 +460,25 @@
           "ta": "சிறந்த மாநில விருது - 6 தொடர் ஆண்டுகள்"
         },
         {
-          "en": "2024: 268 donors, 1,500 organs",
-          "ta": "2024: 268 தானம், 1,500 உறுப்புகள்"
+          "en": "2024: 268 donors, 1,500 organs (record)",
+          "ta": "2024: 268 தானம், 1,500 உறுப்புகள் (சாதனை)"
         },
         {
-          "en": "First state with mandatory brain death cert",
-          "ta": "கட்டாய மூளை இறப்பு சான்று முதல் மாநிலம்"
+          "en": "State Honours for deceased donors since 2022",
+          "ta": "2022 முதல் தானமளிப்பவர்களுக்கு அரசு மரியாதை"
         }
       ],
       "icon": "❤️",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
+          "title": "TRANSTAN Official Portal",
+          "url": "https://transtan.tn.gov.in/",
           "type": "government"
+        },
+        {
+          "title": "The South First - TN tops organ donations 2024",
+          "url": "https://thesouthfirst.com/tamilnadu/tamil-nadu-tops-nation-in-cadaveric-organ-donations-for-2024-earns-national-award/",
+          "type": "news"
         }
       ]
     },
@@ -486,8 +522,13 @@
       "icon": "🧠",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
+          "title": "NHM TN - State & District Mental Health Program",
+          "url": "https://www.nhm.tn.gov.in/en/node/6275",
+          "type": "government"
+        },
+        {
+          "title": "NHM TN - Self Harm Prevention",
+          "url": "https://www.nhm.tn.gov.in/en/node/6279",
           "type": "government"
         }
       ]
@@ -548,6 +589,7 @@
         "en": "371 palliative care centers providing end-of-life care and pain management.",
         "ta": "இறுதி நிலை கவனிப்பு மற்றும் வலி மேலாண்மை வழங்கும் 371 நோய்த்தணிப்பு மையங்கள்."
       },
+      "launchYear": "2006 (NPPCD pilot, expanded 2011-2020)",
       "beneficiaries": {
         "count": "371 centers",
         "description": {
@@ -576,9 +618,14 @@
       "icon": "🤲",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
+          "title": "NHM TN - National Programme for Palliative Care",
+          "url": "https://nhm.tn.gov.in/en/node/6111",
           "type": "government"
+        },
+        {
+          "title": "PMC - Status of Palliative Care in Tamil Nadu",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9699911/",
+          "type": "research"
         }
       ]
     },
@@ -592,6 +639,7 @@
         "en": "Digital healthcare consultations reaching remote populations.",
         "ta": "தொலைதூர மக்களை சென்றடையும் டிஜிட்டல் சுகாதார ஆலோசனைகள்."
       },
+      "launchYear": "April 2020 (eSanjeevani OPD rollout)",
       "beneficiaries": {
         "count": "18.5+ lakh consults",
         "description": {
@@ -1232,8 +1280,13 @@
       "icon": "❤️‍🩹",
       "sources": [
         {
-          "title": "TN Health Dept",
-          "url": "https://www.tn.gov.in/",
+          "title": "NHM TN - Heart Attack Management (Idhayam Kaapom)",
+          "url": "https://www.nhm.tn.gov.in/en/node/6270",
+          "type": "government"
+        },
+        {
+          "title": "TN Health Systems Project",
+          "url": "https://www.tnhsp.org/",
           "type": "government"
         }
       ]
@@ -1335,8 +1388,13 @@
       "icon": "🏥",
       "sources": [
         {
-          "title": "DMK 5 Years Report Card 2026",
-          "url": null,
+          "title": "Wikipedia - Kalaignar Centenary Super Specialty Hospital",
+          "url": "https://en.wikipedia.org/wiki/Kalaignar_Centenary_Super_Specialty_Hospital",
+          "type": "media"
+        },
+        {
+          "title": "KCSSH Official Website",
+          "url": "https://kcssh.org/",
           "type": "government"
         }
       ]
@@ -1382,9 +1440,14 @@
       "icon": "🤖",
       "sources": [
         {
-          "title": "DMK 5 Years Report Card 2026",
-          "url": null,
-          "type": "government"
+          "title": "ANI News - Omandurar Hospital Robotic Surgeries",
+          "url": "https://aninews.in/news/national/general-news/tamil-nadu-health-minister-hails-omandurar-hospital-on-completing-20000-cardiac-500-robotic-surgeries20251219135252/",
+          "type": "media"
+        },
+        {
+          "title": "Healthcare Radius - Robotic Surgery Milestones",
+          "url": "https://www.healthcareradius.in/",
+          "type": "media"
         }
       ]
     },
@@ -1429,9 +1492,14 @@
       "icon": "🎗️",
       "sources": [
         {
-          "title": "DMK 5 Years Report Card 2026",
-          "url": null,
-          "type": "government"
+          "title": "DT Next - Anna Memorial Cancer Centre Foundation",
+          "url": "https://www.dtnext.in/news/tamilnadu/anna-memorial-cancer-centre-foundation-stone-laid",
+          "type": "media"
+        },
+        {
+          "title": "Wikipedia - Cancer Hospitals in Tamil Nadu",
+          "url": "https://en.wikipedia.org/wiki/Cancer_Institute_(WIA)",
+          "type": "media"
         }
       ]
     },
@@ -1476,9 +1544,14 @@
       "icon": "🩺",
       "sources": [
         {
-          "title": "DMK 5 Years Report Card 2026",
-          "url": null,
-          "type": "government"
+          "title": "DT Next - Varumun Kappom Free Health Checkup",
+          "url": "https://www.dtnext.in/news/tamilnadu/varumun-kappom-scheme-free-full-body-check-up-worth-rs-25-cr-across-tn-833206",
+          "type": "media"
+        },
+        {
+          "title": "ETV Bharat - Kalaignar Varumun Kaappom",
+          "url": "https://www.etvbharat.com/en/!state/tamil-nadu",
+          "type": "media"
         }
       ]
     },
@@ -1523,8 +1596,694 @@
       "icon": "♿",
       "sources": [
         {
-          "title": "DMK 5 Years Report Card 2026",
-          "url": null,
+          "title": "Wikipedia - Government Institute of Rehabilitation Medicine Chennai",
+          "url": "https://en.wikipedia.org/wiki/Government_Institute_of_Rehabilitation_Medicine,_Chennai",
+          "type": "media"
+        },
+        {
+          "title": "TN Health Department",
+          "url": "https://tnhealth.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "padha-padhugapu",
+      "name": {
+        "en": "Padha Padhugapu (Diabetic Foot Care Program)",
+        "ta": "பாத பாதுகாப்போம் திட்டம்"
+      },
+      "description": {
+        "en": "Integrated diabetic foot care program providing screening, treatment, and surgery to prevent amputations among diabetic patients.",
+        "ta": "நீரிழிவு நோயாளிகளிடையே கால் வெட்டுதலைத் தடுக்க பரிசோதனை, சிகிச்சை மற்றும் அறுவை சிகிச்சை வழங்கும் ஒருங்கிணைந்த நீரிழிவு பாத பராமரிப்பு திட்டம்."
+      },
+      "launchYear": "October 28, 2024",
+      "beneficiaries": {
+        "count": "76.24 lakh patients screened",
+        "description": {
+          "en": "Diabetic patients across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் நீரிழிவு நோயாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2024-2026",
+        "details": "Part of NCD prevention budget"
+      },
+      "coverage": "All 38 districts through government hospitals",
+      "highlights": [
+        {
+          "en": "76.24 lakh diabetic patients foot screening",
+          "ta": "76.24 லட்சம் நீரிழிவு நோயாளிகள் பாத பரிசோதனை"
+        },
+        {
+          "en": "47,153 patients referred for treatment",
+          "ta": "47,153 நோயாளிகள் சிகிச்சைக்கு பரிந்துரைக்கப்பட்டனர்"
+        },
+        {
+          "en": "27,302 surgeries performed",
+          "ta": "27,302 அறுவை சிகிச்சைகள் நிறைவேற்றப்பட்டன"
+        }
+      ],
+      "icon": "🦶",
+      "sources": [
+        {
+          "title": "NHM Tamil Nadu - Padham Padhukaappom",
+          "url": "https://www.nhm.tn.gov.in/en/node/6322",
+          "type": "government"
+        },
+        {
+          "title": "DT Next - Tamil Nadu Foot Care Initiative",
+          "url": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-to-launch-foot-care-initiative-padham-padhukaappom-thittam-809289",
+          "type": "media"
+        },
+        {
+          "title": "The Hindu - Diabetic Foot Care Program",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "rbsk-child-health",
+      "name": {
+        "en": "Rashtriya Bal Swasthya Karyakram (RBSK)",
+        "ta": "ராஷ்ட்ரிய பால் சுவஸ்த்ய கார்யக்ரம்"
+      },
+      "description": {
+        "en": "National child health screening program for early detection and management of birth defects, diseases, deficiencies, and developmental delays.",
+        "ta": "பிறப்பு குறைபாடுகள், நோய்கள், குறைபாடுகள் மற்றும் வளர்ச்சி தாமதங்களை முன்கூட்டியே கண்டறிந்து நிர்வகிக்கும் தேசிய குழந்தை நல பரிசோதனை திட்டம்."
+      },
+      "launchYear": "2013 (Expanded 2021-2026)",
+      "beneficiaries": {
+        "count": "31.07 lakh children",
+        "description": {
+          "en": "Newborns and school children screened",
+          "ta": "பரிசோதிக்கப்பட்ட புதிதாகப் பிறந்த குழந்தைகள் மற்றும் பள்ளி குழந்தைகள்"
+        }
+      },
+      "budget": {
+        "amount": "Central + State funded",
+        "year": "2021-2026",
+        "details": "Part of National Health Mission"
+      },
+      "coverage": "All districts - schools, anganwadis, and health centres",
+      "highlights": [
+        {
+          "en": "31.07 lakh children screened for birth defects",
+          "ta": "31.07 லட்சம் குழந்தைகள் பிறப்பு குறைபாடுகளுக்கு பரிசோதிக்கப்பட்டனர்"
+        },
+        {
+          "en": "22.75 lakh newborns screened",
+          "ta": "22.75 லட்சம் புதிதாகப் பிறந்தவர்கள் பரிசோதிக்கப்பட்டனர்"
+        },
+        {
+          "en": "41,258 children treated under program",
+          "ta": "41,258 குழந்தைகளுக்கு திட்டத்தின் கீழ் சிகிச்சை"
+        }
+      ],
+      "icon": "👶",
+      "sources": [
+        {
+          "title": "NHM Tamil Nadu - RBSK",
+          "url": "https://www.nhm.tn.gov.in/en/nhm-programsrmncha/rashtriya-bal-swasthya-karyakram-rbsk",
+          "type": "government"
+        },
+        {
+          "title": "NHM India - RBSK",
+          "url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1052&lid=576",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "laqshya-quality",
+      "name": {
+        "en": "LaQshya - Labour Room Quality Improvement",
+        "ta": "லக்ஷ்யா - பிரசவ அறை தர மேம்பாடு"
+      },
+      "description": {
+        "en": "Quality improvement initiative for labour rooms and maternity operation theatres to ensure safe deliveries.",
+        "ta": "பாதுகாப்பான பிரசவங்களை உறுதி செய்ய பிரசவ அறைகள் மற்றும் மகப்பேறு அறுவை சிகிச்சை அரங்குகளுக்கான தர மேம்பாட்டு முயற்சி."
+      },
+      "launchYear": "2017 (Expanded 2021-2026)",
+      "beneficiaries": {
+        "count": "117 facilities certified",
+        "description": {
+          "en": "Government maternity facilities with quality certification",
+          "ta": "தர சான்றிதழ் பெற்ற அரசு மகப்பேறு வசதிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Part of NHM budget",
+        "year": "2021-2026",
+        "details": "Quality improvement investment"
+      },
+      "coverage": "Government hospitals and medical college hospitals",
+      "highlights": [
+        {
+          "en": "117 facilities LaQshya certified",
+          "ta": "117 வசதிகள் லக்ஷ்யா சான்றிதழ் பெற்றன"
+        },
+        {
+          "en": "Improved maternal and newborn care",
+          "ta": "மேம்படுத்தப்பட்ட தாய் மற்றும் புதிதாகப் பிறந்த குழந்தை கவனிப்பு"
+        },
+        {
+          "en": "National quality standards achieved",
+          "ta": "தேசிய தரத் தரநிலைகள் அடையப்பட்டன"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "NHM Tamil Nadu - LaQshya",
+          "url": "https://www.nhm.tn.gov.in/en/node/6117",
+          "type": "government"
+        },
+        {
+          "title": "NHM India - LaQshya Program",
+          "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=1307&lid=690",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "nqas-certification",
+      "name": {
+        "en": "NQAS - National Quality Assurance Standards",
+        "ta": "தேசிய தர உறுதி நிலையங்கள் (NQAS)"
+      },
+      "description": {
+        "en": "Quality certification program for government health facilities ensuring standardized care across all levels.",
+        "ta": "அனைத்து நிலைகளிலும் தரப்படுத்தப்பட்ட கவனிப்பை உறுதி செய்யும் அரசு சுகாதார வசதிகளுக்கான தர சான்றிதழ் திட்டம்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "1,475 facilities certified",
+        "description": {
+          "en": "Health facilities meeting national quality standards",
+          "ta": "தேசிய தரத் தரநிலைகளை பூர்த்தி செய்யும் சுகாதார வசதிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Part of NHM budget",
+        "year": "2021-2026",
+        "details": "Quality improvement infrastructure"
+      },
+      "coverage": "DHQHs, SDHs, CHCs, PHCs, UPHCs, and HSCs statewide",
+      "highlights": [
+        {
+          "en": "1,475 facilities NQAS certified (2021-2026)",
+          "ta": "1,475 வசதிகள் NQAS சான்றிதழ் பெற்றன (2021-2026)"
+        },
+        {
+          "en": "First place nationally for CHC quality (2022)",
+          "ta": "CHC தரத்தில் தேசிய அளவில் முதலிடம் (2022)"
+        },
+        {
+          "en": "Best patient safety practices award (2023)",
+          "ta": "சிறந்த நோயாளி பாதுகாப்பு நடைமுறைகள் விருது (2023)"
+        }
+      ],
+      "icon": "✅",
+      "sources": [
+        {
+          "title": "NHM Tamil Nadu - NQAS",
+          "url": "https://nhm.tn.gov.in/en/node/6115",
+          "type": "government"
+        },
+        {
+          "title": "Ministry of Health - NQAS Framework",
+          "url": "https://www.mohfw.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "mukka-child-quality",
+      "name": {
+        "en": "MuKKA - Child Health Quality Initiative",
+        "ta": "முக்கா - குழந்தை நல தர முயற்சி"
+      },
+      "description": {
+        "en": "Quality improvement initiative for child healthcare to reduce preventable deaths and improve outcomes for children under 12.",
+        "ta": "தடுக்கக்கூடிய இறப்புகளைக் குறைத்து 12 வயதுக்குட்பட்ட குழந்தைகளின் விளைவுகளை மேம்படுத்துவதற்கான குழந்தை சுகாதார தர மேம்பாட்டு முயற்சி."
+      },
+      "launchYear": "2022",
+      "beneficiaries": {
+        "count": "22 facilities nationally certified",
+        "description": {
+          "en": "Child health facilities meeting national standards",
+          "ta": "தேசிய தரநிலைகளை பூர்த்தி செய்யும் குழந்தை நல வசதிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Part of child health budget",
+        "year": "2022-2026",
+        "details": "Quality improvement for pediatric care"
+      },
+      "coverage": "Medical college hospitals and district hospitals",
+      "highlights": [
+        {
+          "en": "22 facilities nationally certified (2022-2025)",
+          "ta": "22 வசதிகள் தேசிய அளவில் சான்றிதழ் பெற்றன (2022-2025)"
+        },
+        {
+          "en": "Focus on children under 12 years",
+          "ta": "12 வயதுக்குட்பட்ட குழந்தைகள் மீது கவனம்"
+        },
+        {
+          "en": "Reduced preventable child mortality",
+          "ta": "தடுக்கக்கூடிய குழந்தை இறப்பு குறைக்கப்பட்டது"
+        }
+      ],
+      "icon": "👧",
+      "sources": [
+        {
+          "title": "NHM Tamil Nadu - Child Health Quality",
+          "url": "https://www.nhm.tn.gov.in/en/nhm-programsrmncha/child-health",
+          "type": "government"
+        },
+        {
+          "title": "TN Health Department",
+          "url": "https://tnhealth.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "finance-commission-health",
+      "name": {
+        "en": "15th Finance Commission Health Grants",
+        "ta": "15வது நிதிக் குழு சுகாதார மானியங்கள்"
+      },
+      "description": {
+        "en": "Major infrastructure expansion using 15th Finance Commission grants for health facilities across Tamil Nadu.",
+        "ta": "தமிழ்நாடு முழுவதும் சுகாதார வசதிகளுக்கான 15வது நிதிக் குழு மானியங்களைப் பயன்படுத்தி பெரிய உள்கட்டமைப்பு விரிவாக்கம்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "2,251 infrastructure projects",
+        "description": {
+          "en": "New and upgraded health facilities",
+          "ta": "புதிய மற்றும் மேம்படுத்தப்பட்ட சுகாதார வசதிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹4,236 crore",
+        "year": "2021-2026",
+        "details": "Central Finance Commission allocation"
+      },
+      "coverage": "All 38 districts - rural and urban",
+      "highlights": [
+        {
+          "en": "596 new Sub Health Centres (HSCs)",
+          "ta": "596 புதிய துணை சுகாதார நிலையங்கள்"
+        },
+        {
+          "en": "708 Urban Health Wellness Centres",
+          "ta": "708 நகர்புற சுகாதார நல்வாழ்வு மையங்கள்"
+        },
+        {
+          "en": "176 PHCs (56 upgraded + 120 new)",
+          "ta": "176 PHC கள் (56 மேம்படுத்தப்பட்டவை + 120 புதியவை)"
+        }
+      ],
+      "icon": "🏗️",
+      "sources": [
+        {
+          "title": "NHM India - 15th Finance Commission",
+          "url": "https://nhm.gov.in/index1.php?lang=1&level=1&sublinkid=1442&lid=793",
+          "type": "government"
+        },
+        {
+          "title": "Devdiscourse - 15th FC Health Grants",
+          "url": "https://www.devdiscourse.com/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "pmabhim",
+      "name": {
+        "en": "PM Ayushman Bharat Health Infrastructure Mission",
+        "ta": "பிரதமர் ஆயுஷ்மான் பாரத் சுகாதார உள்கட்டமைப்பு திட்டம்"
+      },
+      "description": {
+        "en": "Central government health infrastructure mission for strengthening primary, secondary, and tertiary care facilities.",
+        "ta": "முதன்மை, இரண்டாம் நிலை மற்றும் மூன்றாம் நிலை பராமரிப்பு வசதிகளை வலுப்படுத்துவதற்கான மத்திய அரசு சுகாதார உள்கட்டமைப்பு திட்டம்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "Multiple districts",
+        "description": {
+          "en": "Healthcare infrastructure across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் சுகாதார உள்கட்டமைப்பு"
+        }
+      },
+      "budget": {
+        "amount": "₹3,001.29 crore",
+        "year": "2021-2026",
+        "details": "Central + State share"
+      },
+      "coverage": "Primary, secondary, and tertiary care facilities statewide",
+      "highlights": [
+        {
+          "en": "₹3,001.29 crore total allocation",
+          "ta": "₹3,001.29 கோடி மொத்த ஒதுக்கீடு"
+        },
+        {
+          "en": "Maternal and child health block upgrades",
+          "ta": "தாய் மற்றும் குழந்தை நல தொகுதி மேம்பாடுகள்"
+        },
+        {
+          "en": "District hospital modernization",
+          "ta": "மாவட்ட மருத்துவமனை நவீனமயமாக்கல்"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "Ministry of Health - PM-ABHIM",
+          "url": "https://www.mohfw.gov.in/?q=en/Major-Programmes/basicpage-22",
+          "type": "government"
+        },
+        {
+          "title": "PIB - PM-ABHIM Launch",
+          "url": "https://pib.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "abhwc-wellness-centres",
+      "name": {
+        "en": "Ayushman Bharat Health & Wellness Centres",
+        "ta": "ஆயுஷ்மான் பாரத் சுகாதார நல்வாழ்வு மையங்கள்"
+      },
+      "description": {
+        "en": "Transformation of Sub Health Centres and PHCs into Health & Wellness Centres providing 12 types of comprehensive primary healthcare services.",
+        "ta": "துணை சுகாதார நிலையங்கள் மற்றும் PHC களை 12 வகையான விரிவான முதன்மை சுகாதார சேவைகளை வழங்கும் சுகாதார நல்வாழ்வு மையங்களாக மாற்றுதல்."
+      },
+      "launchYear": "2018 (Expanded 2021-2026)",
+      "beneficiaries": {
+        "count": "52.35 crore services",
+        "description": {
+          "en": "Comprehensive primary healthcare beneficiaries",
+          "ta": "விரிவான முதன்மை சுகாதாரப் பயனாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "Part of NHM budget",
+        "year": "2021-2026",
+        "details": "Facility conversion and operations"
+      },
+      "coverage": "8,099 facilities converted statewide",
+      "highlights": [
+        {
+          "en": "8,099 health facilities converted to HWCs",
+          "ta": "8,099 சுகாதார வசதிகள் HWC களாக மாற்றப்பட்டன"
+        },
+        {
+          "en": "12 types of essential health services",
+          "ta": "12 வகையான அத்தியாவசிய சுகாதார சேவைகள்"
+        },
+        {
+          "en": "52.35 crore beneficiaries served",
+          "ta": "52.35 கோடி பயனாளிகளுக்கு சேவை"
+        }
+      ],
+      "icon": "🏠",
+      "sources": [
+        {
+          "title": "AB-HWC National Portal",
+          "url": "https://ab-hwc.nhp.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "NHM Tamil Nadu - HWC",
+          "url": "https://www.nhm.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "mobile-medical-units",
+      "name": {
+        "en": "Mobile Medical Units (MMU)",
+        "ta": "நடமாடும் மருத்துவ அலகுகள்"
+      },
+      "description": {
+        "en": "Mobile medical vehicles providing healthcare services to remote and underserved villages across Tamil Nadu.",
+        "ta": "தமிழ்நாடு முழுவதும் தொலைதூர மற்றும் சேவை குறைவான கிராமங்களுக்கு சுகாதார சேவைகளை வழங்கும் நடமாடும் மருத்துவ வாகனங்கள்."
+      },
+      "launchYear": "2007 (Expanded 2021-2026)",
+      "beneficiaries": {
+        "count": "8.42 crore people",
+        "description": {
+          "en": "Remote village residents served",
+          "ta": "சேவை செய்யப்பட்ட தொலைதூர கிராம மக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹70.02 crore",
+        "year": "2021-2026",
+        "details": "389 new MMU vehicles"
+      },
+      "coverage": "Remote villages across all 38 districts",
+      "highlights": [
+        {
+          "en": "396 Mobile Medical Units operational",
+          "ta": "396 நடமாடும் மருத்துவ அலகுகள் செயல்பாட்டில்"
+        },
+        {
+          "en": "9.86 lakh health camps conducted",
+          "ta": "9.86 லட்சம் சுகாதார முகாம்கள் நடத்தப்பட்டன"
+        },
+        {
+          "en": "8.42 crore beneficiaries served",
+          "ta": "8.42 கோடி பயனாளிகளுக்கு சேவை"
+        }
+      ],
+      "icon": "🚐",
+      "sources": [
+        {
+          "title": "NHM Tamil Nadu - Mobile Medical Units",
+          "url": "https://www.nhm.tn.gov.in/en/r-c-h/mobile-medical-units-mmu",
+          "type": "government"
+        },
+        {
+          "title": "TN Health Department",
+          "url": "https://tnhealth.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "tnimhans",
+      "name": {
+        "en": "Tamil Nadu Institute of Mental Health and Neuroscience",
+        "ta": "தமிழ்நாடு மனநல மற்றும் நரம்பியல் நிறுவனம்"
+      },
+      "description": {
+        "en": "State-of-the-art mental health and neuroscience institute being established for comprehensive psychiatric care.",
+        "ta": "விரிவான மனநல சிகிச்சைக்காக நிறுவப்படும் நவீன மனநல மற்றும் நரம்பியல் நிறுவனம்."
+      },
+      "launchYear": "Under construction (2024-2026)",
+      "beneficiaries": {
+        "count": "Mental health patients statewide",
+        "description": {
+          "en": "Psychiatric and neurological care seekers",
+          "ta": "மனநல மற்றும் நரம்பியல் சிகிச்சை நாடுபவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹40 crore",
+        "year": "2024-2026",
+        "details": "New institute construction"
+      },
+      "coverage": "Chennai (state referral facility)",
+      "highlights": [
+        {
+          "en": "First dedicated mental health institute in TN",
+          "ta": "தமிழ்நாட்டின் முதல் அர்ப்பணிக்கப்பட்ட மனநல நிறுவனம்"
+        },
+        {
+          "en": "Modern psychiatric infrastructure",
+          "ta": "நவீன மனநல உள்கட்டமைப்பு"
+        },
+        {
+          "en": "Integrated neuroscience services",
+          "ta": "ஒருங்கிணைந்த நரம்பியல் சேவைகள்"
+        }
+      ],
+      "icon": "🧠",
+      "sources": [
+        {
+          "title": "The News Minute - TNIMHANS Upgrade",
+          "url": "https://www.thenewsminute.com/article/tn-budget-2022-kilpauk-mental-health-institute-be-upgraded-tnimhans-162044",
+          "type": "media"
+        },
+        {
+          "title": "DT Next - TNIMHANS Announcement",
+          "url": "https://www.dtnext.in/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "tele-manas",
+      "name": {
+        "en": "Tele-MANAS Mental Health Helpline",
+        "ta": "டெலி-மனஸ் மனநல உதவி எண்"
+      },
+      "description": {
+        "en": "24/7 toll-free mental health counseling helpline (14416) providing professional support for mental health concerns.",
+        "ta": "மனநல கவலைகளுக்கு தொழில்முறை ஆதரவை வழங்கும் 24/7 கட்டணமில்லா மனநல ஆலோசனை உதவி எண் (14416)."
+      },
+      "launchYear": "October 2022",
+      "beneficiaries": {
+        "count": "4.13 lakh calls handled",
+        "description": {
+          "en": "Individuals seeking mental health support",
+          "ta": "மனநல ஆதரவை நாடும் தனிநபர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹90 crore (NTMHP national allocation FY24-25)",
+        "year": "2022-2026",
+        "details": "Two operational centres in TN; ₹230 crore NTMHP total (3 years)"
+      },
+      "coverage": "Statewide via helpline 14416",
+      "highlights": [
+        {
+          "en": "4.13 lakh calls responded to",
+          "ta": "4.13 லட்சம் அழைப்புகளுக்கு பதிலளிக்கப்பட்டது"
+        },
+        {
+          "en": "24/7 toll-free service (14416)",
+          "ta": "24/7 கட்டணமில்லா சேவை (14416)"
+        },
+        {
+          "en": "Professional counselors and psychiatrists",
+          "ta": "தொழில்முறை ஆலோசகர்கள் மற்றும் மனநல மருத்துவர்கள்"
+        }
+      ],
+      "icon": "📞",
+      "sources": [
+        {
+          "title": "Tele-MANAS Official Portal",
+          "url": "https://telemanas.mohfw.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "NHM Tamil Nadu - Tele-MANAS",
+          "url": "https://www.nhm.tn.gov.in/en/node/6277",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "indian-medicine-expansion",
+      "name": {
+        "en": "Indian Medicine & Homeopathy Expansion",
+        "ta": "இந்திய மருத்துவம் மற்றும் ஓமியோபதி விரிவாக்கம்"
+      },
+      "description": {
+        "en": "Expansion and modernization of Siddha, Ayurveda, and Homeopathy healthcare facilities across Tamil Nadu.",
+        "ta": "தமிழ்நாடு முழுவதும் சித்த, ஆயுர்வேத மற்றும் ஓமியோபதி சுகாதார வசதிகளின் விரிவாக்கம் மற்றும் நவீனமயமாக்கல்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "Multiple facilities upgraded",
+        "description": {
+          "en": "Traditional medicine seekers statewide",
+          "ta": "மாநிலம் முழுவதும் பாரம்பரிய மருத்துவம் நாடுபவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹32 crore (facilities) + ₹12.98 crore (Ayush upgrades)",
+        "year": "2021-2026",
+        "details": "110 facilities upgraded"
+      },
+      "coverage": "110 facilities upgraded to Ayush Health Wellness Centres",
+      "highlights": [
+        {
+          "en": "110 Siddha facilities upgraded",
+          "ta": "110 சித்த வசதிகள் மேம்படுத்தப்பட்டன"
+        },
+        {
+          "en": "30 facilities with OPD upgrades",
+          "ta": "30 வசதிகள் OPD மேம்பாடுகளுடன்"
+        },
+        {
+          "en": "Traditional medicine practitioner honorarium increased",
+          "ta": "பாரம்பரிய மருத்துவ நிபுணர் மரியாதைத் தொகை அதிகரிப்பு"
+        }
+      ],
+      "icon": "🌿",
+      "sources": [
+        {
+          "title": "TN Indian Medicine & Homeopathy Department",
+          "url": "https://www.tnhealth.org/imh/",
+          "type": "government"
+        },
+        {
+          "title": "Ministry of AYUSH",
+          "url": "https://main.ayush.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "madurai-drug-testing",
+      "name": {
+        "en": "Madurai Drug Testing Laboratory",
+        "ta": "மதுரை மருந்து சோதனை ஆய்வகம்"
+      },
+      "description": {
+        "en": "World-class drug testing laboratory established in Madurai for quality control of pharmaceutical products.",
+        "ta": "மருந்துப் பொருட்களின் தரக் கட்டுப்பாட்டிற்காக மதுரையில் நிறுவப்பட்ட உலகத் தரம் வாய்ந்த மருந்து சோதனை ஆய்வகம்."
+      },
+      "launchYear": "August 27, 2022",
+      "beneficiaries": {
+        "count": "Pharmaceutical quality assurance",
+        "description": {
+          "en": "Drug manufacturers and consumers",
+          "ta": "மருந்து உற்பத்தியாளர்கள் மற்றும் நுகர்வோர்"
+        }
+      },
+      "budget": {
+        "amount": "₹20 crore",
+        "year": "2022",
+        "details": "World-class laboratory infrastructure"
+      },
+      "coverage": "Serves southern Tamil Nadu",
+      "highlights": [
+        {
+          "en": "World-class drug testing facility",
+          "ta": "உலகத் தரம் வாய்ந்த மருந்து சோதனை வசதி"
+        },
+        {
+          "en": "Inaugurated by CM on 27.08.2022",
+          "ta": "27.08.2022 அன்று முதலமைச்சரால் திறக்கப்பட்டது"
+        },
+        {
+          "en": "Quality control for pharmaceutical products",
+          "ta": "மருந்துப் பொருட்களுக்கான தரக் கட்டுப்பாடு"
+        }
+      ],
+      "icon": "🔬",
+      "sources": [
+        {
+          "title": "TN Health Department - Drug Testing",
+          "url": "https://tnhealth.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "TN Drugs Control Administration",
+          "url": "https://www.drugs.tn.gov.in/",
           "type": "government"
         }
       ]
