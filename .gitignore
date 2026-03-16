@@ -21,3 +21,6 @@ package-lock.json
 # Python
 __pycache__/
 *.pyc
+
+# Large data files
+data/*.pdf
