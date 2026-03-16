@@ -12,6 +12,7 @@
         "en": "Comprehensive crop insurance protecting farmers against natural calamities and crop loss.",
         "ta": "இயற்கை பேரழிவுகள் மற்றும் பயிர் இழப்புக்கு எதிராக விவசாயிகளை பாதுகாக்கும் விரிவான பயிர் காப்பீடு."
       },
+      "launchYear": "Kharif 2016 (PMFBY in TN)",
       "beneficiaries": {
         "count": "Lakhs of farmers",
         "description": {
@@ -45,6 +46,7 @@
         "en": "Continuation of free electricity for agricultural pumpsets across Tamil Nadu.",
         "ta": "தமிழ்நாடு முழுவதும் விவசாய பம்ப்செட்களுக்கு இலவச மின்சாரத்தின் தொடர்ச்சி."
       },
+      "launchYear": "1984 (MGR), expanded 1990 (DMK)",
       "beneficiaries": {
         "count": "21+ lakh farmers",
         "description": {
@@ -77,6 +79,7 @@
         "en": "Direct farmer-to-consumer markets eliminating middlemen for better prices.",
         "ta": "சிறந்த விலைகளுக்காக இடைத்தரகர்களை அகற்றும் நேரடி விவசாயி-நுகர்வோர் சந்தைகள்."
       },
+      "launchYear": "November 14, 1999 (Madurai)",
       "beneficiaries": {
         "count": "179 markets",
         "description": {
@@ -109,6 +112,7 @@
         "en": "Promoting organic farming practices with certification support and market linkages.",
         "ta": "சான்றிதழ் ஆதரவு மற்றும் சந்தை இணைப்புகளுடன் இயற்கை வேளாண்மை நடைமுறைகளை ஊக்குவித்தல்."
       },
+      "launchYear": "2023 (TN Organic Farming Policy)",
       "beneficiaries": {
         "count": "Thousands of farmers",
         "description": {
@@ -141,6 +145,7 @@
         "en": "Subsidies for drip and sprinkler irrigation systems to conserve water.",
         "ta": "நீரை சேமிக்க சொட்டு மற்றும் தெளிப்பான் நீர்ப்பாசன அமைப்புகளுக்கான மானியங்கள்."
       },
+      "launchYear": "2015-16 (PMKSY in TN)",
       "beneficiaries": {
         "count": "Lakhs of farmers",
         "description": {
@@ -174,6 +179,7 @@
         "en": "Subsidized fertilizers and quality seeds distribution through cooperative societies.",
         "ta": "கூட்டுறவு சங்கங்கள் மூலம் மானிய உரங்கள் மற்றும் தரமான விதைகள் விநியோகம்."
       },
+      "launchYear": "Ongoing (State + Central schemes)",
       "beneficiaries": {
         "count": "All farmers",
         "description": {
@@ -206,6 +212,7 @@
         "en": "Promoting fruits, vegetables, flowers, and spices cultivation with technical support.",
         "ta": "தொழில்நுட்ப ஆதரவுடன் பழங்கள், காய்கறிகள், பூக்கள் மற்றும் மசாலா பொருட்கள் சாகுபடியை ஊக்குவித்தல்."
       },
+      "launchYear": "2005-06 (NHM in TN)",
       "beneficiaries": {
         "count": "Horticulture farmers",
         "description": {
@@ -238,6 +245,7 @@
         "en": "Support for marine and inland fisheries including aquaculture promotion.",
         "ta": "நீர்வாழ் வேளாண்மை ஊக்குவிப்பு உட்பட கடல் மற்றும் உள்நாட்டு மீன்வளர்ப்புக்கான ஆதரவு."
       },
+      "launchYear": "2015-16 (Blue Revolution in TN)",
       "beneficiaries": {
         "count": "10+ lakh fishermen",
         "description": {
@@ -270,6 +278,7 @@
         "en": "Support for dairy farming, veterinary services, and livestock insurance.",
         "ta": "பால் பண்ணை, கால்நடை மருத்துவ சேவைகள் மற்றும் கால்நடை காப்பீட்டுக்கான ஆதரவு."
       },
+      "launchYear": "1981 (TCMPF/Aavin established)",
       "beneficiaries": {
         "count": "Lakhs of farmers",
         "description": {
@@ -303,6 +312,7 @@
         "en": "Subsidies for tractors, harvesters, and modern agricultural equipment.",
         "ta": "டிராக்டர்கள், அறுவடை இயந்திரங்கள் மற்றும் நவீன விவசாய உபகரணங்களுக்கான மானியங்கள்."
       },
+      "launchYear": "2014-15 (SMAM in TN)",
       "beneficiaries": {
         "count": "Thousands annually",
         "description": {
@@ -335,7 +345,7 @@
         "en": "Six-decade old dream project diverting 1.5 TMC surplus water from Bhavani River to rejuvenate 1,045 water bodies and irrigate 24,468 acres across Erode, Tiruppur and Coimbatore districts.",
         "ta": "பவானி ஆற்றின் 1.5 TMC உபரி நீரை திருப்பி ஈரோடு, திருப்பூர், கோயம்புத்தூர் மாவட்டங்களில் 1,045 நீர்நிலைகளை புத்துயிர் பெறச்செய்து 24,468 ஏக்கர் நிலத்திற்கு பாசனம் செய்யும் 67 ஆண்டுகால கனவு திட்டம்."
       },
-      "launchDate": "August 17, 2024",
+      "launchYear": "August 17, 2024",
       "beneficiaries": {
         "count": "24,468 acres",
         "description": {
@@ -354,7 +364,8 @@
       ],
       "icon": "🌊",
       "sources": [
-        { "title": "Deccan Chronicle", "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tamil-nadu-cm-stalin-launches-athikadavu-avinashi-irrigation-scheme-1817168", "type": "media" }
+        { "title": "Deccan Chronicle", "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tamil-nadu-cm-stalin-launches-athikadavu-avinashi-irrigation-scheme-1817168", "type": "media" },
+        { "title": "Erode District Official", "url": "https://erode.nic.in/honble-chief-minister-of-tamil-nadu-inaugurated-athikadavu-avinashi-scheme-water-project/", "type": "government" }
       ]
     },
     {
@@ -367,6 +378,7 @@
         "en": "Revolutionary scheme enabling farmers to receive crop loans on the same day through online applications at Primary Agricultural Cooperative Credit Societies (PACS), eliminating the need for multiple visits and paperwork delays.",
         "ta": "முதன்மை வேளாண்மை கூட்டுறவு கடன் சங்கங்களில் (PACS) ஆன்லைன் விண்ணப்பம் மூலம் விவசாயிகள் அன்றே பயிர்க்கடன் பெற உதவும் புரட்சிகரத் திட்டம்."
       },
+      "launchYear": "August 17, 2025 (pilot Dharmapuri)",
       "beneficiaries": {
         "count": "Lakhs of farmers",
         "description": {
@@ -401,6 +413,7 @@
         "en": "Comprehensive soil health scheme promoting sustainable, chemical-free agriculture through green manure seeds distribution, vermicompost support, and eco-friendly farming practices to improve soil fertility across Tamil Nadu.",
         "ta": "பசுந்தாள் உர விதைகள் விநியோகம், மண்புழு உரம் ஆதரவு மற்றும் சுற்றுச்சூழல் நட்பு விவசாய நடைமுறைகள் மூலம் நிலையான, இரசாயனமில்லா வேளாண்மையை ஊக்குவிக்கும் விரிவான மண் ஆரோக்கிய திட்டம்."
       },
+      "launchYear": "June 12, 2024",
       "beneficiaries": {
         "count": "2 lakh farmers (Phase 1)",
         "description": {
@@ -436,6 +449,7 @@
         "en": "Multi-pronged campaign to ensure nutritional security while increasing farmers' income through distribution of vegetable seeds, fruit plants, and promotion of pulses cultivation across Tamil Nadu.",
         "ta": "காய்கறி விதைகள், பழச்செடிகள் விநியோகம் மற்றும் பருப்பு வகை சாகுபடி ஊக்குவிப்பு மூலம் விவசாயிகளின் வருமானத்தை அதிகரிக்கும் அதே வேளையில் ஊட்டச்சத்து பாதுகாப்பை உறுதி செய்யும் பல்முனை இயக்கம்."
       },
+      "launchYear": "2025-26",
       "beneficiaries": {
         "count": "24+ lakh families",
         "description": {
@@ -470,6 +484,7 @@
         "en": "Asia's largest integrated livestock research facility spanning 1,102 acres near Thalaivasal, Salem, featuring 12+ indigenous livestock breeds, model farm units, fisheries demo units, forage zones, and training facilities to drive innovation in animal production.",
         "ta": "சேலம் தலைவாசல் அருகே 1,102 ஏக்கரில் பரந்துள்ள ஆசியாவின் மிகப்பெரிய ஒருங்கிணைந்த கால்நடை ஆராய்ச்சி வளாகம், 12+ உள்நாட்டு கால்நடை இனங்கள், மாதிரி பண்ணை அலகுகள், மீன்வளர்ப்பு ஆர்ப்பாட்ட அலகுகள், தீவன மண்டலங்கள் மற்றும் பயிற்சி வசதிகள் கொண்டது."
       },
+      "launchYear": "January 13, 2025",
       "beneficiaries": {
         "count": "Farmers and researchers statewide",
         "description": {
@@ -505,6 +520,7 @@
         "en": "Strategic agro-industrial corridor in the Protected Special Agriculture Zone of Cauvery delta, promoting agro-processing industries while preserving agricultural land and supporting farmer livelihoods across five delta districts.",
         "ta": "காவேரி டெல்டாவின் பாதுகாக்கப்பட்ட சிறப்பு வேளாண் மண்டலத்தில் மூலோபாய வேளாண்-தொழில் வழித்தடம், விவசாய நிலத்தை பாதுகாத்து ஐந்து டெல்டா மாவட்டங்களில் விவசாயிகளின் வாழ்வாதாரத்தை ஆதரிக்கும் வேளாண் பதப்படுத்தும் தொழில்களை ஊக்குவிக்கிறது."
       },
+      "launchYear": "2024 (announced)",
       "beneficiaries": {
         "count": "Delta region farmers",
         "description": {
@@ -539,6 +555,7 @@
         "en": "Annual special support package for Kuruvai paddy cultivation in Cauvery Delta districts, providing subsidized inputs including seeds, fertilizers, and mechanization support to reduce farming costs and boost yields.",
         "ta": "காவேரி டெல்டா மாவட்டங்களில் குறுவை நெல் சாகுபடிக்கான வருடாந்திர சிறப்பு ஆதரவு தொகுப்பு, விவசாய செலவைக் குறைத்து விளைச்சலை அதிகரிக்க மானிய விதைகள், உரங்கள் மற்றும் இயந்திரமயமாக்கல் ஆதரவு வழங்குகிறது."
       },
+      "launchYear": "Annual (2024-25 season)",
       "beneficiaries": {
         "count": "Delta farmers (5.6 lakh acres in 2024)",
         "description": {
@@ -573,6 +590,7 @@
         "en": "One-stop solution center for oil palm farmers providing comprehensive knowledge, inputs, tools, services, and expert guidance to maximize yields, established through public-private partnership in Thanjavur.",
         "ta": "தஞ்சாவூரில் பொது-தனியார் கூட்டாண்மை மூலம் நிறுவப்பட்ட, எண்ணெய் பனை விவசாயிகளுக்கு விரிவான அறிவு, உள்ளீடுகள், கருவிகள், சேவைகள் மற்றும் நிபுணர் வழிகாட்டுதல் வழங்கும் ஒருங்கிணைந்த தீர்வு மையம்."
       },
+      "launchYear": "July 2024",
       "beneficiaries": {
         "count": "2,000 hectares of oil palm farmers",
         "description": {
@@ -606,6 +624,7 @@
         "en": "Government scheme providing tractors, rotary tillers, and rotavators at low rental rates to farmers, along with skill development training for rural youth in operating agricultural machinery.",
         "ta": "விவசாயிகளுக்கு குறைந்த வாடகையில் டிராக்டர்கள், ரோட்டரி டில்லர்கள் மற்றும் ரோட்டவேட்டர்கள் வழங்கும் அரசு திட்டம், கிராமப்புற இளைஞர்களுக்கு விவசாய இயந்திரங்களை இயக்கும் திறன் மேம்பாட்டு பயிற்சியுடன்."
       },
+      "launchYear": "2024-25",
       "beneficiaries": {
         "count": "Farmers + 500 rural youth annually",
         "description": {
@@ -640,6 +659,7 @@
         "en": "Rs 100.85 crore infrastructure projects by Tamil Nadu Milk Producers' Cooperative Federation (Aavin) including milk chilling centres, processing units, storage facilities, and distribution infrastructure upgrades.",
         "ta": "தமிழ்நாடு பால் உற்பத்தியாளர் கூட்டுறவு கூட்டமைப்பின் (ஆவின்) ரூ.100.85 கோடி உள்கட்டமைப்பு திட்டங்கள் - பால் குளிர்விப்பு மையங்கள், பதப்படுத்தும் அலகுகள், சேமிப்பு வசதிகள் மற்றும் விநியோக உள்கட்டமைப்பு மேம்பாடுகள்."
       },
+      "launchYear": "February 2026",
       "beneficiaries": {
         "count": "Milk producers and consumers statewide",
         "description": {
@@ -673,6 +693,7 @@
         "en": "State-wide campaign to boost grain production through subsidized seeds, inputs, and technical support to farmers.",
         "ta": "மானிய விதைகள், உள்ளீடுகள் மற்றும் தொழில்நுட்ப ஆதரவு மூலம் தானிய உற்பத்தியை அதிகரிக்கும் மாநில அளவிலான இயக்கம்."
       },
+      "launchYear": "2021-2026",
       "beneficiaries": {
         "count": "12.83 lakh farmers",
         "description": {
@@ -691,7 +712,8 @@
       ],
       "icon": "🌾",
       "sources": [
-        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+        { "title": "TN Agriculture Department", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" },
+        { "title": "Krishi Jagran - TN Agriculture Budget", "url": "https://krishijagran.com/news/tamil-nadu-launches-agriculture-budget-2024-25-prioritizing-sustainability-and-rural-development", "type": "media" }
       ]
     },
     {
@@ -704,6 +726,7 @@
         "en": "Scheme to increase oilseed production and reduce import dependence through farmer support and subsidies.",
         "ta": "விவசாயி ஆதரவு மற்றும் மானியங்கள் மூலம் எண்ணெய் வித்து உற்பத்தியை அதிகரித்து இறக்குமதி சார்பை குறைக்கும் திட்டம்."
       },
+      "launchYear": "2021-2026",
       "beneficiaries": {
         "count": "7.51 lakh farmers",
         "description": {
@@ -722,7 +745,8 @@
       ],
       "icon": "🥜",
       "sources": [
-        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+        { "title": "TN Agriculture Department - Oilseed Schemes", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" },
+        { "title": "Deccan Herald - TN Agriculture Budget 2024", "url": "https://www.deccanherald.com/amp/story/india/tamil-nadu/tamil-nadu-agriculture-budget-2024-focuses-on-sustainable-chemical-free-practices-2902514", "type": "media" }
       ]
     },
     {
@@ -735,6 +759,7 @@
         "en": "Comprehensive scheme to improve rainfed agricultural lands through soil conservation, water harvesting, and sustainable practices.",
         "ta": "மண் பாதுகாப்பு, நீர் சேகரிப்பு மற்றும் நிலையான நடைமுறைகள் மூலம் மானாவாரி விவசாய நிலங்களை மேம்படுத்தும் விரிவான திட்டம்."
       },
+      "launchYear": "2021-2026",
       "beneficiaries": {
         "count": "11.80 lakh farmers",
         "description": {
@@ -753,7 +778,8 @@
       ],
       "icon": "🌧️",
       "sources": [
-        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+        { "title": "TN Agriculture Department - Rainfed Schemes", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" },
+        { "title": "TNAU - Rainfed Agriculture", "url": "https://agritech.tnau.ac.in/", "type": "government" }
       ]
     },
     {
@@ -766,6 +792,7 @@
         "en": "Scheme promoting green manure cultivation to improve soil fertility and reduce chemical fertilizer dependence.",
         "ta": "மண் வளத்தை மேம்படுத்தி இரசாயன உர சார்பை குறைக்க பசுந்தாள் சாகுபடியை ஊக்குவிக்கும் திட்டம்."
       },
+      "launchYear": "2021-2026",
       "beneficiaries": {
         "count": "15.91 lakh farmers",
         "description": {
@@ -784,7 +811,8 @@
       ],
       "icon": "🌿",
       "sources": [
-        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+        { "title": "TN Agriculture Department - Green Manure", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" },
+        { "title": "GK Today - Mannuyir Kaathu Scheme", "url": "https://www.gktoday.in/chief-minister-stalin-launches-soil-health-scheme-in-tamil-nadu/", "type": "media" }
       ]
     },
     {
@@ -797,6 +825,7 @@
         "en": "Targeted scheme to enhance production of special crops including millets, pulses, and traditional varieties.",
         "ta": "சிறுதானியங்கள், பருப்பு வகைகள் மற்றும் பாரம்பரிய வகைகள் உள்ளிட்ட சிறப்பு பயிர்களின் உற்பத்தியை மேம்படுத்தும் இலக்கு திட்டம்."
       },
+      "launchYear": "2021-2026",
       "beneficiaries": {
         "count": "59.67 lakh beneficiaries",
         "description": {
@@ -815,7 +844,8 @@
       ],
       "icon": "🌱",
       "sources": [
-        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+        { "title": "TN Agriculture Department - Special Crops", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" },
+        { "title": "Deccan Herald - TN Millet Focus", "url": "https://www.deccanherald.com/amp/story/india/tamil-nadu/tamil-nadu-agriculture-budget-2024-focuses-on-sustainable-chemical-free-practices-2902514", "type": "media" }
       ]
     },
     {
@@ -828,6 +858,7 @@
         "en": "Comprehensive integrated farming approach combining crops, livestock, and allied activities for sustainable farmer income.",
         "ta": "நிலையான விவசாயி வருமானத்திற்கு பயிர்கள், கால்நடைகள் மற்றும் தொடர்புடைய நடவடிக்கைகளை இணைக்கும் விரிவான ஒருங்கிணைந்த விவசாய அணுகுமுறை."
       },
+      "launchYear": "2021-2026",
       "beneficiaries": {
         "count": "2.32 lakh farmers",
         "description": {
@@ -846,7 +877,8 @@
       ],
       "icon": "🏡",
       "sources": [
-        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+        { "title": "TN Agriculture Department - Integrated Farming", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" },
+        { "title": "Krishi Jagran - TN Integrated Agriculture", "url": "https://krishijagran.com/news/tamil-nadu-launches-agriculture-budget-2024-25-prioritizing-sustainability-and-rural-development", "type": "media" }
       ]
     },
     {
@@ -859,6 +891,7 @@
         "en": "Relief scheme providing compensation to farmers affected by natural disasters including floods, droughts, and cyclones.",
         "ta": "வெள்ளம், வறட்சி மற்றும் புயல் உள்ளிட்ட இயற்கை பேரிடர்களால் பாதிக்கப்பட்ட விவசாயிகளுக்கு இழப்பீடு வழங்கும் நிவாரண திட்டம்."
       },
+      "launchYear": "2021-2026",
       "beneficiaries": {
         "count": "33.84 lakh farmers",
         "description": {
@@ -877,7 +910,8 @@
       ],
       "icon": "🌪️",
       "sources": [
-        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+        { "title": "TN State Disaster Management Authority", "url": "https://www.tnsdma.tn.gov.in/", "type": "government" },
+        { "title": "TN Agriculture Department - Disaster Relief", "url": "https://www.tn.gov.in/scheme/department_wise/2", "type": "government" }
       ]
     }
   ],
