@@ -66,15 +66,15 @@
       },
       "launchYear": "August 5, 2021",
       "beneficiaries": {
-        "count": "2+ crore people",
+        "count": "2.59 crore people",
         "description": {
-          "en": "Adults 30+ screened",
-          "ta": "30+ வயது பெரியவர்கள்"
+          "en": "Adults 30+ screened for NCDs",
+          "ta": "30+ வயது பெரியவர்கள் NCD பரிசோதனை"
         }
       },
       "budget": {
-        "amount": "₹243 crore",
-        "year": "2024-25",
+        "amount": "₹799.56 crore",
+        "year": "2021-2026 (5-year total)",
         "details": "Initial: ₹258 crore (2021)"
       },
       "coverage": "385 rural blocks, 21 corporations, all districts",
@@ -1293,6 +1293,241 @@
           "type": "government"
         }
       ]
+    },
+    {
+      "id": "kcssh-madurai",
+      "name": {
+        "en": "Kalaignar Centenary Super Specialty Hospital (KCSSH)",
+        "ta": "கலைஞர் நூற்றாண்டு உயர்சிறப்பு மருத்துவமனை"
+      },
+      "description": {
+        "en": "1,000-bed super specialty hospital in Madurai with 15 operation theaters providing advanced tertiary care.",
+        "ta": "மதுரையில் 1,000 படுக்கைகள், 15 அறுவை சிகிச்சை அரங்குகளுடன் மேம்பட்ட மூன்றாம் நிலை சிகிச்சை வழங்கும் உயர்சிறப்பு மருத்துவமனை."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "10.92 lakh patients",
+        "description": {
+          "en": "8.11 lakh outpatient + 2.80 lakh inpatient",
+          "ta": "8.11 லட்சம் வெளிநோயாளி + 2.80 லட்சம் உள்நோயாளி"
+        }
+      },
+      "budget": {
+        "amount": "₹240 crore",
+        "year": "2021-2026",
+        "details": "Super specialty tertiary care facility"
+      },
+      "coverage": "Madurai and southern Tamil Nadu",
+      "highlights": [
+        {
+          "en": "1,000 beds with 15 operation theaters",
+          "ta": "1,000 படுக்கைகள், 15 அறுவை சிகிச்சை அரங்குகள்"
+        },
+        {
+          "en": "Advanced tertiary care services",
+          "ta": "மேம்பட்ட மூன்றாம் நிலை சிகிச்சை சேவைகள்"
+        },
+        {
+          "en": "Named after CM Karunanidhi's centenary",
+          "ta": "கலைஞர் கருணாநிதியின் நூற்றாண்டு நினைவாக"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": null,
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "omandurar-robotic-surgery",
+      "name": {
+        "en": "Government Omandurar Robotic Surgery Centre",
+        "ta": "அரசு ஓமந்தூரார் ரோபோடிக் அறுவை சிகிச்சை மையம்"
+      },
+      "description": {
+        "en": "First government robotic surgery facility in Tamil Nadu at Omandurar Multi Super Specialty Hospital.",
+        "ta": "தமிழ்நாட்டின் முதல் அரசு ரோபோடிக் அறுவை சிகிச்சை வசதி ஓமந்தூரார் பன்னோக்கு உயர்சிறப்பு மருத்துவமனையில்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "461 surgeries",
+        "description": {
+          "en": "79 GI + 190 cancer + 66 cardiac + 110 vascular + 15 chest surgeries",
+          "ta": "79 GI + 190 புற்றுநோய் + 66 இதய + 110 இரத்தக்குழாய் + 15 மார்பு அறுவை சிகிச்சைகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹34.6 crore",
+        "year": "2021-2026",
+        "details": "Robotic surgery system investment"
+      },
+      "coverage": "Chennai - Omandurar Hospital",
+      "highlights": [
+        {
+          "en": "First government robotic surgery in Tamil Nadu",
+          "ta": "தமிழ்நாட்டின் முதல் அரசு ரோபோடிக் அறுவை சிகிச்சை"
+        },
+        {
+          "en": "461 successful robotic surgeries performed",
+          "ta": "461 வெற்றிகரமான ரோபோடிக் அறுவை சிகிச்சைகள்"
+        },
+        {
+          "en": "Covers GI, cancer, cardiac, vascular procedures",
+          "ta": "GI, புற்றுநோய், இதய, இரத்தக்குழாய் செயல்முறைகள்"
+        }
+      ],
+      "icon": "🤖",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": null,
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "anna-cancer-centre-kancheepuram",
+      "name": {
+        "en": "Anna Memorial Cancer Centre, Kancheepuram",
+        "ta": "அண்ணா நினைவு புற்றுநோய் சிறப்பு மையம்"
+      },
+      "description": {
+        "en": "750-bed specialized cancer treatment centre at Kareipettai, Kancheepuram named after C.N. Annadurai.",
+        "ta": "சி.என். அண்ணாதுரை நினைவாக காரைப்பேட்டை, காஞ்சிபுரத்தில் 750 படுக்கைகள் கொண்ட புற்றுநோய் சிகிச்சை மையம்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "Cancer patients statewide",
+        "description": {
+          "en": "Specialized cancer care facility",
+          "ta": "சிறப்பு புற்றுநோய் சிகிச்சை வசதி"
+        }
+      },
+      "budget": {
+        "amount": "₹120 crore",
+        "year": "2021-2026",
+        "details": "Comprehensive cancer treatment facility"
+      },
+      "coverage": "Kareipettai, Kancheepuram district",
+      "highlights": [
+        {
+          "en": "750-bed dedicated cancer hospital",
+          "ta": "750 படுக்கைகள் கொண்ட புற்றுநோய் மருத்துவமனை"
+        },
+        {
+          "en": "Named after C.N. Annadurai",
+          "ta": "சி.என். அண்ணாதுரை நினைவாக"
+        },
+        {
+          "en": "Comprehensive cancer treatment services",
+          "ta": "விரிவான புற்றுநோய் சிகிச்சை சேவைகள்"
+        }
+      ],
+      "icon": "🎗️",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": null,
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "varumun-kaappom",
+      "name": {
+        "en": "Kalaignar Varumun Kaappom Scheme",
+        "ta": "கலைஞர் வருமுன் காப்போம் திட்டம்"
+      },
+      "description": {
+        "en": "Preventive health camps for early detection of diseases before they occur.",
+        "ta": "நோய் வருவதற்கு முன் கண்டறிய தடுப்பு மருத்துவ முகாம்கள்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "52.12 lakh people",
+        "description": {
+          "en": "Through 5,573 health camps",
+          "ta": "5,573 மருத்துவ முகாம்கள் மூலம்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2021-2026",
+        "details": "Preventive health screening camps"
+      },
+      "coverage": "All 38 districts of Tamil Nadu",
+      "highlights": [
+        {
+          "en": "5,573 preventive health camps conducted",
+          "ta": "5,573 தடுப்பு மருத்துவ முகாம்கள் நடத்தப்பட்டன"
+        },
+        {
+          "en": "52.12 lakh beneficiaries screened",
+          "ta": "52.12 லட்சம் பயனாளிகள் பரிசோதிக்கப்பட்டனர்"
+        },
+        {
+          "en": "Early disease detection focus",
+          "ta": "முன்கூட்டிய நோய் கண்டறிதல் கவனம்"
+        }
+      ],
+      "icon": "🩺",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": null,
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "kk-rehab-centre",
+      "name": {
+        "en": "Kalaignar Karunanidhi Government Rehabilitation Centre",
+        "ta": "கலைஞர் கருணாநிதி அரசு புனர்வாழ்வு மையம்"
+      },
+      "description": {
+        "en": "Centre of excellence for rehabilitation medicine providing comprehensive disability care.",
+        "ta": "முழுமையான மாற்றுத்திறனாளர் கவனிப்பு வழங்கும் புனர்வாழ்வு மருத்துவத்திற்கான ஒப்புயர்வு மையம்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "Persons with disabilities statewide",
+        "description": {
+          "en": "Rehabilitation and disability services",
+          "ta": "புனர்வாழ்வு மற்றும் மாற்றுத்திறனாளர் சேவைகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹27.95 crore",
+        "year": "2021-2026",
+        "details": "Rehabilitation centre infrastructure"
+      },
+      "coverage": "Chennai and statewide referrals",
+      "highlights": [
+        {
+          "en": "Comprehensive rehabilitation services",
+          "ta": "விரிவான புனர்வாழ்வு சேவைகள்"
+        },
+        {
+          "en": "Named after Kalaignar Karunanidhi",
+          "ta": "கலைஞர் கருணாநிதி நினைவாக"
+        },
+        {
+          "en": "State-of-the-art disability care",
+          "ta": "நவீன மாற்றுத்திறனாளர் கவனிப்பு"
+        }
+      ],
+      "icon": "♿",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": null,
+          "type": "government"
+        }
+      ]
     }
   ],
   "healthcareStats": {
@@ -1300,7 +1535,7 @@
     "insuranceCoverage": "1.5+ crore families",
     "ambulances": 1353,
     "medicalColleges": 11,
-    "doorstepReach": "2+ crore people",
+    "doorstepReach": "2.59 crore people",
     "hospitalsInNetwork": 1700,
     "organDonations2024": 268,
     "palliativeCenters": 371

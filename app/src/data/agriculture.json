@@ -662,6 +662,223 @@
         { "title": "India Herald - Aavin Projects Inauguration", "url": "https://www.indiaherald.com/Breaking/Read/994876901/Chief-Minister-MK-Stalin-Inaugurates-Completed-Projects-Worth-Crore-Under-Tamil-Nadu-Milk-Producers-Cooperative-Federation", "type": "media" },
         { "title": "Aavin Official", "url": "https://aavin.tn.gov.in/", "type": "government" }
       ]
+    },
+    {
+      "id": "grain-cultivation-campaign",
+      "name": {
+        "en": "Tamil Nadu Grain Cultivation Campaign",
+        "ta": "தமிழ்நாடு தானிய சாகுபடி இயக்கம்"
+      },
+      "description": {
+        "en": "State-wide campaign to boost grain production through subsidized seeds, inputs, and technical support to farmers.",
+        "ta": "மானிய விதைகள், உள்ளீடுகள் மற்றும் தொழில்நுட்ப ஆதரவு மூலம் தானிய உற்பத்தியை அதிகரிக்கும் மாநில அளவிலான இயக்கம்."
+      },
+      "beneficiaries": {
+        "count": "12.83 lakh farmers",
+        "description": {
+          "en": "Grain farmers across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் தானிய விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹225.12 crore",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "12.83 lakh farmers benefited", "ta": "12.83 லட்சம் விவசாயிகள் பயனடைந்தனர்" },
+        { "en": "Subsidized quality seeds", "ta": "மானிய தரமான விதைகள்" },
+        { "en": "Technical support and training", "ta": "தொழில்நுட்ப ஆதரவு மற்றும் பயிற்சி" }
+      ],
+      "icon": "🌾",
+      "sources": [
+        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+      ]
+    },
+    {
+      "id": "oilseed-cultivation-expansion",
+      "name": {
+        "en": "Oilseed Cultivation Expansion Scheme",
+        "ta": "எண்ணெய் வித்து பெருக்கு திட்டம்"
+      },
+      "description": {
+        "en": "Scheme to increase oilseed production and reduce import dependence through farmer support and subsidies.",
+        "ta": "விவசாயி ஆதரவு மற்றும் மானியங்கள் மூலம் எண்ணெய் வித்து உற்பத்தியை அதிகரித்து இறக்குமதி சார்பை குறைக்கும் திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "7.51 lakh farmers",
+        "description": {
+          "en": "Oilseed farmers statewide",
+          "ta": "மாநிலம் முழுவதும் எண்ணெய் வித்து விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹214.68 crore",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "7.51 lakh farmers benefited", "ta": "7.51 லட்சம் விவசாயிகள் பயனடைந்தனர்" },
+        { "en": "Focus on groundnut, sesame, sunflower", "ta": "நிலக்கடலை, எள், சூரியகாந்தி கவனம்" },
+        { "en": "Reduces edible oil imports", "ta": "உண்ணக்கூடிய எண்ணெய் இறக்குமதியை குறைக்கிறது" }
+      ],
+      "icon": "🥜",
+      "sources": [
+        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+      ]
+    },
+    {
+      "id": "rainfed-land-improvement",
+      "name": {
+        "en": "Rainfed Land Improvement Scheme",
+        "ta": "மானாவாரி நில மேம்பாடு திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive scheme to improve rainfed agricultural lands through soil conservation, water harvesting, and sustainable practices.",
+        "ta": "மண் பாதுகாப்பு, நீர் சேகரிப்பு மற்றும் நிலையான நடைமுறைகள் மூலம் மானாவாரி விவசாய நிலங்களை மேம்படுத்தும் விரிவான திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "11.80 lakh farmers",
+        "description": {
+          "en": "Rainfed agriculture farmers",
+          "ta": "மானாவாரி விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹693.71 crore",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "11.80 lakh farmers benefited", "ta": "11.80 லட்சம் விவசாயிகள் பயனடைந்தனர்" },
+        { "en": "Soil and water conservation", "ta": "மண் மற்றும் நீர் பாதுகாப்பு" },
+        { "en": "Sustainable farming practices", "ta": "நிலையான விவசாய நடைமுறைகள்" }
+      ],
+      "icon": "🌧️",
+      "sources": [
+        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+      ]
+    },
+    {
+      "id": "green-manure-cultivation",
+      "name": {
+        "en": "Green Manure Cultivation Scheme",
+        "ta": "பசுந்தாள் சாகுபடி திட்டம்"
+      },
+      "description": {
+        "en": "Scheme promoting green manure cultivation to improve soil fertility and reduce chemical fertilizer dependence.",
+        "ta": "மண் வளத்தை மேம்படுத்தி இரசாயன உர சார்பை குறைக்க பசுந்தாள் சாகுபடியை ஊக்குவிக்கும் திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "15.91 lakh farmers",
+        "description": {
+          "en": "Farmers adopting green manure",
+          "ta": "பசுந்தாள் சாகுபடி ஏற்றுக்கொண்ட விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹239.33 crore",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "15.91 lakh farmers benefited", "ta": "15.91 லட்சம் விவசாயிகள் பயனடைந்தனர்" },
+        { "en": "Improves soil organic content", "ta": "மண்ணின் கரிம உள்ளடக்கத்தை மேம்படுத்துகிறது" },
+        { "en": "Reduces chemical fertilizer use", "ta": "இரசாயன உர பயன்பாட்டை குறைக்கிறது" }
+      ],
+      "icon": "🌿",
+      "sources": [
+        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+      ]
+    },
+    {
+      "id": "special-crop-production",
+      "name": {
+        "en": "Special Crop Production Enhancement Scheme",
+        "ta": "சிறப்பு பயிர் உற்பத்தி திட்டம்"
+      },
+      "description": {
+        "en": "Targeted scheme to enhance production of special crops including millets, pulses, and traditional varieties.",
+        "ta": "சிறுதானியங்கள், பருப்பு வகைகள் மற்றும் பாரம்பரிய வகைகள் உள்ளிட்ட சிறப்பு பயிர்களின் உற்பத்தியை மேம்படுத்தும் இலக்கு திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "59.67 lakh beneficiaries",
+        "description": {
+          "en": "Farmers growing special crops",
+          "ta": "சிறப்பு பயிர்கள் விளைவிக்கும் விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹22 crore",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "59.67 lakh beneficiaries reached", "ta": "59.67 லட்சம் பயனாளிகள் சென்றடைந்தனர்" },
+        { "en": "Focus on millets and pulses", "ta": "சிறுதானியங்கள் மற்றும் பருப்பு வகைகள் கவனம்" },
+        { "en": "Traditional variety preservation", "ta": "பாரம்பரிய வகைகள் பாதுகாப்பு" }
+      ],
+      "icon": "🌱",
+      "sources": [
+        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+      ]
+    },
+    {
+      "id": "integrated-agri-development",
+      "name": {
+        "en": "Integrated Agriculture Development Scheme",
+        "ta": "ஒருங்கிணைந்த வேளாண்மை வளர்ச்சி திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive integrated farming approach combining crops, livestock, and allied activities for sustainable farmer income.",
+        "ta": "நிலையான விவசாயி வருமானத்திற்கு பயிர்கள், கால்நடைகள் மற்றும் தொடர்புடைய நடவடிக்கைகளை இணைக்கும் விரிவான ஒருங்கிணைந்த விவசாய அணுகுமுறை."
+      },
+      "beneficiaries": {
+        "count": "2.32 lakh farmers",
+        "description": {
+          "en": "Across 5.61 lakh acres",
+          "ta": "5.61 லட்சம் ஏக்கர் பரப்பில்"
+        }
+      },
+      "budget": {
+        "amount": "₹1,636 crore",
+        "year": "2021-2026 (5 years)"
+      },
+      "highlights": [
+        { "en": "2.32 lakh farmers covered", "ta": "2.32 லட்சம் விவசாயிகள் உள்ளடக்கப்பட்டனர்" },
+        { "en": "5.61 lakh acres under scheme", "ta": "5.61 லட்சம் ஏக்கர் திட்டத்தின் கீழ்" },
+        { "en": "Integrated farming approach", "ta": "ஒருங்கிணைந்த விவசாய அணுகுமுறை" }
+      ],
+      "icon": "🏡",
+      "sources": [
+        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+      ]
+    },
+    {
+      "id": "crop-disaster-compensation",
+      "name": {
+        "en": "Crop Compensation for Natural Disasters",
+        "ta": "இயற்கை பேரிடர் பயிர் இழப்பீடு திட்டம்"
+      },
+      "description": {
+        "en": "Relief scheme providing compensation to farmers affected by natural disasters including floods, droughts, and cyclones.",
+        "ta": "வெள்ளம், வறட்சி மற்றும் புயல் உள்ளிட்ட இயற்கை பேரிடர்களால் பாதிக்கப்பட்ட விவசாயிகளுக்கு இழப்பீடு வழங்கும் நிவாரண திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "33.84 lakh farmers",
+        "description": {
+          "en": "Farmers affected by natural calamities",
+          "ta": "இயற்கை பேரிடர்களால் பாதிக்கப்பட்ட விவசாயிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹1,633.82 crore",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "33.84 lakh affected farmers compensated", "ta": "33.84 லட்சம் பாதிக்கப்பட்ட விவசாயிகளுக்கு இழப்பீடு" },
+        { "en": "Covers floods, droughts, cyclones", "ta": "வெள்ளம், வறட்சி, புயல் உள்ளடக்கியது" },
+        { "en": "Quick disbursement mechanism", "ta": "விரைவான வழங்கல் முறை" }
+      ],
+      "icon": "🌪️",
+      "sources": [
+        { "title": "DMK 5 Years Report Card 2026", "url": null, "type": "government" }
+      ]
     }
   ],
   "agricultureStats": {
