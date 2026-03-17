@@ -38,14 +38,22 @@ export interface IndustriesSummary {
   investment2025: number;
   investment2025Jobs: number;
   totalMoUs: number;
-  totalInvestmentSince2021: number;
+  totalInvestmentLakhCrore: number;
   projectedJobs: number;
   mouConversionRate: number;
   policyTarget: string;
   sipcotLandBank: string;
+  sipcotLandAcquired?: number;
+  sipcotLandBankTarget?: number;
+  sipcotParksActive?: number;
   electronicsExports2025: number;
+  electronicsExportsSharePercent?: number;
   evProductionShare: number;
+  industrialUnits?: number;
+  tidelNeoParks?: number;
+  tidelNeoParksOperational?: number;
   dataLastUpdated: string;
+  source?: string;
 }
 
 // Export data from JSON

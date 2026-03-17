@@ -36,7 +36,7 @@ export function MobileIndustriesStats({ locale }: MobileIndustriesStatsProps) {
 
         {/* Total Investment - from summary for MoU totals */}
         <div className="text-center px-1 border-l border-slate-200">
-          <p className="text-base font-bold text-amber-700 leading-none">{formatLakhCrore(industriesSummary.totalInvestmentSince2021)}</p>
+          <p className="text-base font-bold text-amber-700 leading-none">₹{industriesSummary.totalInvestmentLakhCrore}L Cr</p>
           <p className="text-[10px] text-slate-600 mt-0.5 leading-tight">
             {locale === "ta" ? "முதலீடு" : "Investment"}
           </p>
