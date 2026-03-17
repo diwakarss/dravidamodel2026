@@ -82,6 +82,7 @@
         "en": "Comprehensive startup support with funding, incubation, and mentorship. 6x growth since 2021.",
         "ta": "நிதியுதவி, இன்குபேஷன் மற்றும் வழிகாட்டுதலுடன் விரிவான ஸ்டார்ட்அப் ஆதரவு. 2021 முதல் 6 மடங்கு வளர்ச்சி."
       },
+      "launchDate": "2019 (Policy 2018-23), updated 2023",
       "beneficiaries": {
         "count": "12,000+ startups",
         "description": {
@@ -152,6 +153,7 @@
         "en": "Loan and subsidy program for youth entrepreneurship and self-employment.",
         "ta": "இளைஞர் தொழில்முனைவு மற்றும் சுயதொழிலுக்கான கடன் மற்றும் மானியத் திட்டம்."
       },
+      "launchDate": "Flagship MSME scheme (ongoing)",
       "beneficiaries": {
         "count": "Thousands annually",
         "description": {
@@ -183,6 +185,7 @@
         "en": "World Bank-supported project to increase women's workforce participation with safety infrastructure.",
         "ta": "பாதுகாப்பு உள்கட்டமைப்புடன் பெண்களின் பணியாளர் பங்கேற்பை அதிகரிக்க உலக வங்கி ஆதரவு திட்டம்."
       },
+      "launchDate": "June 23, 2025 (WESAFE approved)",
       "beneficiaries": {
         "count": "Target: Lakhs of women",
         "description": {
@@ -215,6 +218,7 @@
         "en": "Comprehensive support for Micro, Small and Medium Enterprises with subsidies and incentives.",
         "ta": "மானியங்கள் மற்றும் ஊக்கத்தொகைகளுடன் நுண், சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கு விரிவான ஆதரவு."
       },
+      "launchDate": "February 16, 2021 (Policy 2021)",
       "beneficiaries": {
         "count": "Lakhs of MSMEs",
         "description": {
@@ -311,6 +315,7 @@
         "en": "Tamil Nadu Skill Development Corporation training programs with industry certification.",
         "ta": "தொழில்துறை சான்றிதழுடன் தமிழ்நாடு திறன் மேம்பாட்டு கழக பயிற்சி திட்டங்கள்."
       },
+      "launchDate": "2013 (Corporation), origins 2009 (Mission)",
       "beneficiaries": {
         "count": "45,825 completed",
         "description": {
@@ -346,6 +351,7 @@
         "en": "Industry apprenticeship training with stipend for hands-on work experience.",
         "ta": "நடைமுறை பணி அனுபவத்திற்கான உதவித்தொகையுடன் தொழில்துறை பயிற்சியாளர் பயிற்சி."
       },
+      "launchDate": "1961 (Apprentices Act)",
       "beneficiaries": {
         "count": "Thousands annually",
         "description": {
