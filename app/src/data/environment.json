@@ -313,31 +313,33 @@
         "ta": "பசுமை தமிழ்நாடு இயக்கம்"
       },
       "description": {
-        "en": "Massive tree planting and forest restoration initiative to increase green cover.",
-        "ta": "பசுமை போர்வையை அதிகரிக்க பாரிய மரம் நடுதல் மற்றும் காடு மீட்பு முன்முயற்சி."
+        "en": "Massive tree planting and forest restoration initiative to increase green cover to 33% forest cover target.",
+        "ta": "பசுமை போர்வையை 33% காடு போர்வை இலக்காக அதிகரிக்க பாரிய மரம் நடுதல் மற்றும் காடு மீட்பு முன்முயற்சி."
       },
       "launchDate": "September 24, 2022",
       "beneficiaries": {
-        "count": "10 crore trees target",
+        "count": "11.07 crore saplings planted",
         "description": {
-          "en": "2021-2026",
-          "ta": "2021-2026"
+          "en": "Targeting 33% forest cover by 2026",
+          "ta": "2026க்குள் 33% காடு போர்வை இலக்கு"
         }
       },
       "budget": {
-        "amount": "₹500+ crore",
-        "year": "5-year program"
+        "amount": "₹11.07 crore",
+        "year": "2021-2026",
+        "details": "DMK 5 Years Report - Forest Department"
       },
       "highlights": [
-        { "en": "Miyawaki forests in cities", "ta": "நகரங்களில் மியாவாகி காடுகள்" },
-        { "en": "Avenue tree plantation", "ta": "சாலையோர மரம் நடுதல்" },
-        { "en": "School greening program", "ta": "பள்ளி பசுமைப்படுத்தல் திட்டம்" }
+        { "en": "11.07 crore saplings planted across Tamil Nadu", "ta": "தமிழ்நாடு முழுவதும் 11.07 கோடி செடிகள் நடப்பட்டன" },
+        { "en": "100 Green Woodlands (மரகதப் சோலை) in 31 districts", "ta": "31 மாவட்டங்களில் 100 மரகதப் சோலைகள்" },
+        { "en": "312 forest nurseries upgraded for sapling production", "ta": "நாற்று உற்பத்திக்காக 312 வன நாற்றங்கால்கள் மேம்படுத்தப்பட்டன" },
+        { "en": "Miyawaki forests in cities", "ta": "நகரங்களில் மியாவாகி காடுகள்" }
       ],
       "icon": "🌳",
       "sources": [
         { "title": "Green TN Mission Official", "url": "https://www.greentnmission.com/", "type": "government" },
-        { "title": "Business Standard - Green TN Mission Launch", "url": "https://www.business-standard.com/article/current-affairs/cm-mk-stalin-launches-green-tn-mission-urges-people-to-join-hands-122092400642_1.html", "type": "media" },
-        { "title": "TN Forest Dept - Free Saplings", "url": "https://www.tnagrisnet.tn.gov.in/people_app/forest/index/en", "type": "government" }
+        { "title": "DMK 5 Years Achievement Report", "url": "https://dmk.in", "type": "government" },
+        { "title": "Business Standard - Green TN Mission Launch", "url": "https://www.business-standard.com/article/current-affairs/cm-mk-stalin-launches-green-tn-mission-urges-people-to-join-hands-122092400642_1.html", "type": "media" }
       ]
     },
     {
@@ -381,15 +383,15 @@
         "ta": "நீர் பாதுகாப்பு & ஏரி மீட்பு"
       },
       "description": {
-        "en": "Restoration of water bodies and rainwater harvesting mandates across Tamil Nadu.",
-        "ta": "தமிழ்நாடு முழுவதும் நீர்நிலைகளின் மீட்பு மற்றும் மழைநீர் சேகரிப்பு கட்டாயங்கள்."
+        "en": "Comprehensive wetland mapping and restoration program. 27,074 wetlands surveyed and boundaries demarcated using GIS methodology. 7,834 Wetland Mithras (volunteer guardians) registered for wetland protection.",
+        "ta": "விரிவான ஈரநில வரைபடமாக்கல் மற்றும் மீட்பு திட்டம். 27,074 ஈரநிலங்கள் ஆய்வு செய்யப்பட்டு GIS முறையில் எல்லைகள் நிர்ணயிக்கப்பட்டன. ஈரநில பாதுகாப்புக்காக 7,834 ஈரநில மித்ரா தன்னார்வலர்கள் பதிவு செய்யப்பட்டனர்."
       },
       "launchDate": "Ongoing (RWH mandate 2001, intensified 2021+)",
       "beneficiaries": {
-        "count": "Thousands of lakes",
+        "count": "27,074 wetlands surveyed",
         "description": {
-          "en": "Restored statewide",
-          "ta": "மாநிலம் முழுவதும் மீட்கப்பட்டது"
+          "en": "7,834 Wetland Mithras registered for protection",
+          "ta": "பாதுகாப்புக்காக 7,834 ஈரநில மித்ராக்கள் பதிவு"
         }
       },
       "budget": {
@@ -397,15 +399,16 @@
         "details": "Multi-year investment"
       },
       "highlights": [
-        { "en": "Chennai lake restoration", "ta": "சென்னை ஏரி மீட்பு" },
-        { "en": "Mandatory rainwater harvesting", "ta": "கட்டாய மழைநீர் சேகரிப்பு" },
-        { "en": "Check dam construction", "ta": "தடுப்பணை கட்டுமானம்" }
+        { "en": "27,074 wetlands surveyed and boundaries demarcated via GIS", "ta": "27,074 ஈரநிலங்கள் ஆய்வு செய்யப்பட்டு GIS மூலம் எல்லைகள் நிர்ணயிக்கப்பட்டன" },
+        { "en": "7,834 Wetland Mithras (volunteer guardians) registered", "ta": "7,834 ஈரநில மித்ரா தன்னார்வலர்கள் பதிவு செய்யப்பட்டனர்" },
+        { "en": "20 Ramsar sites - highest in India", "ta": "20 ராம்சர் தளங்கள் - இந்தியாவில் அதிகபட்சம்" },
+        { "en": "Mandatory rainwater harvesting enforcement", "ta": "கட்டாய மழைநீர் சேகரிப்பு அமலாக்கம்" }
       ],
       "icon": "💦",
       "sources": [
         { "title": "TN Environment Dept - Eco Restoration", "url": "https://www.environment.tn.gov.in/eco-restoration", "type": "government" },
-        { "title": "Better India - Chennai Lake Revival", "url": "https://thebetterindia.com/358580/lake-restoration-chitlapakkam-chennai-volunteer-group-water-crisis-groundwater-restoration-tamil-nadu/", "type": "media" },
-        { "title": "Nature.org - Sembakkam Lake", "url": "https://www.nature.org/en-us/about-us/where-we-work/india/our-priorities/lake-sembakkam/", "type": "media" }
+        { "title": "DMK 5 Years Achievement Report", "url": "https://dmk.in", "type": "government" },
+        { "title": "Better India - Chennai Lake Revival", "url": "https://thebetterindia.com/358580/lake-restoration-chitlapakkam-chennai-volunteer-group-water-crisis-groundwater-restoration-tamil-nadu/", "type": "media" }
       ]
     },
     {
@@ -886,6 +889,78 @@
         { "title": "Deccan Herald", "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadus-second-mahout-village-opened-in-anamalai-tiger-reserve-3754592", "type": "media" },
         { "title": "Devdiscourse", "url": "https://www.devdiscourse.com/article/entertainment/3654488-tamil-nadu-unveils-indias-second-eco-friendly-mahout-village", "type": "media" }
       ]
+    },
+    {
+      "id": "wildlife-sanctuary-expansion",
+      "name": {
+        "en": "Wildlife Sanctuary & Conservation Reserve Expansion",
+        "ta": "வனவிலங்கு சரணாலய மற்றும் பாதுகாப்பு காப்பகம் விரிவாக்கம்"
+      },
+      "description": {
+        "en": "Major expansion of protected wildlife areas with 6 new sanctuaries, 1 conservation reserve, and 1 elephant reserve. Includes ₹5 crore Endangered Species Conservation Fund and increased wildlife compensation from ₹4 lakh to ₹10 lakh for human-wildlife conflict deaths.",
+        "ta": "6 புதிய சரணாலயங்கள், 1 பாதுகாப்பு காப்பகம் மற்றும் 1 யானைகள் காப்பகத்துடன் பாதுகாக்கப்பட்ட வனவிலங்கு பகுதிகளின் பெரும் விரிவாக்கம். ₹5 கோடி அரிய உயிரினங்கள் பாதுகாப்பு நிதி மற்றும் மனித-வனவிலங்கு மோதல் இறப்புகளுக்கு இழப்பீடு ₹4 லட்சத்திலிருந்து ₹10 லட்சமாக உயர்த்தப்பட்டது."
+      },
+      "launchDate": "2021-2026",
+      "beneficiaries": {
+        "count": "6 sanctuaries + 1 Conservation Reserve + 1 Elephant Reserve",
+        "description": {
+          "en": "12,818 hectares declared as forest land (86 proposals)",
+          "ta": "12,818 ஹெக்டேர் வன நிலமாக அறிவிக்கப்பட்டது (86 திட்டங்கள்)"
+        }
+      },
+      "budget": {
+        "amount": "₹14.90 crore",
+        "details": "Forest department modernization + ₹5 crore Endangered Species Conservation Fund",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "6 new wildlife sanctuaries declared", "ta": "6 புதிய வனவிலங்கு சரணாலயங்கள் அறிவிக்கப்பட்டன" },
+        { "en": "₹5 crore Endangered Species Conservation Fund established", "ta": "₹5 கோடி அரிய உயிரினங்கள் பாதுகாப்பு நிதி உருவாக்கப்பட்டது" },
+        { "en": "Wildlife compensation increased from ₹4 lakh to ₹10 lakh", "ta": "வனவிலங்கு இழப்பீடு ₹4 லட்சத்திலிருந்து ₹10 லட்சமாக உயர்த்தப்பட்டது" },
+        { "en": "12,818 hectares declared as forest land", "ta": "12,818 ஹெக்டேர் வன நிலமாக அறிவிக்கப்பட்டது" },
+        { "en": "6 special wildlife treatment centres established", "ta": "6 சிறப்பு வனவிலங்கு சிகிச்சை மையங்கள் அமைக்கப்பட்டன" }
+      ],
+      "icon": "🦁",
+      "sources": [
+        { "title": "DMK 5 Years Achievement Report", "url": "https://dmk.in", "type": "government" },
+        { "title": "TN Forest Department", "url": "https://www.forests.tn.gov.in", "type": "government" }
+      ]
+    },
+    {
+      "id": "forest-department-modernization",
+      "name": {
+        "en": "Forest Department Digital Modernization",
+        "ta": "வனத்துறை டிஜிட்டல் நவீனமயமாக்கல்"
+      },
+      "description": {
+        "en": "Comprehensive digital transformation of Forest Department with e-App paperless office system, online timber permit system, TNFFMIS fire monitoring, Trek Tamil Nadu ecotourism platform, and AI-based elephant tracking systems.",
+        "ta": "இ-ஆப் காகிதமற்ற அலுவலக முறை, ஆன்லைன் மர அனுமதி முறை, TNFFMIS தீ கண்காணிப்பு, ட்ரெக் தமிழ்நாடு சுற்றுலா தளம் மற்றும் AI அடிப்படையிலான யானை கண்காணிப்பு முறைகளுடன் வனத்துறையின் விரிவான டிஜிட்டல் மாற்றம்."
+      },
+      "launchDate": "2021-2026",
+      "beneficiaries": {
+        "count": "Forest staff and visitors",
+        "description": {
+          "en": "40 Trek Tamil Nadu hiking trails identified",
+          "ta": "40 ட்ரெக் தமிழ்நாடு மலையேற்ற பாதைகள் அடையாளம் காணப்பட்டன"
+        }
+      },
+      "budget": {
+        "amount": "₹14.90 crore",
+        "details": "Third-party digital modernization project",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "e-App paperless office system across all offices", "ta": "அனைத்து அலுவலகங்களிலும் இ-ஆப் காகிதமற்ற அலுவலக முறை" },
+        { "en": "Online timber permit application and approval system", "ta": "ஆன்லைன் மர அனுமதி விண்ணப்பம் மற்றும் ஒப்புதல் முறை" },
+        { "en": "AI-based elephant tracking on Madurai-Coimbatore railway", "ta": "மதுரை-கோயம்புத்தூர் ரயில்வேயில் AI அடிப்படையிலான யானை கண்காணிப்பு" },
+        { "en": "Trek Tamil Nadu ecotourism with 40 hiking trails", "ta": "40 மலையேற்ற பாதைகளுடன் ட்ரெக் தமிழ்நாடு சுற்றுலா" },
+        { "en": "240 special buildings + 118 housing units for forest staff", "ta": "வன ஊழியர்களுக்கு 240 சிறப்பு கட்டிடங்கள் + 118 குடியிருப்புகள்" }
+      ],
+      "icon": "📱",
+      "sources": [
+        { "title": "DMK 5 Years Achievement Report", "url": "https://dmk.in", "type": "government" },
+        { "title": "TN Forest Department", "url": "https://www.forests.tn.gov.in", "type": "government" }
+      ]
     }
   ],
   "environmentStats": {
@@ -897,6 +972,13 @@
     "solarGrowth": "5x since 2014",
     "evManufacturing": "Multiple plants",
     "evChargingPoints": 5000,
-    "treesPlanted": 100000000
+    "treesPlanted": 110700000,
+    "ramsarSites": 20,
+    "wetlandsSurveyed": 27074,
+    "wetlandMithras": 7834,
+    "forestCoverTarget": "33%",
+    "newSanctuaries": 6,
+    "forestLandDeclared": 12818,
+    "endangeredSpeciesFund": 50000000
   }
 }
