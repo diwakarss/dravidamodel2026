@@ -10109,5 +10109,42 @@
       "notes": "565 parks planned across Chennai; 248 completed, 161 under construction, 141 to be commissioned; Includes 32 water body parks (Rs 15.83 crore) with 8 fountains",
       "subType": "Urban Development"
     }
-  ]
+  ],
+  "transportStats": {
+    "newBusesTarget": 12000,
+    "newBusesInService": 7417,
+    "ruralBusConnectivity": "98.07%",
+    "villagesConnected": 20741,
+    "cngElectricBuses": 2666,
+    "metroLinkBuses": 56,
+    "metroStationsConnected": 30,
+    "helplineNumber": "149",
+    "helplineSatisfaction": "95.55%",
+    "stuWomenCreches": 579,
+    "freeTravelSubsidy2021_2025": 13760.63,
+    "studentFreeTravel2021_2025": 5807.07,
+    "lowFareSubsidy2021_2025": 6486.25,
+    "disabledFreeTravelBeneficiaries": 61401,
+    "dataLastUpdated": "March 2026",
+    "source": "DMK 5 Years Achievement Report"
+  },
+  "panchayatStats": {
+    "gramPanchayats": 12525,
+    "villageCouncilMeetings": 6,
+    "digitalPayments": true,
+    "tnpassSystem": true,
+    "singleWindowPermission": true,
+    "panchayatLeaderHonorarium": 2000,
+    "blockPanchayatHonorarium": 25000,
+    "districtPanchayatHonorarium": 50000,
+    "plasticBuyBackPolicy": true,
+    "plasticBuyBackRate": 10,
+    "nammaGramaSabhaApp": true,
+    "helpDeskNumber": "155340",
+    "roadMaintenanceBudgetCrore": 120,
+    "hillAreaPanchayats": 278,
+    "hillAreaGrantCrore": 30,
+    "dataLastUpdated": "March 2026",
+    "source": "DMK 5 Years Achievement Report"
+  }
 }

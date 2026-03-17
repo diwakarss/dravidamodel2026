@@ -159,21 +159,21 @@
         "ta": "விடியல் பயணம்"
       },
       "description": {
-        "en": "Free bus travel for women in government buses across Tamil Nadu.",
-        "ta": "தமிழ்நாடு முழுவதும் அரசு பேருந்துகளில் பெண்களுக்கு இலவச பயணம்."
+        "en": "Free bus travel for women in government buses across Tamil Nadu. 2.01 crore women benefit with 866.43 crore trips made (as of Jan 2026). Women's ridership doubled from 34.55 lakh to 69.52 lakh daily.",
+        "ta": "தமிழ்நாடு முழுவதும் அரசு பேருந்துகளில் பெண்களுக்கு இலவச பயணம். 2.01 கோடி பெண்கள் பயன், 866.43 கோடி பயணங்கள். தினசரி பெண் பயணிகள் 34.55 லட்சத்திலிருந்து 69.52 லட்சமாக இரட்டிப்பு."
       },
-      "launchDate": "January 27, 2024",
+      "launchDate": "May 7, 2021",
       "beneficiaries": {
-        "count": "Crores of women",
+        "count": "2.01 crore women",
         "description": {
-          "en": "Daily commuters across TN",
-          "ta": "தினசரி பயணிகள்"
+          "en": "866.43 crore trips completed (as of Jan 20, 2026). 67.70% of women passengers now travel free. Monthly savings of ₹888 per woman.",
+          "ta": "866.43 கோடி பயணங்கள் (ஜனவரி 20, 2026 வரை). 67.70% பெண் பயணிகள் இலவசம். மாதம் ₹888 சேமிப்பு."
         }
       },
       "budget": {
         "amount": "₹3,600 crore",
         "year": "2025-26",
-        "details": "Annual subsidy allocation"
+        "details": "2021-2025 total: ₹13,760.63 crore subsidy. 2025-26: ₹3,600 crore allocated."
       },
       "eligibility": {
         "en": "All women in TNSTC and MTC buses",
@@ -1837,16 +1837,16 @@
       },
       "launchDate": "September 15, 2022",
       "beneficiaries": {
-        "count": "19.34 lakh students",
+        "count": "18.53 lakh students",
         "description": {
-          "en": "Government school children in classes 1-5 across 37,445 schools",
-          "ta": "37,445 பள்ளிகளில் 1-5 வகுப்பு அரசு பள்ளி குழந்தைகள்"
+          "en": "Government school children in classes 1-5 across 30,995 schools (as of Aug 2023), expanded to 33,419 schools including government-aided schools in rural areas",
+          "ta": "30,995 பள்ளிகளில் 1-5 வகுப்பு அரசு பள்ளி குழந்தைகள், கிராமப்புற அரசு உதவி பெறும் பள்ளிகள் உட்பட 33,419 பள்ளிகளாக விரிவாக்கம்"
         }
       },
       "budget": {
         "amount": "₹600.49 crore",
         "year": "2024-2025",
-        "details": "Total spent 2021-2026: ₹1,398.91 crore"
+        "details": "2022-2023: ₹404.41 Cr (30,995 schools, 15.75 lakh children). 2024-2025: ₹600.49 Cr. Total spent 2021-2026: ₹1,021.21 crore. Urban govt-aided schools added 2025-2026 (2,429 schools, 3.06 lakh children)"
       },
       "eligibility": {
         "en": "All students in government and government-aided primary schools",
@@ -2807,14 +2807,22 @@
     "magalirBudgetCrore": 13027,
     "pdsShops": 33609,
     "universalPds": true,
+    "pdsNewCards": 2056266,
+    "pdsIrisAuthentication": true,
     "pensionAmount": "₹1,000-1,500/month",
     "pensionSchemes": 3,
-    "vidiyalSubsidy": "₹3,600 crore",
+    "vidiyalBeneficiaries": "2.01 crore",
+    "vidiyalTrips": 86643000000,
+    "vidiyalSubsidy": "₹13,760.63 crore",
+    "vidiyalSubsidy2025": "₹3,600 crore",
+    "vidiyalWomenRidership": 69.52,
     "pongalBeneficiaries": "2.14 crore",
     "farmLoanWaiver": "₹12,110 crore",
     "farmersHelped": 1643000,
-    "breakfastBeneficiaries": "19.34 lakh",
-    "breakfastBeneficiariesNum": 1934000,
+    "breakfastBeneficiaries": "18.53 lakh",
+    "breakfastBeneficiariesNum": 1853000,
+    "breakfastSchools": 33419,
+    "breakfastBudgetTotal": 102121,
     "pudhumaiPennBeneficiaries": "6.92 lakh",
     "tamilPudhalvanBeneficiaries": "5.40 lakh",
     "midDayMealBeneficiaries": "40.82 lakh",
@@ -2827,6 +2835,10 @@
     "bcLoanBeneficiaries": 69391,
     "minorityLoanBeneficiaries": 37399,
     "foreignScholarshipStudents": 385,
-    "cmAriseEntrepreneurs": 4688
+    "cmAriseEntrepreneurs": 4688,
+    "adiDravidarSchoolPassRate": 91.85,
+    "tribalSchoolPassRate": 95.5,
+    "dataLastUpdated": "March 2026",
+    "source": "DMK 5 Years Achievement Report"
   }
 }

@@ -1,12 +1,12 @@
 {
   "generated": "2026-03-17T12:30:00.000Z",
   "checksums": {
-    "infrastructure.json": "cad8ad69684601d48bd44e24e2205d10c55865379037e896a9e070ca02383e7f",
+    "infrastructure.json": "0ed0fd11477eaba04fe856f6f879fa65a092cca2c3353078e0e7e3d190c3aef0",
     "industries.json": "32d3648bf8975709acb1ddd9ec058a9489d5dd8657a2f333673fee0698495b34",
     "education.json": "c4078e8baac87c6da6e2a9d8a191611eefa0f792a7b371043df4a9aa29d24c51",
     "employment.json": "1da312fb5678086cec496ca5ce1548661adfe2ab7738aa2dd76aff8e33a2e76a",
     "agriculture.json": "e4648fb5f75d6abc43ca4b47dd1fc7c48943c3cf648f976b58974377dafd615a",
-    "socialWelfare.json": "e5958d851cc100a6a4162f7a5b8b6206e1bef7b7f9739993b27f8cff4a90368e",
+    "socialWelfare.json": "2c9bf372330cf7f364331b8c2db70e569bd33a744183c8a7c97595dfdf190b64",
     "environment.json": "93c8fea32335d41d7c93b5e093976a5293032d3696011cbd994a4c4c022f8a4c",
     "tamilHistory.json": "3cf39f218d4aebb25746644275605f82544fd65e4d3aba31a80b211aa41de0e8"
   }
