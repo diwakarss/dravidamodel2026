@@ -1,7 +1,8 @@
 {
-  "generated": "2026-03-17T08:55:00.000Z",
+  "generated": "2026-03-17T09:15:00.000Z",
   "checksums": {
     "infrastructure.json": "cad8ad69684601d48bd44e24e2205d10c55865379037e896a9e070ca02383e7f",
-    "industries.json": "7658542e6744657130dff2f57a31b01bb84a40da78afc38fe9c73f9251603a63"
+    "industries.json": "7658542e6744657130dff2f57a31b01bb84a40da78afc38fe9c73f9251603a63",
+    "education.json": "c4078e8baac87c6da6e2a9d8a191611eefa0f792a7b371043df4a9aa29d24c51"
   }
 }

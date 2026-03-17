@@ -14,15 +14,16 @@
       },
       "launchDate": "October 27, 2021",
       "beneficiaries": {
-        "count": "96 lakh",
+        "count": "101.84 lakh",
         "description": {
           "en": "Classes 1-8, govt schools",
           "ta": "1-8 வகுப்பு, அரசு பள்ளிகள்"
         }
       },
       "budget": {
-        "amount": "State-funded",
-        "details": "2 lakh+ volunteers engaged"
+        "amount": "₹704.76 crore",
+        "year": "2021-2026",
+        "details": "6.30 lakh volunteers engaged across 5 years"
       },
       "coverage": "All 38 districts, evening classes 5-7 PM",
       "highlights": [
@@ -173,16 +174,16 @@
       },
       "launchDate": "September 15, 2022",
       "beneficiaries": {
-        "count": "20.73 lakh",
+        "count": "20.58 lakh",
         "description": {
-          "en": "Classes 1-5 in 37,416 schools",
-          "ta": "37,416 பள்ளிகளில் 1-5 வகுப்பு"
+          "en": "Classes 1-5 in 37,484 schools",
+          "ta": "37,484 பள்ளிகளில் 1-5 வகுப்பு"
         }
       },
       "budget": {
-        "amount": "₹600 crore",
-        "year": "2024-25",
-        "details": "Phase 1: ₹33.56 crore (2022)"
+        "amount": "₹600.25 crore",
+        "year": "2025-26",
+        "details": "37,484 government and aided schools"
       },
       "coverage": "Government and Government-aided primary schools (including urban expansion)",
       "highlights": [
@@ -1107,16 +1108,633 @@
           "type": "media"
         }
       ]
+    },
+    {
+      "id": "vizhudhugal-alumni",
+      "name": {
+        "en": "Vizhudhugal (Alumni Ambassador Program)",
+        "ta": "விழுதுகள் (முன்னாள் மாணவர் தூதர் திட்டம்)"
+      },
+      "description": {
+        "en": "State-wide alumni engagement program connecting former government school students as ambassadors to mentor current students, provide career guidance, and contribute to school development.",
+        "ta": "தற்போதைய மாணவர்களுக்கு வழிகாட்டுதல் வழங்கவும், தொழில் வழிகாட்டுதல் வழங்கவும், பள்ளி வளர்ச்சிக்கு பங்களிக்கவும் அரசு பள்ளி முன்னாள் மாணவர்களை தூதர்களாக இணைக்கும் மாநிலம் முழுவதும் முன்னாள் மாணவர் ஈடுபாட்டுத் திட்டம்."
+      },
+      "launchDate": "January 2024",
+      "beneficiaries": {
+        "count": "26,218 alumni ambassadors",
+        "description": {
+          "en": "8,209 schools with active alumni engagement",
+          "ta": "8,209 பள்ளிகளில் செயலில் முன்னாள் மாணவர் ஈடுபாடு"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2024-25",
+        "details": "8.5 lakh alumni registered, mobile app launched"
+      },
+      "coverage": "All government schools across 38 districts",
+      "highlights": [
+        {
+          "en": "26,218 alumni serving as school ambassadors",
+          "ta": "26,218 முன்னாள் மாணவர்கள் பள்ளி தூதர்களாக பணியாற்றுகின்றனர்"
+        },
+        {
+          "en": "8.5 lakh former students registered through NSNOP portal",
+          "ta": "NSNOP போர்ட்டல் மூலம் 8.5 லட்சம் முன்னாள் மாணவர்கள் பதிவு"
+        },
+        {
+          "en": "1,32,340 alumni joined School Management Committees",
+          "ta": "1,32,340 முன்னாள் மாணவர்கள் பள்ளி நிர்வாக குழுக்களில் சேர்ந்தனர்"
+        },
+        {
+          "en": "Rs 36.45 lakh cash and Rs 18.55 crore in-kind contributions",
+          "ta": "ரூ.36.45 லட்சம் பணமும் ரூ.18.55 கோடி பொருள் பங்களிப்பும்"
+        }
+      ],
+      "icon": "🎓",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "mani-gale-platform",
+      "name": {
+        "en": "Mani Gale (Digital Education Platform)",
+        "ta": "மணி கேல் (டிஜிட்டல் கல்வி தளம்)"
+      },
+      "description": {
+        "en": "Comprehensive digital learning platform with study videos, previous year papers, career guidance content, and 10th standard exam preparation resources for government school students.",
+        "ta": "அரசு பள்ளி மாணவர்களுக்கான படிப்பு வீடியோக்கள், முந்தைய ஆண்டு தாள்கள், தொழில் வழிகாட்டுதல் உள்ளடக்கம் மற்றும் 10ஆம் வகுப்பு தேர்வு தயாரிப்பு வளங்கள் கொண்ட விரிவான டிஜிட்டல் கற்றல் தளம்."
+      },
+      "launchDate": "July 25, 2023",
+      "beneficiaries": {
+        "count": "16.30 lakh+ downloads",
+        "description": {
+          "en": "Students from classes 1-12 in government schools",
+          "ta": "அரசு பள்ளிகளில் 1-12 வகுப்புகள் மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2023-24",
+        "details": "4.4 star rating on Google Play Store"
+      },
+      "coverage": "All government and government-aided schools",
+      "highlights": [
+        {
+          "en": "16.30 lakh+ app downloads on Google Play Store",
+          "ta": "Google Play Store-ல் 16.30 லட்சம்+ ஆப் பதிவிறக்கங்கள்"
+        },
+        {
+          "en": "4.4 star rating reflecting high user satisfaction",
+          "ta": "அதிக பயனர் திருப்தியை பிரதிபலிக்கும் 4.4 நட்சத்திர மதிப்பீடு"
+        },
+        {
+          "en": "Covers JEE, CLAT preparation and career guidance videos",
+          "ta": "JEE, CLAT தயாரிப்பு மற்றும் தொழில் வழிகாட்டுதல் வீடியோக்களை உள்ளடக்கியது"
+        },
+        {
+          "en": "Launched by School Education Minister",
+          "ta": "பள்ளிக் கல்வி அமைச்சரால் தொடங்கப்பட்டது"
+        }
+      ],
+      "icon": "📱",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "en-eluthu-literacy",
+      "name": {
+        "en": "En Eluthu (Foundational Literacy Program)",
+        "ta": "எண் எழுத்து (அடிப்படை எழுத்தறிவு திட்டம்)"
+      },
+      "description": {
+        "en": "Mission to achieve foundational literacy and numeracy for all children by 2027, ensuring every student from classes 1-5 attains grade-level reading, writing, and arithmetic skills.",
+        "ta": "2027க்குள் அனைத்து குழந்தைகளுக்கும் அடிப்படை எழுத்தறிவு மற்றும் எண்ணறிவை அடைவதற்கான பணி, 1-5 வகுப்பு மாணவர்கள் அனைவரும் வகுப்பு-நிலை வாசிப்பு, எழுத்து மற்றும் கணிதத் திறன்களைப் பெறுவதை உறுதி செய்கிறது."
+      },
+      "launchDate": "June 13, 2022",
+      "beneficiaries": {
+        "count": "74.88 lakh students",
+        "description": {
+          "en": "Classes 1-5 in government and aided schools",
+          "ta": "அரசு மற்றும் உதவி பெறும் பள்ளிகளில் 1-5 வகுப்புகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹346.37 crore",
+        "year": "2022-2026",
+        "details": "38,026 schools, 19.60 lakh students in current year"
+      },
+      "coverage": "All government and government-aided primary schools",
+      "highlights": [
+        {
+          "en": "74.88 lakh students benefited since launch",
+          "ta": "தொடங்கியதிலிருந்து 74.88 லட்சம் மாணவர்கள் பயனடைந்தனர்"
+        },
+        {
+          "en": "Rs 346.37 crore spent on implementation",
+          "ta": "செயல்படுத்தலுக்கு ரூ.346.37 கோடி செலவிடப்பட்டது"
+        },
+        {
+          "en": "Extended to 2027 for comprehensive coverage",
+          "ta": "விரிவான கவரேஜுக்காக 2027 வரை நீட்டிக்கப்பட்டது"
+        },
+        {
+          "en": "1.13 lakh teachers trained in first year",
+          "ta": "முதல் ஆண்டில் 1.13 லட்சம் ஆசிரியர்கள் பயிற்சி பெற்றனர்"
+        }
+      ],
+      "icon": "✏️",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "vaasippu-iyakkam",
+      "name": {
+        "en": "Vaasippu Iyakkam (Reading Movement)",
+        "ta": "வாசிப்பு இயக்கம்"
+      },
+      "description": {
+        "en": "Statewide reading initiative to cultivate reading habits among students with specially designed books in Tamil and English translations across 204 titles.",
+        "ta": "204 தலைப்புகளில் தமிழ் மற்றும் ஆங்கில மொழிபெயர்ப்புகளில் சிறப்பாக வடிவமைக்கப்பட்ட புத்தகங்களுடன் மாணவர்களிடையே வாசிப்பு பழக்கத்தை வளர்க்க மாநிலம் முழுவதும் வாசிப்பு முயற்சி."
+      },
+      "launchDate": "July 21, 2023",
+      "beneficiaries": {
+        "count": "3.60 crore book copies",
+        "description": {
+          "en": "All government and government-aided schools",
+          "ta": "அனைத்து அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2023-24",
+        "details": "204 titles printed and distributed"
+      },
+      "coverage": "All government and government-aided schools",
+      "highlights": [
+        {
+          "en": "204 book titles in Tamil with English translations",
+          "ta": "ஆங்கில மொழிபெயர்ப்புகளுடன் தமிழில் 204 புத்தக தலைப்புகள்"
+        },
+        {
+          "en": "3.60 crore copies printed and distributed",
+          "ta": "3.60 கோடி பிரதிகள் அச்சிடப்பட்டு விநியோகிக்கப்பட்டன"
+        },
+        {
+          "en": "Includes activities like continuous reading marathons",
+          "ta": "தொடர் வாசிப்பு மராத்தான் போன்ற நடவடிக்கைகள் அடங்கும்"
+        },
+        {
+          "en": "Enhances library hours with dedicated reading periods",
+          "ta": "அர்ப்பணிக்கப்பட்ட வாசிப்பு காலங்களுடன் நூலக நேரங்களை மேம்படுத்துகிறது"
+        }
+      ],
+      "icon": "📚",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "tamil-mozhi-karpom",
+      "name": {
+        "en": "Tamil Mozhi Karpom (Tamil Learning for Migrant Children)",
+        "ta": "தமிழ் மொழி கற்போம்"
+      },
+      "description": {
+        "en": "Special program enabling children of migrant workers from other states to learn Tamil as a subject while studying other subjects in their mother tongue.",
+        "ta": "பிற மாநிலங்களிலிருந்து வந்த புலம்பெயர் தொழிலாளர்களின் குழந்தைகள் தங்கள் தாய்மொழியில் மற்ற பாடங்களைப் படிக்கும்போது தமிழை ஒரு பாடமாக கற்க உதவும் சிறப்புத் திட்டம்."
+      },
+      "launchDate": "2023",
+      "beneficiaries": {
+        "count": "4,529 students",
+        "description": {
+          "en": "Children of migrant workers in 197 centers",
+          "ta": "197 மையங்களில் புலம்பெயர் தொழிலாளர்களின் குழந்தைகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹176.01 lakh",
+        "year": "2023-2026",
+        "details": "197 learning centers established"
+      },
+      "coverage": "197 centers across Tamil Nadu",
+      "highlights": [
+        {
+          "en": "197 Tamil learning centers for migrant children",
+          "ta": "புலம்பெயர் குழந்தைகளுக்கு 197 தமிழ் கற்றல் மையங்கள்"
+        },
+        {
+          "en": "4,529 students learning Tamil as additional subject",
+          "ta": "4,529 மாணவர்கள் தமிழை கூடுதல் பாடமாக கற்கின்றனர்"
+        },
+        {
+          "en": "Bilingual approach maintaining mother tongue",
+          "ta": "தாய்மொழியை பராமரிக்கும் இருமொழி அணுகுமுறை"
+        },
+        {
+          "en": "Rs 176.01 lakh allocated over 3 years",
+          "ta": "3 ஆண்டுகளில் ரூ.176.01 லட்சம் ஒதுக்கப்பட்டது"
+        }
+      ],
+      "icon": "🗣️",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "self-defense-training",
+      "name": {
+        "en": "Self Defense Training for Girl Students",
+        "ta": "பெண் மாணவிகளுக்கு தற்காப்பு கலை பயிற்சி"
+      },
+      "description": {
+        "en": "3-month self-defense training program teaching karate and silambam to girl students from classes 6-12 through certified instructors.",
+        "ta": "சான்றளிக்கப்பட்ட பயிற்சியாளர்கள் மூலம் 6-12 வகுப்பு பெண் மாணவிகளுக்கு கராத்தே மற்றும் சிலம்பம் கற்பிக்கும் 3 மாத தற்காப்பு பயிற்சி திட்டம்."
+      },
+      "launchDate": "2023",
+      "beneficiaries": {
+        "count": "9.38 lakh girl students",
+        "description": {
+          "en": "Classes 6-12 in government schools",
+          "ta": "அரசு பள்ளிகளில் 6-12 வகுப்புகள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2025-26",
+        "details": "Certified martial arts instructors"
+      },
+      "coverage": "All government schools with girls from classes 6-12",
+      "highlights": [
+        {
+          "en": "9.38 lakh girl students trained in 2025-26",
+          "ta": "2025-26-ல் 9.38 லட்சம் பெண் மாணவிகள் பயிற்சி பெற்றனர்"
+        },
+        {
+          "en": "Teaches karate and silambam martial arts",
+          "ta": "கராத்தே மற்றும் சிலம்பம் தற்காப்புக் கலைகள் கற்பிக்கிறது"
+        },
+        {
+          "en": "3-month intensive training program",
+          "ta": "3 மாத தீவிர பயிற்சி திட்டம்"
+        },
+        {
+          "en": "Aims to build confidence and prevent dropouts",
+          "ta": "தன்னம்பிக்கையை வளர்க்கவும் இடைநிறுத்தத்தை தடுக்கவும் நோக்கம்"
+        }
+      ],
+      "icon": "🥋",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "student-helpline-14417",
+      "name": {
+        "en": "14417 Student Help Center",
+        "ta": "14417 மாணவர் உதவி மையம்"
+      },
+      "description": {
+        "en": "Dedicated helpline providing education-related assistance, career guidance, mental health counseling, and grievance redressal for students and parents.",
+        "ta": "மாணவர்களுக்கும் பெற்றோர்களுக்கும் கல்வி தொடர்பான உதவி, தொழில் வழிகாட்டுதல், மனநல ஆலோசனை மற்றும் குறை தீர்ப்பு வழங்கும் அர்ப்பணிக்கப்பட்ட உதவி எண்."
+      },
+      "launchDate": "2022",
+      "beneficiaries": {
+        "count": "47.05 lakh beneficiaries",
+        "description": {
+          "en": "Students and parents seeking education support",
+          "ta": "கல்வி ஆதரவை நாடும் மாணவர்கள் மற்றும் பெற்றோர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2022-2026",
+        "details": "Integrated call center operations"
+      },
+      "coverage": "All 38 districts",
+      "highlights": [
+        {
+          "en": "5,62,708 inbound calls handled for exam/career/mental health queries",
+          "ta": "தேர்வு/தொழில்/மனநல வினாக்களுக்கு 5,62,708 உள்வரும் அழைப்புகள் கையாளப்பட்டன"
+        },
+        {
+          "en": "34,92,155 outbound calls for student tracking and support",
+          "ta": "மாணவர் கண்காணிப்பு மற்றும் ஆதரவுக்கு 34,92,155 வெளிச்செல்லும் அழைப்புகள்"
+        },
+        {
+          "en": "47.05 lakh total beneficiaries served",
+          "ta": "மொத்தம் 47.05 லட்சம் பயனாளிகளுக்கு சேவை"
+        },
+        {
+          "en": "Handles dropout tracking and higher education guidance",
+          "ta": "இடைநிறுத்த கண்காணிப்பு மற்றும் உயர்கல்வி வழிகாட்டுதலை கையாளுகிறது"
+        }
+      ],
+      "icon": "📞",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "tnspark-curriculum",
+      "name": {
+        "en": "TNSPARK (AI, Robotics & Coding Curriculum)",
+        "ta": "TNSPARK (செயற்கை நுண்ணறிவு, ரோபோடிக்ஸ் & குறியீட்டு பாடத்திட்டம்)"
+      },
+      "description": {
+        "en": "Future-ready curriculum introducing Computer Science fundamentals, Artificial Intelligence, Coding, Online Educational Tools, and Robotics in government schools.",
+        "ta": "அரசு பள்ளிகளில் கணினி அறிவியல் அடிப்படைகள், செயற்கை நுண்ணறிவு, குறியீட்டு, ஆன்லைன் கல்வி கருவிகள் மற்றும் ரோபோடிக்ஸ் அறிமுகப்படுத்தும் எதிர்கால-தயார் பாடத்திட்டம்."
+      },
+      "launchDate": "2025-26",
+      "beneficiaries": {
+        "count": "5,000 schools (Phase 1)",
+        "description": {
+          "en": "Middle, High, Higher Secondary students",
+          "ta": "நடுநிலை, உயர்நிலை, மேல்நிலை மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2025-26",
+        "details": "Full rollout to all schools by 2026-27"
+      },
+      "coverage": "5,000 government middle and higher secondary schools in first phase",
+      "highlights": [
+        {
+          "en": "5,000 schools in Phase 1 (2025-26)",
+          "ta": "முதல் கட்டத்தில் 5,000 பள்ளிகள் (2025-26)"
+        },
+        {
+          "en": "Covers AI, Robotics, Coding, Online Tools",
+          "ta": "AI, ரோபோடிக்ஸ், குறியீட்டு, ஆன்லைன் கருவிகளை உள்ளடக்கியது"
+        },
+        {
+          "en": "Developed by SCERT for future-ready education",
+          "ta": "எதிர்கால-தயார் கல்விக்காக SCERT-ஆல் உருவாக்கப்பட்டது"
+        },
+        {
+          "en": "Full expansion to all schools by 2026-27",
+          "ta": "2026-27க்குள் அனைத்து பள்ளிகளுக்கும் முழு விரிவாக்கம்"
+        }
+      ],
+      "icon": "🤖",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "kalvi-tholaikaatchi",
+      "name": {
+        "en": "Kalvi Tholaikaatchi (Education TV Channel)",
+        "ta": "கல்வி தொலைக்காட்சி"
+      },
+      "description": {
+        "en": "Dedicated education television channel broadcasting curriculum content, exam preparation videos, career guidance, and mental health content for students from classes 1-12.",
+        "ta": "1-12 வகுப்பு மாணவர்களுக்கான பாடத்திட்ட உள்ளடக்கம், தேர்வு தயாரிப்பு வீடியோக்கள், தொழில் வழிகாட்டுதல் மற்றும் மனநல உள்ளடக்கம் ஒளிபரப்பும் அர்ப்பணிக்கப்பட்ட கல்வி தொலைக்காட்சி சேனல்."
+      },
+      "launchDate": "2021",
+      "beneficiaries": {
+        "count": "1.23 crore students",
+        "description": {
+          "en": "58,721 schools and 5.32 lakh teachers",
+          "ta": "58,721 பள்ளிகள் மற்றும் 5.32 லட்சம் ஆசிரியர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2021-2026",
+        "details": "5 high-tech cameras, virtual studio"
+      },
+      "coverage": "All 38 districts via TV broadcast and YouTube",
+      "highlights": [
+        {
+          "en": "1.23 crore students benefit from broadcasts",
+          "ta": "1.23 கோடி மாணவர்கள் ஒளிபரப்புகளால் பயனடைகின்றனர்"
+        },
+        {
+          "en": "58,721 schools connected via virtual studio",
+          "ta": "58,721 பள்ளிகள் மெய்நிகர் ஸ்டுடியோ வழியாக இணைக்கப்பட்டுள்ளன"
+        },
+        {
+          "en": "Content available on YouTube for anytime access",
+          "ta": "எந்த நேரமும் அணுகலுக்கு YouTube-ல் உள்ளடக்கம் கிடைக்கும்"
+        },
+        {
+          "en": "Includes virtual tours of historical sites",
+          "ta": "வரலாற்று தளங்களின் மெய்நிகர் சுற்றுலாக்கள் அடங்கும்"
+        }
+      ],
+      "icon": "📺",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "thagaisa-model-schools",
+      "name": {
+        "en": "Thagai Sa Schools (Model Schools)",
+        "ta": "தகைசா பள்ளிகள் (மாதிரிப் பள்ளிகள்)"
+      },
+      "description": {
+        "en": "Transformation of selected government schools into model schools with enhanced infrastructure, curriculum support, and co-curricular facilities.",
+        "ta": "மேம்படுத்தப்பட்ட உள்கட்டமைப்பு, பாடத்திட்ட ஆதரவு மற்றும் இணைப் பாடத்திட்ட வசதிகளுடன் தேர்ந்தெடுக்கப்பட்ட அரசு பள்ளிகளை மாதிரிப் பள்ளிகளாக மாற்றுதல்."
+      },
+      "launchDate": "2023",
+      "beneficiaries": {
+        "count": "28 schools",
+        "description": {
+          "en": "One model school per district",
+          "ta": "ஒவ்வொரு மாவட்டத்திற்கும் ஒரு மாதிரிப் பள்ளி"
+        }
+      },
+      "budget": {
+        "amount": "₹160.82 crore",
+        "year": "2023-26",
+        "details": "Infrastructure and curriculum upgrades"
+      },
+      "coverage": "28 districts with one model school each",
+      "highlights": [
+        {
+          "en": "28 schools upgraded across 28 districts",
+          "ta": "28 மாவட்டங்களில் 28 பள்ளிகள் மேம்படுத்தப்பட்டன"
+        },
+        {
+          "en": "Rs 160.82 crore for infrastructure upgrades",
+          "ta": "உள்கட்டமைப்பு மேம்படுத்தலுக்கு ரூ.160.82 கோடி"
+        },
+        {
+          "en": "Enhanced learning environment and facilities",
+          "ta": "மேம்படுத்தப்பட்ட கற்றல் சூழல் மற்றும் வசதிகள்"
+        },
+        {
+          "en": "Serves as benchmark for school improvements",
+          "ta": "பள்ளி மேம்பாடுகளுக்கான அளவுகோலாக செயல்படுகிறது"
+        }
+      ],
+      "icon": "🏫",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "career-guidance-centers",
+      "name": {
+        "en": "Higher Education Career Guidance Centers",
+        "ta": "உயர்கல்வி வேலைவாய்ப்பு வழிகாட்டுதல் மையங்கள்"
+      },
+      "description": {
+        "en": "Career guidance cells established in every government higher secondary school providing soft skills training, career counseling, and competitive exam preparation support for students from classes 9-12.",
+        "ta": "9-12 வகுப்பு மாணவர்களுக்கு மென்திறன் பயிற்சி, தொழில் ஆலோசனை மற்றும் போட்டித் தேர்வு தயாரிப்பு ஆதரவை வழங்கும் ஒவ்வொரு அரசு மேல்நிலைப் பள்ளியிலும் நிறுவப்பட்ட தொழில் வழிகாட்டுதல் அலகுகள்."
+      },
+      "launchDate": "2023",
+      "beneficiaries": {
+        "count": "2.40 lakh students",
+        "description": {
+          "en": "Classes 9-12 in government higher secondary schools",
+          "ta": "அரசு மேல்நிலைப் பள்ளிகளில் 9-12 வகுப்புகள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2024-25",
+        "details": "One CG Cell per higher secondary school"
+      },
+      "coverage": "All government higher secondary schools",
+      "highlights": [
+        {
+          "en": "2.40 lakh students benefited in 2024-25",
+          "ta": "2024-25-ல் 2.40 லட்சம் மாணவர்கள் பயனடைந்தனர்"
+        },
+        {
+          "en": "178 career guidance videos on Kalvi TV",
+          "ta": "கல்வி TV-ல் 178 தொழில் வழிகாட்டுதல் வீடியோக்கள்"
+        },
+        {
+          "en": "Naan Mudhalvan portal for career information",
+          "ta": "தொழில் தகவலுக்கு நான் முதல்வன் போர்ட்டல்"
+        },
+        {
+          "en": "84 students placed in premier institutions",
+          "ta": "84 மாணவர்கள் முதன்மை நிறுவனங்களில் இடம் பெற்றனர்"
+        }
+      ],
+      "icon": "🎯",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "velicham-schools",
+      "name": {
+        "en": "Velicham Schools (Competitive Exam Prep Centers)",
+        "ta": "வெளிச்சம் பள்ளிகள் (போட்டித் தேர்வு தயாரிப்பு மையங்கள்)"
+      },
+      "description": {
+        "en": "One dedicated higher secondary school per block upgraded to prepare students for JEE, NEET, and CLAT competitive exams with specialized coaching and guidance.",
+        "ta": "JEE, NEET மற்றும் CLAT போட்டித் தேர்வுகளுக்கு சிறப்பு பயிற்சி மற்றும் வழிகாட்டுதலுடன் மாணவர்களைத் தயார்படுத்த ஒரு வட்டாரத்திற்கு ஒரு அர்ப்பணிக்கப்பட்ட மேல்நிலைப் பள்ளி மேம்படுத்தப்பட்டது."
+      },
+      "launchDate": "2025-26",
+      "beneficiaries": {
+        "count": "414 schools",
+        "description": {
+          "en": "One per block for classes 11-12",
+          "ta": "11-12 வகுப்புகளுக்கு ஒரு வட்டாரத்திற்கு ஒன்று"
+        }
+      },
+      "budget": {
+        "amount": "₹54.73 crore",
+        "year": "2025-26",
+        "details": "One Velicham school per block"
+      },
+      "coverage": "414 blocks across Tamil Nadu",
+      "highlights": [
+        {
+          "en": "Rs 54.73 crore allocated for 2025-26",
+          "ta": "2025-26க்கு ரூ.54.73 கோடி ஒதுக்கப்பட்டது"
+        },
+        {
+          "en": "414 schools (one per block) upgraded",
+          "ta": "414 பள்ளிகள் (ஒரு வட்டாரத்திற்கு ஒன்று) மேம்படுத்தப்பட்டன"
+        },
+        {
+          "en": "Specialized JEE, NEET, CLAT coaching",
+          "ta": "சிறப்பு JEE, NEET, CLAT பயிற்சி"
+        },
+        {
+          "en": "Supported by district model school network",
+          "ta": "மாவட்ட மாதிரி பள்ளி நெட்வொர்க் ஆதரவு"
+        }
+      ],
+      "icon": "💡",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
     }
   ],
   "educationStats": {
     "totalBudget": "₹55,261 crore",
     "schoolBudget": "₹46,767 crore",
     "higherEdBudget": "₹8,494 crore",
-    "illamThediBeneficiaries": "96 lakh",
+    "illamThediBeneficiaries": "101.84 lakh",
     "pudhmaaiPennBeneficiaries": "2.73 lakh",
     "tamilPudhalvanBeneficiaries": "3.28 lakh",
-    "breakfastBeneficiaries": "20.73 lakh",
-    "laptopsPlanned": "10 lakh"
+    "breakfastBeneficiaries": "20.58 lakh",
+    "laptopsPlanned": "10 lakh",
+    "enEluthuBeneficiaries": "74.88 lakh",
+    "manigaleDownloads": "16.30 lakh+",
+    "kalviTVStudents": "1.23 crore",
+    "careerGuidanceBeneficiaries": "2.40 lakh",
+    "selfDefenseTrainees": "9.38 lakh"
   }
 }
