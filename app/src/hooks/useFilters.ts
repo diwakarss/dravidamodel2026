@@ -124,6 +124,15 @@ export function useFilters(projects: Project[]): UseFiltersReturn {
       "Water/Sanitation": 0,
       "Education/Health": 0,
       "Power/Utilities": 0,
+      "Cultural/Heritage": 0,
+      "Sports/Recreation": 0,
+      "Industrial/IT": 0,
+      Housing: 0,
+      "Parks/Environment": 0,
+      "Ports/Logistics": 0,
+      "Public Safety": 0,
+      "Urban Development": 0,
+      Tourism: 0,
       Other: 0,
     };
     for (const project of projects) {

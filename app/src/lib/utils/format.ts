@@ -71,6 +71,15 @@ export function formatType(type: Project["type"], locale: string): string {
     "Water/Sanitation": { en: "Water/Sanitation", ta: "நீர்/சுகாதாரம்" },
     "Education/Health": { en: "Education/Health", ta: "கல்வி/சுகாதாரம்" },
     "Power/Utilities": { en: "Power/Utilities", ta: "மின்சாரம்/பொது சேவைகள்" },
+    "Cultural/Heritage": { en: "Cultural/Heritage", ta: "கலாச்சாரம்/பாரம்பரியம்" },
+    "Sports/Recreation": { en: "Sports/Recreation", ta: "விளையாட்டு/பொழுதுபோக்கு" },
+    "Industrial/IT": { en: "Industrial/IT", ta: "தொழில்/தகவல் தொழில்நுட்பம்" },
+    Housing: { en: "Housing", ta: "வீட்டு வசதி" },
+    "Parks/Environment": { en: "Parks/Environment", ta: "பூங்காக்கள்/சுற்றுச்சூழல்" },
+    "Ports/Logistics": { en: "Ports/Logistics", ta: "துறைமுகம்/சரக்கு போக்குவரத்து" },
+    "Public Safety": { en: "Public Safety", ta: "பொது பாதுகாப்பு" },
+    "Urban Development": { en: "Urban Development", ta: "நகர்ப்புற மேம்பாடு" },
+    Tourism: { en: "Tourism", ta: "சுற்றுலா" },
     Other: { en: "Other", ta: "பிற" },
   };
 

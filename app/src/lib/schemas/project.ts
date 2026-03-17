@@ -108,14 +108,25 @@ export const ProjectCategorySchema = z.enum([
   "Social Welfare",
 ]);
 
-// Legacy type schema (kept for migration compatibility)
+// Project type schema (expanded with granular categories)
 export const ProjectTypeSchema = z.enum([
+  // Original types
   "Public Transport",
   "Roads/Highways",
   "Water/Sanitation",
   "Education/Health",
   "Power/Utilities",
   "Other",
+  // New granular types
+  "Cultural/Heritage",
+  "Sports/Recreation",
+  "Industrial/IT",
+  "Housing",
+  "Parks/Environment",
+  "Ports/Logistics",
+  "Public Safety",
+  "Urban Development",
+  "Tourism",
 ]);
 
 export const ProjectStatusSchema = z.enum(["Completed", "Ongoing", "Planned"]);

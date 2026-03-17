@@ -670,7 +670,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 14688,
@@ -906,7 +906,7 @@
           "longitude": 78.1193
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 150,
@@ -1046,7 +1046,7 @@
           "longitude": 78.7047
         }
       },
-      "type": "Other",
+      "type": "Ports/Logistics",
       "status": "Completed",
       "budget": {
         "crore": 129,
@@ -1182,7 +1182,7 @@
           "longitude": 77.7172
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Planned",
       "budget": {
         "crore": 22,
@@ -1230,7 +1230,7 @@
           "longitude": 78.8377
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Planned",
       "budget": {
         "crore": 21,
@@ -1274,7 +1274,7 @@
           "longitude": 78.1198
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Planned",
       "budget": {
         "crore": null,
@@ -1318,7 +1318,7 @@
           "longitude": 80.2609
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Planned",
       "budget": {
         "crore": 40,
@@ -1362,7 +1362,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Ongoing",
       "budget": {
         "crore": null,
@@ -1406,7 +1406,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Ongoing",
       "budget": {
         "crore": null,
@@ -1454,7 +1454,7 @@
           "longitude": 80.2795
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -1498,7 +1498,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 9.67,
@@ -1542,7 +1542,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Planned",
       "budget": {
         "crore": 500,
@@ -1594,7 +1594,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": null,
@@ -1638,7 +1638,7 @@
           "longitude": 79.9077
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Planned",
       "budget": {
         "crore": null,
@@ -1682,7 +1682,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 3444,
@@ -1726,7 +1726,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Completed",
       "budget": {
         "crore": 1000,
@@ -1770,7 +1770,7 @@
           "longitude": 78.1198
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -1814,7 +1814,7 @@
           "longitude": 78.146
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 944,
@@ -1858,7 +1858,7 @@
           "longitude": 79.1378
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -1902,7 +1902,7 @@
           "longitude": 79.1325
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -1946,7 +1946,7 @@
           "longitude": 77.3411
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -1990,7 +1990,7 @@
           "longitude": 78.1348
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -2034,7 +2034,7 @@
           "longitude": 77.7567
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -2078,7 +2078,7 @@
           "longitude": 77.7172
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -2122,7 +2122,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Ongoing",
       "budget": {
         "crore": 1424,
@@ -2170,7 +2170,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Ports/Logistics",
       "status": "Ongoing",
       "budget": {
         "crore": 42000,
@@ -3470,7 +3470,7 @@
           "longitude": 78.4809
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 18.42,
@@ -3518,7 +3518,7 @@
           "longitude": 77.7567
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 67.25,
@@ -3566,7 +3566,7 @@
           "longitude": 78.08
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 62.77,
@@ -3614,7 +3614,7 @@
           "longitude": 80.24
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 80,
@@ -3662,7 +3662,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Completed",
       "budget": {
         "crore": 208.5,
@@ -3850,7 +3850,7 @@
           "longitude": 79.65
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 120,
@@ -3894,7 +3894,7 @@
           "longitude": 77.4777
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 70,
@@ -3938,7 +3938,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Housing",
       "status": "Completed",
       "budget": {
         "crore": 527.84,
@@ -3982,7 +3982,7 @@
           "longitude": 80.2103
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 2.85,
@@ -4030,7 +4030,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Housing",
       "status": "Ongoing",
       "budget": {
         "crore": 72,
@@ -4074,7 +4074,7 @@
           "longitude": 78.1646
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 45.5,
@@ -4118,7 +4118,7 @@
           "longitude": 79.0747
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 37,
@@ -4162,7 +4162,7 @@
           "longitude": 77.3411
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Planned",
       "budget": {
         "crore": null,
@@ -4206,7 +4206,7 @@
           "longitude": 78.7807
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Planned",
       "budget": {
         "crore": 28,
@@ -4250,7 +4250,7 @@
           "longitude": 80.165
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 330,
@@ -4298,7 +4298,7 @@
           "longitude": 78.1348
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 1000,
@@ -4394,7 +4394,7 @@
           "longitude": 79.9077
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": null,
@@ -4814,7 +4814,7 @@
           "longitude": 78.1677
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 90,
@@ -4862,7 +4862,7 @@
           "longitude": 78.146
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 60,
@@ -4910,7 +4910,7 @@
           "longitude": 78.8796
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 150,
@@ -4958,7 +4958,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Public Safety",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -5002,7 +5002,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Public Safety",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -5142,7 +5142,7 @@
           "longitude": 79.7036
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Ongoing",
       "budget": {
         "crore": 29,
@@ -5190,7 +5190,7 @@
           "longitude": 80.19
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Ongoing",
       "budget": {
         "crore": 9,
@@ -5282,7 +5282,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Housing",
       "status": "Completed",
       "budget": {
         "crore": 426,
@@ -5330,7 +5330,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Housing",
       "status": "Completed",
       "budget": {
         "crore": 541.32,
@@ -5506,7 +5506,7 @@
           "longitude": 80.223
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 30,
@@ -5550,7 +5550,7 @@
           "longitude": 80.1564
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Completed",
       "budget": {
         "crore": 12.6,
@@ -5594,7 +5594,7 @@
           "longitude": 76.695
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Ongoing",
       "budget": {
         "crore": 70,
@@ -5638,7 +5638,7 @@
           "longitude": 77.5515
         }
       },
-      "type": "Other",
+      "type": "Tourism",
       "status": "Completed",
       "budget": {
         "crore": 37,
@@ -5686,7 +5686,7 @@
           "longitude": 78.1198
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 20,
@@ -5734,7 +5734,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 9.67,
@@ -5778,7 +5778,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 0.28,
@@ -5826,7 +5826,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 0.5,
@@ -5870,7 +5870,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 69,
@@ -5918,7 +5918,7 @@
           "longitude": 80.1548
         }
       },
-      "type": "Other",
+      "type": "Education/Health",
       "status": "Completed",
       "budget": {
         "crore": 120,
@@ -5962,7 +5962,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
         "crore": 148,
@@ -6006,7 +6006,7 @@
           "longitude": 77.3411
         }
       },
-      "type": "Other",
+      "type": "Education/Health",
       "status": "Ongoing",
       "budget": {
         "crore": 152,
@@ -6050,7 +6050,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Public Safety",
       "status": "Completed",
       "budget": {
         "crore": 22.08,
@@ -6094,7 +6094,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Public Safety",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -6582,7 +6582,7 @@
           "longitude": 80.24
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 525,
@@ -6626,7 +6626,7 @@
           "longitude": 77.7567
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -6670,7 +6670,7 @@
           "longitude": 80.21
         }
       },
-      "type": "Other",
+      "type": "Ports/Logistics",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -6714,7 +6714,7 @@
           "longitude": 80.18
         }
       },
-      "type": "Other",
+      "type": "Ports/Logistics",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -6758,7 +6758,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Completed",
       "budget": {
         "crore": null,
@@ -6935,7 +6935,7 @@
           "longitude": 80.2833
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 1383,
@@ -7064,7 +7064,7 @@
           "longitude": 76.89
         }
       },
-      "type": "Other",
+      "type": "Public Safety",
       "status": "Ongoing",
       "budget": {
         "crore": 668.71,
@@ -7150,7 +7150,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Ongoing",
       "budget": {
         "crore": 425,
@@ -7252,7 +7252,7 @@
           "longitude": 78.68
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 403,
@@ -7295,7 +7295,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 350,
@@ -7393,7 +7393,7 @@
           "longitude": 80.0667
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 330,
@@ -7436,7 +7436,7 @@
           "longitude": 78.14
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 314,
@@ -7479,7 +7479,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Ongoing",
       "budget": {
         "crore": 300,
@@ -7522,7 +7522,7 @@
           "longitude": 80.3
         }
       },
-      "type": "Other",
+      "type": "Ports/Logistics",
       "status": "Completed",
       "budget": {
         "crore": 272.7,
@@ -7565,7 +7565,7 @@
           "longitude": 78.72
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 236,
@@ -7608,7 +7608,7 @@
           "longitude": 78.3355
         }
       },
-      "type": "Other",
+      "type": "Public Safety",
       "status": "Ongoing",
       "budget": {
         "crore": 229.2,
@@ -7651,7 +7651,7 @@
           "longitude": 76.9558
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Completed",
       "budget": {
         "crore": 208.5,
@@ -7737,7 +7737,7 @@
           "longitude": 80.27
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Completed",
       "budget": {
         "crore": 200,
@@ -7823,7 +7823,7 @@
           "longitude": 80.2833
         }
       },
-      "type": "Other",
+      "type": "Housing",
       "status": "Completed",
       "budget": {
         "crore": 178,
@@ -7960,7 +7960,7 @@
           "longitude": 76.9957
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 158.32,
@@ -8054,7 +8054,7 @@
           "longitude": 78.9599
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Completed",
       "budget": {
         "crore": 139.41,
@@ -8195,7 +8195,7 @@
           "longitude": 80.285
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 113,
@@ -8325,7 +8325,7 @@
           "longitude": 77.9528
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Completed",
       "budget": {
         "crore": 77.12,
@@ -8368,7 +8368,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 74.7,
@@ -8505,7 +8505,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Completed",
       "budget": {
         "crore": 64.53,
@@ -8595,7 +8595,7 @@
           "longitude": 80.2167
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Ongoing",
       "budget": {
         "crore": 53.5,
@@ -8646,7 +8646,7 @@
           "longitude": 78.1348
         }
       },
-      "type": "Other",
+      "type": "Industrial/IT",
       "status": "Completed",
       "budget": {
         "crore": 32.5,
@@ -8756,7 +8756,7 @@
           "longitude": 80.1667
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Completed",
       "budget": {
         "crore": 15.75,
@@ -8803,7 +8803,7 @@
           "longitude": 78.4167
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 9.1,
@@ -8846,7 +8846,7 @@
           "longitude": 80.2167
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Completed",
       "budget": {
         "crore": 4.98,
@@ -8889,7 +8889,7 @@
           "longitude": 80.2347
         }
       },
-      "type": "Other",
+      "type": "Sports/Recreation",
       "status": "Completed",
       "budget": {
         "crore": 3.2,
@@ -8925,7 +8925,7 @@
         "city": "Adyar",
         "coordinates": {
           "latitude": 12.9988,
-          "longitude": 80.2520
+          "longitude": 80.252
         }
       },
       "type": "Roads/Highways",
@@ -8969,7 +8969,7 @@
         "city": "Velachery",
         "coordinates": {
           "latitude": 12.9815,
-          "longitude": 80.2180
+          "longitude": 80.218
         }
       },
       "type": "Roads/Highways",
@@ -9094,7 +9094,7 @@
         "district": "Multiple (Thanjavur, Nagapattinam, Pudukkottai, Mayiladuthurai, Tiruvarur)",
         "city": "Thanjavur",
         "coordinates": {
-          "latitude": 10.7870,
+          "latitude": 10.787,
           "longitude": 79.1378
         }
       },
@@ -9176,8 +9176,8 @@
         "district": "Multiple (Erode, Karur, Tirupur)",
         "city": "Erode",
         "coordinates": {
-          "latitude": 11.4500,
-          "longitude": 77.8800
+          "latitude": 11.45,
+          "longitude": 77.88
         }
       },
       "type": "Water/Sanitation",
@@ -9217,8 +9217,8 @@
         "district": "Salem",
         "city": "Sarabanga",
         "coordinates": {
-          "latitude": 11.6500,
-          "longitude": 78.1500
+          "latitude": 11.65,
+          "longitude": 78.15
         }
       },
       "type": "Water/Sanitation",
@@ -9258,8 +9258,8 @@
         "district": "Multiple (Cuddalore, Mayiladuthurai)",
         "city": "Mayiladuthurai",
         "coordinates": {
-          "latitude": 11.1000,
-          "longitude": 79.6500
+          "latitude": 11.1,
+          "longitude": 79.65
         }
       },
       "type": "Water/Sanitation",
@@ -9426,7 +9426,7 @@
           "longitude": 78.1198
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 120.75,
@@ -9586,11 +9586,11 @@
         "district": "Chennai",
         "city": "Chennai",
         "coordinates": {
-          "latitude": 13.0700,
-          "longitude": 80.2700
+          "latitude": 13.07,
+          "longitude": 80.27
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 32.62,
@@ -9634,7 +9634,7 @@
       "type": "Education/Health",
       "status": "Completed",
       "budget": {
-        "crore": 152.50,
+        "crore": 152.5,
         "notes": "Emergency pandemic infrastructure by PWD"
       },
       "timeline": {
@@ -9750,11 +9750,11 @@
         "district": "Madurai",
         "city": "Keeladi",
         "coordinates": {
-          "latitude": 9.8780,
-          "longitude": 78.1650
+          "latitude": 9.878,
+          "longitude": 78.165
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 18.42,
@@ -9791,11 +9791,11 @@
         "district": "Chennai",
         "city": "Chennai",
         "coordinates": {
-          "latitude": 13.0500,
-          "longitude": 80.2500
+          "latitude": 13.05,
+          "longitude": 80.25
         }
       },
-      "type": "Other",
+      "type": "Urban Development",
       "status": "Ongoing",
       "budget": {
         "crore": 227,
@@ -9836,7 +9836,7 @@
           "longitude": 80.2433
         }
       },
-      "type": "Other",
+      "type": "Cultural/Heritage",
       "status": "Completed",
       "budget": {
         "crore": 37.82,
@@ -10082,7 +10082,7 @@
           "longitude": 80.2707
         }
       },
-      "type": "Other",
+      "type": "Parks/Environment",
       "status": "Ongoing",
       "budget": {
         "crore": 154.45,
