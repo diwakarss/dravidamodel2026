@@ -2612,14 +2612,22 @@
     "investment2025MoUs": 382,
     "investment2025": 152881,
     "investment2025Jobs": 200000,
-    "totalMoUs": 1013,
-    "totalInvestmentSince2021": 817061,
-    "projectedJobs": 2890657,
+    "totalMoUs": 1176,
+    "totalInvestmentLakhCrore": 12.16,
+    "projectedJobs": 3600000,
     "mouConversionRate": 82.52,
     "policyTarget": "Trillion Dollar Economy by 2030",
     "sipcotLandBank": "40,000 acres (acquiring 45,000 more)",
+    "sipcotLandAcquired": 12198,
+    "sipcotLandBankTarget": 55278,
+    "sipcotParksActive": 38,
     "electronicsExports2025": 14.65,
+    "electronicsExportsSharePercent": 41.23,
     "evProductionShare": 40,
-    "dataLastUpdated": "February 2026"
+    "industrialUnits": 40000,
+    "tidelNeoParks": 17,
+    "tidelNeoParksOperational": 9,
+    "dataLastUpdated": "March 2026",
+    "source": "DMK 5 Years Achievement Report"
   }
 }
