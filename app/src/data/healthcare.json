@@ -2287,6 +2287,570 @@
           "type": "government"
         }
       ]
+    },
+    {
+      "id": "kalaignar-centenary-super-specialty",
+      "name": {
+        "en": "Kalaignar Centenary Super Specialty Hospital (KCSSH)",
+        "ta": "கலைஞர் நூற்றாண்டு உயர் சிறப்பு மருத்துவமனை"
+      },
+      "description": {
+        "en": "1,000-bed super specialty hospital with 15 operation theaters and advanced medical facilities, inaugurated by CM Stalin.",
+        "ta": "15 அறுவை சிகிச்சை அரங்குகள் மற்றும் மேம்பட்ட மருத்துவ வசதிகளுடன் 1,000 படுக்கைகள் கொண்ட உயர் சிறப்பு மருத்துவமனை."
+      },
+      "launchYear": "June 15, 2023",
+      "beneficiaries": {
+        "count": "8.11 lakh outpatients + 2.80 lakh inpatients served",
+        "description": {
+          "en": "Advanced specialty care recipients",
+          "ta": "மேம்பட்ட சிறப்பு சிகிச்சை பெறுவோர்"
+        }
+      },
+      "budget": {
+        "amount": "₹240 crore + ₹146 crore (equipment)",
+        "year": "2023",
+        "details": "Infrastructure and advanced medical equipment"
+      },
+      "coverage": "Statewide tertiary care referral center",
+      "highlights": [
+        {
+          "en": "1,000 beds with 15 operation theaters",
+          "ta": "15 அறுவை சிகிச்சை அரங்குகளுடன் 1,000 படுக்கைகள்"
+        },
+        {
+          "en": "8,010 major surgeries, 6,380 minor surgeries performed",
+          "ta": "8,010 பெரிய அறுவை சிகிச்சைகள், 6,380 சிறிய அறுவை சிகிச்சைகள்"
+        },
+        {
+          "en": "Master Health Checkup facility with ₹6.83 cr equipment",
+          "ta": "₹6.83 கோடி உபகரணங்களுடன் முழு உடல் பரிசோதனை வசதி"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "periyar-government-hospital-560bed",
+      "name": {
+        "en": "Periyar Government Hospital (560-bed New Building)",
+        "ta": "பெரியார் அரசு மருத்துவமனை (560 படுக்கை புதிய கட்டிடம்)"
+      },
+      "description": {
+        "en": "New 560-bed G1 to G6 multi-storey hospital building at Periyar Nagar, Chennai, inaugurated by CM Stalin.",
+        "ta": "சென்னை பெரியார் நகரில் G1 முதல் G6 வரை பல மாடி 560 படுக்கை புதிய மருத்துவமனை கட்டிடம்."
+      },
+      "launchYear": "February 27, 2025",
+      "beneficiaries": {
+        "count": "North Chennai population",
+        "description": {
+          "en": "Government hospital patients",
+          "ta": "அரசு மருத்துவமனை நோயாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹211 crore",
+        "year": "2025",
+        "details": "Multi-storey hospital building construction"
+      },
+      "coverage": "Periyar Nagar, Chennai and surrounding areas",
+      "highlights": [
+        {
+          "en": "560 beds across G1-G6 floors",
+          "ta": "G1-G6 தளங்களில் 560 படுக்கைகள்"
+        },
+        {
+          "en": "Inaugurated by CM M.K. Stalin on 27.02.2025",
+          "ta": "27.02.2025 அன்று முதலமைச்சர் மு.க. ஸ்டாலின் திறந்து வைத்தார்"
+        },
+        {
+          "en": "Modern infrastructure for comprehensive care",
+          "ta": "விரிவான சிகிச்சைக்கான நவீன உள்கட்டமைப்பு"
+        }
+      ],
+      "icon": "🏗️",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "national-geriatric-center-guindy",
+      "name": {
+        "en": "National Geriatric Center (Guindy)",
+        "ta": "தேசிய முதியோர் நல மையம் (கிண்டி)"
+      },
+      "description": {
+        "en": "Dedicated 200-bed center for elderly healthcare under central-state partnership, specifically for geriatric medical care.",
+        "ta": "முதியவர்களின் மருத்துவ பராமரிப்புக்காக மத்திய-மாநில கூட்டுடன் 200 படுக்கைகள் கொண்ட பிரத்யேக முதியோர் நல மையம்."
+      },
+      "launchYear": "2024",
+      "beneficiaries": {
+        "count": "Senior citizens of Tamil Nadu",
+        "description": {
+          "en": "Elderly requiring specialized geriatric care",
+          "ta": "சிறப்பு முதியோர் சிகிச்சை தேவைப்படும் பெரியவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹151.17 crore",
+        "year": "Central-State partnership",
+        "details": "Specialized elderly care facility"
+      },
+      "coverage": "Guindy, Chennai - serving entire Tamil Nadu",
+      "highlights": [
+        {
+          "en": "200-bed dedicated geriatric facility",
+          "ta": "200 படுக்கைகள் கொண்ட பிரத்யேக முதியோர் வசதி"
+        },
+        {
+          "en": "Central government partnership with ₹151.17 cr investment",
+          "ta": "₹151.17 கோடி முதலீட்டுடன் மத்திய அரசு கூட்டு"
+        },
+        {
+          "en": "Comprehensive elderly healthcare services",
+          "ta": "விரிவான முதியோர் சுகாதார சேவைகள்"
+        }
+      ],
+      "icon": "👴",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "karaikudi-cancer-hospital-750bed",
+      "name": {
+        "en": "Anna Cancer Hospital Karaikudi (750-bed)",
+        "ta": "அண்ணா புற்றுநோய் மருத்துவமனை காரைக்குடி (750 படுக்கை)"
+      },
+      "description": {
+        "en": "750-bed cancer specialty hospital at Karaikudi, Sivagangai district, with G+2 buildings for comprehensive cancer treatment.",
+        "ta": "சிவகங்கை மாவட்டம் காரைக்குடியில் G+2 கட்டிடங்களுடன் 750 படுக்கைகள் கொண்ட புற்றுநோய் சிறப்பு மருத்துவமனை."
+      },
+      "launchYear": "2024-25",
+      "beneficiaries": {
+        "count": "Cancer patients across Tamil Nadu",
+        "description": {
+          "en": "Those requiring oncology treatment",
+          "ta": "புற்றுநோய் சிகிச்சை தேவைப்படுவோர்"
+        }
+      },
+      "budget": {
+        "amount": "₹120 crore + ₹32 crore (equipment) + ₹100 crore (additional floors)",
+        "year": "2024-25",
+        "details": "Infrastructure, equipment, and expansion"
+      },
+      "coverage": "Anna Government Cancer Hospital, Karaikudi",
+      "highlights": [
+        {
+          "en": "750-bed capacity with G+2 building structure",
+          "ta": "G+2 கட்டிட அமைப்புடன் 750 படுக்கை கொள்ளளவு"
+        },
+        {
+          "en": "₹32 crore approved for medical equipment",
+          "ta": "மருத்துவ உபகரணங்களுக்கு ₹32 கோடி ஒப்புதல்"
+        },
+        {
+          "en": "Additional ₹100 crore for 3rd-5th floor construction",
+          "ta": "3வது-5வது தளங்களுக்கு கூடுதலாக ₹100 கோடி"
+        }
+      ],
+      "icon": "🎗️",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "11-new-medical-colleges",
+      "name": {
+        "en": "11 New Government Medical Colleges",
+        "ta": "11 புதிய அரசு மருத்துவக் கல்லூரிகள்"
+      },
+      "description": {
+        "en": "11 new government medical colleges established across Tamil Nadu, creating 4,350 new medical student seats.",
+        "ta": "தமிழ்நாடு முழுவதும் 11 புதிய அரசு மருத்துவக் கல்லூரிகள் நிறுவப்பட்டு, 4,350 புதிய மருத்துவ மாணவர் இடங்கள் உருவாக்கப்பட்டன."
+      },
+      "launchYear": "2021-2025",
+      "beneficiaries": {
+        "count": "4,350 medical students/year",
+        "description": {
+          "en": "Students pursuing MBBS in government colleges",
+          "ta": "அரசு கல்லூரிகளில் MBBS படிக்கும் மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹4,191 crore",
+        "year": "2021-2025",
+        "details": "11 medical college infrastructure and hospitals"
+      },
+      "coverage": "Dindigul, Ramanathapuram, Virudhunagar, Namakkal, Karur, Nagapattinam, Tirupur, Tiruvallur, Ariyalur, Nilgiris, Kallakurichi",
+      "highlights": [
+        {
+          "en": "11 new medical colleges in underserved districts",
+          "ta": "குறைந்த வசதி கொண்ட மாவட்டங்களில் 11 புதிய மருத்துவக் கல்லூரிகள்"
+        },
+        {
+          "en": "4,350 new MBBS seats created",
+          "ta": "4,350 புதிய MBBS இடங்கள் உருவாக்கப்பட்டன"
+        },
+        {
+          "en": "All colleges operational and serving public",
+          "ta": "அனைத்து கல்லூரிகளும் செயல்பாட்டில் மற்றும் மக்களுக்கு சேவை"
+        }
+      ],
+      "icon": "🎓",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "dr-muthulakshmi-maternity-benefit",
+      "name": {
+        "en": "Dr. Muthulakshmi Reddy Maternity Benefit Scheme",
+        "ta": "டாக்டர் முத்துலட்சுமி ரெட்டி மகப்பேறு நிதியுதவித் திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive maternity financial assistance providing cash benefits to pregnant women across Tamil Nadu since 2006.",
+        "ta": "2006 முதல் தமிழ்நாடு முழுவதும் கர்ப்பிணிப் பெண்களுக்கு பண உதவி வழங்கும் விரிவான மகப்பேறு நிதி உதவித் திட்டம்."
+      },
+      "launchYear": "September 15, 2006",
+      "beneficiaries": {
+        "count": "33.70 lakh beneficiaries (2021-2025)",
+        "description": {
+          "en": "Pregnant women receiving financial assistance",
+          "ta": "நிதி உதவி பெறும் கர்ப்பிணிப் பெண்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹4,000.95 crore",
+        "year": "May 2021 - Dec 2025",
+        "details": "Cash transfers and nutrition boxes"
+      },
+      "coverage": "All pregnant women in Tamil Nadu",
+      "highlights": [
+        {
+          "en": "₹4,000.95 crore disbursed to 33.70 lakh beneficiaries",
+          "ta": "33.70 லட்சம் பயனாளிகளுக்கு ₹4,000.95 கோடி வழங்கப்பட்டது"
+        },
+        {
+          "en": "57,03,722 nutrition boxes distributed",
+          "ta": "57,03,722 ஊட்டச்சத்து பெட்டிகள் வழங்கப்பட்டன"
+        },
+        {
+          "en": "Continuous support from pregnancy to delivery",
+          "ta": "கர்ப்பம் முதல் பிரசவம் வரை தொடர்ச்சியான ஆதரவு"
+        }
+      ],
+      "icon": "🤰",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "mobile-medical-units-476",
+      "name": {
+        "en": "Mobile Medical Units (476 Vehicles)",
+        "ta": "நடமாடும் மருத்துவ பிரிவுகள் (476 வாகனங்கள்)"
+      },
+      "description": {
+        "en": "Fleet of 476 mobile medical vehicles providing healthcare to remote villages on fixed schedules since 2007.",
+        "ta": "2007 முதல் நிர்ணயிக்கப்பட்ட அட்டவணையில் தொலைதூர கிராமங்களுக்கு சுகாதாரம் வழங்கும் 476 நடமாடும் மருத்துவ வாகனங்கள்."
+      },
+      "launchYear": "2007",
+      "beneficiaries": {
+        "count": "9.21 crore people (2021-2026)",
+        "description": {
+          "en": "Remote village residents receiving doorstep healthcare",
+          "ta": "வீட்டுவாசலில் சுகாதாரம் பெறும் தொலைதூர கிராம மக்கள்"
+        }
+      },
+      "budget": {
+        "amount": "State health department funded",
+        "year": "Ongoing since 2007",
+        "details": "476 equipped mobile vehicles"
+      },
+      "coverage": "Remote villages across all districts",
+      "highlights": [
+        {
+          "en": "476 mobile medical units operational",
+          "ta": "476 நடமாடும் மருத்துவ பிரிவுகள் செயல்பாட்டில்"
+        },
+        {
+          "en": "11.54 lakh camps conducted (2021-2026)",
+          "ta": "11.54 லட்சம் முகாம்கள் நடத்தப்பட்டன (2021-2026)"
+        },
+        {
+          "en": "Fixed schedule visits to remote villages",
+          "ta": "தொலைதூர கிராமங்களுக்கு நிர்ணயிக்கப்பட்ட அட்டவணை வருகைகள்"
+        }
+      ],
+      "icon": "🚐",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "menstrual-health-hygiene-program",
+      "name": {
+        "en": "Menstrual Health & Hygiene Program",
+        "ta": "மாதவிடாய் சுகாதாரத் திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive menstrual health program providing free sanitary napkins to women in government hospitals, schools, and institutions.",
+        "ta": "அரசு மருத்துவமனைகள், பள்ளிகள் மற்றும் நிறுவனங்களில் பெண்களுக்கு இலவச சுகாதார நாப்கின்கள் வழங்கும் விரிவான மாதவிடாய் சுகாதாரத் திட்டம்."
+      },
+      "launchYear": "Ongoing",
+      "beneficiaries": {
+        "count": "4.88 crore women",
+        "description": {
+          "en": "Women and girls receiving menstrual health support",
+          "ta": "மாதவிடாய் சுகாதார ஆதரவு பெறும் பெண்கள் மற்றும் சிறுமிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹470.3 crore",
+        "year": "2021-2025",
+        "details": "Free sanitary napkins distribution"
+      },
+      "coverage": "Government hospitals, schools, institutions statewide",
+      "highlights": [
+        {
+          "en": "23.16 lakh pregnant women benefited",
+          "ta": "23.16 லட்சம் கர்ப்பிணிப் பெண்கள் பயனடைந்தனர்"
+        },
+        {
+          "en": "2.93 crore women in 781 government institutions",
+          "ta": "781 அரசு நிறுவனங்களில் 2.93 கோடி பெண்கள்"
+        },
+        {
+          "en": "10,000 women in special prisons, 400 in mental health facilities",
+          "ta": "சிறப்பு சிறைகளில் 10,000 பெண்கள், மனநல வசதிகளில் 400"
+        }
+      ],
+      "icon": "🩺",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "telemedicine-services-statewide",
+      "name": {
+        "en": "Telemedicine Services Expansion",
+        "ta": "தொலைதூர மருத்துவ சேவைகள் விரிவாக்கம்"
+      },
+      "description": {
+        "en": "State-wide telemedicine infrastructure providing remote medical consultations, awarded first-mover state status by Central Government.",
+        "ta": "மத்திய அரசால் முதன்மை மாநில அந்தஸ்து வழங்கப்பட்ட தொலைதூர மருத்துவ ஆலோசனைகள் வழங்கும் மாநிலளாவிய தொலைமருத்துவ உள்கட்டமைப்பு."
+      },
+      "launchYear": "December 10, 2022",
+      "beneficiaries": {
+        "count": "6.78 crore consultations",
+        "description": {
+          "en": "Patients receiving remote medical consultations",
+          "ta": "தொலைதூர மருத்துவ ஆலோசனைகள் பெறும் நோயாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "State-funded",
+        "year": "2022-2025",
+        "details": "Digital health infrastructure"
+      },
+      "coverage": "All government health facilities statewide",
+      "highlights": [
+        {
+          "en": "6.78 crore telemedicine consultations provided",
+          "ta": "6.78 கோடி தொலைமருத்துவ ஆலோசனைகள் வழங்கப்பட்டன"
+        },
+        {
+          "en": "Awarded first-mover state status on 10.12.2022",
+          "ta": "10.12.2022 அன்று முதன்மை மாநில அந்தஸ்து வழங்கப்பட்டது"
+        },
+        {
+          "en": "708 Urban Wellness Centers transformed to telemedicine hubs",
+          "ta": "708 நகர்ப்புற நலவாழ்வு மையங்கள் தொலைமருத்துவ மையங்களாக மாற்றப்பட்டன"
+        }
+      ],
+      "icon": "📱",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "vellore-super-specialty-hospital",
+      "name": {
+        "en": "Government Vellore Super Specialty Hospital (Felley)",
+        "ta": "அரசு வேலூர் உயர் சிறப்பு மருத்துவமனை (பெல்லி)"
+      },
+      "description": {
+        "en": "576-bed G+7 super specialty hospital at Vellore upgraded with modern facilities for maternal and child health.",
+        "ta": "தாய் மற்றும் குழந்தை நலனுக்கான நவீன வசதிகளுடன் மேம்படுத்தப்பட்ட வேலூரில் 576 படுக்கை G+7 உயர் சிறப்பு மருத்துவமனை."
+      },
+      "launchYear": "2024-25",
+      "beneficiaries": {
+        "count": "680 medical users served",
+        "description": {
+          "en": "Patients receiving advanced specialty care",
+          "ta": "மேம்பட்ட சிறப்பு சிகிச்சை பெறும் நோயாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹197.81 crore",
+        "year": "2024-25",
+        "details": "Super specialty hospital upgrade"
+      },
+      "coverage": "Vellore and surrounding districts",
+      "highlights": [
+        {
+          "en": "576 beds with G+7 building structure",
+          "ta": "G+7 கட்டிட அமைப்புடன் 576 படுக்கைகள்"
+        },
+        {
+          "en": "Upgraded to super specialty status",
+          "ta": "உயர் சிறப்பு அந்தஸ்துக்கு மேம்படுத்தப்பட்டது"
+        },
+        {
+          "en": "Renamed as Mother and Child Health Hospital",
+          "ta": "தாய் மற்றும் குழந்தை நல மருத்துவமனையாக பெயர் மாற்றம்"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "omandur-robotic-surgery",
+      "name": {
+        "en": "Government Omandur Hospital - Robotic Surgery Center",
+        "ta": "அரசு ஓமண்டூர் மருத்துவமனை - ரோபோ அறுவை சிகிச்சை மையம்"
+      },
+      "description": {
+        "en": "First robotic surgery facility in a Tamil Nadu government hospital, performing 461 robotic surgeries since launch.",
+        "ta": "தமிழ்நாடு அரசு மருத்துவமனையில் முதல் ரோபோ அறுவை சிகிச்சை வசதி, தொடக்கம் முதல் 461 ரோபோ அறுவை சிகிச்சைகள் செய்யப்பட்டன."
+      },
+      "launchYear": "March 15, 2022",
+      "beneficiaries": {
+        "count": "461 patients",
+        "description": {
+          "en": "Patients receiving robotic surgery",
+          "ta": "ரோபோ அறுவை சிகிச்சை பெறும் நோயாளிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹34.6 crore",
+        "year": "2022",
+        "details": "Robotic surgery equipment and infrastructure"
+      },
+      "coverage": "Government Omandur Super Specialty Hospital",
+      "highlights": [
+        {
+          "en": "First robotic surgery in TN government hospital",
+          "ta": "தமிழ்நாடு அரசு மருத்துவமனையில் முதல் ரோபோ அறுவை சிகிச்சை"
+        },
+        {
+          "en": "461 surgeries: 79 urology, 190 cancer, 110 hernia, 66 cardiac",
+          "ta": "461 அறுவை சிகிச்சைகள்: 79 சிறுநீரகம், 190 புற்றுநோய், 110 குடலிறக்கம், 66 இதயம்"
+        },
+        {
+          "en": "Started on 15.03.2022 with ₹34.6 crore investment",
+          "ta": "₹34.6 கோடி முதலீட்டில் 15.03.2022 அன்று தொடங்கப்பட்டது"
+        }
+      ],
+      "icon": "🤖",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "jipmer-tertiary-hospitals-7",
+      "name": {
+        "en": "JICA-funded Tertiary Care Hospitals (7 New)",
+        "ta": "JICA நிதியுதவி மூன்றாம் நிலை சிகிச்சை மருத்துவமனைகள் (7 புதியவை)"
+      },
+      "description": {
+        "en": "7 new international-standard tertiary care hospitals built with Japan International Cooperation Agency (JICA) funding across Tamil Nadu.",
+        "ta": "ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனம் (JICA) நிதியுதவியுடன் தமிழ்நாடு முழுவதும் 7 புதிய சர்வதேச தரம் வாய்ந்த மூன்றாம் நிலை சிகிச்சை மருத்துவமனைகள் கட்டப்பட்டன."
+      },
+      "launchYear": "2021-2025",
+      "beneficiaries": {
+        "count": "Patients across 7 districts",
+        "description": {
+          "en": "Those requiring advanced tertiary care",
+          "ta": "மேம்பட்ட மூன்றாம் நிலை சிகிச்சை தேவைப்படுவோர்"
+        }
+      },
+      "budget": {
+        "amount": "₹632 crore",
+        "year": "JICA funding",
+        "details": "International standard hospital infrastructure"
+      },
+      "coverage": "Chennai, Coimbatore, Madurai (3 tertiary) + Tiruvallur, Salem, Tirupur, Tirunelveli (4 secondary)",
+      "highlights": [
+        {
+          "en": "3 tertiary hospitals in Chennai, Coimbatore, Madurai completed",
+          "ta": "சென்னை, கோயம்புத்தூர், மதுரையில் 3 மூன்றாம் நிலை மருத்துவமனைகள் முடிவடைந்தன"
+        },
+        {
+          "en": "4 secondary hospitals in Tiruvallur, Salem, Tirupur, Tirunelveli completed",
+          "ta": "திருவள்ளூர், சேலம், திருப்பூர், திருநெல்வேலியில் 4 இரண்டாம் நிலை மருத்துவமனைகள் முடிவடைந்தன"
+        },
+        {
+          "en": "Japan International Cooperation Agency (JICA) funded",
+          "ta": "ஜப்பான் சர்வதேச ஒத்துழைப்பு நிறுவனம் (JICA) நிதியுதவி"
+        }
+      ],
+      "icon": "🏥",
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ]
     }
   ],
   "healthcareStats": {
