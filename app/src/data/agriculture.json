@@ -242,30 +242,32 @@
         "ta": "மீன்வளர்ப்பு மேம்பாடு"
       },
       "description": {
-        "en": "Support for marine and inland fisheries including aquaculture promotion.",
-        "ta": "நீர்வாழ் வேளாண்மை ஊக்குவிப்பு உட்பட கடல் மற்றும் உள்நாட்டு மீன்வளர்ப்புக்கான ஆதரவு."
+        "en": "Comprehensive support for marine and inland fisheries including aquaculture promotion, boat subsidies, fish landing infrastructure, and fishermen welfare schemes.",
+        "ta": "நீர்வாழ் வேளாண்மை ஊக்குவிப்பு, படகு மானியங்கள், மீன் இறங்கு உள்கட்டமைப்பு மற்றும் மீனவர் நல திட்டங்கள் உட்பட கடல் மற்றும் உள்நாட்டு மீன்வளர்ப்புக்கான விரிவான ஆதரவு."
       },
       "launchYear": "2015-16 (Blue Revolution in TN)",
       "beneficiaries": {
-        "count": "10+ lakh fishermen",
+        "count": "8.76 lakh fishermen",
         "description": {
-          "en": "Marine & inland fishers",
-          "ta": "கடல் & உள்நாட்டு மீனவர்கள்"
+          "en": "Marine & inland fishers across 13 coastal districts",
+          "ta": "13 கடலோர மாவட்டங்களில் கடல் & உள்நாட்டு மீனவர்கள்"
         }
       },
       "budget": {
-        "amount": "₹500+ crore",
-        "year": "Annual"
+        "amount": "₹545.83 crore",
+        "year": "2021-2026 (total relief)"
       },
       "highlights": [
-        { "en": "Fishing ban relief (₹5,000)", "ta": "மீன்பிடி தடை நிவாரணம் (₹5,000)" },
-        { "en": "Boat engine subsidy", "ta": "படகு இயந்திர மானியம்" },
-        { "en": "Fish landing centers", "ta": "மீன் இறங்கு மையங்கள்" }
+        { "en": "₹545.83 crore total relief to 8.76 lakh fishermen", "ta": "8.76 லட்சம் மீனவர்களுக்கு ₹545.83 கோடி நிவாரணம்" },
+        { "en": "Fishing ban relief increased to ₹10,500/month", "ta": "மீன்பிடி தடை நிவாரணம் ₹10,500/மாதம் உயர்வு" },
+        { "en": "254 boats compensated for Sri Lanka detention", "ta": "இலங்கை தடுப்பிற்கு 254 படகுகளுக்கு இழப்பீடு" },
+        { "en": "Fish landing centers in 13 villages", "ta": "13 கிராமங்களில் மீன் இறங்கு மையங்கள்" }
       ],
       "icon": "🐟",
       "sources": [
         { "title": "TN Fisheries", "url": "https://www.fisheries.tn.gov.in/", "type": "government" },
-        { "title": "TN Fishermen Welfare Board", "url": "https://www.tnfwb.tn.gov.in/", "type": "government" }
+        { "title": "TN Fishermen Welfare Board", "url": "https://www.tnfwb.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card (PDF)", "url": "#dmk-5-years-pdf", "type": "government" }
       ]
     },
     {
@@ -275,31 +277,101 @@
         "ta": "பால்வளம் & கால்நடை வளர்ப்பு"
       },
       "description": {
-        "en": "Support for dairy farming, veterinary services, and livestock insurance.",
-        "ta": "பால் பண்ணை, கால்நடை மருத்துவ சேவைகள் மற்றும் கால்நடை காப்பீட்டுக்கான ஆதரவு."
+        "en": "Comprehensive support for dairy farming through Aavin cooperative, including milk procurement incentives, price increases, and infrastructure development.",
+        "ta": "ஆவின் கூட்டுறவு மூலம் பால் ஊக்குவிப்பு, விலை உயர்வு மற்றும் உள்கட்டமைப்பு மேம்பாடு உள்ளிட்ட பால் பண்ணைக்கான விரிவான ஆதரவு."
       },
       "launchYear": "1981 (TCMPF/Aavin established)",
       "beneficiaries": {
-        "count": "Lakhs of farmers",
+        "count": "3.60 lakh milk producers",
         "description": {
-          "en": "Dairy & livestock farmers",
-          "ta": "பால் & கால்நடை விவசாயிகள்"
+          "en": "Dairy farmers receiving procurement incentives",
+          "ta": "கொள்முதல் ஊக்கத்தொகை பெறும் பால் விவசாயிகள்"
         }
       },
       "budget": {
-        "amount": "₹300+ crore",
-        "year": "Annual"
+        "amount": "₹724.63 crore",
+        "year": "2021-2025 (milk procurement incentive)"
       },
       "highlights": [
-        { "en": "Aavin cooperative support", "ta": "ஆவின் கூட்டுறவு ஆதரவு" },
-        { "en": "Free veterinary services", "ta": "இலவச கால்நடை மருத்துவ சேவைகள்" },
-        { "en": "Livestock insurance scheme", "ta": "கால்நடை காப்பீட்டு திட்டம்" }
+        { "en": "₹724.63 crore milk procurement incentive to 3.60 lakh producers", "ta": "3.60 லட்சம் உற்பத்தியாளர்களுக்கு ₹724.63 கோடி கொள்முதல் ஊக்கத்தொகை" },
+        { "en": "Daily milk procurement increased from 37.92 to 40.31 lakh liters", "ta": "தினசரி பால் கொள்முதல் 37.92 லட்சம் லிட்டரிலிருந்து 40.31 லட்சம் லிட்டராக உயர்வு" },
+        { "en": "Milk price increased by ₹3/liter from 05.11.2022", "ta": "05.11.2022 முதல் லிட்டருக்கு ₹3 விலை உயர்வு" },
+        { "en": "Product sales grew from ₹46.14 crore to ₹59.75 crore", "ta": "தயாரிப்பு விற்பனை ₹46.14 கோடியிலிருந்து ₹59.75 கோடியாக உயர்வு" }
       ],
       "icon": "🐄",
       "sources": [
         { "title": "TN Animal Husbandry Dept", "url": "https://www.tn.gov.in/dept_profile.php?dep_id=Mw%3D%3D", "type": "government" },
         { "title": "Aavin Official", "url": "https://aavin.tn.gov.in/", "type": "government" },
-        { "title": "Wikipedia - Aavin", "url": "https://en.wikipedia.org/wiki/Aavin", "type": "media" }
+        { "title": "DMK 5 Years Report Card (PDF)", "url": "#dmk-5-years-pdf", "type": "government" }
+      ]
+    },
+    {
+      "id": "kalaignar-livestock-health-camps",
+      "name": {
+        "en": "Kalaignar Livestock Health Camps",
+        "ta": "கலைஞர் கால்நடை சுகாதார முகாம்கள்"
+      },
+      "description": {
+        "en": "Massive statewide livestock health campaign conducting veterinary health camps providing free treatment, vaccination, and deworming services to farmers' livestock across all districts.",
+        "ta": "அனைத்து மாவட்டங்களிலும் விவசாயிகளின் கால்நடைகளுக்கு இலவச சிகிச்சை, தடுப்பூசி மற்றும் புழு நீக்கும் சேவைகள் வழங்கும் கால்நடை சுகாதார முகாம்களை நடத்தும் மாநில அளவிலான பெரும் பிரச்சாரம்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "26.02 lakh farmers, 240.92 lakh animals",
+        "description": {
+          "en": "Livestock farmers and their animals across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் கால்நடை விவசாயிகள் மற்றும் அவர்களின் விலங்குகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹23.28 crore",
+        "year": "2021-2026"
+      },
+      "highlights": [
+        { "en": "23,280 veterinary health camps conducted", "ta": "23,280 கால்நடை சுகாதார முகாம்கள் நடத்தப்பட்டன" },
+        { "en": "26.02 lakh farmers benefited", "ta": "26.02 லட்சம் விவசாயிகள் பயனடைந்தனர்" },
+        { "en": "240.92 lakh livestock/poultry treated", "ta": "240.92 லட்சம் கால்நடைகள்/கோழிகள் சிகிச்சை பெற்றன" },
+        { "en": "Free vaccination and deworming services", "ta": "இலவச தடுப்பூசி மற்றும் புழு நீக்கும் சேவைகள்" }
+      ],
+      "icon": "🏥",
+      "sources": [
+        { "title": "TN Animal Husbandry Dept", "url": "https://www.tn.gov.in/dept_profile.php?dep_id=Mw%3D%3D", "type": "government" },
+        { "title": "DMK 5 Years Report Card (PDF)", "url": "#dmk-5-years-pdf", "type": "government" }
+      ]
+    },
+    {
+      "id": "fishermen-relief-scheme",
+      "name": {
+        "en": "Fishermen Relief and Welfare Scheme",
+        "ta": "மீனவர் நிவாரண மற்றும் நல திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive welfare scheme providing relief payments during fishing ban period, compensation for natural calamities, boat damage relief, and savings/insurance support for fishermen families.",
+        "ta": "மீன்பிடி தடை காலத்தில் நிவாரண பணம், இயற்கை பேரழிவுகளுக்கு இழப்பீடு, படகு சேத நிவாரணம் மற்றும் மீனவர் குடும்பங்களுக்கு சேமிப்பு/காப்பீடு ஆதரவு வழங்கும் விரிவான நல திட்டம்."
+      },
+      "launchYear": "2021-2026",
+      "beneficiaries": {
+        "count": "7.22 lakh fishermen",
+        "description": {
+          "en": "Fishermen families across coastal districts",
+          "ta": "கடலோர மாவட்டங்களில் மீனவர் குடும்பங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹433.34 crore",
+        "year": "2021-2025 (fishing ban relief)"
+      },
+      "highlights": [
+        { "en": "₹433.34 crore relief to 7,22,264 fishermen (2021-2025)", "ta": "7,22,264 மீனவர்களுக்கு ₹433.34 கோடி நிவாரணம் (2021-2025)" },
+        { "en": "8,06,930 fishermen women received ₹241.49 crore relief", "ta": "8,06,930 மீனவ மகளிர் ₹241.49 கோடி நிவாரணம் பெற்றனர்" },
+        { "en": "Savings and insurance support of ₹61.12 crore", "ta": "₹61.12 கோடி சேமிப்பு மற்றும் காப்பீடு ஆதரவு" },
+        { "en": "₹67.27 crore for 217 fishermen housing units", "ta": "217 மீனவர் வீடுகளுக்கு ₹67.27 கோடி" }
+      ],
+      "icon": "🎣",
+      "sources": [
+        { "title": "TN Fisheries", "url": "https://www.fisheries.tn.gov.in/", "type": "government" },
+        { "title": "TN Fishermen Welfare Board", "url": "https://www.tnfwb.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card (PDF)", "url": "#dmk-5-years-pdf", "type": "government" }
       ]
     },
     {

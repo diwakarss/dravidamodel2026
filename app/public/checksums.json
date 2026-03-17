@@ -1,9 +1,10 @@
 {
-  "generated": "2026-03-17T10:30:00.000Z",
+  "generated": "2026-03-17T11:00:00.000Z",
   "checksums": {
     "infrastructure.json": "cad8ad69684601d48bd44e24e2205d10c55865379037e896a9e070ca02383e7f",
     "industries.json": "7658542e6744657130dff2f57a31b01bb84a40da78afc38fe9c73f9251603a63",
     "education.json": "c4078e8baac87c6da6e2a9d8a191611eefa0f792a7b371043df4a9aa29d24c51",
-    "employment.json": "1da312fb5678086cec496ca5ce1548661adfe2ab7738aa2dd76aff8e33a2e76a"
+    "employment.json": "1da312fb5678086cec496ca5ce1548661adfe2ab7738aa2dd76aff8e33a2e76a",
+    "agriculture.json": "e4648fb5f75d6abc43ca4b47dd1fc7c48943c3cf648f976b58974377dafd615a"
   }
 }
