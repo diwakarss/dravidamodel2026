@@ -115,6 +115,7 @@
         "en": "World-class training academies for multiple sports disciplines across Tamil Nadu.",
         "ta": "தமிழ்நாடு முழுவதும் பல விளையாட்டு துறைகளுக்கான உலகத்தரம் வாய்ந்த பயிற்சி அகாடமிகள்."
       },
+      "launchDate": "Ongoing (expanded 2021-2026)",
       "beneficiaries": {
         "count": "Thousands of athletes",
         "description": {
@@ -146,6 +147,7 @@
         "en": "Major upgrades to Jawaharlal Nehru Stadium and district-level sports infrastructure.",
         "ta": "ஜவஹர்லால் நேரு அரங்கம் மற்றும் மாவட்ட அளவிலான விளையாட்டு உள்கட்டமைப்புக்கான பெரிய மேம்பாடுகள்."
       },
+      "launchDate": "Ongoing (2021-2026)",
       "beneficiaries": {
         "count": "Multiple stadiums",
         "description": {
@@ -177,6 +179,7 @@
         "en": "Generous cash awards for medal winners in Olympics, Asian Games, Commonwealth Games.",
         "ta": "ஒலிம்பிக்ஸ், ஆசிய விளையாட்டுப் போட்டிகள், காமன்வெல்த் விளையாட்டுக்களில் பதக்க வெற்றியாளர்களுக்கு தாராளமான பண வெகுமதிகள்."
       },
+      "launchDate": "Ongoing (enhanced 2021)",
       "beneficiaries": {
         "count": "Medal winners",
         "description": {
@@ -201,6 +204,74 @@
       ]
     },
     {
+      "id": "gukesh-chess-champion-award",
+      "name": {
+        "en": "D. Gukesh World Chess Champion Award",
+        "ta": "டி. குகேஷ் உலக செஸ் சாம்பியன் விருது"
+      },
+      "description": {
+        "en": "Rs 5 crore cash prize and felicitation for D. Gukesh, who became the youngest World Chess Champion in history at age 18, defeating China's Ding Liren.",
+        "ta": "சீனாவின் டிங் லிரெனை தோற்கடித்து 18 வயதில் வரலாற்றில் இளைய உலக செஸ் சாம்பியனான டி. குகேஷுக்கு ரூ.5 கோடி பண வெகுமதி மற்றும் பாராட்டு."
+      },
+      "launchDate": "December 13, 2024",
+      "beneficiaries": {
+        "count": "D. Gukesh",
+        "description": {
+          "en": "World Chess Champion 2024",
+          "ta": "உலக செஸ் சாம்பியன் 2024"
+        }
+      },
+      "budget": {
+        "amount": "Rs 5 crore",
+        "details": "Cash prize + Chess Academy announcement"
+      },
+      "highlights": [
+        { "en": "Youngest World Chess Champion in history", "ta": "வரலாற்றில் இளைய உலக செஸ் சாம்பியன்" },
+        { "en": "Second Indian after Viswanathan Anand", "ta": "விஸ்வநாதன் ஆனந்துக்குப் பின் இரண்டாவது இந்தியர்" },
+        { "en": "Felicitated by CM Stalin with Viswanathan Anand", "ta": "விஸ்வநாதன் ஆனந்துடன் முதல்வர் ஸ்டாலின் பாராட்டு" }
+      ],
+      "icon": "♟️",
+      "sources": [
+        { "title": "Kalinga TV", "url": "https://kalingatv.com/sports/tamil-nadu-cm-stalin-announces-rs-5-crore-reward-for-world-chess-champion-gukeshs-historic-win/", "type": "media" },
+        { "title": "ETV Bharat", "url": "https://www.etvbharat.com/en/!sports/tamil-nadu-chief-minister-mk-stalin-announces-prize-money-for-world-chess-champion-d-gukesh-enn24121304176", "type": "media" },
+        { "title": "Business Standard", "url": "https://www.business-standard.com/india-news/india-s-young-chess-genius-gukesh-to-receive-rs-5-cr-prize-from-stalin-govt-124121300702_1.html", "type": "media" }
+      ]
+    },
+    {
+      "id": "keerthana-carrom-champion-award",
+      "name": {
+        "en": "L. Keerthana Carrom World Cup Award",
+        "ta": "எல். கீர்த்தனா கேரம் உலகக் கோப்பை விருது"
+      },
+      "description": {
+        "en": "Rs 1 crore cash prize for L. Keerthana who won triple gold medals (singles, doubles, team) at the 7th Carrom World Cup 2025 in Maldives.",
+        "ta": "மாலத்தீவில் நடைபெற்ற 7வது கேரம் உலகக் கோப்பை 2025 இல் மூன்று தங்கப் பதக்கங்கள் (ஒற்றையர், இரட்டையர், அணி) வென்ற எல். கீர்த்தனாவுக்கு ரூ.1 கோடி பண வெகுமதி."
+      },
+      "launchDate": "December 15, 2025",
+      "beneficiaries": {
+        "count": "L. Keerthana",
+        "description": {
+          "en": "Triple Gold Medalist at Carrom World Cup",
+          "ta": "கேரம் உலகக் கோப்பையில் மூன்று தங்கப் பதக்க வெற்றியாளர்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 1 crore",
+        "details": "Cash prize for triple gold"
+      },
+      "highlights": [
+        { "en": "Triple gold - singles, doubles, team events", "ta": "மூன்று தங்கம் - ஒற்றையர், இரட்டையர், அணி நிகழ்வுகள்" },
+        { "en": "7th Carrom World Cup in Maldives", "ta": "மாலத்தீவில் 7வது கேரம் உலகக் கோப்பை" },
+        { "en": "Presented by CM M.K. Stalin", "ta": "முதல்வர் எம்.கே. ஸ்டாலின் வழங்கினார்" }
+      ],
+      "icon": "🥇",
+      "sources": [
+        { "title": "The Logical Indian", "url": "https://thelogicalindian.com/historic-triumph-indias-l-keerthana-wins-triple-gold-at-carrom-world-cup-2025-in-maldives/", "type": "media" },
+        { "title": "ETV Bharat", "url": "https://www.etvbharat.com/en/sports/keerthanas-inspiring-journey-of-working-in-lathe-workshop-to-winning-carrom-world-cup-enn25121004155", "type": "media" },
+        { "title": "Madras Musings", "url": "https://madrasmusings.com/vol-35-no-20/three-chennai-talents-emerge-world-champs-2025/", "type": "media" }
+      ]
+    },
+    {
       "id": "traditional-sports",
       "name": {
         "en": "Traditional Sports Promotion",
@@ -210,6 +281,7 @@
         "en": "Revival and promotion of traditional Tamil sports like Silambam, Kabaddi, and Jallikattu.",
         "ta": "சிலம்பம், கபடி மற்றும் ஜல்லிக்கட்டு போன்ற பாரம்பரிய தமிழ் விளையாட்டுகளின் மறுமலர்ச்சி மற்றும் ஊக்குவிப்பு."
       },
+      "launchDate": "Ongoing (enhanced 2021-2026)",
       "beneficiaries": {
         "count": "Youth & rural areas",
         "description": {
@@ -277,6 +349,7 @@
         "en": "Support for Carnatic music, Bharatanatyam, and traditional Tamil performing arts.",
         "ta": "கர்நாடக இசை, பரதநாட்டியம் மற்றும் பாரம்பரிய தமிழ் நிகழ்த்து கலைகளுக்கான ஆதரவு."
       },
+      "launchDate": "Ongoing (annual)",
       "beneficiaries": {
         "count": "Artists statewide",
         "description": {
@@ -309,6 +382,7 @@
         "en": "Annual state awards recognizing excellence in Tamil cinema.",
         "ta": "தமிழ் சினிமாவில் சிறந்த சாதனைகளை அங்கீகரிக்கும் வருடாந்திர மாநில விருதுகள்."
       },
+      "launchDate": "Annual (since 1957)",
       "beneficiaries": {
         "count": "Film industry",
         "description": {
@@ -339,6 +413,7 @@
         "en": "Conservation and restoration of ancient temples and heritage structures across Tamil Nadu.",
         "ta": "தமிழ்நாடு முழுவதும் பண்டைய கோவில்கள் மற்றும் பாரம்பரிய கட்டமைப்புகளின் பாதுகாப்பு மற்றும் மீட்பு."
       },
+      "launchDate": "Ongoing (expanded 2021-2026)",
       "beneficiaries": {
         "count": "44,000+ temples",
         "description": {
