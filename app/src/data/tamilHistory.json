@@ -20,6 +20,10 @@
           "ta": "கான்னிமாரா நூலகத்தில் பாரம்பரிய தளம்"
         }
       },
+      "budget": {
+        "amount": "Rs 85.80 lakh",
+        "details": "Statue installation at Egmore Museum Complex"
+      },
       "highlights": [
         {
           "en": "Unveiled by CM MK Stalin",
@@ -60,6 +64,10 @@
           "en": "At Chennai Egmore Museum Complex",
           "ta": "சென்னை எழும்பூர் அருங்காட்சியக வளாகத்தில்"
         }
+      },
+      "budget": {
+        "amount": "Rs 50 lakh",
+        "details": "IVC centenary commemoration statue"
       },
       "highlights": [
         {
@@ -519,6 +527,7 @@
         "en": "New museums and upgrades to existing facilities showcasing Tamil history and culture.",
         "ta": "தமிழ் வரலாறு மற்றும் கலாச்சாரத்தை காட்சிப்படுத்தும் புதிய அருங்காட்சியகங்கள் மற்றும் தற்போதுள்ள வசதிகளின் மேம்பாடுகள்."
       },
+      "launchDate": "Ongoing (2021-2026)",
       "beneficiaries": {
         "count": "Multiple museums",
         "description": {
@@ -578,6 +587,7 @@
         "en": "Project to digitize and preserve ancient Sangam Tamil literature for global access.",
         "ta": "உலகளாவிய அணுகலுக்காக பண்டைய சங்க தமிழ் இலக்கியத்தை டிஜிட்டல் மயமாக்கி பாதுகாக்கும் திட்டம்."
       },
+      "launchDate": "2005 (TNDL), expanded 2021+",
       "beneficiaries": {
         "count": "2,381 poems",
         "description": {
@@ -637,6 +647,7 @@
         "en": "Programs and installations honoring the ancient Tamil poet and philosopher Thiruvalluvar.",
         "ta": "பண்டைய தமிழ் கவிஞர் மற்றும் தத்துவஞானி திருவள்ளுவரை கௌரவிக்கும் திட்டங்கள் மற்றும் நிறுவல்கள்."
       },
+      "launchDate": "Kanyakumari statue: January 1, 2000; Valluvar Kottam: 1976",
       "beneficiaries": {
         "count": "Multiple projects",
         "description": {
@@ -703,6 +714,10 @@
           "en": "Self-Respect Movement centenary celebration at Oxford",
           "ta": "ஆக்ஸ்போர்டில் சுயமரியாதை இயக்கம் நூற்றாண்டு கொண்டாட்டம்"
         }
+      },
+      "budget": {
+        "amount": "Academic publication",
+        "details": "Published by Cambridge University Press"
       },
       "highlights": [
         {
