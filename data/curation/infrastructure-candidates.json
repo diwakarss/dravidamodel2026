@@ -1,0 +1,287 @@
+{
+  "curation_date": "2026-03-17",
+  "source": "DMK 5 YEARS ACHIEVEMENTS.pdf - Skipped items from multiple sections",
+  "purpose": "Infrastructure projects from PDF extraction that may be relevant for future infra project work",
+  "agriculture": [
+    {
+      "name": "Animal Husbandry Infrastructure",
+      "details": "12 buildings + 31 farms + meat complex",
+      "departments": ["Animal Husbandry"],
+      "notes": "Multiple facilities bundled together"
+    },
+    {
+      "name": "Agricultural Infrastructure",
+      "details": "52 buildings including various processing centers",
+      "departments": ["Agriculture"],
+      "notes": "Includes processing centers, cold storage, etc."
+    },
+    {
+      "name": "Paddy Storage Warehouses",
+      "details": "13 warehouses",
+      "departments": ["Agriculture", "Food and Civil Supplies"],
+      "notes": "Storage infrastructure for paddy procurement"
+    },
+    {
+      "name": "TNCSC Storage Infrastructure",
+      "details": "Multiple warehouses and storage facilities",
+      "departments": ["Tamil Nadu Civil Supplies Corporation"],
+      "notes": "State-level storage network"
+    },
+    {
+      "name": "Animal Husbandry and Fisheries Buildings",
+      "details": "Multiple buildings across different departments",
+      "departments": ["Animal Husbandry", "Fisheries"],
+      "notes": "Administrative and service delivery buildings"
+    },
+    {
+      "name": "Aavin Dairy Plants",
+      "details": "Specific dairy processing plants",
+      "departments": ["Dairy Development", "Aavin"],
+      "notes": "Could be added as highlights to dairy-development scheme"
+    },
+    {
+      "name": "High-Capacity Paddy Procurement Centre Thanjavur",
+      "details": "Single large procurement facility in Thanjavur",
+      "departments": ["Agriculture", "Food and Civil Supplies"],
+      "location": "Thanjavur",
+      "notes": "Part of delta region paddy procurement infrastructure"
+    }
+  ],
+  "education": {
+    "school_buildings": [
+      {
+        "name": "School Education Infrastructure Projects",
+        "details": "392 classrooms, 2 model schools, 68 library buildings",
+        "departments": ["School Education"],
+        "notes": "Aggregate covering multiple projects"
+      },
+      {
+        "name": "Tiruvannamalai Government Model School",
+        "details": "Individual model school building",
+        "departments": ["School Education"],
+        "location": "Tiruvannamalai"
+      },
+      {
+        "name": "Kovilvenni Primary School Building",
+        "details": "Individual school building",
+        "departments": ["School Education"],
+        "location": "Kovilvenni"
+      },
+      {
+        "name": "Chennai Middle School Building",
+        "details": "Individual school building",
+        "departments": ["School Education"],
+        "location": "Chennai"
+      },
+      {
+        "name": "Chennai Higher Secondary School Building",
+        "details": "Individual school building",
+        "departments": ["School Education"],
+        "location": "Chennai"
+      },
+      {
+        "name": "Ekambaranathar School Building",
+        "details": "Individual school building",
+        "departments": ["School Education"]
+      },
+      {
+        "name": "Trichy Model School Buildings",
+        "details": "Part of Model Schools scheme",
+        "departments": ["School Education"],
+        "location": "Tiruchirappalli"
+      },
+      {
+        "name": "Government School Buildings (Cuddalore)",
+        "details": "District-level school infrastructure",
+        "departments": ["School Education"],
+        "location": "Cuddalore"
+      },
+      {
+        "name": "Government Kallar Reformation School Buildings",
+        "details": "Kallar community school infrastructure",
+        "departments": ["School Education", "BC Welfare"]
+      },
+      {
+        "name": "Government School Classroom Buildings (29 districts)",
+        "details": "Aggregate - classroom construction across 29 districts",
+        "departments": ["School Education"],
+        "notes": "Statewide classroom expansion"
+      },
+      {
+        "name": "GKM Colony School Building Kolathur",
+        "details": "Individual school building",
+        "departments": ["School Education"],
+        "location": "Kolathur, Chennai"
+      },
+      {
+        "name": "School Buildings and Integrated Education Complex",
+        "details": "Aggregate infrastructure project",
+        "departments": ["School Education"]
+      },
+      {
+        "name": "School Infrastructure Development (Sept 2025)",
+        "details": "Multiple projects across 26 districts",
+        "departments": ["School Education"],
+        "notes": "September 2025 announcement"
+      }
+    ],
+    "college_buildings": [
+      {
+        "name": "Government Law Colleges Buildings",
+        "details": "Higher education infrastructure",
+        "departments": ["Higher Education", "Law"]
+      },
+      {
+        "name": "4 New Government Arts and Science Colleges",
+        "details": "Part of ongoing college expansion",
+        "departments": ["Higher Education"],
+        "notes": "Covered under higher education expansion"
+      },
+      {
+        "name": "11 New Government Arts and Science Colleges",
+        "details": "Part of ongoing college expansion",
+        "departments": ["Higher Education"],
+        "notes": "Covered under higher education expansion"
+      },
+      {
+        "name": "Auditorium at Queen Mary's College",
+        "details": "MPLAD funded infrastructure",
+        "departments": ["Higher Education"],
+        "location": "Chennai",
+        "notes": "Individual infrastructure project"
+      },
+      {
+        "name": "Kapaleeswarar Arts and Science College Building",
+        "details": "Individual college building",
+        "departments": ["Higher Education"]
+      },
+      {
+        "name": "Government Law College Buildings (Ramanathapuram)",
+        "details": "Individual college building",
+        "departments": ["Higher Education", "Law"],
+        "location": "Ramanathapuram"
+      },
+      {
+        "name": "Bharathiar University Buildings",
+        "details": "Individual university building",
+        "departments": ["Higher Education"],
+        "location": "Coimbatore"
+      },
+      {
+        "name": "Government College Buildings (Pudukkottai, Trichy, etc.)",
+        "details": "Aggregate - multiple college buildings",
+        "departments": ["Higher Education"],
+        "locations": ["Pudukkottai", "Tiruchirappalli"]
+      },
+      {
+        "name": "Higher Education Infrastructure Projects",
+        "details": "Aggregate - classrooms, labs, hostels",
+        "departments": ["Higher Education"],
+        "notes": "Covered under existing infrastructure scheme"
+      },
+      {
+        "name": "Higher Education Infrastructure - Classrooms, Labs, Hostels",
+        "details": "Aggregate infrastructure",
+        "departments": ["Higher Education"]
+      }
+    ],
+    "hostels": [
+      {
+        "name": "MC Raja Hostel Building",
+        "details": "Individual hostel building",
+        "departments": ["Higher Education", "BC Welfare"]
+      },
+      {
+        "name": "SC/ST College Hostel Building Chennai",
+        "details": "Individual hostel building for SC/ST students",
+        "departments": ["Higher Education", "Adi Dravidar Welfare"],
+        "location": "Chennai"
+      },
+      {
+        "name": "Presidency College Special Student Hostel",
+        "details": "Individual hostel building",
+        "departments": ["Higher Education"],
+        "location": "Chennai"
+      }
+    ],
+    "libraries": [
+      {
+        "name": "Library Buildings and District Library Foundation",
+        "details": "Aggregate library infrastructure project",
+        "departments": ["Public Libraries"]
+      },
+      {
+        "name": "Public Libraries Infrastructure",
+        "details": "Aggregate infrastructure project",
+        "departments": ["Public Libraries"]
+      },
+      {
+        "name": "Library Buildings and Classroom Buildings",
+        "details": "Aggregate infrastructure",
+        "departments": ["School Education", "Public Libraries"]
+      },
+      {
+        "name": "Lakshmi Valartamil Library",
+        "details": "Individual library",
+        "departments": ["Public Libraries"],
+        "notes": "Privately funded by P. Chidambaram"
+      }
+    ]
+  },
+  "events_and_relief": [
+    {
+      "name": "Cyclone Ditha Crop Relief",
+      "type": "disaster_relief",
+      "notes": "One-time relief package, not ongoing scheme"
+    },
+    {
+      "name": "Erode Agricultural Fair and Development Projects",
+      "type": "event",
+      "location": "Erode",
+      "notes": "Annual fair with multiple associated projects"
+    },
+    {
+      "name": "Agriculture Budget 2025-26",
+      "type": "budget_announcement",
+      "notes": "Budget document, not a scheme - contains scheme allocations"
+    }
+  ],
+  "operational_items": [
+    {
+      "name": "Teacher Induction Training Program",
+      "type": "operational",
+      "notes": "Operational activity rather than scheme"
+    },
+    {
+      "name": "Nutritional Workers Allowance Increase",
+      "type": "operational",
+      "notes": "Operational adjustment, not a scheme"
+    },
+    {
+      "name": "TN Breakfast Scheme Budget",
+      "type": "budget_update",
+      "notes": "Budget update for existing scheme"
+    },
+    {
+      "name": "Higher Education Support for Government School Students",
+      "type": "operational",
+      "notes": "Small allocation (Rs 6 crore) - operational support"
+    },
+    {
+      "name": "First Generation Graduate Fee Concession",
+      "type": "existing_scheme",
+      "notes": "Already covered under education loans/scholarships umbrella"
+    },
+    {
+      "name": "Tamil Nadu University Research Foundation",
+      "type": "grant",
+      "notes": "Small grant (Rs 5 crore) - insufficient details for full scheme entry"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "NEP Third Language Controversy",
+      "reason": "Policy dispute, not a scheme"
+    }
+  ]
+}
