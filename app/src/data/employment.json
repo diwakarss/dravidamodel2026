@@ -46,30 +46,36 @@
         "ta": "தமிழ்நாடு வெற்றி நிச்சயம் திட்டம்"
       },
       "description": {
-        "en": "Skill voucher program providing training and financial support for youth employment.",
-        "ta": "இளைஞர் வேலைவாய்ப்புக்கான பயிற்சி மற்றும் நிதி ஆதரவு வழங்கும் திறன் வவுச்சர் திட்டம்."
+        "en": "Skill voucher program providing training and financial support for youth employment across 35 sectors including healthcare, IT, automobile, apparel, and agriculture.",
+        "ta": "மருத்துவம், தகவல் தொழில்நுட்பம், வாகனம், ஆடை, வேளாண்மை உள்ளிட்ட 35 துறைகளில் இளைஞர் வேலைவாய்ப்புக்கான பயிற்சி மற்றும் நிதி ஆதரவு வழங்கும் திறன் வவுச்சர் திட்டம்."
       },
-      "launchDate": "July 2025",
+      "launchDate": "2023",
       "beneficiaries": {
-        "count": "75,000 target",
+        "count": "16,815 trained, 70,500 currently in training",
         "description": {
-          "en": "Youth seeking skills development",
-          "ta": "திறன் மேம்பாடு தேடும் இளைஞர்கள்"
+          "en": "12,689 successfully employed, 80.1% from economically weaker sections",
+          "ta": "12,689 பேர் வெற்றிகரமாக வேலைவாய்ப்பு, 80.1% பொருளாதாரத்தில் பின்தங்கியவர்கள்"
         }
       },
       "budget": {
         "amount": "₹100 crore",
-        "details": "100 hours training + ₹12,000 skill voucher"
+        "details": "₹12,000 transport allowance paid directly to trainees' bank accounts"
+      },
+      "outcomes": {
+        "en": "75.5% placement rate achieved among trained candidates",
+        "ta": "பயிற்சி பெற்றவர்களில் 75.5% வேலைவாய்ப்பு பெற்றனர்"
       },
       "highlights": [
-        { "en": "₹12,000 skill voucher per person", "ta": "நபருக்கு ₹12,000 திறன் வவுச்சர்" },
-        { "en": "100 hours of training", "ta": "100 மணி நேர பயிற்சி" },
-        { "en": "70% placement target", "ta": "70% வேலைவாய்ப்பு இலக்கு" }
+        { "en": "16,815 youth completed training with certificates", "ta": "16,815 இளைஞர்கள் சான்றிதழுடன் பயிற்சி முடித்தனர்" },
+        { "en": "12,689 successfully employed", "ta": "12,689 பேர் வெற்றிகரமாக வேலைவாய்ப்பு" },
+        { "en": "70,500 currently in training across 35 sectors", "ta": "35 துறைகளில் 70,500 பேர் பயிற்சியில்" },
+        { "en": "₹12,000 transport allowance per trainee", "ta": "பயிற்சியாளருக்கு ₹12,000 போக்குவரத்து படி" }
       ],
       "icon": "🏆",
       "sources": [
         { "title": "Vetri Nichayam Portal", "url": "https://candidate.tnskill.tn.gov.in/skillwallet/", "type": "government" },
-        { "title": "TNSDC", "url": "https://www.tnskill.tn.gov.in/", "type": "government" }
+        { "title": "TNSDC", "url": "https://www.tnskill.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card 2026", "url": "", "type": "government" }
       ]
     },
     {
@@ -342,6 +348,222 @@
       ]
     },
     {
+      "id": "naan-mudhalvan-upsc",
+      "name": {
+        "en": "Naan Mudhalvan UPSC Coaching",
+        "ta": "நான் முதல்வன் UPSC பயிற்சி"
+      },
+      "description": {
+        "en": "Comprehensive UPSC civil services coaching program providing monthly stipend and incentives to students from Tamil Nadu preparing for India's premier administrative examinations.",
+        "ta": "இந்தியாவின் முதன்மை நிர்வாக தேர்வுகளுக்கு தயாராகும் தமிழ்நாடு மாணவர்களுக்கு மாதாந்திர உதவித்தொகை மற்றும் ஊக்கத்தொகை வழங்கும் விரிவான UPSC சிவில் சர்வீசஸ் பயிற்சி திட்டம்."
+      },
+      "launchDate": "March 7, 2023",
+      "beneficiaries": {
+        "count": "1,000 students annually",
+        "description": {
+          "en": "50 candidates successfully cleared UPSC 2024-2025, including 5 in top 100 All-India ranks",
+          "ta": "50 வேட்பாளர்கள் UPSC 2024-2025 தேர்ச்சி, 5 பேர் அகில இந்திய முதல் 100 தரவரிசையில்"
+        }
+      },
+      "budget": {
+        "amount": "₹7,500/month stipend",
+        "details": "₹25,000 for Mains qualifiers, ₹50,000 for Interview stage qualifiers"
+      },
+      "outcomes": {
+        "en": "2024-2025: 659 qualified Prelims, 155 qualified Mains, 50 selected for civil services",
+        "ta": "2024-2025: 659 பேர் முதல்நிலை தேர்ச்சி, 155 பேர் முதன்மை தேர்ச்சி, 50 பேர் சிவில் சர்வீசஸ் தேர்வு"
+      },
+      "highlights": [
+        { "en": "₹7,500 monthly stipend for 10 months", "ta": "10 மாதங்களுக்கு மாதம் ₹7,500 உதவித்தொகை" },
+        { "en": "50 successful candidates in 2024-2025", "ta": "2024-2025 இல் 50 வெற்றியாளர்கள்" },
+        { "en": "5 candidates in All-India Top 100", "ta": "5 பேர் அகில இந்திய முதல் 100 இல்" },
+        { "en": "Mr. Sivashankar - 23rd All-India rank, 1st in TN", "ta": "திரு. சிவசங்கர் - 23வது அகில இந்திய தரம், தமிழ்நாட்டில் முதலிடம்" }
+      ],
+      "icon": "🎓",
+      "sources": [
+        { "title": "Naan Mudhalvan Portal", "url": "https://www.naanmudhalvan.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card 2026", "url": "", "type": "government" }
+      ]
+    },
+    {
+      "id": "naan-mudhalvan-residential-coaching",
+      "name": {
+        "en": "Naan Mudhalvan Residential Coaching",
+        "ta": "நான் முதல்வன் உறைவிட பயிற்சி"
+      },
+      "description": {
+        "en": "Free residential coaching program for SSC, Railway, and Banking examinations with food, accommodation, and quality training in Chennai, Madurai, and Coimbatore regions.",
+        "ta": "சென்னை, மதுரை, கோயம்புத்தூர் பகுதிகளில் SSC, ரயில்வே மற்றும் வங்கி தேர்வுகளுக்கான உணவு, தங்குமிடம் மற்றும் தரமான பயிற்சியுடன் இலவச உறைவிட பயிற்சி திட்டம்."
+      },
+      "launchDate": "2024-2025",
+      "beneficiaries": {
+        "count": "1,000 students annually",
+        "description": {
+          "en": "510 trained in first batch, 80 placed in SSC/Railway/Banking jobs",
+          "ta": "முதல் தொகுதியில் 510 பேர் பயிற்சி, 80 பேர் SSC/ரயில்வே/வங்கி வேலைவாய்ப்பு"
+        }
+      },
+      "budget": {
+        "amount": "₹4.28 crore",
+        "details": "Free food, accommodation, and coaching in Salem, Sivagangai, and Chennai centers"
+      },
+      "outcomes": {
+        "en": "80 placed: 20 in SSC, 12 in Railway, 48 in Banking sector",
+        "ta": "80 பேர் நியமனம்: 20 SSC, 12 ரயில்வே, 48 வங்கித்துறை"
+      },
+      "highlights": [
+        { "en": "Free residential coaching October 2024 to April 2025", "ta": "அக்டோபர் 2024 முதல் ஏப்ரல் 2025 வரை இலவச உறைவிட பயிற்சி" },
+        { "en": "700 students for Banking, 300 for SSC/Railway", "ta": "வங்கிக்கு 700, SSC/ரயில்வேக்கு 300 மாணவர்கள்" },
+        { "en": "Training centers in Salem, Sivagangai, Chennai", "ta": "சேலம், சிவகங்கை, சென்னையில் பயிற்சி மையங்கள்" },
+        { "en": "2025-2026: Training started October 10, 2025", "ta": "2025-2026: அக்டோபர் 10, 2025 அன்று பயிற்சி தொடக்கம்" }
+      ],
+      "icon": "🏫",
+      "sources": [
+        { "title": "TNSDC", "url": "https://www.tnskill.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card 2026", "url": "", "type": "government" }
+      ]
+    },
+    {
+      "id": "india-skills-world-skills",
+      "name": {
+        "en": "India Skills & World Skills Competitions",
+        "ta": "இந்திய திறன் & உலக திறன் போட்டிகள்"
+      },
+      "description": {
+        "en": "Tamil Nadu's participation in national and international skill competitions, showcasing excellence in robotics, software development, and various technical trades.",
+        "ta": "ரோபோடிக்ஸ், மென்பொருள் மேம்பாடு மற்றும் பல்வேறு தொழில்நுட்ப துறைகளில் சிறப்பை வெளிப்படுத்தும் தேசிய மற்றும் சர்வதேச திறன் போட்டிகளில் தமிழ்நாட்டின் பங்கேற்பு."
+      },
+      "launchDate": "Ongoing",
+      "beneficiaries": {
+        "count": "87 TN participants in India Skills 2024",
+        "description": {
+          "en": "40 medals won at India Skills 2024 - 3rd nationally",
+          "ta": "இந்திய திறன் 2024 இல் 40 பதக்கங்கள் - தேசிய அளவில் 3வது"
+        }
+      },
+      "outcomes": {
+        "en": "World Skills 2024 (Lyon): 3 TN students represented India. World Skills Asia 2025 (Taiwan): Bronze medal in Robot System Integration",
+        "ta": "உலக திறன் 2024 (லியான்): 3 தமிழ்நாடு மாணவர்கள் இந்தியாவை பிரதிநிதித்துவப்படுத்தினர். உலக திறன் ஆசியா 2025 (தைவான்): ரோபோ சிஸ்டம் இன்டெகிரேஷனில் வெண்கலப் பதக்கம்"
+      },
+      "highlights": [
+        { "en": "India Skills 2024: 6 Gold, 8 Silver, 9 Bronze, 17 Special medals", "ta": "இந்திய திறன் 2024: 6 தங்கம், 8 வெள்ளி, 9 வெண்கலம், 17 சிறப்பு பதக்கங்கள்" },
+        { "en": "World Skills 2024 Lyon: 3 TN participants representing India", "ta": "உலக திறன் 2024 லியான்: 3 தமிழ்நாடு பிரதிநிதிகள்" },
+        { "en": "World Skills Asia 2025: Bronze in Robot System Integration", "ta": "உலக திறன் ஆசியா 2025: ரோபோ சிஸ்டம் இன்டெகிரேஷனில் வெண்கலம்" },
+        { "en": "Medal for Excellence in Software Application Development", "ta": "மென்பொருள் பயன்பாட்டு மேம்பாட்டில் சிறப்பு பதக்கம்" }
+      ],
+      "icon": "🥇",
+      "sources": [
+        { "title": "World Skills International", "url": "https://worldskills.org/", "type": "media" },
+        { "title": "DMK 5 Years Report Card 2026", "url": "", "type": "government" }
+      ]
+    },
+    {
+      "id": "niral-thiruvizha",
+      "name": {
+        "en": "Niral Thiruvizha Innovation Festival",
+        "ta": "நிரல் திருவிழா புத்தாக்க விழா"
+      },
+      "description": {
+        "en": "Annual innovation festival encouraging students to develop projects with mentorship, funding, and startup support through partnerships with StartupTN, iTNT Hub, and EDII.",
+        "ta": "StartupTN, iTNT Hub மற்றும் EDII உடன் கூட்டாண்மையின் மூலம் வழிகாட்டுதல், நிதியுதவி மற்றும் ஸ்டார்ட்அப் ஆதரவுடன் திட்டங்களை உருவாக்க மாணவர்களை ஊக்குவிக்கும் ஆண்டு புத்தாக்க விழா."
+      },
+      "launchDate": "2022",
+      "beneficiaries": {
+        "count": "15,337 participants in 2024-2025",
+        "description": {
+          "en": "1,000 top projects selected, 150 getting startup support",
+          "ta": "1,000 சிறந்த திட்டங்கள் தேர்வு, 150 ஸ்டார்ட்அப் ஆதரவு பெறுகின்றன"
+        }
+      },
+      "budget": {
+        "amount": "₹10,000 per selected student",
+        "details": "₹1,00,000 Innovation Voucher Fund for top 50 projects"
+      },
+      "outcomes": {
+        "en": "2023-2024: 8,486 participants, 1,000 projects supported. 2024-2025: 15,337 participants, 150 projects getting startup incubation",
+        "ta": "2023-2024: 8,486 பங்கேற்பாளர்கள், 1,000 திட்டங்கள் ஆதரவு. 2024-2025: 15,337 பங்கேற்பாளர்கள், 150 திட்டங்கள் ஸ்டார்ட்அப் இன்குபேஷன்"
+      },
+      "highlights": [
+        { "en": "15,337 participants in Niral Thiruvizha 2024-2025", "ta": "நிரல் திருவிழா 2024-2025 இல் 15,337 பங்கேற்பாளர்கள்" },
+        { "en": "₹10,000 grant per selected student for project development", "ta": "திட்ட மேம்பாட்டுக்கு தேர்ந்தெடுக்கப்பட்ட மாணவருக்கு ₹10,000 மானியம்" },
+        { "en": "150 projects getting StartupTN, iTNT, EDII support", "ta": "150 திட்டங்கள் StartupTN, iTNT, EDII ஆதரவு பெறுகின்றன" },
+        { "en": "₹1,00,000 Innovation Voucher for top 50 projects", "ta": "சிறந்த 50 திட்டங்களுக்கு ₹1,00,000 புத்தாக்க வவுச்சர்" }
+      ],
+      "icon": "💡",
+      "sources": [
+        { "title": "Naan Mudhalvan Portal", "url": "https://www.naanmudhalvan.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card 2026", "url": "", "type": "government" }
+      ]
+    },
+    {
+      "id": "naan-mudhalvan-scout",
+      "name": {
+        "en": "Naan Mudhalvan SCOUT International Internship",
+        "ta": "நான் முதல்வன் SCOUT சர்வதேச பயிற்சி"
+      },
+      "description": {
+        "en": "International internship program providing students exposure to global companies and universities in Japan, South Korea, and other countries through partnerships with Kyoto University and leading corporations.",
+        "ta": "கியோட்டோ பல்கலைக்கழகம் மற்றும் முன்னணி நிறுவனங்களுடன் கூட்டாண்மையின் மூலம் ஜப்பான், தென் கொரியா மற்றும் பிற நாடுகளில் உலகளாவிய நிறுவனங்கள் மற்றும் பல்கலைக்கழகங்களுக்கு மாணவர்களுக்கு வெளிப்பாடு வழங்கும் சர்வதேச பயிற்சி திட்டம்."
+      },
+      "launchDate": "2024",
+      "beneficiaries": {
+        "count": "100 students for international internships",
+        "description": {
+          "en": "Japan: 10 students at Kyoto University & Netuge Corporation, 5 placed. South Korea: 6 students at Kocha and Pusan University",
+          "ta": "ஜப்பான்: கியோட்டோ பல்கலைக்கழகம் & நெட்டூஜ் நிறுவனத்தில் 10 மாணவர்கள், 5 நியமனம். தென் கொரியா: கோச்சா மற்றும் புசான் பல்கலைக்கழகத்தில் 6 மாணவர்கள்"
+        }
+      },
+      "outcomes": {
+        "en": "13 students placed in leading companies from SCOUT 2024 batch",
+        "ta": "SCOUT 2024 தொகுதியிலிருந்து 13 மாணவர்கள் முன்னணி நிறுவனங்களில் நியமனம்"
+      },
+      "highlights": [
+        { "en": "100 students selected for international internships annually", "ta": "ஆண்டுதோறும் 100 மாணவர்கள் சர்வதேச பயிற்சிக்கு தேர்வு" },
+        { "en": "Partnerships with Kyoto University, Netuge Corporation", "ta": "கியோட்டோ பல்கலைக்கழகம், நெட்டூஜ் நிறுவனத்துடன் கூட்டாண்மை" },
+        { "en": "13 placements in leading companies from first batch", "ta": "முதல் தொகுதியிலிருந்து 13 நியமனங்கள்" },
+        { "en": "IIT Madras collaboration for AI training", "ta": "AI பயிற்சிக்கு IIT மெட்ராஸ் ஒத்துழைப்பு" }
+      ],
+      "icon": "🌏",
+      "sources": [
+        { "title": "Naan Mudhalvan Portal", "url": "https://www.naanmudhalvan.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card 2026", "url": "", "type": "government" }
+      ]
+    },
+    {
+      "id": "kalaignar-kanam-2025",
+      "name": {
+        "en": "Kalaignar Kanam 2025 - Career Guidance",
+        "ta": "கலைஞர் கனவு 2025 - தொழில் வழிகாட்டுதல்"
+      },
+      "description": {
+        "en": "Career guidance program helping Class 12 students choose higher education paths through interactive sessions and counseling.",
+        "ta": "ஊடாடும் அமர்வுகள் மற்றும் ஆலோசனை மூலம் 12ஆம் வகுப்பு மாணவர்கள் உயர் கல்வி பாதைகளைத் தேர்வு செய்ய உதவும் தொழில் வழிகாட்டுதல் திட்டம்."
+      },
+      "launchDate": "2022",
+      "beneficiaries": {
+        "count": "2,68,149 students since 2022",
+        "description": {
+          "en": "81,149 students benefited in Kalaignar Kanam 2025",
+          "ta": "கலைஞர் கனவு 2025 இல் 81,149 மாணவர்கள் பயனடைந்தனர்"
+        }
+      },
+      "outcomes": {
+        "en": "1,06,548 students guided into higher education institutions in last 3 years",
+        "ta": "கடந்த 3 ஆண்டுகளில் 1,06,548 மாணவர்கள் உயர் கல்வி நிறுவனங்களுக்கு வழிகாட்டப்பட்டனர்"
+      },
+      "highlights": [
+        { "en": "81,149 students benefited in Kalaignar Kanam 2025", "ta": "கலைஞர் கனவு 2025 இல் 81,149 மாணவர்கள் பயன்" },
+        { "en": "2,68,149 total beneficiaries since 2022", "ta": "2022 முதல் மொத்தம் 2,68,149 பயனாளிகள்" },
+        { "en": "Interactive career guidance sessions", "ta": "ஊடாடும் தொழில் வழிகாட்டுதல் அமர்வுகள்" },
+        { "en": "Counseling for higher education pathways", "ta": "உயர் கல்வி பாதைகளுக்கான ஆலோசனை" }
+      ],
+      "icon": "🎯",
+      "sources": [
+        { "title": "Naan Mudhalvan Portal", "url": "https://www.naanmudhalvan.tn.gov.in/", "type": "government" },
+        { "title": "DMK 5 Years Report Card 2026", "url": "", "type": "government" }
+      ]
+    },
+    {
       "id": "apprenticeship",
       "name": {
         "en": "Apprenticeship Programs",
@@ -536,6 +758,13 @@
     "gimInvestments": "₹6.60 lakh crore",
     "gimJobs": "6.64 lakh",
     "unemploymentUrban": "2.05%",
-    "unemploymentRural": "4.51%"
+    "unemploymentRural": "4.51%",
+    "vetriNichayamTrained": "16,815",
+    "vetriNichayamPlaced": "12,689",
+    "vetriNichayamInTraining": "70,500",
+    "upscCoachingBeneficiaries": "1,000 annually",
+    "upscSuccessful2024": "50",
+    "indiaSkills2024Medals": "40",
+    "worldSkillsParticipants": "3"
   }
 }
