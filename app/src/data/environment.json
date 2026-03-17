@@ -179,6 +179,7 @@
         "en": "Subsidies and net metering for residential and commercial rooftop solar installations.",
         "ta": "குடியிருப்பு மற்றும் வணிக கூரை சோலார் நிறுவல்களுக்கான மானியங்கள் மற்றும் நெட் மீட்டரிங்."
       },
+      "launchDate": "2024 (PM Surya Ghar); TN Net Metering 2013",
       "beneficiaries": {
         "count": "Thousands of installations",
         "description": {
@@ -315,6 +316,7 @@
         "en": "Massive tree planting and forest restoration initiative to increase green cover.",
         "ta": "பசுமை போர்வையை அதிகரிக்க பாரிய மரம் நடுதல் மற்றும் காடு மீட்பு முன்முயற்சி."
       },
+      "launchDate": "September 24, 2022",
       "beneficiaries": {
         "count": "10 crore trees target",
         "description": {
@@ -348,6 +350,7 @@
         "en": "Comprehensive waste management with segregation, processing, and plastic ban enforcement.",
         "ta": "பிரிக்கல், செயலாக்கம் மற்றும் பிளாஸ்டிக் தடை அமலாக்கத்துடன் விரிவான கழிவு மேலாண்மை."
       },
+      "launchDate": "June 22, 2024 (Thooimai Mission)",
       "beneficiaries": {
         "count": "All ULBs",
         "description": {
@@ -381,6 +384,7 @@
         "en": "Restoration of water bodies and rainwater harvesting mandates across Tamil Nadu.",
         "ta": "தமிழ்நாடு முழுவதும் நீர்நிலைகளின் மீட்பு மற்றும் மழைநீர் சேகரிப்பு கட்டாயங்கள்."
       },
+      "launchDate": "Ongoing (RWH mandate 2001, intensified 2021+)",
       "beneficiaries": {
         "count": "Thousands of lakes",
         "description": {
@@ -847,6 +851,40 @@
       "sources": [
         { "title": "CMO Tamil Nadu Twitter", "url": "https://fxtwitter.com/CMOTamilnadu/status/2023784729414431090", "type": "government" },
         { "title": "TN Green Climate Fund", "url": "https://tnifmc.com/green-climate-fund/", "type": "government" }
+      ]
+    },
+    {
+      "id": "mahout-village-anaimalai",
+      "name": {
+        "en": "Elephant Mahout Village - Anaimalai Tiger Reserve",
+        "ta": "யானைப்பாகர் கிராமம் - ஆனைமலை புலிகள் காப்பகம்"
+      },
+      "description": {
+        "en": "India's second dedicated Mahout Village at Kozhikamuthi Elephant Camp in Anaimalai Tiger Reserve. Houses 47 staff quarters for Malasar tribal community mahouts and kavadis caring for 20+ elephants. Features solar-powered micro-grid with Battery Energy Storage System.",
+        "ta": "ஆனைமலை புலிகள் காப்பகத்தில் கொழிகமுத்தி யானை முகாமில் இந்தியாவின் இரண்டாவது மகவுட் கிராமம். 20+ யானைகளை பராமரிக்கும் மலசர் பழங்குடி பாகர்கள் மற்றும் கவாடிகளுக்கு 47 குடியிருப்புகள். சோலார் மின் மைக்ரோ-கிரிட் வசதி."
+      },
+      "launchDate": "October 6, 2025",
+      "beneficiaries": {
+        "count": "47 mahout families",
+        "description": {
+          "en": "Malasar tribal community elephant caretakers",
+          "ta": "மலசர் பழங்குடி சமூக யானை பராமரிப்பாளர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "Rs 5.40 crore (village) + Rs 3.5 crore (solar)",
+        "details": "47 staff quarters with solar micro-grid"
+      },
+      "highlights": [
+        { "en": "India's second dedicated Mahout Village", "ta": "இந்தியாவின் இரண்டாவது மகவுட் கிராமம்" },
+        { "en": "47 staff quarters for tribal mahouts", "ta": "பழங்குடி பாகர்களுக்கு 47 குடியிருப்புகள்" },
+        { "en": "124 kWp solar plant with 516 kWh battery storage", "ta": "124 kWp சோலார் ஆலை மற்றும் 516 kWh பேட்டரி சேமிப்பு" },
+        { "en": "Follows first village at Theppakadu, Mudumalai", "ta": "முதுமலை தெப்பக்காட்டில் முதல் கிராமத்தைத் தொடர்ந்து" }
+      ],
+      "icon": "🐘",
+      "sources": [
+        { "title": "Deccan Herald", "url": "https://www.deccanherald.com/india/tamil-nadu/tamil-nadus-second-mahout-village-opened-in-anamalai-tiger-reserve-3754592", "type": "media" },
+        { "title": "Devdiscourse", "url": "https://www.devdiscourse.com/article/entertainment/3654488-tamil-nadu-unveils-indias-second-eco-friendly-mahout-village", "type": "media" }
       ]
     }
   ],
