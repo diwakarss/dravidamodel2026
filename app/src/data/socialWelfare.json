@@ -329,6 +329,7 @@
         "en": "Old Age Pension",
         "ta": "முதியோர் ஓய்வூதியம்"
       },
+      "launchDate": "1995 (IGNOAPS national launch, TN implementation)",
       "description": {
         "en": "Monthly pension for senior citizens without income sources.",
         "ta": "வருமான ஆதாரம் இல்லாத மூத்த குடிமக்களுக்கு மாதாந்திர ஓய்வூதியம்."
@@ -387,6 +388,7 @@
         "en": "Widow Pension",
         "ta": "விதவை ஓய்வூதியம்"
       },
+      "launchDate": "May 27, 1975 (G.O. 507)",
       "description": {
         "en": "Financial support for widowed women across Tamil Nadu.",
         "ta": "தமிழ்நாடு முழுவதும் விதவைப் பெண்களுக்கு நிதி ஆதரவு."
@@ -445,6 +447,7 @@
         "en": "Differently Abled Pension",
         "ta": "மாற்றுத்திறனாளிகள் ஓய்வூதியம்"
       },
+      "launchDate": "1993 (department created), 1994 (comprehensive policy)",
       "description": {
         "en": "Enhanced pension for persons with disabilities (80%+ disability).",
         "ta": "மாற்றுத்திறனாளிகளுக்கு (80%+ இயலாமை) மேம்படுத்தப்பட்ட ஓய்வூதியம்."
@@ -558,6 +561,7 @@
         "en": "Moovalur Ramamirtham Marriage Assistance",
         "ta": "மூவலூர் ராமாமிர்தம் திருமண உதவி"
       },
+      "launchDate": "1989",
       "description": {
         "en": "Financial assistance and gold coin for women's marriages. Gold coins resumed by DMK with ₹117 cr allocated to clear backlog.",
         "ta": "பெண்களின் திருமணத்திற்கு நிதி உதவி மற்றும் தங்க நாணயம். DMK மூலம் தங்க நாணயங்கள் மீண்டும் தொடங்கப்பட்டது."
@@ -662,6 +666,7 @@
         "en": "Fishermen Welfare Schemes",
         "ta": "மீனவர் நலத் திட்டங்கள்"
       },
+      "launchDate": "2007 (TNFWB established)",
       "description": {
         "en": "Comprehensive welfare including diesel subsidy, insurance, and housing for fishing community.",
         "ta": "மீனவ சமூகத்திற்கு டீசல் மானியம், காப்பீடு மற்றும் வீட்டு வசதி உள்ளிட்ட விரிவான நலத்திட்டங்கள்."
@@ -717,6 +722,7 @@
         "en": "SC/ST Welfare Programs",
         "ta": "SC/ST நலத் திட்டங்கள்"
       },
+      "launchDate": "1988 (Adi Dravidar and Tribal Welfare Dept created)",
       "description": {
         "en": "Comprehensive welfare programs for Scheduled Castes and Scheduled Tribes.",
         "ta": "தாழ்த்தப்பட்ட மற்றும் பழங்குடியினருக்கான விரிவான நலத் திட்டங்கள்."
@@ -827,6 +833,7 @@
         "en": "Minority Welfare Schemes",
         "ta": "சிறுபான்மையினர் நலத் திட்டங்கள்"
       },
+      "launchDate": "2011-12 (Jerusalem pilgrimage, Church renovation 2016-17)",
       "description": {
         "en": "Education scholarships and welfare schemes for Muslim and Christian minorities.",
         "ta": "இஸ்லாமிய மற்றும் கிறிஸ்தவ சிறுபான்மையினருக்கான கல்வி உதவித்தொகை மற்றும் நலத் திட்டங்கள்."
@@ -877,6 +884,7 @@
         "en": "Integrated Child Development Services",
         "ta": "ஒருங்கிணைந்த குழந்தை வளர்ச்சி சேவைகள்"
       },
+      "launchDate": "October 2, 1975",
       "description": {
         "en": "Nutrition, healthcare, and early childhood education through Anganwadi centers.",
         "ta": "அங்கன்வாடி மையங்கள் மூலம் ஊட்டச்சத்து, சுகாதாரம் மற்றும் ஆரம்பக் கல்வி."
@@ -1281,7 +1289,7 @@
         }
       },
       "budget": {
-        "amount": "Not specified",
+        "amount": "Rs 10 crore",
         "year": "2025-26",
         "details": "25 centers in Phase 1"
       },
@@ -1816,6 +1824,978 @@
           "type": "government"
         }
       ]
+    },
+    {
+      "id": "cm-breakfast-scheme",
+      "name": {
+        "en": "Chief Minister's Breakfast Scheme",
+        "ta": "முதலமைச்சர் காலை உணவுத் திட்டம்"
+      },
+      "description": {
+        "en": "Iconic scheme providing free nutritious breakfast to government school children (classes 1-5) to improve attendance and reduce malnutrition.",
+        "ta": "அரசு பள்ளி மாணவர்களுக்கு (1-5 வகுப்பு) வருகையை மேம்படுத்தவும் ஊட்டச்சத்து குறைபாட்டைக் குறைக்கவும் இலவச ஊட்டச்சத்து காலை உணவு வழங்கும் முன்னோடித் திட்டம்."
+      },
+      "launchDate": "September 15, 2022",
+      "beneficiaries": {
+        "count": "19.34 lakh students",
+        "description": {
+          "en": "Government school children in classes 1-5 across 37,445 schools",
+          "ta": "37,445 பள்ளிகளில் 1-5 வகுப்பு அரசு பள்ளி குழந்தைகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹600.49 crore",
+        "year": "2024-2025",
+        "details": "Total spent 2021-2026: ₹1,398.91 crore"
+      },
+      "eligibility": {
+        "en": "All students in government and government-aided primary schools",
+        "ta": "அரசு மற்றும் அரசு உதவி பெறும் தொடக்கப் பள்ளி மாணவர்கள்"
+      },
+      "highlights": [
+        {
+          "en": "First state in India to implement breakfast scheme",
+          "ta": "காலை உணவுத் திட்டத்தை செயல்படுத்திய இந்தியாவின் முதல் மாநிலம்"
+        },
+        {
+          "en": "37,445 schools and 19.34 lakh students covered",
+          "ta": "37,445 பள்ளிகள் மற்றும் 19.34 லட்சம் மாணவர்கள்"
+        },
+        {
+          "en": "Nutritious menu with variety (rice, sambar, vegetables)",
+          "ta": "ஊட்டச்சத்துள்ள பல்வகை உணவு (சாதம், சாம்பார், காய்கறிகள்)"
+        }
+      ],
+      "icon": "🍳",
+      "sources": [
+        {
+          "title": "SPC - CM Breakfast Scheme",
+          "url": "https://spc.tn.gov.in/chief-ministers-breakfast-scheme/",
+          "type": "government"
+        },
+        {
+          "title": "The Hindu - TN Breakfast Scheme",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-launches-free-breakfast-scheme-in-government-schools/article65893227.ece",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "pudhumai-penn",
+      "name": {
+        "en": "Pudhumai Penn Scheme (Moovalur Ramamirtham Ammaiyr Higher Education Assurance)",
+        "ta": "புதுமைப் பெண் திட்டம் (மூவலூர் இராமாமிர்தம் அம்மையார் உயர்கல்வி உறுதி)"
+      },
+      "description": {
+        "en": "Monthly stipend of ₹1,000 for girls from government schools pursuing higher education to prevent dropouts and empower women.",
+        "ta": "இடைநிறுத்தலைத் தடுக்கவும் பெண்களை வலுப்படுத்தவும் உயர்கல்வி பயிலும் அரசு பள்ளி மாணவிகளுக்கு மாதம் ₹1,000 ஊக்கத்தொகை."
+      },
+      "launchDate": "September 5, 2022",
+      "beneficiaries": {
+        "count": "6.92 lakh girls",
+        "description": {
+          "en": "Girls from government schools in class 6-12 pursuing higher education",
+          "ta": "அரசு பள்ளிகளில் 6-12 வகுப்பு மாணவிகள் உயர்கல்வி பயில்பவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹1,116.66 crore",
+        "year": "2021-2026 (5 years)",
+        "details": "FY 2025-26: ₹394.85 crore"
+      },
+      "eligibility": {
+        "en": "Girls studying in government and government-aided schools, classes 6-12",
+        "ta": "அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில் 6-12 வகுப்பு மாணவிகள்"
+      },
+      "highlights": [
+        {
+          "en": "₹1,000/month to prevent higher education dropouts",
+          "ta": "உயர்கல்வி இடைநிறுத்தலைத் தடுக்க மாதம் ₹1,000"
+        },
+        {
+          "en": "6.92 lakh girls benefited since 2022",
+          "ta": "2022 முதல் 6.92 லட்சம் மாணவிகள் பயனடைந்தனர்"
+        },
+        {
+          "en": "Extended to government-aided schools in 2024-25",
+          "ta": "2024-25இல் அரசு உதவி பெறும் பள்ளிகளுக்கு விரிவாக்கம்"
+        }
+      ],
+      "icon": "👩‍🎓",
+      "sources": [
+        {
+          "title": "Pudhumai Penn Official Portal",
+          "url": "https://pudhumaipenn.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "The Hindu - Pudhumai Penn Scheme",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/pudhumai-penn-scheme-launched-in-tn/article65861890.ece",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "tamil-pudhalvan",
+      "name": {
+        "en": "Tamil Pudhalvan Scheme",
+        "ta": "தமிழ் புதல்வன் திட்டம்"
+      },
+      "description": {
+        "en": "Monthly stipend of ₹1,000 for boys from government schools pursuing higher education, mirroring the Pudhumai Penn scheme.",
+        "ta": "புதுமைப் பெண் திட்டத்தைப் போன்று உயர்கல்வி பயிலும் அரசு பள்ளி மாணவர்களுக்கு மாதம் ₹1,000 ஊக்கத்தொகை."
+      },
+      "launchDate": "August 9, 2024",
+      "beneficiaries": {
+        "count": "5.40 lakh boys",
+        "description": {
+          "en": "Boys from government schools in class 6-12 pursuing higher education",
+          "ta": "அரசு பள்ளிகளில் 6-12 வகுப்பு மாணவர்கள் உயர்கல்வி பயில்பவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹615.61 crore",
+        "year": "2024-2026 (2 years)",
+        "details": "FY 2025-26: ₹360.66 crore"
+      },
+      "eligibility": {
+        "en": "Boys studying in government and government-aided schools, classes 6-12",
+        "ta": "அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில் 6-12 வகுப்பு மாணவர்கள்"
+      },
+      "highlights": [
+        {
+          "en": "₹1,000/month to encourage higher education",
+          "ta": "உயர்கல்வியை ஊக்குவிக்க மாதம் ₹1,000"
+        },
+        {
+          "en": "5.40 lakh boys benefited since August 2024",
+          "ta": "ஆகஸ்ட் 2024 முதல் 5.40 லட்சம் மாணவர்கள் பயனடைந்தனர்"
+        },
+        {
+          "en": "Complements Pudhumai Penn for gender equality",
+          "ta": "பாலின சமத்துவத்திற்கு புதுமைப் பெண்ணுடன் இணைகிறது"
+        }
+      ],
+      "icon": "👨‍🎓",
+      "sources": [
+        {
+          "title": "TN Social Welfare Department",
+          "url": "https://www.tnsocialwelfare.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "The Hindu - Tamil Pudhalvan Scheme",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "intercaste-marriage-assistance",
+      "name": {
+        "en": "Inter-caste Marriage Assistance Scheme",
+        "ta": "கலப்பு திருமண நிதியுதவித் திட்டம்"
+      },
+      "description": {
+        "en": "Financial assistance and gold coin for couples who marry across caste lines to promote social equality.",
+        "ta": "சமூக சமத்துவத்தை ஊக்குவிக்க சாதி தாண்டி திருமணம் செய்யும் தம்பதிகளுக்கு நிதியுதவி மற்றும் தங்க நாணயம்."
+      },
+      "launchDate": "1968 (Enhanced 2016)",
+      "beneficiaries": {
+        "count": "11,634 couples",
+        "description": {
+          "en": "Inter-caste married couples (2021-2026)",
+          "ta": "கலப்பு திருமணம் செய்த தம்பதிகள் (2021-2026)"
+        }
+      },
+      "budget": {
+        "amount": "₹73.99 crore",
+        "year": "2021-2026 (5 years)",
+        "details": "₹25,000-50,000 + 8 gram (22 carat) gold coin"
+      },
+      "eligibility": {
+        "en": "Couples marrying across different castes, bride must have 10th pass minimum",
+        "ta": "வெவ்வேறு சாதிகளில் திருமணம் செய்பவர்கள், மணமகள் குறைந்தபட்சம் 10ஆம் வகுப்பு தேர்ச்சி"
+      },
+      "highlights": [
+        {
+          "en": "8 gram (22 carat) gold coin provided",
+          "ta": "8 கிராம் (22 காரட்) தங்க நாணயம் வழங்கப்படும்"
+        },
+        {
+          "en": "₹25,000-50,000 financial assistance",
+          "ta": "₹25,000-50,000 நிதியுதவி"
+        },
+        {
+          "en": "Started by Anna in 1968, enhanced by Kalaignar",
+          "ta": "1968இல் அண்ணா தொடங்கியது, கலைஞரால் மேம்படுத்தப்பட்டது"
+        }
+      ],
+      "icon": "💒",
+      "sources": [
+        {
+          "title": "TN Social Welfare Department",
+          "url": "https://www.tnsocialwelfare.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "MyScheme - Inter-caste Marriage",
+          "url": "https://www.myscheme.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "thozhi-working-women-hostels",
+      "name": {
+        "en": "Thozhi - Working Women's Hostels",
+        "ta": "தோழி - பணிபுரியும் பெண்கள் விடுதிகள்"
+      },
+      "description": {
+        "en": "Safe and affordable hostel accommodation for working women across Tamil Nadu with modern facilities.",
+        "ta": "நவீன வசதிகளுடன் தமிழ்நாடு முழுவதும் பணிபுரியும் பெண்களுக்கு பாதுகாப்பான மற்றும் மலிவான விடுதி தங்குமிடம்."
+      },
+      "launchDate": "July 13, 2023",
+      "beneficiaries": {
+        "count": "1,834 working women",
+        "description": {
+          "en": "Working women in 19 hostels across 15 districts",
+          "ta": "15 மாவட்டங்களில் 19 விடுதிகளில் பணிபுரியும் பெண்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹171.64 crore",
+        "year": "2021-2026",
+        "details": "19 hostels operational, 13 more under construction"
+      },
+      "eligibility": {
+        "en": "Working women requiring safe accommodation near workplace",
+        "ta": "பணியிடத்திற்கு அருகில் பாதுகாப்பான தங்குமிடம் தேவைப்படும் பணிபுரியும் பெண்கள்"
+      },
+      "highlights": [
+        {
+          "en": "19 hostels with 1,834 beds operational",
+          "ta": "19 விடுதிகள் 1,834 படுக்கைகளுடன் செயல்பாட்டில்"
+        },
+        {
+          "en": "CCTV, biometric entry, 24/7 security",
+          "ta": "CCTV, பயோமெட்ரிக் நுழைவு, 24/7 பாதுகாப்பு"
+        },
+        {
+          "en": "Operated by TN Working Women's Hostel Corporation",
+          "ta": "தமிழ்நாடு பணிபுரியும் பெண்கள் விடுதி கழகத்தால் இயக்கப்படுகிறது"
+        }
+      ],
+      "icon": "🏢",
+      "sources": [
+        {
+          "title": "TN Working Women's Hostel Corporation",
+          "url": "https://www.tnwwhcl.com/",
+          "type": "government"
+        },
+        {
+          "title": "The Hindu - Thozhi Hostels",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/",
+          "type": "media"
+        }
+      ]
+    },
+    {
+      "id": "mid-day-meal-enhancement",
+      "name": {
+        "en": "Mid-Day Meal Scheme Enhancement",
+        "ta": "சத்துணவுத் திட்ட மேம்பாடு"
+      },
+      "description": {
+        "en": "Enhanced nutritious mid-day meals for school children with improved menu variety and nutrition.",
+        "ta": "மேம்படுத்தப்பட்ட உணவு வகைகள் மற்றும் ஊட்டச்சத்துடன் பள்ளி குழந்தைகளுக்கு மேம்படுத்தப்பட்ட ஊட்டச்சத்து மதிய உணவு."
+      },
+      "launchDate": "1925 (Enhanced 2021-2026)",
+      "beneficiaries": {
+        "count": "40.82 lakh students",
+        "description": {
+          "en": "Government school students across Tamil Nadu",
+          "ta": "தமிழ்நாடு முழுவதும் அரசு பள்ளி மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹2,891.95 crore",
+        "year": "2025-2026",
+        "details": "Total 2021-2026: ₹12,091.21 crore"
+      },
+      "eligibility": {
+        "en": "All students in government and government-aided schools",
+        "ta": "அரசு மற்றும் அரசு உதவி பெறும் பள்ளிகளில் அனைத்து மாணவர்கள்"
+      },
+      "highlights": [
+        {
+          "en": "Menu enhanced with variety (vegetables, pulses, eggs)",
+          "ta": "உணவு வகைகள் மேம்படுத்தப்பட்டது (காய்கறிகள், பருப்பு, முட்டை)"
+        },
+        {
+          "en": "40.82 lakh students benefit daily",
+          "ta": "தினமும் 40.82 லட்சம் மாணவர்கள் பயனடைகிறார்கள்"
+        },
+        {
+          "en": "First state to start mid-day meals (Chennai 1925)",
+          "ta": "மதிய உணவைத் தொடங்கிய முதல் மாநிலம் (சென்னை 1925)"
+        }
+      ],
+      "icon": "🍱",
+      "sources": [
+        {
+          "title": "TN Social Welfare Department - Mid-Day Meal",
+          "url": "https://www.tnsocialwelfare.tn.gov.in/",
+          "type": "government"
+        },
+        {
+          "title": "Ministry of Education - PM POSHAN",
+          "url": "https://pmposhan.education.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "hajj-pilgrimage-subsidy",
+      "name": {
+        "en": "Hajj Pilgrimage Subsidy Scheme",
+        "ta": "ஹஜ் புனித பயண மானியத் திட்டம்"
+      },
+      "launchDate": "2018 (first TN Hajj subsidy)",
+      "description": {
+        "en": "State subsidy for Hajj pilgrims covering travel and accommodation expenses, administered through Tamil Nadu Hajj Committee.",
+        "ta": "ஹஜ் புனிதப் பயணிகளுக்கு பயணம் மற்றும் தங்கும் செலவுகளுக்கான மாநில மானியம், தமிழ்நாடு ஹஜ் குழு மூலம் நிர்வகிக்கப்படுகிறது."
+      },
+      "beneficiaries": {
+        "count": "5,757 pilgrims (2024-2025)",
+        "description": {
+          "en": "Muslim pilgrims performing Hajj",
+          "ta": "ஹஜ் கடமை நிறைவேற்றும் முஸ்லிம் புனிதப் பயணிகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹100.16 crore",
+        "year": "2024-2025",
+        "details": "Subsidy of ₹25,000 per pilgrim from 2025"
+      },
+      "highlights": [
+        {
+          "en": "₹25,000 subsidy per pilgrim (from 2025)",
+          "ta": "ஒரு புனிதப் பயணிக்கு ₹25,000 மானியம் (2025 முதல்)"
+        },
+        {
+          "en": "Administrative grant increased from ₹50 lakh to ₹80 lakh",
+          "ta": "நிர்வாக மானியம் ₹50 லட்சத்திலிருந்து ₹80 லட்சமாக உயர்வு"
+        },
+        {
+          "en": "Hajj House constructed in Chennai (₹39.20 crore)",
+          "ta": "சென்னையில் ஹஜ் இல்லம் கட்டப்பட்டது (₹39.20 கோடி)"
+        }
+      ],
+      "icon": "🕋",
+      "sources": [
+        {
+          "title": "TN Hajj Committee Official",
+          "url": "https://www.tnjuma.tn.gov.in/hajj.html",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "tn-minority-economic-corporation",
+      "name": {
+        "en": "TN Minority Economic Development Corporation",
+        "ta": "தமிழ்நாடு சிறுபான்மையினர் பொருளாதார மேம்பாட்டுக் கழகம்"
+      },
+      "launchDate": "August 31, 1999 (registered), operational December 27, 1999",
+      "description": {
+        "en": "Economic development corporation providing low-interest loans and skill development for minorities including Muslims, Christians, Sikhs, Buddhists, Jains, and Parsis.",
+        "ta": "முஸ்லிம்கள், கிறிஸ்தவர்கள், சீக்கியர்கள், பௌத்தர்கள், ஜைனர்கள் மற்றும் பார்சிகள் உள்ளிட்ட சிறுபான்மையினருக்கு குறைந்த வட்டிக் கடன்கள் மற்றும் திறன் மேம்பாடு வழங்கும் பொருளாதார மேம்பாட்டுக் கழகம்."
+      },
+      "beneficiaries": {
+        "count": "37,399 (2021-2025)",
+        "description": {
+          "en": "Low-interest loans disbursed to minority entrepreneurs",
+          "ta": "சிறுபான்மை தொழில் முனைவோருக்கு குறைந்த வட்டிக் கடன்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹253.66 crore",
+        "year": "2021-2025",
+        "details": "Total loans disbursed over 5 years"
+      },
+      "highlights": [
+        {
+          "en": "7,500 three-wheelers distributed (₹160 lakh subsidy)",
+          "ta": "7,500 மூன்று சக்கர வாகனங்கள் விநியோகம் (₹160 லட்சம் மானியம்)"
+        },
+        {
+          "en": "Free house site pattas for 315 beneficiaries (₹293.70 lakh)",
+          "ta": "315 பயனாளிகளுக்கு இலவச வீட்டு மனை பட்டா (₹293.70 லட்சம்)"
+        },
+        {
+          "en": "5 new district offices opened (₹175.05 lakh)",
+          "ta": "5 புதிய மாவட்ட அலுவலகங்கள் திறப்பு (₹175.05 லட்சம்)"
+        }
+      ],
+      "icon": "🏦",
+      "sources": [
+        {
+          "title": "TN Minorities Welfare Department",
+          "url": "https://www.tn.gov.in/department/30",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "muslim-girls-aid-society",
+      "name": {
+        "en": "Muslim Girls & Christian Women Aid Societies",
+        "ta": "முஸ்லிம் மகளிர் மற்றும் கிறிஸ்தவ மகளிர் உதவி சங்கங்கள்"
+      },
+      "launchDate": "2007 (MWAS established by TN Govt)",
+      "description": {
+        "en": "Welfare societies providing assistance for education, marriage, medical emergencies, and economic development for Muslim and Christian women.",
+        "ta": "முஸ்லிம் மற்றும் கிறிஸ்தவ பெண்களுக்கு கல்வி, திருமணம், மருத்துவ அவசரநிலை மற்றும் பொருளாதார மேம்பாட்டுக்கான உதவி வழங்கும் நல சங்கங்கள்."
+      },
+      "beneficiaries": {
+        "count": "38,188 (2021-2026)",
+        "description": {
+          "en": "Women benefiting from welfare assistance",
+          "ta": "நல உதவி பெறும் பெண்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹43.09 crore",
+        "year": "2021-2026",
+        "details": "Muslim Girls: ₹29.57 crore, Christian Women: ₹13.52 crore"
+      },
+      "highlights": [
+        {
+          "en": "10 new Muslim Girls Aid Society offices opened",
+          "ta": "10 புதிய முஸ்லிம் மகளிர் உதவி சங்க அலுவலகங்கள் திறப்பு"
+        },
+        {
+          "en": "5 new Christian Women Aid Society offices opened",
+          "ta": "5 புதிய கிறிஸ்தவ மகளிர் உதவி சங்க அலுவலகங்கள் திறப்பு"
+        },
+        {
+          "en": "Marriage assistance increased to ₹3,000 (men) / ₹5,000 (women)",
+          "ta": "திருமண உதவி ₹3,000 (ஆண்கள்) / ₹5,000 (பெண்கள்) ஆக உயர்வு"
+        }
+      ],
+      "icon": "👩‍👧",
+      "sources": [
+        {
+          "title": "TN Minorities Welfare Department",
+          "url": "https://www.tn.gov.in/department/30",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "srilankan-tamil-refugee-welfare",
+      "name": {
+        "en": "Sri Lankan Tamil Refugee Welfare Scheme",
+        "ta": "இலங்கைத் தமிழ் அகதிகள் நலத் திட்டம்"
+      },
+      "launchDate": "2007 (TN Welfare of Sri Lankan Refugees scheme)",
+      "description": {
+        "en": "Comprehensive welfare support for Sri Lankan Tamil refugees in 105 camps including monthly allowance, free rations, education assistance, and housing support.",
+        "ta": "105 முகாம்களில் உள்ள இலங்கைத் தமிழ் அகதிகளுக்கு மாதாந்திர உதவித்தொகை, இலவச ரேஷன், கல்வி உதவி மற்றும் வீட்டு வசதி உள்ளிட்ட விரிவான நல உதவி."
+      },
+      "beneficiaries": {
+        "count": "89,611 refugees",
+        "description": {
+          "en": "56,923 in camps + 32,688 outside camps",
+          "ta": "56,923 முகாம்களில் + 32,688 முகாம்களுக்கு வெளியே"
+        }
+      },
+      "budget": {
+        "amount": "₹361.75 crore",
+        "year": "2021-2026",
+        "details": "Monthly allowance + rations + education + housing"
+      },
+      "highlights": [
+        {
+          "en": "Monthly allowance: ₹1,500 (head), ₹1,000 (12+ years), ₹500 (children)",
+          "ta": "மாதாந்திர உதவி: ₹1,500 (தலைவர்), ₹1,000 (12+ வயது), ₹500 (குழந்தைகள்)"
+        },
+        {
+          "en": "10,469 new houses sanctioned (₹629.72 crore)",
+          "ta": "10,469 புதிய வீடுகள் அனுமதி (₹629.72 கோடி)"
+        },
+        {
+          "en": "Education scholarship for 2,002 students (₹4.02 crore)",
+          "ta": "2,002 மாணவர்களுக்கு கல்வி உதவித்தொகை (₹4.02 கோடி)"
+        }
+      ],
+      "icon": "🏠",
+      "sources": [
+        {
+          "title": "TN Rehabilitation Department",
+          "url": "https://www.tn.gov.in/department/30",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "bc-economic-development-corporation",
+      "name": {
+        "en": "TN BC Economic Development Corporation",
+        "ta": "தமிழ்நாடு பிற்படுத்தப்பட்டோர் பொருளாதார மேம்பாட்டுக் கழகம்"
+      },
+      "launchDate": "November 16, 1981 (incorporated), operational 1982",
+      "description": {
+        "en": "Economic development corporation providing low-interest loans and subsidies for BC, MBC, and DNC communities to start businesses and improve livelihoods.",
+        "ta": "பிற்படுத்தப்பட்டோர், மிகவும் பிற்படுத்தப்பட்டோர் மற்றும் நலிவுற்ற வகுப்பினருக்கு வணிகம் தொடங்கவும் வாழ்வாதாரத்தை மேம்படுத்தவும் குறைந்த வட்டிக் கடன்கள் மற்றும் மானியங்கள் வழங்கும் கழகம்."
+      },
+      "beneficiaries": {
+        "count": "69,391 (2021-2026)",
+        "description": {
+          "en": "Loans disbursed to BC/MBC/DNC communities",
+          "ta": "பிற்படுத்தப்பட்டோர்/மிகவும் பிற்படுத்தப்பட்டோர்/நலிவுற்றோருக்கு கடன்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹496.48 crore",
+        "year": "2021-2026",
+        "details": "Total loans disbursed over 5 years"
+      },
+      "highlights": [
+        {
+          "en": "4,000 three-wheelers distributed (₹240 crore subsidy)",
+          "ta": "4,000 மூன்று சக்கர வாகனங்கள் விநியோகம் (₹240 கோடி மானியம்)"
+        },
+        {
+          "en": "Free house site pattas for 1,557 beneficiaries",
+          "ta": "1,557 பயனாளிகளுக்கு இலவச வீட்டு மனை பட்டா"
+        },
+        {
+          "en": "Modern laundries scheme for washermen cooperatives",
+          "ta": "சலவைத் தொழிலாளர் கூட்டுறவுகளுக்கு நவீன சலவையகம் திட்டம்"
+        }
+      ],
+      "icon": "🏭",
+      "sources": [
+        {
+          "title": "TN BC/MBC Welfare Department",
+          "url": "https://bcmbcmw.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "bc-hostels-education",
+      "name": {
+        "en": "BC Hostels & Education Support Scheme",
+        "ta": "பிற்படுத்தப்பட்டோர் விடுதிகள் மற்றும் கல்வி உதவித் திட்டம்"
+      },
+      "launchDate": "May 7, 2012 (Free Education Scheme)",
+      "description": {
+        "en": "Network of 275 school and college hostels with modern facilities, providing free education support including food allowance, study materials, and skill training for BC students.",
+        "ta": "நவீன வசதிகளுடன் 275 பள்ளி மற்றும் கல்லூரி விடுதிகள், பிற்படுத்தப்பட்ட மாணவர்களுக்கு உணவு உதவி, படிப்புப் பொருட்கள் மற்றும் திறன் பயிற்சி உள்ளிட்ட இலவச கல்வி உதவி."
+      },
+      "beneficiaries": {
+        "count": "11,43,776 students (2024-2025)",
+        "description": {
+          "en": "Students receiving education scholarship and hostel facilities",
+          "ta": "கல்வி உதவித்தொகை மற்றும் விடுதி வசதிகள் பெறும் மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹1,150.19 crore",
+        "year": "2021-2026",
+        "details": "Education scholarship + hostel maintenance"
+      },
+      "highlights": [
+        {
+          "en": "275 hostels with E-Library facilities (₹220 lakh)",
+          "ta": "275 விடுதிகளில் மின்-நூலக வசதிகள் (₹220 லட்சம்)"
+        },
+        {
+          "en": "Food allowance increased: ₹1,400 (school) / ₹1,500 (college)",
+          "ta": "உணவு உதவி உயர்வு: ₹1,400 (பள்ளி) / ₹1,500 (கல்லூரி)"
+        },
+        {
+          "en": "19 new school hostels upgraded to college hostels",
+          "ta": "19 புதிய பள்ளி விடுதிகள் கல்லூரி விடுதிகளாக தரமுயர்வு"
+        }
+      ],
+      "icon": "🏫",
+      "sources": [
+        {
+          "title": "TN BC/MBC Welfare Department",
+          "url": "https://bcmbcmw.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "medical-reservation-7.5-percent",
+      "name": {
+        "en": "7.5% Medical Reservation Support Scheme",
+        "ta": "7.5% மருத்துவ இட ஒதுக்கீடு உதவித் திட்டம்"
+      },
+      "launchDate": "September 15, 2020",
+      "description": {
+        "en": "Full tuition fee and hostel fee support for BC/MBC/DNC students admitted under 7.5% horizontal reservation for government school students in medical and para-medical courses.",
+        "ta": "அரசு பள்ளி மாணவர்களுக்கான 7.5% கிடைமட்ட இட ஒதுக்கீட்டின் கீழ் மருத்துவ மற்றும் துணை மருத்துவப் படிப்புகளில் சேரும் பிற்படுத்தப்பட்ட மாணவர்களுக்கு முழு கல்விக் கட்டணம் மற்றும் விடுதிக் கட்டண உதவி."
+      },
+      "beneficiaries": {
+        "count": "4,984 students (2021-2026)",
+        "description": {
+          "en": "Government school students in medical/para-medical courses",
+          "ta": "மருத்துவ/துணை மருத்துவப் படிப்புகளில் அரசு பள்ளி மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹142.41 crore",
+        "year": "2021-2026",
+        "details": "Tuition fees transferred to Directorate of Medical Education"
+      },
+      "highlights": [
+        {
+          "en": "₹56.40 crore for 1,472 students (2025-2026)",
+          "ta": "1,472 மாணவர்களுக்கு ₹56.40 கோடி (2025-2026)"
+        },
+        {
+          "en": "Covers MBBS, BDS, and para-medical courses",
+          "ta": "MBBS, BDS மற்றும் துணை மருத்துவப் படிப்புகளை உள்ளடக்கியது"
+        },
+        {
+          "en": "Full fee support including hostel accommodation",
+          "ta": "விடுதித் தங்குமிடம் உள்ளிட்ட முழு கட்டண உதவி"
+        }
+      ],
+      "icon": "⚕️",
+      "sources": [
+        {
+          "title": "TN Directorate of Medical Education",
+          "url": "https://www.tnmedicalselection.org/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "narikuravar-welfare",
+      "name": {
+        "en": "Narikuravar (Gypsies) Welfare Board Scheme",
+        "ta": "நரிக்குறவர் நல வாரியத் திட்டம்"
+      },
+      "launchDate": "March 20, 2008 (Budget announcement), May 2008 (Board constituted)",
+      "description": {
+        "en": "Welfare support for Narikuravar community including marriage assistance, death assistance, education support, and retirement pension through a dedicated welfare board.",
+        "ta": "நரிக்குறவர் சமூகத்திற்கு திருமண உதவி, மரண உதவி, கல்வி உதவி மற்றும் ஓய்வூதியம் உள்ளிட்ட நல உதவிகள் அர்ப்பணிக்கப்பட்ட நல வாரியம் மூலம்."
+      },
+      "beneficiaries": {
+        "count": "5,071 (2021-2026)",
+        "description": {
+          "en": "Narikuravar community members receiving welfare assistance",
+          "ta": "நல உதவி பெறும் நரிக்குறவர் சமூக உறுப்பினர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹2.61 crore",
+        "year": "2021-2026",
+        "details": "Welfare assistance through Narikuravar Welfare Board"
+      },
+      "highlights": [
+        {
+          "en": "Natural death assistance: ₹30,000 (increased from ₹20,000)",
+          "ta": "இயற்கை மரண உதவி: ₹30,000 (₹20,000-இலிருந்து உயர்வு)"
+        },
+        {
+          "en": "Accidental death assistance: ₹1.25 lakh (increased from ₹1 lakh)",
+          "ta": "விபத்து மரண உதவி: ₹1.25 லட்சம் (₹1 லட்சத்திலிருந்து உயர்வு)"
+        },
+        {
+          "en": "Old age pension: ₹1,200/month (increased from ₹1,000)",
+          "ta": "முதியோர் ஓய்வூதியம்: ₹1,200/மாதம் (₹1,000-இலிருந்து உயர்வு)"
+        }
+      ],
+      "icon": "🎪",
+      "sources": [
+        {
+          "title": "TN BC/MBC Welfare Department",
+          "url": "https://bcmbcmw.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "adi-dravidar-sub-plan",
+      "name": {
+        "en": "Adi Dravidar Sub-Plan (SCSP)",
+        "ta": "ஆதிதிராவிடர் துணைத் திட்டம் (SCSP)"
+      },
+      "launchDate": "1980-81 (SCSP implemented in TN)",
+      "description": {
+        "en": "Comprehensive development plan with 22% of state budget allocated for SC community welfare including education, economic development, infrastructure, and housing.",
+        "ta": "SC சமூக நலனுக்காக கல்வி, பொருளாதார மேம்பாடு, உள்கட்டமைப்பு மற்றும் வீட்டு வசதி உள்ளிட்ட மாநில பட்ஜெட்டின் 22% ஒதுக்கீடு கொண்ட விரிவான மேம்பாட்டுத் திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "8,05,772+ students & families",
+        "description": {
+          "en": "SC community benefiting from education, housing, and economic support",
+          "ta": "கல்வி, வீட்டு வசதி மற்றும் பொருளாதார உதவி பெறும் SC சமூகம்"
+        }
+      },
+      "budget": {
+        "amount": "₹87,664.84 crore",
+        "year": "2021-2025",
+        "details": "22% of state budget allocation"
+      },
+      "highlights": [
+        {
+          "en": "₹6,604.17 crore education scholarships disbursed",
+          "ta": "₹6,604.17 கோடி கல்வி உதவித்தொகை வழங்கப்பட்டது"
+        },
+        {
+          "en": "3,09,707 free house site pattas distributed",
+          "ta": "3,09,707 இலவச வீட்டு மனை பட்டா விநியோகம்"
+        },
+        {
+          "en": "Class 12 pass rate improved: 82% to 91.85%",
+          "ta": "12-ஆம் வகுப்பு தேர்ச்சி விகிதம் மேம்பாடு: 82% முதல் 91.85%"
+        }
+      ],
+      "icon": "📊",
+      "sources": [
+        {
+          "title": "TN Adi Dravidar Welfare Department",
+          "url": "https://adwelfare.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "anna-ambedkar-foreign-scholarship",
+      "name": {
+        "en": "Anna Ambedkar Foreign Higher Education Scholarship",
+        "ta": "அண்ணா அம்பேத்கர் அயலக உயர்கல்வி உதவித்தொகை"
+      },
+      "description": {
+        "en": "Scholarship for SC/ST students to pursue Master's and PhD programs at prestigious international universities including Oxford, Cambridge, Cornell, and Edinburgh.",
+        "ta": "ஆக்ஸ்போர்டு, கேம்பிரிட்ஜ், கார்னெல், எடின்பரோ உள்ளிட்ட பிரபல சர்வதேச பல்கலைக்கழகங்களில் முதுகலை மற்றும் முனைவர் பட்டப் படிப்புகளுக்கான SC/ST மாணவர்களுக்கான உதவித்தொகை."
+      },
+      "beneficiaries": {
+        "count": "385 students (2021-2026)",
+        "description": {
+          "en": "Students at Oxford, Cornell, Edinburgh, Cambridge, etc.",
+          "ta": "ஆக்ஸ்போர்டு, கார்னெல், எடின்பரோ, கேம்பிரிட்ஜ் முதலியவற்றில் மாணவர்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹162.54 crore",
+        "year": "2021-2026",
+        "details": "Up to ₹80 lakh per student for tuition and living expenses"
+      },
+      "highlights": [
+        {
+          "en": "Family income limit raised to ₹8 lakh",
+          "ta": "குடும்ப வருமான வரம்பு ₹8 லட்சமாக உயர்வு"
+        },
+        {
+          "en": "213 students benefited in 2025-2026 (₹84.87 crore)",
+          "ta": "2025-2026-இல் 213 மாணவர்கள் பயன் (₹84.87 கோடி)"
+        },
+        {
+          "en": "Students studying at top 100 global universities",
+          "ta": "உலகின் முதல் 100 பல்கலைக்கழகங்களில் மாணவர்கள்"
+        }
+      ],
+      "icon": "🌍",
+      "sources": [
+        {
+          "title": "TN Adi Dravidar Welfare Department",
+          "url": "https://adwelfare.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "cm-arise-scheme",
+      "name": {
+        "en": "CM-ARISE Economic Development Scheme",
+        "ta": "முதலமைச்சர் ARISE பொருளாதார மேம்பாட்டுத் திட்டம்"
+      },
+      "launchDate": "December 2023",
+      "description": {
+        "en": "Chief Minister's economic empowerment scheme providing 35% project cost as grant (up to ₹3.50 lakh) plus 6% interest subsidy for SC/ST entrepreneurs.",
+        "ta": "SC/ST தொழில் முனைவோருக்கு 35% திட்ட செலவு மானியமாக (₹3.50 லட்சம் வரை) மற்றும் 6% வட்டி மானியம் வழங்கும் முதலமைச்சர் பொருளாதார வலுவூட்டல் திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "4,688 entrepreneurs",
+        "description": {
+          "en": "SC/ST entrepreneurs starting new businesses",
+          "ta": "புதிய வணிகங்கள் தொடங்கும் SC/ST தொழில் முனைவோர்"
+        }
+      },
+      "budget": {
+        "amount": "₹89.74 crore",
+        "year": "2021-2026",
+        "details": "35% capital subsidy + 6% interest subsidy"
+      },
+      "highlights": [
+        {
+          "en": "35% project cost as grant (up to ₹3.50 lakh)",
+          "ta": "35% திட்ட செலவு மானியமாக (₹3.50 லட்சம் வரை)"
+        },
+        {
+          "en": "6% interest subsidy for timely loan repayers",
+          "ta": "சரியான நேரத்தில் கடன் திருப்பி செலுத்துவோருக்கு 6% வட்டி மானியம்"
+        },
+        {
+          "en": "Comprehensive business mentoring support",
+          "ta": "விரிவான வணிக வழிகாட்டுதல் ஆதரவு"
+        }
+      ],
+      "icon": "💼",
+      "sources": [
+        {
+          "title": "TN Adi Dravidar Welfare Department",
+          "url": "https://adwelfare.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "ayothee-thass-habitation-development",
+      "name": {
+        "en": "Ayothee Thass Habitation Development Scheme",
+        "ta": "அயோத்திதாச் குடியிருப்பு மேம்பாட்டுத் திட்டம்"
+      },
+      "launchDate": "March 20, 2023 (Budget 2023-24)",
+      "description": {
+        "en": "Infrastructure development scheme for SC habitations providing roads, drainage, street lights, community halls, and Anganwadi centres with ₹200 crore annual allocation.",
+        "ta": "SC குடியிருப்புகளுக்கு சாலைகள், வடிகால், தெரு விளக்குகள், சமுதாய கூடங்கள் மற்றும் அங்கன்வாடி மையங்கள் வழங்கும் உள்கட்டமைப்பு மேம்பாட்டுத் திட்டம், ஆண்டுக்கு ₹200 கோடி ஒதுக்கீடு."
+      },
+      "beneficiaries": {
+        "count": "8,535 infrastructure projects",
+        "description": {
+          "en": "SC habitations with improved infrastructure",
+          "ta": "மேம்படுத்தப்பட்ட உள்கட்டமைப்புடன் SC குடியிருப்புகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹1,000 crore",
+        "year": "2023-2028",
+        "details": "₹200 crore/year for 5 years"
+      },
+      "highlights": [
+        {
+          "en": "120 Village Knowledge Centres constructed (₹117.27 crore)",
+          "ta": "120 கிராம அறிவு மையங்கள் கட்டப்பட்டது (₹117.27 கோடி)"
+        },
+        {
+          "en": "52 Anganwadi centres built (₹40 crore)",
+          "ta": "52 அங்கன்வாடி மையங்கள் கட்டப்பட்டது (₹40 கோடி)"
+        },
+        {
+          "en": "Roads, drainage, and street lights in SC habitations",
+          "ta": "SC குடியிருப்புகளில் சாலைகள், வடிகால் மற்றும் தெரு விளக்குகள்"
+        }
+      ],
+      "icon": "🏘️",
+      "sources": [
+        {
+          "title": "TN Adi Dravidar Welfare Department",
+          "url": "https://adwelfare.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "tribal-sub-plan",
+      "name": {
+        "en": "Tribal Sub-Plan (TSP)",
+        "ta": "பழங்குடியினர் துணைத் திட்டம் (TSP)"
+      },
+      "launchDate": "1974-79 (Fifth Five Year Plan)",
+      "description": {
+        "en": "Comprehensive development plan with 2% of state budget for tribal community welfare including education, healthcare, housing, and livelihood support.",
+        "ta": "பழங்குடியின சமூக நலனுக்காக கல்வி, சுகாதாரம், வீட்டு வசதி மற்றும் வாழ்வாதார ஆதரவு உள்ளிட்ட மாநில பட்ஜெட்டின் 2% ஒதுக்கீடு கொண்ட விரிவான மேம்பாட்டுத் திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "14,598 (livelihood support)",
+        "description": {
+          "en": "Tribal communities across 8 hill districts",
+          "ta": "8 மலை மாவட்டங்களில் பழங்குடி சமூகங்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹8,078.67 crore",
+        "year": "2021-2025",
+        "details": "2% of state budget allocation"
+      },
+      "highlights": [
+        {
+          "en": "7,255 houses under construction (₹315.44 crore)",
+          "ta": "7,255 வீடுகள் கட்டுமானத்தில் (₹315.44 கோடி)"
+        },
+        {
+          "en": "Class 12 pass rate improved: 84.55% to 95.5%",
+          "ta": "12-ஆம் வகுப்பு தேர்ச்சி விகிதம் மேம்பாடு: 84.55% முதல் 95.5%"
+        },
+        {
+          "en": "₹254.31 crore for comprehensive livelihood development",
+          "ta": "விரிவான வாழ்வாதார மேம்பாட்டுக்கு ₹254.31 கோடி"
+        }
+      ],
+      "icon": "🌲",
+      "sources": [
+        {
+          "title": "TN Adi Dravidar Welfare Department",
+          "url": "https://adwelfare.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "nallavazvu-land-ownership",
+      "name": {
+        "en": "Nallavazvu Women Land Ownership Scheme",
+        "ta": "நல்வாழ்வு மகளிர் நில உரிமைத் திட்டம்"
+      },
+      "description": {
+        "en": "Scheme to provide land ownership to SC/ST women agricultural laborers, elevating their social and economic status through asset ownership.",
+        "ta": "SC/ST பெண் விவசாய தொழிலாளர்களுக்கு நில உரிமை வழங்கி, சொத்து உரிமை மூலம் அவர்களின் சமூக மற்றும் பொருளாதார நிலையை உயர்த்தும் திட்டம்."
+      },
+      "beneficiaries": {
+        "count": "1,042 women",
+        "description": {
+          "en": "SC/ST women becoming landowners",
+          "ta": "நில உரிமையாளர்களாகும் SC/ST பெண்கள்"
+        }
+      },
+      "budget": {
+        "amount": "₹49.35 crore",
+        "year": "2021-2026",
+        "details": "Land purchase subsidy for women"
+      },
+      "highlights": [
+        {
+          "en": "408 women benefited in 2024-2025 (₹20 crore)",
+          "ta": "2024-2025-இல் 408 பெண்கள் பயன் (₹20 கோடி)"
+        },
+        {
+          "en": "Transforming agricultural laborers to landowners",
+          "ta": "விவசாய தொழிலாளர்களை நில உரிமையாளர்களாக மாற்றுதல்"
+        },
+        {
+          "en": "Social and economic empowerment through ownership",
+          "ta": "உரிமை மூலம் சமூக மற்றும் பொருளாதார வலுவூட்டல்"
+        }
+      ],
+      "icon": "👩‍🌾",
+      "sources": [
+        {
+          "title": "TN Adi Dravidar Welfare Department",
+          "url": "https://adwelfare.tn.gov.in/",
+          "type": "government"
+        }
+      ]
     }
   ],
   "welfareStats": {
@@ -1830,6 +2810,21 @@
     "vidiyalSubsidy": "₹3,600 crore",
     "pongalBeneficiaries": "2.14 crore",
     "farmLoanWaiver": "₹12,110 crore",
-    "farmersHelped": 1643000
+    "farmersHelped": 1643000,
+    "breakfastBeneficiaries": "19.34 lakh",
+    "breakfastBeneficiariesNum": 1934000,
+    "pudhumaiPennBeneficiaries": "6.92 lakh",
+    "tamilPudhalvanBeneficiaries": "5.40 lakh",
+    "midDayMealBeneficiaries": "40.82 lakh",
+    "scspBudget": "₹87,664.84 crore",
+    "scspBudgetPercent": 22,
+    "tspBudget": "₹8,078.67 crore",
+    "tspBudgetPercent": 2,
+    "hajjPilgrims": 5757,
+    "sriLankanRefugees": 89611,
+    "bcLoanBeneficiaries": 69391,
+    "minorityLoanBeneficiaries": 37399,
+    "foreignScholarshipStudents": 385,
+    "cmAriseEntrepreneurs": 4688
   }
 }
