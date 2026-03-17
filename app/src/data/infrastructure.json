@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "generated": "2026-02-18",
-  "totalProjects": 196,
-  "checksum": "9e4e25e314eb91ec1df8c10e0c8682d5c107c1fde57d7ddd8fca4c24e871414c",
+  "totalProjects": 225,
+  "checksum": "ccf8d92cd3bab9269027f7fa3906115db943df5ea0a1f35346e64a9352f3dfef",
   "projects": [
     {
       "id": "CMRL-P2-C3",
@@ -9001,6 +9001,1113 @@
       ],
       "notes": "3 km long, 11.9 m wide two-lane flyover; From Sardar Patel Road–Velachery Main Road junction to Guru Nanak College; Approach roads at Five Furlong Road and Velachery Main Road; Includes approach bridges, service roads and footpaths on both sides",
       "subType": "Roads & Bridges"
+    },
+    {
+      "id": "athikadavu-avinashi-scheme",
+      "name": {
+        "en": "Athikadavu-Avinashi Irrigation Scheme",
+        "ta": "அத்திக்கடவு-அவிநாசி நீர்ப்பாசனத் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (Coimbatore, Erode, Tirupur)",
+        "city": "Tirupur",
+        "coordinates": {
+          "latitude": 11.1085,
+          "longitude": 77.3411
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Completed",
+      "budget": {
+        "crore": 1916.417,
+        "notes": "Central and State funded irrigation project"
+      },
+      "timeline": {
+        "startYear": 2019,
+        "completionYear": 2024,
+        "completionNotes": "Inaugurated by CM Stalin on 17.08.2024"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Major irrigation infrastructure covering 1,045 tanks",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Irrigation for 24,488 acres; 1.5 TMC surplus water from Kalingarayan Dam through pipelines to 32 WRD tanks, 42 Panchayat tanks, 971 ponds in Coimbatore, Tirupur, Erode districts; 2,841.36 million cubic feet water supplied as of March 2025",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "thamaraparani-karumaniyar-nambiyar-link",
+      "name": {
+        "en": "Thamaraparani-Karumaniyar-Nambiyar River Linking Project",
+        "ta": "தாமிரபரணி-கருமேனியார்-நம்பியார் நதி இணைப்புத் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (Tirunelveli, Thoothukudi)",
+        "city": "Tirunelveli",
+        "coordinates": {
+          "latitude": 8.7139,
+          "longitude": 77.7567
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Completed",
+      "budget": {
+        "crore": 1060.76,
+        "notes": "River linking project for drought mitigation"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated by CM Stalin on 07.02.2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "River interlinking for irrigation expansion",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Irrigation benefit to 56,933 acres in Tirunelveli and Thoothukudi districts; Transfers 3,200 cubic feet flood surplus water from Thamaraparani to drought-prone areas; Benefits Thusayanvillai and Santhankulam regions",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "cauvery-sub-basin-modernization",
+      "name": {
+        "en": "Cauvery Sub-basin Irrigation Modernization (ERM)",
+        "ta": "காவிரி உபவடிநிலப் பாசன நவீனமயமாக்கல் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (Thanjavur, Nagapattinam, Pudukkottai, Mayiladuthurai, Tiruvarur)",
+        "city": "Thanjavur",
+        "coordinates": {
+          "latitude": 10.7870,
+          "longitude": 79.1378
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 3607,
+        "notes": "Central assistance for canal modernization"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "33 packages being implemented"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Canal and irrigation system modernization",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Benefits 4,67,345 acres of irrigation land across 5 districts; Includes rehabilitation and modernization of Cauvery sub-basin infrastructure; 33 project packages completed",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "kallanai-canal-modernization",
+      "name": {
+        "en": "Kallanai Canal System Modernization",
+        "ta": "கல்லணை கால்வாய் அமைப்பு நவீனமயமாக்கல்"
+      },
+      "location": {
+        "district": "Multiple (Thanjavur, Pudukkottai)",
+        "city": "Thanjavur",
+        "coordinates": {
+          "latitude": 10.8337,
+          "longitude": 78.8207
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 2639.15,
+        "notes": "State funds for historic canal modernization"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "16 packages approved, first phase Rs.1082.31 crore completed"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Modernization of ancient Kallanai irrigation system",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Benefits 2,27,472 acres in Thanjavur and Pudukkottai districts; First phase: 5 packages Rs.1082.31 crore, Second phase: 6 packages Rs.447 crore with 85% completion",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "kumarapalayam-irrigation-scheme",
+      "name": {
+        "en": "Kumarapalayam Irrigation Modernization Scheme",
+        "ta": "குமாரபாளையம் பாசன நவீனமயமாக்கல் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (Erode, Karur, Tirupur)",
+        "city": "Erode",
+        "coordinates": {
+          "latitude": 11.4500,
+          "longitude": 77.8800
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 935.17,
+        "notes": "Central government assistance"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "6 packages completed"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Large-scale irrigation modernization",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Benefits 2,47,247 acres of irrigation land in Erode, Karur, and Tirupur districts; 6 project packages completed",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "sarabanga-link-canal",
+      "name": {
+        "en": "Mettur-Sarabanga Link Canal Project",
+        "ta": "மேட்டூர்-சரபங்கா இணைப்புக் கால்வாய் திட்டம்"
+      },
+      "location": {
+        "district": "Salem",
+        "city": "Sarabanga",
+        "coordinates": {
+          "latitude": 11.6500,
+          "longitude": 78.1500
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Completed",
+      "budget": {
+        "crore": 673.88,
+        "notes": "Pipeline irrigation from Mettur Dam surplus"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2025,
+        "completionNotes": "Operational, supplying water to 61 tanks"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Link canal from Mettur Dam to drought-prone tanks",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Benefits 4,238 acres; 61 tanks receiving water in 2025-26 with 3,400.62 acres benefited; Transfers monsoon surplus from Mettur Dam to drought-prone areas in Salem district",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "kollidam-new-barrage",
+      "name": {
+        "en": "Kollidam River New Barrage Project",
+        "ta": "கொள்ளிடம் ஆறு புதிய தடுப்பணைத் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (Cuddalore, Mayiladuthurai)",
+        "city": "Mayiladuthurai",
+        "coordinates": {
+          "latitude": 11.1000,
+          "longitude": 79.6500
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Completed",
+      "budget": {
+        "crore": 465.4262,
+        "notes": "New barrage construction between Aadhi and Kumaramangalam"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2025,
+        "completionNotes": "Construction completed"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "New barrage on Kollidam River",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Irrigation benefits to 27,045 acres in Cuddalore and Mayiladuthurai districts; Prevents sea water intrusion; Connects both banks for transport; Enhances agricultural produce movement",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "tniamp-irrigation-modernization",
+      "name": {
+        "en": "Tamil Nadu Irrigated Agriculture Modernization Project (TNIAMP)",
+        "ta": "தமிழ்நாடு பாசன வேளாண்மை நவீனமயமாக்கல் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (47 Sub-basins statewide)",
+        "city": "Various",
+        "coordinates": {
+          "latitude": 11.1271,
+          "longitude": 78.6569
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 3267.85,
+        "notes": "World Bank assisted project (60% Central, 40% State)"
+      },
+      "timeline": {
+        "startYear": 2018,
+        "completionYear": null,
+        "completionNotes": "7-year implementation period"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Comprehensive irrigation modernization across Tamil Nadu",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Benefits 4.69 lakh hectares irrigation area in 47 sub-basins; Rs.2,006.25 crore for WRD component covering 2,626 tanks and 353 anicuts; Phases I-IV completed totaling Rs.1,948.49 crore; Won Central Water Board award for integrated water resource management",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "mettur-check-dams-program",
+      "name": {
+        "en": "Mettur Dam Check Dams Construction Program",
+        "ta": "மேட்டூர் அணை தடுப்பணைகள் கட்டுமானத் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (Cauvery Delta)",
+        "city": "Mettur",
+        "coordinates": {
+          "latitude": 11.7928,
+          "longitude": 77.8019
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 1018.82,
+        "notes": "121 check dams program for water recharge"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "85 completed, 36 in progress as of 2025"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Network of check dams for groundwater recharge",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "2021-2026 program: 121 check dams at Rs.1,018.82 crore; 85 check dams completed; 36 in progress; Water opened to Cauvery Delta irrigation on 12.06.2021; Dam storage reached 93.470 TMC",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "cauvery-delta-channel-repairs",
+      "name": {
+        "en": "Cauvery Delta Canal Repair and Desilting Program",
+        "ta": "காவிரி டெல்டா கால்வாய் பழுதுபார்ப்பு மற்றும் தூர்வாரும் திட்டம்"
+      },
+      "location": {
+        "district": "Multiple (12 Cauvery Delta districts)",
+        "city": "Various",
+        "coordinates": {
+          "latitude": 10.7867,
+          "longitude": 79.1378
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 459.11,
+        "notes": "Annual maintenance and desilting program"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "Ongoing seasonal maintenance"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Canal maintenance in Cauvery Delta",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Covers Trichy, Karur, Ariyalur, Perambalur, Thanjavur, Tiruvarur, Nagapattinam, Mayiladuthurai, Pudukkottai, Salem, Namakkal, Erode, and Cuddalore districts; 24,833.66 km length; 3,914 repair works completed to date",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "world-tamil-conference-complex-madurai",
+      "name": {
+        "en": "World Tamil Conference Complex & Kalaignar Centenary Library",
+        "ta": "உலக தமிழ் மாநாட்டு வளாகம் மற்றும் கலைஞர் நூற்றாண்டு நூலகம்"
+      },
+      "location": {
+        "district": "Madurai",
+        "city": "Madurai",
+        "coordinates": {
+          "latitude": 9.9252,
+          "longitude": 78.1198
+        }
+      },
+      "type": "Other",
+      "status": "Completed",
+      "budget": {
+        "crore": 120.75,
+        "notes": "Public Works Department project"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": 2025,
+        "completionNotes": "Building construction completed and in public use"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "World Tamil Conference venue with Kalaignar Centenary Library",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "High-rise building at World Tamil Conference Complex; Includes Kalaignar Centenary Library for public use",
+      "subType": "Museums & Culture"
+    },
+    {
+      "id": "chennai-bridges-program-17",
+      "name": {
+        "en": "Chennai Urban Bridges Program (17 New Bridges)",
+        "ta": "சென்னை நகர்ப்புற பாலங்கள் திட்டம் (17 புதிய பாலங்கள்)"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Roads/Highways",
+      "status": "Completed",
+      "budget": {
+        "crore": 499.72,
+        "notes": "Greater Chennai Corporation infrastructure program"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2025,
+        "completionNotes": "17 bridges completed across Chennai metropolitan area"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "New urban bridges including elevated corridors and railway overbridges",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "17 new bridges including: Kolathur ROB at NS1 Railway junction; Skywalk from Mambalam to Thyagaraya Nagar station; Sengai Suvar bridge on Pancha Salai; Okkiyam ROB extension; Box bridge at Pillaiyar Kovil-Alandur; Pedestrian bridge at Nungambakkam-Chintadripet; Various grade separators across Chennai",
+      "subType": "Roads & Bridges"
+    },
+    {
+      "id": "chennai-stormwater-drains-program",
+      "name": {
+        "en": "Chennai Metropolitan Stormwater Drainage System",
+        "ta": "சென்னை பெருநகர மழைநீர் வடிகால் அமைப்பு"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 6495,
+        "notes": "Greater Chennai Corporation flood mitigation program"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "1,076 km of 1,422.28 km completed"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Comprehensive stormwater drainage infrastructure across Chennai",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Total planned: 1,422.28 km new stormwater drains; Rs 4,309.30 crore worth 1,076 km completed; Covers all 15 zones of Greater Chennai Corporation; Part of comprehensive flood mitigation strategy",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "chennai-urban-roads-program",
+      "name": {
+        "en": "Chennai Urban Roads Development Program",
+        "ta": "சென்னை நகர்ப்புற சாலைகள் மேம்பாட்டுத் திட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Roads/Highways",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 2359.73,
+        "notes": "Greater Chennai Corporation road development"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "3,455.44 km completed; 196.71 km ongoing"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Urban road development and internal roads across Chennai",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "19,849 roads and internal roads developed totaling 3,455.44 km; 1,315 road works (196.71 km) currently under construction",
+      "subType": "Roads & Bridges"
+    },
+    {
+      "id": "victoria-park-chennai-renovation",
+      "name": {
+        "en": "Victoria Public Hall Heritage Renovation",
+        "ta": "விக்டோரியா பொது அரங்கு பாரம்பரிய புனரமைப்பு"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0700,
+          "longitude": 80.2700
+        }
+      },
+      "type": "Other",
+      "status": "Completed",
+      "budget": {
+        "crore": 32.62,
+        "notes": "Heritage conservation under Singara Chennai 2.0"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": 2025,
+        "completionNotes": "Heritage restoration completed preserving original architecture"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "135-year-old heritage building restored under Singara Chennai 2.0",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "135-year-old heritage building; Originally built by Tamilnadu's own Sir Permai Chetty; Restored preserving architectural heritage without altering original design",
+      "subType": "Urban Development"
+    },
+    {
+      "id": "covid-oxygen-infrastructure-statewide",
+      "name": {
+        "en": "COVID-19 Oxygen Infrastructure (14,683 Beds)",
+        "ta": "கோவிட்-19 ஆக்ஸிஜன் உள்கட்டமைப்பு (14,683 படுக்கைகள்)"
+      },
+      "location": {
+        "district": "Multiple (Statewide)",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Education/Health",
+      "status": "Completed",
+      "budget": {
+        "crore": 152.50,
+        "notes": "Emergency pandemic infrastructure by PWD"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2021,
+        "completionNotes": "Rapid deployment during COVID-19 second wave"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Oxygen infrastructure at government hospitals across Tamil Nadu",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "14,683 oxygen-connected beds created across all district headquarters hospitals, district main hospitals, and primary health centers; Built by Public Works Department during COVID-19 second wave response",
+      "subType": "Healthcare"
+    },
+    {
+      "id": "covid-emergency-ventilators-program",
+      "name": {
+        "en": "COVID Emergency Treatment Infrastructure (2,096 Ventilators)",
+        "ta": "கோவிட் அவசர சிகிச்சை உள்கட்டமைப்பு (2,096 வென்டிலேட்டர்கள்)"
+      },
+      "location": {
+        "district": "Multiple (Statewide)",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Education/Health",
+      "status": "Completed",
+      "budget": {
+        "crore": 60.784,
+        "notes": "Emergency pandemic equipment deployment"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2021,
+        "completionNotes": "Emergency deployment at 203 hospitals statewide"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Ventilator infrastructure at government hospitals",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "2,096 high-speed ventilators with oxygen supply installed at 50 government hospitals, 37 district headquarters hospitals, and 116 district sub-hospitals; Built by Public Works Department",
+      "subType": "Healthcare"
+    },
+    {
+      "id": "iti-modernization-71-locations",
+      "name": {
+        "en": "ITI Modernization Program (71 Locations)",
+        "ta": "அரசு தொழிற்பயிற்சி நிறுவனங்கள் நவீனமயமாக்கல் (71 இடங்கள்)"
+      },
+      "location": {
+        "district": "Multiple (Statewide)",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Education/Health",
+      "status": "Completed",
+      "budget": {
+        "crore": 280.25,
+        "notes": "Industry 4.0 standard modernization"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2025,
+        "completionNotes": "All 71 ITIs upgraded to Industry 4.0 standards"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Modernized ITI facilities with Industry 4.0 infrastructure",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "71 Government ITI institutions upgraded to Industry 4.0 standards; Rs 264.83 crore for 69 ITI building constructions; Rs 3.90 crore for 58 ITIs helipad/floor coating; Equipment and infrastructure modernization across all locations",
+      "subType": "Urban Development"
+    },
+    {
+      "id": "keeladi-archaeological-museum",
+      "name": {
+        "en": "Keeladi Archaeological Museum",
+        "ta": "கீழடி தொல்லியல் அருங்காட்சியகம்"
+      },
+      "location": {
+        "district": "Madurai",
+        "city": "Keeladi",
+        "coordinates": {
+          "latitude": 9.8780,
+          "longitude": 78.1650
+        }
+      },
+      "type": "Other",
+      "status": "Completed",
+      "budget": {
+        "crore": 18.42,
+        "notes": "Public Works Department project"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": 2025,
+        "completionNotes": "Inaugurated by CM M.K. Stalin"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Archaeological museum housing Keeladi excavation artifacts",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Located at Madurai district, Thiruppuvanam taluk, Kontagai village; Houses artifacts from Keeladi excavations demonstrating Sangam-era Tamil civilization; Purpose-built museum complex for preservation and public display",
+      "subType": "Urban Development"
+    },
+    {
+      "id": "unity-mall-chennai",
+      "name": {
+        "en": "Unity Mall Chennai",
+        "ta": "யூனிட்டி மால் சென்னை"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0500,
+          "longitude": 80.2500
+        }
+      },
+      "type": "Other",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 227,
+        "notes": "E.P. Road complex development"
+      },
+      "timeline": {
+        "startYear": 2023,
+        "completionYear": null,
+        "completionNotes": "Construction in progress"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Unity Mall development at E.P. Road, Chennai",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Located at E.P. Road, Godown area, Chennai; Major commercial and retail complex under construction",
+      "subType": "Urban Development"
+    },
+    {
+      "id": "anna-centenary-library-renovation",
+      "name": {
+        "en": "Anna Centenary Library Renovation",
+        "ta": "அண்ணா நூற்றாண்டு நூலகம் புனரமைப்பு"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Kotturpuram",
+        "coordinates": {
+          "latitude": 13.0106,
+          "longitude": 80.2433
+        }
+      },
+      "type": "Other",
+      "status": "Completed",
+      "budget": {
+        "crore": 37.82,
+        "notes": "Public Works Department renovation project"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": 2025,
+        "completionNotes": "All sections renovated and in public use"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Renovated Anna Centenary Library at Kotturpuram",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Complete renovation of all sections of Asia's largest library; Located at Kotturpuram, Chennai; Modernized facilities for public use",
+      "subType": "Urban Development"
+    },
+    {
+      "id": "chennai-cancer-research-hospital",
+      "name": {
+        "en": "Chennai Cancer Research Hospital (Guindy)",
+        "ta": "சென்னை புற்றுநோய் ஆராய்ச்சி மருத்துவமனை (கிண்டி)"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Guindy",
+        "coordinates": {
+          "latitude": 13.0067,
+          "longitude": 80.2206
+        }
+      },
+      "type": "Education/Health",
+      "status": "Completed",
+      "budget": {
+        "crore": 240.53,
+        "notes": "Advanced cancer treatment facility"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": 2025,
+        "completionNotes": "Building construction completed and in public use"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Cancer Research Institute at Guindy complex",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Located at Guindy Cancer Research Institute complex; Advanced treatment hospital building constructed by Public Works Department",
+      "subType": "Healthcare"
+    },
+    {
+      "id": "tn-veterinary-hospitals-88",
+      "name": {
+        "en": "Tamil Nadu Veterinary Hospital Buildings (88 New)",
+        "ta": "தமிழ்நாடு கால்நடை மருத்துவமனை கட்டடங்கள் (88 புதியவை)"
+      },
+      "location": {
+        "district": "Multiple (Statewide)",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Education/Health",
+      "status": "Completed",
+      "budget": {
+        "crore": 57.46,
+        "notes": "RIDF-XXVII funded infrastructure"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2025,
+        "completionNotes": "88 new veterinary hospital buildings completed"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "New veterinary hospital infrastructure across Tamil Nadu",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "88 new veterinary hospital buildings under Tamil Nadu Muzhuvathum Nabard RIDF-XXVII program; Infrastructure for improved animal healthcare across the state",
+      "subType": "Healthcare"
+    },
+    {
+      "id": "11-new-medical-colleges-buildings",
+      "name": {
+        "en": "11 New Government Medical College Buildings",
+        "ta": "11 புதிய அரசு மருத்துவக் கல்லூரி கட்டடங்கள்"
+      },
+      "location": {
+        "district": "Multiple (11 Districts)",
+        "city": "Various",
+        "coordinates": {
+          "latitude": 11.1271,
+          "longitude": 78.6569
+        }
+      },
+      "type": "Education/Health",
+      "status": "Completed",
+      "budget": {
+        "crore": 4191,
+        "notes": "New medical college infrastructure across Tamil Nadu"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": 2025,
+        "completionNotes": "Buildings completed and in public use"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "New government medical college buildings across 11 districts",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "11 new government medical college buildings in: Dindigul, Ramanathapuram, Virudhunagar, Namakkal, Karur, Nagapattinam, Tirupur, Tiruvallur, Ariyalur, Nilgiris, and Kallakurichi districts; All buildings completed and in use for public health services",
+      "subType": "Healthcare"
+    },
+    {
+      "id": "perungudi-waste-bioremediation",
+      "name": {
+        "en": "Perungudi Dumpyard Bio-remediation Project",
+        "ta": "பெருங்குடி குப்பைக் கழிவு உயிர்ச்சீரமைப்பு திட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Perungudi",
+        "coordinates": {
+          "latitude": 12.9571,
+          "longitude": 80.2424
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 350.65,
+        "notes": "SBM funded legacy waste remediation"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": null,
+        "completionNotes": "97% completed; 28.46 lakh cubic meters processed"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Bio-mining operations at Perungudi dumpyard",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Total 29.28 lakh cubic meters legacy waste being processed; 28.46 lakh cubic meters (97%) bio-mined to date; Packages 3, 4 and 5 at 100% completion; Part of Swachh Bharat Mission",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "kodungaiyur-waste-bioremediation",
+      "name": {
+        "en": "Kodungaiyur Dumpyard Bio-remediation Project",
+        "ta": "கொடுங்கையூர் குப்பைக் கழிவு உயிர்ச்சீரமைப்பு திட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Kodungaiyur",
+        "coordinates": {
+          "latitude": 13.1378,
+          "longitude": 80.2574
+        }
+      },
+      "type": "Water/Sanitation",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 648.38,
+        "notes": "Legacy waste removal through bio-mining"
+      },
+      "timeline": {
+        "startYear": 2022,
+        "completionYear": null,
+        "completionNotes": "21.26 lakh metric tons processed to date"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Bio-mining operations at Kodungaiyur dumpyard",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "Legacy waste accumulated over many years being processed through bio-mining; 21,26,055 metric tons removed to date; Work divided into 6 packages",
+      "subType": "Water & Sanitation"
+    },
+    {
+      "id": "chennai-565-parks-program",
+      "name": {
+        "en": "Chennai 565 Parks Development Program",
+        "ta": "சென்னை 565 பூங்காக்கள் மேம்பாட்டு திட்டம்"
+      },
+      "location": {
+        "district": "Chennai",
+        "city": "Chennai",
+        "coordinates": {
+          "latitude": 13.0827,
+          "longitude": 80.2707
+        }
+      },
+      "type": "Other",
+      "status": "Ongoing",
+      "budget": {
+        "crore": 154.45,
+        "notes": "Singara Chennai and capital fund projects"
+      },
+      "timeline": {
+        "startYear": 2021,
+        "completionYear": null,
+        "completionNotes": "248 parks completed; 161 ongoing; 141 to be commissioned"
+      },
+      "media": {
+        "photoUrl": null,
+        "photoCaption": "Urban parks and green spaces across Chennai",
+        "cmPhotoCompletion": null,
+        "cmPhotoInitiation": null
+      },
+      "sources": [
+        {
+          "title": "DMK 5 Years Report Card 2026",
+          "url": "https://dmk.in/5years",
+          "type": "government"
+        }
+      ],
+      "notes": "565 parks planned across Chennai; 248 completed, 161 under construction, 141 to be commissioned; Includes 32 water body parks (Rs 15.83 crore) with 8 fountains",
+      "subType": "Urban Development"
     }
   ]
 }
