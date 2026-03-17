@@ -2603,6 +2603,226 @@
       "notes": "India's first sector-specific private space tech accelerator. Mentored by Nambi Narayanan.",
       "year": 2024,
       "source": "https://yourstory.com/vaanam-spacetech-accelerator"
+    },
+    {
+      "id": "kalaignar-handloom-park-arur",
+      "name": {
+        "en": "Kalaignar Karunanidhi Centenary Handloom Park",
+        "ta": "டாக்டர் கலைஞர் கருணாநிதி நூற்றாண்டு நினைவு கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Arur",
+      "district": "Kancheepuram",
+      "coordinates": { "lat": 12.4833, "lng": 79.9667 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 23.81,
+      "jobsCreated": 5000,
+      "notes": "Centenary memorial handloom park. Weaver training, entrepreneurship programs. 300 youth (159 non-weaver background) trained in 2023-24.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-orukai",
+      "name": {
+        "en": "Handloom Park Orukai",
+        "ta": "ஓருகை கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Orukai",
+      "district": "Coimbatore",
+      "coordinates": { "lat": 11.0833, "lng": 77.0167 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total) to boost employment and preserve traditional weaving.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-chinnalapattu",
+      "name": {
+        "en": "Handloom Park Chinnalapattu",
+        "ta": "சின்னாளபட்டி கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Chinnalapattu",
+      "district": "Salem",
+      "coordinates": { "lat": 11.6167, "lng": 78.0500 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total). Salem silk saree weaving hub.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-emaneswaram",
+      "name": {
+        "en": "Handloom Park Emaneswaram",
+        "ta": "எமனேஸ்வரம் கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Emaneswaram",
+      "district": "Tiruppur",
+      "coordinates": { "lat": 11.1075, "lng": 77.3398 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total). Tiruppur textile cluster.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-jeyakondanoor",
+      "name": {
+        "en": "Handloom Park Jeya Kondanoor",
+        "ta": "ஜெய கொண்டனூர் கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Jeya Kondanoor",
+      "district": "Erode",
+      "coordinates": { "lat": 11.3410, "lng": 77.7172 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total). Erode handloom tradition.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-paramakudi",
+      "name": {
+        "en": "Handloom Park Paramakudi",
+        "ta": "பரமக்குடி கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Paramakudi",
+      "district": "Ramanathapuram",
+      "coordinates": { "lat": 9.5500, "lng": 78.5833 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total). Southern Tamil Nadu handloom hub.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-perumbal",
+      "name": {
+        "en": "Handloom Park Perumbal",
+        "ta": "பெரும்பல் கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Perumbal",
+      "district": "Kancheepuram",
+      "coordinates": { "lat": 12.8167, "lng": 79.8667 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total). Kanchipuram silk weaving area.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-tiruchengode",
+      "name": {
+        "en": "Handloom Park Tiruchengode",
+        "ta": "திருச்செங்கோடு கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Tiruchengode",
+      "district": "Namakkal",
+      "coordinates": { "lat": 11.3833, "lng": 77.8833 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total). Traditional weaving center.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "handloom-park-kovilpatti",
+      "name": {
+        "en": "Handloom Park Kovilpatti",
+        "ta": "கோவில்பட்டி கைத்தறி பூங்கா"
+      },
+      "company": "Tamil Nadu Handloom Department",
+      "location": "Kovilpatti",
+      "district": "Thoothukudi",
+      "coordinates": { "lat": 9.1667, "lng": 77.8667 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "under_construction",
+      "investmentCrore": 2,
+      "notes": "Part of 10 handloom parks (₹20 Cr total). Match industry and textile town.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 650)"
+    },
+    {
+      "id": "cooptex-kanchipuram-sales",
+      "name": {
+        "en": "Co-optex Handloom Sales Complex",
+        "ta": "கோ-ஆப்டெக்ஸ் கைத்தறி விற்பனை வளாகம்"
+      },
+      "company": "Co-optex (Tamil Nadu Handloom Weavers Cooperative)",
+      "location": "Kanchipuram",
+      "district": "Kancheepuram",
+      "coordinates": { "lat": 12.8342, "lng": 79.7036 },
+      "sector": ["Textiles", "Handloom", "Retail"],
+      "status": "operational",
+      "investmentCrore": 3,
+      "notes": "New sales complex for Kanchipuram silk handlooms. Direct weaver-to-consumer sales.",
+      "year": 2025,
+      "source": "DMK 5 Years Achievement Report (Page 649)"
+    },
+    {
+      "id": "cooptex-thanjavur-facility",
+      "name": {
+        "en": "Co-optex Thanjavur Weaver Facility",
+        "ta": "கோ-ஆப்டெக்ஸ் தஞ்சாவூர் நெசவாளர் கூடம்"
+      },
+      "company": "Co-optex",
+      "location": "Thanjavur",
+      "district": "Thanjavur",
+      "coordinates": { "lat": 10.7870, "lng": 79.1378 },
+      "sector": ["Textiles", "Handloom"],
+      "status": "operational",
+      "investmentCrore": 0.58,
+      "notes": "Handloom weaver training and production facility. Thanjavur cotton sarees.",
+      "year": 2024,
+      "source": "DMK 5 Years Achievement Report (Page 649)"
+    },
+    {
+      "id": "cooptex-hoi-kovilpatti",
+      "name": {
+        "en": "House of India Handloom Showroom",
+        "ta": "ஹவுஸ் ஆஃப் இந்தியா கைத்தறி விற்பனை நிலையம்"
+      },
+      "company": "Co-optex",
+      "location": "Kovilpatti Golden Anumal Salai",
+      "district": "Thoothukudi",
+      "coordinates": { "lat": 9.1667, "lng": 77.8667 },
+      "sector": ["Textiles", "Handloom", "Retail"],
+      "status": "operational",
+      "notes": "House of India branded showroom for all-India handloom products. Inaugurated by Deputy CM Dec 2024.",
+      "year": 2024,
+      "source": "DMK 5 Years Achievement Report (Page 661)"
+    },
+    {
+      "id": "cooptex-privilege-card",
+      "name": {
+        "en": "Co-optex Privilege Card Program",
+        "ta": "கோ-ஆப்டெக்ஸ் சிறப்பு அட்டை திட்டம்"
+      },
+      "company": "Co-optex",
+      "location": "Statewide",
+      "district": "Multiple",
+      "coordinates": { "lat": 11.1271, "lng": 78.6569 },
+      "sector": ["Textiles", "Handloom", "Digital"],
+      "status": "operational",
+      "notes": "Digital customer loyalty program. Mobile app integration for handloom purchases.",
+      "year": 2024,
+      "source": "DMK 5 Years Achievement Report (Page 661)"
     }
   ],
   "industriesSummary": {
