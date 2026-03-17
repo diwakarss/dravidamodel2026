@@ -941,6 +941,105 @@
       ]
     },
     {
+      "id": "tamil-literary-awards",
+      "name": {
+        "en": "Tamil Literary Awards Program",
+        "ta": "தமிழ் இலக்கிய விருதுகள் திட்டம்"
+      },
+      "description": {
+        "en": "Comprehensive literary awards program recognizing excellence in Tamil literature, with awards given to scholars, writers, and literary contributors across multiple categories.",
+        "ta": "தமிழ் இலக்கியத்தில் சிறந்து விளங்குவோருக்கான விருதுகள் திட்டம் - அறிஞர்கள், எழுத்தாளர்கள், இலக்கிய பங்களிப்பாளர்களுக்கு பல பிரிவுகளில் விருதுகள்."
+      },
+      "launchDate": "2021-2026",
+      "beneficiaries": {
+        "count": "257 scholars",
+        "description": {
+          "en": "Literary awards given to 257 Tamil scholars and writers",
+          "ta": "257 தமிழ் அறிஞர்கள் மற்றும் எழுத்தாளர்களுக்கு இலக்கிய விருதுகள்"
+        }
+      },
+      "budget": {
+        "amount": "₹4.87 crore",
+        "details": "5-year total for literary awards (2021-2026)"
+      },
+      "highlights": [
+        {
+          "en": "257 literary awards distributed over 5 years",
+          "ta": "5 ஆண்டுகளில் 257 இலக்கிய விருதுகள் வழங்கப்பட்டன"
+        },
+        {
+          "en": "₹4.87 crore invested in literary recognition",
+          "ta": "இலக்கிய அங்கீகாரத்தில் ₹4.87 கோடி முதலீடு"
+        },
+        {
+          "en": "Supports Tamil literary ecosystem growth",
+          "ta": "தமிழ் இலக்கிய சூழலின் வளர்ச்சியை ஆதரிக்கிறது"
+        }
+      ],
+      "icon": "📜",
+      "sources": [
+        {
+          "title": "DMK 5 Years Achievement Report",
+          "url": "https://dmk.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
+      "id": "temple-renovation-kumbabishekam",
+      "name": {
+        "en": "Temple Renovation & Kumbabishekam Program",
+        "ta": "கோயில் புனரமைப்பு & கும்பாபிஷேகம் திட்டம்"
+      },
+      "description": {
+        "en": "Massive temple renovation and Kumbabishekam (consecration ceremony) program covering 12,803 temples across Tamil Nadu with ₹8,057 crore investment, including 28,229 renovation works and 3,956 Kumbabishekam festivals.",
+        "ta": "தமிழ்நாடு முழுவதும் 12,803 கோயில்களில் ₹8,057 கோடி முதலீட்டில் பெரிய கோயில் புனரமைப்பு மற்றும் கும்பாபிஷேக திட்டம் - 28,229 புனரமைப்பு பணிகள், 3,956 கும்பாபிஷேக விழாக்கள்."
+      },
+      "launchDate": "2021-2026",
+      "beneficiaries": {
+        "count": "12,803 temples",
+        "description": {
+          "en": "Temples renovated across Tamil Nadu under HR&CE Department",
+          "ta": "இந்து சமய அறநிலையத்துறை கீழ் தமிழ்நாடு முழுவதும் கோயில்கள் புனரமைக்கப்பட்டன"
+        }
+      },
+      "budget": {
+        "amount": "₹8,057 crore",
+        "details": "Temple renovation and consecration ceremonies (2021-2026)"
+      },
+      "highlights": [
+        {
+          "en": "28,229 renovation works completed across 12,803 temples",
+          "ta": "12,803 கோயில்களில் 28,229 புனரமைப்பு பணிகள் நிறைவு"
+        },
+        {
+          "en": "3,956 Kumbabishekam ceremonies conducted",
+          "ta": "3,956 கும்பாபிஷேக விழாக்கள் நடத்தப்பட்டன"
+        },
+        {
+          "en": "Daily Annadhanam at 764 temples serving 3.5 crore devotees",
+          "ta": "764 கோயில்களில் தினசரி அன்னதானம், 3.5 கோடி பக்தர்களுக்கு"
+        },
+        {
+          "en": "UNESCO Heritage Award for Dharasuram Temple renovation",
+          "ta": "தாரசுரம் கோயில் புனரமைப்புக்கு UNESCO பாரம்பரிய விருது"
+        }
+      ],
+      "icon": "🛕",
+      "sources": [
+        {
+          "title": "DMK 5 Years Achievement Report",
+          "url": "https://dmk.in/",
+          "type": "government"
+        },
+        {
+          "title": "HR&CE Department",
+          "url": "https://www.hrce.tn.gov.in/",
+          "type": "government"
+        }
+      ]
+    },
+    {
       "id": "gangaikonda-cholapuram-museum",
       "name": {
         "en": "Gangaikonda Cholapuram Museum",
@@ -979,6 +1078,11 @@
     "artifactsDiscovered": "18,000+",
     "museumsUpgraded": 10,
     "budgetIncrease": "3x since 2021",
-    "oldestFinding": "3,200 years (Iron Age)"
+    "oldestFinding": "3,200 years (Iron Age)",
+    "literaryAwardsGiven": 257,
+    "literaryAwardsBudget": 48700000,
+    "templeRenovations": 28229,
+    "templeRenovationBudget": 805700000000,
+    "kumbabishekamConducted": 3956
   }
 }
