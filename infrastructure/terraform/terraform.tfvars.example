@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and fill in real values.
+# NEVER commit terraform.tfvars — it is gitignored.
+
+hcaptcha_secret            = "YOUR_HCAPTCHA_SECRET_KEY"
+feedback_email_destination = "your-email@example.com"
+feedback_email_source      = "noreply@yourdomain.com"
+domain_name                = "yourdomain.com"
+aws_region                 = "us-east-1"
