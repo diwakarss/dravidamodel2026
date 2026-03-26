@@ -65,7 +65,7 @@ resource "aws_lambda_function" "feedback" {
   function_name    = "${var.project_name}-feedback"
   role             = aws_iam_role.backend.arn
   handler          = "index.handler"
-  runtime          = "nodejs18.x" # Node 18 includes AWS SDK v3, but user code uses v2 (bundled in node_modules)
+  runtime          = "nodejs22.x"
   source_code_hash = data.archive_file.backend.output_base64sha256
   timeout          = 10
 
