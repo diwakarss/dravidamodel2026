@@ -11,6 +11,7 @@
 *.tfstate
 *.tfstate.backup
 *.tfplan
+*.tfvars
 tfplan
 backend.zip
 
