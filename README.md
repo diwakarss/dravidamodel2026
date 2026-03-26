@@ -6,18 +6,20 @@ A transparent, bilingual (English/Tamil) showcase tracking Tamil Nadu's developm
 
 ## What's Tracked
 
-### Infrastructure Projects (150+)
-Transport, healthcare, education, water, power - each with budget, timeline, location, and verified sources.
+### Infrastructure Projects (225)
+Roads, water, urban development, public transport, education/health facilities, industrial parks, cultural heritage, sports, housing, ports, and power - each with budget, timeline, location, and verified sources.
 
-### Government Schemes
-- **Agriculture** - Free electricity, Uzhavar Sandhai, crop insurance, micro irrigation
-- **Education** - Naan Mudhalvan, breakfast scheme, free laptops, library upgrades
-- **Healthcare** - Makkalai Thedi Maruthuvam, insurance expansion, medical colleges
-- **Employment** - Job fairs, MSME support, skill development, industrial MoUs
-- **Welfare** - Kalaignar Magalir Urimai Thogai, social security pensions
+### Government Schemes (245+)
+- **Healthcare (55)** - CMCHIS, Makkalai Thedi Maruthuvam, HPV vaccination, 108 ambulance, new medical colleges
+- **Social Welfare (52)** - Kalaignar Magalir Urimai Thogai, TAPS pensions, Vidiyal Payanam, Pongal gifts, housing
+- **Education (33)** - Illam Thedi Kalvi, Pudhumai Penn, breakfast scheme, free laptops, Naan Mudhalvan
+- **Agriculture (29)** - Free electricity, Uzhavar Sandhai, crop insurance, micro irrigation, organic farming
+- **Environment (28)** - Electric buses, EV policy, 20GW renewable target, solar rooftop, green hydrogen
+- **Sports & Culture (27)** - FIDE Chess Olympiad, Formula Racing Night, state academies, stadium infrastructure
+- **Employment (21)** - Naan Mudhalvan, StartupTN, job fairs, MSME support, skill development
 
-### Industrial Investments (70+)
-Foxconn, Hyundai, Tata Electronics, TIDEL Neo parks, data centers, footwear clusters - with investment amounts, job creation, and source links.
+### Industrial Investments (149 parks across 8 sectors)
+Electronics, automobile & EV, textiles, footwear, renewable energy, pharma & biotech, IT & data centers, semiconductors - with investment amounts, job creation, and source links.
 
 ## Features
 
@@ -28,7 +30,7 @@ Foxconn, Hyundai, Tata Electronics, TIDEL Neo parks, data centers, footwear clus
 
 ## Tech Stack
 
-- **Framework:** Next.js 15 (Static Export)
+- **Framework:** Next.js 16 (Static Export)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Maps:** Leaflet with custom markers
@@ -56,15 +58,16 @@ app/                    # Next.js application
 │   └── messages/      # i18n translations (en.json, ta.json)
 ├── public/            # Static assets, images
 └── docs/              # Security documentation
-data/                  # Project JSON data (source of truth)
+data/                  # Raw data and PDF extractions
 scripts/               # Build and deployment scripts
+infrastructure/        # Terraform (AWS S3, CloudFront, Lambda)
 ```
 
 ## Data
 
-Project data is maintained in `data/projects/` as individual JSON files with:
+Project data is maintained in `app/src/data/` as JSON files covering infrastructure, industries, agriculture, education, healthcare, employment, social welfare, environment, and sports & culture. Each entry includes:
 - Project details (name, description, budget, timeline)
-- Location with coordinates
+- Location with coordinates (where applicable)
 - Verified sources (government portals, news articles)
 - Status tracking (completed, ongoing, planned)
 
