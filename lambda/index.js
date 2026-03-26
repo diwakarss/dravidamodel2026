@@ -1,4 +1,5 @@
 const https = require('https');
+const { SESClient, SendEmailCommand } = require('@aws-sdk/client-ses');
 
 // Helper to verify hCaptcha token
 async function verifyHCaptcha(token, secret) {
@@ -40,9 +41,9 @@ async function verifyHCaptcha(token, secret) {
     });
 }
 
-// Helper to send email via SES
+// Helper to send email via SES (SDK v3)
 async function sendEmail(ses, params) {
-    return ses.sendEmail(params).promise();
+    return ses.send(new SendEmailCommand(params));
 }
 
 // Helper to sanitize input
@@ -194,8 +195,7 @@ exports.handler = async (event) => {
     const sanitizedEmail = email ? sanitize(email) : 'Not provided';
 
     // Send email via SES
-    const AWS = require('aws-sdk');
-    const ses = new AWS.SES({ region: process.env.AWS_REGION || 'us-east-1' });
+    const ses = new SESClient({ region: process.env.AWS_REGION || 'us-east-1' });
 
     const fromEmail = process.env.SES_FROM_EMAIL || 'noreply@b2sell.com';
     const toEmail = process.env.FEEDBACK_TO_EMAIL || 'nalan19ai@gmail.com';
@@ -207,22 +207,24 @@ exports.handler = async (event) => {
         },
         Message: {
             Subject: {
-                Data: `[DravidaModel2026] New Feedback`,
+                Data: '[DravidaModel2026] New Feedback',
                 Charset: 'UTF-8',
             },
             Body: {
                 Text: {
-                    Data: `New feedback received from DravidaModel2026 site:
-
-Message:
-${sanitizedMessage}
-
-Email: ${sanitizedEmail}
-IP: ${clientIp}
-Time: ${new Date().toISOString()}
-
----
-This is an automated message from NalaN Feedback System.`,
+                    Data: [
+                        'New feedback received from DravidaModel2026 site:',
+                        '',
+                        'Message:',
+                        sanitizedMessage,
+                        '',
+                        `Email: ${sanitizedEmail}`,
+                        `IP: ${clientIp}`,
+                        `Time: ${new Date().toISOString()}`,
+                        '',
+                        '---',
+                        'This is an automated message from NalaN Feedback System.',
+                    ].join('\n'),
                     Charset: 'UTF-8',
                 },
             },
